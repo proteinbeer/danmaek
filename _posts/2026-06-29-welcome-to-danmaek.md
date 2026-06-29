@@ -1,11 +1,11 @@
 ---
-layout: post
 title: "단맥에 오신 것을 환영합니다"
 date: 2026-06-29 10:00:00 +0900
-categories: korean
+categories:
+  - korean
+tags:
+  - welcome
 ---
-
-# 단맥에 오신 것을 환영합니다
 
 안녕하세요, **단맥 (Danmaek)** 에 오신 것을 환영합니다.
 
