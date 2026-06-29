@@ -2,6 +2,8 @@
 layout: archive
 title: "🇺🇸 English"
 permalink: /english/
+header:
+  image: /assets/images/dmpen.png
 ---
 
 {% assign posts = site.categories.english %}
