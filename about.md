@@ -55,8 +55,7 @@ document.getElementById('contactForm').addEventListener('submit', async function
   try {
     var r = await fetch(this.action, { method: 'POST', body: new FormData(this), headers: { Accept: 'application/json' } });
     if (r.ok) { this.reset(); sent.style.display = 'block'; setTimeout(function() { sent.style.display = 'none'; }, 3000); }
-    else { alert('Error sending message. Please try again.'); }
-  } catch(e) { alert('Network error. Please try again.'); }
+  } catch(e) {}
   btn.disabled = false; btn.textContent = 'Send Message';
   fields.forEach(function(f) { f.disabled = false; });
 });
