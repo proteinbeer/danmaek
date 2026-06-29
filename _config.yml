@@ -48,6 +48,8 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
+google_site_verification: "A4nFf24Qp22HoqhIdaDgC0vwzYcfEnY0NwvZSYud0hg"
+
 compress_html:
   clippings: all
   ignore:
