@@ -7,15 +7,8 @@
   {%- assign site_title = site.title -%}
 {%- endif -%}
 
-{%- assign page_title = page.title | default: site_title | replace: '|', '&#124;' -%}
-{%- if page_title contains site_title -%}
-  {%- assign seo_title = page_title | replace: '|', '&#124;' -%}
-{%- else -%}
-  {%- assign seo_title = page_title | append: " " | append: title_separator | append: " " | append: site_title | replace: '|', '&#124;' -%}
-{%- endif -%}
-
-{%- assign page_title = page_title | markdownify | strip_html | strip_newlines | escape_once -%}
-{%- assign seo_title  = seo_title  | markdownify | strip_html | strip_newlines | escape_once -%}
+{%- assign page_title = page.title | default: site_title | replace: '|', '&#124;' | markdownify | strip_html | strip_newlines | escape_once -%}
+{%- assign seo_title = site_title | escape_once | strip -%}
 
 {%- assign canonical_url = page.canonical_url | default: page.url | replace: "/index.html", "/" | absolute_url %}
 
