@@ -10,7 +10,6 @@ permalink: /about/
 
 한국과 영미권의 주요 소식을 각각의 언어로 전달합니다.
 
-문의: proteinbeer@gmail.com
 
 ---
 
@@ -33,6 +32,6 @@ We use Google AdSense, which uses cookies to serve ads based on your previous vi
 You can disable cookies in your browser settings. You can also opt out of Google Analytics by installing the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout).
 
 ### Contact
-If you have any questions, contact us at: proteinbeer@gmail.com
+If you have any questions, open an issue on [GitHub](https://github.com/proteinbeer/danmaek).
 
 *Last updated: June 29, 2026*
