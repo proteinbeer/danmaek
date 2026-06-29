@@ -1,11 +1,11 @@
 ---
-layout: post
 title: "Welcome to Danmaek"
 date: 2026-06-29 10:00:00 +0900
-categories: english
+categories:
+  - english
+tags:
+  - welcome
 ---
-
-# Welcome to Danmaek
 
 Welcome to **Danmaek** — your bilingual news hub for Korean and English content.
 
