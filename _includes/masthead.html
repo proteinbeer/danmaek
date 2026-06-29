@@ -1,5 +1,6 @@
 {% assign locale = include.locale | default: site.locale %}
 
+{%- assign page_url = page.url | remove: "/index.html" | append: "/" -%}
 {%- if page.categories contains "english" or page.url contains "/english/" -%}
   {%- assign logo_path = "/assets/images/dmpen.png" -%}
 {%- else -%}
@@ -10,7 +11,9 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
+        {% unless page.url == "/about/" or page.url == "/about/index.html" %}
         <a class="site-logo" href="{{ '/' | relative_url }}"><img src="{{ logo_path | relative_url }}" alt="{{ site.title }}" style="max-height: 50px;"></a>
+        {% endunless %}
         <ul class="visible-links">
           {%- for link in site.data.navigation.main -%}
             <li class="masthead__menu-item">
