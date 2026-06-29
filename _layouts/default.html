@@ -1,5 +1,6 @@
+{% assign is_english = page.categories contains "english" or page.url contains "/english/" %}
 <!DOCTYPE html>
-<html lang="ko">
+<html lang="{% if is_english %}en{% else %}ko{% endif %}">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -18,6 +19,13 @@
         <a href="{{ site.baseurl }}/korean/">한국어</a>
         <a href="{{ site.baseurl }}/english/">English</a>
       </nav>
+    </div>
+    <div class="banner">
+      {% if is_english %}
+        <img src="{{ site.baseurl }}/assets/css/dmpen.png" alt="Danmaek English">
+      {% else %}
+        <img src="{{ site.baseurl }}/assets/css/dmp.png" alt="단맥">
+      {% endif %}
     </div>
   </header>
   <main class="container">
