@@ -1,0 +1,21 @@
+---
+layout: default
+title: Home
+---
+<section>
+  <h1>단맥 (Danmaek)</h1>
+  <p>단백질처럼 쏙쏙 들어오는 뉴스 — 한국 & 영미권 이야기</p>
+  <p>한국 뉴스와 영미권 뉴스를 한눈에 비교하고 싶은 분들을 위한 블로그입니다.</p>
+</section>
+
+<section style="margin-top: 2rem;">
+  <h2>최근 글</h2>
+  {% assign recent = site.posts | limit: 10 %}
+  {% for post in recent %}
+  <div class="post">
+    <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+    <p class="meta">{{ post.date | date: "%Y-%m-%d" }} · {% if post.categories contains "korean" %}🇰🇷 한국어{% else %}🇺🇸 English{% endif %}</p>
+    <p>{{ post.excerpt | strip_html | truncate: 150 }}</p>
+  </div>
+  {% endfor %}
+</section>

@@ -1,0 +1,22 @@
+title: 단맥 (Danmaek)
+description: 단백질처럼 쏙쏙 들어오는 뉴스 — 한국 & 영미권 이야기
+baseurl: "/danmaek"
+url: "https://proteinbeer.github.io"
+lang: ko
+permalink: /:categories/:year/:month/:day/:title/
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+  - scope:
+      path: "index.html"
+    values:
+      layout: default
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+exclude:
+  - CNAME
+  - README.md
