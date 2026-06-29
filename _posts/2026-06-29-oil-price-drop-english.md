@@ -2,6 +2,7 @@
 layout: single
 title: "International Oil Prices Drop to Pre-War Levels, Korea Cuts Gasoline Ceiling Price"
 categories: english
+description: "International oil prices drop to pre-war levels. South Korea cuts gasoline ceiling price by 150 won. Analysis and outlook."
 tags:
   - economy
   - oil

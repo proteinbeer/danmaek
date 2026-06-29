@@ -2,6 +2,7 @@
 layout: single
 title: "베네수엘라 강진, 사망자 1,400명 넘어…구조 작업 계속"
 categories: korean
+description: "베네수엘라 연쇄 강진으로 사망자 1,400명 넘어. 구조 현황과 국제 사회 지원 내용 정리."
 tags:
   - 국제
   - 재난

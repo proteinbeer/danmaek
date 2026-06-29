@@ -8,6 +8,7 @@ description: "한국 & 영미권 이야기"
 url: "https://danmaek.com"
 baseurl: ""
 repository: "proteinbeer/danmaek"
+permalink: /:categories/:title/
 masthead_title: " "
 
 twitter:
@@ -43,6 +44,7 @@ exclude:
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
   - jekyll-feed
   - jekyll-include-cache
 
