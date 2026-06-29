@@ -2,6 +2,7 @@
 layout: single
 title: "국제유가, 전쟁 이전 수준으로 하락…석유 최고가격 150원 인하"
 categories: korean
+description: "국제유가가 전쟁 이전 수준으로 하락하며 정부가 석유 최고가격을 150원 인하했다. 국내 기름값 전망과 분석."
 tags:
   - 경제
   - 유가

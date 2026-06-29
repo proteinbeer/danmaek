@@ -2,6 +2,7 @@
 layout: single
 title: "삼성·SK, 호남 반도체 클러스터에 2000조 투자…'대도약 메가프로젝트' 발표"
 categories: korean
+description: "삼성전자와 SK하이닉스가 호남권 반도체 클러스터에 2000조원 투자를 발표. 논란과 전망."
 tags:
   - 경제
   - 반도체
