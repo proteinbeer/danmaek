@@ -10,8 +10,6 @@ tags:
   - Security
   - Korean Peninsula
   - Navy
-header:
-  image: https://picsum.photos/seed/submarine/1200/600
 ---
 
 North Korea has publicly revealed its construction of an 8,700-ton nuclear-powered strategic guided missile submarine, marking a significant escalation in the Korean peninsula's military competition. Leader Kim Jong Un personally inspected the construction site.

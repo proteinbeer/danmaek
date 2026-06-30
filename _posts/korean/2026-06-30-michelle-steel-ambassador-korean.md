@@ -10,8 +10,6 @@ tags:
   - 주한미국대사
   - 한국
   - 트럼프
-header:
-  image: https://picsum.photos/seed/flag-usa/1200/600
 ---
 
 미국 상원이 6월 17일 미셸 스틸(Michelle Steel) 전 연방하원의원(공화당)을 주한 미국대사로 인준했다. 표결 결과는 55대 39로 찬성표가 우세했다.

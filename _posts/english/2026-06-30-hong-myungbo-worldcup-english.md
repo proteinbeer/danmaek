@@ -10,8 +10,6 @@ tags:
   - korea
   - hongmyungbo
   - 2026worldcup
-header:
-  image: https://picsum.photos/seed/soccer-stadium/1200/600
 ---
 
 South Korea's national football team was eliminated in the group stage of the 2026 FIFA World Cup, finishing 34th overall. Head coach Hong Myung-bo resigned, taking responsibility for the failure.

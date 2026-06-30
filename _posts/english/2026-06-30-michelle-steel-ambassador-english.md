@@ -10,8 +10,6 @@ tags:
   - US Ambassador
   - Korea
   - Trump
-header:
-  image: https://picsum.photos/seed/flag-usa/1200/600
 ---
 
 The US Senate confirmed former California Congresswoman Michelle Steel as the new US Ambassador to South Korea on June 17, with a 55-39 vote.
