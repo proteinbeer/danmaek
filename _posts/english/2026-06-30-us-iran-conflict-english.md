@@ -10,8 +10,6 @@ tags:
   - Middle East
   - Hormuz
   - Oil
-header:
-  image: https://picsum.photos/seed/oil-tanker/1200/600
 ---
 
 The US and Iran have resumed hostilities in the Strait of Hormuz, throwing the May 17 ceasefire memorandum of understanding (MOU) into crisis. US Central Command struck 10 Iranian military targets for the second consecutive day, and President Trump warned of a "military finish."

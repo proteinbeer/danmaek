@@ -10,8 +10,6 @@ tags:
   - Stock Market
   - Semiconductor
   - Volatility
-header:
-  image: https://picsum.photos/seed/stock-market/1200/600
 ---
 
 South Korea's stock market experienced historic turbulence in late June 2026. The KOSPI index broke through 9,000 for the first time on June 22, driven by the AI semiconductor super-cycle, only to crash 9.99% the next day in the worst single-day drop on record.

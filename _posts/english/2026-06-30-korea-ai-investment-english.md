@@ -10,8 +10,6 @@ tags:
   - Samsung
   - SK Hynix
   - Investment
-header:
-  image: https://picsum.photos/seed/ai-robot/1200/600
 ---
 
 South Korea on June 29 laid out a sweeping industrial strategy centered on semiconductors and artificial intelligence, as President Lee Jae-myung unveiled over $576 billion (800 trillion won) in investments — the largest such commitment in the country's history.

@@ -11,8 +11,6 @@ tags:
   - semiconductors
   - robotics
   - hbm
-header:
-  image: https://picsum.photos/seed/microchip/1200/600
 ---
 
 Nvidia CEO Jensen Huang visited South Korea on June 5, his first trip in seven months. He met with the chairmen of Samsung Electronics, SK Group, Hyundai Motor Group, LG Group, and Naver to discuss AI and robotics collaboration.
