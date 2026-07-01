@@ -81,14 +81,30 @@ h3 { color: #333; }
   z-index: 0;
   font-size: 1.4rem;
   opacity: 0;
-  pointer-events: none;
+  will-change: transform, opacity;
   animation: floatUp 7s ease-out forwards;
 }
+.snack-float.burst {
+  animation: none !important;
+  opacity: 0 !important;
+}
 @keyframes floatUp {
-  0%   { opacity: 0; transform: translateY(0) rotate(0deg); }
+  0%   { opacity: 0; transform: translateY(0) rotate(0deg) scale(1); }
   10%  { opacity: 0.35; }
-  80%  { opacity: 0.3; }
-  100% { opacity: 0; transform: translateY(-100vh) rotate(20deg); }
+  80%  { opacity: 0.3; transform: translateY(-80vh) rotate(20deg) scale(1); }
+  100% { opacity: 0; transform: translateY(-100vh) rotate(20deg) scale(0.6); }
+}
+.snack-particle {
+  position: fixed;
+  z-index: 0;
+  pointer-events: none;
+  font-size: 0.8rem;
+  will-change: transform, opacity;
+  animation: particleBurst 0.9s ease-out forwards;
+}
+@keyframes particleBurst {
+  0%   { opacity: 0.6; transform: translate(0,0) scale(1); }
+  100% { opacity: 0; transform: translate(var(--dx), var(--dy)) scale(0); }
 }
 
 /* ───── Page wrap ───── */
@@ -106,16 +122,28 @@ h3 { color: #333; }
 .post-list li {
   background: #fff;
   border-radius: var(--border-radius);
-  padding: 24px 28px;
+  padding: 20px 24px;
   margin-bottom: 12px;
   border: 1px solid #f0e8e0;
   transition: box-shadow 0.2s, transform 0.2s;
+  display: flex;
+  align-items: center;
+  gap: 20px;
 }
 .post-list li:hover {
   box-shadow: 0 4px 16px rgba(0,0,0,0.06);
   transform: translateY(-2px);
 }
 .post-list li:last-child { margin-bottom: 0; }
+.post-list .post-info { flex: 1; min-width: 0; }
+.post-list .post-thumb {
+  width: 80px;
+  height: 80px;
+  border-radius: 8px;
+  object-fit: cover;
+  flex-shrink: 0;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
 .post-list .post-title {
   font-size: 1.2rem;
   font-weight: 700;
@@ -200,5 +228,6 @@ h3 { color: #333; }
   .page-wrap { padding: 28px 16px 60px; }
   h1 { font-size: 1.5rem; }
   .post-content { padding: 24px; }
-  .post-list li { padding: 18px 20px; }
+  .post-list li { padding: 14px 16px; gap: 12px; }
+  .post-list .post-thumb { width: 56px; height: 56px; }
 }

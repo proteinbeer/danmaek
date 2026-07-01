@@ -42,6 +42,32 @@
 
   // Floating snack emojis
   var snacks = ['🍪','🍩','🍿','🍫','🍭','🍟','🌮','🧁','🍦','🍬','🥨','🥐'];
+  var snackEls = [];
+
+  function burstSnack(el) {
+    if (el.classList.contains('burst')) return;
+    el.classList.add('burst');
+    var rect = el.getBoundingClientRect();
+    var cx = rect.left + rect.width / 2;
+    var cy = rect.top + rect.height / 2;
+    var emoji = el.textContent;
+    for (var i = 0; i < 8; i++) {
+      var p = document.createElement('div');
+      p.className = 'snack-particle';
+      p.textContent = emoji;
+      var angle = Math.random() * 2 * Math.PI;
+      var dist = 50 + Math.random() * 80;
+      p.style.setProperty('--dx', Math.cos(angle) * dist + 'px');
+      p.style.setProperty('--dy', Math.sin(angle) * dist + 'px');
+      p.style.left = cx + 'px';
+      p.style.top = cy + 'px';
+      p.style.fontSize = (0.5 + Math.random() * 0.6) + 'rem';
+      document.body.appendChild(p);
+      setTimeout(function() { p.remove(); }, 1000);
+    }
+    setTimeout(function() { el.remove(); }, 200);
+  }
+
   setInterval(function() {
     var el = document.createElement('div');
     el.className = 'snack-float';
@@ -50,7 +76,28 @@
     el.style.fontSize = (1 + Math.random() * 0.8) + 'rem';
     el.style.animationDuration = (5 + Math.random() * 4) + 's';
     document.body.appendChild(el);
-    setTimeout(function() { el.remove(); }, 10000);
-  }, 2000);
+    snackEls.push(el);
+    setTimeout(function() {
+      var idx = snackEls.indexOf(el);
+      if (idx !== -1) snackEls.splice(idx, 1);
+      if (!el.classList.contains('burst')) el.remove();
+    }, 10000);
+  }, 1300);
+
+  // Mouse proximity burst
+  document.addEventListener('mousemove', function(e) {
+    for (var i = snackEls.length - 1; i >= 0; i--) {
+      var el = snackEls[i];
+      if (el.classList.contains('burst')) continue;
+      var rect = el.getBoundingClientRect();
+      var cx = rect.left + rect.width / 2;
+      var cy = rect.top + rect.height / 2;
+      var dx = e.clientX - cx;
+      var dy = e.clientY - cy;
+      if (dx * dx + dy * dy < 2500) {
+        burstSnack(el);
+      }
+    }
+  });
 
 })();
