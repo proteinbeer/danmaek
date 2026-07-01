@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>소개 - 단맥</title>
+<meta name="description" content="단맥(Danmaek) 소개, 개인정보처리방침, 문의 양식.">
+<meta name="google-site-verification" content="A4nFf24Qp22HoqhIdaDgC0vwzYcfEnY0NwvZSYud0hg">
+<link rel="canonical" href="https://danmaek.com/about/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;600;700&family=Noto+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/assets/css/main.css">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4400508127713059" crossorigin="anonymous"></script>
+</head>
+<body>
+
+<div class="masthead" style="background-image:url('/assets/images/nbb%20empty.png');">
+  <div class="masthead__inner-wrap">
+    <a href="/" class="masthead__brand" id="site-brand">ABOUT</a>
+    <nav class="masthead__nav">
+      <a href="/korean/">한국어</a>
+      <a href="/english/">English</a>
+      <a href="/about.html">About</a>
+    </nav>
+  </div>
+</div>
+
+<div class="page-wrap page-wrap--narrow">
+  <div class="about-section">
+    <h1>단맥 소개</h1>
+    <p>단맥(Danmaek)은 해외 과자는 한국어로, 한국 과자는 영어로 리뷰하는 글로벌 스낵 블로그입니다. 직접 먹고 느낀 솔직한 맛을 전합니다.</p>
+  </div>
+
+  <hr style="border:none;border-top:1px solid #eee;margin:2rem 0;">
+
+  <div class="about-section">
+    <h2>개인정보처리방침</h2>
+    <p>본 사이트는 Google AdSense를 사용하여 광고를 게재합니다. 아래는 사용자 데이터 처리 방식에 대한 설명입니다.</p>
+
+    <h3>수집하는 정보</h3>
+    <ul>
+      <li><strong>쿠키</strong>: 맞춤형 광고 제공 및 Google Analytics를 통한 트래픽 분석을 위해 쿠키를 사용합니다.</li>
+      <li><strong>로그 데이터</strong>: IP 주소, 브라우저 종류, 방문 페이지가 익명으로 수집될 수 있습니다.</li>
+    </ul>
+
+    <h3>Google AdSense</h3>
+    <p>Google AdSense는 쿠키를 사용하여 사용자의 이전 방문 기록을 기반으로 맞춤 광고를 제공합니다. <a href="https://adssettings.google.com/">Google 광고 설정</a>에서 맞춤 광고를 거부할 수 있습니다.</p>
+
+    <h3>제3자 업체</h3>
+    <ul>
+      <li>Google은 제3자 업체로서 쿠키를 사용하여 광고를 게재합니다.</li>
+      <li>Google이 DART 쿠키를 사용하면 사용자의 사이트 방문 기록을 기반으로 광고를 게재할 수 있습니다.</li>
+    </ul>
+
+    <h3>사용자 권리</h3>
+    <p>브라우저 설정에서 쿠키를 비활성화할 수 있습니다. <a href="https://tools.google.com/dlpage/gaoptout">Google Analytics 차단 브라우저 추가 기능</a>을 설치하여 Google Analytics 수집을 거부할 수도 있습니다.</p>
+    <p><em>최종 업데이트: 2026년 6월 29일</em></p>
+  </div>
+
+  <hr style="border:none;border-top:1px solid #eee;margin:2rem 0;">
+
+  <div class="about-section">
+    <h2>문의</h2>
+    <p style="color:#555;margin-bottom:1rem;">피드백이나 제안이 있으시면 아래 양식을 보내주세요.</p>
+    <form id="contactForm" class="contact-form" action="https://formspree.io/f/mjggknek" method="POST">
+      <input name="name" type="text" placeholder="이름" required>
+      <input name="email" type="email" placeholder="이메일" required>
+      <textarea name="message" rows="4" placeholder="메시지" required></textarea>
+      <button type="submit" id="contactSubmitBtn">보내기</button>
+      <div class="contact-sent" id="contactSent">전송 완료! 감사합니다.</div>
+    </form>
+  </div>
+</div>
+
+<footer class="site-footer">
+  &copy; 2026 Danmaek. All rights reserved.
+</footer>
+
+<script src="/assets/js/main.js"></script>
+<script>
+document.getElementById('contactForm').addEventListener('submit', async function(e) {
+  e.preventDefault();
+  var btn = document.getElementById('contactSubmitBtn');
+  var sent = document.getElementById('contactSent');
+  var fields = this.querySelectorAll('input, textarea');
+  btn.disabled = true; btn.textContent = 'Sending...';
+  fields.forEach(function(f) { f.disabled = true; });
+  try {
+    var r = await fetch(this.action, { method: 'POST', body: new FormData(this), headers: { Accept: 'application/json' } });
+    if (r.ok) { this.reset(); sent.style.display = 'block'; setTimeout(function() { sent.style.display = 'none'; }, 3000); }
+  } catch(e) {}
+  btn.disabled = false; btn.textContent = 'Send Message';
+  fields.forEach(function(f) { f.disabled = false; });
+});
+</script>
+</body>
+</html>
