@@ -40,4 +40,17 @@
     if (href === '/english/' && path.indexOf('/english') === 0) a.classList.add('active');
   });
 
+  // Floating snack emojis
+  var snacks = ['🍪','🍩','🍿','🍫','🍭','🍟','🌮','🧁','🍦','🍬','🥨','🥐'];
+  setInterval(function() {
+    var el = document.createElement('div');
+    el.className = 'snack-float';
+    el.textContent = snacks[Math.floor(Math.random() * snacks.length)];
+    el.style.left = (Math.random() * 100) + '%';
+    el.style.fontSize = (1 + Math.random() * 0.8) + 'rem';
+    el.style.animationDuration = (5 + Math.random() * 4) + 's';
+    document.body.appendChild(el);
+    setTimeout(function() { el.remove(); }, 10000);
+  }, 2000);
+
 })();
