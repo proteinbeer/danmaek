@@ -94,7 +94,7 @@
       var cy = rect.top + rect.height / 2;
       var dx = e.clientX - cx;
       var dy = e.clientY - cy;
-      if (dx * dx + dy * dy < 2500) {
+      if (dx * dx + dy * dy < 6400) {
         burstSnack(el);
       }
     }
