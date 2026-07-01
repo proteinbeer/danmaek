@@ -40,62 +40,96 @@
     if (href === '/english/' && path.indexOf('/english') === 0) a.classList.add('active');
   });
 
-  // Floating snack emojis
-  var snacks = ['🍪','🍩','🍿','🍫','🍭','🍟','🌮','🧁','🍦','🍬','🥨','🥐'];
-  var snackEls = [];
+  // Floating snack emojis — physics-based
+  var emojis = ['🍪','🍩','🍿','🍫','🍭','🍟','🌮','🧁','🍦','🍬','🥨','🥐'];
+  var floats = [];
+  var GRAVITY = 5;
+  var SCALE = 1 / 50;
 
-  function burstSnack(el) {
-    if (el.classList.contains('burst')) return;
+  function spawnSnack() {
+    var el = document.createElement('div');
+    el.className = 'snack-float';
+    el.textContent = emojis[Math.floor(Math.random() * emojis.length)];
+    el.style.left = (Math.random() * 100) + '%';
+    el.style.fontSize = (1 + Math.random() * 0.8) + 'rem';
+    el._vy = 250 + Math.random() * 250;
+    el._y = 0;
+    el._rot = 0;
+    el._rotSpd = (Math.random() - 0.5) * 10;
+    el._born = Date.now();
+    el.style.opacity = 0;
+    document.body.appendChild(el);
+    floats.push(el);
+  }
+
+  function removeFloat(el) {
     el.classList.add('burst');
+    var idx = floats.indexOf(el);
+    if (idx !== -1) floats.splice(idx, 1);
+    spawnBurst(el);
+    setTimeout(function() { if (el.parentNode) el.remove(); }, 600);
+  }
+
+  function spawnBurst(el) {
     var rect = el.getBoundingClientRect();
+    if (!rect.width) return;
     var cx = rect.left + rect.width / 2;
     var cy = rect.top + rect.height / 2;
-    var emoji = el.textContent;
     for (var i = 0; i < 8; i++) {
       var p = document.createElement('div');
       p.className = 'snack-particle';
-      p.textContent = emoji;
       var angle = Math.random() * 2 * Math.PI;
       var dist = 50 + Math.random() * 80;
       p.style.setProperty('--dx', Math.cos(angle) * dist + 'px');
       p.style.setProperty('--dy', Math.sin(angle) * dist + 'px');
       p.style.left = cx + 'px';
       p.style.top = cy + 'px';
-      p.style.fontSize = (0.5 + Math.random() * 0.6) + 'rem';
       document.body.appendChild(p);
       setTimeout(function() { p.remove(); }, 1000);
     }
-    setTimeout(function() { el.remove(); }, 200);
   }
 
-  setInterval(function() {
-    var el = document.createElement('div');
-    el.className = 'snack-float';
-    el.textContent = snacks[Math.floor(Math.random() * snacks.length)];
-    el.style.left = (Math.random() * 100) + '%';
-    el.style.fontSize = (1 + Math.random() * 0.8) + 'rem';
-    el.style.animationDuration = (5 + Math.random() * 4) + 's';
-    document.body.appendChild(el);
-    snackEls.push(el);
-    setTimeout(function() {
-      var idx = snackEls.indexOf(el);
-      if (idx !== -1) snackEls.splice(idx, 1);
-      if (!el.classList.contains('burst')) el.remove();
-    }, 10000);
-  }, 1300);
+  function updateFloats() {
+    for (var i = floats.length - 1; i >= 0; i--) {
+      var el = floats[i];
+      if (el.classList.contains('burst')) continue;
+      el._vy -= GRAVITY;
+      el._y += el._vy;
+      if (el._vy < 0 && !el._falling) el._falling = true;
+      el._rot += el._rotSpd;
+      var px = el._y * SCALE;
+      el.style.transform = 'translateY(' + (-px) + 'px) rotate(' + el._rot + 'deg)';
+      if (!el._fadedIn) {
+        el.style.opacity = Math.min(0.7, Math.max(0, px / 30 * 0.7));
+        if (px >= 30) el._fadedIn = true;
+      } else if (px < 0) {
+        el.style.opacity = Math.max(0, 0.7 * (1 + px / 60));
+      }
+      if ((el._falling && el.getBoundingClientRect().top > window.innerHeight) || Date.now() - el._born > 15000) {
+        el.remove();
+        floats.splice(i, 1);
+      }
+    }
+  }
+
+  setInterval(spawnSnack, 1300);
+
+  // Physics loop
+  (function loop() { requestAnimationFrame(loop); updateFloats(); })();
 
   // Mouse proximity burst
   document.addEventListener('mousemove', function(e) {
-    for (var i = snackEls.length - 1; i >= 0; i--) {
-      var el = snackEls[i];
+    for (var i = floats.length - 1; i >= 0; i--) {
+      var el = floats[i];
       if (el.classList.contains('burst')) continue;
       var rect = el.getBoundingClientRect();
+      if (!rect.width) continue;
       var cx = rect.left + rect.width / 2;
       var cy = rect.top + rect.height / 2;
       var dx = e.clientX - cx;
       var dy = e.clientY - cy;
       if (dx * dx + dy * dy < 6400) {
-        burstSnack(el);
+        removeFloat(el);
       }
     }
   });
