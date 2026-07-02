@@ -1,4 +1,57 @@
 (function() {
+  // ───── Floating emoji background ─────
+  (function() {
+    var canvas = document.createElement('canvas');
+    canvas.id = 'bg-canvas';
+    document.body.prepend(canvas);
+    var ctx = canvas.getContext('2d');
+    var W, H;
+    var emojis = [];
+    var EMOJIS = ['🍜','🍪','🍫','🍘','🍟','🌮','🥨','🧇','🍩','🥜','🍿','🍭','🍬','🥮','🧁','🍕','🥪','🌭','🥗','🍣','🍦','🍰','🧀','🥞','🥓','🍔','🌯','🥟','🍱','🍙','🥯','🥖','🍞','🥐','🧆','🫘','🥜','🍠','🥕','🫐','🍇','🍊','🍋','🍌','🍉','🍓','🥝','🍒'];
+
+    function resize() {
+      W = canvas.width = window.innerWidth;
+      H = canvas.height = window.innerHeight;
+    }
+    window.addEventListener('resize', resize);
+    resize();
+
+    for (var i = 0; i < 25; i++) {
+      emojis.push({
+        x: Math.random() * W, y: Math.random() * H,
+        emoji: EMOJIS[Math.floor(Math.random() * EMOJIS.length)],
+        size: 12 + Math.random() * 10,
+        vx: (Math.random() - 0.5) * 0.2,
+        vy: (Math.random() - 0.5) * 0.2 - 0.1,
+        alpha: 0.1 + Math.random() * 0.15,
+        sway: Math.random() * Math.PI * 2,
+        swaySpeed: 0.003 + Math.random() * 0.008,
+      });
+    }
+
+    function draw() {
+      ctx.clearRect(0, 0, W, H);
+      for (var i = 0; i < emojis.length; i++) {
+        var p = emojis[i];
+        p.sway += p.swaySpeed;
+        p.x += p.vx + Math.sin(p.sway) * 0.2;
+        p.y += p.vy + Math.cos(p.sway * 0.6) * 0.15;
+        if (p.x < -30) p.x = W + 30;
+        if (p.x > W + 30) p.x = -30;
+        if (p.y < -30) p.y = H + 30;
+        if (p.y > H + 30) p.y = -30;
+        ctx.globalAlpha = p.alpha;
+        ctx.font = p.size + 'px sans-serif';
+        ctx.textAlign = 'center';
+        ctx.textBaseline = 'middle';
+        ctx.fillText(p.emoji, p.x, p.y);
+      }
+      ctx.globalAlpha = 1;
+      requestAnimationFrame(draw);
+    }
+    draw();
+  })();
+
   // Lang preference on click
   document.addEventListener('click', function(e) {
     var link = e.target.closest('a');
