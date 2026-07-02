@@ -106,9 +106,10 @@ document.getElementById('contactForm').addEventListener('submit', async function
   errEl.style.display = 'none';
   fields.forEach(function(f) { f.disabled = true; });
   try {
-    var r = await fetch(this.action, { method: 'POST', body: new FormData(this), headers: { Accept: 'application/json' } });
+    var data = { name: this.name.value, email: this.email.value, message: this.message.value };
+    var r = await fetch(this.action, { method: 'POST', body: JSON.stringify(data), headers: { 'Content-Type': 'application/json', Accept: 'application/json' } });
     if (r.ok) { this.reset(); sent.style.display = 'block'; setTimeout(function() { sent.style.display = 'none'; }, 3000); }
-    else { errEl.textContent = '전송 실패: ' + r.status; errEl.style.display = 'block'; }
+    else { var body = await r.json(); errEl.textContent = '전송 실패 (' + r.status + '): ' + (body.error || JSON.stringify(body)); errEl.style.display = 'block'; }
   } catch(e) { errEl.textContent = '네트워크 오류: ' + e.message; errEl.style.display = 'block'; }
   btn.disabled = false; btn.textContent = '보내기';
   fields.forEach(function(f) { f.disabled = false; });
