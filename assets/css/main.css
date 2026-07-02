@@ -31,7 +31,7 @@ h3 { color: #333; }
 .masthead {
   position: relative;
   z-index: 1;
-  background-size: 50% auto;
+  background-size: auto;
   background-position: center center;
   min-height: 87px;
   overflow: hidden;
