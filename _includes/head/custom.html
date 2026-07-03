@@ -4,7 +4,7 @@
 (function() {
   var pref = localStorage.getItem('danmaek_lang');
   var path = window.location.pathname;
-  if (pref || path.indexOf('/korean/') === 0 || path.indexOf('/english/') === 0 || path.indexOf('/about/') === 0) return;
+  if (pref || path.indexOf('/english/') === 0 || path.indexOf('/about/') === 0) return;
   var lang = (navigator.language || navigator.userLanguage || '').toLowerCase();
   if (lang.indexOf('ko') === -1 && lang.indexOf('kr') === -1) {
     window.location.href = '/english/';
@@ -12,7 +12,6 @@
 })();
 document.addEventListener('click', function(e) {
   var link = e.target.closest('a');
-  if (link && link.pathname.indexOf('/korean/') === 0) localStorage.setItem('danmaek_lang', 'ko');
   if (link && link.pathname.indexOf('/english/') === 0) localStorage.setItem('danmaek_lang', 'en');
 });
 </script>

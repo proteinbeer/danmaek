@@ -76,11 +76,11 @@
   if (brand) {
     var p = window.location.pathname;
     if (p.indexOf('/about') !== -1) {
-      brand.textContent = 'ABOUT';
+      brand.textContent = 'DMPRESS';
     } else if (p.indexOf('/english') === 0) {
       brand.textContent = 'DMPRESS';
     } else {
-      brand.textContent = '단맥프레스';
+      brand.textContent = 'DMPRESS';
     }
   }
 
