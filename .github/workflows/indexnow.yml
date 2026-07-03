@@ -1,0 +1,17 @@
+name: IndexNow
+on:
+  push:
+    branches: [main]
+jobs:
+  indexnow:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Submit URLs to IndexNow
+        run: |
+          KEY="eba74f9c-8e1c-4310-8c17-f96a8f62b398"
+          HOST="danmaek.com"
+          URLS=$(grep -oP '<loc>\K[^<]+' sitemap.xml | jq -R -s -c 'split("\n")[:-1]')
+          curl -s -X POST "https://api.indexnow.org/indexnow" \
+            -H "Content-Type: application/json" \
+            -d "$(jq -n --arg host "$HOST" --arg key "$KEY" --argjson urls "$URLS" '{host: $host, key: $key, keyLocation: "https://\($host)/\($key).txt", urlList: $urls}')"
