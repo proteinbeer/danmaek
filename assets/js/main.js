@@ -79,7 +79,6 @@
   document.addEventListener('click', function(e) {
     var link = e.target.closest('a');
     if (link) {
-      if (link.pathname.indexOf('/korean/') === 0) localStorage.setItem('danmaek_lang', 'ko');
       if (link.pathname.indexOf('/english/') === 0) localStorage.setItem('danmaek_lang', 'en');
     }
   });
@@ -180,7 +179,6 @@
   navLinks.forEach(function(a) {
     var href = a.getAttribute('href');
     if ((href === '/about/' || href === '/about.html') && path.indexOf('/about') === 0) a.classList.add('active');
-    if (href === '/korean/' && path.indexOf('/korean') === 0) a.classList.add('active');
     if (href === '/english/' && path.indexOf('/english') === 0) a.classList.add('active');
   });
 
