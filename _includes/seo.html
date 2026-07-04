@@ -1,11 +1,7 @@
 {% assign locale = include.locale | default: site.locale %}
 {%- assign title_separator = site.title_separator | default: '-' -%}
 
-{%- if page.categories contains "english" or page.url contains "/english/" -%}
-  {%- assign site_title = "Danmaek" -%}
-{%- else -%}
-  {%- assign site_title = site.title -%}
-{%- endif -%}
+{%- assign site_title = "Danmaek" -%}
 
 {%- assign page_title = page.title | default: site_title | replace: '|', '&#124;' | markdownify | strip_html | strip_newlines | escape_once -%}
 {%- if page_title != site_title -%}
