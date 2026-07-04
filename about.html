@@ -122,7 +122,7 @@ document.querySelector('form[action*="formspree"]').addEventListener('submit', a
   try {
     var data = { name: this.name.value, email: this.email.value, message: this.message.value };
     var r = await fetch(this.action, { method: 'POST', body: JSON.stringify(data), headers: { 'Content-Type': 'application/json', Accept: 'application/json' } });
-    if (r.ok) { this.reset(); sent.textContent = 'ì „ì†¡ë¨!'; sent.classList.add('show'); setTimeout(function() { sent.classList.remove('show'); }, 3000); }
+    if (r.ok) { this.reset(); sent.textContent = '전송됨!'; sent.classList.add('show'); setTimeout(function() { sent.classList.remove('show'); }, 3000); }
     else { var body = await r.json(); errEl.textContent = 'Send failed (' + r.status + '): ' + (body.error || JSON.stringify(body)); errEl.classList.add('show'); }
   } catch(e) { errEl.textContent = 'Network error: ' + e.message; errEl.classList.add('show'); }
   btn.disabled = false; btn.textContent = 'Send';
