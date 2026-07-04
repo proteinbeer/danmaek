@@ -7,7 +7,7 @@
   if (pref || path.indexOf('/english/') === 0 || path.indexOf('/about/') === 0) return;
   var lang = (navigator.language || navigator.userLanguage || '').toLowerCase();
   if (lang.indexOf('ko') === -1 && lang.indexOf('kr') === -1) {
-    window.location.href = '/english/';
+    window.location.href = '/';
   }
 })();
 document.addEventListener('click', function(e) {

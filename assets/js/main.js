@@ -52,6 +52,29 @@
     draw();
   })();
 
+  // ───── Wave text animation ─────
+  (function() {
+    var els = [];
+    var t = document.querySelector('.tagline-wave');
+    if (t) els.push(t);
+    var pw = document.querySelector('.page-wrap--narrow');
+    if (pw) {
+      var h = pw.querySelector('h1');
+      if (h && !h.closest('.post-content')) els.push(h);
+    }
+    els.forEach(function(el) {
+      var text = el.textContent.trim();
+      el.textContent = '';
+      var chars = text.split('');
+      chars.forEach(function(ch, i) {
+        var span = document.createElement('span');
+        span.textContent = ch === ' ' ? '\u00A0' : ch;
+        span.style.cssText = 'display:inline-block;opacity:0;transform:translateY(12px);animation:waveIn 0.3s ease-out ' + (i * 0.015) + 's forwards;';
+        el.appendChild(span);
+      });
+    });
+  })();
+
   // Lang preference on click
   document.addEventListener('click', function(e) {
     var link = e.target.closest('a');
@@ -67,22 +90,81 @@
   if (!pref && path === '/') {
     var lang = (navigator.language || navigator.userLanguage || '').toLowerCase();
     if (lang.indexOf('ko') === -1 && lang.indexOf('kr') === -1) {
-      window.location.href = '/english/';
+      window.location.href = '/';
     }
   }
 
   // Site brand text based on current page
   var brand = document.getElementById('site-brand');
   if (brand) {
-    var p = window.location.pathname;
-    if (p.indexOf('/about') !== -1) {
-      brand.textContent = 'DMPRESS';
-    } else if (p.indexOf('/english') === 0) {
-      brand.textContent = 'DMPRESS';
-    } else {
-      brand.textContent = 'DMPRESS';
-    }
+    brand.textContent = 'Danmaek';
   }
+
+  // ───── Pagination: 8 per page (homepage only) ─────
+  (function() {
+    var list = document.querySelector('.post-list');
+    var isReview = document.querySelector('.page-wrap--narrow');
+    if (!list || isReview) return;
+    var items = Array.from(list.children);
+    var PER_PAGE = 8;
+    var totalPages = Math.ceil(items.length / PER_PAGE);
+    if (totalPages <= 1) return;
+    var currentPage = 1;
+    function showPage(page) {
+      currentPage = page;
+      items.forEach(function(item, i) {
+        var pg = Math.floor(i / PER_PAGE) + 1;
+        item.style.display = (pg === page) ? '' : 'none';
+      });
+      renderNav();
+    }
+    function onClick(page, e) {
+      e.preventDefault();
+      showPage(page);
+      window.scrollTo(0, 0);
+    }
+    function renderNav() {
+      var nav = document.getElementById('page-nav');
+      if (!nav) {
+        nav = document.createElement('div');
+        nav.style.cssText = 'display:flex;justify-content:space-between;align-items:center;margin-top:12px;';
+        nav.id = 'page-nav';
+        list.parentNode.appendChild(nav);
+      }
+      nav.innerHTML = '';
+      if (currentPage === 1) {
+        var d = document.createElement('span');
+        d.className = 'nav-btn nav-btn--disabled';
+        d.innerHTML = '<span style="display:inline-block;transform:scaleX(-1)">➥</span>';
+        nav.appendChild(d);
+      } else {
+        var a = document.createElement('a');
+        a.href = '#';
+        a.className = 'nav-btn';
+        a.innerHTML = '<span style="display:inline-block;transform:scaleX(-1)">➥</span>';
+        a.addEventListener('click', function(e) { onClick(currentPage - 1, e); });
+        nav.appendChild(a);
+      }
+      var pageNum = document.createElement('span');
+      pageNum.textContent = currentPage;
+      pageNum.style.cssText = 'font-size:0.95rem;color:#888;font-weight:500;';
+      nav.appendChild(pageNum);
+      if (currentPage === totalPages) {
+        var d = document.createElement('span');
+        d.className = 'nav-btn nav-btn--disabled';
+        d.innerHTML = '➥';
+        nav.appendChild(d);
+      } else {
+        var a = document.createElement('a');
+        a.href = '#';
+        a.className = 'nav-btn';
+        a.innerHTML = '➥';
+        a.addEventListener('click', function(e) { onClick(currentPage + 1, e); });
+        nav.appendChild(a);
+      }
+    }
+    showPage(1);
+  })();
 
   // Make entire post-list li clickable
   document.querySelectorAll('.post-list li').forEach(function(li) {
@@ -195,49 +277,4 @@
       }
     }
   });
-
-  // ───── Infinite scroll batch window (homepage) ─────
-  (function() {
-    var list = document.querySelector('.post-list');
-    var isReview = document.querySelector('.page-wrap--narrow');
-    if (!list || isReview) return;
-    var items = Array.from(list.children);
-    var BATCH = 4;
-    if (items.length <= BATCH) return;
-    var start = 0;
-    var end = BATCH;
-    var busy = false;
-    function render() {
-      items.forEach(function(item, i) {
-        item.style.display = (i >= start && i < end) ? '' : 'none';
-      });
-    }
-    render();
-    var timer;
-    window.addEventListener('scroll', function() {
-      if (busy) return;
-      clearTimeout(timer);
-      timer = setTimeout(function() {
-        var sy = window.scrollY;
-        var wh = window.innerHeight;
-        var dh = document.documentElement.scrollHeight;
-        if (sy + wh >= dh - 200 && end < items.length) {
-          busy = true;
-          start = Math.min(start + BATCH, items.length - BATCH);
-          end = Math.min(start + BATCH, items.length);
-          render();
-          window.scrollBy(0, -80);
-          setTimeout(function() { busy = false; }, 400);
-        }
-        if (sy <= 100 && start > 0) {
-          busy = true;
-          end = start;
-          start = Math.max(0, start - BATCH);
-          render();
-          window.scrollBy(0, 120);
-          setTimeout(function() { busy = false; }, 400);
-        }
-      }, 150);
-    });
-  })();
 })();

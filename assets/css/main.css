@@ -63,10 +63,18 @@ h3 { color: #333; }
   letter-spacing: -0.02em;
   text-decoration: none !important;
   line-height: 1.1;
-  transition: transform 0.15s, color 0.15s;
+  animation: brandBob 3s ease-in-out infinite;
+}
+@keyframes brandBob {
+  0%, 100% { transform: translateY(0) rotate(0deg); }
+  15% { transform: translateY(-4px) rotate(-1deg); }
+  30% { transform: translateY(0) rotate(1deg); }
+  45% { transform: translateY(-2px) rotate(0deg); }
+  60% { transform: translateY(0) rotate(-0.5deg); }
 }
 .masthead .masthead__brand:hover {
   color: #fcd34d !important;
+  animation-play-state: paused;
   transform: translateY(-2px);
 }
 .masthead__brand--small {
@@ -288,6 +296,12 @@ h3 { color: #333; }
   color: #bbb;
 }
 .empty-state p { font-size: 1.1rem; }
+
+/* ───── Wave animation ───── */
+@keyframes waveIn {
+  0% { opacity: 0; transform: translateY(12px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
 
 /* ───── Responsive ───── */
 @media (max-width: 600px) {
