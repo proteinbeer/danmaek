@@ -41,48 +41,60 @@
   <div class="post-content">
     <div class="about-section">
       <h1>About Danmaek</h1>
-      <p>Welcome to Danmaek, a global snack blog reviewing international snacks honestly. We buy them, taste them, and tell you exactly what we think &mdash; no fluff, no bias.</p>
+      <p>Danmaek is a snack review blog that explores snacks, sweets, chips, cookies, drinks, and small food discoveries from Korea and around the world.</p>
+      <p>This blog is made for people who enjoy finding new snacks before buying them, comparing different flavors, or simply reading honest food reviews with a light and casual tone. From classic Korean treats to international convenience store snacks, Danmaek focuses on how each product actually tastes, feels, and fits into everyday snack moments.</p>
     </div>
 
     <hr style="border:none;border-top:1px solid #eee;margin:2rem 0;">
 
     <div class="about-section">
-      <h2>Privacy Policy</h2>
-      <p>This blog uses Google AdSense to serve ads. Here's a brief overview of how data is handled.</p>
-
-      <h3>Information We Collect</h3>
+      <h2>What You Can Find Here</h2>
+      <p>On Danmaek, you will find reviews and guides about:</p>
       <ul>
-        <li><strong>Cookies</strong>: Used for personalized ads and traffic analysis via Google Analytics.</li>
-        <li><strong>Log Data</strong>: IP address, browser type, and visited pages may be collected anonymously.</li>
+        <li>Korean snacks and sweets</li>
+        <li>International chips, cookies, candies, and chocolate</li>
+        <li>Convenience store snacks</li>
+        <li>Flavor comparisons</li>
+        <li>Texture, sweetness, saltiness, spice level, and aftertaste</li>
+        <li>Snack recommendations for different tastes</li>
       </ul>
+      <p>Each review is written to be easy to understand, even for readers who have never tried the product before.</p>
+    </div>
 
-      <h3>Google AdSense</h3>
-      <p>Google AdSense uses cookies to serve personalized ads based on your browsing history. You can opt out of personalized ads at <a href="https://adssettings.google.com/">Google Ad Settings</a>.</p>
+    <hr style="border:none;border-top:1px solid #eee;margin:2rem 0;">
 
-      <h3>Third Parties</h3>
-      <ul>
-        <li>Google uses cookies to serve ads on this site.</li>
-        <li>DART cookies may be used to serve ads based on your visits to this and other sites.</li>
-      </ul>
+    <div class="about-section">
+      <h2>How Reviews Are Written</h2>
+      <p>The reviews on Danmaek are based on direct tasting, product information, and general snack knowledge. I try to describe each snack honestly, including both good points and weak points.</p>
+      <p>Taste is personal, so every review should be seen as one opinion rather than a final answer. Some snacks are perfect for people who love strong flavors, while others are better for readers who prefer something simple, mild, or familiar.</p>
+      <p>When useful, I also include information about the product's background, brand, country of origin, and how it compares with similar snacks.</p>
+    </div>
 
-      <h3>Your Rights</h3>
-      <p>You can disable cookies in your browser settings. You can also install the <a href="https://tools.google.com/dlpage/gaoptout">Google Analytics Opt-out Browser Add-on</a> to prevent data collection.</p>
-      <p><em>Last updated: June 29, 2026</em></p>
+    <hr style="border:none;border-top:1px solid #eee;margin:2rem 0;">
+
+    <div class="about-section">
+      <h2>Advertising and Affiliate Disclosure</h2>
+      <p>Danmaek may display advertisements or include affiliate links in some posts. This means the blog may earn a small commission or advertising revenue when visitors view ads or purchase products through certain links.</p>
+      <p>This does not change the price for readers, and it does not control the opinion written in the reviews. The goal of Danmaek is to keep reviews honest, useful, and reader-friendly.</p>
+    </div>
+
+    <hr style="border:none;border-top:1px solid #eee;margin:2rem 0;">
+
+    <div class="about-section">
+      <h2>Privacy</h2>
+      <p>Danmaek may use third-party services such as advertising networks, analytics tools, or affiliate platforms. These services may use cookies or similar technologies to understand site traffic, improve user experience, and display relevant advertisements.</p>
+      <p>Visitors can manage or disable cookies through their browser settings. For more information about how third-party advertising works, visitors may also check the privacy settings provided by those advertising platforms.</p>
+      <p>Danmaek does not personally sell visitor information.</p>
     </div>
 
     <hr style="border:none;border-top:1px solid #eee;margin:2rem 0;">
 
     <div class="about-section">
       <h2>Contact</h2>
-      <p style="color:#555;margin-bottom:1rem;">Have feedback or suggestions? Use the form below.</p>
-      <form id="contactForm" class="contact-form" action="https://formspree.io/f/mjggknek" method="POST">
-        <input name="name" type="text" placeholder="Name" required>
-        <input name="email" type="email" placeholder="Email" required>
-        <textarea name="message" rows="4" placeholder="Message" required></textarea>
-        <button type="submit" id="contactSubmitBtn">Send</button>
-        <div class="contact-sent" id="contactSent">Sent</div>
-        <div class="contact-error" id="contactError"></div>
-      </form>
+      <p>For questions, feedback, collaboration requests, or corrections, please contact:</p>
+      <p><a href="mailto:proteinbeer@gmail.com">proteinbeer@gmail.com</a></p>
+      <p>I am always open to improving the blog, fixing mistakes, and hearing snack recommendations from readers.</p>
+      <p>Thank you for visiting Danmaek.</p>
     </div>
   </div>
 </div>
@@ -92,26 +104,6 @@
 </footer>
 
 <script src="/assets/js/main.js"></script>
-<script>
-document.getElementById('contactForm').addEventListener('submit', async function(e) {
-  e.preventDefault();
-  var btn = document.getElementById('contactSubmitBtn');
-  var sent = document.getElementById('contactSent');
-  var errEl = document.getElementById('contactError');
-  var fields = this.querySelectorAll('input, textarea');
-  btn.disabled = true; btn.textContent = 'Sending...';
-  sent.style.display = 'none';
-  errEl.style.display = 'none';
-  fields.forEach(function(f) { f.disabled = true; });
-  try {
-    var data = { name: this.name.value, email: this.email.value, message: this.message.value };
-    var r = await fetch(this.action, { method: 'POST', body: JSON.stringify(data), headers: { 'Content-Type': 'application/json', Accept: 'application/json' } });
-    if (r.ok) { this.reset(); sent.style.display = 'block'; setTimeout(function() { sent.style.display = 'none'; }, 3000); }
-    else { var body = await r.json(); errEl.textContent = 'Send failed (' + r.status + '): ' + (body.error || JSON.stringify(body)); errEl.style.display = 'block'; }
-  } catch(e) { errEl.textContent = 'Network error: ' + e.message; errEl.style.display = 'block'; }
-  btn.disabled = false; btn.textContent = 'Send';
-  fields.forEach(function(f) { f.disabled = false; });
-});
-</script>
+
 </body>
 </html>
