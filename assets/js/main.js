@@ -50,50 +50,7 @@
       requestAnimationFrame(draw);
     }
     draw();
-  // ───── Infinite scroll batch window for post list (homepage only) ─────
-  (function() {
-    var list = document.querySelector('.post-list');
-    if (!list || window.location.pathname !== '/') return;
-    var items = Array.from(list.children);
-    var BATCH = 4;
-    if (items.length <= BATCH) return;
-    var start = 0;
-    var end = BATCH;
-    var busy = false;
-    function render() {
-      items.forEach(function(item, i) {
-        item.style.display = (i >= start && i < end) ? '' : 'none';
-      });
-    }
-    render();
-    var timer;
-    window.addEventListener('scroll', function() {
-      if (busy) return;
-      clearTimeout(timer);
-      timer = setTimeout(function() {
-        var sy = window.scrollY;
-        var wh = window.innerHeight;
-        var dh = document.documentElement.scrollHeight;
-        if (sy + wh >= dh - 200 && end < items.length) {
-          busy = true;
-          start = Math.min(start + BATCH, items.length - BATCH);
-          end = Math.min(start + BATCH, items.length);
-          render();
-          window.scrollBy(0, -80);
-          setTimeout(function() { busy = false; }, 400);
-        }
-        if (sy <= 100 && start > 0) {
-          busy = true;
-          end = start;
-          start = Math.max(0, start - BATCH);
-          render();
-          window.scrollBy(0, 120);
-          setTimeout(function() { busy = false; }, 400);
-        }
-      }, 150);
-    });
   })();
-})();
 
   // Lang preference on click
   document.addEventListener('click', function(e) {
@@ -239,4 +196,48 @@
     }
   });
 
+  // ───── Infinite scroll batch window (homepage) ─────
+  (function() {
+    var list = document.querySelector('.post-list');
+    var isReview = document.querySelector('.page-wrap--narrow');
+    if (!list || isReview) return;
+    var items = Array.from(list.children);
+    var BATCH = 4;
+    if (items.length <= BATCH) return;
+    var start = 0;
+    var end = BATCH;
+    var busy = false;
+    function render() {
+      items.forEach(function(item, i) {
+        item.style.display = (i >= start && i < end) ? '' : 'none';
+      });
+    }
+    render();
+    var timer;
+    window.addEventListener('scroll', function() {
+      if (busy) return;
+      clearTimeout(timer);
+      timer = setTimeout(function() {
+        var sy = window.scrollY;
+        var wh = window.innerHeight;
+        var dh = document.documentElement.scrollHeight;
+        if (sy + wh >= dh - 200 && end < items.length) {
+          busy = true;
+          start = Math.min(start + BATCH, items.length - BATCH);
+          end = Math.min(start + BATCH, items.length);
+          render();
+          window.scrollBy(0, -80);
+          setTimeout(function() { busy = false; }, 400);
+        }
+        if (sy <= 100 && start > 0) {
+          busy = true;
+          end = start;
+          start = Math.max(0, start - BATCH);
+          render();
+          window.scrollBy(0, 120);
+          setTimeout(function() { busy = false; }, 400);
+        }
+      }, 150);
+    });
+  })();
 })();
