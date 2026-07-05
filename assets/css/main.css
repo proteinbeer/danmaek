@@ -13,6 +13,7 @@
   --typography-spacing-vertical: 1.25rem;
 }
 
+html { overflow-y: scroll; background: #f8f1e9; }
 body {
   background: #f8f1e9;
   color: #333;
