@@ -6,6 +6,7 @@ var articleOrder = [
   '/lotte-kancho-review.html',
   '/honey-butter-chip-review.html',
   '/nongshim-onion-ring-review.html',
+  '/binggrae-banana-milk-review.html',
   '/samyang-buldak-review.html',
   '/orion-kkobuk-chip-review.html'
 ];
