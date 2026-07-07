@@ -1,4 +1,5 @@
 var articleOrder = [
+  '/nongshim-gamjagg-review.html',
   '/saewookkang-review.html',
   '/choco-pie-review.html',
   '/shin-ramyun-review.html',
