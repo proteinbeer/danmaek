@@ -292,6 +292,10 @@ h3 { color: #333; }
   color: #aaa;
   font-size: 0.85rem;
 }
+.site-footer .business-info {
+  font-size: 0.65rem;
+  color: #bbb;
+}
 
 /* ───── Empty state ───── */
 .empty-state {
