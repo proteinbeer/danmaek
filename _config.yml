@@ -1,7 +1,7 @@
 locale: "en-US"
 title: "Danmaek"
 name: "Proteinbeer"
-description: "Practical reviews of Korean snacks, instant noodles, and drinks."
+description: "Practical reviews of Asian snacks, instant noodles, and drinks."
 url: "https://danmaek.com"
 baseurl: ""
 repository: "proteinbeer/danmaek"

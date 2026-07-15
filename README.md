@@ -1,6 +1,6 @@
 # Danmaek
 
-Danmaek is an English-language blog featuring practical reviews of Korean
+Danmaek is an English-language blog featuring practical reviews of Asian
 snacks, instant noodles, and drinks. The live site is published at
 [danmaek.com](https://danmaek.com).
 
