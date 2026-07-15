@@ -1,56 +1,8 @@
-remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "default"
-
-locale: "ko-KR"
-title: "단맥"
+locale: "en-US"
+title: "Danmaek"
 name: "Proteinbeer"
-description: "한국 & 영미권 이야기"
+description: "Practical reviews of Korean snacks, instant noodles, and drinks."
 url: "https://danmaek.com"
 baseurl: ""
 repository: "proteinbeer/danmaek"
-permalink: /:categories/:title/
-masthead_title: " "
-
-twitter:
-  username: &twitter "proteinbeer"
-
-defaults:
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: false
-      comments: false
-      share: false
-      related: false
-
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
-
-include:
-  - .htaccess
-exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - vendor
-  - Gemfile
-  - Gemfile.lock
-
-plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-include-cache
-
 google_site_verification: "A4nFf24Qp22HoqhIdaDgC0vwzYcfEnY0NwvZSYud0hg"
-
-compress_html:
-  clippings: all
-  ignore:
-    envs: development

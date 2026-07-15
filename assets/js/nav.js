@@ -1,4 +1,6 @@
 var articleOrder = [
+  '/nongshim-chapagetti-review.html',
+  '/paldo-bibimmen-review.html',
   '/nongshim-postick-review.html',
   '/nongshim-gamjagg-review.html',
   '/saewookkang-review.html',

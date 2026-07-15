@@ -4,10 +4,10 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🍿</text></svg>">
-<title>Danmaek</title>
+<title>About Danmaek | Korean Food Reviews</title>
 <meta name="description" content="About Danmaek.">
 <meta name="google-site-verification" content="A4nFf24Qp22HoqhIdaDgC0vwzYcfEnY0NwvZSYud0hg">
-<link rel="canonical" href="https://danmaek.com/about/">
+<link rel="canonical" href="https://danmaek.com/about.html">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -44,7 +44,7 @@
     <div class="about-section">
       <h1>About Danmaek</h1>
       <p>Danmaek is a snack review blog that explores snacks, sweets, chips, cookies, drinks, and small food discoveries from Korea and around the world.</p>
-      <p>This blog is made for people who enjoy finding new snacks before buying them, comparing different flavors, or simply reading honest food reviews with a light and casual tone. From classic Korean treats to international convenience store snacks, Danmaek focuses on how each product actually tastes, feels, and fits into everyday snack moments.</p>
+      <p>This blog is made for people who want to understand a product before buying it, compare flavors, or explore Korean convenience-store food in a light and practical way. Danmaek focuses on flavor, texture, preparation, ingredients, and the situations in which each product makes sense.</p>
     </div>
 
     <hr style="border:none;border-top:1px solid #eee;margin:2rem 0;">
@@ -67,9 +67,9 @@
 
     <div class="about-section">
       <h2>How Reviews Are Written</h2>
-      <p>The reviews on Danmaek are based on direct tasting, product information, and general snack knowledge. I try to describe each snack honestly, including both good points and weak points.</p>
-      <p>Taste is personal, so every review should be seen as one opinion rather than a final answer. Some snacks are perfect for people who love strong flavors, while others are better for readers who prefer something simple, mild, or familiar.</p>
-      <p>When useful, I also include information about the product's background, brand, country of origin, and how it compares with similar snacks.</p>
+      <p>Each review separates verifiable product information from subjective flavor descriptions. Product history, ingredients, nutrition, allergens, and preparation details are checked against current manufacturer pages or package information whenever those sources are available.</p>
+      <p>Flavor and texture sections compare recurring observations across consumer reviews and product characteristics. They are written as practical guidance, not as invented personal experiences. Because formulas vary by country and can change over time, the package in hand is always the final source for ingredients and nutrition.</p>
+      <p>Danmaek also notes drawbacks, regional differences, and the type of reader most likely to enjoy each product. Correction requests are welcome through the contact form below.</p>
     </div>
 
     <hr style="border:none;border-top:1px solid #eee;margin:2rem 0;">
@@ -77,7 +77,7 @@
     <div class="about-section">
       <h2>Advertising and Affiliate Disclosure</h2>
       <p>Danmaek may display advertisements or include affiliate links in some posts. This means the blog may earn a small commission or advertising revenue when visitors view ads or purchase products through certain links.</p>
-      <p>This does not change the price for readers, and it does not control the opinion written in the reviews. The goal of Danmaek is to keep reviews honest, useful, and reader-friendly.</p>
+      <p>This does not change the price for readers or determine the conclusions in a review. Advertising relationships are kept separate from editorial decisions.</p>
     </div>
 
     <hr style="border:none;border-top:1px solid #eee;margin:2rem 0;">
@@ -123,7 +123,7 @@ document.querySelector('form[action*="formspree"]').addEventListener('submit', a
   try {
     var data = { name: this.name.value, email: this.email.value, message: this.message.value };
     var r = await fetch(this.action, { method: 'POST', body: JSON.stringify(data), headers: { 'Content-Type': 'application/json', Accept: 'application/json' } });
-    if (r.ok) { this.reset(); sent.textContent = '전송됨!'; sent.classList.add('show'); setTimeout(function() { sent.classList.remove('show'); }, 3000); }
+    if (r.ok) { this.reset(); sent.textContent = 'Message sent!'; sent.classList.add('show'); setTimeout(function() { sent.classList.remove('show'); }, 3000); }
     else { var body = await r.json(); errEl.textContent = 'Send failed (' + r.status + '): ' + (body.error || JSON.stringify(body)); errEl.classList.add('show'); }
   } catch(e) { errEl.textContent = 'Network error: ' + e.message; errEl.classList.add('show'); }
   btn.disabled = false; btn.textContent = 'Send';
