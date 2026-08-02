@@ -1,8 +1,0 @@
-locale: "ko-KR"
-title: "Danmaek"
-name: "Proteinbeer"
-description: "국내 뉴스, 해외 뉴스, 기술, 경제, 문화 이슈를 간결하게 정리하는 뉴스 브리핑 사이트."
-url: "https://danmaek.com"
-baseurl: ""
-repository: "proteinbeer/danmaek"
-google_site_verification: "A4nFf24Qp22HoqhIdaDgC0vwzYcfEnY0NwvZSYud0hg"

@@ -1,7 +1,7 @@
 (function() {
   var path = window.location.pathname.replace(/\/index\.html$/, '').replace(/\/$/, '') || '/';
 
-  var navLinks = document.querySelectorAll('.site-nav a, .masthead__nav a');
+  var navLinks = document.querySelectorAll('.site-nav a');
   navLinks.forEach(function(a) {
     var href = a.getAttribute('href');
     if (!href) return;
