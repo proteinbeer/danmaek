@@ -763,10 +763,14 @@ h3 {
 }
 
 @media (max-width: 600px) {
-  .site-header__inner,
-  .site-nav {
-    justify-content: flex-start;
+  .site-header__inner {
     gap: 14px;
+  }
+
+  .site-nav {
+    justify-content: flex-end;
+    gap: 14px;
+    margin-left: auto;
   }
 
   .page-wrap {
