@@ -8,6 +8,10 @@ const posts = getPosts().map((post) => ({
   description: post.data.description.trim(),
   category: post.data.category,
   tags: post.data.tags,
+  image: post.data.image,
+  imageAlt: post.data.imageAlt,
+  date: post.data.date.toLocaleDateString('ko-KR'),
+  dateTime: post.data.date.toISOString(),
   url: `/posts/${post.id}/`
 }));
 ---
@@ -20,7 +24,7 @@ const posts = getPosts().map((post) => ({
     </section>
     <section class="search-box">
       <label for="search-input">검색어</label>
-      <input id="search-input" type="search" placeholder="예: 인시디어스, 스위치2, AI" autocomplete="off" />
+      <input id="search-input" type="search" placeholder="인시디어스, 스위치2, AI" autocomplete="off" />
       <div id="search-results" aria-live="polite"></div>
     </section>
   </main>
@@ -32,8 +36,11 @@ const posts = getPosts().map((post) => ({
       const matched = q ? posts.filter((post) => [post.title, post.description, post.category, post.tags.join(' ')].join(' ').toLowerCase().includes(q)) : posts;
       results.innerHTML = matched.map((post) => `
         <a class="search-result" href="${post.url}">
-          <strong>${post.title}</strong>
-          <span>${post.description ? `${post.category} · ${post.description}` : post.category}</span>
+          <img src="${post.image}" alt="${post.imageAlt}" loading="lazy" decoding="async" />
+          <span class="search-result__body">
+            <strong>${post.title}</strong>
+            <time datetime="${post.dateTime}">${post.date}</time>
+          </span>
         </a>
       `).join('') || '<p>검색 결과가 없습니다.</p>';
     }

@@ -2,7 +2,6 @@
 import { categoryToPath } from '../consts';
 const { post } = Astro.props;
 const data = post.data;
-const description = data.description.trim();
 ---
 <article class="post-card">
   <a class="post-card__image" href={`/posts/${post.id}/`} aria-label={data.title}>
@@ -14,5 +13,4 @@ const description = data.description.trim();
     <time datetime={data.date.toISOString()}>{data.date.toLocaleDateString('ko-KR')}</time>
   </div>
   <h3><a href={`/posts/${post.id}/`}>{data.title}</a></h3>
-  {description && <p>{description}</p>}
 </article>
