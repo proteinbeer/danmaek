@@ -1,0 +1,24 @@
+---
+import PostLayout from '../../layouts/PostLayout.astro';
+import { getPosts } from '../../lib/posts';
+
+export async function getStaticPaths() {
+  const posts = getPosts();
+  return posts.map((post, index) => {
+    const relatedByCategory = posts.filter((item) => item.id !== post.id && item.data.category === post.data.category);
+    const relatedFallback = posts.filter((item) => item.id !== post.id && item.data.category !== post.data.category);
+    const related = [...relatedByCategory, ...relatedFallback].slice(0, 3);
+    return {
+      params: { slug: post.id },
+      props: {
+        post,
+        prev: posts[index + 1] ?? null,
+        next: posts[index - 1] ?? null,
+        related
+      }
+    };
+  });
+}
+const { post, prev, next, related } = Astro.props;
+---
+<PostLayout post={post} prev={prev} next={next} related={related} />

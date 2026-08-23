@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-label="지식 카테고리 배경">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset=".52" stop-color="#17345c"/>
+      <stop offset="1" stop-color="#05070d"/>
+    </linearGradient>
+    <radialGradient id="lamp" cx=".22" cy=".08" r=".72">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".36"/>
+      <stop offset=".46" stop-color="#dce7ff" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="900" height="520" fill="url(#bg)"/>
+  <rect width="900" height="520" fill="url(#lamp)"/>
+  <path d="M112 378c102-41 199-50 291-29 102 23 177 26 385-34v128H112z" fill="#05070d" opacity=".4"/>
+  <path d="M164 132c72-24 138-24 198 0v246c-60-24-126-24-198 0z" fill="#fff" opacity=".12"/>
+  <path d="M362 132c72-24 138-24 198 0v246c-60-24-126-24-198 0z" fill="#fff" opacity=".08"/>
+  <path d="M204 178h110M204 218h116M204 258h92M402 178h112M402 218h118M402 258h82" stroke="#fff" stroke-opacity=".22" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="658" cy="174" r="54" fill="#fff" opacity=".09"/>
+  <path d="M638 174h40M658 154v40" stroke="#fff" stroke-opacity=".23" stroke-width="10" stroke-linecap="round"/>
+</svg>

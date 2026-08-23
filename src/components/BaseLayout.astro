@@ -1,0 +1,56 @@
+---
+import Header from './Header.astro';
+import Footer from './Footer.astro';
+import GoogleAnalytics from './GoogleAnalytics.astro';
+import '../styles/global.css';
+import { SITE } from '../consts';
+
+type Props = {
+  title?: string;
+  description?: string;
+  image?: string;
+  type?: 'website' | 'article';
+  canonical?: string;
+};
+
+const {
+  title = SITE.title,
+  description = SITE.description,
+  image = '/images/og-default.jpg',
+  type = 'website',
+  canonical = new URL(Astro.url.pathname, SITE.url).toString()
+} = Astro.props;
+const metaDescription = description?.trim() || SITE.description;
+const imageUrl = new URL(image, SITE.url).toString();
+---
+<!doctype html>
+<html lang={SITE.lang}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="/favicon.png" type="image/png" />
+    <link rel="apple-touch-icon" href="/favicon.png" />
+    <link rel="canonical" href={canonical} />
+    <link rel="alternate" type="application/rss+xml" title="단맥 RSS" href="/rss.xml" />
+    <meta name="description" content={metaDescription} />
+    <meta property="og:locale" content={SITE.locale} />
+    <meta property="og:site_name" content={SITE.name} />
+    <meta property="og:type" content={type} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={metaDescription} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={imageUrl} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={metaDescription} />
+    <meta name="twitter:image" content={imageUrl} />
+    <title>{title}</title>
+    <GoogleAnalytics />
+    <slot name="head" />
+  </head>
+  <body>
+    <Header />
+    <slot />
+    <Footer />
+  </body>
+</html>

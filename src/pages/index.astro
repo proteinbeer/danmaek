@@ -1,0 +1,63 @@
+---
+import BaseLayout from '../components/BaseLayout.astro';
+import PostCard from '../components/PostCard.astro';
+import { CATEGORIES } from '../consts';
+import { getPosts } from '../lib/posts';
+
+const posts = getPosts();
+const featured = posts.find((post) => post.data.featured) ?? posts[0];
+const featuredDescription = featured?.data.description.trim();
+const latest = posts.slice(0, 6);
+---
+<BaseLayout>
+  <main class="home-page">
+    {featured && (
+      <section class="container" aria-labelledby="featured-title">
+        <div class="section-head">
+          <div>
+            <h2 id="featured-title">최신 글</h2>
+            <p>오늘 핫한 이슈를 만나 보세요</p>
+          </div>
+        </div>
+        <article class="featured">
+          <a href={`/posts/${featured.id}/`}><img src={featured.data.image} alt={featured.data.imageAlt} width={featured.data.imageWidth} height={featured.data.imageHeight} loading="eager" decoding="async" /></a>
+          <div>
+            <p class="eyebrow">{featured.data.category}</p>
+            <h2><a href={`/posts/${featured.id}/`}>{featured.data.title}</a></h2>
+            {featuredDescription && <p>{featuredDescription}</p>}
+            <time datetime={featured.data.date.toISOString()}>{featured.data.date.toLocaleDateString('ko-KR')}</time>
+          </div>
+        </article>
+      </section>
+    )}
+
+    <section class="container" aria-labelledby="categories-title">
+      <div class="section-head">
+        <div>
+          <h2 id="categories-title">카테고리</h2>
+          <p>주제별로 만나 보세요.</p>
+        </div>
+      </div>
+      <div class="category-strip">
+        {CATEGORIES.map((cat) => (
+          <a class="category-tile" href={`/${cat.slug}/`}>
+            <img class="category-tile__media" src={cat.image} alt="" loading="lazy" decoding="async" />
+            <strong>{cat.name}</strong>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <section class="container" aria-labelledby="latest-title">
+      <div class="section-head">
+        <div>
+          <h2 id="latest-title">더 읽기</h2>
+          <p>이전 이슈도 만나 보세요.</p>
+        </div>
+      </div>
+      <div class="grid">
+        {latest.map((post) => <PostCard post={post} />)}
+      </div>
+    </section>
+  </main>
+</BaseLayout>

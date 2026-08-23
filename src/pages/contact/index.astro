@@ -1,0 +1,36 @@
+---
+import BaseLayout from '../../components/BaseLayout.astro';
+import { SITE } from '../../consts';
+---
+<BaseLayout title={`문의 | ${SITE.name}`} description="단맥 운영자에게 문의를 보낼 수 있는 페이지입니다." canonical={new URL('/contact/', SITE.url).toString()}>
+  <main class="container">
+    <section class="hero">
+      <p class="eyebrow">CONTACT</p>
+      <h1>문의</h1>
+      <p>제안, 오류 제보, 협업 문의는 아래 양식으로 보내 주세요.</p>
+    </section>
+
+    <section class="contact-card" aria-labelledby="contact-form-title">
+      <div>
+        <h2 id="contact-form-title">메시지 보내기</h2>
+        <p>답장이 필요하신 경우 이메일 주소를 정확히 적어 주세요.</p>
+      </div>
+      <form class="contact-form" action="https://formspree.io/f/mjggknek" method="POST">
+        <label>
+          이름
+          <input type="text" name="name" autocomplete="name" required />
+        </label>
+        <label>
+          이메일
+          <input type="email" name="email" autocomplete="email" required />
+        </label>
+        <label>
+          문의 내용
+          <textarea name="message" rows="7" required></textarea>
+        </label>
+        <input type="hidden" name="_subject" value="단맥 문의" />
+        <button type="submit">보내기</button>
+      </form>
+    </section>
+  </main>
+</BaseLayout>

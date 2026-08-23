@@ -1,0 +1,13 @@
+---
+const path = Astro.url.pathname;
+---
+<header class="site-header">
+  <div class="container site-header__inner">
+    <a class="brand" href="/" aria-label="단맥 홈">
+      <img src="/images/brand/logo-ko.png" alt="" width="128" height="96" decoding="async" />
+    </a>
+    <nav class="nav" aria-label="주요 메뉴">
+      <a href="/search/" aria-current={path.startsWith('/search/') ? 'page' : undefined}>검색</a>
+    </nav>
+  </div>
+</header>
