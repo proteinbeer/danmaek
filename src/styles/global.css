@@ -53,11 +53,25 @@ img { max-width: 100%; height: auto; }
   display: inline-flex;
   align-items: center;
   flex: 0 0 auto;
+  position: relative;
 }
 .brand img {
   display: block;
   width: 92px;
   height: auto;
+  margin-left: -13px;
+}
+.brand__logo-en {
+  position: absolute;
+  left: 8px;
+  top: 0;
+  width: 100%;
+  animation: brand-logo-swap 6s ease-in-out infinite;
+}
+@keyframes brand-logo-swap {
+  0%, 45% { opacity: 0; }
+  50%, 95% { opacity: 1; }
+  100% { opacity: 0; }
 }
 .nav {
   display: flex;
@@ -804,4 +818,15 @@ img { max-width: 100%; height: auto; }
   font-weight: 800;
   color: var(--accent);
   font-variant-numeric: tabular-nums;
+}
+
+.adfit-banner {
+  margin-top: 26px;
+  display: flex;
+  justify-content: center;
+}
+@media (max-width: 780px) {
+  .adfit-banner {
+    zoom: .45;
+  }
 }
