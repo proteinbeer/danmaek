@@ -1,4 +1,4 @@
-:root {
+﻿:root {
   color-scheme: light;
   --bg: #f6f7fb;
   --paper: #fff;
@@ -335,7 +335,7 @@ main:not(.home-page) {
   z-index: 1;
   width: min(var(--reading), calc(100% - 40px));
   margin: 0 auto;
-  padding: 42px 0 84px;
+  padding: 42px 0 42px;
 }
 .breadcrumb {
   margin-bottom: 24px;
@@ -787,7 +787,7 @@ main:not(.home-page) {
   .article-header h1 { font-size: 2.2rem; }
   .article-wrap {
     width: min(100% - 20px, var(--max));
-    padding: 24px 0 58px;
+    padding: 24px 0 24px;
   }
   .article-wrap > article {
     border-radius: 12px;
