@@ -422,16 +422,25 @@ main:not(.home-page) {
   text-align: center;
   letter-spacing: -.02em;
 }
-.prose .post-square-image {
+.prose .post-landscape-image {
   display: block;
   width: 100%;
-  aspect-ratio: 1 / 1;
+  aspect-ratio: 16 / 9;
   height: auto;
   margin: 28px 0;
   border: 1px solid var(--line);
   border-radius: 10px;
   object-fit: cover;
   object-position: center;
+}
+.prose .post-landscape-image.post-landscape-image--top {
+  object-position: top;
+}
+.prose .post-landscape-image.post-landscape-image--high {
+  object-position: center 25%;
+}
+.prose .post-landscape-image.post-landscape-image--bottom {
+  object-position: center bottom;
 }
 
 .tag-list {
@@ -651,7 +660,7 @@ main:not(.home-page) {
 .search-result img {
   display: block;
   width: 92px;
-  aspect-ratio: 1 / 1;
+  aspect-ratio: 16 / 9;
   border: 1px solid var(--line);
   border-radius: 8px;
   object-fit: cover;

@@ -1,4 +1,4 @@
----
+﻿---
 title: "진 그레이는 왜 엑스맨보다 스파이더맨에서 먼저 나왔을까"
 description: "스파이더맨 브랜드 뉴 데이에 진 그레이가 등장한 이유와 케빈 파이기 그리고 크레턴 감독이 밝힌 제작 과정을 정리합니다."
 date: 2026-08-24
@@ -30,7 +30,7 @@ hideDescription: true
 
 처음에는 마블 스튜디오가 앞으로 나올 엑스맨 영화를 홍보하기 위해 인기 높은 스파이더맨 영화에 진 그레이를 먼저 넣은 것처럼 보일 수 있습니다. 그런데 제작진이 밝힌 과정을 살펴보시면 실제 순서는 조금 달랐습니다.
 
-<img class="post-square-image" src="/images/posts/jean-grey-spiderman-brand-new-day/01-sadie-sink.jpg" alt="진 그레이를 연기하는 세이디 싱크" loading="lazy" />
+<img class="post-landscape-image" src="/images/posts/jean-grey-spiderman-brand-new-day/01-sadie-sink.jpg" alt="진 그레이를 연기하는 세이디 싱크" loading="lazy" />
 
 결론부터 말씀드리면 엑스맨을 먼저 홍보하기 위해 진 그레이를 억지로 넣은 것이 아니라 스파이더맨 브랜드 뉴 데이의 이야기에 필요한 캐릭터를 찾다가 진 그레이가 선택된 쪽에 가깝습니다.
 
@@ -38,7 +38,7 @@ hideDescription: true
 
 마블 스튜디오 대표 케빈 파이기는 2026년 디즈니 행사에서 진 그레이의 등장이 이야기에서 자연스럽게 나온 결정이었다고 설명했습니다.
 
-<img class="post-square-image" src="/images/posts/jean-grey-spiderman-brand-new-day/02-spiderman-statue.jpg" alt="스파이더맨 조형물" loading="lazy" />
+<img class="post-landscape-image" src="/images/posts/jean-grey-spiderman-brand-new-day/02-spiderman-statue.jpg" alt="스파이더맨 조형물" loading="lazy" />
 
 스파이더맨 브랜드 뉴 데이의 전반부는 피터 파커가 단순히 적과 싸우는 구조가 아니라 정체를 알 수 없는 사건을 추적하는 방식으로 진행됩니다. 케빈 파이기는 피터를 일종의 탐정처럼 앞세우는 이야기를 만들고 있었다고 밝혔죠.
 
@@ -60,7 +60,7 @@ hideDescription: true
 
 영화에서는 처음부터 전형적인 엑스맨 영웅의 모습으로 등장하지 않습니다. 정체를 알 수 없는 사건의 중심에 있는 인물처럼 보이고 피터 역시 그녀가 누구인지 알아가는 과정을 거치게 됩니다.
 
-<img class="post-square-image" src="/images/posts/jean-grey-spiderman-brand-new-day/03-nyc-night.jpg" alt="밤의 뉴욕 거리" loading="lazy" />
+<img class="post-landscape-image" src="/images/posts/jean-grey-spiderman-brand-new-day/03-nyc-night.jpg" alt="밤의 뉴욕 거리" loading="lazy" />
 
 제작진이 중요하게 본 것은 능력만이 아니었습니다. 크레턴 감독은 피터보다 어린 인물이면서 수많은 사람과 정신적으로 연결될 수 있지만 정작 누구보다 외로운 캐릭터를 원했다고 설명했어요.
 
@@ -91,7 +91,7 @@ hideDescription: true
 
 정신에 들어갈 수 있는 능력과 피터보다 어린 나이 그리고 도시의 많은 사람과 연결될 수 있으면서도 외로운 인물이라는 조건이 먼저 만들어졌습니다.
 
-<img class="post-square-image" src="/images/posts/jean-grey-spiderman-brand-new-day/04-sadie-sink-sdcc.jpg" alt="코믹콘 행사장에 모습을 드러낸 세이디 싱크" loading="lazy" />
+<img class="post-landscape-image" src="/images/posts/jean-grey-spiderman-brand-new-day/04-sadie-sink-sdcc.jpg" alt="코믹콘 행사장에 모습을 드러낸 세이디 싱크" loading="lazy" />
 
 그 조건에 맞는 마블 캐릭터를 검토하는 과정에서 진 그레이가 후보에 올랐고 세이디 싱크까지 연결되면서 지금의 구성이 완성된 것이죠.
 

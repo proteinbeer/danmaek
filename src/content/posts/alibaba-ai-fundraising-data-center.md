@@ -27,7 +27,7 @@ hideDescription: true
 
 기존 주주에게는 반가운 소식만은 아닙니다. 새 주식이 대규모로 발행되면 지분 가치가 희석될 수 있기 때문이죠.
 
-<img class="post-square-image" src="/images/posts/alibaba-ai-fundraising-data-center/01-alibaba-booth-ai-conference.jpg" alt="상하이 월드 AI 컨퍼런스 알리바바 부스" loading="lazy" />
+<img class="post-landscape-image" src="/images/posts/alibaba-ai-fundraising-data-center/01-alibaba-booth-ai-conference.jpg" alt="상하이 월드 AI 컨퍼런스 알리바바 부스" loading="lazy" />
 
 그런데도 알리바바가 이 선택을 한 이유는 인공지능 경쟁의 성격이 바뀌고 있기 때문입니다. 이제 좋은 모델 하나를 만드는 것보다 몇 년 동안 막대한 연산 비용을 버틸 수 있느냐가 더 중요해지고 있습니다.
 
@@ -49,7 +49,7 @@ hideDescription: true
 
 실제로 발표 뒤 알리바바 주가는 크게 하락했습니다.
 
-<img class="post-square-image" src="/images/posts/alibaba-ai-fundraising-data-center/03-hkex-trading-hall.jpg" alt="홍콩증권거래소 매매홀" loading="lazy" />
+<img class="post-landscape-image" src="/images/posts/alibaba-ai-fundraising-data-center/03-hkex-trading-hall.jpg" alt="홍콩증권거래소 매매홀" loading="lazy" />
 
 하지만 회사 입장에서는 빚을 늘리는 대신 자본을 직접 확보할 수 있습니다.
 
@@ -74,7 +74,7 @@ hideDescription: true
 
 돈이 있다고 가장 좋은 반도체를 원하는 만큼 살 수 있는 구조가 아닙니다.
 
-<img class="post-square-image" src="/images/posts/alibaba-ai-fundraising-data-center/02-alibaba-hq-hangzhou.jpg" alt="항저우 알리바바 그룹 본사" loading="lazy" />
+<img class="post-landscape-image" src="/images/posts/alibaba-ai-fundraising-data-center/02-alibaba-hq-hangzhou.jpg" alt="항저우 알리바바 그룹 본사" loading="lazy" />
 
 그래서 중국 기업에는 모델 효율, 자체 반도체, 데이터센터 운영 비용이 더 중요해질 수 있습니다. 같은 성능을 더 적은 연산으로 만드는 기술이 단순한 최적화가 아니라 경쟁 전략이 되는 셈입니다.
 
@@ -86,7 +86,7 @@ hideDescription: true
 
 알리바바는 인공지능 투자 회수 기간을 몇 년 단위로 제시하고 있습니다.
 
-<img class="post-square-image" src="/images/posts/alibaba-ai-fundraising-data-center/04-data-center-server-racks.jpg" alt="데이터센터 서버 랙" loading="lazy" />
+<img class="post-landscape-image" src="/images/posts/alibaba-ai-fundraising-data-center/04-data-center-server-racks.jpg" alt="데이터센터 서버 랙" loading="lazy" />
 
 이 말은 시장이 이제 인공지능을 실험 단계가 아니라 수익을 증명해야 하는 사업으로 보기 시작했다는 뜻이기도 합니다. 이용자가 많아져도 서버 비용이 더 빠르게 늘면 좋은 사업이 아닐 수 있기 때문입니다.
 

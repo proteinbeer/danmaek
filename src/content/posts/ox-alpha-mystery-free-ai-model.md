@@ -1,4 +1,4 @@
----
+﻿---
 title: "개발사도 모르는 무료 인공지능이 왜 인기일까, 옥스 알파가 보여준 이상한 시장"
 description: "오픈라우터에서 급성장한 정체불명의 무료 모델 옥스 알파를 둘러싼 스텔스 공개 전략과 긴 문맥 그리고 데이터 비용 논쟁을 정리합니다."
 date: 2026-08-24
@@ -28,7 +28,7 @@ hideDescription: true
 
 그런데 이 모델은 무료입니다. 문맥 길이도 약 105만 토큰이고 코딩, 장시간 작업, 이미지 이해까지 지원하면서 실제 프로그래밍 사용량에서도 상위권에 올라 있습니다.
 
-<img class="post-square-image" src="/images/posts/ox-alpha-mystery-free-ai-model/01-mystery-model-hero.jpg" alt="미스터리 인공지능 모델 관련 기사 이미지" loading="lazy" />
+<img class="post-landscape-image" src="/images/posts/ox-alpha-mystery-free-ai-model/01-mystery-model-hero.jpg" alt="미스터리 인공지능 모델 관련 기사 이미지" loading="lazy" />
 
 보통 사람은 만든 회사도 모르는 제품을 꺼립니다. 그런데 인공지능 시장에서는 오히려 정체불명이라는 점이 관심을 끌고 있다는 게 흥미롭습니다.
 
@@ -75,7 +75,7 @@ hideDescription: true
 
 옥스 알파가 코딩과 지속적인 에이전트 작업을 강조하는 이유도 단순한 질문 답변보다 이런 긴 작업 흐름을 노리고 있기 때문입니다.
 
-<img class="post-square-image" src="/images/posts/ox-alpha-mystery-free-ai-model/02-mystery-identity-yt.jpg" alt="정체를 숨긴 옥스 알파의 개발사를 찾는다는 영상 썸네일" loading="lazy" />
+<img class="post-landscape-image" src="/images/posts/ox-alpha-mystery-free-ai-model/02-mystery-identity-yt.jpg" alt="정체를 숨긴 옥스 알파의 개발사를 찾는다는 영상 썸네일" loading="lazy" />
 
 ## 4. 무료 모델의 가장 큰 비용은 데이터일 수 있다
 

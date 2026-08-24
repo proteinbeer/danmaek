@@ -30,7 +30,7 @@ hideDescription: true
 
 다만 미국에서 인종 정체성은 부모의 배경을 단순하게 절반씩 나누는 문제와는 조금 다릅니다. 본인이 자신을 어떻게 받아들이는지와 사회에서 어떤 사람으로 인식되는지도 함께 작용하죠.
 
-<img class="post-square-image" src="/images/posts/zendaya-biracial-hollywood-actors/01-zendaya.jpg" alt="젠데이아" loading="lazy" />
+<img class="post-landscape-image" src="/images/posts/zendaya-biracial-hollywood-actors/01-zendaya.jpg" alt="젠데이아" loading="lazy" />
 
 ## 1. 젠데이아의 흑인 아버지와 백인 어머니
 
@@ -46,7 +46,7 @@ hideDescription: true
 
 ## 2. 할리 베리와 라시다 존스의 서로 다른 경험
 
-<img class="post-square-image" src="/images/posts/zendaya-biracial-hollywood-actors/02-halle-berry.jpg" alt="할리 베리" loading="lazy" />
+<img class="post-landscape-image" src="/images/posts/zendaya-biracial-hollywood-actors/02-halle-berry.jpg" alt="할리 베리" loading="lazy" />
 
 젠데이아와 비슷하게 흑인과 백인 부모 사이에서 태어난 배우들을 살펴보시면 혼혈이라는 말 하나만으로 모든 사람의 정체성을 설명하기 어렵다는 점이 잘 보입니다.
 
@@ -54,7 +54,7 @@ hideDescription: true
 
 어린 시절에는 백인 어머니 밑에서 자라며 자신의 정체성 때문에 혼란을 겪기도 했다고 밝혔죠. 결국 가족 배경이 두 인종에 걸쳐 있더라도 사회에서 어떤 모습으로 받아들여지는지가 정체성에 큰 영향을 줄 수 있다는 사례입니다.
 
-<img class="post-square-image" src="/images/posts/zendaya-biracial-hollywood-actors/03-rashida-jones.jpg" alt="라시다 존스" loading="lazy" />
+<img class="post-landscape-image" src="/images/posts/zendaya-biracial-hollywood-actors/03-rashida-jones.jpg" alt="라시다 존스" loading="lazy" />
 
 라시다 존스 역시 흑인 아버지와 백인 어머니를 둔 혼혈 배우입니다. 아버지는 음악 프로듀서 퀸시 존스이고 어머니는 배우 페기 립튼이죠.
 
@@ -75,13 +75,13 @@ hideDescription: true
 
 ## 3. 마야 루돌프와 아만들라 스텐버그의 가족 배경
 
-<img class="post-square-image" src="/images/posts/zendaya-biracial-hollywood-actors/04-maya-rudolph.jpg" alt="SNL 무대의 마야 루돌프" loading="lazy" />
+<img class="post-landscape-image post-landscape-image--top" src="/images/posts/zendaya-biracial-hollywood-actors/04-maya-rudolph.jpg" alt="SNL 무대의 마야 루돌프" loading="lazy" />
 
 마야 루돌프의 어머니는 흑인 가수 미니 리퍼턴이고 아버지는 유대계 작곡가 리처드 루돌프입니다. 마야 루돌프 역시 자신을 혼혈이라고 설명해왔습니다.
 
 어린 시절 어머니가 세상을 떠난 뒤에는 흑인 여성으로서의 정체성을 배우고 이해하는 과정이 끊긴 것처럼 느꼈다고 이야기하기도 했습니다. 같은 혼혈이라도 누구와 함께 성장했는지와 어떤 가족 문화를 경험했는지가 개인의 정체성에 영향을 줄 수 있는 것이죠.
 
-<img class="post-square-image" src="/images/posts/zendaya-biracial-hollywood-actors/05-amandla-stenberg.jpg" alt="애콜라이트 속 아만들라 스텐버그" loading="lazy" />
+<img class="post-landscape-image" src="/images/posts/zendaya-biracial-hollywood-actors/05-amandla-stenberg.jpg" alt="애콜라이트 속 아만들라 스텐버그" loading="lazy" />
 
 아만들라 스텐버그는 흑인 미국인 어머니와 덴마크인 아버지 사이에서 태어났습니다. 다양한 인종과 문화가 섞인 가족 안에서 성장하며 자신의 정체성을 생각하게 됐다고 밝혔어요.
 
@@ -91,7 +91,7 @@ hideDescription: true
 
 ## 4. 제시 윌리엄스가 말한 두 가지 정체성
 
-<img class="post-square-image" src="/images/posts/zendaya-biracial-hollywood-actors/06-jesse-williams.jpg" alt="그레이 아나토미 속 제시 윌리엄스" loading="lazy" />
+<img class="post-landscape-image post-landscape-image--top" src="/images/posts/zendaya-biracial-hollywood-actors/06-jesse-williams.jpg" alt="그레이 아나토미 속 제시 윌리엄스" loading="lazy" />
 
 그레이 아나토미로 알려진 제시 윌리엄스도 백인 어머니와 흑인 아버지를 둔 혼혈 배우입니다.
 

@@ -28,7 +28,7 @@ hideDescription: true
 
 문제는 평소에는 세련돼 보이던 전자식 문손잡이가 비상 상황에서는 오히려 직관적이지 않을 수 있다는 점입니다.
 
-<img class="post-square-image" src="/images/posts/tesla-china-recall-door-handles/01-tesla-model-sx-door-handles.jpg" alt="차체와 평평하게 붙은 테슬라 전자식 문손잡이" loading="lazy" />
+<img class="post-landscape-image" src="/images/posts/tesla-china-recall-door-handles/01-tesla-model-sx-door-handles.jpg" alt="차체와 평평하게 붙은 테슬라 전자식 문손잡이" loading="lazy" />
 
 중국에서는 테슬라뿐 아니라 샤오미, 샤오펑, 지리 등 여러 업체가 비슷한 이유로 리콜에 들어갔습니다. 이번 사안은 단순한 한 회사의 결함보다 자동차가 지나치게 전자화될 때 생기는 새로운 문제를 보여줍니다.
 
@@ -48,7 +48,7 @@ hideDescription: true
 
 자동차 회사는 실내를 단순하게 만들수록 고급스럽고 미래적으로 보인다고 생각해 왔습니다. 그래서 물리 버튼, 손잡이, 레버를 줄이고 화면과 전자식 제어로 바꾸는 흐름이 이어졌죠.
 
-<img class="post-square-image" src="/images/posts/tesla-china-recall-door-handles/02-tesla-model-3-interior-door.jpg" alt="테슬라 모델 3 실내 도어 패널" loading="lazy" />
+<img class="post-landscape-image" src="/images/posts/tesla-china-recall-door-handles/02-tesla-model-3-interior-door.jpg" alt="테슬라 모델 3 실내 도어 패널" loading="lazy" />
 
 그런데 비상 기능까지 숨기면 사용자가 설명서를 기억해야 합니다.
 
@@ -73,7 +73,7 @@ hideDescription: true
 
 현재 중국 리콜이 다른 나라에서 자동으로 같은 리콜로 이어진다는 뜻은 아닙니다.
 
-<img class="post-square-image" src="/images/posts/tesla-china-recall-door-handles/03-tesla-model-3-front.jpg" alt="테슬라 모델 3 전면 외관" loading="lazy" />
+<img class="post-landscape-image" src="/images/posts/tesla-china-recall-door-handles/03-tesla-model-3-front.jpg" alt="테슬라 모델 3 전면 외관" loading="lazy" />
 
 다만 자동차 회사는 같은 차량을 여러 시장에서 판매합니다. 한 지역에서 안전 기준이 바뀌면 생산 구조를 따로 유지하는 것보다 전 세계 모델을 비슷하게 바꾸는 편이 효율적인 경우도 있습니다.
 
@@ -93,7 +93,7 @@ hideDescription: true
 
 이번 중국 리콜에서 테슬라가 가장 많은 차량을 차지했지만 문제의 본질은 테슬라 한 회사에만 있지 않습니다. 여러 전기차 업체가 전자식 손잡이를 사용했고 같은 규제 변화의 영향을 받고 있습니다.
 
-<img class="post-square-image" src="/images/posts/tesla-china-recall-door-handles/04-tesla-model-y-side.jpg" alt="테슬라 모델 Y 측면 외관" loading="lazy" />
+<img class="post-landscape-image" src="/images/posts/tesla-china-recall-door-handles/04-tesla-model-y-side.jpg" alt="테슬라 모델 Y 측면 외관" loading="lazy" />
 
 전기차가 기존 자동차보다 더 많은 소프트웨어를 사용하는 건 자연스러운 흐름입니다.
 

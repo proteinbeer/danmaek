@@ -28,7 +28,7 @@ hideDescription: true
 
 단순히 해외 게임쇼 하나에 참가한다는 뉴스로 보면 평범합니다. 그런데 최근 한국 게임사의 신작 공개 방식을 보면 게임스컴은 제품을 보여주는 장소를 넘어 처음부터 글로벌 시장을 기준으로 반응을 시험하는 무대가 되고 있습니다.
 
-<img class="post-square-image" src="/images/posts/gamescom-2026-korean-game-companies/01-gamescom-2026-main.jpg" alt="게임스컴 2026 공식 비주얼" loading="lazy" />
+<img class="post-landscape-image" src="/images/posts/gamescom-2026-korean-game-companies/01-gamescom-2026-main.jpg" alt="게임스컴 2026 공식 비주얼" loading="lazy" />
 
 특히 피시, 콘솔 중심 신작이 늘어날수록 이런 흐름은 더 뚜렷해집니다.
 
@@ -38,7 +38,7 @@ hideDescription: true
 
 게임스컴은 유럽에서 열리지만 방문객과 언론의 범위는 훨씬 넓습니다. 현장 시연, 생방송 발표, 해외 매체 취재가 동시에 일어나기 때문에 신작 하나가 짧은 시간에 여러 시장에 노출될 수 있죠.
 
-<img class="post-square-image" src="/images/posts/gamescom-2026-korean-game-companies/02-ncsoft-cinder-city.jpg" alt="엔씨 신더시티 트레일러 아트" loading="lazy" />
+<img class="post-landscape-image" src="/images/posts/gamescom-2026-korean-game-companies/02-ncsoft-cinder-city.jpg" alt="엔씨 신더시티 트레일러 아트" loading="lazy" />
 
 엔씨가 프로젝트 본파이어의 첫 공개를 게임스컴 개막 전야 행사에 맞춘 것도 이런 점에서 의미가 있습니다.
 
@@ -73,7 +73,7 @@ hideDescription: true
 
 크래프톤은 게임스컴 부스에서 펍지스튜디오 미공개 신작을 포함한 여러 작품의 체험을 준비했습니다.
 
-<img class="post-square-image" src="/images/posts/gamescom-2026-korean-game-companies/03-krafton-gamescom-lineup.jpg" alt="크래프톤 게임스컴 출품 라인업 공개 이미지" loading="lazy" />
+<img class="post-landscape-image" src="/images/posts/gamescom-2026-korean-game-companies/03-krafton-gamescom-lineup.jpg" alt="크래프톤 게임스컴 출품 라인업 공개 이미지" loading="lazy" />
 
 이 방식은 위험도 큽니다. 기대보다 재미가 없으면 부정적인 반응도 바로 퍼질 수 있기 때문입니다.
 
@@ -95,7 +95,7 @@ hideDescription: true
 
 결국 게임스컴은 시작점입니다.
 
-<img class="post-square-image" src="/images/posts/gamescom-2026-korean-game-companies/04-gamescom-indie-show.jpg" alt="게임스컴 행사장 방문객들" loading="lazy" />
+<img class="post-landscape-image" src="/images/posts/gamescom-2026-korean-game-companies/04-gamescom-indie-show.jpg" alt="게임스컴 행사장 방문객들" loading="lazy" />
 
 프로젝트 본파이어의 정식 이름과 게임 방식이 공개된 뒤 실제 이용자 반응이 유지되는지, 크래프톤의 미공개 신작이 행사 이후에도 관심을 이어가는지가 더 중요합니다. 공개 직후 찬사보다 출시까지 얼마나 꾸준히 정보를 쌓는지가 승부가 될 가능성이 큽니다.
 

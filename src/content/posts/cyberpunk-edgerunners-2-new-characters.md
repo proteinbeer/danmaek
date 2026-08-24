@@ -1,4 +1,4 @@
----
+﻿---
 title: "사이버펑크 엣지러너 2가 새 주인공을 택한 이유, 데이비드를 다시 꺼내지 않는 선택"
 description: "넷플릭스 사이버펑크 엣지러너 2의 새 주인공 선정 배경과 나이트 시티 선집 구조 전략 그리고 CD 프로젝트의 발표 내용을 정리합니다."
 date: 2026-08-24
@@ -30,7 +30,7 @@ hideDescription: true
 
 인기 작품의 후속편이라면 익숙한 얼굴을 다시 쓰는 게 가장 쉬워 보입니다. 그런데 엣지러너 2는 오히려 세계는 유지하고 인물을 바꾸는 쪽을 택했습니다.
 
-<img class="post-square-image" src="/images/posts/cyberpunk-edgerunners-2-new-characters/01-edgerunners-2-teaser.jpg" alt="엣지러너 2 공개 티저 아트" loading="lazy" />
+<img class="post-landscape-image" src="/images/posts/cyberpunk-edgerunners-2-new-characters/01-edgerunners-2-teaser.jpg" alt="엣지러너 2 공개 티저 아트" loading="lazy" />
 
 이 선택은 첫 시즌의 결말을 보호하면서 사이버펑크라는 세계관 자체를 더 오래 쓰기 위한 전략으로 볼 수 있습니다.
 
@@ -50,7 +50,7 @@ hideDescription: true
 
 도시는 그대로 두고 사람만 바꾸면 전혀 다른 장르의 이야기도 만들 수 있습니다.
 
-<img class="post-square-image" src="/images/posts/cyberpunk-edgerunners-2-new-characters/02-new-crew-reveal.jpg" alt="엣지러너 2에 등장하는 새 용병 크루 공개 이미지" loading="lazy" />
+<img class="post-landscape-image" src="/images/posts/cyberpunk-edgerunners-2-new-characters/02-new-crew-reveal.jpg" alt="엣지러너 2에 등장하는 새 용병 크루 공개 이미지" loading="lazy" />
 
 첫 시즌이 한 청년의 추락이었다면 다음 시즌은 다른 계층, 다른 직업, 다른 범죄를 중심으로 갈 수 있습니다. 같은 도시가 여러 사람의 인생을 삼키는 구조가 반복되면 세계관 자체가 주인공처럼 느껴질 수 있죠.
 
@@ -83,7 +83,7 @@ hideDescription: true
 
 실패해도 첫 시즌의 주인공을 망쳤다는 비판은 피할 수 있습니다.
 
-<img class="post-square-image" src="/images/posts/cyberpunk-edgerunners-2-new-characters/03-crew-roman-carax-d.jpg" alt="카메라를 든 새 크루 로만 카락스 디 컨셉 이미지" loading="lazy" />
+<img class="post-landscape-image" src="/images/posts/cyberpunk-edgerunners-2-new-characters/03-crew-roman-carax-d.jpg" alt="카메라를 든 새 크루 로만 카락스 디 컨셉 이미지" loading="lazy" />
 
 반대로 성공하면 사이버펑크 세계관에 또 하나의 인기 캐릭터 집단이 생깁니다. 브랜드 입장에서는 위험을 분산하면서 자산을 늘리는 선택입니다.
 
@@ -95,7 +95,7 @@ hideDescription: true
 
 이렇게 되면 데이비드와 루시의 이야기는 그대로 보존됩니다.
 
-<img class="post-square-image" src="/images/posts/cyberpunk-edgerunners-2-new-characters/04-crew-talia-yang.jpg" alt="새 크루 탈리아 양 캐릭터 공개 이미지" loading="lazy" />
+<img class="post-landscape-image" src="/images/posts/cyberpunk-edgerunners-2-new-characters/04-crew-talia-yang.jpg" alt="새 크루 탈리아 양 캐릭터 공개 이미지" loading="lazy" />
 
 새 시즌은 첫 시즌을 이겨야 하는 후속편이 아니라 같은 도시에서 벌어진 또 다른 이야기로 평가받을 수 있습니다. 비교 부담이 줄어드는 대신 세계관의 깊이는 더 커집니다.
 

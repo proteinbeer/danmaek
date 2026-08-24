@@ -1,4 +1,4 @@
----
+﻿---
 title: "오디세이는 왜 한국에서 스파이더맨을 이겼을까, 놀란 영화가 유독 강한 이유"
 description: "크리스토퍼 놀란 오디세이의 한국 700만 관객 돌파 배경과 인터스텔라부터 이어진 놀란 선호 그리고 특별관 전략을 정리합니다."
 date: 2026-08-24
@@ -28,7 +28,7 @@ hideDescription: true
 
 세계 전체로 보면 스파이더맨은 20억 달러를 넘긴 초대형 흥행작입니다. 그런데 한국의 8월 극장에서는 오디세이가 더 강합니다.
 
-<img class="post-square-image" src="/images/posts/odyssey-nolan-korea-box-office/01-odyssey-still-matt-damon.jpg" alt="영화 오디세이의 한 장면" loading="lazy" />
+<img class="post-landscape-image" src="/images/posts/odyssey-nolan-korea-box-office/01-odyssey-still-matt-damon.jpg" alt="영화 오디세이의 한 장면" loading="lazy" />
 
 이 결과를 단순히 놀란 감독의 팬이 많아서라고만 설명하면 조금 부족합니다. 한국에서 놀란 영화가 반복해서 큰 이벤트가 되는 구조를 과거 작품과 함께 보면 이유가 더 잘 보입니다.
 
@@ -48,7 +48,7 @@ hideDescription: true
 
 한국은 대형 극장 체인과 특별관 접근성이 높은 편입니다.
 
-<img class="post-square-image" src="/images/posts/odyssey-nolan-korea-box-office/02-odyssey-official-poster.jpg" alt="영화 오디세이 공식 포스터" loading="lazy" />
+<img class="post-landscape-image post-landscape-image--bottom" src="/images/posts/odyssey-nolan-korea-box-office/02-odyssey-official-poster.jpg" alt="영화 오디세이 공식 포스터" loading="lazy" />
 
 이런 시장에서는 영화 한 편을 보는 행위가 단순한 콘텐츠 소비가 아니라 어떤 관에서 볼지 고르는 경험으로 바뀝니다. 같은 영화를 집에서 나중에 볼 수 있어도 특별관에서 먼저 봐야 한다는 이유가 생기는 겁니다.
 
@@ -62,7 +62,7 @@ hideDescription: true
 
 오히려 두 작품은 관객에게 다른 이유를 제공합니다.
 
-<img class="post-square-image" src="/images/posts/odyssey-nolan-korea-box-office/03-odyssey-boxoffice.jpg" alt="700만 관객 돌파 소식을 전한 오디세이 관련 이미지" loading="lazy" />
+<img class="post-landscape-image" src="/images/posts/odyssey-nolan-korea-box-office/03-odyssey-boxoffice.jpg" alt="700만 관객 돌파 소식을 전한 오디세이 관련 이미지" loading="lazy" />
 
 스파이더맨은 캐릭터, 시리즈, 팬덤의 힘이 크고 오디세이는 감독, 촬영 방식, 극장 경험의 힘이 큽니다. 개봉 초반에는 스파이더맨이 폭발하고 시간이 지나면서 오디세이가 특별관과 입소문을 바탕으로 오래 버티는 흐름도 충분히 가능한 구조죠.
 
@@ -89,7 +89,7 @@ hideDescription: true
 
 불편함이 희소한 경험으로 바뀌는 셈입니다.
 
-<img class="post-square-image" src="/images/posts/odyssey-nolan-korea-box-office/04-nolan-korea-visit.jpg" alt="한국 방문 당시 크리스토퍼 놀란 감독 관련 이미지" loading="lazy" />
+<img class="post-landscape-image" src="/images/posts/odyssey-nolan-korea-box-office/04-nolan-korea-visit.jpg" alt="한국 방문 당시 크리스토퍼 놀란 감독 관련 이미지" loading="lazy" />
 
 오디세이가 세계적으로 14억 달러를 넘기고 놀란 감독의 최고 흥행작이 된 것도 이런 이벤트 영화 전략이 특정 국가만의 현상이 아니라는 점을 보여줍니다.
 

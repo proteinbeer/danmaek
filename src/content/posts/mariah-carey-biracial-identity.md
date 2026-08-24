@@ -1,4 +1,4 @@
----
+﻿---
 title: "머라이어 캐리는 흑인일까 백인일까?"
 description: "머라이어 캐리의 가족 배경과 본인이 직접 밝힌 혼혈 정체성, 피부가 밝은 흑인 여성이라는 자기 인식을 정리합니다."
 date: 2026-08-23
@@ -31,7 +31,7 @@ hideDescription: true
 
 여기서 더 중요한 건 본인이 자신의 정체성을 어떻게 설명해왔느냐입니다. 머라이어 캐리는 여러 인터뷰에서 자신이 혼혈이라는 사실을 분명하게 밝혔고 동시에 피부가 매우 밝은 흑인 여성이라고 자신을 표현하기도 했어요.
 
-<img class="post-square-image" src="/images/posts/mariah-carey-biracial-identity/01-mariah-carey.jpg" alt="머라이어 캐리" loading="lazy" />
+<img class="post-landscape-image post-landscape-image--high" src="/images/posts/mariah-carey-biracial-identity/01-mariah-carey.jpg" alt="머라이어 캐리" loading="lazy" />
 
 ## 1. 어머니는 백인 아일랜드계
 
@@ -45,7 +45,7 @@ hideDescription: true
 
 어린 시절 아버지와 함께 있을 때 주변 사람들이 두 사람을 번갈아 바라보는 경험도 있었다고 합니다. 머라이어 캐리의 피부가 밝았기 때문에 두 사람이 부녀라는 사실을 바로 이해하지 못하는 사람도 있었던 것이죠.
 
-<img class="post-square-image" src="/images/posts/mariah-carey-biracial-identity/02-mariah-carey.jpg" alt="인터뷰 중인 머라이어 캐리" loading="lazy" />
+<img class="post-landscape-image post-landscape-image--high" src="/images/posts/mariah-carey-biracial-identity/02-mariah-carey.jpg" alt="인터뷰 중인 머라이어 캐리" loading="lazy" />
 
 ## 2. 스스로 밝힌 혼혈 정체성
 
@@ -72,7 +72,7 @@ hideDescription: true
 
 ## 3. 피부가 밝은 흑인 여성이라는 자기 인식
 
-<img class="post-square-image" src="/images/posts/mariah-carey-biracial-identity/03-mariah-carey.jpg" alt="무대 위 머라이어 캐리" loading="lazy" />
+<img class="post-landscape-image" src="/images/posts/mariah-carey-biracial-identity/03-mariah-carey.jpg" alt="무대 위 머라이어 캐리" loading="lazy" />
 
 머라이어 캐리가 단순히 혼혈이라고만 자신을 설명한 것은 아닙니다. 2009년 가디언 인터뷰에서는 자신을 피부가 매우 밝은 흑인 여성이라고 직접 표현했습니다.
 

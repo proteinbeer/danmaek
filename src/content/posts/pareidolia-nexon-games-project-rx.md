@@ -1,4 +1,4 @@
----
+﻿---
 title: "파레이돌리아는 왜 블루 아카이브와 다르게 갈까, 생활 콘텐츠와 멀티플랫폼의 의미"
 description: "넥슨게임즈 파레이돌리아의 정식 명칭 공개와 생활 콘텐츠 방향 그리고 피시 콘솔 모바일 멀티플랫폼 전략을 정리합니다."
 date: 2026-08-24
@@ -29,7 +29,7 @@ hideDescription: true
 
 플레이어는 아니마시의 부흥센터 센터장이 되고, 메이츠라 불리는 캐릭터들과 함께 생활하며 도시의 문제를 해결합니다.
 
-<img class="post-square-image" src="/images/posts/pareidolia-nexon-games-project-rx/01-pareidolia-inews-1.jpg" alt="파레이돌리아 공식 티저 — 타소가레관에서 잠든 캐릭터들" loading="lazy" />
+<img class="post-landscape-image" src="/images/posts/pareidolia-nexon-games-project-rx/01-pareidolia-inews-1.jpg" alt="파레이돌리아 공식 티저 — 타소가레관에서 잠든 캐릭터들" loading="lazy" />
 
 더 눈에 띄는 건 피시, 콘솔, 모바일을 모두 목표로 하고 생활 콘텐츠를 전면에 내세웠다는 점입니다. 이 조합은 넥슨게임즈가 서브컬처 게임의 다음 단계를 어디에서 찾고 있는지 보여주는 단서가 될 수 있습니다.
 
@@ -47,7 +47,7 @@ hideDescription: true
 
 서브컬처 게임의 경쟁은 전투 시스템만으로 끝나지 않습니다.
 
-<img class="post-square-image" src="/images/posts/pareidolia-nexon-games-project-rx/02-pareidolia-inews-2.jpg" alt="파레이돌리아 공식 이미지" loading="lazy" />
+<img class="post-landscape-image" src="/images/posts/pareidolia-nexon-games-project-rx/02-pareidolia-inews-2.jpg" alt="파레이돌리아 공식 이미지" loading="lazy" />
 
 좋아하는 캐릭터를 얼마나 자주 보고 어떤 상황에서 관계를 쌓는지가 장기 이용에 큰 영향을 줍니다.
 
@@ -74,7 +74,7 @@ hideDescription: true
 
 그만큼 개발 난도는 올라갑니다.
 
-<img class="post-square-image" src="/images/posts/pareidolia-nexon-games-project-rx/03-pareidolia-inews-3.jpg" alt="파레이돌리아 공식 이미지" loading="lazy" />
+<img class="post-landscape-image" src="/images/posts/pareidolia-nexon-games-project-rx/03-pareidolia-inews-3.jpg" alt="파레이돌리아 공식 이미지" loading="lazy" />
 
 대신 얻는 것도 큽니다. 모바일 이용자에게는 접근성을 주고, 피시와 콘솔에서는 더 큰 화면과 높은 그래픽 품질을 보여줄 수 있습니다.
 
@@ -92,7 +92,7 @@ hideDescription: true
 
 첫 시연에서 전투보다 생활 콘텐츠가 얼마나 보여질지도 관심 포인트입니다.
 
-<img class="post-square-image" src="/images/posts/pareidolia-nexon-games-project-rx/04-pareidolia-inews-4.jpg" alt="파레이돌리아 공식 이미지" loading="lazy" />
+<img class="post-landscape-image" src="/images/posts/pareidolia-nexon-games-project-rx/04-pareidolia-inews-4.jpg" alt="파레이돌리아 공식 이미지" loading="lazy" />
 
 ## 5. 성공을 가를 건 그래픽보다 관계의 밀도
 

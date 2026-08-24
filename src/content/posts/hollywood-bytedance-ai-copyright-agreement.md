@@ -30,7 +30,7 @@ hideDescription: true
 
 이 변화는 할리우드가 인공지능을 막을 수 있다고 생각해서가 아니라 이미 널리 쓰이기 시작한 기술을 어떤 규칙 안에 넣을지 협상하는 단계로 넘어갔다는 신호에 가깝습니다.
 
-<img class="post-square-image" src="/images/posts/hollywood-bytedance-ai-copyright-agreement/01-bytedance-office-sign.jpg" alt="바이트댄스 사무실 건물에 새겨진 로고" loading="lazy" />
+<img class="post-landscape-image" src="/images/posts/hollywood-bytedance-ai-copyright-agreement/01-bytedance-office-sign.jpg" alt="바이트댄스 사무실 건물에 새겨진 로고" loading="lazy" />
 
 결론부터 말씀드리면 저작권 전쟁은 기술을 없애려는 싸움에서 누가 어떤 조건으로 쓸 수 있는지를 정하는 협상으로 이동하고 있다는 점입니다.
 
@@ -50,7 +50,7 @@ hideDescription: true
 
 그래서 필터 하나로 모든 문제를 해결하기 어렵습니다.
 
-<img class="post-square-image" src="/images/posts/hollywood-bytedance-ai-copyright-agreement/02-seedance-ai-video-still.png" alt="시댄스로 생성된 인공지능 영상 장면" loading="lazy" />
+<img class="post-landscape-image" src="/images/posts/hollywood-bytedance-ai-copyright-agreement/02-seedance-ai-video-still.jpg" alt="시댄스로 생성된 인공지능 영상 장면" loading="lazy" />
 
 사용자가 유명 배우 이름을 입력했을 때 막을지, 비슷한 외모까지 제한할지, 패러디는 어떻게 볼지 같은 경계가 계속 생깁니다. 캐릭터도 이름을 쓰지 않고 외형만 비슷하게 만들면 판단이 복잡해집니다.
 
@@ -73,7 +73,7 @@ hideDescription: true
 
 기술을 완전히 막으면 자신들도 활용할 기회를 잃습니다.
 
-<img class="post-square-image" src="/images/posts/hollywood-bytedance-ai-copyright-agreement/03-hollywood-sign.jpg" alt="로스앤젤레스 할리우드 사인" loading="lazy" />
+<img class="post-landscape-image" src="/images/posts/hollywood-bytedance-ai-copyright-agreement/03-hollywood-sign.jpg" alt="로스앤젤레스 할리우드 사인" loading="lazy" />
 
 그래서 장기적으로는 허가받은 작품과 배우 데이터를 사용하는 상업용 생성 도구가 커질 가능성이 있습니다. 영화사가 자신의 지식재산권을 단순히 방어하는 데서 끝내지 않고 새로운 라이선스 사업으로 바꿀 수도 있죠.
 
@@ -97,7 +97,7 @@ hideDescription: true
 
 어떤 데이터로 학습했는지 공개하는 방식, 저작권자가 거부할 수 있는 절차, 생성 결과에 표시를 넣는 방법, 허가된 캐릭터를 상업적으로 쓰는 방식이 점점 표준화될 수 있습니다.
 
-<img class="post-square-image" src="/images/posts/hollywood-bytedance-ai-copyright-agreement/04-film-camera-movie-set.jpg" alt="영화 촬영 현장의 35mm 카메라" loading="lazy" />
+<img class="post-landscape-image" src="/images/posts/hollywood-bytedance-ai-copyright-agreement/04-film-camera-movie-set.jpg" alt="영화 촬영 현장의 35mm 카메라" loading="lazy" />
 
 인공지능 저작권 전쟁은 기술을 없애느냐의 싸움에서 누가 어떤 조건으로 쓸 수 있느냐의 협상으로 이동하고 있습니다. 이번 합의는 그 변화가 실제로 시작됐다는 점에서 의미가 큽니다.
 

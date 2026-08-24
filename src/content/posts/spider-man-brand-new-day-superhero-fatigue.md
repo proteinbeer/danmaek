@@ -27,7 +27,7 @@ hideDescription: true
 
 몇 년 동안 할리우드에서는 슈퍼히어로 피로감이라는 말이 반복됐습니다. 그런데 스파이더맨이 이런 기록을 세우면 피로감이라는 진단 자체가 틀렸던 것처럼 보일 수 있습니다.
 
-<img class="post-square-image" src="/images/posts/spider-man-brand-new-day-superhero-fatigue/01-spiderman-bnd-still.jpg" alt="스파이더맨 브랜드 뉴 데이 영화 스틸" loading="lazy" />
+<img class="post-landscape-image" src="/images/posts/spider-man-brand-new-day-superhero-fatigue/01-spiderman-bnd-still.jpg" alt="스파이더맨 브랜드 뉴 데이 영화 스틸" loading="lazy" />
 
 실제로는 조금 다르게 볼 필요가 있습니다.
 
@@ -43,13 +43,13 @@ hideDescription: true
 
 하지만 스파이더맨의 흥행은 사람들이 여전히 강한 캐릭터, 명확한 이야기, 큰 극장 경험에는 돈을 쓴다는 점을 보여줍니다.
 
-<img class="post-square-image" src="/images/posts/spider-man-brand-new-day-superhero-fatigue/02-spiderman-bnd-jump.webp" alt="스파이더맨 브랜드 뉴 데이 공중 액션 장면" loading="lazy" />
+<img class="post-landscape-image" src="/images/posts/spider-man-brand-new-day-superhero-fatigue/02-spiderman-bnd-jump.webp" alt="스파이더맨 브랜드 뉴 데이 공중 액션 장면" loading="lazy" />
 
 ## 2. 스파이더맨은 슈퍼히어로보다 캐릭터에 가깝다
 
 스파이더맨은 오랫동안 영화, 애니메이션, 게임에서 반복적으로 재해석된 캐릭터입니다. 특정 영화 세계관을 모르는 관객도 피터 파커가 누구인지 대략 알고 있죠.
 
-<img class="post-square-image" src="/images/posts/spider-man-brand-new-day-superhero-fatigue/03-spiderman-statue-shanghai.jpg" alt="행사장에 전시된 스파이더맨 조형물" loading="lazy" />
+<img class="post-landscape-image post-landscape-image--high" src="/images/posts/spider-man-brand-new-day-superhero-fatigue/03-spiderman-statue-shanghai.jpg" alt="행사장에 전시된 스파이더맨 조형물" loading="lazy" />
 
 이런 캐릭터는 진입 장벽이 낮습니다.
 
@@ -86,7 +86,7 @@ hideDescription: true
 
 엄청난 볼거리가 있는 것도 아니고 강한 팬덤이 있는 것도 아니며 입소문도 특별하지 않다면 스트리밍을 기다릴 이유가 충분해집니다. 슈퍼히어로 영화도 이름만 붙였다고 자동으로 흥행하기 어려워지는 이유죠.
 
-<img class="post-square-image" src="/images/posts/spider-man-brand-new-day-superhero-fatigue/04-spiderman-bnd-action-still.webp" alt="스파이더맨 브랜드 뉴 데이 액션 영화 스틸" loading="lazy" />
+<img class="post-landscape-image" src="/images/posts/spider-man-brand-new-day-superhero-fatigue/04-spiderman-bnd-action-still.webp" alt="스파이더맨 브랜드 뉴 데이 액션 영화 스틸" loading="lazy" />
 
 브랜드 뉴 데이의 성공을 슈퍼히어로 영화 전체의 부활로 확대해서 보면 다음 실패를 설명하기 어려워질 수 있습니다.
 

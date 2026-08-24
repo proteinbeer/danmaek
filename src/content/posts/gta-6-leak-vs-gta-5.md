@@ -13,8 +13,8 @@ tags:
   - "락스타 게임즈"
   - "바이스 시티"
   - "오픈월드 게임"
-image: "/images/posts/gta-6-leak-vs-gta-5/01-gta6-leak.jpg"
-imageAlt: "유출된 GTA 6 게임플레이 화면"
+image: "/images/posts/gta-6-leak-vs-gta-5/04-gta6-car-trailer2.jpg"
+imageAlt: "GTA 6 공식 트레일러 아트워크"
 imageWidth: 1280
 imageHeight: 720
 hideHeroImage: true
@@ -31,7 +31,7 @@ GTA 6를 기다리고 계시면 최근 온라인에 퍼진 유출 영상도 한 
 
 현재 GTA 6는 2026년 11월 19일 출시 예정이며 무대는 현대의 바이스 시티와 리오나이다 주입니다. 공식 정보와 최근 유출 영상에서 확인된 내용을 기준으로 GTA 5와 달라 보이는 부분을 정리해봤습니다.
 
-<img class="post-square-image" src="/images/posts/gta-6-leak-vs-gta-5/01-gta6-leak.jpg" alt="유출된 GTA 6 게임플레이 화면" loading="lazy" />
+<img class="post-landscape-image" src="/images/posts/gta-6-leak-vs-gta-5/04-gta6-car-trailer2.jpg" alt="GTA 6 차량 관련 공식 장면" loading="lazy" />
 
 ## 1. 여섯 단계로 늘어난 수배 시스템
 
@@ -47,7 +47,7 @@ GTA 5에서 경찰 수배 단계는 최대 다섯 단계까지 올라갑니다. 
 
 이번 유출에서 가장 눈에 띄는 부분 가운데 하나는 수배 화면 아래에 나타난 여러 표시입니다. 이를 분석한 해외 매체들은 경찰이 주인공의 얼굴과 옷 그리고 사용한 차량을 각각 구분해 추적하는 시스템일 가능성을 제기했습니다.
 
-<img class="post-square-image" src="/images/posts/gta-6-leak-vs-gta-5/03-gta6-chase.jpg" alt="GTA 6 유출 영상에 담긴 경찰 추적 장면" loading="lazy" />
+<img class="post-landscape-image" src="/images/posts/gta-6-leak-vs-gta-5/03-gta6-chase.jpg" alt="GTA 6 유출 영상에 담긴 경찰 추적 장면" loading="lazy" />
 
 GTA 5에서는 경찰의 시야에서 벗어난 뒤 일정 시간 숨어 계시면 수배 단계가 사라지는 방식이 중심이었습니다. 어떤 옷을 입고 있는지와 어떤 차량을 사용했는지가 별도의 신원 정보처럼 관리되지는 않았죠.
 
@@ -70,7 +70,7 @@ GTA 6에서 실제로 얼굴과 옷과 차량이 따로 추적된다면 도주 �
 
 GTA 5에서 자동차는 크게 파손되거나 불이 붙기 전까지 연료를 신경 쓰실 필요가 없었습니다. 주유소가 맵에 존재하지만 실제로 기름을 넣으며 차량을 관리하는 시스템은 없었죠.
 
-<img class="post-square-image" src="/images/posts/gta-6-leak-vs-gta-5/04-gta6-car-trailer2.jpg" alt="GTA 6 차량 관련 공식 장면" loading="lazy" />
+<img class="post-landscape-image" src="/images/posts/gta-6-leak-vs-gta-5/01-gta6-leak.jpg" alt="유출된 GTA 6 게임플레이 화면" loading="lazy" />
 
 GTA 6 유출 영상에서는 차량 화면에 연료와 엔진 상태로 보이는 수치가 나타났습니다. 다른 유출 분석에서는 주유소에서 차량에 연료를 채울 수 있는 기능도 확인됐다고 전하고 있습니다.
 
@@ -96,7 +96,7 @@ GTA 6가 비슷한 방향으로 간다면 GTA 5처럼 무기를 사실상 무제
 
 유출 영상에서는 제이슨이 집 근처에서 농구를 하는 장면도 등장했습니다. 단순히 공을 던지는 장식용 행동이 아니라 타이밍에 맞춰 슛을 하는 작은 게임 형태로 구현된 모습이었죠.
 
-<img class="post-square-image" src="/images/posts/gta-6-leak-vs-gta-5/02-gta6-gameplay.jpg" alt="GTA 6 유출 영상의 플레이 장면" loading="lazy" />
+<img class="post-landscape-image" src="/images/posts/gta-6-leak-vs-gta-5/02-gta6-gameplay.jpg" alt="GTA 6 유출 영상의 플레이 장면" loading="lazy" />
 
 더 흥미로운 부분은 슛에 성공한 뒤 집중력 수치가 올라가는 표시가 등장했다는 점입니다. 특정 활동을 반복하면 캐릭터 능력치가 성장하는 구조일 가능성을 보여줍니다.
 
