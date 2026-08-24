@@ -88,16 +88,23 @@ const breadcrumbLd = {
     </div>
   </main>
   {related.length > 0 && (
-    <section class="container">
+    <section class="container related-section">
       <div class="section-head">
         <div>
           <h2>관련 글</h2>
-          <p>이어서 읽기 좋은 단맥의 다른 글입니다.</p>
+          <p>이어서 읽기 좋은 다른 글입니다.</p>
         </div>
       </div>
       <div class="grid">
         {related.map((item: any) => <PostCard post={item} />)}
       </div>
+      <div class="adfit-banner">
+        <ins class="kakao_ad_area" style="display:none;"
+          data-ad-unit="DAN-LoWQpAjT1C8qjOLo"
+          data-ad-width="728"
+          data-ad-height="90"></ins>
+      </div>
+      <script is:inline async type="text/javascript" charset="utf-8" src="https://t1.kakaocdn.net/kas/static/ba.min.js"></script>
     </section>
   )}
 </BaseLayout>
