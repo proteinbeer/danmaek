@@ -6,7 +6,6 @@ import { getPosts } from '../lib/posts';
 
 const posts = getPosts();
 const featured = posts.find((post) => post.data.featured) ?? posts[0];
-const latest = posts.slice(0, 6);
 ---
 <BaseLayout>
   <main class="home-page">
@@ -46,16 +45,58 @@ const latest = posts.slice(0, 6);
       </div>
     </section>
 
-    <section class="container" aria-labelledby="latest-title">
+    <section class="container" aria-labelledby="latest-title" id="all-posts">
       <div class="section-head">
         <div>
-          <h2 id="latest-title">더 읽기</h2>
-          <p>이전 이슈도 만나 보세요.</p>
+          <h2 id="latest-title">모든 글</h2>
+          <p>단맥의 이전 이슈도 만나 보세요.</p>
         </div>
       </div>
-      <div class="grid">
-        {latest.map((post) => <PostCard post={post} />)}
+      <div class="grid" id="post-grid">
+        {posts.map((post) => <PostCard post={post} />)}
       </div>
+      <nav class="pager" id="pager" aria-label="글 페이지 네비게이션">
+        <button type="button" class="pager__arrow" id="pager-prev" aria-label="이전 페이지">&#8592;</button>
+        <span class="pager__status" id="pager-status"></span>
+        <button type="button" class="pager__arrow" id="pager-next" aria-label="다음 페이지">&#8594;</button>
+      </nav>
     </section>
   </main>
+  <script>
+    const PAGE_SIZE = 6;
+    const section = document.getElementById('all-posts');
+    const grid = document.getElementById('post-grid') as HTMLElement;
+    const pager = document.getElementById('pager') as HTMLElement;
+    const prevButton = document.getElementById('pager-prev') as HTMLButtonElement;
+    const nextButton = document.getElementById('pager-next') as HTMLButtonElement;
+    const status = document.getElementById('pager-status') as HTMLElement;
+    const cards = Array.from(grid?.children ?? []) as HTMLElement[];
+    const totalPages = Math.ceil(cards.length / PAGE_SIZE);
+    let current = 0;
+
+    function render() {
+      cards.forEach((card, index) => {
+        card.style.display = index >= current * PAGE_SIZE && index < (current + 1) * PAGE_SIZE ? '' : 'none';
+      });
+      status.textContent = `${current + 1} / ${totalPages}`;
+      prevButton.disabled = current === 0;
+      nextButton.disabled = current >= totalPages - 1;
+    }
+
+    function goTo(page: number) {
+      if (page < 0 || page > totalPages - 1 || page === current) return;
+      current = page;
+      render();
+      section?.scrollIntoView({ behavior: 'smooth' });
+    }
+
+    prevButton?.addEventListener('click', () => goTo(current - 1));
+    nextButton?.addEventListener('click', () => goTo(current + 1));
+
+    if (totalPages <= 1) {
+      pager.hidden = true;
+    } else {
+      render();
+    }
+  </script>
 </BaseLayout>
