@@ -1,4 +1,4 @@
----
+﻿---
 title: "GTA 6 유출 영상 보니 GTA 5와 달라진 점 6가지"
 description: "GTA 6 유출 영상에서 확인된 수배 단계와 경찰 추적 그리고 연료와 장비 보관 등 GTA 5와 달라진 점 여섯 가지를 정리합니다."
 date: 2026-08-24
@@ -37,8 +37,6 @@ GTA 6를 기다리고 계시면 최근 온라인에 퍼진 유출 영상도 한 
 
 GTA 5에서 경찰 수배 단계는 최대 다섯 단계까지 올라갑니다. 그런데 최근 GTA 6 유출 영상에서는 별이 여섯 개까지 표시될 수 있는 화면이 포착됐습니다.
 
-<img class="post-square-image" src="/images/posts/gta-6-leak-vs-gta-5/02-gta6-gameplay.jpg" alt="GTA 6 유출 영상의 플레이 장면" loading="lazy" />
-
 실제로 적용된다면 GTA 5보다 경찰 추적의 최고 단계가 한 단계 더 늘어나는 셈이죠. 단순히 숫자만 하나 늘어나는 변화라기보다는 최고 수배 상태에서 경찰과 특수 병력이 얼마나 강하게 대응하느냐가 더 중요할 것으로 보입니다.
 
 유출 영상에서는 비교적 작은 범죄에도 경찰 반응이 빠르게 이어지는 모습이 확인됐습니다. GTA 5보다 경찰 시스템 자체를 세분화하려는 방향으로 보이는 이유입니다.
@@ -72,7 +70,7 @@ GTA 6에서 실제로 얼굴과 옷과 차량이 따로 추적된다면 도주 �
 
 GTA 5에서 자동차는 크게 파손되거나 불이 붙기 전까지 연료를 신경 쓰실 필요가 없었습니다. 주유소가 맵에 존재하지만 실제로 기름을 넣으며 차량을 관리하는 시스템은 없었죠.
 
-<img class="post-square-image" src="/images/posts/gta-6-leak-vs-gta-5/04-gta6-car.jpg" alt="GTA 6 유출 영상에 등장한 차량 화면" loading="lazy" />
+<img class="post-square-image" src="/images/posts/gta-6-leak-vs-gta-5/04-gta6-car-trailer2.jpg" alt="GTA 6 차량 관련 공식 장면" loading="lazy" />
 
 GTA 6 유출 영상에서는 차량 화면에 연료와 엔진 상태로 보이는 수치가 나타났습니다. 다른 유출 분석에서는 주유소에서 차량에 연료를 채울 수 있는 기능도 확인됐다고 전하고 있습니다.
 
@@ -98,7 +96,7 @@ GTA 6가 비슷한 방향으로 간다면 GTA 5처럼 무기를 사실상 무제
 
 유출 영상에서는 제이슨이 집 근처에서 농구를 하는 장면도 등장했습니다. 단순히 공을 던지는 장식용 행동이 아니라 타이밍에 맞춰 슛을 하는 작은 게임 형태로 구현된 모습이었죠.
 
-<img class="post-square-image" src="/images/posts/gta-6-leak-vs-gta-5/05-gta6-scene.jpg" alt="GTA 6 유출 영상의 미니게임 플레이 화면" loading="lazy" />
+<img class="post-square-image" src="/images/posts/gta-6-leak-vs-gta-5/02-gta6-gameplay.jpg" alt="GTA 6 유출 영상의 플레이 장면" loading="lazy" />
 
 더 흥미로운 부분은 슛에 성공한 뒤 집중력 수치가 올라가는 표시가 등장했다는 점입니다. 특정 활동을 반복하면 캐릭터 능력치가 성장하는 구조일 가능성을 보여줍니다.
 
