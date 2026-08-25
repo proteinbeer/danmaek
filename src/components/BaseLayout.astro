@@ -1,4 +1,4 @@
----
+﻿---
 import Header from './Header.astro';
 import Footer from './Footer.astro';
 import GoogleAnalytics from './GoogleAnalytics.astro';
@@ -33,6 +33,7 @@ const imageUrl = new URL(image, SITE.url).toString();
     <link rel="apple-touch-icon" href="/favicon.png" />
     <link rel="canonical" href={canonical} />
     <link rel="alternate" type="application/rss+xml" title="단맥 RSS" href="/rss.xml" />
+    <meta name="naver-site-verification" content="7fa2799b612347fc7b4b234539bdd42fa12a8fa4" />
     <meta name="description" content={metaDescription} />
     <meta property="og:locale" content={SITE.locale} />
     <meta property="og:site_name" content={SITE.name} />
