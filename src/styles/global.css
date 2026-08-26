@@ -107,7 +107,7 @@ img { max-width: 100%; height: auto; }
   flex: 0 0 auto;
   min-height: 0;
   min-width: 0;
-  padding: 7px 13px 5px;
+  padding: 6px 13px 5px;
   font-size: .88rem;
   font-weight: 750;
 }
@@ -448,15 +448,7 @@ main:not(.home-page) {
 }
 .tool-wrap > nav.breadcrumb {
   display: block;
-  margin-bottom: 12px;
-  color: var(--muted);
-  font-size: .88rem;
-}
-.tool-wrap > nav.breadcrumb a {
-  color: var(--accent);
-}
-.tool-wrap > nav.breadcrumb span:not([aria-hidden]) {
-  color: var(--faint);
+  margin-bottom: 9px;
 }
 .tool-panel {
   position: relative;
@@ -1007,16 +999,23 @@ main:not(.home-page) {
   z-index: 1;
   width: min(var(--reading), calc(100% - 40px));
   margin: 0 auto;
-  padding: 42px 0 12px;
+  padding: 48px 0;
 }
 .breadcrumb {
-  margin-bottom: 24px;
+  margin-bottom: 12px;
   color: var(--muted);
   font-size: .88rem;
+}
+.breadcrumb a {
+  color: var(--accent);
+}
+.breadcrumb span:not([aria-hidden]) {
+  color: var(--faint);
 }
 .article-wrap > article {
   background: #fff;
   border: 1px solid rgba(217, 222, 231, .92);
+  border-top: 4px solid var(--accent);
   border-radius: 14px;
   padding: clamp(26px, 5vw, 48px);
   box-shadow: 0 16px 44px rgba(15, 23, 42, .04);
@@ -1933,4 +1932,16 @@ article.featured .contact-form {
 .toast.show {
   transform: translateX(-50%) translateY(0);
   opacity: 1;
+}
+
+.tool-card__icon-placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  aspect-ratio: 16/9;
+  background: var(--accent);
+  border-radius: 8px;
+  font-size: 2.5rem;
+  font-family: "Segoe UI Emoji", "Apple Color Emoji", "Noto Color Emoji", var(--font);
 }

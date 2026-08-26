@@ -1,0 +1,41 @@
+---
+import BaseLayout from '../../components/BaseLayout.astro';
+import { CATEGORIES, SITE } from '../../consts';
+import { TOOLS } from '../../lib/tools';
+
+const category = CATEGORIES.find((item) => item.name === '도구')!;
+---
+<BaseLayout title={`도구 | ${SITE.name}`} description={category.description} canonical={new URL('/tools/', SITE.url).toString()}>
+  <main class="container">
+    <section aria-label="도구 목록">
+      <div class="section-head">
+        <div><h2>도구</h2></div>
+      </div>
+      <div class="grid">
+        {TOOLS.map((tool) => (
+          <article class="post-card">
+            <a class="post-card__image" href={`/tools/${tool.slug}/`} aria-label={tool.title}>
+              <div class="tool-card__icon-placeholder">{tool.icon}</div>
+            </a>
+            <div class="post-card__meta">
+              <span>{tool.category}</span>
+            </div>
+            <h3><a href={`/tools/${tool.slug}/`}>{tool.title}</a></h3>
+          </article>
+        ))}
+      </div>
+    </section>
+    <div class="tool-coupang tool-coupang--sm">
+<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
+<script is:inline>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+    </div>
+    <div class="tool-coupang tool-coupang--lg">
+<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
+<script is:inline>
+	new PartnersCoupang.G({"id":1021235,"trackingCode":"AF7638395","subId":null,"template":"carousel","width":"662","height":"140"});
+</script>
+    </div>
+  </main>
+</BaseLayout>

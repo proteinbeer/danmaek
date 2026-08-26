@@ -42,7 +42,7 @@ const breadcrumbLd = {
   <main class="article-page">
     <div class="article-wrap">
       <nav class="breadcrumb" aria-label="breadcrumb">
-        <a href="/">홈</a> / <a href={categoryToPath[data.category]}>{data.category}</a>
+        <a href="/">홈</a> <span aria-hidden="true">/</span> <a href={categoryToPath[data.category]}>{data.category}</a>
       </nav>
       <article>
         <header class="article-header">
