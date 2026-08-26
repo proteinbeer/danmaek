@@ -1039,9 +1039,9 @@ main:not(.home-page) {
 .hero-image img {
   display: block;
   width: 100%;
+  height: auto;
   border: 1px solid var(--line);
   border-radius: 10px;
-  object-fit: cover;
 }
 .prose {
   padding-top: 34px;

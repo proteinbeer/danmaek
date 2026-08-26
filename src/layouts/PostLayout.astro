@@ -2,11 +2,13 @@
 import BaseLayout from '../components/BaseLayout.astro';
 import ShareButtons from '../components/ShareButtons.astro';
 import PostCard from '../components/PostCard.astro';
+import LocalPostEditor from '../components/LocalPostEditor.astro';
 import { SITE, categoryToPath } from '../consts';
 
 const { post, prev, next, related } = Astro.props;
 const Content = post.Content;
 const data = post.data;
+const isDev = import.meta.env.DEV;
 const description = data.description.trim();
 const metaDescription = description || SITE.description;
 const canonical = new URL(`/posts/${post.id}/`, SITE.url).toString();
@@ -89,6 +91,7 @@ const breadcrumbLd = {
         <a class="button-link" href="#top" style="display:inline-flex;">맨 위로 ↑</a>
       </div>
     </div>
+    {isDev && <LocalPostEditor slug={post.id} />}
   </main>
   {related.length > 0 && (
     <section class="container related-section">
