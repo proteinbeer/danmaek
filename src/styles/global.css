@@ -446,9 +446,17 @@ main:not(.home-page) {
 .tool-wrap {
   max-width: 880px;
 }
-.tool-wrap > .breadcrumb {
+.tool-wrap > nav.breadcrumb {
   display: block;
   margin-bottom: 12px;
+  color: var(--muted);
+  font-size: .88rem;
+}
+.tool-wrap > nav.breadcrumb a {
+  color: var(--accent);
+}
+.tool-wrap > nav.breadcrumb span:not([aria-hidden]) {
+  color: var(--faint);
 }
 .tool-panel {
   position: relative;

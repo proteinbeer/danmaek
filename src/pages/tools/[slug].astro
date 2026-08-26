@@ -1,4 +1,5 @@
 ---
+
 import BaseLayout from '../../components/BaseLayout.astro';
 import { TOOLS } from '../../lib/tools';
 
@@ -10,13 +11,37 @@ export function getStaticPaths() {
 }
 
 const { tool } = Astro.props;
+const canonicalUrl = new URL(Astro.url.pathname, 'https://danmaek.com').toString();
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "WebApplication",
+  "name": tool.title,
+  "description": tool.description,
+  "url": canonicalUrl,
+  "applicationCategory": "UtilityApplication",
+  "operatingSystem": "Web",
+  "offers": { "@type": "Offer", "price": "0", "priceCurrency": "KRW" }
+};
+const breadcrumbLd = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://danmaek.com/" },
+    { "@type": "ListItem", "position": 2, "name": "도구", "item": "https://danmaek.com/search/" },
+    { "@type": "ListItem", "position": 3, "name": tool.title }
+  ]
+};
 ---
 
 <BaseLayout title={`${tool.title} | 단맥`} description={tool.description}>
   <link slot="head" rel="stylesheet" href="/assets/tailwind.css" />
+  <script slot="head" is:inline type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+  <script slot="head" is:inline type="application/ld+json" set:html={JSON.stringify(breadcrumbLd)} />
   <main class="tool-page">
     <section class="container tool-wrap">
-      <a class="breadcrumb" href="/">홈</a>
+      <nav class="breadcrumb" aria-label="breadcrumb">
+        <a href="/">홈</a> <span aria-hidden="true">&rsaquo;</span> <a href="/search/">도구</a> <span aria-hidden="true">&rsaquo;</span> <span aria-current="page">{tool.title}</span>
+      </nav>
       <article class="tool-panel tool-panel--sft" data-tool={tool.type} data-slug={tool.slug} data-icon={tool.icon} data-title={tool.title} data-description={tool.description}>
         <div class="tool-panel__icon" aria-hidden="true">{tool.icon}</div>
         <p class="eyebrow">{tool.category}</p>
