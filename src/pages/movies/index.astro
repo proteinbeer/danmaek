@@ -9,18 +9,25 @@ const posts = getPostsByCategory('영화');
 ---
 <BaseLayout title={`영화 | ${SITE.name}`} description={category.description} canonical={new URL('/movies/', SITE.url).toString()}>
   <main class="container">
-    <section class="hero">
-      <p class="eyebrow">CATEGORY</p>
-      <h1>영화</h1>
-      <p>{category.description}</p>
-    </section>
     <section aria-label="영화 글 목록">
       <div class="section-head">
-        <div><h2>전체 글</h2><p>{posts.length}개의 글이 있습니다.</p></div>
+        <div><h2>영화</h2></div>
       </div>
       <div class="grid">
         {posts.map((post) => <PostCard post={post} />)}
       </div>
     </section>
+    <div class="tool-coupang tool-coupang--sm">
+<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
+<script is:inline>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+    </div>
+    <div class="tool-coupang tool-coupang--lg">
+<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
+<script is:inline>
+	new PartnersCoupang.G({"id":1021235,"trackingCode":"AF7638395","subId":null,"template":"carousel","width":"662","height":"140"});
+</script>
+    </div>
   </main>
 </BaseLayout>

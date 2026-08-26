@@ -6,8 +6,8 @@ import knowledgeCategoryImage from './assets/categories/knowledge.gif';
 export const SITE = {
   name: '단맥',
   url: 'https://danmaek.com',
-  title: '단맥 | 영화·드라마·게임·지식을 깊게 읽는 한국어 매거진',
-  description: '단맥은 영화, 드라마, 게임, 지식을 뉴스보다 한 단계 더 깊게 읽는 한국어 콘텐츠 사이트입니다.',
+  title: '단맥 | 단백질처럼 탄탄한 정보, 맥주처럼 청량한 재미가 있는 곳',
+  description: '단맥은 영화, 드라마, 게임, 지식을 뉴스보다 한 단계 더 깊게 읽는 한국어 도구 콘텐츠 사이트입니다.',
   locale: 'ko_KR',
   lang: 'ko-KR'
 } as const;

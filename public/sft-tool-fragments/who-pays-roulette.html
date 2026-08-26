@@ -1,0 +1,19 @@
+<div id="cardsGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 relative"><div id="whoPaysCard" data-category="generator" data-tool-slug="who-pays-roulette" class="expandable-card expand-transition relative z-10 block bg-white rounded-2xl border border-gray-200 shadow-sm hover:shadow-md hover:border-zinc-400 backdrop-blur-xs flex-col overflow-hidden w-full h-full max-w-lg mx-auto md:mx-0 tool-panel tool-page-panel is-expanded active-panel shadow-2xl border-zinc-400">
+                <div class="card-content p-6 w-full">
+                    <button class="close-expanded-btn expand-close absolute top-5 right-5 text-zinc-400 hover:text-zinc-600 font-bold text-base cursor-pointer p-1 focus:outline-none" aria-label="Close generator">×</button>
+                    <div class="w-12 h-12 bg-orange-50 border border-orange-100 rounded-xl flex items-center justify-center text-2xl mb-4">🧾</div>
+                    <h1 id="tool77Title" class="text-lg font-bold text-zinc-900 mb-1">누가 낼까요? 룰렛</h1>
+                    <p id="tool77Desc" class="card-description text-sm text-zinc-500 overflow-hidden">이름을 돌려 이번에는 누가 계산할지 운에 맡겨 보세요.</p>
+                </div>
+                <div class="calculator-content px-6 pb-5 flex flex-col w-full transition-all duration-150 ease-out space-y-4 opacity-100 translate-y-0">
+                    <div class="lunch-slot-stage"><div id="payerSlotMachine" class="lunch-slot-machine" role="status" aria-live="polite" aria-label="Who pays roulette result"><div id="payerSlotPrevious" class="lunch-slot-row">과연</div><div id="payerSlotCurrent" class="lunch-slot-row is-current">누가</div><div id="payerSlotNext" class="lunch-slot-row">낼까?</div></div><div id="payerFireworks" class="lunch-fireworks" aria-hidden="true"></div></div>
+                    <div><label for="payerNames" class="block text-xs font-bold text-zinc-500 mb-1">이름</label><textarea id="payerNames" rows="5" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm resize-none" placeholder="이름을 한 줄에 하나씩 입력하세요">철수
+민희
+영구</textarea></div>
+                    <button id="spinPayer" type="button" class="w-full bg-zinc-900 text-white rounded-xl px-4 py-2.5 text-sm font-bold cursor-pointer hover:bg-zinc-700 disabled:cursor-not-allowed disabled:bg-zinc-300">돌리기</button>
+                    <p id="payerMessage" class="hidden text-center text-xs font-bold text-red-600" role="alert">이름을 2개 이상 입력하세요.</p>
+                    <div class="hidden" aria-hidden="true"><span id="payerLabelSpinning">돌리는 중...</span><span id="payerLabelSpinAgain">다시 돌리기</span><span id="payerLabelPays"></span></div>
+                </div>
+            </div></div>
+
+        

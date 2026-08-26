@@ -1,0 +1,1322 @@
+---
+import BaseLayout from '../../components/BaseLayout.astro';
+import { TOOLS } from '../../lib/tools';
+
+export function getStaticPaths() {
+  return TOOLS.map((tool) => ({
+    params: { slug: tool.slug },
+    props: { tool },
+  }));
+}
+
+const { tool } = Astro.props;
+---
+
+<BaseLayout title={`${tool.title} | 단맥`} description={tool.description}>
+  <link slot="head" rel="stylesheet" href="/assets/tailwind.css" />
+  <main class="tool-page">
+    <section class="container tool-wrap">
+      <a class="breadcrumb" href="/">홈</a>
+      <article class="tool-panel tool-panel--sft" data-tool={tool.type} data-slug={tool.slug} data-icon={tool.icon} data-title={tool.title} data-description={tool.description}>
+        <div class="tool-panel__icon" aria-hidden="true">{tool.icon}</div>
+        <p class="eyebrow">{tool.category}</p>
+        <h1>{tool.title}</h1>
+        <p class="tool-desc">{tool.description}</p>
+
+        <div class="tool-form tool-form--sft" data-form>
+          <p class="tool-loading">도구를 불러오는 중입니다.</p>
+        </div>
+        <div class="tool-result" data-result hidden></div>
+      </article>
+      <div id="tool-feedback" class="tool-feedback">
+        <p class="tool-feedback__title">이 도구가 마음에 드셨나요?</p>
+        <div class="tool-feedback__buttons">
+          <button type="button" id="feedbackLike" class="tool-feedback__btn" data-vote="like">👍 좋아요</button>
+          <button type="button" id="feedbackDislike" class="tool-feedback__btn" data-vote="dislike">👎 별로예요</button>
+        </div>
+        <div id="feedbackFormWrap" class="tool-feedback__form hidden">
+          <textarea id="feedbackMessage" rows="2" class="tool-feedback__textarea" placeholder="개선 의견을 적어 주세요" required></textarea>
+          <button type="button" id="feedbackSubmit" class="tool-feedback__submit">보내기</button>
+        </div>
+      </div>
+      <div class="tool-coupang tool-coupang--sm">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
+<script is:inline>
+	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+      </div>
+      <div class="tool-coupang tool-coupang--lg">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
+<script is:inline>
+	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+	new PartnersCoupang.G({"id":1021235,"trackingCode":"AF7638395","subId":null,"template":"carousel","width":"662","height":"140"});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+      </div>
+    </section>
+  </main>
+
+  <div class="toast" id="toast">감사합니다!</div>
+
+  <script is:inline>window.SFT_LOCALE = 'ko';</script>
+
+  <script>
+    const panel = document.querySelector('[data-tool]') as HTMLElement | null;
+    const form = document.querySelector('[data-form]') as HTMLElement | null;
+    const result = document.querySelector('[data-result]') as HTMLElement | null;
+    const type = panel?.dataset.tool;
+    const slug = panel?.dataset.slug || '';
+    const toolIcon = panel?.dataset.icon || '';
+    const toolTitle = panel?.dataset.title || '';
+    const toolDescription = panel?.dataset.description || '';
+    const useSftOriginal = Boolean(slug);
+    const loadedSftScripts = new Set<string>();
+    let sftKoTranslations: Record<string, string> | null = null;
+    let isApplyingSftKorean = false;
+    const sftBuiltInTranslations: Record<string, string> = {
+      'Activity Level': '활동량',
+      'Age': '나이',
+      'Age On': '기준일',
+      'Amount': '금액',
+      'Annual Interest (%)': '연 이율(%)',
+      'Annual Return (%)': '연 수익률(%)',
+      'Avoid recent winners': '최근 결과 피하기',
+      'Base64 output': 'Base64 결과',
+      'Bill Amount': '계산 금액',
+      'Birth Date': '생년월일',
+      'BMI': 'BMI',
+      'Category': '분류',
+      'Characters': '글자 수',
+      'Choice 1 / 10': '선택 1 / 10',
+      'Choose your lunch': '점심 메뉴 고르기',
+      'Close audio tool': '오디오 도구 닫기',
+      'Close calculator': '계산기 닫기',
+      'Close converter': '변환기 닫기',
+      'Close game tool': '게임 도구 닫기',
+      'Close generator': '생성기 닫기',
+      'Close image tool': '이미지 도구 닫기',
+      'Close sprite editor': '스프라이트 편집기 닫기',
+      'Close video tool': '영상 도구 닫기',
+      'Coin': '동전',
+      'Color': '색상',
+      'Colors': '색상 수',
+      'Compression': '압축',
+      'Conversion Type': '변환 종류',
+      'Convert': '변환하기',
+      'Converted': '변환 결과',
+      'Converted Value': '변환값',
+      'Count': '개수',
+      'Credits 1': '이수학점 1',
+      'Credits 2': '이수학점 2',
+      'Credits 3': '이수학점 3',
+      'Credits 4': '이수학점 4',
+      'Current Avg Price': '현재 평균 단가',
+      'Current Shares': '현재 수량',
+      'Custom': '직접 입력',
+      'Date & Time': '날짜와 시간',
+      'Days Between': '날짜 차이',
+      'Decided 0': '결정 0',
+      'Decimal Hours': '십진 시간',
+      'Decision time remaining': '남은 결정 시간',
+      'Default': '기본',
+      'Dice': '주사위',
+      'Die': '주사위',
+      'Discount (%)': '할인율(%)',
+      'Distance': '거리',
+      'Down Payment': '계약금',
+      'Download': '다운로드',
+      'Drag the handles to select a section.': '핸들을 끌어 구간을 선택하세요.',
+      'Duration': '길이',
+      'Efficiency': '연비',
+      'End': '끝',
+      'End Date': '종료일',
+      'End Time': '종료 시간',
+      'Entry Price': '매수가',
+      'Estimate daily maintenance calories using age, height, weight, sex, and activity level.': '나이, 키, 몸무게, 성별, 활동량으로 하루 유지 칼로리를 계산합니다.',
+      'Estimated file size: --': '예상 파일 크기: --',
+      'Exchange Rate': '환율',
+      'Exclude': '제외',
+      'Exit Price': '매도가',
+      'Fees': '수수료',
+      'Female': '여성',
+      'Final Price': '최종 가격',
+      'Final Value': '최종 금액',
+      'Flip horizontal': '좌우 반전',
+      'Flip vertical': '상하 반전',
+      'Frame Rate': '프레임 속도',
+      'From': '시작 단위',
+      'Fuel Price': '연료 가격',
+      'Fuel Used': '사용 연료',
+      'Future Value': '미래 가치',
+      'Generate': '생성하기',
+      'Generate Bracket': '대진표 생성',
+      'Generate Character': '캐릭터 생성',
+      'Generate Loot': '아이템 생성',
+      'Generate Quest': '퀘스트 생성',
+      'Grade 1': '평점 1',
+      'Grade 2': '평점 2',
+      'Grade 3': '평점 3',
+      'Grade 4': '평점 4',
+      'Height (cm)': '키(cm)',
+      'Home Price': '주택 가격',
+      'Initial Amount': '초기 금액',
+      'Interest Earned': '이자 수익',
+      'Interest Rate (%)': '이율(%)',
+      'Length': '길이',
+      'Light': '가벼움',
+      'Lines': '줄 수',
+      'Loan Amount': '대출 금액',
+      'Loan Term (Years)': '대출 기간(년)',
+      'Local Time': '현지 시간',
+      'Lunch options': '점심 후보',
+      'Lunch picker result': '점심 메뉴 추천 결과',
+      'Maintenance': '유지',
+      'Male': '남성',
+      'Max': '최대',
+      'Min': '최소',
+      'Moderate': '보통',
+      'Monthly Contribution': '월 납입액',
+      'Monthly Payment': '월 상환액',
+      'Names': '이름',
+      'New Expected Avg Cost': '새 예상 평균 단가',
+      'New Game': '새 게임',
+      'New Purchase Price': '추가 매수가',
+      'New Purchase Shares': '추가 매수 수량',
+      'New Value': '새 값',
+      'No Spaces': '공백 제외',
+      Underweight: '저체중',
+      Normal: '일반',
+      Overweight: '과체중',
+      Obese: '비만',
+      'One excluded option per line': '한 줄에 제외할 메뉴 하나씩',
+      'One item per line': '한 줄에 하나씩',
+      'One lunch option per line': '한 줄에 점심 후보 하나씩',
+      'One name per line': '한 줄에 이름 하나씩',
+      'One player per line': '한 줄에 참가자 하나씩',
+      'Open 1': '1회 열기',
+      'Open 10': '10회 열기',
+      'Original Price': '정가',
+      'Original Value': '원래 값',
+      'Paste data:image/...;base64,...': 'data:image/...;base64,... 를 붙여넣으세요',
+      'People': '인원',
+      'Per Person': '1인당',
+      'Percentage Change': '증감률',
+      'Photo credits': '사진 출처',
+      'Pick': '뽑기',
+      'Pick Teams': '팀 나누기',
+      'Pity': '천장',
+      'Please add an image': '이미지를 추가해 주세요',
+      'Preset': '프리셋',
+      'Price Before Tax': '세전 가격',
+      'Profit / Loss': '손익',
+      'Quality': '품질',
+      'Quantity': '수량',
+      'Ready': '준비됨',
+      'Recent': '최근',
+      'Resolution': '해상도',
+      'Return Rate': '수익률',
+      'Roll': '굴리기',
+      'Rotate 180': '180도 회전',
+      'Rotate 270': '270도 회전',
+      'Rotate 90': '90도 회전',
+      'Seconds': '초',
+      'Sedentary': '거의 움직이지 않음',
+      'Sex': '성별',
+      'Speed': '속도',
+      'Spin': '돌리기',
+      'Spin Again': '다시 돌리기',
+      'Spin when ready': '준비되면 돌리기',
+      'Spinning...': '돌리는 중...',
+      'Start': '시작',
+      'Start Date': '시작일',
+      'Start Time': '시작 시간',
+      'Stage': '단계',
+      'Tax Amount': '세금',
+      'Tax Rate (%)': '세율(%)',
+      'Teams': '팀',
+      'Temperature': '온도',
+      'Text': '텍스트',
+      'The output format is selected from the input file.': '입력 파일에 따라 출력 형식이 정해집니다.',
+      'Time': '시간',
+      'Time remaining': '남은 시간',
+      'Tip (%)': '팁 비율(%)',
+      'Tip Amount': '팁 금액',
+      'To': '대상 단위',
+      'Total': '합계',
+      'Total Bill': '총 금액',
+      'Total Contributed': '총 납입액',
+      'Total Cost': '총 비용',
+      'Total Credits': '총 이수학점',
+      'Total Days': '총 일수',
+      'Total Interest': '총 이자',
+      'Total Investment': '총 투자금',
+      'Total Price': '총 가격',
+      'Total Repayment': '총 상환액',
+      'Total Shares': '총 수량',
+      'Type or paste text here...': '텍스트를 입력하거나 붙여넣으세요...',
+      'Unix Timestamp': '유닉스 타임스탬프',
+      'Uses distance, fuel price per unit, and efficiency in distance per fuel unit.': '거리, 단위당 연료 가격, 연비를 기준으로 계산합니다.',
+      'UTC ISO': 'UTC ISO',
+      'Value': '값',
+      'Value as Percent of Total': '전체 대비 비율',
+      'Very Active': '매우 활동적',
+      'View image type, file size, dimensions, and ratio.': '이미지 형식, 파일 크기, 크기, 비율을 확인합니다.',
+      'Volume': '볼륨',
+      'Wait for the signal and tap as fast as you can.': '신호가 뜨면 최대한 빠르게 누르세요.',
+      'Weight': '무게',
+      'Weight (kg)': '몸무게(kg)',
+      'Weight Loss': '감량',
+      'Which would you choose?': '어느 쪽을 고를까요?',
+      'Who pays roulette result': '누가 낼까 룰렛 결과',
+      'Who pays?': '누가 낼까?',
+      'Width': '가로',
+      'Words': '단어 수',
+      'World Mix': '세계 믹스',
+      'Years': '년',
+      'You Save': '절약 금액',
+      'Add at least one available lunch option.': '선택 가능한 점심 후보를 하나 이상 넣어 주세요.',
+      'Add at least two names.': '이름을 두 명 이상 넣어 주세요.',
+      'Alpha': '알파',
+      'Binary': '2진수',
+      'Boost or lower one MP3 or WAV file and download the same format.': 'MP3 또는 WAV 파일의 볼륨을 키우거나 줄여 같은 형식으로 저장합니다.',
+      'Brighter': '밝게',
+      'BTU': 'BTU',
+      'cal': 'cal',
+      'Chinese': '중식',
+      'chinese': '중식',
+      'Click an image preview to pick HEX and RGB colors.': '이미지 미리보기를 눌러 HEX와 RGB 색상을 선택하세요.',
+      'Contrast': '대비',
+      'Count characters, words, lines, and UTF-8 bytes in real time.': '글자, 단어, 줄 수, UTF-8 바이트를 실시간으로 계산합니다.',
+      'Create a silent WAV file for editing, testing, or video timelines.': '편집, 테스트, 영상 타임라인용 무음 WAV 파일을 생성합니다.',
+      'Create detailed RPG characters with traits, backstory, flaws, and hooks.': '특징, 배경, 약점, 이야기 훅이 있는 RPG 캐릭터를 생성합니다.',
+      'Create futuristic character, pilot, android, and explorer names.': '미래풍 캐릭터, 파일럿, 안드로이드, 탐험가 이름을 생성합니다.',
+      'Create names for kingdoms, towns, forests, ruins, and magical places.': '왕국, 마을, 숲, 유적, 마법 장소 이름을 생성합니다.',
+      'Create quick username ideas for games, apps, and profiles.': '게임, 앱, 프로필에 쓸 아이디 후보를 빠르게 생성합니다.',
+      'Create randomized first-round tournament matchups from player names.': '참가자 이름으로 1라운드 대진을 무작위 생성합니다.',
+      'Crop one image by position and size, then download the result.': '위치와 크기를 지정해 이미지를 자른 뒤 다운로드합니다.',
+      'Degrees': '도',
+      'Download a TXT summary with audio duration, size, and type.': '오디오 길이, 용량, 형식을 TXT 요약으로 다운로드합니다.',
+      'Drag across the waveform to select and trim part of an audio file.': '파형을 드래그해 오디오의 일부 구간을 선택하고 자릅니다.',
+      'Epic': '에픽',
+      'Extract MP3 or WAV audio from a local video file.': '로컬 영상 파일에서 MP3 또는 WAV 오디오를 추출합니다.',
+      'Fast Food': '패스트푸드',
+      'fastFood': '패스트푸드',
+      'Find percentages, percentage change, and how much one value is of another.': '퍼센트, 증감률, 전체 대비 비율을 계산합니다.',
+      'Find the number of days between two calendar dates.': '두 날짜 사이의 일수를 계산합니다.',
+      'Flip a coin, roll a die, or pick one option from your list.': '동전 던지기, 주사위 굴리기, 목록에서 하나 뽑기를 실행합니다.',
+      'Gradians': '그라디안',
+      'Grayscale': '흑백',
+      'High contrast': '고대비',
+      'Indian': '인도식',
+      'indian': '인도식',
+      'Italian': '이탈리아식',
+      'italian': '이탈리아식',
+      'Japanese': '일식',
+      'japanese': '일식',
+      'Korean': '한식',
+      'korean': '한식',
+      'Legendary': '전설',
+      'Lego': '레고',
+      'Match animal and food emojis across endless timed stages that become progressively harder.': '점점 어려워지는 제한 시간 안에서 동물과 음식 카드를 맞춥니다.',
+      'Mexican': '멕시코식',
+      'mexican': '멕시코식',
+      'Milliseconds': '밀리초',
+      'Mythic': '신화',
+      'Octal': '8진수',
+      'Open loot boxes with normal, rare, epic, legendary, and mythic odds.': '일반, 희귀, 에픽, 전설, 신화 확률로 아이템 박스를 엽니다.',
+      'ORG': '원본',
+      'Paste a Base64 data URL and download it as an image.': 'Base64 데이터 URL을 붙여넣고 이미지로 다운로드합니다.',
+      'Pick a random number between your chosen minimum and maximum.': '지정한 최소값과 최대값 사이의 숫자를 무작위로 뽑습니다.',
+      'Pick colors and convert HEX, RGB, RGBA, HSL, and Tailwind formats.': '색상을 고르고 HEX, RGB, RGBA, HSL, Tailwind 형식으로 변환합니다.',
+      'Race through ten choices drawn from 500 impossible dilemmas and reveal your decision style.': '500개의 어려운 선택지 중 10개를 빠르게 고르고 결정 스타일을 확인합니다.',
+      'Radians': '라디안',
+      'Rare': '희귀',
+      'Reduce a local video\'s file size and download an MP4.': '로컬 영상 파일 용량을 줄이고 MP4로 다운로드합니다.',
+      'Resize one image by width while keeping its ratio.': '비율을 유지한 채 이미지 가로 크기를 조절합니다.',
+      'Reverse one MP3 or WAV file and download the same format.': 'MP3 또는 WAV 파일을 뒤집어 같은 형식으로 다운로드합니다.',
+      'Roll RPG dice with count and modifier for tabletop-style games.': '테이블탑 게임용 RPG 주사위를 개수와 보정값까지 넣어 굴립니다.',
+      'Rotate / Flip Image': '이미지 회전·반전',
+      'Rotate or flip one image and save it as a PNG file.': '이미지를 회전하거나 반전해 PNG 파일로 저장합니다.',
+      'Sepia': '세피아',
+      'Simulate hero summons with normal, rare, epic, legendary, mythic drops and pity.': '일반, 희귀, 에픽, 전설, 신화 등급과 천장 확률로 소환을 시뮬레이션합니다.',
+      'Simulate your final average price and total investment in real-time when buying more shares.': '추가 매수 시 최종 평균 단가와 총 투자금을 실시간으로 계산합니다.',
+      'Spin a lunch slot machine and let chance choose today\'s meal.': '점심 슬롯머신을 돌려 오늘 메뉴를 무작위로 고릅니다.',
+      'Spin the names and let chance decide who pays this time.': '이름을 돌려 이번에 누가 낼지 무작위로 정합니다.',
+      'Split a bill with tip across any number of people.': '총액과 팁을 인원수대로 나눠 계산합니다.',
+      'Split names into random teams for games, events, or practice.': '게임, 행사, 연습용으로 이름을 무작위 팀으로 나눕니다.',
+      'SRT files become VTT; VTT files become SRT.': 'SRT 파일은 VTT로, VTT 파일은 SRT로 변환합니다.',
+      'Thai': '태국식',
+      'thai': '태국식',
+      'Turn a short section of a local video into an animated GIF.': '로컬 영상의 짧은 구간을 움직이는 GIF로 변환합니다.',
+      'pays!': '당첨!',
+      'Vietnamese': '베트남식',
+      'vietnamese': '베트남식',
+      'Western': '양식',
+      'western': '양식',
+    };
+    const sftInitializers = [
+      'initBmiCalculator',
+      'initAgeCalculator',
+      'initDateDifferenceCalculator',
+      'initDiscountCalculator',
+      'initTipCalculator',
+      'initCompoundInterestCalculator',
+      'initCharacterByteCounter',
+      'initCalorieCalculator',
+      'initFuelCostCalculator',
+      'initGpaCalculator',
+      'initLoanPaymentCalculator',
+      'initMortgageCalculator',
+      'initPercentageCalculator',
+      'initProfitLossCalculator',
+      'initSalesTaxCalculator',
+      'initAverageCostCalculator',
+      'initTimeDurationCalculator',
+      'initUnitConverter',
+      'initExtraConverters',
+      'initImageTools',
+      'initAudioTools',
+      'initVideoTools',
+      'initGameTools',
+      'initGenerators',
+    ];
+
+    function loadSftScript(src: string) {
+      const normalized = src.replace(/\?.*$/, '');
+      if (loadedSftScripts.has(normalized)) return Promise.resolve();
+      loadedSftScripts.add(normalized);
+      return new Promise<void>((resolve, reject) => {
+        const script = document.createElement('script');
+        script.src = normalized;
+        script.onload = () => resolve();
+        script.onerror = () => reject(new Error(`SFT script load failed: ${normalized}`));
+        document.body.appendChild(script);
+      });
+    }
+
+    async function setupSftOriginalTool() {
+      if (!form || !slug) return false;
+      try {
+        const [fragmentResponse, mapResponse, translationResponse] = await Promise.all([
+          fetch(`/sft-tool-fragments/${slug}.html`),
+          fetch('/sft-tool-map.json'),
+          fetch('/sft-ko-translations.json'),
+        ]);
+        if (!fragmentResponse.ok || !mapResponse.ok) return false;
+        const fragment = await fragmentResponse.text();
+        const map = await mapResponse.json();
+        sftKoTranslations = translationResponse.ok ? await translationResponse.json() : null;
+        const config = map[slug] || {};
+        form.innerHTML = fragment;
+        syncSftMeta(form);
+        syncSftIcon(form);
+        applySftKorean(form);
+        localizeFileInputs(form);
+        localizeRangeInputs(form);
+        if (config.config) {
+          new Function(config.config)();
+        } else {
+          (window as any).SFT_TOOL_PAGE = { slug };
+        }
+        const scripts = Array.isArray(config.scripts) ? config.scripts : [];
+        for (const src of scripts) {
+          await loadSftScript(src);
+        }
+        for (const name of sftInitializers) {
+          const initializer = (window as any)[name];
+          if (typeof initializer === 'function') {
+            try { initializer(); } catch (error) { console.warn(`${name} skipped`, error); }
+          }
+        }
+        applySftKorean(form);
+        syncSftMeta(form);
+        syncSftIcon(form);
+        localizeFileInputs(form);
+        localizeRangeInputs(form);
+        observeSftKorean(form);
+        panel?.classList.add('is-sft-ready');
+        return true;
+      } catch (error) {
+        console.warn('SFT original tool failed, fallback template will be used.', error);
+        return false;
+      }
+    }
+
+    function syncSftIcon(root: HTMLElement) {
+      if (!toolIcon) return;
+      root.querySelectorAll<HTMLElement>('.card-content .w-12.h-12').forEach((iconBox) => {
+        iconBox.textContent = toolIcon;
+        iconBox.setAttribute('aria-hidden', 'true');
+      });
+    }
+
+    function syncSftMeta(root: HTMLElement) {
+      const title = root.querySelector<HTMLElement>('.card-content h1');
+      const description = root.querySelector<HTMLElement>('.card-content .card-description');
+      if (title && toolTitle) title.textContent = toolTitle;
+      if (description && toolDescription) description.textContent = toolDescription;
+    }
+
+    function localizeFileInputs(root: HTMLElement) {
+      root.querySelectorAll<HTMLInputElement>('input[type="file"]:not([data-sft-file-localized])').forEach((input) => {
+        input.dataset.sftFileLocalized = 'true';
+        input.classList.add('sft-native-file-input');
+
+        const picker = document.createElement('div');
+        picker.className = 'sft-file-input';
+
+        const button = document.createElement('button');
+        button.type = 'button';
+        button.className = 'sft-file-button';
+        button.textContent = '파일 선택';
+        button.addEventListener('click', () => input.click());
+
+        const name = document.createElement('span');
+        name.className = 'sft-file-name';
+        name.textContent = '선택된 파일 없음';
+
+        input.addEventListener('change', () => {
+          const files = Array.from(input.files || []);
+          name.textContent = files.length
+            ? files.map((file) => file.name).join(', ')
+            : '선택된 파일 없음';
+        });
+
+        picker.append(button, name);
+        input.insertAdjacentElement('afterend', picker);
+      });
+    }
+
+    function updateRangeProgress(input: HTMLInputElement) {
+      const min = Number(input.min || 0);
+      const max = Number(input.max || 100);
+      const value = Number(input.value || min);
+      const progress = max === min
+        ? 0
+        : Math.min(100, Math.max(0, ((value - min) / (max - min)) * 100));
+      input.style.setProperty('--range-progress', `${progress}%`);
+    }
+
+    function localizeRangeInputs(root: HTMLElement) {
+      root.querySelectorAll<HTMLInputElement>('input[type="range"]').forEach((input) => {
+        input.classList.add('sft-range-input');
+        updateRangeProgress(input);
+        if (input.dataset.sftRangeLocalized === 'true') return;
+        input.dataset.sftRangeLocalized = 'true';
+        input.addEventListener('input', () => updateRangeProgress(input));
+        input.addEventListener('change', () => updateRangeProgress(input));
+      });
+    }
+
+    function translateSftText(value: string) {
+      const trimmed = value.trim();
+      if (!trimmed) return value;
+      return sftBuiltInTranslations[trimmed] || sftKoTranslations?.[trimmed] || value;
+    }
+
+    function applySftKorean(root: HTMLElement) {
+      if (isApplyingSftKorean) return;
+      isApplyingSftKorean = true;
+      const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT);
+      const textNodes: Text[] = [];
+      while (walker.nextNode()) {
+        const node = walker.currentNode as Text;
+        if (!node.nodeValue || !node.nodeValue.trim()) continue;
+        if (node.parentElement?.closest('[data-sft-no-translate]')) continue;
+        textNodes.push(node);
+      }
+      textNodes.forEach((node) => {
+        const translated = translateSftText(node.nodeValue || '');
+        if (translated !== node.nodeValue) node.nodeValue = translated;
+      });
+      root.querySelectorAll<HTMLElement>('[placeholder], [aria-label], [title]').forEach((element) => {
+        ['placeholder', 'aria-label', 'title'].forEach((attr) => {
+          const value = element.getAttribute(attr);
+          if (!value) return;
+          const translated = translateSftText(value);
+          if (translated !== value) element.setAttribute(attr, translated);
+        });
+      });
+      isApplyingSftKorean = false;
+    }
+
+    function observeSftKorean(root: HTMLElement) {
+      const observer = new MutationObserver(() => {
+        if (isApplyingSftKorean) return;
+        window.requestAnimationFrame(() => {
+          applySftKorean(root);
+          syncSftMeta(root);
+          localizeFileInputs(root);
+          localizeRangeInputs(root);
+        });
+      });
+      observer.observe(root, {
+        childList: true,
+        characterData: true,
+        subtree: true,
+        attributes: true,
+        attributeFilter: ['placeholder', 'aria-label', 'title', 'value'],
+      });
+    }
+
+    const templates: Record<string, string> = {
+      bmi: `
+        <label>키(cm)<input id="height" type="number" inputmode="decimal" placeholder="170"></label>
+        <label>몸무게(kg)<input id="weight" type="number" inputmode="decimal" placeholder="65"></label>
+      `,
+      age: `
+        <label>생년월일<input id="birth" type="date"></label>
+      `,
+      'date-diff': `
+        <label>시작일<input id="start" type="date"></label>
+        <label>종료일<input id="end" type="date"></label>
+      `,
+      discount: `
+        <label>정가<input id="price" type="number" inputmode="decimal" placeholder="50000"></label>
+        <label>할인율(%)<input id="rate" type="number" inputmode="decimal" placeholder="20"></label>
+      `,
+      tip: `
+        <label>금액<input id="amount" type="number" inputmode="decimal" placeholder="30000"></label>
+        <label>팁 비율(%)<input id="tip" type="number" inputmode="decimal" placeholder="15"></label>
+      `,
+      compound: `
+        <label>원금<input id="principal" type="number" inputmode="decimal" placeholder="1000000"></label>
+        <label>연 이율(%)<input id="rate" type="number" inputmode="decimal" placeholder="5"></label>
+        <label>기간(년)<input id="years" type="number" inputmode="decimal" placeholder="10"></label>
+      `,
+      random: `
+        <label>최소값<input id="min" type="number" inputmode="numeric" placeholder="1"></label>
+        <label>최대값<input id="max" type="number" inputmode="numeric" placeholder="100"></label>
+      `,
+      counter: `
+        <label class="tool-form__wide">텍스트<textarea id="text" rows="8" placeholder="여기에 문장을 입력하세요."></textarea></label>
+      `,
+      storage: `
+        <label>값<input id="value" type="number" inputmode="decimal" placeholder="1024"></label>
+        <label>단위<select id="unit"><option>KB</option><option>MB</option><option>GB</option><option>TB</option></select></label>
+      `,
+      color: `
+        <label>HEX<input id="hex" type="text" placeholder="#0d2b57"></label>
+      `,
+      angle: `
+        <label>값<input id="value" type="number" inputmode="decimal" placeholder="180"></label>
+        <label>단위<select id="unit"><option value="deg">도</option><option value="rad">라디안</option><option value="grad">그라디안</option></select></label>
+      `,
+      area: `
+        <label>값<input id="value" type="number" inputmode="decimal" placeholder="100"></label>
+        <label>단위<select id="unit"><option value="sqm">㎡</option><option value="pyeong">평</option><option value="acre">에이커</option><option value="sqft">ft²</option></select></label>
+      `,
+      energy: `
+        <label>값<input id="value" type="number" inputmode="decimal" placeholder="1000"></label>
+        <label>단위<select id="unit"><option value="j">J</option><option value="kj">kJ</option><option value="kcal">kcal</option><option value="wh">Wh</option></select></label>
+      `,
+      frequency: `
+        <label>값<input id="value" type="number" inputmode="decimal" placeholder="1000"></label>
+        <label>단위<select id="unit"><option value="hz">Hz</option><option value="khz">kHz</option><option value="mhz">MHz</option><option value="ghz">GHz</option></select></label>
+      `,
+      speed: `
+        <label>값<input id="value" type="number" inputmode="decimal" placeholder="100"></label>
+        <label>단위<select id="unit"><option value="kmh">km/h</option><option value="ms">m/s</option><option value="mph">mph</option><option value="knot">knot</option></select></label>
+      `,
+      volume: `
+        <label>값<input id="value" type="number" inputmode="decimal" placeholder="1"></label>
+        <label>단위<select id="unit"><option value="l">L</option><option value="ml">mL</option><option value="gal">gal</option><option value="cup">cup</option></select></label>
+      `,
+      power: `
+        <label>값<input id="value" type="number" inputmode="decimal" placeholder="1000"></label>
+        <label>단위<select id="unit"><option value="w">W</option><option value="kw">kW</option><option value="hp">hp</option></select></label>
+      `,
+      pressure: `
+        <label>값<input id="value" type="number" inputmode="decimal" placeholder="1"></label>
+        <label>단위<select id="unit"><option value="pa">Pa</option><option value="kpa">kPa</option><option value="bar">bar</option><option value="psi">psi</option></select></label>
+      `,
+      unit: `
+        <label>값<input id="value" type="number" inputmode="decimal" placeholder="1"></label>
+        <label>종류<select id="kind"><option value="length">길이</option><option value="weight">무게</option></select></label>
+      `,
+      'number-base': `
+        <label>10진수<input id="decimal" type="number" inputmode="numeric" placeholder="255"></label>
+      `,
+      timestamp: `
+        <label>유닉스 타임스탬프(초)<input id="timestamp" type="number" inputmode="numeric" placeholder="1787600000"></label>
+      `,
+      'time-zone': `
+        <label>UTC 시간<input id="utcTime" type="datetime-local"></label>
+      `,
+      username: `
+        <label>키워드<input id="keyword" type="text" placeholder="danmaek"></label>
+      `,
+      uuid: `
+        <label>생성 횟수<input id="count" type="number" inputmode="numeric" placeholder="1" value="1"></label>
+      `,
+      password: `
+        <label>길이<input id="length" type="number" inputmode="numeric" placeholder="16" value="16"></label>
+        <label>기호 포함<select id="symbols"><option value="yes">포함</option><option value="no">제외</option></select></label>
+      `,
+      'random-team': `
+        <label class="tool-form__wide">이름 목록<textarea id="names" rows="7" placeholder="한 줄에 한 명씩 입력하세요."></textarea></label>
+        <label>팀 수<input id="teams" type="number" inputmode="numeric" placeholder="2" value="2"></label>
+      `,
+      'random-decision': `
+        <label class="tool-form__wide">선택지<textarea id="choices" rows="7" placeholder="한 줄에 하나씩 입력하세요."></textarea></label>
+      `,
+      dice: `
+        <label>주사위 개수<input id="count" type="number" inputmode="numeric" placeholder="2" value="2"></label>
+        <label>면 수<input id="sides" type="number" inputmode="numeric" placeholder="6" value="6"></label>
+      `,
+      'business-name': `
+        <label>키워드<input id="keyword" type="text" placeholder="studio"></label>
+      `,
+      'fantasy-person': `
+        <label>분위기<input id="keyword" type="text" placeholder="dark"></label>
+      `,
+      'fantasy-place': `
+        <label>분위기<input id="keyword" type="text" placeholder="moon"></label>
+      `,
+      currency: `
+        <label>금액<input id="amount" type="number" inputmode="decimal" placeholder="100"></label>
+        <label>환율<input id="rate" type="number" inputmode="decimal" placeholder="1350"></label>
+      `,
+      pace: `
+        <label>거리(km)<input id="distance" type="number" inputmode="decimal" placeholder="5"></label>
+        <label>시간(분)<input id="minutes" type="number" inputmode="decimal" placeholder="30"></label>
+      `,
+      'file-tool': `
+        <label class="tool-form__wide">파일 선택<input id="file" type="file"></label>
+        <label>가로 크기(px)<input id="targetWidth" type="number" inputmode="numeric" placeholder="1200"></label>
+        <label>품질(%)<input id="quality" type="number" inputmode="numeric" placeholder="82" value="82"></label>
+        <button type="button" data-file-action>처리해서 다운로드</button>
+      `,
+      'text-tool': `
+        <label class="tool-form__wide">내용<textarea id="text" rows="8" placeholder="여기에 내용을 입력하세요."></textarea></label>
+      `,
+      'simple-generator': `
+        <label>키워드<input id="keyword" type="text" placeholder="danmaek"></label>
+      `,
+      'simple-game': `
+        <label class="tool-form__wide">선택지 또는 이름<textarea id="choices" rows="7" placeholder="한 줄에 하나씩 입력하세요."></textarea></label>
+      `,
+      'lunch-picker-full': `
+        <div class="tool-slot-stage tool-form__wide">
+          <div id="lunchSlotMachine" class="lunch-slot-machine" role="status" aria-live="polite" aria-label="점심 메뉴 추천 결과">
+            <div id="lunchSlotPrevious" class="lunch-slot-row">준비됨</div>
+            <div id="lunchSlotCurrent" class="lunch-slot-row is-current">점심 메뉴 고르기</div>
+            <div id="lunchSlotNext" class="lunch-slot-row">준비되면 돌리기</div>
+          </div>
+          <div id="lunchFireworks" class="lunch-fireworks" aria-hidden="true"></div>
+        </div>
+        <div class="tool-form__wide tool-mini-link"><a id="lunchPhotoCredits" href="/assets/lunch-photos/credits.html" target="_blank" rel="noopener">사진 출처</a></div>
+        <label>프리셋<select id="lunchPreset">
+          <option value="mixed">세계 믹스</option>
+          <option value="korean">한식</option>
+          <option value="japanese">일식</option>
+          <option value="chinese">중식</option>
+          <option value="thai">태국식</option>
+          <option value="vietnamese">베트남식</option>
+          <option value="indian">인도식</option>
+          <option value="mexican">멕시코식</option>
+          <option value="italian">이탈리아식</option>
+          <option value="western">양식</option>
+          <option value="fastFood">패스트푸드</option>
+          <option value="custom">직접 입력</option>
+        </select></label>
+        <label class="tool-form__wide">점심 후보<textarea id="lunchOptions" rows="5" placeholder="한 줄에 하나씩 입력하세요."></textarea></label>
+        <label class="tool-form__wide">제외할 메뉴<textarea id="lunchExcluded" rows="2" placeholder="오늘 안 되는 메뉴를 한 줄에 하나씩 입력하세요."></textarea></label>
+        <label class="tool-checkbox tool-form__wide"><input id="lunchAvoidRecent" type="checkbox" checked>최근에 뽑힌 메뉴 피하기</label>
+        <button id="spinLunch" type="button">돌리기</button>
+        <p id="lunchPickerMessage" class="tool-message hidden" role="alert">선택 가능한 점심 후보를 하나 이상 넣어 주세요.</p>
+        <p id="lunchRecentResults" class="tool-recent hidden"></p>
+        <div hidden aria-hidden="true"><span id="lunchLabelSpinning">돌리는 중...</span><span id="lunchLabelSpinAgain">다시 돌리기</span><span id="lunchLabelRecent">최근</span></div>
+      `,
+      'who-pays': `
+        <div class="tool-slot-stage tool-form__wide">
+          <div id="payerSlotMachine" class="lunch-slot-machine" role="status" aria-live="polite" aria-label="누가 낼까 룰렛 결과">
+            <div id="payerSlotPrevious" class="lunch-slot-row">준비됨</div>
+            <div id="payerSlotCurrent" class="lunch-slot-row is-current">누가 낼까?</div>
+            <div id="payerSlotNext" class="lunch-slot-row">준비되면 돌리기</div>
+          </div>
+          <div id="payerFireworks" class="lunch-fireworks" aria-hidden="true"></div>
+        </div>
+        <label class="tool-form__wide">이름<textarea id="payerNames" rows="5" placeholder="한 줄에 한 명씩 입력하세요.">철수
+영희
+민수</textarea></label>
+        <button id="spinPayer" type="button">돌리기</button>
+        <p id="payerMessage" class="tool-message hidden" role="alert">이름을 두 명 이상 넣어 주세요.</p>
+        <div hidden aria-hidden="true"><span id="payerLabelSpinning">돌리는 중...</span><span id="payerLabelSpinAgain">다시 돌리기</span><span id="payerLabelPays">당첨!</span></div>
+      `,
+      lorem: `
+        <label>문단 수<input id="count" type="number" inputmode="numeric" placeholder="3" value="3"></label>
+      `,
+      'image-base64': `
+        <label class="tool-form__wide">이미지 선택<input id="file" type="file" accept="image/*"></label>
+      `,
+      'base64-image': `
+        <label class="tool-form__wide">Base64 이미지<textarea id="base64" rows="8" placeholder="data:image/png;base64,..."></textarea></label>
+      `,
+      calorie: `
+        <label>성별<select id="gender"><option value="male">남성</option><option value="female">여성</option></select></label>
+        <label>나이<input id="years" type="number" inputmode="numeric" placeholder="30"></label>
+        <label>키(cm)<input id="height" type="number" inputmode="decimal" placeholder="170"></label>
+        <label>몸무게(kg)<input id="weight" type="number" inputmode="decimal" placeholder="65"></label>
+      `,
+      fuel: `
+        <label>거리(km)<input id="distance" type="number" inputmode="decimal" placeholder="120"></label>
+        <label>연비(km/L)<input id="efficiency" type="number" inputmode="decimal" placeholder="12"></label>
+        <label>유가(원/L)<input id="price" type="number" inputmode="decimal" placeholder="1700"></label>
+      `,
+      gpa: `
+        <label>과목 1 이수학점<input id="credit1" type="number" inputmode="decimal" placeholder="3"></label>
+        <label>과목 1 평점<input id="grade1" type="number" inputmode="decimal" placeholder="4.5"></label>
+        <label>과목 2 이수학점<input id="credit2" type="number" inputmode="decimal" placeholder="3"></label>
+        <label>과목 2 평점<input id="grade2" type="number" inputmode="decimal" placeholder="4.0"></label>
+        <label>과목 3 이수학점<input id="credit3" type="number" inputmode="decimal" placeholder="2"></label>
+        <label>과목 3 평점<input id="grade3" type="number" inputmode="decimal" placeholder="3.5"></label>
+      `,
+      loan: `
+        <label>대출금<input id="principal" type="number" inputmode="decimal" placeholder="10000000"></label>
+        <label>연 이율(%)<input id="rate" type="number" inputmode="decimal" placeholder="5"></label>
+        <label>기간(개월)<input id="months" type="number" inputmode="numeric" placeholder="36"></label>
+      `,
+      mortgage: `
+        <label>대출금<input id="principal" type="number" inputmode="decimal" placeholder="300000000"></label>
+        <label>연 이율(%)<input id="rate" type="number" inputmode="decimal" placeholder="4"></label>
+        <label>기간(년)<input id="years" type="number" inputmode="numeric" placeholder="30"></label>
+      `,
+      percentage: `
+        <label>기준값<input id="base" type="number" inputmode="decimal" placeholder="200"></label>
+        <label>비교값<input id="value" type="number" inputmode="decimal" placeholder="50"></label>
+      `,
+      'profit-loss': `
+        <label>매수가<input id="buy" type="number" inputmode="decimal" placeholder="10000"></label>
+        <label>매도가<input id="sell" type="number" inputmode="decimal" placeholder="12500"></label>
+        <label>수량<input id="qty" type="number" inputmode="decimal" placeholder="10"></label>
+      `,
+      'sales-tax': `
+        <label>세전 금액<input id="amount" type="number" inputmode="decimal" placeholder="100000"></label>
+        <label>세율(%)<input id="rate" type="number" inputmode="decimal" placeholder="10"></label>
+      `,
+      'avg-cost': `
+        <label>기존 수량<input id="oldQty" type="number" inputmode="decimal" placeholder="10"></label>
+        <label>기존 평균단가<input id="oldPrice" type="number" inputmode="decimal" placeholder="10000"></label>
+        <label>추가 수량<input id="newQty" type="number" inputmode="decimal" placeholder="5"></label>
+        <label>추가 매수가<input id="newPrice" type="number" inputmode="decimal" placeholder="8000"></label>
+      `,
+      'time-duration': `
+        <label>시작 시간<input id="startTime" type="time"></label>
+        <label>종료 시간<input id="endTime" type="time"></label>
+      `,
+    };
+
+    function number(id: string) {
+      return Number((document.getElementById(id) as HTMLInputElement | null)?.value || 0);
+    }
+    function money(value: number) {
+      return Math.round(value).toLocaleString('ko-KR') + '원';
+    }
+    function fmt(value: number, digits = 4) {
+      return Number.isFinite(value) ? Number(value.toFixed(digits)).toLocaleString('ko-KR') : '0';
+    }
+    function lines(id: string) {
+      return ((document.getElementById(id) as HTMLTextAreaElement | null)?.value || '').split(/\n+/).map((item) => item.trim()).filter(Boolean);
+    }
+    function pick<T>(items: T[]) {
+      return items[Math.floor(Math.random() * items.length)];
+    }
+    function show(text: string) {
+      if (!result) return;
+      result.textContent = text;
+      result.hidden = !text;
+    }
+    function showHtml(html: string) {
+      if (!result) return;
+      result.innerHTML = html;
+      result.hidden = !html;
+    }
+    function file() {
+      return (document.getElementById('file') as HTMLInputElement | null)?.files?.[0] || null;
+    }
+    function downloadBlob(blob: Blob, filename: string) {
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = filename;
+      document.body.appendChild(a);
+      a.click();
+      a.remove();
+      setTimeout(() => URL.revokeObjectURL(url), 1200);
+    }
+    function loadImage(srcFile: File) {
+      return new Promise<HTMLImageElement>((resolve, reject) => {
+        const img = new Image();
+        img.onload = () => resolve(img);
+        img.onerror = reject;
+        img.src = URL.createObjectURL(srcFile);
+      });
+    }
+    function canvasToBlob(canvas: HTMLCanvasElement, type = 'image/png', quality = .9) {
+      return new Promise<Blob>((resolve, reject) => {
+        canvas.toBlob((blob) => blob ? resolve(blob) : reject(new Error('이미지 변환 실패')), type, quality);
+      });
+    }
+    function drawImage(img: HTMLImageElement, width = img.naturalWidth, rotate = false, fill = '') {
+      const ratio = img.naturalHeight / img.naturalWidth;
+      const height = Math.max(1, Math.round(width * ratio));
+      const canvas = document.createElement('canvas');
+      canvas.width = rotate ? height : width;
+      canvas.height = rotate ? width : height;
+      const ctx = canvas.getContext('2d')!;
+      if (fill) {
+        ctx.fillStyle = fill;
+        ctx.fillRect(0, 0, canvas.width, canvas.height);
+      }
+      if (rotate) {
+        ctx.translate(canvas.width, 0);
+        ctx.rotate(Math.PI / 2);
+        ctx.drawImage(img, 0, 0, width, height);
+      } else {
+        ctx.drawImage(img, 0, 0, width, height);
+      }
+      return canvas;
+    }
+    function outName(srcFile: File, suffix: string, ext: string) {
+      return `${srcFile.name.replace(/\.[^/.]+$/, '')}-${suffix}.${ext}`;
+    }
+
+    if (useSftOriginal) {
+      setupSftOriginalTool().then((loaded) => {
+        if (!loaded && form && type) {
+          form.innerHTML = templates[type] ?? '';
+          localizeFileInputs(form);
+          localizeRangeInputs(form);
+        }
+      });
+    } else if (form && type) {
+      form.innerHTML = templates[type] ?? '';
+      localizeFileInputs(form);
+      localizeRangeInputs(form);
+    }
+
+    function calculate() {
+      if (type === 'bmi') {
+        const h = number('height') / 100;
+        const w = number('weight');
+        if (!h || !w) return show('');
+        const bmi = w / (h * h);
+        show(`BMI는 ${bmi.toFixed(1)}입니다.`);
+      }
+      if (type === 'age') {
+        const birth = new Date((document.getElementById('birth') as HTMLInputElement).value);
+        if (Number.isNaN(birth.getTime())) return show('');
+        const today = new Date();
+        let age = today.getFullYear() - birth.getFullYear();
+        const passed = today.getMonth() > birth.getMonth() || (today.getMonth() === birth.getMonth() && today.getDate() >= birth.getDate());
+        if (!passed) age -= 1;
+        show(`현재 만 나이는 ${age}세입니다.`);
+      }
+      if (type === 'date-diff') {
+        const start = new Date((document.getElementById('start') as HTMLInputElement).value);
+        const end = new Date((document.getElementById('end') as HTMLInputElement).value);
+        if (Number.isNaN(start.getTime()) || Number.isNaN(end.getTime())) return show('');
+        show(`두 날짜 차이는 ${Math.abs(Math.round((end.getTime() - start.getTime()) / 86400000)).toLocaleString('ko-KR')}일입니다.`);
+      }
+      if (type === 'discount') {
+        const price = number('price');
+        const rate = number('rate');
+        if (!price && !rate) return show('');
+        show(`할인가는 ${money(price * (1 - rate / 100))}, 할인 금액은 ${money(price * rate / 100)}입니다.`);
+      }
+      if (type === 'tip') {
+        const amount = number('amount');
+        const tip = amount * number('tip') / 100;
+        if (!amount && !tip) return show('');
+        show(`팁은 ${money(tip)}, 총액은 ${money(amount + tip)}입니다.`);
+      }
+      if (type === 'compound') {
+        if (!number('principal') && !number('rate') && !number('years')) return show('');
+        const total = number('principal') * Math.pow(1 + number('rate') / 100, number('years'));
+        show(`예상 금액은 ${money(total)}입니다.`);
+      }
+      if (type === 'random') {
+        const min = Math.ceil(number('min'));
+        const max = Math.floor(number('max'));
+        if (!min && !max) return show('');
+        if (max < min) return show('');
+        show(`뽑힌 숫자: ${Math.floor(Math.random() * (max - min + 1)) + min}`);
+      }
+      if (type === 'storage') {
+        const value = number('value');
+        const unit = (document.getElementById('unit') as HTMLSelectElement).value;
+        const kb = value * ({ KB: 1, MB: 1024, GB: 1048576, TB: 1073741824 } as Record<string, number>)[unit];
+        show(`${kb.toLocaleString('ko-KR')} KB · ${(kb / 1024).toLocaleString('ko-KR')} MB · ${(kb / 1048576).toLocaleString('ko-KR')} GB`);
+      }
+      if (type === 'color') {
+        const raw = ((document.getElementById('hex') as HTMLInputElement).value || '').replace('#', '').trim();
+        if (!/^[0-9a-fA-F]{6}$/.test(raw)) return show('');
+        const r = parseInt(raw.slice(0, 2), 16);
+        const g = parseInt(raw.slice(2, 4), 16);
+        const b = parseInt(raw.slice(4, 6), 16);
+        show(`RGB(${r}, ${g}, ${b})`);
+      }
+      if (type === 'calorie') {
+        const gender = (document.getElementById('gender') as HTMLSelectElement).value;
+        const years = number('years');
+        const height = number('height');
+        const weight = number('weight');
+        if (!years || !height || !weight) return show('');
+        const bmr = gender === 'male'
+          ? 10 * weight + 6.25 * height - 5 * years + 5
+          : 10 * weight + 6.25 * height - 5 * years - 161;
+        show(`기초대사량은 약 ${Math.round(bmr).toLocaleString('ko-KR')} kcal, 보통 활동 기준은 약 ${Math.round(bmr * 1.35).toLocaleString('ko-KR')} kcal입니다.`);
+      }
+      if (type === 'fuel') {
+        const distance = number('distance');
+        const efficiency = number('efficiency');
+        const price = number('price');
+        if (!distance || !efficiency || !price) return show('');
+        show(`예상 연료비는 ${money(distance / efficiency * price)}입니다.`);
+      }
+      if (type === 'gpa') {
+        const rows = [1, 2, 3].map((n) => ({ credit: number(`credit${n}`), grade: number(`grade${n}`) })).filter((row) => row.credit > 0);
+        const credits = rows.reduce((sum, row) => sum + row.credit, 0);
+        if (!credits) return show('');
+        const score = rows.reduce((sum, row) => sum + row.credit * row.grade, 0) / credits;
+        show(`평균 평점은 ${score.toFixed(2)}입니다.`);
+      }
+      if (type === 'loan' || type === 'mortgage') {
+        const principal = number('principal');
+        const rate = number('rate') / 100 / 12;
+        const months = type === 'mortgage' ? number('years') * 12 : number('months');
+        if (!principal || !months) return show('');
+        const payment = rate ? principal * rate * Math.pow(1 + rate, months) / (Math.pow(1 + rate, months) - 1) : principal / months;
+        show(`예상 월 상환액은 ${money(payment)}입니다.`);
+      }
+      if (type === 'percentage') {
+        const base = number('base');
+        const value = number('value');
+        if (!base && !value) return show('');
+        show(`${value.toLocaleString('ko-KR')}는 ${base.toLocaleString('ko-KR')}의 ${base ? (value / base * 100).toFixed(2) : '0.00'}%입니다.`);
+      }
+      if (type === 'profit-loss') {
+        const buy = number('buy');
+        const sell = number('sell');
+        const qty = number('qty') || 1;
+        if (!buy || !sell) return show('');
+        const profit = (sell - buy) * qty;
+        show(`손익은 ${money(profit)}, 수익률은 ${((sell - buy) / buy * 100).toFixed(2)}%입니다.`);
+      }
+      if (type === 'sales-tax') {
+        const amount = number('amount');
+        const tax = amount * number('rate') / 100;
+        if (!amount && !tax) return show('');
+        show(`세금은 ${money(tax)}, 최종 금액은 ${money(amount + tax)}입니다.`);
+      }
+      if (type === 'avg-cost') {
+        const oldQty = number('oldQty');
+        const oldPrice = number('oldPrice');
+        const newQty = number('newQty');
+        const newPrice = number('newPrice');
+        if (!oldQty && !newQty) return show('');
+        const totalQty = oldQty + newQty;
+        const avg = totalQty ? (oldQty * oldPrice + newQty * newPrice) / totalQty : 0;
+        show(`총 수량은 ${totalQty.toLocaleString('ko-KR')}개, 평균 단가는 ${money(avg)}입니다.`);
+      }
+      if (type === 'time-duration') {
+        const start = (document.getElementById('startTime') as HTMLInputElement).value;
+        const end = (document.getElementById('endTime') as HTMLInputElement).value;
+        if (!start || !end) return show('');
+        const [sh, sm] = start.split(':').map(Number);
+        const [eh, em] = end.split(':').map(Number);
+        let minutes = eh * 60 + em - (sh * 60 + sm);
+        if (minutes < 0) minutes += 1440;
+        show(`차이는 ${Math.floor(minutes / 60)}시간 ${minutes % 60}분입니다.`);
+      }
+      if (type === 'angle') {
+        const value = number('value');
+        const unit = (document.getElementById('unit') as HTMLSelectElement).value;
+        if (!value) return show('');
+        const deg = unit === 'rad' ? value * 180 / Math.PI : unit === 'grad' ? value * 0.9 : value;
+        show(`${fmt(deg)}도 · ${fmt(deg * Math.PI / 180)}rad · ${fmt(deg / 0.9)}grad`);
+      }
+      if (type === 'area') {
+        const value = number('value');
+        const unit = (document.getElementById('unit') as HTMLSelectElement).value;
+        if (!value) return show('');
+        const sqm = value * ({ sqm: 1, pyeong: 3.305785, acre: 4046.8564224, sqft: 0.092903 } as Record<string, number>)[unit];
+        show(`${fmt(sqm)}㎡ · ${fmt(sqm / 3.305785)}평 · ${fmt(sqm / 4046.8564224)}에이커 · ${fmt(sqm / 0.092903)}ft²`);
+      }
+      if (type === 'energy') {
+        const value = number('value');
+        const unit = (document.getElementById('unit') as HTMLSelectElement).value;
+        if (!value) return show('');
+        const j = value * ({ j: 1, kj: 1000, kcal: 4184, wh: 3600 } as Record<string, number>)[unit];
+        show(`${fmt(j)}J · ${fmt(j / 1000)}kJ · ${fmt(j / 4184)}kcal · ${fmt(j / 3600)}Wh`);
+      }
+      if (type === 'frequency') {
+        const value = number('value');
+        const unit = (document.getElementById('unit') as HTMLSelectElement).value;
+        if (!value) return show('');
+        const hz = value * ({ hz: 1, khz: 1000, mhz: 1000000, ghz: 1000000000 } as Record<string, number>)[unit];
+        show(`${fmt(hz)}Hz · ${fmt(hz / 1000)}kHz · ${fmt(hz / 1000000)}MHz · ${fmt(hz / 1000000000)}GHz`);
+      }
+      if (type === 'speed') {
+        const value = number('value');
+        const unit = (document.getElementById('unit') as HTMLSelectElement).value;
+        if (!value) return show('');
+        const ms = value * ({ ms: 1, kmh: 1 / 3.6, mph: 0.44704, knot: 0.514444 } as Record<string, number>)[unit];
+        show(`${fmt(ms)}m/s · ${fmt(ms * 3.6)}km/h · ${fmt(ms / 0.44704)}mph · ${fmt(ms / 0.514444)}knot`);
+      }
+      if (type === 'volume') {
+        const value = number('value');
+        const unit = (document.getElementById('unit') as HTMLSelectElement).value;
+        if (!value) return show('');
+        const l = value * ({ l: 1, ml: 0.001, gal: 3.785411784, cup: 0.24 } as Record<string, number>)[unit];
+        show(`${fmt(l)}L · ${fmt(l * 1000)}mL · ${fmt(l / 3.785411784)}gal · ${fmt(l / 0.24)}cup`);
+      }
+      if (type === 'power') {
+        const value = number('value');
+        const unit = (document.getElementById('unit') as HTMLSelectElement).value;
+        if (!value) return show('');
+        const w = value * ({ w: 1, kw: 1000, hp: 745.7 } as Record<string, number>)[unit];
+        show(`${fmt(w)}W · ${fmt(w / 1000)}kW · ${fmt(w / 745.7)}hp`);
+      }
+      if (type === 'pressure') {
+        const value = number('value');
+        const unit = (document.getElementById('unit') as HTMLSelectElement).value;
+        if (!value) return show('');
+        const pa = value * ({ pa: 1, kpa: 1000, bar: 100000, psi: 6894.757 } as Record<string, number>)[unit];
+        show(`${fmt(pa)}Pa · ${fmt(pa / 1000)}kPa · ${fmt(pa / 100000)}bar · ${fmt(pa / 6894.757)}psi`);
+      }
+      if (type === 'unit') {
+        const value = number('value');
+        const kind = (document.getElementById('kind') as HTMLSelectElement).value;
+        if (!value) return show('');
+        if (kind === 'length') show(`${fmt(value)}m · ${fmt(value * 100)}cm · ${fmt(value / 1000)}km · ${fmt(value * 3.28084)}ft`);
+        else show(`${fmt(value)}kg · ${fmt(value * 1000)}g · ${fmt(value * 2.20462)}lb · ${fmt(value * 35.274)}oz`);
+      }
+      if (type === 'number-base') {
+        const value = Math.trunc(number('decimal'));
+        if (!value) return show('');
+        show(`2진수 ${value.toString(2)} · 8진수 ${value.toString(8)} · 16진수 ${value.toString(16).toUpperCase()}`);
+      }
+      if (type === 'timestamp') {
+        const value = number('timestamp');
+        if (!value) return show('');
+        show(new Date(value * 1000).toLocaleString('ko-KR'));
+      }
+      if (type === 'time-zone') {
+        const raw = (document.getElementById('utcTime') as HTMLInputElement).value;
+        if (!raw) return show('');
+        const date = new Date(raw + 'Z');
+        show(`한국 ${date.toLocaleString('ko-KR', { timeZone: 'Asia/Seoul' })} · 뉴욕 ${date.toLocaleString('ko-KR', { timeZone: 'America/New_York' })} · 런던 ${date.toLocaleString('ko-KR', { timeZone: 'Europe/London' })}`);
+      }
+      if (type === 'username') {
+        const keyword = ((document.getElementById('keyword') as HTMLInputElement).value || 'danmaek').toLowerCase().replace(/[^a-z0-9]/g, '') || 'danmaek';
+        show([`${keyword}${Math.floor(Math.random() * 900 + 100)}`, `${keyword}.note`, `real.${keyword}`, `${keyword}_day`].join(' · '));
+      }
+      if (type === 'uuid') {
+        const count = Math.max(1, Math.min(10, Math.trunc(number('count') || 1)));
+        show(Array.from({ length: count }, () => crypto.randomUUID()).join('\n'));
+      }
+      if (type === 'password') {
+        const length = Math.max(6, Math.min(64, Math.trunc(number('length') || 16)));
+        const symbols = (document.getElementById('symbols') as HTMLSelectElement).value === 'yes';
+        const chars = 'ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz23456789' + (symbols ? '!@#$%^&*?' : '');
+        show(Array.from({ length }, () => chars[Math.floor(Math.random() * chars.length)]).join(''));
+      }
+      if (type === 'random-team') {
+        const names = lines('names');
+        const teamCount = Math.max(2, Math.trunc(number('teams') || 2));
+        if (!names.length) return show('');
+        const shuffled = [...names].sort(() => Math.random() - 0.5);
+        const teams = Array.from({ length: teamCount }, (_, i) => `팀 ${i + 1}: ${shuffled.filter((_, idx) => idx % teamCount === i).join(', ')}`);
+        show(teams.join('\n'));
+      }
+      if (type === 'random-decision') {
+        const choices = lines('choices');
+        if (!choices.length) return show('');
+        show(`선택: ${pick(choices)}`);
+      }
+      if (type === 'dice') {
+        const count = Math.max(1, Math.min(20, Math.trunc(number('count') || 1)));
+        const sides = Math.max(2, Math.trunc(number('sides') || 6));
+        const rolls = Array.from({ length: count }, () => Math.floor(Math.random() * sides) + 1);
+        show(`결과: ${rolls.join(', ')} · 합계 ${rolls.reduce((a, b) => a + b, 0)}`);
+      }
+      if (type === 'business-name' || type === 'fantasy-person' || type === 'fantasy-place') {
+        const keyword = ((document.getElementById('keyword') as HTMLInputElement).value || '').trim();
+        const seed = keyword || (type === 'business-name' ? 'nova' : type === 'fantasy-person' ? 'raven' : 'moon');
+        const prefixes = type === 'business-name' ? ['Blue', 'North', 'Prime', 'Plain', 'Bold'] : type === 'fantasy-place' ? ['Elder', 'Moon', 'Ash', 'Silver', 'Raven'] : ['Aren', 'Liora', 'Kael', 'Mira', 'Rowan'];
+        const suffixes = type === 'business-name' ? ['Works', 'Studio', 'Labs', 'House', 'Note'] : type === 'fantasy-place' ? ['Keep', 'Vale', 'Hollow', 'Reach', 'Harbor'] : ['Dusk', 'Vey', 'Morn', 'Aster', 'Rook'];
+        show(Array.from({ length: 5 }, () => `${pick(prefixes)} ${seed.charAt(0).toUpperCase() + seed.slice(1)} ${pick(suffixes)}`).join('\n'));
+      }
+      if (type === 'currency') {
+        const amount = number('amount');
+        const rate = number('rate');
+        if (!amount || !rate) return show('');
+        show(`${amount.toLocaleString('ko-KR')} × ${rate.toLocaleString('ko-KR')} = ${money(amount * rate)}`);
+      }
+      if (type === 'pace') {
+        const distance = number('distance');
+        const minutes = number('minutes');
+        if (!distance || !minutes) return show('');
+        const pace = minutes / distance;
+        show(`평균 페이스는 ${Math.floor(pace)}분 ${Math.round((pace % 1) * 60)}초/km입니다.`);
+      }
+      if (type === 'file-tool') {
+        const selected = file();
+        if (!selected) return show('');
+        const url = URL.createObjectURL(selected);
+        const preview = selected.type.startsWith('image/')
+          ? `<img src="${url}" alt="" style="display:block;max-width:220px;border-radius:10px;margin-top:12px;border:1px solid #d9dee7;" />`
+          : '';
+        showHtml(`${selected.name}<br>${selected.type || '알 수 없는 형식'} · ${(selected.size / 1024 / 1024).toFixed(2)}MB${preview}`);
+      }
+      if (type === 'text-tool') {
+        const text = (document.getElementById('text') as HTMLTextAreaElement).value;
+        if (!text) return show('');
+        show(`총 ${text.length.toLocaleString('ko-KR')}자 · ${text.split(/\n/).length.toLocaleString('ko-KR')}줄`);
+      }
+      if (type === 'simple-generator') {
+        const keyword = ((document.getElementById('keyword') as HTMLInputElement).value || 'nova').trim();
+        const a = ['숨겨진', '마지막', '푸른', '검은', '오래된', '잊힌'];
+        const b = ['탑', '도시', '기사', '항로', '성단', '계약', '유산'];
+        show(Array.from({ length: 5 }, () => `${pick(a)} ${keyword} ${pick(b)}`).join('\n'));
+      }
+      if (type === 'simple-game') {
+        const choices = lines('choices');
+        const fallback = ['오늘은 이것', '다시 한 번', '의외의 선택', '가장 무난한 선택'];
+        show(`결과: ${pick(choices.length ? choices : fallback)}`);
+      }
+      if (type === 'lorem') {
+        const count = Math.max(1, Math.min(10, Math.trunc(number('count') || 3)));
+        const text = '단맥은 짧은 문장으로 맥락을 정리하고, 필요한 정보만 차분하게 보여주는 콘텐츠를 지향합니다.';
+        show(Array.from({ length: count }, () => text).join('\n\n'));
+      }
+      if (type === 'image-base64') {
+        const file = (document.getElementById('file') as HTMLInputElement).files?.[0];
+        if (!file) return show('');
+        const reader = new FileReader();
+        reader.onload = () => show(String(reader.result).slice(0, 500) + '...');
+        reader.readAsDataURL(file);
+      }
+      if (type === 'base64-image') {
+        const text = (document.getElementById('base64') as HTMLTextAreaElement).value.trim();
+        if (!text) return show('');
+        show(text.startsWith('data:image/') ? '이미지 데이터 형식입니다.' : 'data:image/... 형식인지 확인해 주세요.');
+      }
+    }
+
+    form?.addEventListener('input', () => {
+      if (type === 'lunch-picker-full' || type === 'who-pays') return;
+      if (type === 'counter') {
+        const text = (document.getElementById('text') as HTMLTextAreaElement).value;
+        show(`공백 포함 ${text.length.toLocaleString('ko-KR')}자 · 공백 제외 ${text.replace(/\s/g, '').length.toLocaleString('ko-KR')}자`);
+        return;
+      }
+      calculate();
+    });
+    form?.addEventListener('change', () => {
+      if (type === 'lunch-picker-full' || type === 'who-pays') return;
+      if (type !== 'counter') calculate();
+    });
+    form?.querySelector('[data-file-action]')?.addEventListener('click', async () => {
+      const selected = file();
+      if (!selected) return show('');
+      const width = number('targetWidth') || 0;
+      const quality = Math.min(100, Math.max(10, number('quality') || 82)) / 100;
+      try {
+        if (selected.type.startsWith('image/')) {
+          const img = await loadImage(selected);
+          const targetWidth = Math.min(width || img.naturalWidth, img.naturalWidth);
+          const isJpg = slug.includes('jpg') || slug.includes('compressor') || slug.includes('resizer');
+          const isWebp = slug.includes('webp-converter');
+          const isRotate = slug.includes('rotate-flip');
+          const canvas = drawImage(img, targetWidth, isRotate, isJpg ? '#fff' : '');
+          const mime = isWebp ? 'image/webp' : isJpg ? 'image/jpeg' : 'image/png';
+          const ext = isWebp ? 'webp' : isJpg ? 'jpg' : 'png';
+          const blob = await canvasToBlob(canvas, mime, quality);
+          downloadBlob(blob, outName(selected, isRotate ? 'rotated' : 'converted', ext));
+          show(`다운로드 완료: ${(blob.size / 1024 / 1024).toFixed(2)}MB`);
+          return;
+        }
+        if (selected.type.startsWith('audio/') || selected.type.startsWith('video/')) {
+          const media = document.createElement(selected.type.startsWith('audio/') ? 'audio' : 'video') as HTMLMediaElement;
+          media.preload = 'metadata';
+          media.src = URL.createObjectURL(selected);
+          media.onloadedmetadata = () => show(`길이 ${Math.round(media.duration)}초 · ${selected.type} · ${(selected.size / 1024 / 1024).toFixed(2)}MB`);
+          return;
+        }
+        show(`${selected.name} 파일을 확인했습니다.`);
+      } catch {
+        show('이 브라우저에서 처리할 수 없는 파일입니다.');
+      }
+    });
+  </script>
+
+  <script is:inline>
+    (function() {
+      const slug = document.querySelector('[data-slug]')?.dataset.slug || '';
+      const likeBtn = document.getElementById('feedbackLike');
+      const dislikeBtn = document.getElementById('feedbackDislike');
+      const formWrap = document.getElementById('feedbackFormWrap');
+      const submitBtn = document.getElementById('feedbackSubmit');
+      const textarea = document.getElementById('feedbackMessage');
+      let vote = '';
+
+      async function sendFeedback(v, message) {
+        submitBtn.disabled = true;
+        submitBtn.textContent = '보내는 중…';
+        try {
+          const res = await fetch('https://formspree.io/f/mjggknek', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
+            body: JSON.stringify({ tool: slug, message: message })
+          });
+          if (res.ok) {
+            formWrap.classList.add('hidden');
+            likeBtn.disabled = true;
+            dislikeBtn.disabled = true;
+            const toast = document.getElementById('toast');
+            if (toast) { toast.classList.add('show'); setTimeout(() => toast.classList.remove('show'), 2500); }
+          } else {
+            submitBtn.disabled = false;
+            submitBtn.textContent = '보내기';
+            alert('전송에 실패했습니다. 다시 시도해 주세요.');
+          }
+        } catch {
+          submitBtn.disabled = false;
+          submitBtn.textContent = '보내기';
+          alert('전송에 실패했습니다. 다시 시도해 주세요.');
+        }
+      }
+
+      likeBtn?.addEventListener('click', () => {
+        vote = 'like';
+        likeBtn.classList.add('active');
+        dislikeBtn.classList.remove('active');
+        likeBtn.disabled = true;
+        dislikeBtn.disabled = true;
+        const toast = document.getElementById('toast');
+        if (toast) { toast.classList.add('show'); setTimeout(() => toast.classList.remove('show'), 2500); }
+      });
+
+      dislikeBtn?.addEventListener('click', () => {
+        vote = 'dislike';
+        dislikeBtn.classList.add('active');
+        likeBtn.classList.remove('active');
+        formWrap.classList.remove('hidden');
+        textarea.focus();
+      });
+
+      submitBtn?.addEventListener('click', () => {
+        const message = textarea?.value?.trim() || '';
+        if (!message) { textarea.focus(); return; }
+        sendFeedback('dislike', message);
+      });
+    })();
+  </script>
+</BaseLayout>

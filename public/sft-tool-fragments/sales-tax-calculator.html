@@ -1,0 +1,20 @@
+<div id="cardsGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 relative"><div id="salesTaxCard" data-category="calculator" data-tool-slug="sales-tax-calculator" class="expandable-card expand-transition relative z-10 block bg-white rounded-2xl border border-gray-200 shadow-sm hover:shadow-md hover:border-zinc-400 backdrop-blur-xs flex-col overflow-hidden w-full h-full max-w-lg mx-auto md:mx-0 tool-page-panel is-expanded active-panel shadow-2xl border-zinc-400 tool-panel">
+                <div class="card-content p-6 w-full">
+                    <button class="close-expanded-btn expand-close absolute top-5 right-5 text-zinc-400 hover:text-zinc-600 font-bold text-base cursor-pointer p-1 focus:outline-none" aria-label="Close calculator">×</button>
+                    <div class="w-12 h-12 bg-zinc-100 rounded-xl flex items-center justify-center text-2xl mb-4">🧾</div>
+                    <h1 id="tool8Title" class="text-lg font-bold text-zinc-900 mb-1">Sales Tax Calculator</h1>
+                    <p id="tool8Desc" class="card-description text-sm text-zinc-500 overflow-hidden">Add sales tax to a price and see the tax amount and final total.</p>
+                </div>
+                <div class="calculator-content px-6 pb-5 flex flex-col w-full transition-all duration-150 ease-out space-y-6 opacity-100 translate-y-0">
+                    <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+                        <div><label id="lblTaxPrice" class="block text-xs font-medium text-zinc-500 mb-1">Price Before Tax</label><input type="number" id="taxPrice" placeholder="0" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"></div>
+                        <div><label id="lblTaxRate" class="block text-xs font-medium text-zinc-500 mb-1">Tax Rate (%)</label><input type="number" id="taxRate" placeholder="0" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"></div>
+                    </div>
+                    <div class="bg-zinc-50 border border-gray-200/60 rounded-2xl p-4 space-y-2.5 shadow-inner mt-2">
+                        <div class="flex justify-between items-center"><span id="resTaxAmount" class="text-xs text-zinc-500 font-medium">Tax Amount</span><span id="valTaxAmount" class="text-sm font-black text-zinc-900">—</span></div>
+                        <div class="flex justify-between items-center border-t border-gray-200/40 pt-2.5"><span id="resTaxTotal" class="text-xs text-zinc-500 font-medium">Total Price</span><span id="valTaxTotal" class="text-sm font-bold text-zinc-800">—</span></div>
+                    </div>
+                </div>
+            </div></div>
+
+        

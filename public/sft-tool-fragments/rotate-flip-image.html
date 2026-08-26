@@ -1,0 +1,25 @@
+<div id="cardsGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 relative"><div id="imageRotateFlipCard" data-category="image" data-tool-slug="rotate-flip-image" class="expandable-card expand-transition relative z-10 block bg-white rounded-2xl border border-gray-200 shadow-sm hover:shadow-md hover:border-zinc-400 backdrop-blur-xs flex-col overflow-hidden w-full h-full max-w-lg mx-auto md:mx-0 tool-page-panel is-expanded active-panel shadow-2xl border-zinc-400 tool-panel">
+                <div class="card-content p-6 w-full">
+                    <button class="close-expanded-btn expand-close absolute top-5 right-5 text-zinc-400 hover:text-zinc-600 font-bold text-base cursor-pointer p-1 focus:outline-none" aria-label="Close image tool">×</button>
+                    <div class="w-12 h-12 bg-cyan-50 border border-cyan-100 rounded-xl flex items-center justify-center text-2xl mb-4">↻</div>
+                    <h1 id="tool40Title" class="text-lg font-bold text-zinc-900 mb-1">Rotate / Flip Image</h1>
+                    <p id="tool40Desc" class="card-description text-sm text-zinc-500 overflow-hidden">Rotate or flip one image and save it as a PNG file.</p>
+                </div>
+                <div class="calculator-content px-6 pb-5 flex flex-col w-full transition-all duration-150 ease-out space-y-5 opacity-100 translate-y-0">
+                    <input type="file" id="imageRotateFlipInput" accept="image/png,image/jpeg,image/webp" class="w-full text-sm text-zinc-500 file:mr-3 file:rounded-lg file:border-0 file:bg-zinc-900 file:px-3 file:py-2 file:text-sm file:font-bold file:text-white">
+                    <div id="imageTransformButtons" class="grid grid-cols-3 sm:grid-cols-6 gap-2">
+                        <button type="button" class="transform-btn is-active rounded-xl border border-gray-200 bg-white px-3 py-2 text-xs font-black text-zinc-600" data-transform-mode="default" title="Default">ORG</button>
+                        <button type="button" class="transform-btn rounded-xl border border-gray-200 bg-white px-3 py-2 text-base font-bold text-zinc-600" data-transform-mode="rotate90" title="Rotate 90">↻</button>
+                        <button type="button" class="transform-btn rounded-xl border border-gray-200 bg-white px-3 py-2 text-base font-bold text-zinc-600" data-transform-mode="rotate180" title="Rotate 180">↻↻</button>
+                        <button type="button" class="transform-btn rounded-xl border border-gray-200 bg-white px-3 py-2 text-base font-bold text-zinc-600" data-transform-mode="rotate270" title="Rotate 270">↺</button>
+                        <button type="button" class="transform-btn rounded-xl border border-gray-200 bg-white px-3 py-2 text-base font-bold text-zinc-600" data-transform-mode="flipX" title="Flip horizontal">↔</button>
+                        <button type="button" class="transform-btn rounded-xl border border-gray-200 bg-white px-3 py-2 text-base font-bold text-zinc-600" data-transform-mode="flipY" title="Flip vertical">↕</button>
+                    </div>
+                    <div id="imageRotateFlipWorkspace" class="image-workspace hidden">
+                        <canvas id="imageRotateFlipCanvas"></canvas>
+                    </div>
+                    <button id="downloadRotatedFlippedImage" class="w-full bg-zinc-900 text-white rounded-xl px-4 py-2 text-sm font-bold cursor-pointer hover:bg-zinc-700">Download</button>
+                </div>
+            </div></div>
+
+        

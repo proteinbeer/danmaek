@@ -1,0 +1,15 @@
+<div id="cardsGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 relative"><div id="audioSpeedCard" data-category="audio" data-tool-slug="audio-speed-changer" class="expandable-card expand-transition relative z-10 block bg-white rounded-2xl border border-gray-200 shadow-sm hover:shadow-md hover:border-zinc-400 backdrop-blur-xs flex-col overflow-hidden w-full h-full max-w-lg mx-auto md:mx-0 tool-page-panel is-expanded active-panel shadow-2xl border-zinc-400 tool-panel">
+                <div class="card-content p-6 w-full">
+                    <button class="close-expanded-btn expand-close absolute top-5 right-5 text-zinc-400 hover:text-zinc-600 font-bold text-base cursor-pointer p-1 focus:outline-none" aria-label="Close audio tool">×</button>
+                    <div class="w-12 h-12 bg-sky-50 border border-sky-100 rounded-xl flex items-center justify-center text-[12px] font-black text-sky-700 mb-4">1.5x</div>
+                    <h1 id="tool57Title" class="text-lg font-bold text-zinc-900 mb-1">Audio Speed Changer</h1>
+                    <p id="tool57Desc" class="card-description text-sm text-zinc-500 overflow-hidden">Change audio speed and download the result as a WAV file.</p>
+                </div>
+                <div class="calculator-content px-6 pb-5 flex flex-col w-full transition-all duration-150 ease-out space-y-5 opacity-100 translate-y-0">
+                    <input type="file" id="audioSpeedInput" accept="audio/*" class="w-full text-sm text-zinc-500 file:mr-3 file:rounded-lg file:border-0 file:bg-zinc-900 file:px-3 file:py-2 file:text-sm file:font-bold file:text-white">
+                    <div><div class="flex items-center justify-between gap-3 mb-1"><label class="block text-xs font-medium text-zinc-500" for="audioSpeedRate">Speed</label><span id="audioSpeedRateValue" class="text-xs font-bold text-zinc-700">1.25x</span></div><input type="range" id="audioSpeedRate" value="1.25" min="0.5" max="2" step="0.05" class="w-full accent-zinc-900 cursor-pointer"></div>
+                    <button id="downloadSpeedAudio" class="w-full bg-zinc-900 text-white rounded-xl px-4 py-2 text-sm font-bold cursor-pointer hover:bg-zinc-700">Download</button>
+                </div>
+            </div></div>
+
+        

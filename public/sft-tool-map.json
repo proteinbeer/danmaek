@@ -1,0 +1,621 @@
+{
+  "currency-converter": {
+    "scripts": [
+      "/extra-converters.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"currencyConverterCard\", slug: \"currency-converter\", title: \"Currency Converter\" }",
+    "sourceTitle": "Currency Converter"
+  },
+  "password-generator": {
+    "scripts": [
+      "/generators.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"passwordCard\", slug: \"password-generator\", title: \"Password Generator\" }",
+    "sourceTitle": "Password Generator"
+  },
+  "age-calculator": {
+    "scripts": [
+      "/age-calculator.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"ageCard\", slug: \"age-calculator\", title: \"Age Calculator\" }",
+    "sourceTitle": "Age Calculator"
+  },
+  "fantasy-person-name-generator": {
+    "scripts": [
+      "/generators.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"fantasyNameCard\", slug: \"fantasy-person-name-generator\", title: \"Fantasy Person Name Generator\" }",
+    "sourceTitle": "Fantasy Person Name Generator"
+  },
+  "uuid-generator": {
+    "scripts": [
+      "/generators.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"uuidCard\", slug: \"uuid-generator\", title: \"UUID Generator\" }",
+    "sourceTitle": "UUID Generator"
+  },
+  "base64-to-image": {
+    "scripts": [
+      "/image-tools.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"base64ToImageCard\", slug: \"base64-to-image\", title: \"Base64 to Image\" }",
+    "sourceTitle": "Base64 to Image"
+  },
+  "audio-volume-booster": {
+    "scripts": [
+      "https://cdn.jsdelivr.net/npm/lamejs@1.2.1/lame.min.js",
+      "/audio-tools.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"audioVolumeCard\", slug: \"audio-volume-booster\", title: \"Audio Volume Booster\" }",
+    "sourceTitle": "Audio Volume Booster"
+  },
+  "gpa-calculator": {
+    "scripts": [
+      "/gpa-calculator.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"gpaCard\", slug: \"gpa-calculator\", title: \"학점 계산기\" }",
+    "sourceTitle": "학점 계산기"
+  },
+  "audio-speed-changer": {
+    "scripts": [
+      "https://cdn.jsdelivr.net/npm/lamejs@1.2.1/lame.min.js",
+      "/audio-tools.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"audioSpeedCard\", slug: \"audio-speed-changer\", title: \"Audio Speed Changer\" }",
+    "sourceTitle": "Audio Speed Changer"
+  },
+  "image-cropper": {
+    "scripts": [
+      "/image-tools.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"imageCropperCard\", slug: \"image-cropper\", title: \"Image Cropper\" }",
+    "sourceTitle": "Image Cropper"
+  },
+  "rpg-dice-roller": {
+    "scripts": [
+      "/game-tools.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"rpgDiceRollerCard\", slug: \"rpg-dice-roller\", title: \"RPG Dice Roller\" }",
+    "sourceTitle": "RPG Dice Roller"
+  },
+  "sales-tax-calculator": {
+    "scripts": [
+      "/sales-tax-calculator.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"salesTaxCard\", slug: \"sales-tax-calculator\", title: \"Sales Tax Calculator\" }",
+    "sourceTitle": "Sales Tax Calculator"
+  },
+  "unit-converter": {
+    "scripts": [
+      "/unit-converter.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"unitConverterCard\", slug: \"unit-converter\", title: \"Unit Converter\" }",
+    "sourceTitle": "Unit Converter"
+  },
+  "percentage-calculator": {
+    "scripts": [
+      "/percentage-calculator.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"percentageCard\", slug: \"percentage-calculator\", title: \"Percentage Calculator\" }",
+    "sourceTitle": "Percentage Calculator"
+  },
+  "wav-to-mp3-converter": {
+    "scripts": [
+      "https://cdn.jsdelivr.net/npm/lamejs@1.2.1/lame.min.js",
+      "/audio-tools.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"wavToMp3Card\", slug: \"wav-to-mp3-converter\", title: \"WAV to MP3 Converter\" }",
+    "sourceTitle": "WAV to MP3 Converter"
+  },
+  "audio-metadata-viewer": {
+    "scripts": [
+      "https://cdn.jsdelivr.net/npm/lamejs@1.2.1/lame.min.js",
+      "/audio-tools.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"audioMetadataCard\", slug: \"audio-metadata-viewer\", title: \"Audio Metadata Viewer\" }",
+    "sourceTitle": "Audio Metadata Viewer"
+  },
+  "random-number-generator": {
+    "scripts": [
+      "/generators.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"randomNumberCard\", slug: \"random-number-generator\", title: \"Random Number Generator\" }",
+    "sourceTitle": "Random Number Generator"
+  },
+  "video-compressor": {
+    "scripts": [
+      "/video-tools.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"videoCompressorCard\", slug: \"video-compressor\", title: \"Video Compressor\" }",
+    "sourceTitle": "Video Compressor"
+  },
+  "sci-fi-place-name-generator": {
+    "scripts": [
+      "/generators.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"sciFiPlaceCard\", slug: \"sci-fi-place-name-generator\", title: \"Sci-Fi Place Name Generator\" }",
+    "sourceTitle": "Sci-Fi Place Name Generator"
+  },
+  "tip-calculator": {
+    "scripts": [
+      "/tip-calculator.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"tipCard\", slug: \"tip-calculator\", title: \"Tip Calculator\" }",
+    "sourceTitle": "Tip Calculator"
+  },
+  "fantasy-place-name-generator": {
+    "scripts": [
+      "/generators.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"fantasyPlaceCard\", slug: \"fantasy-place-name-generator\", title: \"Fantasy Place Name Generator\" }",
+    "sourceTitle": "Fantasy Place Name Generator"
+  },
+  "webp-to-png-converter": {
+    "scripts": [
+      "/image-tools.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"webpToPngCard\", slug: \"webp-to-png-converter\", title: \"WebP to PNG Converter\" }",
+    "sourceTitle": "WebP to PNG Converter"
+  },
+  "jpg-to-png-converter": {
+    "scripts": [
+      "/image-tools.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"jpgToPngCard\", slug: \"jpg-to-png-converter\", title: \"JPG to PNG Converter\" }",
+    "sourceTitle": "JPG to PNG Converter"
+  },
+  "date-difference-calculator": {
+    "scripts": [
+      "/date-difference-calculator.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"dateDifferenceCard\", slug: \"date-difference-calculator\", title: \"Date Difference Calculator\" }",
+    "sourceTitle": "Date Difference Calculator"
+  },
+  "sci-fi-person-name-generator": {
+    "scripts": [
+      "/generators.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"sciFiNameCard\", slug: \"sci-fi-person-name-generator\", title: \"Sci-Fi Person Name Generator\" }",
+    "sourceTitle": "Sci-Fi Person Name Generator"
+  },
+  "audio-trimmer": {
+    "scripts": [
+      "https://cdn.jsdelivr.net/npm/lamejs@1.2.1/lame.min.js",
+      "/audio-tools.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"audioTrimmerCard\", slug: \"audio-trimmer\", title: \"Audio Trimmer\" }",
+    "sourceTitle": "Audio Trimmer"
+  },
+  "discount-calculator": {
+    "scripts": [
+      "/discount-calculator.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"discountCard\", slug: \"discount-calculator\", title: \"Discount Calculator\" }",
+    "sourceTitle": "Discount Calculator"
+  },
+  "subtitle-converter": {
+    "scripts": [
+      "/video-tools.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"subtitleConverterCard\", slug: \"subtitle-converter\", title: \"Subtitle Converter\" }",
+    "sourceTitle": "Subtitle Converter"
+  },
+  "rpg-character-generator": {
+    "scripts": [
+      "/game-tools.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"rpgCharacterCard\", slug: \"rpg-character-generator\", title: \"RPG Character Generator\" }",
+    "sourceTitle": "RPG Character Generator"
+  },
+  "character-byte-counter": {
+    "scripts": [
+      "/character-byte-counter.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"characterByteCard\", slug: \"character-byte-counter\", title: \"Character & Byte Counter\" }",
+    "sourceTitle": "Character &amp; Byte Counter"
+  },
+  "power-converter": {
+    "scripts": [
+      "/extra-converters.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"powerConverterCard\", slug: \"power-converter\", title: \"Power Converter\" }",
+    "sourceTitle": "Power Converter"
+  },
+  "business-name-generator": {
+    "scripts": [
+      "/generators.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"businessNameCard\", slug: \"business-name-generator\", title: \"Business Name Generator\" }",
+    "sourceTitle": "Business Name Generator"
+  },
+  "username-generator": {
+    "scripts": [
+      "/generators.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"usernameCard\", slug: \"username-generator\", title: \"Username Generator\" }",
+    "sourceTitle": "Username Generator"
+  },
+  "color-converter": {
+    "scripts": [
+      "/extra-converters.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"colorConverterCard\", slug: \"color-converter\", title: \"Color Converter\" }",
+    "sourceTitle": "Color Converter"
+  },
+  "time-duration-calculator": {
+    "scripts": [
+      "/time-duration-calculator.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"timeDurationCard\", slug: \"time-duration-calculator\", title: \"Time Duration Calculator\" }",
+    "sourceTitle": "Time Duration Calculator"
+  },
+  "volume-converter": {
+    "scripts": [
+      "/extra-converters.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"volumeConverterCard\", slug: \"volume-converter\", title: \"Volume Converter\" }",
+    "sourceTitle": "Volume Converter"
+  },
+  "silent-audio-generator": {
+    "scripts": [
+      "https://cdn.jsdelivr.net/npm/lamejs@1.2.1/lame.min.js",
+      "/audio-tools.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"silentAudioCard\", slug: \"silent-audio-generator\", title: \"Silent Audio Generator\" }",
+    "sourceTitle": "Silent Audio Generator"
+  },
+  "video-to-gif-converter": {
+    "scripts": [
+      "/video-tools.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"videoGifCard\", slug: \"video-to-gif-converter\", title: \"Video to GIF Converter\" }",
+    "sourceTitle": "Video to GIF Converter"
+  },
+  "image-to-base64": {
+    "scripts": [
+      "/image-tools.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"imageToBase64Card\", slug: \"image-to-base64\", title: \"Image to Base64\" }",
+    "sourceTitle": "Image to Base64"
+  },
+  "pressure-converter": {
+    "scripts": [
+      "/extra-converters.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"pressureConverterCard\", slug: \"pressure-converter\", title: \"Pressure Converter\" }",
+    "sourceTitle": "Pressure Converter"
+  },
+  "compound-interest-calculator": {
+    "scripts": [
+      "/compound-interest-calculator.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"compoundInterestCard\", slug: \"compound-interest-calculator\", title: \"Compound Interest Calculator\" }",
+    "sourceTitle": "Compound Interest Calculator"
+  },
+  "rotate-flip-image": {
+    "scripts": [
+      "/image-tools.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"imageRotateFlipCard\", slug: \"rotate-flip-image\", title: \"Rotate / Flip Image\" }",
+    "sourceTitle": "Rotate / Flip Image"
+  },
+  "sprite-sheet-editor": {
+    "scripts": [
+      "/game-tools.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"spriteSheetEditorCard\", slug: \"sprite-sheet-editor\", title: \"Sprite Sheet Editor\" }",
+    "sourceTitle": "Sprite Sheet Editor"
+  },
+  "random-decision-tools": {
+    "scripts": [
+      "/game-tools.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"randomDecisionCard\", slug: \"random-decision-tools\", title: \"Random Decision Tools\" }",
+    "sourceTitle": "Random Decision Tools"
+  },
+  "speed-converter": {
+    "scripts": [
+      "/extra-converters.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"speedConverterCard\", slug: \"speed-converter\", title: \"Speed Converter\" }",
+    "sourceTitle": "Speed Converter"
+  },
+  "game-loot-generator": {
+    "scripts": [
+      "/game-tools.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"gameLootGeneratorCard\", slug: \"game-loot-generator\", title: \"게임 아이템 생성기\" }",
+    "sourceTitle": "게임 아이템 생성기"
+  },
+  "image-color-picker": {
+    "scripts": [
+      "/image-tools.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"imageColorPickerCard\", slug: \"image-color-picker\", title: \"Image Color Picker\" }",
+    "sourceTitle": "Image Color Picker"
+  },
+  "tournament-bracket-generator": {
+    "scripts": [
+      "/game-tools.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"tournamentBracketCard\", slug: \"tournament-bracket-generator\", title: \"Tournament Bracket Generator\" }",
+    "sourceTitle": "Tournament Bracket Generator"
+  },
+  "bmi-calculator": {
+    "scripts": [
+      "/bmi-calculator.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"bmiCard\", slug: \"bmi-calculator\", title: \"BMI Calculator\" }",
+    "sourceTitle": "BMI Calculator"
+  },
+  "pace-converter": {
+    "scripts": [
+      "/extra-converters.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"paceConverterCard\", slug: \"pace-converter\", title: \"Pace Converter\" }",
+    "sourceTitle": "Pace Converter"
+  },
+  "timestamp-converter": {
+    "scripts": [
+      "/extra-converters.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"timestampConverterCard\", slug: \"timestamp-converter\", title: \"Timestamp Converter\" }",
+    "sourceTitle": "Timestamp Converter"
+  },
+  "data-storage-converter": {
+    "scripts": [
+      "/extra-converters.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"dataStorageConverterCard\", slug: \"data-storage-converter\", title: \"Data Storage Converter\" }",
+    "sourceTitle": "Data Storage Converter"
+  },
+  "mortgage-calculator": {
+    "scripts": [
+      "/mortgage-calculator.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"mortgageCard\", slug: \"mortgage-calculator\", title: \"Mortgage Calculator\" }",
+    "sourceTitle": "Mortgage Calculator"
+  },
+  "random-team-picker": {
+    "scripts": [
+      "/game-tools.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"randomTeamPickerCard\", slug: \"random-team-picker\", title: \"Random Team Picker\" }",
+    "sourceTitle": "Random Team Picker"
+  },
+  "image-metadata-viewer": {
+    "scripts": [
+      "/image-tools.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"imageMetadataCard\", slug: \"image-metadata-viewer\", title: \"Image Metadata Viewer\" }",
+    "sourceTitle": "Image Metadata Viewer"
+  },
+  "time-zone-converter": {
+    "scripts": [
+      "/extra-converters.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"timeZoneConverterCard\", slug: \"time-zone-converter\", title: \"Time Zone Converter\" }",
+    "sourceTitle": "Time Zone Converter"
+  },
+  "calorie-calculator": {
+    "scripts": [
+      "/calorie-calculator.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"calorieCard\", slug: \"calorie-calculator\", title: \"Calorie Calculator\" }",
+    "sourceTitle": "Calorie Calculator"
+  },
+  "png-to-jpg-converter": {
+    "scripts": [
+      "/image-tools.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"pngToJpgCard\", slug: \"png-to-jpg-converter\", title: \"PNG to JPG Converter\" }",
+    "sourceTitle": "PNG to JPG Converter"
+  },
+  "fantasy-quest-generator": {
+    "scripts": [
+      "/game-tools.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"questGeneratorCard\", slug: \"fantasy-quest-generator\", title: \"Fantasy Quest Generator\" }",
+    "sourceTitle": "Fantasy Quest Generator"
+  },
+  "fuel-cost-calculator": {
+    "scripts": [
+      "/fuel-cost-calculator.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"fuelCostCard\", slug: \"fuel-cost-calculator\", title: \"Fuel Cost Calculator\" }",
+    "sourceTitle": "Fuel Cost Calculator"
+  },
+  "energy-converter": {
+    "scripts": [
+      "/extra-converters.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"energyConverterCard\", slug: \"energy-converter\", title: \"Energy Converter\" }",
+    "sourceTitle": "Energy Converter"
+  },
+  "video-audio-extractor": {
+    "scripts": [
+      "/video-tools.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"videoAudioExtractorCard\", slug: \"video-audio-extractor\", title: \"Video Audio Extractor\" }",
+    "sourceTitle": "Video Audio Extractor"
+  },
+  "mp3-to-wav-converter": {
+    "scripts": [
+      "https://cdn.jsdelivr.net/npm/lamejs@1.2.1/lame.min.js",
+      "/audio-tools.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"mp3ToWavCard\", slug: \"mp3-to-wav-converter\", title: \"MP3 to WAV Converter\" }",
+    "sourceTitle": "MP3 to WAV Converter"
+  },
+  "number-base-converter": {
+    "scripts": [
+      "/extra-converters.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"numberBaseConverterCard\", slug: \"number-base-converter\", title: \"Number Base Converter\" }",
+    "sourceTitle": "Number Base Converter"
+  },
+  "lorem-ipsum-generator": {
+    "scripts": [
+      "/generators.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"loremIpsumCard\", slug: \"lorem-ipsum-generator\", title: \"Lorem Ipsum Generator\" }",
+    "sourceTitle": "Lorem Ipsum Generator"
+  },
+  "mp4-webm-converter": {
+    "scripts": [
+      "/video-tools.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"videoFormatCard\", slug: \"mp4-webm-converter\", title: \"MP4 & WebM Converter\" }",
+    "sourceTitle": "MP4 &amp; WebM Converter"
+  },
+  "video-trimmer": {
+    "scripts": [
+      "/video-tools.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"videoTrimmerCard\", slug: \"video-trimmer\", title: \"Video Trimmer\" }",
+    "sourceTitle": "Video Trimmer"
+  },
+  "loot-box-simulator": {
+    "scripts": [
+      "/game-tools.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"lootBoxSimulatorCard\", slug: \"loot-box-simulator\", title: \"아이템 박스 시뮬레이터\" }",
+    "sourceTitle": "아이템 박스 시뮬레이터"
+  },
+  "who-pays-roulette": {
+    "scripts": [
+      "/stock-crypto-avg-cost-calculator.js",
+      "/profit-loss-calculator.js",
+      "/percentage-calculator.js",
+      "/compound-interest-calculator.js",
+      "/loan-payment-calculator.js",
+      "/unit-converter.js",
+      "/extra-converters.js",
+      "/discount-calculator.js",
+      "/sales-tax-calculator.js",
+      "/tip-calculator.js",
+      "/date-difference-calculator.js",
+      "/time-duration-calculator.js",
+      "/bmi-calculator.js",
+      "/fuel-cost-calculator.js",
+      "/mortgage-calculator.js",
+      "/age-calculator.js",
+      "/calorie-calculator.js",
+      "/gpa-calculator.js",
+      "/character-byte-counter.js",
+      "/lunch-picker-food-additions.js",
+      "/lunch-picker-photo-map.js",
+      "/lunch-picker-foods.js",
+      "/generators.js",
+      "/image-tools.js",
+      "/video-tools.js",
+      "https://cdn.jsdelivr.net/npm/lamejs@1.2.1/lame.min.js",
+      "/audio-tools.js",
+      "/game-tools.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"whoPaysCard\", slug: \"who-pays-roulette\", title: \"누가 낼까요? 룰렛\" }",
+    "sourceTitle": "누가 낼까요? 룰렛"
+  },
+  "color-converter-picker": {
+    "scripts": [
+      "/extra-converters.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"colorConverterCard\", slug: \"color-converter-picker\", title: \"Color Converter & Picker\" }",
+    "sourceTitle": "Color Converter &amp; Picker"
+  },
+  "area-converter": {
+    "scripts": [
+      "/extra-converters.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"areaConverterCard\", slug: \"area-converter\", title: \"Area Converter\" }",
+    "sourceTitle": "Area Converter"
+  },
+  "image-resizer": {
+    "scripts": [
+      "/image-tools.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"imageResizerCard\", slug: \"image-resizer\", title: \"Image Resizer\" }",
+    "sourceTitle": "Image Resizer"
+  },
+  "audio-reverser": {
+    "scripts": [
+      "https://cdn.jsdelivr.net/npm/lamejs@1.2.1/lame.min.js",
+      "/audio-tools.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"audioReverseCard\", slug: \"audio-reverser\", title: \"Audio Reverser\" }",
+    "sourceTitle": "Audio Reverser"
+  },
+  "stock-crypto-avg-cost-calculator": {
+    "scripts": [
+      "/stock-crypto-avg-cost-calculator.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"avgCostCard\", slug: \"stock-crypto-avg-cost-calculator\", title: \"Stock/Crypto Avg Cost Calculator\" }",
+    "sourceTitle": "Stock/Crypto Avg Cost Calculator"
+  },
+  "angle-converter": {
+    "scripts": [
+      "/extra-converters.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"angleConverterCard\", slug: \"angle-converter\", title: \"Angle Converter\" }",
+    "sourceTitle": "Angle Converter"
+  },
+  "webp-converter": {
+    "scripts": [
+      "/image-tools.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"webpConverterCard\", slug: \"webp-converter\", title: \"WebP Converter\" }",
+    "sourceTitle": "WebP Converter"
+  },
+  "profit-loss-calculator": {
+    "scripts": [
+      "/profit-loss-calculator.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"profitLossCard\", slug: \"profit-loss-calculator\", title: \"Profit/Loss Calculator\" }",
+    "sourceTitle": "Profit/Loss Calculator"
+  },
+  "gacha-summon-simulator": {
+    "scripts": [
+      "/game-tools.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"gachaSimulatorCard\", slug: \"gacha-summon-simulator\", title: \"Gacha Summon Simulator\" }",
+    "sourceTitle": "Gacha Summon Simulator"
+  },
+  "image-compressor": {
+    "scripts": [
+      "/image-tools.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"imageCompressorCard\", slug: \"image-compressor\", title: \"Image Compressor\" }",
+    "sourceTitle": "Image Compressor"
+  },
+  "frequency-converter": {
+    "scripts": [
+      "/extra-converters.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"frequencyConverterCard\", slug: \"frequency-converter\", title: \"Frequency Converter\" }",
+    "sourceTitle": "Frequency Converter"
+  },
+  "loan-payment-calculator": {
+    "scripts": [
+      "/loan-payment-calculator.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"loanPaymentCard\", slug: \"loan-payment-calculator\", title: \"Loan Payment Calculator\" }",
+    "sourceTitle": "Loan Payment Calculator"
+  },
+  "lunch-picker": {
+    "scripts": [
+      "/lunch-picker-food-additions.js",
+      "/lunch-picker-photo-map.js",
+      "/lunch-picker-foods.js",
+      "/generators.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"lunchPickerCard\", slug: \"lunch-picker\", title: \"점심 메뉴 고르기\" }",
+    "sourceTitle": "점심 메뉴 고르기"
+  },
+  "image-filter-tool": {
+    "scripts": [
+      "/image-tools.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"imageFilterCard\", slug: \"image-filter-tool\", title: \"Image Filter Tool\" }",
+    "sourceTitle": "Image Filter Tool"
+  }
+}

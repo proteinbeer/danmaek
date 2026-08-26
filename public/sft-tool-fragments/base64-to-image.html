@@ -1,0 +1,15 @@
+<div id="cardsGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 relative"><div id="base64ToImageCard" data-category="image" data-tool-slug="base64-to-image" class="expandable-card expand-transition relative z-10 block bg-white rounded-2xl border border-gray-200 shadow-sm hover:shadow-md hover:border-zinc-400 backdrop-blur-xs flex-col overflow-hidden w-full h-full max-w-lg mx-auto md:mx-0 tool-page-panel is-expanded active-panel shadow-2xl border-zinc-400 tool-panel">
+                <div class="card-content p-6 w-full">
+                    <button class="close-expanded-btn expand-close absolute top-5 right-5 text-zinc-400 hover:text-zinc-600 font-bold text-base cursor-pointer p-1 focus:outline-none" aria-label="Close image tool">×</button>
+                    <div class="w-12 h-12 bg-fuchsia-50 border border-fuchsia-100 rounded-xl flex items-center justify-center text-[11px] font-black text-fuchsia-700 mb-4">IMG</div>
+                    <h1 id="tool42Title" class="text-lg font-bold text-zinc-900 mb-1">Base64 to Image</h1>
+                    <p id="tool42Desc" class="card-description text-sm text-zinc-500 overflow-hidden">Paste a Base64 data URL and download it as an image.</p>
+                </div>
+                <div class="calculator-content px-6 pb-5 flex flex-col w-full transition-all duration-150 ease-out space-y-5 opacity-100 translate-y-0">
+                    <textarea id="base64ImageInput" rows="4" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-xs focus:outline-none focus:border-zinc-400 resize-none" placeholder="Paste data:image/...;base64,..."></textarea>
+                    <img id="base64ImagePreview" alt="" class="hidden max-h-32 w-full rounded-xl border border-gray-200 object-contain bg-zinc-50">
+                    <button id="downloadBase64Image" class="w-full bg-zinc-900 text-white rounded-xl px-4 py-2 text-sm font-bold cursor-pointer hover:bg-zinc-700">Convert</button>
+                </div>
+            </div></div>
+
+        

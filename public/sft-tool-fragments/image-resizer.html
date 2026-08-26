@@ -1,0 +1,16 @@
+<div id="cardsGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 relative"><div id="imageResizerCard" data-category="image" data-tool-slug="image-resizer" class="expandable-card expand-transition relative z-10 block bg-white rounded-2xl border border-gray-200 shadow-sm hover:shadow-md hover:border-zinc-400 backdrop-blur-xs flex-col overflow-hidden w-full h-full max-w-lg mx-auto md:mx-0 tool-page-panel is-expanded active-panel shadow-2xl border-zinc-400 tool-panel">
+                <div class="card-content p-6 w-full">
+                    <button class="close-expanded-btn expand-close absolute top-5 right-5 text-zinc-400 hover:text-zinc-600 font-bold text-base cursor-pointer p-1 focus:outline-none" aria-label="Close image tool">×</button>
+                    <div class="w-12 h-12 bg-zinc-100 rounded-xl flex items-center justify-center text-2xl mb-4">📏</div>
+                    <h1 id="tool35Title" class="text-lg font-bold text-zinc-900 mb-1">Image Resizer</h1>
+                    <p id="tool35Desc" class="card-description text-sm text-zinc-500 overflow-hidden">Resize one image by width while keeping its ratio.</p>
+                </div>
+                <div class="calculator-content px-6 pb-5 flex flex-col w-full transition-all duration-150 ease-out space-y-5 opacity-100 translate-y-0">
+                    <input type="file" id="imageResizerInput" accept="image/png,image/jpeg,image/webp" class="w-full text-sm text-zinc-500 file:mr-3 file:rounded-lg file:border-0 file:bg-zinc-900 file:px-3 file:py-2 file:text-sm file:font-bold file:text-white">
+                    <div><label class="block text-xs font-medium text-zinc-500 mb-1" for="resizeWidth">Width</label><input type="number" id="resizeWidth" value="800" min="1" max="5000" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"></div>
+                    <img id="imageResizerPreview" alt="" class="hidden image-preview-large rounded-xl border border-gray-200">
+                    <button id="downloadResizedImage" class="w-full bg-zinc-900 text-white rounded-xl px-4 py-2 text-sm font-bold cursor-pointer hover:bg-zinc-700">Download</button>
+                </div>
+            </div></div>
+
+        

@@ -62,8 +62,8 @@ hideDescription: true
 
 두 사람 모두 비슷한 가족 배경을 가지고 있지만 자신의 경험을 설명하는 방식은 조금씩 다릅니다. 혼혈 배우의 정체성을 부모의 인종만 보고 단순하게 결정하기 어려운 이유죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<div class="coupang-ad coupang-ad--mobile">
+  <div>
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>
 <script>
@@ -121,12 +121,12 @@ hideDescription: true
 
 가족 배경만 정리하시면 젠데이아는 흑인 아버지와 백인 어머니 사이에서 태어난 혼혈 배우입니다. 여기에 본인의 발언까지 포함하시면 흑인 여성으로서의 정체성과 할리우드에서의 경험 역시 꾸준히 이야기해온 배우라고 설명하시면 가장 자연스럽습니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<div class="coupang-ad coupang-ad--desktop">
+  <div>
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>
 <script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"728","height":"90","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>

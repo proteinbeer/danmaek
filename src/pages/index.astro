@@ -3,6 +3,7 @@ import BaseLayout from '../components/BaseLayout.astro';
 import PostCard from '../components/PostCard.astro';
 import { CATEGORIES } from '../consts';
 import { getPosts } from '../lib/posts';
+import { TOOLS } from '../lib/tools';
 
 const posts = getPosts();
 const featured = posts.find((post) => post.data.featured) ?? posts[0];
@@ -14,7 +15,6 @@ const featured = posts.find((post) => post.data.featured) ?? posts[0];
         <div class="section-head">
           <div>
             <h2 id="featured-title">최신 글</h2>
-            <p>오늘 핫한 이슈를 만나 보세요</p>
           </div>
         </div>
         <article class="featured">
@@ -32,7 +32,6 @@ const featured = posts.find((post) => post.data.featured) ?? posts[0];
       <div class="section-head">
         <div>
           <h2 id="categories-title">카테고리</h2>
-          <p>주제별로 만나 보세요.</p>
         </div>
       </div>
       <div class="category-strip">
@@ -49,8 +48,8 @@ const featured = posts.find((post) => post.data.featured) ?? posts[0];
       <div class="section-head">
         <div>
           <h2 id="latest-title">모든 글</h2>
-          <p>단맥의 이전 이슈도 만나 보세요.</p>
         </div>
+        <input id="home-search" type="search" placeholder="검색" autocomplete="off" style="border:1px solid var(--strong-line); border-radius:999px; padding:8px 16px; font:inherit; font-size:.92rem; width:180px;" />
       </div>
       <div class="grid" id="post-grid">
         {posts.map((post) => <PostCard post={post} />)}
@@ -61,6 +60,34 @@ const featured = posts.find((post) => post.data.featured) ?? posts[0];
         </button>
         <span class="pager__status" id="pager-status"></span>
         <button type="button" class="pager__arrow" id="pager-next" aria-label="다음 페이지">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 18l6-6-6-6"/></svg>
+        </button>
+      </nav>
+    </section>
+
+    <section class="container" aria-labelledby="tools-title" id="tool-section">
+      <div class="section-head">
+        <div>
+          <h2 id="tools-title">도구 들</h2>
+        </div>
+        <input id="home-tool-search" type="search" placeholder="검색" autocomplete="off" style="border:1px solid var(--strong-line); border-radius:999px; padding:8px 16px; font:inherit; font-size:.92rem; width:180px;" />
+      </div>
+      <div class="tool-grid" id="tool-grid">
+        {TOOLS.map((tool) => (
+          <a class="tool-card" href={`/tools/${tool.slug}/`}>
+            <i aria-hidden="true">{tool.icon}</i>
+            <span>{tool.category}</span>
+            <strong>{tool.title}</strong>
+            <p>{tool.description}</p>
+          </a>
+        ))}
+      </div>
+      <nav class="pager" id="tool-pager" aria-label="툴 페이지 네비게이션">
+        <button type="button" class="pager__arrow" id="tool-pager-prev" aria-label="이전 툴 페이지">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 18l-6-6 6-6"/></svg>
+        </button>
+        <span class="pager__status" id="tool-pager-status"></span>
+        <button type="button" class="pager__arrow" id="tool-pager-next" aria-label="다음 툴 페이지">
           <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 18l6-6-6-6"/></svg>
         </button>
       </nav>
@@ -81,33 +108,111 @@ const featured = posts.find((post) => post.data.featured) ?? posts[0];
     const prevButton = document.getElementById('pager-prev') as HTMLButtonElement;
     const nextButton = document.getElementById('pager-next') as HTMLButtonElement;
     const status = document.getElementById('pager-status') as HTMLElement;
-    const cards = Array.from(grid?.children ?? []) as HTMLElement[];
-    const totalPages = Math.ceil(cards.length / PAGE_SIZE);
+    const homeSearch = document.getElementById('home-search') as HTMLInputElement;
+    const homeToolSearch = document.getElementById('home-tool-search') as HTMLInputElement;
+    const allCards = Array.from(grid?.children ?? []) as HTMLElement[];
+    let filteredCards = [...allCards];
+    let postTotalPages = Math.ceil(filteredCards.length / PAGE_SIZE);
     let current = 0;
 
-    function render() {
-      cards.forEach((card, index) => {
-        card.style.display = index >= current * PAGE_SIZE && index < (current + 1) * PAGE_SIZE ? '' : 'none';
-      });
-      status.textContent = `${current + 1} / ${totalPages}`;
+    function makePlaceholder() {
+      const div = document.createElement('div');
+      div.className = 'post-card post-card--placeholder';
+      div.setAttribute('aria-hidden', 'true');
+      div.innerHTML = '<div class="post-card__image"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" width="640" height="360" /></div><div class="post-card__meta"><a>&nbsp;</a><span>&nbsp;</span><time>&nbsp;</time></div><h3><a>&nbsp;<br>&nbsp;</a></h3>';
+      return div;
+    }
+
+    function renderPosts() {
+      const start = current * PAGE_SIZE;
+      const pageCards = filteredCards.slice(start, start + PAGE_SIZE);
+      grid.innerHTML = '';
+      pageCards.forEach((card) => { card.style.display = ''; grid.appendChild(card); });
+      for (let i = pageCards.length; i < PAGE_SIZE; i++) grid.appendChild(makePlaceholder());
+      status.textContent = `${current + 1} / ${postTotalPages}`;
       prevButton.disabled = current === 0;
-      nextButton.disabled = current >= totalPages - 1;
+      nextButton.disabled = current >= postTotalPages - 1;
+      pager.hidden = postTotalPages <= 1 && filteredCards.length <= PAGE_SIZE;
     }
 
     function goTo(page: number) {
-      if (page < 0 || page > totalPages - 1 || page === current) return;
+      if (page < 0 || page > postTotalPages - 1 || page === current) return;
       current = page;
-      render();
-      section?.scrollIntoView({ behavior: 'smooth' });
+      renderPosts();
     }
 
     prevButton?.addEventListener('click', () => goTo(current - 1));
     nextButton?.addEventListener('click', () => goTo(current + 1));
 
-    if (totalPages <= 1) {
-      pager.hidden = true;
-    } else {
-      render();
+    const TOOL_PAGE_SIZE = 6;
+    const toolSection = document.getElementById('tool-section');
+    const toolGrid = document.getElementById('tool-grid') as HTMLElement;
+    const toolPager = document.getElementById('tool-pager') as HTMLElement;
+    const toolPrevButton = document.getElementById('tool-pager-prev') as HTMLButtonElement;
+    const toolNextButton = document.getElementById('tool-pager-next') as HTMLButtonElement;
+    const toolStatus = document.getElementById('tool-pager-status') as HTMLElement;
+    const allToolCards = Array.from(toolGrid?.children ?? []) as HTMLElement[];
+    let filteredToolCards = [...allToolCards];
+    let toolTotalPages = Math.ceil(filteredToolCards.length / TOOL_PAGE_SIZE);
+    let toolCurrent = 0;
+
+    function makeToolPlaceholder() {
+      const div = document.createElement('div');
+      div.className = 'tool-card tool-card--placeholder';
+      div.setAttribute('aria-hidden', 'true');
+      div.innerHTML = '<i aria-hidden="true">&nbsp;</i><span>&nbsp;</span><strong>&nbsp;</strong><p>&nbsp;</p>';
+      return div;
     }
+
+    function renderTools() {
+      const start = toolCurrent * TOOL_PAGE_SIZE;
+      const pageCards = filteredToolCards.slice(start, start + TOOL_PAGE_SIZE);
+      toolGrid.innerHTML = '';
+      pageCards.forEach((card) => { card.style.display = ''; toolGrid.appendChild(card); });
+      for (let i = pageCards.length; i < TOOL_PAGE_SIZE; i++) toolGrid.appendChild(makeToolPlaceholder());
+      toolStatus.textContent = `${toolCurrent + 1} / ${toolTotalPages}`;
+      toolPrevButton.disabled = toolCurrent === 0;
+      toolNextButton.disabled = toolCurrent >= toolTotalPages - 1;
+      toolPager.hidden = toolTotalPages <= 1 && filteredToolCards.length <= TOOL_PAGE_SIZE;
+    }
+
+    function goToToolPage(page: number) {
+      if (page < 0 || page > toolTotalPages - 1 || page === toolCurrent) return;
+      toolCurrent = page;
+      renderTools();
+    }
+
+    toolPrevButton?.addEventListener('click', () => goToToolPage(toolCurrent - 1));
+    toolNextButton?.addEventListener('click', () => goToToolPage(toolCurrent + 1));
+
+    function filterPosts() {
+      const q = (homeSearch?.value || '').trim().toLowerCase();
+      if (q) {
+        filteredCards = allCards.filter((card) => card.textContent?.toLowerCase().includes(q));
+      } else {
+        filteredCards = [...allCards];
+      }
+      postTotalPages = Math.ceil(filteredCards.length / PAGE_SIZE) || 1;
+      current = 0;
+      renderPosts();
+    }
+
+    function filterTools() {
+      const q = (homeToolSearch?.value || '').trim().toLowerCase();
+      if (q) {
+        filteredToolCards = allToolCards.filter((card) => card.textContent?.toLowerCase().includes(q));
+      } else {
+        filteredToolCards = [...allToolCards];
+      }
+      toolTotalPages = Math.ceil(filteredToolCards.length / TOOL_PAGE_SIZE) || 1;
+      toolCurrent = 0;
+      renderTools();
+    }
+
+    homeSearch?.addEventListener('input', filterPosts);
+    homeToolSearch?.addEventListener('input', filterTools);
+
+    renderPosts();
+    renderTools();
   </script>
 </BaseLayout>

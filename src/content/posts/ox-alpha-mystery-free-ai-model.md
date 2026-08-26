@@ -75,7 +75,7 @@ hideDescription: true
 
 옥스 알파가 코딩과 지속적인 에이전트 작업을 강조하는 이유도 단순한 질문 답변보다 이런 긴 작업 흐름을 노리고 있기 때문입니다.
 
-<img class="post-landscape-image" src="/images/posts/ox-alpha-mystery-free-ai-model/02-mystery-identity-yt.jpg" alt="정체를 숨긴 옥스 알파의 개발사를 찾는다는 영상 썸네일" loading="lazy" />
+<img class="post-landscape-image" src="/images/posts/ox-alpha-mystery-free-ai-model/02-mystery-identity-oxalpha.jpg" alt="옥스 알파 공식 페이지 히어로 이미지" loading="lazy" />
 
 ## 4. 무료 모델의 가장 큰 비용은 데이터일 수 있다
 
