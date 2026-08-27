@@ -12,7 +12,7 @@ tags:
   - "위쳐 4"
   - "게임스컴 2026"
   - "풀스 시어리"
-image: "/images/posts/witcher-3-third-expansion-past-songs/01-witcher4-ue5-demo.jpg"
+image: "https://img.danmaek.com/images/posts/witcher-3-third-expansion-past-songs/01-witcher4-ue5-demo.jpg"
 imageAlt: "위쳐 4 언리얼 엔진 5 기술 데모"
 imageWidth: 1280
 imageHeight: 720
@@ -30,7 +30,7 @@ hideDescription: true
 
 그런데 위쳐 3는 오래된 본편에 새로운 이야기를 직접 붙이는 길을 택했습니다. 누적 판매량이 6500만 장을 넘어선 게임이라면 오래됐다는 사실이 약점이 아니라 거대한 자산이 될 수 있기 때문이죠.
 
-<img class="post-landscape-image post-landscape-image--high" src="/images/posts/witcher-3-third-expansion-past-songs/01-witcher4-ue5-demo.jpg" alt="위쳐 4 언리얼 엔진 5 기술 데모" loading="lazy" />
+<img class="post-landscape-image post-landscape-image--high" src="https://img.danmaek.com/images/posts/witcher-3-third-expansion-past-songs/01-witcher4-ue5-demo.jpg" alt="위쳐 4 언리얼 엔진 5 기술 데모" loading="lazy" />
 
 ## 1. 이미 6500만 명
 
@@ -52,7 +52,7 @@ CD 프로젝트 레드에 따르면 위쳐 3 누적 판매량은 6500만 장을 
 
 또한 회사가 대형 신작을 준비하는 동안 매출과 관심을 이어갈 중간 제품으로도 적합하고요.
 
-<img class="post-landscape-image" src="/images/posts/witcher-3-third-expansion-past-songs/02-witcher3-nextgen.jpg" alt="위쳐 3 넥스젠 업데이트 장면" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/witcher-3-third-expansion-past-songs/02-witcher3-nextgen.jpg" alt="위쳐 3 넥스젠 업데이트 장면" loading="lazy" />
 
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
@@ -85,7 +85,7 @@ CD 프로젝트 레드는 이번 확장팩을 게롤트에게 다시 돌아가�
 
 게임의 수명이 출시 후 몇 년이라는 과거의 공식이 점점 약해지고 있다는 사례이기도 합니다.
 
-<img class="post-landscape-image" src="/images/posts/witcher-3-third-expansion-past-songs/03-cdpr-castle.jpg" alt="중세 성 캐슬" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/witcher-3-third-expansion-past-songs/03-cdpr-castle.jpg" alt="중세 성 캐슬" loading="lazy" />
 
 ## 5. 게임 산업이 카탈로그 사업으로
 
@@ -99,7 +99,7 @@ CD 프로젝트 레드는 이번 확장팩을 게롤트에게 다시 돌아가�
 
 과거의 노래가 성공하면 다른 회사들도 오래된 인기 게임을 리마스터하는 데서 끝내지 않고 실제 신규 확장팩을 붙이는 방식을 더 적극적으로 검토할 수 있겠죠. 그래서 위쳐 3의 귀환은 추억 상품이면서 동시에 게임 한 편의 수명이 얼마나 길어질 수 있는지를 시험하는 사례가 됩니다.
 
-<img class="post-landscape-image" src="/images/posts/witcher-3-third-expansion-past-songs/04-witcher3-cinematic.jpg" alt="위쳐 3 시네마틱 영상" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/witcher-3-third-expansion-past-songs/04-witcher3-cinematic.jpg" alt="위쳐 3 시네마틱 영상" loading="lazy" />
 
 <div style="margin: 40px 0 28px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">

@@ -11,7 +11,7 @@ tags:
   - "한국 흥행"
   - "아이맥스"
   - "특별관"
-image: "/images/posts/odyssey-21-day-streak-box-office/01-odyssey-streak.jpg"
+image: "https://img.danmaek.com/images/posts/odyssey-21-day-streak-box-office/01-odyssey-streak.jpg"
 imageAlt: "영화 오디세이 포스터"
 imageWidth: 1280
 imageHeight: 854
@@ -27,7 +27,7 @@ hideDescription: true
 
 700만을 넘긴 뒤에도 평일 하루 16만명 이상이 들어왔다는 겁니다. 개봉 초반 팬덤이 몰린 뒤 빠르게 줄어드는 일반적인 대작과 달리 오디세이는 4주차에도 새 관객을 계속 끌어들이고 있는 거죠.
 
-<img class="post-landscape-image post-landscape-image--high" src="/images/posts/odyssey-21-day-streak-box-office/01-odyssey-streak.jpg" alt="영화 오디세이 포스터" loading="lazy" />
+<img class="post-landscape-image post-landscape-image--high" src="https://img.danmaek.com/images/posts/odyssey-21-day-streak-box-office/01-odyssey-streak.jpg" alt="영화 오디세이 포스터" loading="lazy" />
 
 ## 1. 4주차에도 하루 16만
 
@@ -45,7 +45,7 @@ hideDescription: true
 
 그래서 746만이라는 숫자보다 예매율이 얼마나 오래 유지되는지를 보시는 편이 최종 흥행을 예상하는 데 더 중요할 수 있죠.
 
-<img class="post-landscape-image" src="/images/posts/odyssey-21-day-streak-box-office/02-odyssey-streak.jpg" alt="영화 오디세이 장면" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/odyssey-21-day-streak-box-office/02-odyssey-streak.jpg" alt="영화 오디세이 장면" loading="lazy" />
 
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
@@ -68,7 +68,7 @@ hideDescription: true
 
 특별관 좌석은 일반관보다 가격이 높지만 원하는 시간과 중앙 좌석이 빨리 빠지는 경우가 많습니다. 결국 표가 없어서 관람을 포기하는 것이 아니라 며칠 뒤로 미루는 수요가 생기고, 이 지연된 수요가 개봉 주차가 지나도 관객 수를 받쳐줄 수 있는 거죠.
 
-<img class="post-landscape-image" src="/images/posts/odyssey-21-day-streak-box-office/03-odyssey-streak.jpg" alt="영화 오디세이 아이맥스 상영" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/odyssey-21-day-streak-box-office/03-odyssey-streak.jpg" alt="영화 오디세이 아이맥스 상영" loading="lazy" />
 
 ## 4. 긴 상영 시간
 
@@ -90,7 +90,7 @@ hideDescription: true
 
 그래서 21일 연속 1위라는 기록은 오디세이가 얼마나 빨리 흥행했는지보다 얼마나 오랫동안 관객에게 극장에 갈 이유를 제공하고 있는지를 보여주는 숫자에 가깝습니다.
 
-<img class="post-landscape-image" src="/images/posts/odyssey-21-day-streak-box-office/04-odyssey-streak.jpg" alt="영화 오디세이 스틸" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/odyssey-21-day-streak-box-office/04-odyssey-streak.jpg" alt="영화 오디세이 스틸" loading="lazy" />
 
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">

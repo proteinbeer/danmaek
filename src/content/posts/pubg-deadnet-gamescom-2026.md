@@ -11,7 +11,7 @@ tags:
   - "배틀그라운드"
   - "로그라이트"
   - "슈팅 게임"
-image: "/images/posts/pubg-deadnet-gamescom-2026/01-pubg-deadnet.jpg"
+image: "https://img.danmaek.com/images/posts/pubg-deadnet-gamescom-2026/01-pubg-deadnet.jpg"
 imageAlt: "PUBG 데드넷 공개 트레일러 스틸"
 imageWidth: 1280
 imageHeight: 853
@@ -27,7 +27,7 @@ hideDescription: true
 
 데드넷은 멀티플레이 1인칭 슈팅에 로그라이트 성장 구조를 섞은 작품입니다. 크래프톤이 PUBG라는 이름을 배틀로얄 하나가 아니라 더 넓은 슈팅 브랜드로 키우려는 움직임이 본격적으로 보이기 시작한 셈이죠.
 
-<img class="post-landscape-image post-landscape-image--high" src="/images/posts/pubg-deadnet-gamescom-2026/01-pubg-deadnet.jpg" alt="PUBG 데드넷 공개 트레일러 스틸" loading="lazy" />
+<img class="post-landscape-image post-landscape-image--high" src="https://img.danmaek.com/images/posts/pubg-deadnet-gamescom-2026/01-pubg-deadnet.jpg" alt="PUBG 데드넷 공개 트레일러 스틸" loading="lazy" />
 
 ## 1. 1996년 카스카디아
 
@@ -47,7 +47,7 @@ hideDescription: true
 
 이건 총을 잘 쏘는 유저뿐 아니라 여러 능력과 조합을 시험하는 유저까지 끌어들이려는 선택으로 볼 수 있습니다.
 
-<img class="post-landscape-image" src="/images/posts/pubg-deadnet-gamescom-2026/02-pubg-deadnet.jpg" alt="PUBG 데드넷 게임플레이 스크린샷" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/pubg-deadnet-gamescom-2026/02-pubg-deadnet.jpg" alt="PUBG 데드넷 게임플레이 스크린샷" loading="lazy" />
 
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
@@ -76,7 +76,7 @@ hideDescription: true
 
 너무 다르면 왜 PUBG인지 의문이 생기고, 너무 비슷하면 굳이 새 게임을 할 이유가 없어지죠. 그래서 데드넷이 해결해야 하는 가장 어려운 문제도 바로 이 사이에 있습니다.
 
-<img class="post-landscape-image" src="/images/posts/pubg-deadnet-gamescom-2026/03-pubg-deadnet.jpg" alt="PUBG 데드넷 전투 장면" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/pubg-deadnet-gamescom-2026/03-pubg-deadnet.jpg" alt="PUBG 데드넷 전투 장면" loading="lazy" />
 
 ## 5. 배틀그라운드2보다 프랜차이즈
 

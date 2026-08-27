@@ -11,7 +11,7 @@ tags:
   - "AI 반도체"
   - "데이터센터 투자"
   - "AI 버블"
-image: "/images/posts/nvidia-earnings-ai-market-thermometer/01-nvidia-vera-rubin.jpg"
+image: "https://img.danmaek.com/images/posts/nvidia-earnings-ai-market-thermometer/01-nvidia-vera-rubin.jpg"
 imageAlt: "NVIDIA Vera Rubin 플랫폼"
 imageWidth: 1280
 imageHeight: 720
@@ -29,7 +29,7 @@ hideDescription: true
 
 이유는 엔비디아가 단순한 반도체 회사가 아니라 전 세계 인공지능 투자 속도를 확인하는 체온계처럼 취급되고 있기 때문이죠. 엔비디아 숫자가 좋으면 데이터센터 투자가 계속된다는 해석이 나오고, 조금만 기대에 못 미쳐도 인공지능 투자 전체가 둔화되는 것 아니냐는 의심이 생기니까요.
 
-<img class="post-landscape-image post-landscape-image--high" src="/images/posts/nvidia-earnings-ai-market-thermometer/01-nvidia-vera-rubin.jpg" alt="NVIDIA Vera Rubin 플랫폼" loading="lazy" />
+<img class="post-landscape-image post-landscape-image--high" src="https://img.danmaek.com/images/posts/nvidia-earnings-ai-market-thermometer/01-nvidia-vera-rubin.jpg" alt="NVIDIA Vera Rubin 플랫폼" loading="lazy" />
 
 ## 1. 엔비디아 매출은 다른 회사의 투자비
 
@@ -53,7 +53,7 @@ hideDescription: true
 
 실적 발표의 질문이 돈을 많이 벌었느냐가 아니라 시장의 기대를 계속 뛰어넘을 수 있느냐로 바뀐 겁니다.
 
-<img class="post-landscape-image" src="/images/posts/nvidia-earnings-ai-market-thermometer/02-blackwell-rack.jpg" alt="NVIDIA 블랙웰 GPU 랙" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/nvidia-earnings-ai-market-thermometer/02-blackwell-rack.jpg" alt="NVIDIA 블랙웰 GPU 랙" loading="lazy" />
 
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
@@ -86,7 +86,7 @@ hideDescription: true
 
 그래서 이번 실적에서는 현재 판매량만큼 다음 세대 제품과 추론 시장에서의 위치도 중요하고요.
 
-<img class="post-landscape-image" src="/images/posts/nvidia-earnings-ai-market-thermometer/03-nvidia-datacenter.jpg" alt="AI 데이터센터 서버 랙" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/nvidia-earnings-ai-market-thermometer/03-nvidia-datacenter.jpg" alt="AI 데이터센터 서버 랙" loading="lazy" />
 
 ## 5. 인공지능 거품 논쟁이 실적마다 반복되는 이유
 
@@ -98,7 +98,7 @@ hideDescription: true
 
 사실 엔비디아 실적은 그 과정의 앞부분을 확인하는 시험입니다. 당장 반도체 수요가 강한지 보여줄 수는 있지만 인공지능 산업 전체의 최종 수익성을 증명하는 것은 아니라는 점까지 함께 보셔야하죠.
 
-<img class="post-landscape-image" src="/images/posts/nvidia-earnings-ai-market-thermometer/04-ai-bubble-debate.jpg" alt="AI 거품 논쟁 뉴스 보도" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/nvidia-earnings-ai-market-thermometer/04-ai-bubble-debate.jpg" alt="AI 거품 논쟁 뉴스 보도" loading="lazy" />
 
 <div style="margin: 40px 0 28px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">

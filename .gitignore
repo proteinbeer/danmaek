@@ -6,3 +6,4 @@ dist/
 !.env.example
 npm-debug.log*
 image/
+seo-check-report.json

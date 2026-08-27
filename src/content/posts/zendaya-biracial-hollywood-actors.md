@@ -12,7 +12,7 @@ tags:
   - "흑인 백인 혼혈"
   - "할리우드 배우"
   - "인종 정체성"
-image: "/images/posts/zendaya-biracial-hollywood-actors/01-zendaya.jpg"
+image: "https://img.danmaek.com/images/posts/zendaya-biracial-hollywood-actors/01-zendaya.jpg"
 imageAlt: "배우 젠데이아"
 imageWidth: 1200
 imageHeight: 1200
@@ -30,7 +30,7 @@ hideDescription: true
 
 다만 미국에서 인종 정체성은 부모의 배경을 단순하게 절반씩 나누는 문제와는 조금 다릅니다. 본인이 자신을 어떻게 받아들이는지와 사회에서 어떤 사람으로 인식되는지도 함께 작용하고요.
 
-<img class="post-landscape-image" src="/images/posts/zendaya-biracial-hollywood-actors/01-zendaya.jpg" alt="젠데이아" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/zendaya-biracial-hollywood-actors/01-zendaya.jpg" alt="젠데이아" loading="lazy" />
 
 ## 1. 젠데이아의 흑인 아버지와 백인 어머니
 
@@ -58,9 +58,9 @@ hideDescription: true
 
 두 사람 모두 비슷한 가족 배경을 가지고 있지만 자신의 경험을 설명하는 방식은 조금씩 다릅니다. 혼혈 배우의 정체성을 부모의 인종만 보고 단순하게 결정하기 어려운 이유죠.
 
-<img class="post-landscape-image" src="/images/posts/zendaya-biracial-hollywood-actors/02-halle-berry.jpg" alt="할리 베리" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/zendaya-biracial-hollywood-actors/02-halle-berry.jpg" alt="할리 베리" loading="lazy" />
 
-<img class="post-landscape-image" src="/images/posts/zendaya-biracial-hollywood-actors/03-rashida-jones.jpg" alt="라시다 존스" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/zendaya-biracial-hollywood-actors/03-rashida-jones.jpg" alt="라시다 존스" loading="lazy" />
 
 <div class="coupang-ad coupang-ad--mobile">
   <div>
@@ -85,9 +85,9 @@ hideDescription: true
 
 이들의 사례를 함께 보시면 부모의 배경을 아는 것과 당사자의 정체성을 대신 결정하는 것은 전혀 다른 문제라는 점을 알 수 있죠.
 
-<img class="post-landscape-image post-landscape-image--top" src="/images/posts/zendaya-biracial-hollywood-actors/04-maya-rudolph.jpg" alt="SNL 무대의 마야 루돌프" loading="lazy" />
+<img class="post-landscape-image post-landscape-image--top" src="https://img.danmaek.com/images/posts/zendaya-biracial-hollywood-actors/04-maya-rudolph.jpg" alt="SNL 무대의 마야 루돌프" loading="lazy" />
 
-<img class="post-landscape-image" src="/images/posts/zendaya-biracial-hollywood-actors/05-amandla-stenberg.jpg" alt="애콜라이트 속 아만들라 스텐버그" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/zendaya-biracial-hollywood-actors/05-amandla-stenberg.jpg" alt="애콜라이트 속 아만들라 스텐버그" loading="lazy" />
 
 ## 4. 제시 윌리엄스가 말한 두 가지 정체성
 
@@ -99,7 +99,7 @@ hideDescription: true
 
 같은 사람이라도 어디에서 누구와 살아가느냐에 따라 인종이 사회적으로 받아들여지는 방식이 달라질 수 있다는 의미죠.
 
-<img class="post-landscape-image post-landscape-image--top" src="/images/posts/zendaya-biracial-hollywood-actors/06-jesse-williams.jpg" alt="그레이 아나토미 속 제시 윌리엄스" loading="lazy" />
+<img class="post-landscape-image post-landscape-image--top" src="https://img.danmaek.com/images/posts/zendaya-biracial-hollywood-actors/06-jesse-williams.jpg" alt="그레이 아나토미 속 제시 윌리엄스" loading="lazy" />
 
 ## 5. 젠데이아가 흑인 배우로도 불리는 이유
 

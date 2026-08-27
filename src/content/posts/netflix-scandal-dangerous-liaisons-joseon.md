@@ -11,7 +11,7 @@ tags:
   - "손예진"
   - "지창욱"
   - "스캔들 조선남녀상열지사"
-image: "/images/posts/netflix-scandal-dangerous-liaisons-joseon/01-scandal-hanok.jpg"
+image: "https://img.danmaek.com/images/posts/netflix-scandal-dangerous-liaisons-joseon/01-scandal-hanok.jpg"
 imageAlt: "북촌 한옥마을"
 imageWidth: 1280
 imageHeight: 720
@@ -31,7 +31,7 @@ hideDescription: true
 
 2003년 영화 스캔들 조선남녀상열지사 역시 같은 소설을 조선으로 옮겼는데, 20년이 훨씬 지난 뒤 다시 같은 시대와 원작의 조합이 돌아왔죠.
 
-<img class="post-landscape-image post-landscape-image--high" src="/images/posts/netflix-scandal-dangerous-liaisons-joseon/01-scandal-hanok.jpg" alt="스캔들 영화 포스터" loading="lazy" />
+<img class="post-landscape-image post-landscape-image--high" src="https://img.danmaek.com/images/posts/netflix-scandal-dangerous-liaisons-joseon/01-scandal-hanok.jpg" alt="스캔들 영화 포스터" loading="lazy" />
 
 ## 1. 240년이 지나도 남아 있는 단순한 게임
 
@@ -53,7 +53,7 @@ hideDescription: true
 
 현대 연애극에서는 헤어지면 끝날 사건이 신분사회에서는 인생 전체를 무너뜨릴 사건이 될 수 있습니다. 그래서 조선이라는 배경이 원작의 잔혹함을 약하게 만드는 것이 아니라 오히려 증폭시키는 이유죠.
 
-<img class="post-landscape-image" src="/images/posts/netflix-scandal-dangerous-liaisons-joseon/02-scandal-book.jpg" alt="넷플릭스 스캔들 로고" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/netflix-scandal-dangerous-liaisons-joseon/02-scandal-book.jpg" alt="넷플릭스 스캔들 로고" loading="lazy" />
 
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
@@ -86,7 +86,7 @@ hideDescription: true
 
 조선시대 배경에서는 정보가 느리기 때문에 오히려 한 번 퍼진 소문의 무게가 더 클 수도 있습니다. 원작의 편지 게임을 사회적 감시와 체면의 게임으로 바꾸기 좋은 환경이죠.
 
-<img class="post-landscape-image" src="/images/posts/netflix-scandal-dangerous-liaisons-joseon/03-scandal-palace.jpg" alt="넷플릭스 스캔들 스틸컷" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/netflix-scandal-dangerous-liaisons-joseon/03-scandal-palace.jpg" alt="넷플릭스 스캔들 스틸컷" loading="lazy" />
 
 ## 5. 오래된 원작
 
@@ -100,7 +100,7 @@ hideDescription: true
 
 그래서 넷플릭스 스캔들의 흥미로운 지점도 원작이 240년 넘게 오래됐다는 사실보다 그 오래된 구조가 조선이라는 공간에서 다시 자연스럽게 작동한다는 데 있죠. 시대가 바뀌어도 사람이 다른 사람의 감정을 게임처럼 다루는 순간 생기는 파국은 쉽게 공감이 가능하니까요.
 
-<img class="post-landscape-image" src="/images/posts/netflix-scandal-dangerous-liaisons-joseon/04-dangerous-liaisons-novel.jpg" alt="위험한 관계 영화 포스터" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/netflix-scandal-dangerous-liaisons-joseon/04-dangerous-liaisons-novel.jpg" alt="위험한 관계 영화 포스터" loading="lazy" />
 
 <div style="margin: 40px 0 28px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">

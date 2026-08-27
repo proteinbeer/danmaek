@@ -47,7 +47,7 @@ const normalizePost = ([path, mod]: [string, PostModule]): Post => {
       updated: frontmatter.updated ? toDate(frontmatter.updated) : undefined,
       category: String(frontmatter.category ?? '지식') as Post['data']['category'],
       tags: toStringArray(frontmatter.tags),
-      image: String(frontmatter.image ?? '/images/og-default.jpg'),
+      image: String(frontmatter.image ?? 'https://img.danmaek.com/images/og-default.jpg'),
       imageAlt: String(frontmatter.imageAlt ?? ''),
       imageWidth: toNumber(frontmatter.imageWidth, 1200),
       imageHeight: toNumber(frontmatter.imageHeight, 675),

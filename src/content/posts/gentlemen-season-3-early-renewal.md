@@ -11,7 +11,7 @@ tags:
   - "가이 리치"
   - "테오 제임스"
   - "넷플릭스 조기 갱신"
-image: "/images/posts/gentlemen-season-3-early-renewal/01-gentlemen-estate.jpg"
+image: "https://img.danmaek.com/images/posts/gentlemen-season-3-early-renewal/01-gentlemen-estate.jpg"
 imageAlt: "젠틀맨 시즌2 에디 홀니먼이 촛불 저녁 식사 자리에 앉아 있다"
 imageWidth: 1280
 imageHeight: 720
@@ -29,7 +29,7 @@ hideDescription: true
 
 젠틀맨은 반대 순서로 움직였습니다. 이는 넷플릭스가 시즌 2의 성공을 무조건 확신한다는 의미라기보다 시즌 1에서 이미 충분한 이용자 데이터가 쌓였고, 장기 제작에서 기다리는 비용도 상당하다는 판단으로 볼 수 있죠.
 
-<img class="post-landscape-image post-landscape-image--high" src="/images/posts/gentlemen-season-3-early-renewal/01-gentlemen-estate.jpg" alt="젠틀맨 시즌2 에디 홀니먼이 촛불 저녁 식사 자리에 앉아 있다" loading="lazy" />
+<img class="post-landscape-image post-landscape-image--high" src="https://img.danmaek.com/images/posts/gentlemen-season-3-early-renewal/01-gentlemen-estate.jpg" alt="젠틀맨 시즌2 에디 홀니먼이 촛불 저녁 식사 자리에 앉아 있다" loading="lazy" />
 
 ## 1. 시즌 1에서 확인된 7600만 조회수
 
@@ -51,7 +51,7 @@ hideDescription: true
 
 조기 갱신은 콘텐츠에 대한 자신감이면서 동시에 제작 일정을 선점하는 계약 전략이기도 합니다.
 
-<img class="post-landscape-image" src="/images/posts/gentlemen-season-3-early-renewal/02-gentlemen-hemp.jpg" alt="에디 홀니먼과 스탠리 존스턴이 성당에서 대화하고 있다" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/gentlemen-season-3-early-renewal/02-gentlemen-hemp.jpg" alt="에디 홀니먼과 스탠리 존스턴이 성당에서 대화하고 있다" loading="lazy" />
 
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
@@ -86,7 +86,7 @@ hideDescription: true
 
 일단은 시즌 2가 급하게 모든 이야기를 끝낼 필요가 없다는 신호 정도로 보는 것이 적당합니다.
 
-<img class="post-landscape-image" src="/images/posts/gentlemen-season-3-early-renewal/03-gentlemen-countryside.jpg" alt="수지 글래스가 럭셔리 차 옆에 서 있다" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/gentlemen-season-3-early-renewal/03-gentlemen-countryside.jpg" alt="수지 글래스가 럭셔리 차 옆에 서 있다" loading="lazy" />
 
 ## 5. 넷플릭스가 원하는 영국산 장기 시리즈
 
@@ -98,7 +98,7 @@ hideDescription: true
 
 시즌 2 공개 전에 시즌 3를 확정한 결정은 넷플릭스가 한 시즌의 성적표보다 오래 유지할 수 있는 브랜드 가치를 보고 있다는 신호일 수 있습니다. 그래서 사실 젠틀맨의 진짜 시험은 시즌 2가 1위를 하느냐보다 같은 세계를 몇 년 동안 반복해서 보고 싶게 만들 수 있느냐에 있죠.
 
-<img class="post-landscape-image" src="/images/posts/gentlemen-season-3-early-renewal/04-gentlemen-camera.jpg" alt="바비 글래스가 사무실에서 화를 내며 손가락질하고 있다" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/gentlemen-season-3-early-renewal/04-gentlemen-camera.jpg" alt="바비 글래스가 사무실에서 화를 내며 손가락질하고 있다" loading="lazy" />
 
 <div style="margin: 40px 0 28px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">

@@ -11,7 +11,7 @@ tags:
   - "애플"
   - "카운터포인트리서치"
   - "폴더블 스마트폰"
-image: "/images/posts/foldable-iphone-samsung-impact/01-foldable-iphone.jpg"
+image: "https://img.danmaek.com/images/posts/foldable-iphone-samsung-impact/01-foldable-iphone.jpg"
 imageAlt: "폴더블 아이폰 컨셉과 삼성 갤럭시 Z 폴드"
 imageWidth: 1280
 imageHeight: 960
@@ -27,7 +27,7 @@ hideDescription: true
 
 카운터포인트리서치는 2026년 세계 폴더블 스마트폰 출하량이 전년보다 약 21퍼센트 늘어날 것으로 전망했습니다. 애플의 시장 진입 기대가 커지는 가운데 삼성은 여전히 1위를 지킬 것으로 예상되지만 점유율은 낮아질 가능성이 있죠.
 
-<img class="post-landscape-image post-landscape-image--high" src="/images/posts/foldable-iphone-samsung-impact/01-foldable-iphone.jpg" alt="폴더블 아이폰 컨셉과 삼성 갤럭시 Z 폴드" loading="lazy" />
+<img class="post-landscape-image post-landscape-image--high" src="https://img.danmaek.com/images/posts/foldable-iphone-samsung-impact/01-foldable-iphone.jpg" alt="폴더블 아이폰 컨셉과 삼성 갤럭시 Z 폴드" loading="lazy" />
 
 ## 1. 삼성은 2019년부터
 
@@ -37,7 +37,7 @@ hideDescription: true
 
 현재 애플이 첫 폴더블 제품을 내놓는다면 시작점 자체가 다릅니다. 삼성은 이미 실패와 개선을 여러 차례 경험한 상태에서 경쟁하게 되죠.
 
-<img class="post-landscape-image" src="/images/posts/foldable-iphone-samsung-impact/02-foldable-iphone.jpg" alt="갤럭시 Z 폴드7 카메라 기능" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/foldable-iphone-samsung-impact/02-foldable-iphone.jpg" alt="갤럭시 Z 폴드7 카메라 기능" loading="lazy" />
 
 ## 2. 아직 폴더블이 대중적이지 않은 이유
 
@@ -66,7 +66,7 @@ hideDescription: true
 
 폴더블 아이폰 발표가 갤럭시 Z 폴드의 검색량까지 함께 올리는 상황이 충분히 나올 수 있습니다.
 
-<img class="post-landscape-image" src="/images/posts/foldable-iphone-samsung-impact/03-foldable-iphone.jpg" alt="갤럭시 Z 폴드7 AI 기능" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/foldable-iphone-samsung-impact/03-foldable-iphone.jpg" alt="갤럭시 Z 폴드7 AI 기능" loading="lazy" />
 
 ## 4. 삼성의 가장 큰 자산
 
@@ -84,7 +84,7 @@ hideDescription: true
 
 두께와 화면 주름까지 크게 개선해서 나온다면 삼성의 선점 기간이 생각보다 빠르게 의미를 잃을 수도 있습니다.
 
-<img class="post-landscape-image" src="/images/posts/foldable-iphone-samsung-impact/04-foldable-iphone.jpg" alt="갤럭시 Z 폴드7 블루 섀도우 컬러" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/foldable-iphone-samsung-impact/04-foldable-iphone.jpg" alt="갤럭시 Z 폴드7 블루 섀도우 컬러" loading="lazy" />
 
 ## 6. 삼성 점유율 32
 

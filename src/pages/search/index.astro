@@ -67,26 +67,26 @@ const tools = TOOLS.map((tool) => ({
       let html = '';
       if (matchedPosts.length) {
         html += '<p class="search-section-label">글</p>';
-        html += matchedPosts.map((post) => `
-          <a class="search-result" href="${post.url}">
-            <img src="${post.image}" alt="${post.imageAlt}" loading="lazy" decoding="async" />
-            <span class="search-result__body">
-              <strong>${post.title}</strong>
-              <time datetime="${post.dateTime}">${post.date}</time>
-            </span>
-          </a>
-        `).join('');
+        html += matchedPosts.map((post) =>
+          '<a class="search-result" href="' + post.url + '">' +
+            '<img src="' + post.image + '" alt="' + post.imageAlt + '" loading="lazy" decoding="async" />' +
+            '<span class="search-result__body">' +
+              '<strong>' + post.title + '</strong>' +
+              '<time datetime="' + post.dateTime + '">' + post.date + '</time>' +
+            '</span>' +
+          '</a>'
+        ).join('');
       }
       if (matchedTools.length) {
         html += '<p class="search-section-label">도구</p>';
-        html += matchedTools.map((tool) => `
-          <a class="search-result" href="${tool.url}">
-            <span class="search-result__body" style="grid-column:1/-1;">
-              <strong>${tool.icon} ${tool.title}</strong>
-              <span style="color:var(--muted); font-size:.9rem;">${tool.description}</span>
-            </span>
-          </a>
-        `).join('');
+        html += matchedTools.map((tool) =>
+          '<a class="search-result" href="' + tool.url + '">' +
+            '<span class="search-result__body" style="grid-column:1/-1;">' +
+              '<strong>' + tool.icon + ' ' + tool.title + '</strong>' +
+              '<span style="color:var(--muted); font-size:.9rem;">' + tool.description + '</span>' +
+            '</span>' +
+          '</a>'
+        ).join('');
       }
       results.innerHTML = html || '<p>검색 결과가 없습니다.</p>';
     }

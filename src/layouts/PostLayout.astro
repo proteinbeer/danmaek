@@ -15,16 +15,18 @@ const canonical = new URL(`/posts/${post.id}/`, SITE.url).toString();
 const updated = data.updated ?? data.date;
 const jsonLd = {
   '@context': 'https://schema.org',
-  '@type': 'Article',
+  '@type': 'BlogPosting',
   headline: data.title,
   description: metaDescription,
+  url: canonical,
   image: new URL(data.image, SITE.url).toString(),
   datePublished: data.date.toISOString(),
   dateModified: updated.toISOString(),
-  author: { '@type': 'Organization', name: SITE.name },
-  publisher: { '@type': 'Organization', name: SITE.name },
   inLanguage: 'ko-KR',
-  mainEntityOfPage: canonical
+  mainEntityOfPage: {
+    '@type': 'WebPage',
+    '@id': canonical
+  }
 };
 const breadcrumbLd = {
   '@context': 'https://schema.org',

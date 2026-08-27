@@ -11,7 +11,7 @@ tags:
   - "매몰비용"
   - "게임 심리학"
   - "스팀"
-image: "/images/posts/steam-reviews-long-playtime-negative/01-gaming-setup.jpg"
+image: "https://img.danmaek.com/images/posts/steam-reviews-long-playtime-negative/01-gaming-setup.jpg"
 imageAlt: "게이밍 PC 세팅 모습"
 imageWidth: 1280
 imageHeight: 720
@@ -31,7 +31,7 @@ hideDescription: true
 
 200시간 이상 플레이한 집단의 부정적 리뷰 비율은 28.24%였고, 긴 시간 플레이한 뒤 부정적 평가를 남긴 집단의 평균 플레이 시간은 약 976시간이었습니다. 싫어하는 게임을 어떻게 1000시간 가까이 할 수 있느냐는 질문이 자연스럽게 생기죠.
 
-<img class="post-landscape-image post-landscape-image--high" src="/images/posts/steam-reviews-long-playtime-negative/01-gaming-setup.jpg" alt="게이밍 PC 세팅 모습" loading="lazy" />
+<img class="post-landscape-image post-landscape-image--high" src="https://img.danmaek.com/images/posts/steam-reviews-long-playtime-negative/01-gaming-setup.jpg" alt="게이밍 PC 세팅 모습" loading="lazy" />
 
 ## 1. 오래 플레이했다는 것
 
@@ -53,7 +53,7 @@ hideDescription: true
 
 그래서 베테랑의 악평은 게임을 전혀 재미없게 했다는 평가보다 장기 유저의 불만에 가까울 수 있습니다.
 
-<img class="post-landscape-image" src="/images/posts/steam-reviews-long-playtime-negative/02-steam-deck-closeup.jpg" alt="스팀덱 OLED 클로즈업" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/steam-reviews-long-playtime-negative/02-steam-deck-closeup.jpg" alt="스팀덱 OLED 클로즈업" loading="lazy" />
 
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
@@ -86,7 +86,7 @@ hideDescription: true
 
 개발사 입장에서는 이런 리뷰를 단순한 악성 평가로 버리기보다 어떤 변화가 장기 이용자를 떠나게 만드는지 보여주는 자료로 볼 필요가 있겠고요.
 
-<img class="post-landscape-image" src="/images/posts/steam-reviews-long-playtime-negative/03-dark-gaming-glow.jpg" alt="어두운 조명의 게이밍 화면" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/steam-reviews-long-playtime-negative/03-dark-gaming-glow.jpg" alt="어두운 조명의 게이밍 화면" loading="lazy" />
 
 ## 5. 200시간
 
@@ -98,7 +98,7 @@ hideDescription: true
 
 오히려 이 연구가 보여주는 건 플레이 시간과 만족도의 관계가 단순히 오래 할수록 좋다는 직선이 아니라는 점입니다. 정말 좋아했던 게임이기 때문에 1000시간 뒤에 더 날카로운 무서운 악평을 남길 수도 있다는 것이죠.
 
-<img class="post-landscape-image" src="/images/posts/steam-reviews-long-playtime-negative/04-controller-closeup.jpg" alt="게이밍 컨트롤러 클로즈업" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/steam-reviews-long-playtime-negative/04-controller-closeup.jpg" alt="게이밍 컨트롤러 클로즈업" loading="lazy" />
 
 <div style="margin: 40px 0 28px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">

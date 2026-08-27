@@ -221,7 +221,7 @@ function initLunchPicker() {
         }
         return items[Math.floor(Math.random() * items.length)];
     };
-    const imageSource = item => photoLookup[item] ? `/assets/lunch-photos/${photoLookup[item]}.webp` : '';
+    const imageSource = item => photoLookup[item] ? `https://img.danmaek.com/assets/lunch-photos/${photoLookup[item]}.webp` : '';
     const preloadItems = items => {
         const sources = [...new Set(items.map(imageSource).filter(Boolean))];
         sources.forEach(source => {

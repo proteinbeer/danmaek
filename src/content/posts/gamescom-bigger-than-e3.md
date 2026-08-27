@@ -11,7 +11,7 @@ tags:
   - "오프닝 나이트 라이브"
   - "게임쇼"
   - "독일 쾰른"
-image: "/images/posts/gamescom-bigger-than-e3/01-gamescom-onl-2026.jpg"
+image: "https://img.danmaek.com/images/posts/gamescom-bigger-than-e3/01-gamescom-onl-2026.jpg"
 imageAlt: "게임스컴 오프닝 나이트 라이브 무대"
 imageWidth: 1280
 imageHeight: 720
@@ -31,7 +31,7 @@ hideDescription: true
 
 게임스컴이 살아남은 이유는 게임 발표 행사를 유지한 것이 아니라 팬 행사, 사업 행사, 온라인 생방송을 한꺼번에 묶는 형태로 계속 바뀌었기 때문이거든요.
 
-<img class="post-landscape-image post-landscape-image--high" src="/images/posts/gamescom-bigger-than-e3/01-gamescom-onl-2026.jpg" alt="게임스컴 오프닝 나이트 라이브 무대" loading="lazy" />
+<img class="post-landscape-image post-landscape-image--high" src="https://img.danmaek.com/images/posts/gamescom-bigger-than-e3/01-gamescom-onl-2026.jpg" alt="게임스컴 오프닝 나이트 라이브 무대" loading="lazy" />
 
 ## 1. E3와 달랐던 출발점
 
@@ -55,7 +55,7 @@ E3가 사라진 원인도 코로나19 하나로 설명하기는 어렵죠. 주�
 
 결국 게임스컴은 이 변화와 싸우기보다 온라인 발표를 행사 안으로 끌어들였습니다. 그리고 그 유명한 오프닝 나이트 라이브가 대표적인 예죠.
 
-<img class="post-landscape-image" src="/images/posts/gamescom-bigger-than-e3/02-gamescom-halls.jpg" alt="게임스컴 2025 관람객들이 홀 6 입구로 들어가고 있다" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/gamescom-bigger-than-e3/02-gamescom-halls.jpg" alt="게임스컴 2025 관람객들이 홀 6 입구로 들어가고 있다" loading="lazy" />
 
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
@@ -88,7 +88,7 @@ E3가 사라진 원인도 코로나19 하나로 설명하기는 어렵죠. 주�
 
 사실 게임스컴이 성장한 핵심은 유럽이라는 위치보다 이용자 행사와 기업 행사를 동시에 놓치지 않은 구조에 있습니다.
 
-<img class="post-landscape-image" src="/images/posts/gamescom-bigger-than-e3/03-e3-history.jpg" alt="게임스컴 2025 홀 6 메인 무대에서 관중이 모여 있다" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/gamescom-bigger-than-e3/03-e3-history.jpg" alt="게임스컴 2025 홀 6 메인 무대에서 관중이 모여 있다" loading="lazy" />
 
 ## 5. 게임쇼가 사라지지 않는 이유
 
@@ -100,7 +100,7 @@ E3가 사라진 원인도 코로나19 하나로 설명하기는 어렵죠. 주�
 
 E3의 종료는 게임쇼의 죽음보다는 발표만으로 유지되던 게임쇼의 한계에 가까웠습니다. 그래서 게임스컴은 게임쇼가 살아남으려면 방송국이 아니라 유저들의 축제가 되어야 한다는 쪽으로 답을 찾은 거고요.
 
-<img class="post-landscape-image" src="/images/posts/gamescom-bigger-than-e3/04-nintendo-direct.jpg" alt="닌텐도 다이렉트 발표 화면" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/gamescom-bigger-than-e3/04-nintendo-direct.jpg" alt="닌텐도 다이렉트 발표 화면" loading="lazy" />
 
 <div style="margin: 40px 0 28px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">

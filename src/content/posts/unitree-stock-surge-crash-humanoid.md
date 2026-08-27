@@ -11,7 +11,7 @@ tags:
   - "중국 증시"
   - "기업공개"
   - "로봇 산업"
-image: "/images/posts/unitree-stock-surge-crash-humanoid/01-unitree-g1-flip.jpg"
+image: "https://img.danmaek.com/images/posts/unitree-stock-surge-crash-humanoid/01-unitree-g1-flip.jpg"
 imageAlt: "유니트리 G1 로봇 플립 동작"
 imageWidth: 1280
 imageHeight: 720
@@ -29,7 +29,7 @@ hideDescription: true
 
 하지만 기술이 거품인지와 주가가 거품인지는 같은 질문이 아닙니다. 유니트리 사례에서 더 흥미로운 부분은 로봇이 실제로 성장할 산업인지보다 미래의 거대한 시장을 현재 주가에 얼마나 미리 반영해도 되는가라는 거죠.
 
-<img class="post-landscape-image post-landscape-image--high" src="/images/posts/unitree-stock-surge-crash-humanoid/01-unitree-g1-flip.jpg" alt="유니트리 G1 로봇 플립 동작" loading="lazy" />
+<img class="post-landscape-image post-landscape-image--high" src="https://img.danmaek.com/images/posts/unitree-stock-surge-crash-humanoid/01-unitree-g1-flip.jpg" alt="유니트리 G1 로봇 플립 동작" loading="lazy" />
 
 ## 1. 상장 첫날 460퍼센트
 
@@ -53,7 +53,7 @@ hideDescription: true
 
 이는 성장주에서 가장 흔한 충돌이죠.
 
-<img class="post-landscape-image" src="/images/posts/unitree-stock-surge-crash-humanoid/02-unitree-h1-sprint.jpg" alt="유니트리 H1 로봇 달리기" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/unitree-stock-surge-crash-humanoid/02-unitree-h1-sprint.jpg" alt="유니트리 H1 로봇 달리기" loading="lazy" />
 
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
@@ -86,7 +86,7 @@ hideDescription: true
 
 그래서 유니트리의 첫날 상승률만 보고 로봇 시장의 실제 성장 속도를 판단하시면 위험합니다.
 
-<img class="post-landscape-image" src="/images/posts/unitree-stock-surge-crash-humanoid/03-humanoid-factory.jpg" alt="휴머노이드 로봇 공장 투입 장면" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/unitree-stock-surge-crash-humanoid/03-humanoid-factory.jpg" alt="휴머노이드 로봇 공장 투입 장면" loading="lazy" />
 
 ## 5. 거품과 혁신은 동시에 존재
 
@@ -100,7 +100,7 @@ hideDescription: true
 
 유니트리의 45% 하락을 로봇 산업의 실패라고 보는 것도, 첫날 460% 상승을 로봇 시대의 확정이라고 보는 것도 사실 너무 빠릅니다. 오히려 이번 움직임은 새로운 산업이 클수록 기술과 주가를 따로 봐야 한다는 좋은 사례에 가깝죠.
 
-<img class="post-landscape-image" src="/images/posts/unitree-stock-surge-crash-humanoid/04-shanghai-financial-district.jpg" alt="상하이 루자루이 금융가 야경" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/unitree-stock-surge-crash-humanoid/04-shanghai-financial-district.jpg" alt="상하이 루자루이 금융가 야경" loading="lazy" />
 
 <div style="margin: 40px 0 28px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">

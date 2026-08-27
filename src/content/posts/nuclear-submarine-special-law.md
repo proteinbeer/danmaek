@@ -11,7 +11,7 @@ tags:
   - "특별법"
   - "장보고 N"
   - "국방"
-image: "/images/posts/nuclear-submarine-special-law/02-submarine.jpg"
+image: "https://img.danmaek.com/images/posts/nuclear-submarine-special-law/02-submarine.jpg"
 imageAlt: "핵추진잠수함 기본계획을 발표하는 안규백 국방부 장관"
 imageWidth: 1280
 imageHeight: 853
@@ -27,7 +27,7 @@ hideDescription: true
 
 여기서 가장 먼저 구분할 것이 있습니다. 원자력 잠수함 또는 핵추진잠수함은 원자로를 동력으로 사용하는 잠수함을 뜻하며 핵무기를 반드시 싣는 잠수함이라는 의미는 아니거든요.
 
-<img class="post-landscape-image post-landscape-image--high" src="/images/posts/nuclear-submarine-special-law/02-submarine.jpg" alt="핵추진잠수함 기본계획을 발표하는 안규백 국방부 장관" loading="lazy" />
+<img class="post-landscape-image post-landscape-image--high" src="https://img.danmaek.com/images/posts/nuclear-submarine-special-law/02-submarine.jpg" alt="핵추진잠수함 기본계획을 발표하는 안규백 국방부 장관" loading="lazy" />
 
 ## 1. 핵추진잠수함과 핵무장잠수함
 
@@ -53,7 +53,7 @@ hideDescription: true
 
 인허가와 안전검사 등 원자력 규제 권한을 원자력안전위원회로 일원화하는 방안도 제시됐습니다. 군사 사업이라도 원자력 안전 규제를 별도 영역으로 두겠다는 방향이죠.
 
-<img class="post-landscape-image" src="/images/posts/nuclear-submarine-special-law/03-submarine.jpg" alt="한국 핵추진잠수함 도입 합의를 보도하는 KBS 뉴스" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/nuclear-submarine-special-law/03-submarine.jpg" alt="한국 핵추진잠수함 도입 합의를 보도하는 KBS 뉴스" loading="lazy" />
 
 ## 4. 정부안과 국회 법안
 
@@ -82,7 +82,7 @@ hideDescription: true
 
 그래서 사업이 실제 전력으로 이어지기까지는 상당한 시간이 필요합니다. 오늘 특별법이 발의됐다고 몇 년 안에 핵추진잠수함이 바로 배치되는 것도 아니죠.
 
-<img class="post-landscape-image" src="/images/posts/nuclear-submarine-special-law/04-submarine.jpg" alt="한국형 핵추진잠수함 8천톤급 규모 확대를 보도하는 MBC 화면" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/nuclear-submarine-special-law/04-submarine.jpg" alt="한국형 핵추진잠수함 8천톤급 규모 확대를 보도하는 MBC 화면" loading="lazy" />
 
 ## 6. 미국과의 협력
 

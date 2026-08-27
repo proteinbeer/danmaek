@@ -12,7 +12,7 @@ tags:
   - "중도론"
   - "전당대회"
   - "정치"
-image: "/images/posts/jungchungrae-kimminseok-clash/01-politics.jpg"
+image: "https://img.danmaek.com/images/posts/jungchungrae-kimminseok-clash/01-politics.jpg"
 imageAlt: "정기국회를 앞두고 워크숍에서 선전을 다짐하는 민주당 의원들"
 imageWidth: 1280
 imageHeight: 853
@@ -28,7 +28,7 @@ hideDescription: true
 
 그저 단순히 말다툼 하나가 생긴 것은 아니고 열흘 전인 8월 17일 전당대회에서 경쟁했던 두 사람이 민주당이 앞으로 핵심 지지층을 먼저 결집해야 하는지, 중도와 보수층까지 외연을 넓혀야 하는지를 놓고 다시 부딪친 거에 가깝죠.
 
-<img class="post-landscape-image post-landscape-image--high" src="/images/posts/jungchungrae-kimminseok-clash/01-politics.jpg" alt="정기국회를 앞두고 워크숍에서 선전을 다짐하는 민주당 의원들" loading="lazy" />
+<img class="post-landscape-image post-landscape-image--high" src="https://img.danmaek.com/images/posts/jungchungrae-kimminseok-clash/01-politics.jpg" alt="정기국회를 앞두고 워크숍에서 선전을 다짐하는 민주당 의원들" loading="lazy" />
 
 ## 1. 감사패를 받은 직후
 
@@ -73,7 +73,7 @@ hideDescription: true
 
 김민석은 이번 워크숍에서 이 결과를 개인의 승리뿐 아니라 당원들이 민생, 실용, 확장 노선을 선택한 것으로 해석했습니다. 정청래 측에서는 전당대회 결과 하나로 특정 노선이 절대적으로 옳다고 단정할 수 있느냐는 반론이 나올 수 있는 지점이고요.
 
-<img class="post-landscape-image" src="/images/posts/jungchungrae-kimminseok-clash/02-politics.jpg" alt="정청래 전 대표에게 감사패를 전달하는 김민석 대표" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/jungchungrae-kimminseok-clash/02-politics.jpg" alt="정청래 전 대표에게 감사패를 전달하는 김민석 대표" loading="lazy" />
 
 ## 5. 중도 확장이냐 지지층 결집이냐
 

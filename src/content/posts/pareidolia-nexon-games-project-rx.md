@@ -11,7 +11,7 @@ tags:
   - "프로젝트 알엑스"
   - "서브컬처"
   - "도쿄게임쇼"
-image: "/images/posts/pareidolia-nexon-games-project-rx/01-pareidolia-inews-1.jpg"
+image: "https://img.danmaek.com/images/posts/pareidolia-nexon-games-project-rx/01-pareidolia-inews-1.jpg"
 imageAlt: "파레이돌리아 공식 티저 이미지 — 타소가레관에서 잠든 오하나와 샤미 그리고 미니에"
 imageWidth: 580
 imageHeight: 379
@@ -31,7 +31,7 @@ hideDescription: true
 
 더 눈에 띄는 건 PC, 콘솔, 모바일을 모두 목표로 하고 생활 콘텐츠를 전면에 내세웠다는 점입니다. 이 조합은 넥슨게임즈가 서브컬처 게임의 다음 단계를 어디에서 찾고 있는지 보여주는 단서가 될 수 있죠.
 
-<img class="post-landscape-image post-landscape-image--high" src="/images/posts/pareidolia-nexon-games-project-rx/01-pareidolia-inews-1.jpg" alt="파레이돌리아 공식 티저 — 타소가레관에서 잠든 캐릭터들" loading="lazy" />
+<img class="post-landscape-image post-landscape-image--high" src="https://img.danmaek.com/images/posts/pareidolia-nexon-games-project-rx/01-pareidolia-inews-1.jpg" alt="파레이돌리아 공식 티저 — 타소가레관에서 잠든 캐릭터들" loading="lazy" />
 
 ## 1. 블루 아카이브의 카피인가
 
@@ -57,7 +57,7 @@ hideDescription: true
 
 반대로 생활 콘텐츠가 반복 작업으로 느껴지면 게임이 쉽게 피곤해질 수 있죠. 결국 중요한 건 기능의 개수가 아니라 캐릭터가 살아 있다는 느낌을 얼마나 자연스럽게 만드는지입니다.
 
-<img class="post-landscape-image" src="/images/posts/pareidolia-nexon-games-project-rx/02-pareidolia-inews-2.jpg" alt="파레이돌리아 공식 이미지" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/pareidolia-nexon-games-project-rx/02-pareidolia-inews-2.jpg" alt="파레이돌리아 공식 이미지" loading="lazy" />
 
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
@@ -82,7 +82,7 @@ hideDescription: true
 
 단순한 모바일 게임의 피시 이식보다 처음부터 여러 기기에서 같은 세계를 보여주려는 방향에 가깝습니다.
 
-<img class="post-landscape-image" src="/images/posts/pareidolia-nexon-games-project-rx/03-pareidolia-inews-3.jpg" alt="파레이돌리아 공식 이미지" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/pareidolia-nexon-games-project-rx/03-pareidolia-inews-3.jpg" alt="파레이돌리아 공식 이미지" loading="lazy" />
 
 ## 4. 일본 시장을 일찍 두드리는 이유
 
@@ -94,7 +94,7 @@ hideDescription: true
 
 첫 시연에서 전투보다 생활 콘텐츠가 얼마나 보여질지도 관심 포인트입니다.
 
-<img class="post-landscape-image" src="/images/posts/pareidolia-nexon-games-project-rx/04-pareidolia-inews-4.jpg" alt="파레이돌리아 공식 이미지" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/pareidolia-nexon-games-project-rx/04-pareidolia-inews-4.jpg" alt="파레이돌리아 공식 이미지" loading="lazy" />
 
 ## 5. 성공을 가를 건 그래픽보다 관계의 밀도
 

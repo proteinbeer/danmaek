@@ -11,7 +11,7 @@ tags:
   - "스퀘어 에닉스"
   - "리메이크 게임"
   - "클라우드 스트라이프"
-image: "/images/posts/ff7-remake-trilogy-revelation/01-ff7-remake-midgar.jpg"
+image: "https://img.danmaek.com/images/posts/ff7-remake-trilogy-revelation/01-ff7-remake-midgar.jpg"
 imageAlt: "파이널 판타지 7 리메이크 미드가르 장면"
 imageWidth: 1280
 imageHeight: 720
@@ -29,7 +29,7 @@ hideDescription: true
 
 그런ㄷ 파이널 판타지 7은 정반대에 가깝죠. 하나였던 게임을 세 편의 대형 작품으로 나누고 이야기, 지역, 전투, 캐릭터 관계를 크게 확장하면서 사실상 원작을 재료로 새로운 시리즈를 만드니까요.
 
-<img class="post-landscape-image post-landscape-image--high" src="/images/posts/ff7-remake-trilogy-revelation/01-ff7-remake-midgar.jpg" alt="파이널 판타지 7 리메이크 미드가르 장면" loading="lazy" />
+<img class="post-landscape-image post-landscape-image--high" src="https://img.danmaek.com/images/posts/ff7-remake-trilogy-revelation/01-ff7-remake-midgar.jpg" alt="파이널 판타지 7 리메이크 미드가르 장면" loading="lazy" />
 
 ## 1. 그대로 만들 수 없었던
 
@@ -51,7 +51,7 @@ hideDescription: true
 
 리메이크라기보다 원작에 대한 기억까지 이용하는 후속 해석에 가깝죠.
 
-<img class="post-landscape-image" src="/images/posts/ff7-remake-trilogy-revelation/02-ff7-rebirth-openworld.jpg" alt="파이널 판타지 7 리버스 오픈월드" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/ff7-remake-trilogy-revelation/02-ff7-rebirth-openworld.jpg" alt="파이널 판타지 7 리버스 오픈월드" loading="lazy" />
 
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
@@ -84,7 +84,7 @@ hideDescription: true
 
 사실 3부작으로 늘린 장점이 마지막에는 정리해야 할 이야기의 양이라는 부담으로 돌아옵니다.
 
-<img class="post-landscape-image" src="/images/posts/ff7-remake-trilogy-revelation/03-ff7-revelation-gameplay.jpg" alt="파이널 판타지 7 리벨레이션 플레이 장면" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/ff7-remake-trilogy-revelation/03-ff7-revelation-gameplay.jpg" alt="파이널 판타지 7 리벨레이션 플레이 장면" loading="lazy" />
 
 ## 5. 리메이크의 기준을 바꾼 프로젝트
 
@@ -98,7 +98,7 @@ hideDescription: true
 
 리벨레이션의 평가는 마지막 한 편뿐 아니라 7년에 걸친 3부작 실험 전체의 평가가 될 가능성이 크죠.
 
-<img class="post-landscape-image" src="/images/posts/ff7-remake-trilogy-revelation/04-ff7-original-ps1.jpg" alt="파이널 판타지 7 원작 PS1 그래픽" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/ff7-remake-trilogy-revelation/04-ff7-original-ps1.jpg" alt="파이널 판타지 7 원작 PS1 그래픽" loading="lazy" />
 
 <div style="margin: 40px 0 28px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">

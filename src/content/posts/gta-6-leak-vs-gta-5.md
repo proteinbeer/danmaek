@@ -13,7 +13,7 @@ tags:
   - "락스타 게임즈"
   - "바이스 시티"
   - "오픈월드 게임"
-image: "/images/posts/gta-6-leak-vs-gta-5/04-gta6-car-trailer2.jpg"
+image: "https://img.danmaek.com/images/posts/gta-6-leak-vs-gta-5/04-gta6-car-trailer2.jpg"
 imageAlt: "GTA 6 공식 트레일러 아트워크"
 imageWidth: 1280
 imageHeight: 720
@@ -31,7 +31,7 @@ hideDescription: true
 
 현재 GTA 6는 2026년 11월 19일 출시 예정이며 무대는 현대의 바이스 시티와 리오나이다 주입니다. 아래 공식 정보와 최근 유출 영상에서 확인된 내용을 기준으로 GTA 5와 달라 보이는 부분을 정리해봤습니다.
 
-<img class="post-landscape-image post-landscape-image--high" src="/images/posts/gta-6-leak-vs-gta-5/04-gta6-car-trailer2.jpg" alt="GTA 6 차량 관련 공식 장면" loading="lazy" />
+<img class="post-landscape-image post-landscape-image--high" src="https://img.danmaek.com/images/posts/gta-6-leak-vs-gta-5/04-gta6-car-trailer2.jpg" alt="GTA 6 차량 관련 공식 장면" loading="lazy" />
 
 ## 1. 여섯 단계로 늘어난 수배 시스템
 
@@ -53,7 +53,7 @@ GTA 6에서 실제로 얼굴과 옷과 차량이 따로 추적된다면 도주 �
 
 다만 화면에 표시된 그림의 정확한 의미는 아직 공식 설명이 따로 없습니다. 현재로서는 유출 영상을 바탕으로 한 해석이라고 보시면 되죠.
 
-<img class="post-landscape-image" src="/images/posts/gta-6-leak-vs-gta-5/03-gta6-chase.jpg" alt="GTA 6 유출 영상에 담긴 경찰 추적 장면" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/gta-6-leak-vs-gta-5/03-gta6-chase.jpg" alt="GTA 6 유출 영상에 담긴 경찰 추적 장면" loading="lazy" />
 
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
@@ -78,7 +78,7 @@ GTA 6 유출 영상에서는 차량 화면에 연료와 엔진 상태로 보이�
 
 GTA 5가 자동차를 빠르게 훔쳐서 바로 사용하는 방식이었다면 GTA 6는 차량 하나에도 조금 더 많은 상황과 관리 요소를 넣으려는 것으로 보입니다.
 
-<img class="post-landscape-image" src="/images/posts/gta-6-leak-vs-gta-5/01-gta6-leak.jpg" alt="유출된 GTA 6 게임플레이 화면" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/gta-6-leak-vs-gta-5/01-gta6-leak.jpg" alt="유출된 GTA 6 게임플레이 화면" loading="lazy" />
 
 ## 4. 차량 보관함과 달라진 무기
 
@@ -104,7 +104,7 @@ GTA 5에도 체력과 힘과 운전 같은 능력치가 존재했습니다. 하�
 
 GTA 5에서도 테니스와 골프 같은 여가 활동을 즐길 수 있었지만 GTA 6에서는 이런 활동이 캐릭터 성장과 더 밀접하게 연결될 수 있다는 점이 다르고요.
 
-<img class="post-landscape-image" src="/images/posts/gta-6-leak-vs-gta-5/02-gta6-gameplay.jpg" alt="GTA 6 유출 영상의 플레이 장면" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/gta-6-leak-vs-gta-5/02-gta6-gameplay.jpg" alt="GTA 6 유출 영상의 플레이 장면" loading="lazy" />
 
 ## 6. 범죄 게임에서 생활형으로
 

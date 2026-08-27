@@ -12,7 +12,7 @@ tags:
   - "남부지방"
   - "집중호우"
   - "날씨"
-image: "/images/posts/monsoon-heavy-rain-explained/01-heavy-rain.jpg"
+image: "https://img.danmaek.com/images/posts/monsoon-heavy-rain-explained/01-heavy-rain.jpg"
 imageAlt: "폭염으로 아지랑이가 피어오르는 대구 달서구 도로"
 imageWidth: 616
 imageHeight: 411
@@ -28,7 +28,7 @@ hideDescription: true
 
 기상청은 27일 부산, 울산, 경남에 10에서 60밀리미터의 비를 예보했고 28일과 29일에도 지역에 따라 비가 이어질 것으로 내다봤습니다. 장마가 다시 시작된 것은 아니지만 비가 며칠 연속 이어지고 짧은 시간 강하게 쏟아질 가능성이 있고요.
 
-<img class="post-landscape-image post-landscape-image--high" src="/images/posts/monsoon-heavy-rain-explained/01-heavy-rain.jpg" alt="폭염으로 아지랑이가 피어오르는 대구 달서구 도로" loading="lazy" />
+<img class="post-landscape-image post-landscape-image--high" src="https://img.danmaek.com/images/posts/monsoon-heavy-rain-explained/01-heavy-rain.jpg" alt="폭염으로 아지랑이가 피어오르는 대구 달서구 도로" loading="lazy" />
 
 ## 1. 장마는 끝났는데
 
@@ -65,7 +65,7 @@ hideDescription: true
 
 그리고 비가 잠깐 그쳤다고 바로 안전해지는 것도 아닙니다. 하천 수위와 지반 상태는 강수가 멈춘 뒤에도 늦게 반응할 수 있거든요.
 
-<img class="post-landscape-image" src="/images/posts/monsoon-heavy-rain-explained/02-heavy-rain.jpg" alt="기상청 레이더 강수 영상" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/monsoon-heavy-rain-explained/02-heavy-rain.jpg" alt="기상청 레이더 강수 영상" loading="lazy" />
 
 ## 4. 장마와 장마급 폭우
 

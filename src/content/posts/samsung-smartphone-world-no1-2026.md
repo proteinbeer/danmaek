@@ -11,7 +11,7 @@ tags:
   - "세계 스마트폰 시장"
   - "카운터포인트리서치"
   - "점유율"
-image: "/images/posts/samsung-smartphone-world-no1-2026/01-samsung-galaxy-s26.jpg"
+image: "https://img.danmaek.com/images/posts/samsung-smartphone-world-no1-2026/01-samsung-galaxy-s26.jpg"
 imageAlt: "삼성 갤럭시 S26 시리즈"
 imageWidth: 1280
 imageHeight: 853
@@ -27,7 +27,7 @@ hideDescription: true
 
 그런 상황에서 삼성전자는 점유율 24%로 세계 1위를 차지했습니다. 갤럭시 S26 시리즈가 힘을 보탰지만 삼성의 세계 1위는 고급형 하나만 잘 팔아서 나온 결과로 보기는 어렵죠.
 
-<img class="post-landscape-image post-landscape-image--high" src="/images/posts/samsung-smartphone-world-no1-2026/01-samsung-galaxy-s26.jpg" alt="삼성 갤럭시 S26 시리즈" loading="lazy" />
+<img class="post-landscape-image post-landscape-image--high" src="https://img.danmaek.com/images/posts/samsung-smartphone-world-no1-2026/01-samsung-galaxy-s26.jpg" alt="삼성 갤럭시 S26 시리즈" loading="lazy" />
 
 ## 1. 갤럭시 S26이 끌어올린 고급형
 
@@ -37,7 +37,7 @@ hideDescription: true
 
 다만 세계 시장 전체를 보면 모든 소비자가 울트라 가격을 감당할 수 있는 것은 아닙니다. 그래서 삼성에는 고급형과 보급형을 동시에 운영하는 구조가 중요하죠.
 
-<img class="post-landscape-image" src="/images/posts/samsung-smartphone-world-no1-2026/02-samsung-galaxy-s26-ultra.jpg" alt="삼성 갤럭시 S26 울트라" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/samsung-smartphone-world-no1-2026/02-samsung-galaxy-s26-ultra.jpg" alt="삼성 갤럭시 S26 울트라" loading="lazy" />
 
 ## 2. 판매량을 받치는 A 시리즈
 
@@ -74,7 +74,7 @@ hideDescription: true
 
 2분기처럼 전체 시장이 줄어든 상황에서 삼성의 점유율이 올라간 배경도 이런 구조와 연결해서 볼 수 있습니다.
 
-<img class="post-landscape-image" src="/images/posts/samsung-smartphone-world-no1-2026/03-samsung-s26-lineup.jpg" alt="삼성 갤럭시 S26 시리즈 라인업" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/samsung-smartphone-world-no1-2026/03-samsung-s26-lineup.jpg" alt="삼성 갤럭시 S26 시리즈 라인업" loading="lazy" />
 
 ## 5. 애플은 다른 방식
 
@@ -92,7 +92,7 @@ hideDescription: true
 
 그런데 삼성은 A 시리즈와 S 시리즈를 모두 가지고 있어 이런 양극화에 동시에 대응할 수 있죠.
 
-<img class="post-landscape-image" src="/images/posts/samsung-smartphone-world-no1-2026/04-samsung-galaxy-a57.jpg" alt="삼성 갤럭시 A57 5G" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/samsung-smartphone-world-no1-2026/04-samsung-galaxy-a57.jpg" alt="삼성 갤럭시 A57 5G" loading="lazy" />
 
 ## 7. 세계 1위보다 더 중요한 숫자
 

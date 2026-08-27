@@ -12,7 +12,7 @@ tags:
   - "모델 Y"
   - "자동차 안전"
   - "중국 리콜"
-image: "/images/posts/tesla-china-recall-door-handles/01-tesla-model-sx-door-handles.jpg"
+image: "https://img.danmaek.com/images/posts/tesla-china-recall-door-handles/01-tesla-model-sx-door-handles.jpg"
 imageAlt: "테슬라 모델 S와 X에 적용된 플러시 도어 핸들"
 imageWidth: 1588
 imageHeight: 890
@@ -30,7 +30,7 @@ hideDescription: true
 
 중국에서는 테슬라뿐 아니라 샤오미, 샤오펑, 지리 등 여러 업체가 비슷한 이유로 리콜에 들어갔습니다. 이번 사안은 단순한 한 회사의 결함보다 자동차가 지나치게 전자화될 때 생기는 새로운 문제를 보여주죠.
 
-<img class="post-landscape-image post-landscape-image--high" src="/images/posts/tesla-china-recall-door-handles/01-tesla-model-sx-door-handles.jpg" alt="차체와 평평하게 붙은 테슬라 전자식 문손잡이" loading="lazy" />
+<img class="post-landscape-image post-landscape-image--high" src="https://img.danmaek.com/images/posts/tesla-china-recall-door-handles/01-tesla-model-sx-door-handles.jpg" alt="차체와 평평하게 붙은 테슬라 전자식 문손잡이" loading="lazy" />
 
 ## 1. 평소 편리한 기능이 사고에서는 약점
 
@@ -54,7 +54,7 @@ hideDescription: true
 
 안전 장치는 예뻐 보이는 것보다 처음 보는 사람도 즉시 이해할 수 있는지가 더 중요하거든요.
 
-<img class="post-landscape-image" src="/images/posts/tesla-china-recall-door-handles/02-tesla-model-3-interior-door.jpg" alt="테슬라 모델 3 실내 도어 패널" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/tesla-china-recall-door-handles/02-tesla-model-3-interior-door.jpg" alt="테슬라 모델 3 실내 도어 패널" loading="lazy" />
 
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
@@ -77,7 +77,7 @@ hideDescription: true
 
 그래서 중국의 규제가 장기적으로 글로벌 자동차 디자인에 영향을 줄 가능성은 충분히 있습니다.
 
-<img class="post-landscape-image" src="/images/posts/tesla-china-recall-door-handles/03-tesla-model-3-front.jpg" alt="테슬라 모델 3 전면 외관" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/tesla-china-recall-door-handles/03-tesla-model-3-front.jpg" alt="테슬라 모델 3 전면 외관" loading="lazy" />
 
 ## 4. 자동차에서 물리 버튼이 다시 중요해지는 이유
 
@@ -99,7 +99,7 @@ hideDescription: true
 
 이번 리콜은 자동차의 미래가 무조건 버튼과 손잡이를 없애는 방향은 아닐 수도 있다는 점을 보여줍니다. 가장 미래적인 자동차가 오히려 가장 단순한 기계식 장치를 다시 필요로 할 수도 있는 거죠.
 
-<img class="post-landscape-image" src="/images/posts/tesla-china-recall-door-handles/04-tesla-model-y-side.jpg" alt="테슬라 모델 Y 측면 외관" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/tesla-china-recall-door-handles/04-tesla-model-y-side.jpg" alt="테슬라 모델 Y 측면 외관" loading="lazy" />
 
 <div style="margin: 40px 0 28px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">

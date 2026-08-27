@@ -12,7 +12,7 @@ tags:
   - "펍지"
   - "한국 게임사"
   - "신더시티"
-image: "/images/posts/gamescom-2026-korean-game-companies/01-gamescom-2026-main.jpg"
+image: "https://img.danmaek.com/images/posts/gamescom-2026-korean-game-companies/01-gamescom-2026-main.jpg"
 imageAlt: "게임스컴 2026 메인 비주얼"
 imageWidth: 1015
 imageHeight: 678
@@ -32,7 +32,7 @@ hideDescription: true
 
 게임스컴 출품은 이제 단순 홍보가 아니라 출시 전략 검증 과정에 가깝습니다.
 
-<img class="post-landscape-image post-landscape-image--high" src="/images/posts/gamescom-2026-korean-game-companies/01-gamescom-2026-main.jpg" alt="게임스컴 2026 공식 비주얼" loading="lazy" />
+<img class="post-landscape-image post-landscape-image--high" src="https://img.danmaek.com/images/posts/gamescom-2026-korean-game-companies/01-gamescom-2026-main.jpg" alt="게임스컴 2026 공식 비주얼" loading="lazy" />
 
 ## 1. 출시 전부터 세계 관객을 만나는 무대
 
@@ -43,7 +43,7 @@ hideDescription: true
 
 아직 정식 이름조차 공개하지 않은 작품을 국내 행사보다 먼저 글로벌 생방송 무대에 올리는 것은 처음부터 해외 이용자의 반응을 중요한 기준으로 본다는 신호로 읽을 수 있죠. 그리고 아이온 2, 신더시티도 같은 행사에 함께 등장합니다.
 
-<img class="post-landscape-image" src="/images/posts/gamescom-2026-korean-game-companies/02-ncsoft-cinder-city.jpg" alt="엔씨 신더시티 트레일러 아트" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/gamescom-2026-korean-game-companies/02-ncsoft-cinder-city.jpg" alt="엔씨 신더시티 트레일러 아트" loading="lazy" />
 
 ## 2. 가챠 모바일 이미지에서 벗어나려는 한국 게임들
 
@@ -78,7 +78,7 @@ hideDescription: true
 
 반대로 자신 있는 빌드를 보여줄 수 있다면 영상보다 더욱 강한 신뢰를 쌓을 수도 있습니다. 최근 게임 이용자들이 사전 제작 영상보다 실제 플레이 화면을 더 중요하게 보는 분위기와도 맞아떨어지고요.
 
-<img class="post-landscape-image" src="/images/posts/gamescom-2026-korean-game-companies/03-krafton-gamescom-lineup.jpg" alt="크래프톤 게임스컴 출품 라인업 공개 이미지" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/gamescom-2026-korean-game-companies/03-krafton-gamescom-lineup.jpg" alt="크래프톤 게임스컴 출품 라인업 공개 이미지" loading="lazy" />
 
 ## 4. 국내 반응과 해외 반응
 
@@ -100,7 +100,7 @@ hideDescription: true
 
 올해 한국 게임사를 볼 때는 몇 개 작품을 공개했는지만 세기보다 어떤 게임을 직접 시연하게 하는지, 어느 플랫폼을 목표로 하는지, 해외 반응을 어떻게 이어가는지를 보시면 요즘 흐름이 더 잘 보입니다.
 
-<img class="post-landscape-image" src="/images/posts/gamescom-2026-korean-game-companies/04-gamescom-indie-show.jpg" alt="게임스컴 행사장 방문객들" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/gamescom-2026-korean-game-companies/04-gamescom-indie-show.jpg" alt="게임스컴 행사장 방문객들" loading="lazy" />
 
 <div style="margin: 40px 0 28px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">

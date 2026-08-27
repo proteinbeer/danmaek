@@ -12,7 +12,7 @@ tags:
   - "인공지능"
   - "서울아산병원"
   - "건강"
-image: "/images/posts/colon-cancer-blood-test-ai/01-blood-test.jpg"
+image: "https://img.danmaek.com/images/posts/colon-cancer-blood-test-ai/01-blood-test.jpg"
 imageAlt: "서울아산병원 소화기내과 연구진"
 imageWidth: 1280
 imageHeight: 853
@@ -28,7 +28,7 @@ hideDescription: true
 
 대장내시경 전날 장을 비우는 과정이나 대변을 채취하는 불편 없이 피를 뽑는 것만으로 대장암을 선별할 가능성이 확인된 거죠. 다만 이번 연구가 대장내시경을 당장 대체한다는 뜻은 아니며 혈액검사는 선별검사, 내시경은 실제 병변을 확인하고 제거할 수 있는 검사라는 차이가 있습니다.
 
-<img class="post-landscape-image post-landscape-image--high" src="/images/posts/colon-cancer-blood-test-ai/01-blood-test.jpg" alt="서울아산병원 소화기내과 연구진" loading="lazy" />
+<img class="post-landscape-image post-landscape-image--high" src="https://img.danmaek.com/images/posts/colon-cancer-blood-test-ai/01-blood-test.jpg" alt="서울아산병원 소화기내과 연구진" loading="lazy" />
 
 ## 1. 환자 10명 중 9명 확인
 
@@ -75,7 +75,7 @@ hideDescription: true
 
 그래서 앞으로 혈액검사가 널리 사용되더라도 피검사에서 이상 신호를 찾고 필요한 사람에게 대장내시경을 연결하는 방식이 가장 현실적인 시나리오 가운데 하나로 보입니다.
 
-<img class="post-landscape-image" src="/images/posts/colon-cancer-blood-test-ai/02-blood-test.jpg" alt="세포유리 DNA 혈액진단법 원리 그림" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/colon-cancer-blood-test-ai/02-blood-test.jpg" alt="세포유리 DNA 혈액진단법 원리 그림" loading="lazy" />
 
 ## 5.  분변잠혈검사
 

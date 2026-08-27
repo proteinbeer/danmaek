@@ -12,7 +12,7 @@ tags:
   - "AI 코딩"
   - "LLM"
   - "무료 AI"
-image: "/images/posts/ox-alpha-mystery-free-ai-model/01-mystery-model-hero.jpg"
+image: "https://img.danmaek.com/images/posts/ox-alpha-mystery-free-ai-model/01-mystery-model-hero.jpg"
 imageAlt: "정체불명 인공지능 모델을 상징하는 일러스트"
 imageWidth: 1280
 imageHeight: 720
@@ -32,7 +32,7 @@ hideDescription: true
 
 결론부터 말씀드리면 옥스 알파의 사례는 익명 공개와 무료 확산이라는 두 가지 전략이 어떻게 시장 반응을 시험하는 도구가 되는지 보여줍니다.
 
-<img class="post-landscape-image post-landscape-image--high" src="/images/posts/ox-alpha-mystery-free-ai-model/01-mystery-model-hero.jpg" alt="미스터리 인공지능 모델 관련 기사 이미지" loading="lazy" />
+<img class="post-landscape-image post-landscape-image--high" src="https://img.danmaek.com/images/posts/ox-alpha-mystery-free-ai-model/01-mystery-model-hero.jpg" alt="미스터리 인공지능 모델 관련 기사 이미지" loading="lazy" />
 
 ## 1. 스텔스 모델
 
@@ -75,7 +75,7 @@ hideDescription: true
 
 옥스 알파가 코딩과 지속적인 에이전트 작업을 강조하는 이유도 단순한 질문 답변보다 이런 긴 작업 흐름을 노리고 있기 때문이고요.
 
-<img class="post-landscape-image" src="/images/posts/ox-alpha-mystery-free-ai-model/02-mystery-identity-oxalpha.jpg" alt="옥스 알파 공식 페이지 히어로 이미지" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/ox-alpha-mystery-free-ai-model/02-mystery-identity-oxalpha.jpg" alt="옥스 알파 공식 페이지 히어로 이미지" loading="lazy" />
 
 ## 4. 무료 모델의 가장 큰 비용은 데이터일 수 있다
 

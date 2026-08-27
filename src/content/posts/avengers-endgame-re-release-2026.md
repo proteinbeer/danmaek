@@ -11,7 +11,7 @@ tags:
   - "재개봉"
   - "인피니티 비전"
   - "한국 흥행"
-image: "/images/posts/avengers-endgame-re-release-2026/01-endgame-encore.jpg"
+image: "https://img.danmaek.com/images/posts/avengers-endgame-re-release-2026/01-endgame-encore.jpg"
 imageAlt: "어벤져스 엔드게임 앙코르 재개봉"
 imageWidth: 1280
 imageHeight: 853
@@ -27,7 +27,7 @@ hideDescription: true
 
 2019년 국내에서 1397만명을 모은 작품을 인피니티 비전 포맷으로 다시 상영하는 방식입니다. 이미 대부분의 관객이 결말을 알고 스트리밍으로도 볼 수 있는 영화를 다시 극장에 거는 이유는 단순한 추억 행사보다 조금 더 계산적이고요.
 
-<img class="post-landscape-image post-landscape-image--high" src="/images/posts/avengers-endgame-re-release-2026/01-endgame-encore.jpg" alt="어벤져스 엔드게임 앙코르 재개봉" loading="lazy" />
+<img class="post-landscape-image post-landscape-image--high" src="https://img.danmaek.com/images/posts/avengers-endgame-re-release-2026/01-endgame-encore.jpg" alt="어벤져스 엔드게임 앙코르 재개봉" loading="lazy" />
 
 ## 1. 이미 1397만명이 검증
 
@@ -64,7 +64,7 @@ hideDescription: true
 
 같은 영화라도 화면과 음향이 달라지면 극장에서만 얻을 수 있는 경험을 만들 수 있습니다. 이미 본 관객을 다시 움직이려면 내용보다 상영 환경을 바꾸는 편이 훨씬 현실적인 전략이겠죠.
 
-<img class="post-landscape-image" src="/images/posts/avengers-endgame-re-release-2026/03-endgame-encore.jpg" alt="어벤져스 엔드게임 캐릭터" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/avengers-endgame-re-release-2026/03-endgame-encore.jpg" alt="어벤져스 엔드게임 캐릭터" loading="lazy" />
 
 ## 4. 엔드게임 이후
 
@@ -84,7 +84,7 @@ hideDescription: true
 
 소비자는 실패할 가능성이 낮은 경험을 고를 수 있고 기업은 이미 형성된 팬덤을 다시 활용할 수 있죠.
 
-<img class="post-landscape-image" src="/images/posts/avengers-endgame-re-release-2026/04-endgame-encore.jpg" alt="어벤져스 엔드게임 포스터" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/avengers-endgame-re-release-2026/04-endgame-encore.jpg" alt="어벤져스 엔드게임 포스터" loading="lazy" />
 
 ## 6. 추억을 현재 작품으로
 

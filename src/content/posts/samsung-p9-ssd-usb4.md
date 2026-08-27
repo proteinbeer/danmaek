@@ -11,7 +11,7 @@ tags:
   - "게임스컴 2026"
   - "삼성전자"
   - "저장장치"
-image: "/images/posts/samsung-p9-ssd-usb4/01-samsung-p9.jpg"
+image: "https://img.danmaek.com/images/posts/samsung-p9-ssd-usb4/01-samsung-p9.jpg"
 imageAlt: "삼성 P9 휴대용 SSD"
 imageWidth: 1200
 imageHeight: 901
@@ -27,7 +27,7 @@ hideDescription: true
 
 기존 T9의 최대 속도가 초당 2000메가바이트 수준이었다는 점을 생각하면 숫자상 약 두 배입니다. 단순히 파일 복사가 빨라진 제품이라기보다 외장 저장장치가 백업용에서 실제 작업 공간으로 바뀌는 흐름을 보여주는 제품에 가깝죠.
 
-<img class="post-landscape-image post-landscape-image--high" src="/images/posts/samsung-p9-ssd-usb4/01-samsung-p9.jpg" alt="삼성 P9 휴대용 SSD" loading="lazy" />
+<img class="post-landscape-image post-landscape-image--high" src="https://img.danmaek.com/images/posts/samsung-p9-ssd-usb4/01-samsung-p9.jpg" alt="삼성 P9 휴대용 SSD" loading="lazy" />
 
 ## 1. USB4
 
@@ -64,7 +64,7 @@ P9은 1테라바이트, 2테라바이트, 4테라바이트, 8테라바이트 용
 
 그래서 P9의 성능 차이는 일반 소비자보다 전문 영상 제작자가 먼저 크게 체감할 가능성이 높습니다.
 
-<img class="post-landscape-image" src="/images/posts/samsung-p9-ssd-usb4/02-samsung-p9-p7.jpg" alt="삼성 P9과 P7 휴대용 SSD 라인업" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/samsung-p9-ssd-usb4/02-samsung-p9-p7.jpg" alt="삼성 P9과 P7 휴대용 SSD 라인업" loading="lazy" />
 
 ## 4. 게임스컴 공개
 
@@ -82,7 +82,7 @@ P9과 함께 공개된 P7도 USB4를 사용합니다. P7을 일상적인 사용�
 
 현재 P7과 P9 모두 8월 31일부터 세계 시장에 순차 출시될 예정입니다.
 
-<img class="post-landscape-image" src="/images/posts/samsung-p9-ssd-usb4/04-samsung-p9-p7.jpg" alt="삼성 P7 휴대용 SSD USB4" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/samsung-p9-ssd-usb4/04-samsung-p9-p7.jpg" alt="삼성 P7 휴대용 SSD USB4" loading="lazy" />
 
 ## 6. 가격은 확실히 높은 편
 

@@ -12,7 +12,7 @@ tags:
   - "생성형 인공지능"
   - "할리우드"
   - "시드림"
-image: "/images/posts/hollywood-bytedance-ai-copyright-agreement/01-bytedance-office-sign.jpg"
+image: "https://img.danmaek.com/images/posts/hollywood-bytedance-ai-copyright-agreement/01-bytedance-office-sign.jpg"
 imageAlt: "싱가포르 바이트댄스 사무실 건물 로고"
 imageWidth: 1600
 imageHeight: 840
@@ -32,7 +32,7 @@ hideDescription: true
 
 결론부터 말씀드리면 저작권 전쟁은 기술을 없애려는 싸움에서 누가 어떤 조건으로 쓸 수 있는지를 정하는 협상으로 이동하고 있다는 겁니다.
 
-<img class="post-landscape-image post-landscape-image--high" src="/images/posts/hollywood-bytedance-ai-copyright-agreement/01-bytedance-office-sign.jpg" alt="바이트댄스 사무실 건물에 새겨진 로고" loading="lazy" />
+<img class="post-landscape-image post-landscape-image--high" src="https://img.danmaek.com/images/posts/hollywood-bytedance-ai-copyright-agreement/01-bytedance-office-sign.jpg" alt="바이트댄스 사무실 건물에 새겨진 로고" loading="lazy" />
 
 ## 1. 완전히 막는 것보다 규칙
 
@@ -55,7 +55,7 @@ hideDescription: true
 
 앞으로 인공지능 서비스의 경쟁은 생성 품질뿐 아니라 이런 경계를 얼마나 일관되게 관리하는지에서도 갈릴 가능성이 있습니다.
 
-<img class="post-landscape-image" src="/images/posts/hollywood-bytedance-ai-copyright-agreement/02-seedance-ai-video-still.jpg" alt="시댄스로 생성된 인공지능 영상 장면" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/hollywood-bytedance-ai-copyright-agreement/02-seedance-ai-video-still.jpg" alt="시댄스로 생성된 인공지능 영상 장면" loading="lazy" />
 
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
@@ -78,7 +78,7 @@ hideDescription: true
 
 이렇게 보면 이번 합의는 방어 계약이면서 동시에 향후 사업 모델의 출발점이 될 수도 있겠습니다.
 
-<img class="post-landscape-image" src="/images/posts/hollywood-bytedance-ai-copyright-agreement/03-hollywood-sign.jpg" alt="로스앤젤레스 할리우드 사인" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/hollywood-bytedance-ai-copyright-agreement/03-hollywood-sign.jpg" alt="로스앤젤레스 할리우드 사인" loading="lazy" />
 
 ## 4. 우리만 불편
 
@@ -100,7 +100,7 @@ hideDescription: true
 
 현재 인공지능 저작권 전쟁은 기술을 없애느냐의 싸움에서 누가 어떤 조건으로 쓸 수 있느냐의 협상으로 이동하고 있습니다. 그리고 이번 합의는 그 변화가 실제로 시작됐다는 점에서 의미가 크죠.
 
-<img class="post-landscape-image" src="/images/posts/hollywood-bytedance-ai-copyright-agreement/04-film-camera-movie-set.jpg" alt="영화 촬영 현장의 35mm 카메라" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/hollywood-bytedance-ai-copyright-agreement/04-film-camera-movie-set.jpg" alt="영화 촬영 현장의 35mm 카메라" loading="lazy" />
 
 <div style="margin: 40px 0 28px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">

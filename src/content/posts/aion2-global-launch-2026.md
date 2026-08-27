@@ -11,7 +11,7 @@ tags:
   - "글로벌 출시"
   - "MMORPG"
   - "스팀"
-image: "/images/posts/aion2-global-launch-2026/01-aion2-global.jpg"
+image: "https://img.danmaek.com/images/posts/aion2-global-launch-2026/01-aion2-global.jpg"
 imageAlt: "아이온2 글로벌 출시 일정 발표"
 imageWidth: 1280
 imageHeight: 720
@@ -27,7 +27,7 @@ hideDescription: true
 
 국내에서는 이미 서비스 중인 게임이라 완전한 신작처럼 느껴지지는 않을 수 있습니다. 하지만 엔씨 입장에서는 아이온2 한 작품의 해외 출시보다 회사가 다시 글로벌 시장에서 통할 수 있는지를 확인하는 시험에 더 가깝죠.
 
-<img class="post-landscape-image post-landscape-image--high" src="/images/posts/aion2-global-launch-2026/01-aion2-global.jpg" alt="아이온2 글로벌 출시 일정 발표" loading="lazy" />
+<img class="post-landscape-image post-landscape-image--high" src="https://img.danmaek.com/images/posts/aion2-global-launch-2026/01-aion2-global.jpg" alt="아이온2 글로벌 출시 일정 발표" loading="lazy" />
 
 ## 1. 한국과 대만에서 먼저
 
@@ -64,7 +64,7 @@ hideDescription: true
 
 국내 게임사가 자체 실행 프로그램만 고집하던 시기와 비교하면 글로벌 서비스 방식도 꽤 달라졌다고 볼 수 있습니다.
 
-<img class="post-landscape-image" src="/images/posts/aion2-global-launch-2026/02-aion2-global.jpg" alt="아이온2 글로벌 스팀 이미지" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/aion2-global-launch-2026/02-aion2-global.jpg" alt="아이온2 글로벌 스팀 이미지" loading="lazy" />
 
 ## 4. 리니지 회사라는 이미지
 
@@ -82,7 +82,7 @@ hideDescription: true
 
 그래서 이제 글로벌 서버에 중요한 것은 한국판과 콘텐츠가 같은지가 아니라 운영 철학까지 같은지겠죠.
 
-<img class="post-landscape-image" src="/images/posts/aion2-global-launch-2026/03-aion2-global.jpg" alt="아이온2 글로벌 캡슐 이미지" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/aion2-global-launch-2026/03-aion2-global.jpg" alt="아이온2 글로벌 캡슐 이미지" loading="lazy" />
 
 ## 6. 아이온의 두 번째 기회
 

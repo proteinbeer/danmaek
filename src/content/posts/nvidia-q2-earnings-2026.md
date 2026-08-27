@@ -11,7 +11,7 @@ tags:
   - "AI 반도체"
   - "데이터센터"
   - "루빈"
-image: "/images/posts/nvidia-q2-earnings-2026/01-nvidia-earnings.jpg"
+image: "https://img.danmaek.com/images/posts/nvidia-q2-earnings-2026/01-nvidia-earnings.jpg"
 imageAlt: "엔비디아 2026 회계연도 2분기 실적 발표"
 imageWidth: 1204
 imageHeight: 801
@@ -27,7 +27,7 @@ hideDescription: true
 
 문제는 엔비디아가 이제 좋은 실적만 내서는 놀라움을 주기는 어려운 회사가 됐다는 점입니다. 매출이 크게 늘어나는 것은 이미 시장이 기대하고 있고, 그보다 다음 몇 달 동안 같은 속도를 유지할 수 있는지가 더 중요해졌죠.
 
-<img class="post-landscape-image post-landscape-image--high" src="/images/posts/nvidia-q2-earnings-2026/01-nvidia-earnings.jpg" alt="엔비디아 2026 회계연도 2분기 실적 발표" loading="lazy" />
+<img class="post-landscape-image post-landscape-image--high" src="https://img.danmaek.com/images/posts/nvidia-q2-earnings-2026/01-nvidia-earnings.jpg" alt="엔비디아 2026 회계연도 2분기 실적 발표" loading="lazy" />
 
 ## 1. 매출 920억달러도 이미 예상
 
@@ -45,7 +45,7 @@ hideDescription: true
 
 그래서 실적을 보실 때 전체 매출 증가율과 함께 데이터센터 매출이 얼마나 늘었는지를 따로 보셔야 합니다.
 
-<img class="post-landscape-image" src="/images/posts/nvidia-q2-earnings-2026/02-nvidia-earnings.jpg" alt="엔비디아 젠슨 황 CEO 컴퓨텍스 2025 키노트" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/nvidia-q2-earnings-2026/02-nvidia-earnings.jpg" alt="엔비디아 젠슨 황 CEO 컴퓨텍스 2025 키노트" loading="lazy" />
 
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
@@ -82,7 +82,7 @@ hideDescription: true
 
 엔비디아는 인공지능 기반 시설 투자에 직접 금융 지원까지 확대하고 있습니다. 회사 입장에서는 시장을 키우는 전략이지만 투자자 입장에서는 실제 최종 수요와 금융 지원으로 만들어진 수요를 얼마나 구분할 수 있는지도 중요한 문제가 되죠.
 
-<img class="post-landscape-image" src="/images/posts/nvidia-q2-earnings-2026/04-nvidia-earnings.jpg" alt="엔비디아 AI 팩토리 투자 비전" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/nvidia-q2-earnings-2026/04-nvidia-earnings.jpg" alt="엔비디아 AI 팩토리 투자 비전" loading="lazy" />
 
 ## 6. 중국보다 더 커지는 경쟁 문제
 
@@ -110,7 +110,7 @@ hideDescription: true
 
 반대로 920억달러를 넘는 매출과 높은 총이익률, 강한 다음 분기 전망을 동시에 보여주면 대형 기술기업의 인공지능 투자가 아직 끝나지 않았다는 근거가 됩니다. 결국 이번 실적은 숫자 하나보다 인공지능 산업 전체가 지금의 투자 속도를 얼마나 오래 유지할 수 있는지를 확인하는 발표에 가깝죠.
 
-<img class="post-landscape-image" src="/images/posts/nvidia-q2-earnings-2026/03-nvidia-earnings.jpg" alt="엔비디아 젠슨 황 CEO CES 2025 키노트" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/nvidia-q2-earnings-2026/03-nvidia-earnings.jpg" alt="엔비디아 젠슨 황 CEO CES 2025 키노트" loading="lazy" />
 
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">

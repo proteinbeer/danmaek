@@ -13,7 +13,7 @@ tags:
   - "인종 정체성"
   - "아일랜드계"
   - "베네수엘라계"
-image: "/images/posts/mariah-carey-biracial-identity/03-mariah-carey.jpg"
+image: "https://img.danmaek.com/images/posts/mariah-carey-biracial-identity/03-mariah-carey.jpg"
 imageAlt: "머라이어 캐리"
 imageWidth: 638
 imageHeight: 480
@@ -31,7 +31,7 @@ hideDescription: true
 
 그런데 여기서 중요한 건 본인이 자신의 정체성을 어떻게 설명해왔느냐인데, 머라이어 캐리는 여러 인터뷰에서 자신이 혼혈이라는 사실을 분명하게 밝혔고 동시에 피부가 매우 밝은 흑인 여성이라고 자신을 표현하기도 했습니다.
 
-<img class="post-landscape-image post-landscape-image--high" src="/images/posts/mariah-carey-biracial-identity/01-mariah-carey.jpg" alt="머라이어 캐리" loading="lazy" />
+<img class="post-landscape-image post-landscape-image--high" src="https://img.danmaek.com/images/posts/mariah-carey-biracial-identity/01-mariah-carey.jpg" alt="머라이어 캐리" loading="lazy" />
 
 ## 1. 어머니는 백인 아일랜드계
 
@@ -45,7 +45,7 @@ hideDescription: true
 
 어린 시절 아버지와 함께 있을 때 주변 사람들이 두 사람을 번갈아 바라보는 경험도 있었다고 합니다. 머라이어 캐리의 피부가 밝았기 때문에 두 사람이 부녀라는 사실을 바로 이해하지 못하는 사람도 있었던 거죠.
 
-<img class="post-landscape-image post-landscape-image--high" src="/images/posts/mariah-carey-biracial-identity/02-mariah-carey.jpg" alt="인터뷰 중인 머라이어 캐리" loading="lazy" />
+<img class="post-landscape-image post-landscape-image--high" src="https://img.danmaek.com/images/posts/mariah-carey-biracial-identity/02-mariah-carey.jpg" alt="인터뷰 중인 머라이어 캐리" loading="lazy" />
 
 ## 2. 스스로 밝힌 혼혈 정체성
 
@@ -82,7 +82,7 @@ hideDescription: true
 
 따라서 머라이어 캐리에게 혼혈이라는 배경과 흑인 여성이라는 자기 인식은 서로 충돌하는 개념이 아닙니다. 두 가지가 함께 자신의 정체성을 이루고 있다고 보시는 편이 자연스럽죠.
 
-<img class="post-landscape-image" src="/images/posts/mariah-carey-biracial-identity/03-mariah-carey.jpg" alt="무대 위 머라이어 캐리" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/mariah-carey-biracial-identity/03-mariah-carey.jpg" alt="무대 위 머라이어 캐리" loading="lazy" />
 
 ## 4. 어린 시절부터 이어진 인종 정체성 고민
 

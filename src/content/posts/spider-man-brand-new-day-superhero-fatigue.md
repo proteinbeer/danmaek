@@ -11,7 +11,7 @@ tags:
   - "마블"
   - "흥행"
   - "극장"
-image: "/images/posts/spider-man-brand-new-day-superhero-fatigue/01-spiderman-bnd-still.jpg"
+image: "https://img.danmaek.com/images/posts/spider-man-brand-new-day-superhero-fatigue/01-spiderman-bnd-still.jpg"
 imageAlt: "영화 스파이더맨 브랜드 뉴 데이의 한 장면"
 imageWidth: 650
 imageHeight: 368
@@ -31,7 +31,7 @@ hideDescription: true
 
 슈퍼히어로를 싫어하게 된 것이 아니라 비슷한 방식의 작품을 보러 가는 습관이 약해졌다고 보는 편이 더 설득력이 있죠.
 
-<img class="post-landscape-image post-landscape-image--high" src="/images/posts/spider-man-brand-new-day-superhero-fatigue/01-spiderman-bnd-still.jpg" alt="스파이더맨 브랜드 뉴 데이 영화 스틸" loading="lazy" />
+<img class="post-landscape-image post-landscape-image--high" src="https://img.danmaek.com/images/posts/spider-man-brand-new-day-superhero-fatigue/01-spiderman-bnd-still.jpg" alt="스파이더맨 브랜드 뉴 데이 영화 스틸" loading="lazy" />
 
 ## 1. 장르 피로가 아닌 지루함
 
@@ -44,7 +44,7 @@ hideDescription: true
 
 하지만 스파이더맨의 흥행은 사람들이 여전히 강한 캐릭터, 명확한 이야기, 큰 극장 경험에는 돈을 쓴다는 점을 보여주죠.
 
-<img class="post-landscape-image" src="/images/posts/spider-man-brand-new-day-superhero-fatigue/02-spiderman-bnd-jump.webp" alt="스파이더맨 브랜드 뉴 데이 공중 액션 장면" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/spider-man-brand-new-day-superhero-fatigue/02-spiderman-bnd-jump.webp" alt="스파이더맨 브랜드 뉴 데이 공중 액션 장면" loading="lazy" />
 
 ## 2. 스파이더맨은 슈퍼히어로인가
 
@@ -56,7 +56,7 @@ hideDescription: true
 
 버라이어티가 개봉 전부터 슈퍼히어로 피로감은 있어도 스파이더맨 피로감은 다르다고 본 이유도 여기에 있습니다.
 
-<img class="post-landscape-image post-landscape-image--high" src="/images/posts/spider-man-brand-new-day-superhero-fatigue/03-spiderman-statue-shanghai.jpg" alt="행사장에 전시된 스파이더맨 조형물" loading="lazy" />
+<img class="post-landscape-image post-landscape-image--high" src="https://img.danmaek.com/images/posts/spider-man-brand-new-day-superhero-fatigue/03-spiderman-statue-shanghai.jpg" alt="행사장에 전시된 스파이더맨 조형물" loading="lazy" />
 
 ## 3. 오디세이와 함께 잘된다는 점이 더 중요
 
@@ -89,7 +89,7 @@ hideDescription: true
 
 그래서 브랜드 뉴 데이의 성공을 슈퍼히어로 영화 전체의 부활로 확대해서 보는 건 좀 위험합니다.
 
-<img class="post-landscape-image" src="/images/posts/spider-man-brand-new-day-superhero-fatigue/04-spiderman-bnd-action-still.webp" alt="스파이더맨 브랜드 뉴 데이 액션 영화 스틸" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/spider-man-brand-new-day-superhero-fatigue/04-spiderman-bnd-action-still.webp" alt="스파이더맨 브랜드 뉴 데이 액션 영화 스틸" loading="lazy" />
 
 ## 5. 앞으로는 장르보다 이벤트성이 중요
 

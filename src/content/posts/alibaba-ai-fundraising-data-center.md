@@ -11,7 +11,7 @@ tags:
   - "반도체"
   - "자금조달"
   - "클라우드"
-image: "/images/posts/alibaba-ai-fundraising-data-center/01-alibaba-booth-ai-conference.jpg"
+image: "https://img.danmaek.com/images/posts/alibaba-ai-fundraising-data-center/01-alibaba-booth-ai-conference.jpg"
 imageAlt: "월드 AI 컨퍼런스에서 알리바바 부스를 찾는 방문객들"
 imageWidth: 1400
 imageHeight: 787
@@ -29,7 +29,7 @@ hideDescription: true
 
 그런데도 알리바바가 이 선택을 한 이유는 인공지능 경쟁의 성격이 바뀌고 있기 때문입니다. 이제 좋은 모델 하나를 만드는 것보다 몇 년 동안 막대한 연산 비용을 버틸 수 있느냐가 더 중요해지고 있거든요.
 
-<img class="post-landscape-image post-landscape-image--high" src="/images/posts/alibaba-ai-fundraising-data-center/01-alibaba-booth-ai-conference.jpg" alt="상하이 월드 AI 컨퍼런스 알리바바 부스" loading="lazy" />
+<img class="post-landscape-image post-landscape-image--high" src="https://img.danmaek.com/images/posts/alibaba-ai-fundraising-data-center/01-alibaba-booth-ai-conference.jpg" alt="상하이 월드 AI 컨퍼런스 알리바바 부스" loading="lazy" />
 
 ## 1. 인공지능은 소프트웨어인가
 
@@ -56,7 +56,7 @@ hideDescription: true
 
 주문 규모가 발행 규모를 크게 웃돌았다는 점은 투자자들이 희석을 걱정하면서도 알리바바의 인공지능 전략 자체에는 관심을 갖고 있다는 신호이기도 하고요.
 
-<img class="post-landscape-image" src="/images/posts/alibaba-ai-fundraising-data-center/03-hkex-trading-hall.jpg" alt="홍콩증권거래소 매매홀" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/alibaba-ai-fundraising-data-center/03-hkex-trading-hall.jpg" alt="홍콩증권거래소 매매홀" loading="lazy" />
 
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
@@ -79,7 +79,7 @@ hideDescription: true
 
 알리바바가 자체 모델, 클라우드, 반도체를 함께 묶어 투자하려는 이유도 이런 구조와 연결되죠.
 
-<img class="post-landscape-image" src="/images/posts/alibaba-ai-fundraising-data-center/02-alibaba-hq-hangzhou.jpg" alt="항저우 알리바바 그룹 본사" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/alibaba-ai-fundraising-data-center/02-alibaba-hq-hangzhou.jpg" alt="항저우 알리바바 그룹 본사" loading="lazy" />
 
 ## 4. 모델 순위보다 투자 회수 기간
 
@@ -91,7 +91,7 @@ hideDescription: true
 
 앞으로 인공지능 기업을 볼 때는 모델 성능뿐 아니라 클라우드 매출, 연산 비용, 자체 반도체, 투자 회수 기간도 함께 보셔야 합니다.
 
-<img class="post-landscape-image" src="/images/posts/alibaba-ai-fundraising-data-center/04-data-center-server-racks.jpg" alt="데이터센터 서버 랙" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/alibaba-ai-fundraising-data-center/04-data-center-server-racks.jpg" alt="데이터센터 서버 랙" loading="lazy" />
 
 ## 5. 인공지능 경쟁의 다음 승자
 

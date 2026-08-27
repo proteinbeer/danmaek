@@ -12,7 +12,7 @@ tags:
   - "한국 흥행"
   - "스파이더맨 브랜드 뉴 데이"
   - "인터스텔라"
-image: "/images/posts/odyssey-nolan-korea-box-office/01-odyssey-still-matt-damon.jpg"
+image: "https://img.danmaek.com/images/posts/odyssey-nolan-korea-box-office/01-odyssey-still-matt-damon.jpg"
 imageAlt: "영화 오디세이 속 매트 데이먼의 모습"
 imageWidth: 1280
 imageHeight: 854
@@ -30,7 +30,7 @@ hideDescription: true
 
 이 결과를 단순히 놀란 감독의 팬이 많아서라고만 설명하면 조금 부족합니다. 한국에서 놀란 영화가 반복해서 큰 이벤트가 되는 구조가 있거든요.
 
-<img class="post-landscape-image post-landscape-image--high" src="/images/posts/odyssey-nolan-korea-box-office/01-odyssey-still-matt-damon.jpg" alt="영화 오디세이의 한 장면" loading="lazy" />
+<img class="post-landscape-image post-landscape-image--high" src="https://img.danmaek.com/images/posts/odyssey-nolan-korea-box-office/01-odyssey-still-matt-damon.jpg" alt="영화 오디세이의 한 장면" loading="lazy" />
 
 ## 1. 인터스텔라
 
@@ -53,7 +53,7 @@ hideDescription: true
 
 인터스텔라 때부터 형성된 놀란과 아이맥스의 결합이 오디세이에서는 더 강한 브랜드가 됐다고 볼 수 있습니다.
 
-<img class="post-landscape-image post-landscape-image--high" src="/images/posts/odyssey-nolan-korea-box-office/02-odyssey-official-poster.jpg" alt="영화 오디세이 공식 포스터" loading="lazy" />
+<img class="post-landscape-image post-landscape-image--high" src="https://img.danmaek.com/images/posts/odyssey-nolan-korea-box-office/02-odyssey-official-poster.jpg" alt="영화 오디세이 공식 포스터" loading="lazy" />
 
 ## 3. 스파이더맨
 
@@ -67,7 +67,7 @@ hideDescription: true
 
 이런 차이 때문에 단순한 장르 대결보다 어떤 영화가 지금 극장에 가야 할 이유를 더 강하게 만들었는지 보는 편이 흥행 하는 이유를 더 확실히 보여주게 됩니다.
 
-<img class="post-landscape-image" src="/images/posts/odyssey-nolan-korea-box-office/03-odyssey-boxoffice.jpg" alt="700만 관객 돌파 소식을 전한 오디세이 관련 이미지" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/odyssey-nolan-korea-box-office/03-odyssey-boxoffice.jpg" alt="700만 관객 돌파 소식을 전한 오디세이 관련 이미지" loading="lazy" />
 
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
@@ -92,7 +92,7 @@ hideDescription: true
 
 오디세이가 세계적으로 14억 달러를 넘기고 놀란 감독의 최고 흥행작이 된 것도 이런 이벤트 영화 전략이 특정 국가만의 현상이 아니라는 점을 보여줍니다.
 
-<img class="post-landscape-image" src="/images/posts/odyssey-nolan-korea-box-office/04-nolan-korea-visit.jpg" alt="한국 방문 당시 크리스토퍼 놀란 감독 관련 이미지" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/odyssey-nolan-korea-box-office/04-nolan-korea-visit.jpg" alt="한국 방문 당시 크리스토퍼 놀란 감독 관련 이미지" loading="lazy" />
 
 ## 5. 천만 여부보다 더 중요한 기록
 

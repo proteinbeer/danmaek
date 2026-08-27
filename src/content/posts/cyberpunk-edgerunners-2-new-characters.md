@@ -12,7 +12,7 @@ tags:
   - "CD 프로젝트"
   - "사이버펑크 2077"
   - "나이트 시티"
-image: "/images/posts/cyberpunk-edgerunners-2-new-characters/01-edgerunners-2-teaser.jpg"
+image: "https://img.danmaek.com/images/posts/cyberpunk-edgerunners-2-new-characters/01-edgerunners-2-teaser.jpg"
 imageAlt: "사이버펑크 엣지러너 2 티저 이미지"
 imageWidth: 1200
 imageHeight: 628
@@ -32,7 +32,7 @@ hideDescription: true
 
 이 선택은 첫 시즌의 결말을 보호하면서 사이버펑크라는 세계관 자체를 더 오래 쓰기 위한 전략으로 볼 수 있겠죠.
 
-<img class="post-landscape-image post-landscape-image--high" src="/images/posts/cyberpunk-edgerunners-2-new-characters/01-edgerunners-2-teaser.jpg" alt="엣지러너 2 공개 티저 아트" loading="lazy" />
+<img class="post-landscape-image post-landscape-image--high" src="https://img.danmaek.com/images/posts/cyberpunk-edgerunners-2-new-characters/01-edgerunners-2-teaser.jpg" alt="엣지러너 2 공개 티저 아트" loading="lazy" />
 
 ## 1. 데이비드를 다시 쓰면
 
@@ -55,7 +55,7 @@ hideDescription: true
 
 이 방식은 사실 한 캐릭터의 인기에 의존하는 시리즈보다 장기 확장에 유리합니다.
 
-<img class="post-landscape-image" src="/images/posts/cyberpunk-edgerunners-2-new-characters/02-new-crew-reveal.jpg" alt="엣지러너 2에 등장하는 새 용병 크루 공개 이미지" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/cyberpunk-edgerunners-2-new-characters/02-new-crew-reveal.jpg" alt="엣지러너 2에 등장하는 새 용병 크루 공개 이미지" loading="lazy" />
 
 ## 3. 첫 애니가 게임을 다시 살린
 
@@ -88,7 +88,7 @@ hideDescription: true
 
 특히 게임 세계관은 한 명의 영웅보다 수많은 의뢰와 인물이 공존하는 구조라 이런 선집형 이야기와 궁합이 좋기도 하고요.
 
-<img class="post-landscape-image" src="/images/posts/cyberpunk-edgerunners-2-new-characters/03-crew-roman-carax-d.jpg" alt="카메라를 든 새 크루 로만 카락스 디 컨셉 이미지" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/cyberpunk-edgerunners-2-new-characters/03-crew-roman-carax-d.jpg" alt="카메라를 든 새 크루 로만 카락스 디 컨셉 이미지" loading="lazy" />
 
 ## 5. 후속편보다 선집
 
@@ -100,7 +100,7 @@ hideDescription: true
 
 사이버펑크 엣지러너 2에서 가장 중요한 건 첫 시즌과 얼마나 비슷한지가 아닐 수 있습니다. 새로운 인물로도 나이트 시티가 여전히 매력적이고 잔혹하게 느껴지는지를 증명하는 것이 중요해 보이죠.
 
-<img class="post-landscape-image" src="/images/posts/cyberpunk-edgerunners-2-new-characters/04-crew-talia-yang.jpg" alt="새 크루 탈리아 양 캐릭터 공개 이미지" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/cyberpunk-edgerunners-2-new-characters/04-crew-talia-yang.jpg" alt="새 크루 탈리아 양 캐릭터 공개 이미지" loading="lazy" />
 
 <div style="margin: 40px 0 28px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">

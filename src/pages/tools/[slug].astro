@@ -33,7 +33,7 @@ const breadcrumbLd = {
 };
 ---
 
-<BaseLayout description={tool.description}>
+<BaseLayout title={`${tool.title} | 단맥`} description={tool.description} canonical={canonicalUrl}>
   <link slot="head" rel="stylesheet" href="/assets/tailwind.css" />
   <script slot="head" is:inline type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
   <script slot="head" is:inline type="application/ld+json" set:html={JSON.stringify(breadcrumbLd)} />

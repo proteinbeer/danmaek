@@ -1,5 +1,4 @@
 import { defineConfig } from 'astro/config';
-import sitemap from '@astrojs/sitemap';
 import { satteri } from '@astrojs/markdown-satteri';
 import { defineHastPlugin } from 'satteri';
 import fs from 'node:fs/promises';
@@ -196,11 +195,6 @@ export default defineConfig({
       hastPlugins: [externalLinksNewTab]
     })
   },
-  integrations: [
-    sitemap({
-      filter: (page) => !page.includes('/404/') && !page.includes('/search/')
-    })
-  ],
   vite: {
     plugins: [localPostEditorPlugin]
   },

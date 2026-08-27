@@ -12,7 +12,7 @@ tags:
   - "케빈 파이기"
   - "데스틴 대니얼 크레턴"
   - "마블 시네마틱 유니버스"
-image: "/images/posts/jean-grey-spiderman-brand-new-day/01-sadie-sink.jpg"
+image: "https://img.danmaek.com/images/posts/jean-grey-spiderman-brand-new-day/01-sadie-sink.jpg"
 imageAlt: "진 그레이를 연기하는 세이디 싱크"
 imageWidth: 799
 imageHeight: 761
@@ -32,7 +32,7 @@ hideDescription: true
 
 결론부터 말씀드리면 엑스맨을 먼저 홍보하기 위해 진 그레이를 억지로 넣은 것이 아니라 스파이더맨 브랜드 뉴 데이의 이야기에 필요한 캐릭터를 찾다가 진 그레이가 선택된 쪽에 가깝습니다.
 
-<img class="post-landscape-image post-landscape-image--high" src="/images/posts/jean-grey-spiderman-brand-new-day/01-sadie-sink.jpg" alt="진 그레이를 연기하는 세이디 싱크" loading="lazy" />
+<img class="post-landscape-image post-landscape-image--high" src="https://img.danmaek.com/images/posts/jean-grey-spiderman-brand-new-day/01-sadie-sink.jpg" alt="진 그레이를 연기하는 세이디 싱크" loading="lazy" />
 
 ## 1. 스파이더 미스터리
 
@@ -49,7 +49,7 @@ hideDescription: true
 
 하지만 팩트는 먼저 스파이더맨 이야기가 있었고 그 이야기에 필요한 조건을 맞추다 보니 엑스맨의 진 그레이가 들어오게 된 것이죠.
 
-<img class="post-landscape-image" src="/images/posts/jean-grey-spiderman-brand-new-day/02-spiderman-statue.jpg" alt="스파이더맨 조형물" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/jean-grey-spiderman-brand-new-day/02-spiderman-statue.jpg" alt="스파이더맨 조형물" loading="lazy" />
 
 ## 2. 진 그레이의 정신 능력과 외로움
 
@@ -69,7 +69,7 @@ hideDescription: true
 
 이런 점에서 보시면 피터와 진은 능력이나 출신은 전혀 다르지만 고립이라는 감정을 공유하는 인물입니다. 진 그레이가 단순한 엑스맨 특별 출연보다 영화의 중심 인물로 사용될 수 있었던 이유도 여기에 있고요.
 
-<img class="post-landscape-image" src="/images/posts/jean-grey-spiderman-brand-new-day/03-nyc-night.jpg" alt="밤의 뉴욕 거리" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/jean-grey-spiderman-brand-new-day/03-nyc-night.jpg" alt="밤의 뉴욕 거리" loading="lazy" />
 
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
@@ -98,7 +98,7 @@ hideDescription: true
 
 즉 배우를 먼저 엑스맨용 진 그레이로 캐스팅해두고 스파이더맨에 잠깐 넣은 구조라기보다 스파이더맨 이야기에서 진 그레이가 필요해졌고 그 역할에 세이디 싱크가 선택된 흐름에 더 가깝습니다.
 
-<img class="post-landscape-image" src="/images/posts/jean-grey-spiderman-brand-new-day/04-sadie-sink-sdcc.jpg" alt="코믹콘 행사장에 모습을 드러낸 세이디 싱크" loading="lazy" />
+<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/jean-grey-spiderman-brand-new-day/04-sadie-sink-sdcc.jpg" alt="코믹콘 행사장에 모습을 드러낸 세이디 싱크" loading="lazy" />
 
 ## 4. 2028년 엑스맨
 
