@@ -311,13 +311,29 @@ const { slug } = Astro.props;
       || candidates.find((element) => normalizeText(element.textContent).includes(needle));
   };
 
+  const centerTarget = (target) => {
+    const rect = target.getBoundingClientRect();
+    const top = window.scrollY + rect.top;
+    const y = top + (rect.height / 2) - (window.innerHeight / 2);
+    window.scrollTo({ top: Math.max(0, y), behavior: 'smooth' });
+  };
+
   const showArticleTarget = (textarea) => {
     const target = findArticleTarget(textarea.value);
     if (!target) return;
     clearHighlight();
     highlightedTarget = target;
     target.classList.add('danmaek-editor-target-highlight');
-    target.scrollIntoView({ behavior: 'smooth', block: 'center', inline: 'nearest' });
+    centerTarget(target);
+  };
+
+  const showTitleTarget = () => {
+    const target = document.querySelector('.article-header h1');
+    if (!target) return;
+    clearHighlight();
+    highlightedTarget = target;
+    target.classList.add('danmaek-editor-target-highlight');
+    centerTarget(target);
   };
 
   const loadLines = async () => {
@@ -440,6 +456,8 @@ const { slug } = Astro.props;
 
   linesRoot?.addEventListener('input', autoSave);
   titleInput?.addEventListener('input', autoSave);
+  titleInput?.addEventListener('focus', showTitleTarget);
+  titleInput?.addEventListener('blur', clearHighlight);
 
   if (typeof ResizeObserver !== 'undefined' && linesRoot) {
     const observer = new ResizeObserver(resizeAllTextareas);
