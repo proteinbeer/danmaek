@@ -3,7 +3,7 @@ title: "삼성 P9 공개, 외장 SSD가 초당 4000메가바이트까지 빠르�
 description: "삼성전자가 게임스컴 2026에서 휴대용 SSD P9을 공개했습니다. USB4로 최대 초당 4000MB 읽기 속도, 8TB 용량까지. 외장 SSD가 보관함에서 작업 공간으로 바뀌는 이유를 정리합니다."
 date: 2026-08-26
 updated: 2026-08-26
-category: "지식"
+category: "IT"
 tags:
   - "삼성 P9"
   - "외장 SSD"
