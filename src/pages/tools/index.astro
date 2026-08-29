@@ -12,7 +12,7 @@ const category = CATEGORIES.find((item) => item.name === '도구')!;
         <div><h2>도구</h2></div>
       </div>
       <div class="grid">
-        {TOOLS.map((tool) => (
+        {[...TOOLS].reverse().map((tool) => (
           <article class="post-card">
             <a class="post-card__image" href={`/tools/${tool.slug}/`} aria-label={tool.title}>
               <div class="tool-card__icon-placeholder">{tool.icon}</div>

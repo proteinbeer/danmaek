@@ -834,10 +834,34 @@ const breadcrumbLd = {
         <label>시작 시간<input id="startTime" type="time"></label>
         <label>종료 시간<input id="endTime" type="time"></label>
       `,
+      'youtube-revenue': `
+        <label>조회수(회)<input id="views" type="text" inputmode="numeric" placeholder="100,000"></label>
+        <label>RPM(원/1000회)<input id="rpm" type="text" inputmode="decimal" placeholder="3,000"></label>
+        <label>광고 노출률(%)<input id="impressionRate" type="text" inputmode="decimal" placeholder="65"></label>
+        <label>CTR(%)<input id="ctr" type="text" inputmode="decimal" placeholder="4.5"></label>
+        <p class="tool-form__note">RPM은 장르·시청자 국가·광고 단가에 따라 크게 달라져요. 국내 채널은 게임·기술 2,000~6,000원, 일상 500~2,000원 수준이 흔해요.</p>
+      `,
     };
 
     function number(id: string) {
-      return Number((document.getElementById(id) as HTMLInputElement | null)?.value || 0);
+      const raw = (document.getElementById(id) as HTMLInputElement | null)?.value || '';
+      return Number(raw.replace(/,/g, ''));
+    }
+    function formatNumberInput(input: HTMLInputElement, allowDecimal: boolean) {
+      const caret = input.selectionStart ?? 0;
+      const sanitized = input.value.replace(/,/g, '');
+      let formatted: string;
+      if (allowDecimal) {
+        const digits = sanitized.replace(/[^0-9.]/g, '');
+        const [intPart = '', ...rest] = digits.split('.');
+        const decimals = rest.join('').slice(0, 2);
+        formatted = (intPart.replace(/^0+(?=\d)/, '') || '0').replace(/\B(?=(\d{3})+(?!\d))/g, ',') + (decimals ? '.' + decimals : '');
+      } else {
+        const digits = sanitized.replace(/[^0-9]/g, '').replace(/^0+(?=\d)/, '');
+        formatted = digits.replace(/\B(?=(\d{3})+(?!\d))/g, ',');
+      }
+      input.value = formatted;
+      input.setSelectionRange(Math.min(caret, input.value.length), Math.min(caret, input.value.length));
     }
     function money(value: number) {
       return Math.round(value).toLocaleString('ko-KR') + '원';
@@ -1059,6 +1083,28 @@ const breadcrumbLd = {
         if (minutes < 0) minutes += 1440;
         show(`차이는 ${Math.floor(minutes / 60)}시간 ${minutes % 60}분입니다.`);
       }
+      if (type === 'youtube-revenue') {
+        const views = number('views');
+        const rpm = number('rpm');
+        const impressionRate = number('impressionRate');
+        const ctr = number('ctr');
+        const revenueValue = document.getElementById('youtubeRevenueValue');
+        const impressionsValue = document.getElementById('youtubeImpressionsValue');
+        const cpmValue = document.getElementById('youtubeCpmValue');
+        if (!views || !rpm) {
+          show('');
+          [revenueValue, impressionsValue, cpmValue].forEach((el) => { if (el) el.textContent = '—'; });
+          return;
+        }
+        const impressions = views * impressionRate / 100;
+        const clicks = impressions * ctr / 100;
+        const revenue = views * rpm / 1000;
+        const cpm = impressions ? revenue / impressions * 1000 : 0;
+        show(`예상 광고 수익 ${money(revenue)}, 광고 노출 ${Math.round(impressions).toLocaleString('ko-KR')}회 · 예상 클릭 ${Math.round(clicks).toLocaleString('ko-KR')}회 · 환산 CPM ${fmt(cpm)}원`);
+        if (revenueValue) revenueValue.textContent = money(revenue);
+        if (impressionsValue) impressionsValue.textContent = `${Math.round(impressions).toLocaleString('ko-KR')}회 · 클릭 ${Math.round(clicks).toLocaleString('ko-KR')}회`;
+        if (cpmValue) cpmValue.textContent = `${fmt(cpm)}원`;
+      }
       if (type === 'angle') {
         const value = number('value');
         const unit = (document.getElementById('unit') as HTMLSelectElement).value;
@@ -1248,6 +1294,13 @@ const breadcrumbLd = {
       if (type === 'lunch-picker-full' || type === 'who-pays') return;
       if (type !== 'counter') calculate();
     });
+    if (type === 'youtube-revenue') {
+      const ytFields = new Set(['views', 'rpm', 'impressionRate', 'ctr']);
+      form?.addEventListener('input', (event) => {
+        const target = event.target as HTMLInputElement;
+        if (ytFields.has(target.id)) formatNumberInput(target, target.id !== 'views');
+      });
+    }
     form?.querySelector('[data-file-action]')?.addEventListener('click', async () => {
       const selected = file();
       if (!selected) return show('');

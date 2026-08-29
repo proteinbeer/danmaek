@@ -1,0 +1,22 @@
+<div id="cardsGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 relative"><div id="youtubeRevenueCard" data-category="creator" data-tool-slug="youtube-revenue-calculator" class="expandable-card expand-transition relative z-10 block bg-white rounded-2xl border border-gray-200 shadow-sm hover:shadow-md hover:border-zinc-400 backdrop-blur-xs flex-col overflow-hidden w-full h-full max-w-2xl mx-auto md:mx-0 tool-page-panel is-expanded active-panel shadow-2xl border-zinc-400 tool-panel">
+                <div class="card-content p-6 w-full">
+                    <button class="close-expanded-btn expand-close absolute top-5 right-5 text-zinc-400 hover:text-zinc-600 font-bold text-base cursor-pointer p-1 focus:outline-none" aria-label="Close calculator">×</button>
+                    <div class="w-12 h-12 bg-zinc-100 rounded-xl flex items-center justify-center text-2xl mb-4">📺</div>
+                    <h1 id="youtubeRevenueTitle" class="text-lg font-bold text-zinc-900 mb-1">유튜브 수익 계산기</h1>
+                    <p id="youtubeRevenueDesc" class="card-description text-sm text-zinc-500 overflow-hidden">조회수와 RPM으로 유튜브 예상 광고 수익을 계산합니다.</p>
+                </div>
+                <div class="calculator-content px-6 pb-5 flex flex-col w-full transition-all duration-150 ease-out space-y-6 opacity-100 translate-y-0">
+                    <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+                        <div><label id="lblYoutubeViews" class="block text-xs font-medium text-zinc-500 mb-1">조회수(회)</label><input type="text" inputmode="numeric" id="views" placeholder="100,000" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"></div>
+                        <div><label id="lblYoutubeRpm" class="block text-xs font-medium text-zinc-500 mb-1">RPM(원/1000회)</label><input type="text" inputmode="decimal" id="rpm" placeholder="3,000" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"></div>
+                        <div><label id="lblYoutubeImpressionRate" class="block text-xs font-medium text-zinc-500 mb-1">광고 노출률(%)</label><input type="text" inputmode="decimal" id="impressionRate" placeholder="65" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"></div>
+                        <div><label id="lblYoutubeCtr" class="block text-xs font-medium text-zinc-500 mb-1">CTR(%)</label><input type="text" inputmode="decimal" id="ctr" placeholder="4.5" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"></div>
+                    </div>
+                    <p class="text-xs text-zinc-500 leading-relaxed">RPM은 장르·시청자 국가·광고 단가에 따라 크게 달라져요. 국내 채널은 게임·기술 2,000~6,000원, 일상 500~2,000원 수준이 흔해요.</p>
+                    <div class="bg-zinc-50 border border-gray-200/60 rounded-2xl p-4 space-y-2.5 shadow-inner mt-2">
+                        <div class="flex justify-between items-center"><span class="text-xs text-zinc-500 font-medium">예상 광고 수익</span><span id="youtubeRevenueValue" class="text-sm font-black text-zinc-900">—</span></div>
+                        <div class="flex justify-between items-center border-t border-gray-200/40 pt-2.5"><span class="text-xs text-zinc-500 font-medium">광고 노출 · 예상 클릭</span><span id="youtubeImpressionsValue" class="text-sm font-bold text-zinc-800">—</span></div>
+                        <div class="flex justify-between items-center border-t border-gray-200/40 pt-2.5"><span class="text-xs text-zinc-500 font-medium">환산 CPM</span><span id="youtubeCpmValue" class="text-sm font-bold text-zinc-800">—</span></div>
+                    </div>
+                </div>
+            </div></div>

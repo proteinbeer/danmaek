@@ -1,55 +1,24 @@
 ---
 import BaseLayout from '../components/BaseLayout.astro';
 import PostCard from '../components/PostCard.astro';
-import { CATEGORIES } from '../consts';
 import { getPosts } from '../lib/posts';
 import { TOOLS } from '../lib/tools';
 
 const posts = getPosts();
-const featured = posts.find((post) => post.data.featured) ?? posts[0];
 ---
 <BaseLayout>
   <main class="home-page">
-    {featured && (
-      <section class="container" aria-labelledby="featured-title">
-        <div class="section-head">
-          <div>
-            <h2 id="featured-title">최신 글</h2>
-          </div>
-        </div>
-        <article class="featured">
-          <a href={`/posts/${featured.id}/`}><img src={featured.data.image} alt={featured.data.imageAlt} width={featured.data.imageWidth} height={featured.data.imageHeight} loading="eager" decoding="async" /></a>
-          <div>
-            <p class="eyebrow">{featured.data.category}</p>
-            <h2><a href={`/posts/${featured.id}/`}>{featured.data.title}</a></h2>
-            <time datetime={featured.data.date.toISOString()}>{featured.data.date.toLocaleDateString('ko-KR')}</time>
-          </div>
-        </article>
-      </section>
-    )}
-
-    <section class="container" aria-labelledby="categories-title">
-      <div class="section-head">
-        <div>
-          <h2 id="categories-title">카테고리</h2>
-        </div>
-      </div>
-      <div class="category-strip">
-        {CATEGORIES.map((cat) => (
-          <a class="category-tile" href={`/${cat.slug}/`}>
-            <img class="category-tile__media" src={cat.image} alt="" loading="lazy" decoding="async" />
-            <strong>{cat.name}</strong>
-          </a>
-        ))}
-      </div>
+    <section class="container home-hero" aria-labelledby="home-title">
+      <h1 id="home-title">IT, 게임, 도구를 빠르게 깊게</h1>
+      <p>새로운 기술과 게임 흐름, 바로 쓰는 온라인 도구를 단맥답게 정리합니다.</p>
     </section>
 
     <section class="container" aria-labelledby="latest-title" id="all-posts">
       <div class="section-head">
         <div>
-          <h2 id="latest-title">모든 글</h2>
+          <h2 id="latest-title">최신 글</h2>
+          <p>오늘 올라온 IT와 게임 이슈를 만나 보세요</p>
         </div>
-        <input id="home-search" type="search" placeholder="검색" autocomplete="off" style="border:1px solid var(--strong-line); border-radius:999px; padding:8px 16px; font:inherit; font-size:.92rem; width:180px;" />
       </div>
       <div class="grid" id="post-grid">
         {posts.map((post) => <PostCard post={post} />)}
@@ -68,12 +37,12 @@ const featured = posts.find((post) => post.data.featured) ?? posts[0];
     <section class="container" aria-labelledby="tools-title" id="tool-section">
       <div class="section-head">
         <div>
-          <h2 id="tools-title">도구 들</h2>
+          <h2 id="tools-title">인기 도구</h2>
+          <p>가볍고 빠르게 계산 및 확인해 보세요</p>
         </div>
-        <input id="home-tool-search" type="search" placeholder="검색" autocomplete="off" style="border:1px solid var(--strong-line); border-radius:999px; padding:8px 16px; font:inherit; font-size:.92rem; width:180px;" />
       </div>
       <div class="tool-grid" id="tool-grid">
-        {TOOLS.map((tool) => (
+        {[...TOOLS].reverse().map((tool) => (
           <a class="tool-card" href={`/tools/${tool.slug}/`}>
             <i aria-hidden="true">{tool.icon}</i>
             <span>{tool.category}</span>
@@ -99,17 +68,15 @@ const featured = posts.find((post) => post.data.featured) ?? posts[0];
       </div>
       <script is:inline async type="text/javascript" charset="utf-8" src="https://t1.kakaocdn.net/kas/static/ba.min.js"></script>
     </section>
+
   </main>
   <script>
     const PAGE_SIZE = 6;
-    const section = document.getElementById('all-posts');
     const grid = document.getElementById('post-grid') as HTMLElement;
     const pager = document.getElementById('pager') as HTMLElement;
     const prevButton = document.getElementById('pager-prev') as HTMLButtonElement;
     const nextButton = document.getElementById('pager-next') as HTMLButtonElement;
     const status = document.getElementById('pager-status') as HTMLElement;
-    const homeSearch = document.getElementById('home-search') as HTMLInputElement;
-    const homeToolSearch = document.getElementById('home-tool-search') as HTMLInputElement;
     const allCards = Array.from(grid?.children ?? []) as HTMLElement[];
     let filteredCards = [...allCards];
     let postTotalPages = Math.ceil(filteredCards.length / PAGE_SIZE);
@@ -145,7 +112,6 @@ const featured = posts.find((post) => post.data.featured) ?? posts[0];
     nextButton?.addEventListener('click', () => goTo(current + 1));
 
     const TOOL_PAGE_SIZE = 6;
-    const toolSection = document.getElementById('tool-section');
     const toolGrid = document.getElementById('tool-grid') as HTMLElement;
     const toolPager = document.getElementById('tool-pager') as HTMLElement;
     const toolPrevButton = document.getElementById('tool-pager-prev') as HTMLButtonElement;
@@ -184,33 +150,6 @@ const featured = posts.find((post) => post.data.featured) ?? posts[0];
 
     toolPrevButton?.addEventListener('click', () => goToToolPage(toolCurrent - 1));
     toolNextButton?.addEventListener('click', () => goToToolPage(toolCurrent + 1));
-
-    function filterPosts() {
-      const q = (homeSearch?.value || '').trim().toLowerCase();
-      if (q) {
-        filteredCards = allCards.filter((card) => card.textContent?.toLowerCase().includes(q));
-      } else {
-        filteredCards = [...allCards];
-      }
-      postTotalPages = Math.ceil(filteredCards.length / PAGE_SIZE) || 1;
-      current = 0;
-      renderPosts();
-    }
-
-    function filterTools() {
-      const q = (homeToolSearch?.value || '').trim().toLowerCase();
-      if (q) {
-        filteredToolCards = allToolCards.filter((card) => card.textContent?.toLowerCase().includes(q));
-      } else {
-        filteredToolCards = [...allToolCards];
-      }
-      toolTotalPages = Math.ceil(filteredToolCards.length / TOOL_PAGE_SIZE) || 1;
-      toolCurrent = 0;
-      renderTools();
-    }
-
-    homeSearch?.addEventListener('input', filterPosts);
-    homeToolSearch?.addEventListener('input', filterTools);
 
     renderPosts();
     renderTools();

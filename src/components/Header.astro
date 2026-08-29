@@ -4,9 +4,21 @@ const path = Astro.url.pathname;
 <header class="site-header">
   <div class="container site-header__inner">
     <a class="brand" href="/" aria-label="단맥 홈">
-      <img src="https://img.danmaek.com/images/brand/logo-ko.png" alt="" width="128" height="96" decoding="async" />
-      <img src="https://img.danmaek.com/images/brand/logo-en.png" alt="" width="128" height="96" decoding="async" class="brand__logo-en" />
+      <img class="brand-mark" src="/assets/danmaek-logo.png" alt="" aria-hidden="true" width="40" height="40" />
+      <span class="brand-copy">
+        <strong>DANMAEK</strong>
+      </span>
     </a>
-    <a class={`button-link header-search`} href="/search/" aria-current={path.startsWith('/search/') ? 'page' : undefined}>검색</a>
+    <nav class="nav" aria-label="주요 메뉴">
+      <a href="/it/" aria-current={path.startsWith('/it/') ? 'page' : undefined}>IT</a>
+      <a href="/games/" aria-current={path.startsWith('/games/') ? 'page' : undefined}>게임</a>
+      <a href="/tools/" aria-current={path.startsWith('/tools/') ? 'page' : undefined}>도구</a>
+    </nav>
+    <a class={`button-link header-search`} href="/search/" aria-label="검색" aria-current={path.startsWith('/search/') ? 'page' : undefined}>
+      <svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <circle cx="11" cy="11" r="7"></circle>
+        <path d="m20 20-3.8-3.8"></path>
+      </svg>
+    </a>
   </div>
 </header>

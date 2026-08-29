@@ -56,7 +56,8 @@ export type Tool = {
     | 'who-pays'
     | 'lorem'
     | 'image-base64'
-    | 'base64-image';
+    | 'base64-image'
+    | 'youtube-revenue';
 };
 
 export const TOOLS: Tool[] = [
@@ -144,4 +145,5 @@ export const TOOLS: Tool[] = [
   { slug: 'tournament-bracket-generator', title: '토너먼트 대진표 생성기', description: '참가자 목록으로 토너먼트 1라운드 대진을 만듭니다', category: '게임', icon: '🏆', type: 'random-team' },
   { slug: 'who-pays-roulette', title: '누가 낼까 룰렛', description: '이름을 넣고 룰렛을 돌려 누가 낼지 정합니다', category: '랜덤', icon: '🍻', type: 'who-pays' },
   { slug: 'lunch-picker', title: '점심 메뉴 추천기', description: '오늘 점심으로 먹을 메뉴를 무작위로 추천합니다', category: '랜덤', icon: '🍜', type: 'lunch-picker-full' },
+  { slug: 'youtube-revenue-calculator', title: '유튜브 수익 계산기', description: '조회수와 RPM으로 유튜브 예상 광고 수익을 계산합니다', category: '창작', icon: '📺', type: 'youtube-revenue' },
 ];
