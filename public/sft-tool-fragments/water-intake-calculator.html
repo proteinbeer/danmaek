@@ -1,0 +1,19 @@
+<div id="cardsGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 relative"><div id="waterCard" data-category="calculator" data-tool-slug="water-intake-calculator" class="expandable-card expand-transition relative z-10 block bg-white rounded-2xl border border-gray-200 shadow-sm hover:shadow-md hover:border-zinc-400 backdrop-blur-xs flex-col overflow-hidden w-full h-full max-w-lg mx-auto md:mx-0 tool-page-panel is-expanded active-panel shadow-2xl border-zinc-400 tool-panel">
+                <div class="card-content p-6 w-full">
+                    <button class="close-expanded-btn expand-close absolute top-5 right-5 text-zinc-400 hover:text-zinc-600 font-bold text-base cursor-pointer p-1 focus:outline-none" aria-label="Close calculator">×</button>
+                    <div class="w-12 h-12 bg-zinc-100 rounded-xl flex items-center justify-center text-2xl mb-4">💧</div>
+                    <h1 id="waterTitle" class="text-lg font-bold text-zinc-900 mb-1">하루 물 섭취 계산기</h1>
+                    <p id="waterDesc" class="card-description text-sm text-zinc-500 overflow-hidden">체중과 활동량으로 하루 권장 물 섭취량을 계산합니다.</p>
+                </div>
+                <div class="calculator-content px-6 pb-5 flex flex-col w-full transition-all duration-150 ease-out space-y-6 opacity-100 translate-y-0">
+                    <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+                        <div><label id="lblWeight" class="block text-xs font-medium text-zinc-500 mb-1">체중(kg)</label><input type="number" inputmode="decimal" id="weight" placeholder="60" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"></div>
+                        <div><label id="lblIntensity" class="block text-xs font-medium text-zinc-500 mb-1">활동량</label><select id="intensity" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"><option value="30">낮음(30ml/kg)</option><option value="33">보통(33ml/kg)</option><option value="40">많음(40ml/kg)</option></select></div>
+                    </div>
+                    <p class="text-xs text-zinc-500 leading-relaxed">체중 × 활동량 계수로 하루 권장 수분량을 추정해요. 음식 수분은 제외한 값이에요.</p>
+                    <div class="bg-zinc-50 border border-gray-200/60 rounded-2xl p-4 space-y-2.5 shadow-inner mt-2">
+                        <div class="flex justify-between items-center"><span class="text-xs text-zinc-500 font-medium">하루 권장량</span><span id="waterValue" class="text-2xl font-black text-zinc-900">—</span></div>
+                        <div class="flex justify-between items-center border-t border-gray-200/40 pt-2.5"><span class="text-xs text-zinc-500 font-medium">환산</span><span id="waterBreakdownValue" class="text-sm text-right font-bold text-zinc-800">—</span></div>
+                    </div>
+                </div>
+            </div></div>

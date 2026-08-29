@@ -57,7 +57,34 @@ export type Tool = {
     | 'lorem'
     | 'image-base64'
     | 'base64-image'
-    | 'youtube-revenue';
+    | 'youtube-revenue'
+    | 'pyeong'
+    | 'utility'
+    | 'delivery-split'
+    | 'net-salary'
+    | 'property-fees'
+| 'retirement-pay'
+      | 'leave-days'
+      | 'savings-interest'
+      | 'jeonse-rent'
+      | 'ltv-dti'
+      | 'subscription-score'
+      | 'one-rep-max'
+      | 'pet-age'
+      | 'stats'
+      | 'percentile'
+      | 'unemployment'
+      | 'salary-convert'
+      | 'dday'
+      | 'water'
+      | 'paint'
+      | 'travel-split'
+      | 'property-tax'
+      | 'installment'
+      | 'activity-calorie'
+      | 'heart-rate'
+      | 'zodiac'
+      | 'name-score';
 };
 
 export const TOOLS: Tool[] = [
@@ -105,12 +132,12 @@ export const TOOLS: Tool[] = [
   { slug: 'currency-converter', title: '환율 계산기', description: '금액을 입력해 주요 통화 기준으로 환산합니다', category: '금융', icon: '💱', type: 'currency' },
   { slug: 'pace-converter', title: '페이스 변환기', description: '러닝 페이스와 속도 단위를 서로 변환합니다', category: '운동', icon: '🏃', type: 'pace' },
   { slug: 'lorem-ipsum-generator', title: '더미 텍스트 생성기', description: '레이아웃 확인용 더미 텍스트를 빠르게 생성합니다', category: '글쓰기', icon: '📝', type: 'lorem' },
-  { slug: 'image-to-base64', title: '이미지 Base64 변환기', description: '이미지 파일을 Base64 문자열로 변환합니다', category: '이미지', icon: '🖼️', type: 'image-base64' },
+  { slug: 'image-to-base64', title: '이미지→Base64 변환기', description: '이미지 파일을 Base64 문자열로 변환합니다', category: '이미지', icon: '🖼️', type: 'image-base64' },
   { slug: 'base64-to-image', title: 'Base64 이미지 확인기', description: 'Base64 문자열을 이미지로 미리 보고 저장합니다', category: '이미지', icon: '🖼️', type: 'base64-image' },
-  { slug: 'jpg-to-png-converter', title: 'JPG PNG 변환기', description: 'JPG 이미지를 PNG 파일로 변환합니다', category: '이미지', icon: '🖼️', type: 'file-tool' },
-  { slug: 'png-to-jpg-converter', title: 'PNG JPG 변환기', description: 'PNG 이미지를 JPG 파일로 변환합니다', category: '이미지', icon: '🖼️', type: 'file-tool' },
+  { slug: 'jpg-to-png-converter', title: 'JPG→PNG 변환기', description: 'JPG 이미지를 PNG 파일로 변환합니다', category: '이미지', icon: '🖼️', type: 'file-tool' },
+  { slug: 'png-to-jpg-converter', title: 'PNG→JPG 변환기', description: 'PNG 이미지를 JPG 파일로 변환합니다', category: '이미지', icon: '🖼️', type: 'file-tool' },
   { slug: 'webp-converter', title: 'WebP 변환기', description: '이미지를 용량이 작은 WebP 파일로 변환합니다', category: '이미지', icon: '🖼️', type: 'file-tool' },
-  { slug: 'webp-to-png-converter', title: 'WebP PNG 변환기', description: 'WebP 이미지를 PNG 파일로 변환합니다', category: '이미지', icon: '🖼️', type: 'file-tool' },
+  { slug: 'webp-to-png-converter', title: 'WebP→PNG 변환기', description: 'WebP 이미지를 PNG 파일로 변환합니다', category: '이미지', icon: '🖼️', type: 'file-tool' },
   { slug: 'image-compressor', title: '이미지 압축기', description: '이미지 파일 용량을 줄이고 결과를 다운로드합니다', category: '이미지', icon: '🗜️', type: 'file-tool' },
   { slug: 'image-resizer', title: '이미지 크기 조절기', description: '이미지의 가로세로 크기를 원하는 값으로 조절합니다', category: '이미지', icon: '📐', type: 'file-tool' },
   { slug: 'image-cropper', title: '이미지 자르기', description: '이미지에서 필요한 영역만 잘라 저장합니다', category: '이미지', icon: '✂️', type: 'file-tool' },
@@ -125,10 +152,10 @@ export const TOOLS: Tool[] = [
   { slug: 'audio-speed-changer', title: '오디오 속도 변경', description: '오디오 재생 속도를 바꿔 WAV 파일로 저장합니다', category: '오디오', icon: '⏩', type: 'file-tool' },
   { slug: 'audio-volume-booster', title: '오디오 볼륨 증폭', description: '오디오 볼륨을 키우거나 줄여 저장합니다', category: '오디오', icon: '🔊', type: 'file-tool' },
   { slug: 'silent-audio-generator', title: '무음 오디오 생성기', description: '편집과 테스트에 쓸 무음 WAV 파일을 생성합니다', category: '오디오', icon: '🔇', type: 'text-tool' },
-  { slug: 'mp3-to-wav-converter', title: 'MP3 WAV 변환기', description: 'MP3 오디오 파일을 WAV로 변환합니다', category: '오디오', icon: '🎧', type: 'file-tool' },
-  { slug: 'wav-to-mp3-converter', title: 'WAV MP3 변환기', description: 'WAV 오디오 파일을 MP3로 변환합니다', category: '오디오', icon: '🎧', type: 'file-tool' },
-  { slug: 'mp4-webm-converter', title: 'MP4 WebM 변환기', description: 'MP4 영상을 WebM 형식으로 변환합니다', category: '영상', icon: '🎬', type: 'file-tool' },
-  { slug: 'video-to-gif-converter', title: '영상 GIF 변환기', description: '영상의 짧은 구간을 GIF로 변환합니다', category: '영상', icon: '🎞️', type: 'file-tool' },
+  { slug: 'mp3-to-wav-converter', title: 'MP3→WAV 변환기', description: 'MP3 오디오 파일을 WAV로 변환합니다', category: '오디오', icon: '🎧', type: 'file-tool' },
+  { slug: 'wav-to-mp3-converter', title: 'WAV→MP3 변환기', description: 'WAV 오디오 파일을 MP3로 변환합니다', category: '오디오', icon: '🎧', type: 'file-tool' },
+  { slug: 'mp4-webm-converter', title: 'MP4→WebM 변환기', description: 'MP4 영상을 WebM 형식으로 변환합니다', category: '영상', icon: '🎬', type: 'file-tool' },
+  { slug: 'video-to-gif-converter', title: '영상→GIF 변환기', description: '영상의 짧은 구간을 GIF로 변환합니다', category: '영상', icon: '🎞️', type: 'file-tool' },
   { slug: 'video-compressor', title: '영상 압축기', description: '영상 파일 용량을 줄이고 MP4로 저장합니다', category: '영상', icon: '🗜️', type: 'file-tool' },
   { slug: 'video-trimmer', title: '영상 자르기', description: '영상에서 시작과 끝 시간을 지정해 잘라냅니다', category: '영상', icon: '✂️', type: 'file-tool' },
   { slug: 'video-audio-extractor', title: '영상 오디오 추출기', description: '영상 파일에서 오디오만 추출해 저장합니다', category: '영상', icon: '🎙️', type: 'file-tool' },
@@ -146,4 +173,31 @@ export const TOOLS: Tool[] = [
   { slug: 'who-pays-roulette', title: '누가 낼까 룰렛', description: '이름을 넣고 룰렛을 돌려 누가 낼지 정합니다', category: '랜덤', icon: '🍻', type: 'who-pays' },
   { slug: 'lunch-picker', title: '점심 메뉴 추천기', description: '오늘 점심으로 먹을 메뉴를 무작위로 추천합니다', category: '랜덤', icon: '🍜', type: 'lunch-picker-full' },
   { slug: 'youtube-revenue-calculator', title: '유튜브 수익 계산기', description: '조회수와 RPM으로 유튜브 예상 광고 수익을 계산합니다', category: '창작', icon: '📺', type: 'youtube-revenue' },
+  { slug: 'pyeong-calculator', title: '평수 계산기', description: '가로·세로 길이로 면적을 제곱미터와 평수로 계산합니다', category: '생활', icon: '🏠', type: 'pyeong' },
+  { slug: 'utility-bill-calculator', title: '전기·가스 요금 계산기', description: '전력량(kWh)이나 가스 사용량(m³)으로 예상 요금을 추정합니다', category: '생활', icon: '💡', type: 'utility' },
+  { slug: 'delivery-fee-split', title: '배달비 분담 계산기', description: '주문 금액과 배달비를 인원수로 나눠 1인당 금액을 계산합니다', category: '생활', icon: '🛵', type: 'delivery-split' },
+  { slug: 'net-salary-calculator', title: '월급 실수령액 계산기', description: '세전 월급에서 4대 보험과 소득세를 뺀 실수령액을 계산합니다', category: '금융', icon: '💰', type: 'net-salary' },
+  { slug: 'property-purchase-fees', title: '취득세·등기비 계산기', description: '매매가로 취득세, 지방교육세, 등기비용을 추정합니다', category: '금융', icon: '🏢', type: 'property-fees' },
+  { slug: 'retirement-pay-calculator', title: '퇴직금 계산기', description: '입사일, 퇴사일, 평균임금으로 퇴직금을 계산합니다', category: '금융', icon: '🧾', type: 'retirement-pay' },
+  { slug: 'annual-leave-days-calculator', title: '연차·근무일수 계산기', description: '입사일부터 오늘까지 근무일수와 발생 연차를 계산합니다', category: '생활', icon: '🗓️', type: 'leave-days' },
+  { slug: 'installment-savings-calculator', title: '적금 이자 계산기', description: '월 납입액과 이율로 세후 적금 원리금을 계산합니다', category: '금융', icon: '🐷', type: 'savings-interest' },
+  { slug: 'jeonse-monthly-rent-calculator', title: '전세→월세 전환 계산기', description: '보증금과 전환율로 전세를 월세로 전환한 금액을 계산합니다', category: '금융', icon: '🏠', type: 'jeonse-rent' },
+  { slug: 'ltv-dti-calculator', title: 'LTV·DTI 계산기', description: '주택가격과 소득으로 LTV·DTI 기준 최대 대출금액을 추정합니다', category: '금융', icon: '🏦', type: 'ltv-dti' },
+  { slug: 'subscription-score-calculator', title: '청약 가점 계산기', description: '무주택 기간, 부양가족 수, 통장 가입기간으로 청약 가점을 계산합니다', category: '금융', icon: '🎯', type: 'subscription-score' },
+  { slug: 'one-rep-max-calculator', title: '1RM 계산기', description: '드는 횟수와 중량으로 최대 1회 들 수 있는 무게(1RM)를 추정합니다', category: '생활', icon: '🏋️', type: 'one-rep-max' },
+  { slug: 'pet-age-calculator', title: '강아지·고양이 나이 계산기', description: '반려동물 나이를 사람 나이로 환산합니다', category: '생활', icon: '🐶', type: 'pet-age' },
+  { slug: 'mean-stddev-calculator', title: '평균·표준편차 계산기', description: '숫자들을 입력해 평균, 중앙값, 표준편차를 계산합니다', category: '학업', icon: '📊', type: 'stats' },
+  { slug: 'percentile-rank-calculator', title: '백분위·등수 계산기', description: '내 점수, 평균, 표준편차로 백분위와 예상 등수를 계산합니다', category: '학업', icon: '🏅', type: 'percentile' },
+  { slug: 'unemployment-benefit-calculator', title: '실업급여 계산기', description: '고용보험 가입기간과 평균임금으로 실업급여를 추정합니다', category: '취업', icon: '🛟', type: 'unemployment' },
+  { slug: 'hourly-salary-converter', title: '시급·월급·연봉 변환기', description: '시급과 근무시간으로 월급과 연봉을 환산합니다', category: '취업', icon: '💼', type: 'salary-convert' },
+  { slug: 'dday-calculator', title: 'D-Day 계산기', description: '목표 날짜까지 남은 일수를 D-day로 계산합니다', category: '생활', icon: '⏳', type: 'dday' },
+  { slug: 'water-intake-calculator', title: '하루 물 섭취 계산기', description: '체중과 활동량으로 하루 권장 물 섭취량을 계산합니다', category: '건강', icon: '💧', type: 'water' },
+  { slug: 'paint-tile-calculator', title: '페인트·타일 계산기', description: '벽 면적으로 필요한 페인트와 타일 수량을 계산합니다', category: '생활', icon: '🎨', type: 'paint' },
+  { slug: 'travel-expense-split', title: '여행 경비 분담 계산기', description: '공동 여행 비용을 인원수로 나눠 1인당 부담액을 계산합니다', category: '여행', icon: '✈️', type: 'travel-split' },
+  { slug: 'property-tax-calculator', title: '재산세 계산기', description: '주택 공시가로 재산세와 지방교육세, 도시지역분을 추정합니다', category: '금융', icon: '🏡', type: 'property-tax' },
+  { slug: 'card-installment-calculator', title: '카드 할부 수수료 계산기', description: '할부 금액과 수수료율로 월 납입액과 총 수수료를 계산합니다', category: '금융', icon: '💵', type: 'installment' },
+  { slug: 'walking-running-calorie-calculator', title: '걷기·러닝 칼로리 계산기', description: '체중과 거리·속도로 걷기·러닝 소모 칼로리를 계산합니다', category: '건강', icon: '👟', type: 'activity-calorie' },
+  { slug: 'heart-rate-zone-calculator', title: '목표 심박수 존 계산기', description: '나이로 최대심박수와 운동 강도별 목표 심박수를 계산합니다', category: '건강', icon: '❤️', type: 'heart-rate' },
+  { slug: 'zodiac-sign-calculator', title: '별자리·띠 계산기', description: '생년월일로 별자리, 띠, 만 나이를 확인합니다', category: '재미', icon: '🌟', type: 'zodiac' },
+  { slug: 'name-score-calculator', title: '이름 점수 계산기', description: '이름 글자 값을 더해 재미있는 이름 점수를 매깁니다', category: '재미', icon: '🔮', type: 'name-score' },
 ];

@@ -1,0 +1,20 @@
+<div id="cardsGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 relative"><div id="paintTileCard" data-category="calculator" data-tool-slug="paint-tile-calculator" class="expandable-card expand-transition relative z-10 block bg-white rounded-2xl border border-gray-200 shadow-sm hover:shadow-md hover:border-zinc-400 backdrop-blur-xs flex-col overflow-hidden w-full h-full max-w-lg mx-auto md:mx-0 tool-page-panel is-expanded active-panel shadow-2xl border-zinc-400 tool-panel">
+                <div class="card-content p-6 w-full">
+                    <button class="close-expanded-btn expand-close absolute top-5 right-5 text-zinc-400 hover:text-zinc-600 font-bold text-base cursor-pointer p-1 focus:outline-none" aria-label="Close calculator">×</button>
+                    <div class="w-12 h-12 bg-zinc-100 rounded-xl flex items-center justify-center text-2xl mb-4">🎨</div>
+                    <h1 id="paintTileTitle" class="text-lg font-bold text-zinc-900 mb-1">페인트·타일 계산기</h1>
+                    <p id="paintTileDesc" class="card-description text-sm text-zinc-500 overflow-hidden">벽 면적으로 필요한 페인트와 타일 수량을 계산합니다.</p>
+                </div>
+                <div class="calculator-content px-6 pb-5 flex flex-col w-full transition-all duration-150 ease-out space-y-6 opacity-100 translate-y-0">
+                    <div class="grid grid-cols-1 sm:grid-cols-3 gap-3">
+                        <div><label id="lblAreaW" class="block text-xs font-medium text-zinc-500 mb-1">벽 가로(m)</label><input type="number" inputmode="decimal" id="areaW" placeholder="4" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"></div>
+                        <div><label id="lblAreaH" class="block text-xs font-medium text-zinc-500 mb-1">벽 세로(m)</label><input type="number" inputmode="decimal" id="areaH" placeholder="2.5" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"></div>
+                        <div><label id="lblTileSize" class="block text-xs font-medium text-zinc-500 mb-1">타일 규격(mm)</label><select id="tileSize" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"><option value="300">300×300</option><option value="600">600×600</option><option value="800">800×800</option></select></div>
+                    </div>
+                    <p class="text-xs text-zinc-500 leading-relaxed">페인트는 1L 기준 약 10㎡(1회), 타일은 로스 10% 포함 수량이에요.</p>
+                    <div class="bg-zinc-50 border border-gray-200/60 rounded-2xl p-4 space-y-2.5 shadow-inner mt-2">
+                        <div class="flex justify-between items-center"><span class="text-xs text-zinc-500 font-medium">필요 페인트(2회)</span><span id="paintTileValue" class="text-sm font-black text-zinc-900">—</span></div>
+                        <div class="flex justify-between items-center border-t border-gray-200/40 pt-2.5"><span class="text-xs text-zinc-500 font-medium">타일 · 면적</span><span id="paintTileBreakdownValue" class="text-sm text-right font-bold text-zinc-800">—</span></div>
+                    </div>
+                </div>
+            </div></div>

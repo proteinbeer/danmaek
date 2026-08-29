@@ -1,0 +1,20 @@
+<div id="cardsGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 relative"><div id="subscriptionScoreCard" data-category="calculator" data-tool-slug="subscription-score-calculator" class="expandable-card expand-transition relative z-10 block bg-white rounded-2xl border border-gray-200 shadow-sm hover:shadow-md hover:border-zinc-400 backdrop-blur-xs flex-col overflow-hidden w-full h-full max-w-lg mx-auto md:mx-0 tool-page-panel is-expanded active-panel shadow-2xl border-zinc-400 tool-panel">
+                <div class="card-content p-6 w-full">
+                    <button class="close-expanded-btn expand-close absolute top-5 right-5 text-zinc-400 hover:text-zinc-600 font-bold text-base cursor-pointer p-1 focus:outline-none" aria-label="Close calculator">×</button>
+                    <div class="w-12 h-12 bg-zinc-100 rounded-xl flex items-center justify-center text-2xl mb-4">🎯</div>
+                    <h1 id="subscriptionScoreTitle" class="text-lg font-bold text-zinc-900 mb-1">청약 가점 계산기</h1>
+                    <p id="subscriptionScoreDesc" class="card-description text-sm text-zinc-500 overflow-hidden">무주택 기간, 부양가족 수, 통장 가입기간으로 청약 가점을 계산합니다.</p>
+                </div>
+                <div class="calculator-content px-6 pb-5 flex flex-col w-full transition-all duration-150 ease-out space-y-6 opacity-100 translate-y-0">
+                    <div class="grid grid-cols-1 sm:grid-cols-3 gap-3">
+                        <div><label id="lblNoHome" class="block text-xs font-medium text-zinc-500 mb-1">무주택 기간(년)</label><input type="number" inputmode="decimal" id="noHome" placeholder="5" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"></div>
+                        <div><label id="lblScoreFamily" class="block text-xs font-medium text-zinc-500 mb-1">부양가족 수(본인 제외)</label><input type="number" inputmode="numeric" id="family" placeholder="2" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"></div>
+                        <div><label id="lblAccount" class="block text-xs font-medium text-zinc-500 mb-1">청약통장 가입기간(년)</label><input type="number" inputmode="decimal" id="account" placeholder="3" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"></div>
+                    </div>
+                    <p class="text-xs text-zinc-500 leading-relaxed">무주택 최대 32점, 부양가족 최대 35점, 가입기간 최대 17점 — 총 최대 84점이에요.</p>
+                    <div class="bg-zinc-50 border border-gray-200/60 rounded-2xl p-4 space-y-2.5 shadow-inner mt-2">
+                        <div class="flex justify-between items-center"><span class="text-xs text-zinc-500 font-medium">예상 청약 가점</span><span id="subscriptionScoreValue" class="text-sm font-black text-zinc-900">—</span></div>
+                        <div class="flex justify-between items-center border-t border-gray-200/40 pt-2.5"><span class="text-xs text-zinc-500 font-medium">구성</span><span id="subscriptionScoreBreakdownValue" class="text-sm text-right font-bold text-zinc-800">—</span></div>
+                    </div>
+                </div>
+            </div></div>

@@ -1,0 +1,19 @@
+<div id="cardsGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 relative"><div id="utilityBillCard" data-category="calculator" data-tool-slug="utility-bill-calculator" class="expandable-card expand-transition relative z-10 block bg-white rounded-2xl border border-gray-200 shadow-sm hover:shadow-md hover:border-zinc-400 backdrop-blur-xs flex-col overflow-hidden w-full h-full max-w-lg mx-auto md:mx-0 tool-page-panel is-expanded active-panel shadow-2xl border-zinc-400 tool-panel">
+                <div class="card-content p-6 w-full">
+                    <button class="close-expanded-btn expand-close absolute top-5 right-5 text-zinc-400 hover:text-zinc-600 font-bold text-base cursor-pointer p-1 focus:outline-none" aria-label="Close calculator">×</button>
+                    <div class="w-12 h-12 bg-zinc-100 rounded-xl flex items-center justify-center text-2xl mb-4">💡</div>
+                    <h1 id="utilityTitle" class="text-lg font-bold text-zinc-900 mb-1">전기·가스 요금 계산기</h1>
+                    <p id="utilityDesc" class="card-description text-sm text-zinc-500 overflow-hidden">전력량(kWh)이나 가스 사용량(m³)으로 예상 요금을 추정합니다.</p>
+                </div>
+                <div class="calculator-content px-6 pb-5 flex flex-col w-full transition-all duration-150 ease-out space-y-6 opacity-100 translate-y-0">
+                    <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+                        <div><label id="lblUtilityKind" class="block text-xs font-medium text-zinc-500 mb-1">종류</label><select id="kind" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"><option value="electricity">전기(kWh)</option><option value="gas">가스(m³)</option></select></div>
+                        <div><label id="lblUtilityAmount" class="block text-xs font-medium text-zinc-500 mb-1">사용량</label><input type="number" inputmode="decimal" id="amount" placeholder="250" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"></div>
+                    </div>
+                    <p class="text-xs text-zinc-500 leading-relaxed">전기는 주택용 저압 여름 누진제(2024 기준)로 추정해요. 실제 고지서와는 다를 수 있어요.</p>
+                    <div class="bg-zinc-50 border border-gray-200/60 rounded-2xl p-4 space-y-2.5 shadow-inner mt-2">
+                        <div class="flex justify-between items-center"><span class="text-xs text-zinc-500 font-medium">예상 요금</span><span id="utilityTotalValue" class="text-sm font-black text-zinc-900">—</span></div>
+                        <div class="flex justify-between items-center border-t border-gray-200/40 pt-2.5"><span class="text-xs text-zinc-500 font-medium">구성</span><span id="utilityBreakdownValue" class="text-sm text-right font-bold text-zinc-800">—</span></div>
+                    </div>
+                </div>
+            </div></div>

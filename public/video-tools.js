@@ -2,6 +2,7 @@ let videoFfmpeg = null;
 let videoFfmpegLoading = null;
 let videoTaskRunning = false;
 let videoLastLog = '';
+const VIDEO_GIF_MAX_SECONDS = 15;
 const videoTrimState = {
     duration: 0,
     start: 0,
@@ -278,7 +279,7 @@ async function setupVideoGifWaveform(file, duration) {
     const selection = document.getElementById('videoGifSelection');
     videoGifState.duration = Math.max(0, duration || 0);
     videoGifState.start = 0;
-    videoGifState.end = videoGifState.duration;
+    videoGifState.end = Math.min(videoGifState.duration, VIDEO_GIF_MAX_SECONDS);
     videoGifState.samples = null;
     if (!file || !waveform || !selection || !videoGifState.duration) return resetVideoGifWaveform();
 
@@ -459,9 +460,9 @@ function bindVideoGifWaveform() {
         const duration = videoGifState.duration;
         const minLength = Math.min(0.1, duration);
         if (videoGifState.dragMode === 'start') {
-            videoGifState.start = Math.max(0, videoGifState.end - 15, Math.min(seconds, videoGifState.end - minLength));
+            videoGifState.start = Math.max(0, videoGifState.end - VIDEO_GIF_MAX_SECONDS, Math.min(seconds, videoGifState.end - minLength));
         } else if (videoGifState.dragMode === 'end') {
-            videoGifState.end = Math.max(videoGifState.start + minLength, Math.min(seconds, duration, videoGifState.start + 15));
+            videoGifState.end = Math.max(videoGifState.start + minLength, Math.min(seconds, duration, videoGifState.start + VIDEO_GIF_MAX_SECONDS));
         } else {
             const length = videoGifState.end - videoGifState.start;
             const start = Math.max(0, Math.min(seconds - videoGifState.dragOffset, duration - length));
@@ -738,7 +739,7 @@ async function createGifFromVideo(ffmpeg, content) {
     const file = getVideoFile('videoGifInput');
     if (!file) return setVideoStatus(content, 'Please add a video.', true);
     const start = videoGifState.start;
-    const duration = Math.max(0.1, Math.min(15, videoGifState.end - videoGifState.start));
+    const duration = Math.max(0.1, Math.min(VIDEO_GIF_MAX_SECONDS, videoGifState.end - videoGifState.start));
     const width = Math.max(160, Math.min(720, Number(document.getElementById('videoGifWidth').value) || 480));
     const fps = Math.max(5, Math.min(30, Number(document.getElementById('videoGifFps').value) || 12));
     const colors = Math.max(32, Math.min(256, Number(document.getElementById('videoGifColors').value) || 128));

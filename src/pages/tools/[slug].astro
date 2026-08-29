@@ -841,6 +841,151 @@ const breadcrumbLd = {
         <label>CTR(%)<input id="ctr" type="text" inputmode="decimal" placeholder="4.5"></label>
         <p class="tool-form__note">RPM은 장르·시청자 국가·광고 단가에 따라 크게 달라져요. 국내 채널은 게임·기술 2,000~6,000원, 일상 500~2,000원 수준이 흔해요.</p>
       `,
+      'pyeong': `
+        <label>가로 길이(m)<input id="width" type="number" inputmode="decimal" placeholder="4.5"></label>
+        <label>세로 길이(m)<input id="height" type="number" inputmode="decimal" placeholder="3.2"></label>
+      `,
+      'utility': `
+        <label>종류<select id="kind"><option value="electricity">전기(kWh)</option><option value="gas">가스(m³)</option></select></label>
+        <label>사용량<input id="amount" type="number" inputmode="decimal" placeholder="250"></label>
+        <p class="tool-form__note">전기는 주택용 저압 여름 누진제(2024 기준)로 추정해요. 실제 고지서와는 다를 수 있어요.</p>
+      `,
+      'delivery-split': `
+        <label>주문 금액<input id="order" type="number" inputmode="decimal" placeholder="38000"></label>
+        <label>배달비<input id="delivery" type="number" inputmode="decimal" placeholder="4000"></label>
+        <label>인원수<input id="people" type="number" inputmode="numeric" placeholder="3"></label>
+      `,
+      'net-salary': `
+        <label>세전 월급<input id="gross" type="number" inputmode="decimal" placeholder="3500000"></label>
+        <p class="tool-form__note">2024년 기준 근로소득세를 단순화해서 추정한 값이에요. 실제 원천징수는 간이세액표 기준으로 달라질 수 있어요.</p>
+      `,
+      'property-fees': `
+        <label>매매가<input id="price" type="number" inputmode="decimal" placeholder="400000000"></label>
+        <label>취득세율<select id="rate"><option value="1">주택 6억 이하(1%)</option><option value="2">주택 6~9억(2%)</option><option value="3">주택 9억 초과·다주택(3%)</option><option value="4">상가·토지(4%)</option></select></label>
+        <label>농어촌특별세<select id="nongae"><option value="no">미적용</option><option value="yes">적용(취득세 10%)</option></select></label>
+        <p class="tool-form__note">법무사 수수료(약 10만 원)와 등록면허세(0.2%)를 포함한 추정 총액이에요.</p>
+      `,
+      'retirement-pay': `
+        <label>입사일<input id="startDate" type="date"></label>
+        <label>퇴사일<input id="endDate" type="date"></label>
+        <label>3개월 평균 월임금<input id="wage" type="number" inputmode="decimal" placeholder="3000000"></label>
+        <p class="tool-form__note">퇴직금 = 1일 평균임금 × 30일 × (재직일수/365)로 추정한 값이에요. 상여·연장수당 포함 여부에 따라 달라질 수 있어요.</p>
+      `,
+      'leave-days': `
+        <label>입사일<input id="startDate" type="date"></label>
+        <p class="tool-form__note">1년 미만은 월 1일(최대 11일), 1년 이상은 15일부터 2년마다 1일씩(최대 25일) 발생해요.</p>
+      `,
+      'savings-interest': `
+        <label>월 납입액<input id="monthly" type="number" inputmode="decimal" placeholder="500000"></label>
+        <label>연 이율(%)<input id="rate" type="number" inputmode="decimal" placeholder="3.5"></label>
+        <label>기간(개월)<input id="months" type="number" inputmode="numeric" placeholder="12"></label>
+        <p class="tool-form__note">월 복리·세전 이자에서 이자소득세 15.4%를 뺀 세후 금액이에요.</p>
+      `,
+      'jeonse-rent': `
+        <label>전세 보증금<input id="jeonse" type="number" inputmode="decimal" placeholder="300000000"></label>
+        <label>남길 보증금(월세 보증금)<input id="deposit" type="number" inputmode="decimal" placeholder="50000000"></label>
+        <label>전환율(%)<input id="rate" type="number" inputmode="decimal" placeholder="5"></label>
+        <p class="tool-form__note">(전세 보증금 − 남길 보증금) × 전환율 ÷ 12로 계산해요. 최근 전환율은 연 5% 내외예요.</p>
+      `,
+      'ltv-dti': `
+        <label>주택 가격<input id="price" type="number" inputmode="decimal" placeholder="400000000"></label>
+        <label>연 소득<input id="income" type="number" inputmode="decimal" placeholder="50000000"></label>
+        <label>기존 대출 연 원리금<input id="existing" type="number" inputmode="decimal" placeholder="0"></label>
+        <label>대출 금리(%)<input id="rate" type="number" inputmode="decimal" placeholder="4.5"></label>
+        <label>상환기간(년)<input id="years" type="number" inputmode="numeric" placeholder="30"></label>
+        <label>최대 LTV(%)<input id="maxLtv" type="number" inputmode="decimal" placeholder="70"></label>
+        <label>최대 DTI(%)<input id="maxDti" type="number" inputmode="decimal" placeholder="40"></label>
+        <p class="tool-form__note">LTV 한도와 DTI 한도 중 작은 값이 실제 최대 대출액으로 잡혀요. 조건별 한도가 달라 단순 추정치예요.</p>
+      `,
+      'subscription-score': `
+        <label>무주택 기간(년)<input id="noHome" type="number" inputmode="decimal" placeholder="5"></label>
+        <label>부양가족 수(본인 제외)<input id="family" type="number" inputmode="numeric" placeholder="2"></label>
+        <label>청약통장 가입기간(년)<input id="account" type="number" inputmode="decimal" placeholder="3"></label>
+        <p class="tool-form__note">무주택 최대 32점, 부양가족 최대 35점, 가입기간 최대 17점 — 총 최대 84점이에요.</p>
+      `,
+      'one-rep-max': `
+        <label>중량(kg)<input id="weight" type="number" inputmode="decimal" placeholder="40"></label>
+        <label>반복 횟수<input id="reps" type="number" inputmode="numeric" placeholder="5"></label>
+        <p class="tool-form__note">Epley 공식(중량 × (1 + 0.0333 × 반복수))으로 추정한 값이에요.</p>
+      `,
+      'pet-age': `
+        <label>반려동물 나이(년)<input id="petAge" type="number" inputmode="decimal" placeholder="3"></label>
+        <label>종류<select id="petKind"><option value="dog">강아지</option><option value="cat">고양이</option></select></label>
+        <p class="tool-form__note">첫해 15살, 2년차 +9살, 이후 연 +5살(개)/+4살(고양이)로 환산한 단순 추정이에요.</p>
+      `,
+      'stats': `
+        <label>숫자들 (콤마·공백·줄바꿈 구분)<textarea id="values" rows="5" placeholder="90, 85, 92, 88, 95"></textarea></label>
+        <label>표준편차 기준<select id="sdMode"><option value="n-1">표본(n-1)</option><option value="n">모집단(n)</option></select></label>
+        <p class="tool-form__note">숫자를 콤마나 공백, 줄바꿈으로 구분해서 넣으면 평균·중앙값·표준편차를 바로 보여줘요.</p>
+      `,
+      'percentile': `
+        <label>내 점수<input id="myScore" type="number" inputmode="decimal" placeholder="85"></label>
+        <label>평균<input id="avgScore" type="number" inputmode="decimal" placeholder="75"></label>
+        <label>표준편차<input id="stdScore" type="number" inputmode="decimal" placeholder="12"></label>
+        <label>참가 인원<input id="totalPeople" type="number" inputmode="numeric" placeholder="100"></label>
+        <p class="tool-form__note">점수 분포를 정규분포로 가정해 z값 → 백분위 → 예상 등수로 계산한 추정치예요.</p>
+      `,
+      'unemployment': `
+        <label>3개월 평균 월임금<input id="wage" type="number" inputmode="decimal" placeholder="3000000"></label>
+        <label>고용보험 가입기간(년)<input id="benYears" type="number" inputmode="decimal" placeholder="3"></label>
+        <label>연령<select id="benAge"><option value="under-50">49세 이하</option><option value="50-plus">50세 이상</option></select></label>
+        <p class="tool-form__note">1일 수급액(평균임금 60%, 2024년 상하한 63,104~66,000원) × 수급기간으로 추정한 값이에요.</p>
+      `,
+      'salary-convert': `
+        <label>시급<input id="hourly" type="number" inputmode="decimal" placeholder="10500"></label>
+        <label>주 근무시간<input id="weeklyHours" type="number" inputmode="numeric" placeholder="40"></label>
+        <label>연 근무 주수<input id="weekCount" type="number" inputmode="numeric" placeholder="52"></label>
+        <p class="tool-form__note">세전 기준이에요. 주 40시간·연 52주를 기본으로 넣었으니 본인 조건에 맞게 바꿔주세요.</p>
+      `,
+      'dday': `
+        <label>목표 날짜<input id="targetDate" type="date"></label>
+        <p class="tool-form__note">오늘 기준으로 목표일까지 남은 일수를 D-day로 보여줘요.</p>
+      `,
+      'water': `
+        <label>체중(kg)<input id="weight" type="number" inputmode="decimal" placeholder="60"></label>
+        <label>활동량<select id="intensity"><option value="30">낮음(하루 30ml/kg)</option><option value="33">보통(하루 33ml/kg)</option><option value="40">많음(하루 40ml/kg)</option></select></label>
+        <p class="tool-form__note">체중 × 활동량 계수로 하루 권장 수분량을 추정해요. 음식 수분은 제외한 값이에요.</p>
+      `,
+      'paint': `
+        <label>벽 가로(m)<input id="areaW" type="number" inputmode="decimal" placeholder="4"></label>
+        <label>벽 세로(m)<input id="areaH" type="number" inputmode="decimal" placeholder="2.5"></label>
+        <label>타일 규격(mm)<select id="tileSize"><option value="300">300×300</option><option value="600">600×600</option><option value="800">800×800</option></select></label>
+        <p class="tool-form__note">페인트는 1L 기준 약 10㎡(1회), 타일은 로스 10% 포함 수량이에요.</p>
+      `,
+      'travel-split': `
+        <label>공동 경비 (숫자만, 한 줄에 하나)<textarea id="expenses" rows="4" placeholder="숙소 300000&#10;관람 120000&#10;식사 175000"></textarea></label>
+        <label>인원수<input id="travelPeople" type="number" inputmode="numeric" placeholder="4"></label>
+        <p class="tool-form__note">각 줄의 금액을 전부 더해 인원수로 나눈 공동 부담액이에요.</p>
+      `,
+      'property-tax': `
+        <label>주택 공시가격<input id="price" type="number" inputmode="decimal" placeholder="300000000"></label>
+        <p class="tool-form__note">과표(공시가 60%)에 누진세율 적용 후, 지방교육세 20%와 도시지역분 0.14%를 더한 추정치예요. 세액공제는 반영하지 않았어요.</p>
+      `,
+      'installment': `
+        <label>할부 금액<input id="price" type="number" inputmode="decimal" placeholder="1000000"></label>
+        <label>할부 개월<input id="months" type="number" inputmode="numeric" placeholder="6"></label>
+        <label>연 수수료율(%)<input id="rate" type="number" inputmode="decimal" placeholder="12"></label>
+        <p class="tool-form__note">원금을 균등 분할하고 매월 남은 원금에 수수료를 붙이는 방식으로 계산한 추정치예요.</p>
+      `,
+      'activity-calorie': `
+        <label>체중(kg)<input id="weight" type="number" inputmode="decimal" placeholder="60"></label>
+        <label>거리(km)<input id="distance" type="number" inputmode="decimal" placeholder="5"></label>
+        <label>속도(km/h)<input id="speed" type="number" inputmode="decimal" placeholder=""></label>
+        <label>운동 종류<select id="mode"><option value="walk">걷기(4km/h)</option><option value="fast">빠르게 걷기(6km/h)</option><option value="jog">조깅(8km/h)</option><option value="run">달리기(10km/h)</option></select></label>
+        <p class="tool-form__note">속도를 비워두면 종류별 기본 속도로 계산해요. MET 기반 추정치라 실제와 다를 수 있어요.</p>
+      `,
+      'heart-rate': `
+        <label>나이<input id="age" type="number" inputmode="numeric" placeholder="30"></label>
+        <p class="tool-form__note">최대심박수(220−나이) 기준 회복 50~60%, 지방연소 60~70%, 유산소 70~80%, 무산소 80~90%, 최대 90~100% 존이에요.</p>
+      `,
+      'zodiac': `
+        <label>생년월일<input id="birthDate" type="date"></label>
+        <p class="tool-form__note">양력 기준 별자리와 해(年) 기준 띠, 오늘 기준 만 나이를 보여줘요.</p>
+      `,
+      'name-score': `
+        <label>이름<input id="fullName" type="text" placeholder="김단맥"></label>
+        <p class="tool-form__note">글자 수 코드 값을 합산한 순수 재미용 점수예요.</p>
+      `,
     };
 
     function number(id: string) {
@@ -868,6 +1013,17 @@ const breadcrumbLd = {
     }
     function fmt(value: number, digits = 4) {
       return Number.isFinite(value) ? Number(value.toFixed(digits)).toLocaleString('ko-KR') : '0';
+    }
+    function normalCdf(z: number) {
+      if (z < -8.2) return 0;
+      if (z > 8.2) return 1;
+      const sign = z < 0 ? -1 : 1;
+      const a1 = 0.254829592, a2 = -0.284496736, a3 = 1.421413741, a4 = -1.453152027, a5 = 1.061405429;
+      const p = 0.3275911;
+      const x = Math.abs(z) / Math.sqrt(2);
+      const t = 1 / (1 + p * x);
+      const y = 1 - (((((a5 * t + a4) * t) + a3) * t + a2) * t + a1) * t * Math.exp(-x * x);
+      return 0.5 * (1 + sign * y);
     }
     function lines(id: string) {
       return ((document.getElementById(id) as HTMLTextAreaElement | null)?.value || '').split(/\n+/).map((item) => item.trim()).filter(Boolean);
@@ -1104,6 +1260,580 @@ const breadcrumbLd = {
         if (revenueValue) revenueValue.textContent = money(revenue);
         if (impressionsValue) impressionsValue.textContent = `${Math.round(impressions).toLocaleString('ko-KR')}회 · 클릭 ${Math.round(clicks).toLocaleString('ko-KR')}회`;
         if (cpmValue) cpmValue.textContent = `${fmt(cpm)}원`;
+      }
+      if (type === 'pyeong') {
+        const width = number('width');
+        const height = number('height');
+        const areaValue = document.getElementById('pyeongAreaValue');
+        const pyeongValue = document.getElementById('pyeongPyeongValue');
+        if (!width || !height) {
+          show('');
+          [areaValue, pyeongValue].forEach((el) => { if (el) el.textContent = '—'; });
+          return;
+        }
+        const area = width * height;
+        const pyeong = area / 3.305785;
+        show(`${fmt(area, 2)}㎡ · 약 ${fmt(pyeong, 1)}평입니다.`);
+        if (areaValue) areaValue.textContent = `${fmt(area, 2)}㎡`;
+        if (pyeongValue) pyeongValue.textContent = `약 ${fmt(pyeong, 1)}평`;
+      }
+      if (type === 'utility') {
+        const kind = (document.getElementById('kind') as HTMLSelectElement).value;
+        const amount = number('amount');
+        const totalValue = document.getElementById('utilityTotalValue');
+        const breakdownValue = document.getElementById('utilityBreakdownValue');
+        if (!amount) {
+          show('');
+          [totalValue, breakdownValue].forEach((el) => { if (el) el.textContent = '—'; });
+          return;
+        }
+        let total = 0;
+        let breakdown = '';
+        if (kind === 'electricity') {
+          const baseFee = amount <= 300 ? 730 : amount <= 450 ? 1260 : 6060;
+          const tier1 = Math.min(amount, 300) * 88.3;
+          const tier2 = Math.max(0, Math.min(amount - 300, 150)) * 182.9;
+          const tier3 = Math.max(0, amount - 450) * 275.6;
+          const climate = amount * 9;
+          const subtotal = baseFee + tier1 + tier2 + tier3 + climate;
+          total = (subtotal + subtotal * 0.032) * 1.1;
+          breakdown = `기본요금 ${money(baseFee)} + 사용량 ${money(tier1 + tier2 + tier3)} + 기후환경 ${money(climate)}`;
+        } else {
+          total = amount * 730 * 1.1;
+          breakdown = `m³당 약 730원 · 부가세 포함`;
+        }
+        show(`예상 요금 ${money(total)}입니다.`);
+        if (totalValue) totalValue.textContent = money(total);
+        if (breakdownValue) breakdownValue.textContent = breakdown;
+      }
+      if (type === 'delivery-split') {
+        const order = number('order');
+        const delivery = number('delivery');
+        const people = Math.max(1, Math.trunc(number('people') || 1));
+        const totalValue = document.getElementById('deliveryTotalValue');
+        const breakdownValue = document.getElementById('deliveryBreakdownValue');
+        if (!order && !delivery) {
+          show('');
+          [totalValue, breakdownValue].forEach((el) => { if (el) el.textContent = '—'; });
+          return;
+        }
+        const perOrder = order ? order / people : 0;
+        const perDelivery = delivery ? delivery / people : 0;
+        const perTotal = perOrder + perDelivery;
+        show(`1인당 ${money(perTotal)}원입니다.`);
+        if (totalValue) totalValue.textContent = money(perTotal);
+        if (breakdownValue) breakdownValue.textContent = `주문 ${money(perOrder)} + 배달비 ${money(perDelivery)} · ${people}명`;
+      }
+      if (type === 'net-salary') {
+        const gross = number('gross');
+        const netValue = document.getElementById('salaryNetValue');
+        const deductionValue = document.getElementById('salaryDeductionValue');
+        if (!gross) {
+          show('');
+          [netValue, deductionValue].forEach((el) => { if (el) el.textContent = '—'; });
+          return;
+        }
+        const yearGross = gross * 12;
+        let salaryDeduction = 0;
+        if (yearGross <= 5000000) salaryDeduction = yearGross * 0.7;
+        else if (yearGross <= 15000000) salaryDeduction = 3500000 + (yearGross - 5000000) * 0.4;
+        else if (yearGross <= 45000000) salaryDeduction = 7500000 + (yearGross - 15000000) * 0.15;
+        else if (yearGross <= 100000000) salaryDeduction = 12000000 + (yearGross - 45000000) * 0.05;
+        else salaryDeduction = 14750000 + (yearGross - 100000000) * 0.02;
+        const taxable = Math.max(0, yearGross - salaryDeduction);
+        let incomeTaxYear = 0;
+        if (taxable <= 14000000) incomeTaxYear = taxable * 0.06;
+        else if (taxable <= 50000000) incomeTaxYear = 840000 + (taxable - 14000000) * 0.15;
+        else if (taxable <= 88000000) incomeTaxYear = 6240000 + (taxable - 50000000) * 0.24;
+        else if (taxable <= 150000000) incomeTaxYear = 15360000 + (taxable - 88000000) * 0.35;
+        else if (taxable <= 300000000) incomeTaxYear = 30960000 + (taxable - 150000000) * 0.38;
+        else if (taxable <= 500000000) incomeTaxYear = 87960000 + (taxable - 300000000) * 0.40;
+        else if (taxable <= 1000000000) incomeTaxYear = 167960000 + (taxable - 500000000) * 0.42;
+        else incomeTaxYear = 377960000 + (taxable - 1000000000) * 0.45;
+        const monthlyIncomeTax = incomeTaxYear / 12;
+        const localTax = monthlyIncomeTax * 0.1;
+        const pension = Math.min(gross, 5900000) * 0.045;
+        const health = Math.min(gross, 20000000) * 0.03545;
+        const longCare = health * 0.1281;
+        const employment = gross * 0.009;
+        const totalDeduction = pension + health + longCare + employment + monthlyIncomeTax + localTax;
+        const net = gross - totalDeduction;
+        show(`실수령액 약 ${money(net)} · 공제 합계 ${money(totalDeduction)}`);
+        if (netValue) netValue.textContent = money(net);
+        if (deductionValue) deductionValue.textContent = `국민연금 ${money(pension)} · 건강+장기요양 ${money(health + longCare)} · 고용 ${money(employment)} · 소득세 ${money(monthlyIncomeTax + localTax)}`;
+      }
+      if (type === 'property-fees') {
+        const price = number('price');
+        const rate = number('rate') || 3;
+        const nongae = (document.getElementById('nongae') as HTMLSelectElement).value;
+        const totalValue = document.getElementById('propertyTotalValue');
+        const breakdownValue = document.getElementById('propertyBreakdownValue');
+        if (!price) {
+          show('');
+          [totalValue, breakdownValue].forEach((el) => { if (el) el.textContent = '—'; });
+          return;
+        }
+        const tax = price * rate / 100;
+        const edu = tax * 0.2;
+        const nong = nongae === 'yes' ? tax * 0.1 : 0;
+        const reg = price * 0.002;
+        const lawyer = 100000;
+        const total = tax + edu + nong + reg + lawyer;
+        show(`총 비용 ${money(total)}입니다.`);
+        if (totalValue) totalValue.textContent = money(total);
+        if (breakdownValue) breakdownValue.textContent = `취득세 ${money(tax)} + 지방교육세 ${money(edu)} + 농특세 ${money(nong)} + 등기 ${money(reg + lawyer)}`;
+      }
+      if (type === 'retirement-pay') {
+        const startRaw = (document.getElementById('startDate') as HTMLInputElement).value;
+        const endRaw = (document.getElementById('endDate') as HTMLInputElement).value;
+        const wage = number('wage');
+        const amountValue = document.getElementById('retirementAmountValue');
+        const breakdownValue = document.getElementById('retirementBreakdownValue');
+        if (!startRaw || !endRaw || !wage) {
+          show('');
+          [amountValue, breakdownValue].forEach((el) => { if (el) el.textContent = '—'; });
+          return;
+        }
+        const start = new Date(startRaw + 'T00:00:00').getTime();
+        const end = new Date(endRaw + 'T00:00:00').getTime();
+        const days = Math.max(0, Math.floor((end - start) / 86400000) + 1);
+        const daily = wage / 30;
+        const retirement = daily * 30 * days / 365;
+        show(`예상 퇴직금 ${money(retirement)}`);
+        if (amountValue) amountValue.textContent = money(retirement);
+        if (breakdownValue) breakdownValue.textContent = `재직 ${days.toLocaleString('ko-KR')}일 · 1일 평균임금 ${money(daily)}`;
+      }
+      if (type === 'leave-days') {
+        const startRaw = (document.getElementById('startDate') as HTMLInputElement).value;
+        const leaveValue = document.getElementById('leaveDaysValue');
+        const breakdownValue = document.getElementById('leaveBreakdownValue');
+        if (!startRaw) {
+          show('');
+          [leaveValue, breakdownValue].forEach((el) => { if (el) el.textContent = '—'; });
+          return;
+        }
+        const start = new Date(startRaw + 'T00:00:00').getTime();
+        const now = Date.now();
+        const days = Math.max(0, Math.floor((now - start) / 86400000) + 1);
+        const years = Math.floor(days / 365);
+        const monthsApprox = Math.floor(days / 30.44);
+        const annual = years === 0 ? Math.min(11, monthsApprox) : Math.min(25, 15 + Math.floor((years - 1) / 2));
+        show(`근무 ${days.toLocaleString('ko-KR')}일 · 발생 연차 ${annual}일`);
+        if (leaveValue) leaveValue.textContent = `${days.toLocaleString('ko-KR')}일 (${years}년 ${Math.floor((days % 365) / 30)}개월)`;
+        if (breakdownValue) breakdownValue.textContent = `발생 연차 ${annual}일`;
+      }
+      if (type === 'savings-interest') {
+        const monthly = number('monthly');
+        const rate = number('rate');
+        const months = Math.max(1, Math.trunc(number('months') || 12));
+        const totalValue = document.getElementById('savingsTotalValue');
+        const breakdownValue = document.getElementById('savingsBreakdownValue');
+        if (!monthly || !rate) {
+          show('');
+          [totalValue, breakdownValue].forEach((el) => { if (el) el.textContent = '—'; });
+          return;
+        }
+        const r = rate / 100 / 12;
+        const future = r === 0 ? monthly * months : monthly * (1 + r) * ((Math.pow(1 + r, months) - 1) / r);
+        const principal = monthly * months;
+        const interest = future - principal;
+        const afterTax = principal + interest * 0.846;
+        show(`세후 원리금 ${money(afterTax)} · 세후 이자 ${money(interest * 0.846)}`);
+        if (totalValue) totalValue.textContent = money(afterTax);
+        if (breakdownValue) breakdownValue.textContent = `원금 ${money(principal)} + 이자 ${money(interest)} (세후 ${money(interest * 0.846)})`;
+      }
+      if (type === 'jeonse-rent') {
+        const jeonse = number('jeonse');
+        const deposit = number('deposit');
+        const rate = number('rate');
+        const totalValue = document.getElementById('jeonseRentValue');
+        const breakdownValue = document.getElementById('jeonseRentBreakdownValue');
+        if (!jeonse || !deposit || !rate) {
+          show('');
+          [totalValue, breakdownValue].forEach((el) => { if (el) el.textContent = '—'; });
+          return;
+        }
+        const monthly = Math.max(0, (jeonse - deposit) * rate / 100 / 12);
+        show(`전환 월세 ${money(monthly)}`);
+        if (totalValue) totalValue.textContent = money(monthly);
+        if (breakdownValue) breakdownValue.textContent = `전환 대상 ${money(Math.max(0, jeonse - deposit))} · 연 전환율 ${rate}%`;
+      }
+      if (type === 'ltv-dti') {
+        const price = number('price');
+        const income = number('income');
+        const existing = number('existing');
+        const rate = number('rate');
+        const years = number('years');
+        const maxLtv = number('maxLtv');
+        const maxDti = number('maxDti');
+        const totalValue = document.getElementById('ltvDtiValue');
+        const breakdownValue = document.getElementById('ltvDtiBreakdownValue');
+        if (!price || !income || !rate || !years || !maxLtv || !maxDti) {
+          show('');
+          [totalValue, breakdownValue].forEach((el) => { if (el) el.textContent = '—'; });
+          return;
+        }
+        const ltvLimit = price * maxLtv / 100;
+        const r = rate / 100 / 12;
+        const n = years * 12;
+        const availableAnnual = Math.max(0, income * maxDti / 100 - existing);
+        const pmtMonthly = availableAnnual / 12;
+        const dtiLimit = r === 0 ? availableAnnual * years : Math.max(0, pmtMonthly * (1 - Math.pow(1 + r, -n)) / r);
+        const maxLoan = Math.min(ltvLimit, dtiLimit);
+        show(`최대 대출 ${money(maxLoan)} (LTV 기준 ${money(ltvLimit)} · DTI 기준 ${money(dtiLimit)})`);
+        if (totalValue) totalValue.textContent = money(maxLoan);
+        if (breakdownValue) breakdownValue.textContent = `LTV 한도 ${money(ltvLimit)} · DTI 한도 ${money(dtiLimit)}`;
+      }
+      if (type === 'subscription-score') {
+        const noHome = number('noHome');
+        const family = number('family');
+        const account = number('account');
+        const totalValue = document.getElementById('subscriptionScoreValue');
+        const breakdownValue = document.getElementById('subscriptionScoreBreakdownValue');
+        if (!noHome && noHome !== 0 || !family && family !== 0 || !account && account !== 0) {
+          show('');
+          [totalValue, breakdownValue].forEach((el) => { if (el) el.textContent = '—'; });
+          return;
+        }
+        const homePts = noHome < 0.5 ? 0 : noHome < 1 ? 2 : Math.min(32, Math.floor(noHome) * 4);
+        const famPts = Math.min(35, Math.max(0, Math.floor(family)) * 5);
+        const acctPts = account < 2 ? 2 : Math.min(17, 2 * Math.floor(Math.min(account, 9)));
+        const total = homePts + famPts + acctPts;
+        show(`예상 청약 가점 ${total}점 (최대 84점)`);
+        if (totalValue) totalValue.textContent = `${total}점`;
+        if (breakdownValue) breakdownValue.textContent = `무주택 ${homePts} + 부양가족 ${famPts} + 가입기간 ${acctPts}`;
+      }
+      if (type === 'one-rep-max') {
+        const weight = number('weight');
+        const reps = number('reps');
+        const totalValue = document.getElementById('oneRmValue');
+        const breakdownValue = document.getElementById('oneRmBreakdownValue');
+        if (!weight || !reps) {
+          show('');
+          [totalValue, breakdownValue].forEach((el) => { if (el) el.textContent = '—'; });
+          return;
+        }
+        const rm = weight * (1 + 0.0333 * reps);
+        show(`추정 1RM ${rm.toFixed(1)}kg`);
+        if (totalValue) totalValue.textContent = `${rm.toFixed(1)}kg`;
+        if (breakdownValue) breakdownValue.textContent = `90% ${(rm * 0.9).toFixed(1)} · 75% ${(rm * 0.75).toFixed(1)} · 60% ${(rm * 0.6).toFixed(1)}kg`;
+      }
+      if (type === 'pet-age') {
+        const age = number('petAge');
+        const kind = (document.getElementById('petKind') as HTMLSelectElement).value;
+        const totalValue = document.getElementById('petAgeValue');
+        const breakdownValue = document.getElementById('petAgeBreakdownValue');
+        if (!age && age !== 0) {
+          show('');
+          [totalValue, breakdownValue].forEach((el) => { if (el) el.textContent = '—'; });
+          return;
+        }
+        const ratePerYear = kind === 'cat' ? 4 : 5;
+        const human = age <= 0 ? 0 : age <= 1 ? 15 * age : age <= 2 ? 24 : 24 + (age - 2) * ratePerYear;
+        show(`사람 나이로 약 ${Math.floor(human)}살`);
+        if (totalValue) totalValue.textContent = `${Math.floor(human)}살`;
+        if (breakdownValue) breakdownValue.textContent = kind === 'cat' ? '첫해 15살 + 9살 + 이후 연 4살' : '첫해 15살 + 9살 + 이후 연 5살';
+      }
+      if (type === 'stats') {
+        const raw = (document.getElementById('values') as HTMLTextAreaElement | null)?.value || '';
+        const nums = raw.split(/[,\s\n]+/).map(Number).filter((v) => Number.isFinite(v));
+        const meanValue = document.getElementById('statsMeanValue');
+        const breakdownValue = document.getElementById('statsBreakdownValue');
+        if (!nums.length) {
+          show('');
+          [meanValue, breakdownValue].forEach((el) => { if (el) el.textContent = '—'; });
+          return;
+        }
+        const mean = nums.reduce((a, b) => a + b, 0) / nums.length;
+        const sorted = [...nums].sort((a, b) => a - b);
+        const mid = Math.floor(sorted.length / 2);
+        const median = sorted.length % 2 ? sorted[mid] : (sorted[mid - 1] + sorted[mid]) / 2;
+        const mode = (document.getElementById('sdMode') as HTMLSelectElement).value;
+        const denom = mode === 'n' ? nums.length : nums.length - 1;
+        const std = Math.sqrt(nums.reduce((a, b) => a + (b - mean) ** 2, 0) / denom);
+        show(`평균 ${fmt(mean, 2)} · 중앙값 ${fmt(median, 2)} · 표준편차 ${fmt(std, 2)}`);
+        if (meanValue) meanValue.textContent = fmt(mean, 2);
+        if (breakdownValue) breakdownValue.textContent = `중앙값 ${fmt(median, 2)} · 표준편차(표본) ${fmt(std, 2)}`;
+      }
+      if (type === 'percentile') {
+        const ids = ['myScore', 'avgScore', 'stdScore', 'totalPeople'];
+        const totalValue = document.getElementById('percentileValue');
+        const breakdownValue = document.getElementById('percentileBreakdownValue');
+        if (ids.some((id) => (document.getElementById(id) as HTMLInputElement).value === '')) {
+          show('');
+          [totalValue, breakdownValue].forEach((el) => { if (el) el.textContent = '—'; });
+          return;
+        }
+        const my = number('myScore');
+        const avg = number('avgScore');
+        const sd = number('stdScore');
+        const total = number('totalPeople');
+        if (sd <= 0) {
+          show('표준편차가 0이면 계산할 수 없어요.');
+          [totalValue, breakdownValue].forEach((el) => { if (el) el.textContent = '—'; });
+          return;
+        }
+        const z = (my - avg) / sd;
+        const p = normalCdf(z);
+        const percentile = Math.max(0, (1 - p) * 100);
+        const rank = Math.max(1, Math.round(total * (1 - p)));
+        show(`백분위(상위) ${fmt(percentile, 1)}% · 예상 ${rank}등`);
+        if (totalValue) totalValue.textContent = `${fmt(percentile, 1)}% (상위)`;
+        if (breakdownValue) breakdownValue.textContent = `예상 등수 ${rank}등 · z값 ${fmt(z, 2)}`;
+      }
+      if (type === 'unemployment') {
+        const wage = number('wage');
+        const years = number('benYears');
+        const totalValue = document.getElementById('unemploymentBenefitValue');
+        const breakdownValue = document.getElementById('unemploymentBenefitBreakdownValue');
+        if (!wage || !years) {
+          show('');
+          [totalValue, breakdownValue].forEach((el) => { if (el) el.textContent = '—'; });
+          return;
+        }
+        const ageUp = (document.getElementById('benAge') as HTMLSelectElement).value === '50-plus';
+        const daily = Math.min(66000, Math.max(63104, wage / 30 * 0.6));
+        let days = years < 1 ? 120 : years < 3 ? 150 : years < 5 ? 180 : years < 10 ? 210 : 240;
+        if (ageUp) days += 30;
+        const total = daily * days;
+        show(`예상 실업급여 총액 ${money(total)} · 1일 ${money(daily)} (${days}일)`);
+        if (totalValue) totalValue.textContent = money(total);
+        if (breakdownValue) breakdownValue.textContent = `1일 ${money(daily)} × ${days}일수급`;
+      }
+      if (type === 'salary-convert') {
+        const hourly = number('hourly');
+        const weeklyHours = number('weeklyHours') || 40;
+        const weeks = number('weekCount') || 52;
+        const totalValue = document.getElementById('salaryConvertValue');
+        const breakdownValue = document.getElementById('salaryConvertBreakdownValue');
+        if (!hourly) {
+          show('');
+          [totalValue, breakdownValue].forEach((el) => { if (el) el.textContent = '—'; });
+          return;
+        }
+        const weekly = hourly * weeklyHours;
+        const monthly = weekly * 52 / 12;
+        const annual = weekly * weeks;
+        show(`연봉 ${money(annual)} · 월급 ${money(monthly)}`);
+        if (totalValue) totalValue.textContent = money(annual);
+        if (breakdownValue) breakdownValue.textContent = `월급 ${money(monthly)} · 주급 ${money(weekly)}`;
+      }
+      if (type === 'dday') {
+        const tRaw = (document.getElementById('targetDate') as HTMLInputElement).value;
+        const totalValue = document.getElementById('ddayValue');
+        const breakdownValue = document.getElementById('ddayBreakdownValue');
+        if (!tRaw) {
+          show('');
+          [totalValue, breakdownValue].forEach((el) => { if (el) el.textContent = '—'; });
+          return;
+        }
+        const target = new Date(tRaw + 'T00:00:00').getTime();
+        const now = new Date();
+        const todayStart = new Date(now.getFullYear(), now.getMonth(), now.getDate()).getTime();
+        const diff = Math.round((target - todayStart) / 86400000);
+        const label = diff === 0 ? 'D-DAY' : diff > 0 ? `D-${diff}` : `D+${Math.abs(diff)}`;
+        show(`${label} ${diff === 0 ? '오늘입니다!' : `· ${Math.abs(diff)}일${diff > 0 ? ' 남음' : ' 지남'}`}`);
+        if (totalValue) totalValue.textContent = label;
+        if (breakdownValue) breakdownValue.textContent = `${now.getFullYear()}.${now.getMonth() + 1}.${now.getDate()} 기준`;
+      }
+      if (type === 'water') {
+        const weight = number('weight');
+        const factor = Number((document.getElementById('intensity') as HTMLSelectElement).value);
+        const totalValue = document.getElementById('waterValue');
+        const breakdownValue = document.getElementById('waterBreakdownValue');
+        if (!weight) {
+          show('');
+          [totalValue, breakdownValue].forEach((el) => { if (el) el.textContent = '—'; });
+          return;
+        }
+        const ml = Math.round(weight * factor);
+        show(`하루 권장 ${(ml / 1000).toFixed(1)}L (${ml.toLocaleString('ko-KR')}ml)`);
+        if (totalValue) totalValue.textContent = `${(ml / 1000).toFixed(1)}L`;
+        if (breakdownValue) breakdownValue.textContent = `${ml.toLocaleString('ko-KR')}ml · 약 ${Math.round(ml / 250)}잔`;
+      }
+      if (type === 'paint') {
+        const w = number('areaW');
+        const h = number('areaH');
+        const tileSize = Number((document.getElementById('tileSize') as HTMLSelectElement).value);
+        const totalValue = document.getElementById('paintTileValue');
+        const breakdownValue = document.getElementById('paintTileBreakdownValue');
+        if (!w || !h) {
+          show('');
+          [totalValue, breakdownValue].forEach((el) => { if (el) el.textContent = '—'; });
+          return;
+        }
+        const area = w * h;
+        const paint1 = area / 10;
+        const paint2 = area * 2 / 10;
+        const tileArea = Math.pow(tileSize / 1000, 2);
+        const tiles = Math.ceil(area / tileArea * 1.1);
+        show(`페인트 ${paint2.toFixed(1)}L(2회) · 타일 ${tiles}장`);
+        if (totalValue) totalValue.textContent = `${paint2.toFixed(1)}L`;
+        if (breakdownValue) breakdownValue.textContent = `면적 ${area.toFixed(1)}㎡ · 1회 ${paint1.toFixed(1)}L · 타일 ${tiles}장(로스 10%)`;
+      }
+      if (type === 'travel-split') {
+        const raw = (document.getElementById('expenses') as HTMLTextAreaElement | null)?.value || '';
+        const people = number('travelPeople');
+        const nums = raw.split(/[,\s\n]+/).map(Number).filter((v) => Number.isFinite(v) && v > 0);
+        const totalValue = document.getElementById('travelSplitValue');
+        const breakdownValue = document.getElementById('travelSplitBreakdownValue');
+        if (!nums.length || !people) {
+          show('');
+          [totalValue, breakdownValue].forEach((el) => { if (el) el.textContent = '—'; });
+          return;
+        }
+        const total = nums.reduce((a, b) => a + b, 0);
+        const per = total / people;
+        show(`1인당 ${money(per)} · 공동 경비 ${money(total)}`);
+        if (totalValue) totalValue.textContent = money(per);
+        if (breakdownValue) breakdownValue.textContent = `총 경비 ${money(total)} · 항목 ${nums.length}건`;
+      }
+      if (type === 'property-tax') {
+        const price = number('price');
+        const totalValue = document.getElementById('propertyTaxValue');
+        const breakdownValue = document.getElementById('propertyTaxBreakdownValue');
+        if (!price) {
+          show('');
+          [totalValue, breakdownValue].forEach((el) => { if (el) el.textContent = '—'; });
+          return;
+        }
+        const base = price * 0.6;
+        let tax;
+        if (base <= 30000000) tax = base * 0.001;
+        else if (base <= 60000000) tax = 30000 + (base - 30000000) * 0.0015;
+        else if (base <= 90000000) tax = 75000 + (base - 60000000) * 0.0025;
+        else if (base <= 120000000) tax = 150000 + (base - 90000000) * 0.004;
+        else if (base <= 150000000) tax = 270000 + (base - 120000000) * 0.005;
+        else tax = 420000 + (base - 150000000) * 0.0055;
+        const edu = tax * 0.2;
+        const urban = base * 0.0014;
+        const total = tax + edu + urban;
+        show(`재산세 총액 ${money(total)} · 과표 ${money(base)}`);
+        if (totalValue) totalValue.textContent = money(total);
+        if (breakdownValue) breakdownValue.textContent = `재산세 ${money(tax)} + 교육세 ${money(edu)} + 도시지역분 ${money(urban)}`;
+      }
+      if (type === 'installment') {
+        const price = number('price');
+        const months = Math.max(1, Math.trunc(number('months') || 12));
+        const rate = number('rate');
+        const totalValue = document.getElementById('installmentValue');
+        const breakdownValue = document.getElementById('installmentBreakdownValue');
+        if (!price || !rate) {
+          show('');
+          [totalValue, breakdownValue].forEach((el) => { if (el) el.textContent = '—'; });
+          return;
+        }
+        const mr = rate / 100 / 12;
+        const principal = price / months;
+        let balance = price;
+        let totalFee = 0;
+        let first = 0;
+        for (let i = 0; i < months; i++) {
+          const cur = Math.min(principal, balance);
+          const fee = balance * mr;
+          if (i === 0) first = cur + fee;
+          totalFee += fee;
+          balance -= cur;
+        }
+        const total = price + totalFee;
+        show(`총 할부금 ${money(total)} · 수수료 ${money(totalFee)}`);
+        if (totalValue) totalValue.textContent = money(total);
+        if (breakdownValue) breakdownValue.textContent = `총 수수료 ${money(totalFee)} · 1회차 ${money(first)} (${months}개월)`;
+      }
+      if (type === 'activity-calorie') {
+        const weight = number('weight');
+        const distance = number('distance');
+        const mode = (document.getElementById('mode') as HTMLSelectElement).value;
+        const specs = {
+          walk: { met: 3.2, speed: 4 },
+          fast: { met: 5, speed: 6 },
+          jog: { met: 8, speed: 8 },
+          run: { met: 10.2, speed: 10 },
+        }[mode] || { met: 3.2, speed: 4 };
+        const speedRaw = (document.getElementById('speed') as HTMLInputElement).value;
+        const speed = speedRaw !== '' && Number(speedRaw) > 0 ? Number(speedRaw) : specs.speed;
+        const totalValue = document.getElementById('activityKcalValue');
+        const breakdownValue = document.getElementById('activityKcalBreakdownValue');
+        if (!weight || !distance) {
+          show('');
+          [totalValue, breakdownValue].forEach((el) => { if (el) el.textContent = '—'; });
+          return;
+        }
+        const minutes = distance / speed * 60;
+        const kcal = Math.round(specs.met * 3.5 * weight / 200 * minutes);
+        show(`소모 칼로리 약 ${kcal.toLocaleString('ko-KR')}kcal`);
+        if (totalValue) totalValue.textContent = `${kcal.toLocaleString('ko-KR')}kcal`;
+        if (breakdownValue) breakdownValue.textContent = `${minutes.toFixed(0)}분 · ${speed}km/h · MET ${specs.met}`;
+      }
+      if (type === 'heart-rate') {
+        const age = number('age');
+        const totalValue = document.getElementById('heartRateValue');
+        const breakdownValue = document.getElementById('heartRateBreakdownValue');
+        if (!age && age !== 0) {
+          show('');
+          [totalValue, breakdownValue].forEach((el) => { if (el) el.textContent = '—'; });
+          return;
+        }
+        const max = 220 - age;
+        const zones = [
+          { name: '지방연소', lo: 0.6, hi: 0.7 },
+          { name: '유산소', lo: 0.7, hi: 0.8 },
+        ];
+        const zoneText = zones.map((z) => `${z.name} ${Math.round(max * z.lo)}–${Math.round(max * z.hi)}`).join(' · ');
+        show(`최대심박수 ${max}bpm`);
+        if (totalValue) totalValue.textContent = `${max}bpm`;
+        if (breakdownValue) breakdownValue.textContent = zoneText;
+      }
+      if (type === 'zodiac') {
+        const raw = (document.getElementById('birthDate') as HTMLInputElement).value;
+        const totalValue = document.getElementById('zodiacValue');
+        const breakdownValue = document.getElementById('zodiacBreakdownValue');
+        if (!raw) {
+          show('');
+          [totalValue, breakdownValue].forEach((el) => { if (el) el.textContent = '—'; });
+          return;
+        }
+        const d = new Date(raw + 'T00:00:00');
+        const md = d.getMonth() + 1;
+        const day = d.getDate();
+        const signs: Array<[number, number, string]> = [
+          [1, 20, '물병자리'], [2, 19, '물고기자리'], [3, 21, '양자리'], [4, 20, '황소자리'],
+          [5, 21, '쌍둥이자리'], [6, 22, '게자리'], [7, 23, '사자자리'], [8, 23, '처녀자리'],
+          [9, 23, '천칭자리'], [10, 24, '전갈자리'], [11, 23, '사수자리'], [12, 22, '염소자리'],
+        ];
+        let sign = signs[11][2];
+        for (const [m, dd, name] of signs) {
+          if (md === m && day >= dd) { sign = name; break; }
+        }
+        const year = d.getFullYear();
+        const animalIdx = (((year - 4) % 12) + 12) % 12;
+        const animals = ['쥐', '소', '범', '토끼', '용', '뱀', '말', '양', '원숭이', '닭', '개', '돼지'];
+        const animal = animals[animalIdx];
+        const now = new Date();
+        let koreanAge = now.getFullYear() - year;
+        const thisBirthday = new Date(now.getFullYear(), md - 1, day).getTime();
+        if (now.getTime() < thisBirthday) koreanAge -= 1;
+        show(`${sign} · ${animal}띠 · 만 ${koreanAge}세`);
+        if (totalValue) totalValue.textContent = `${sign} · ${animal}띠`;
+        if (breakdownValue) breakdownValue.textContent = `만 ${koreanAge}세 · ${year}년 ${md}월 ${day}일`;
+      }
+      if (type === 'name-score') {
+        const raw = ((document.getElementById('fullName') as HTMLInputElement).value || '').trim();
+        const totalValue = document.getElementById('nameScoreValue');
+        const breakdownValue = document.getElementById('nameScoreBreakdownValue');
+        if (!raw) {
+          show('');
+          [totalValue, breakdownValue].forEach((el) => { if (el) el.textContent = '—'; });
+          return;
+        }
+        const chars = [...raw];
+        const points = chars.map((c) => c.codePointAt(0) || 0);
+        const total = points.reduce((a, b) => a + b, 0);
+        const score = (total % 100) + 1;
+        const perChar = chars.map((c, i) => `${c}(${points[i] % 10})`).join(' ');
+        show(`이름 점수 ${score}점`);
+        if (totalValue) totalValue.textContent = `${score}점`;
+        if (breakdownValue) breakdownValue.textContent = `문자 합 ${total} → ${perChar}`;
       }
       if (type === 'angle') {
         const value = number('value');

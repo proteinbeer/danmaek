@@ -1,0 +1,24 @@
+<div id="cardsGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 relative"><div id="ltvDtiCard" data-category="calculator" data-tool-slug="ltv-dti-calculator" class="expandable-card expand-transition relative z-10 block bg-white rounded-2xl border border-gray-200 shadow-sm hover:shadow-md hover:border-zinc-400 backdrop-blur-xs flex-col overflow-hidden w-full h-full max-w-lg mx-auto md:mx-0 tool-page-panel is-expanded active-panel shadow-2xl border-zinc-400 tool-panel">
+                <div class="card-content p-6 w-full">
+                    <button class="close-expanded-btn expand-close absolute top-5 right-5 text-zinc-400 hover:text-zinc-600 font-bold text-base cursor-pointer p-1 focus:outline-none" aria-label="Close calculator">×</button>
+                    <div class="w-12 h-12 bg-zinc-100 rounded-xl flex items-center justify-center text-2xl mb-4">🏦</div>
+                    <h1 id="ltvDtiTitle" class="text-lg font-bold text-zinc-900 mb-1">LTV·DTI 계산기</h1>
+                    <p id="ltvDtiDesc" class="card-description text-sm text-zinc-500 overflow-hidden">주택가격과 소득으로 LTV·DTI 기준 최대 대출금액을 추정합니다.</p>
+                </div>
+                <div class="calculator-content px-6 pb-5 flex flex-col w-full transition-all duration-150 ease-out space-y-6 opacity-100 translate-y-0">
+                    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
+                        <div class="sm:col-span-2 lg:col-span-3"><label id="lblLtvPrice" class="block text-xs font-medium text-zinc-500 mb-1">주택 가격</label><input type="number" inputmode="decimal" id="price" placeholder="400,000,000" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"></div>
+                        <div class="sm:col-span-2 lg:col-span-3"><label id="lblLtvIncome" class="block text-xs font-medium text-zinc-500 mb-1">연 소득</label><input type="number" inputmode="decimal" id="income" placeholder="50,000,000" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"></div>
+                        <div class="sm:col-span-2 lg:col-span-3"><label id="lblLtvExisting" class="block text-xs font-medium text-zinc-500 mb-1">기존 대출 연 원리금</label><input type="number" inputmode="decimal" id="existing" placeholder="0" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"></div>
+                        <div><label id="lblLtvRate" class="block text-xs font-medium text-zinc-500 mb-1">대출 금리(%)</label><input type="number" inputmode="decimal" id="rate" placeholder="4.5" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"></div>
+                        <div><label id="lblLtvYears" class="block text-xs font-medium text-zinc-500 mb-1">상환기간(년)</label><input type="number" inputmode="numeric" id="years" placeholder="30" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"></div>
+                        <div><label id="lblLtvMax" class="block text-xs font-medium text-zinc-500 mb-1">최대 LTV(%)</label><input type="number" inputmode="decimal" id="maxLtv" placeholder="70" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"></div>
+                        <div><label id="lblDtiMax" class="block text-xs font-medium text-zinc-500 mb-1">최대 DTI(%)</label><input type="number" inputmode="decimal" id="maxDti" placeholder="40" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"></div>
+                    </div>
+                    <p class="text-xs text-zinc-500 leading-relaxed">LTV 한도와 DTI 한도 중 작은 값이 실제 최대 대출액으로 잡혀요. 조건별 한도가 달라 단순 추정치예요.</p>
+                    <div class="bg-zinc-50 border border-gray-200/60 rounded-2xl p-4 space-y-2.5 shadow-inner mt-2">
+                        <div class="flex justify-between items-center"><span class="text-xs text-zinc-500 font-medium">최대 대출금액</span><span id="ltvDtiValue" class="text-sm font-black text-zinc-900">—</span></div>
+                        <div class="flex justify-between items-center border-t border-gray-200/40 pt-2.5"><span class="text-xs text-zinc-500 font-medium">구성</span><span id="ltvDtiBreakdownValue" class="text-sm text-right font-bold text-zinc-800">—</span></div>
+                    </div>
+                </div>
+            </div></div>
