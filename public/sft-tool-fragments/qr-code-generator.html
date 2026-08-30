@@ -1,0 +1,20 @@
+<div id="cardsGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 relative"><div id="qrCodeCard" data-category="generator" data-tool-slug="qr-code-generator" class="expandable-card expand-transition relative z-10 block bg-white rounded-2xl border border-gray-200 shadow-sm hover:shadow-md hover:border-zinc-400 backdrop-blur-xs flex-col overflow-hidden w-full h-full max-w-lg mx-auto md:mx-0 tool-page-panel is-expanded active-panel shadow-2xl border-zinc-400 tool-panel">
+                <div class="card-content p-6 w-full">
+                    <button class="close-expanded-btn expand-close absolute top-5 right-5 text-zinc-400 hover:text-zinc-600 font-bold text-base cursor-pointer p-1 focus:outline-none" aria-label="Close generator">×</button>
+                    <div class="w-12 h-12 bg-zinc-100 rounded-xl flex items-center justify-center text-2xl mb-4">🔲</div>
+                    <h1 id="qrCodeTitle" class="text-lg font-bold text-zinc-900 mb-1">QR 코드 생성기</h1>
+                    <p id="qrCodeDesc" class="card-description text-sm text-zinc-500 overflow-hidden">텍스트·URL로 QR 코드를 만들어 미리보기와 PNG를 제공합니다.</p>
+                </div>
+                <div class="calculator-content px-6 pb-5 flex flex-col w-full transition-all duration-150 ease-out space-y-6 opacity-100 translate-y-0">
+                    <div class="grid grid-cols-1 gap-3">
+                        <div><label id="lblQrText" class="block text-xs font-medium text-zinc-500 mb-1">내용(텍스트·URL)</label><textarea id="qrText" rows="4" placeholder="https://danmaek.com" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"></textarea></div>
+                        <div><label id="lblQrSize" class="block text-xs font-medium text-zinc-500 mb-1">크기</label><select id="qrSize" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"><option value="2">작게</option><option value="4" selected>중간</option><option value="6">크게</option></select></div>
+                    </div>
+                    <p class="text-xs text-zinc-500 leading-relaxed">브라우저에서 바로 생성되며 내용이 서버로 전송되지 않습니다. 최대 약 2,000자까지 가능합니다.</p>
+                    <div class="bg-zinc-50 border border-gray-200/60 rounded-2xl p-4 space-y-3 shadow-inner mt-2">
+                        <div class="flex justify-between items-start gap-2"><span class="text-xs text-zinc-500 font-medium pt-0.5">QR 미리보기</span><div id="qrPreviewWrap" class="flex items-center justify-center min-h-[150px] text-xs text-zinc-400">내용을 입력하면 QR이 표시됩니다</div></div>
+                        <button type="button" data-qr-download class="w-full bg-zinc-900 text-white text-sm font-semibold rounded-xl px-4 py-2 hover:bg-zinc-700 transition">QR PNG 다운로드</button>
+                        <div class="flex justify-between items-center border-t border-gray-200/40 pt-2.5"><span class="text-xs text-zinc-500 font-medium">정보</span><span id="qrBreakdownValue" class="text-sm text-right font-semibold text-zinc-800">—</span></div>
+                    </div>
+                </div>
+            </div></div>

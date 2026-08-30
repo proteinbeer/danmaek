@@ -1,0 +1,23 @@
+<div id="cardsGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 relative"><div id="evVsGasCard" data-category="calculator" data-tool-slug="ev-vs-gas-comparer" class="expandable-card expand-transition relative z-10 block bg-white rounded-2xl border border-gray-200 shadow-sm hover:shadow-md hover:border-zinc-400 backdrop-blur-xs flex-col overflow-hidden w-full h-full max-w-lg mx-auto md:mx-0 tool-page-panel is-expanded active-panel shadow-2xl border-zinc-400 tool-panel">
+                <div class="card-content p-6 w-full">
+                    <button class="close-expanded-btn expand-close absolute top-5 right-5 text-zinc-400 hover:text-zinc-600 font-bold text-base cursor-pointer p-1 focus:outline-none" aria-label="Close calculator">×</button>
+                    <div class="w-12 h-12 bg-zinc-100 rounded-xl flex items-center justify-center text-2xl mb-4">⚡</div>
+                    <h1 id="evVsGasTitle" class="text-lg font-bold text-zinc-900 mb-1">전기차 vs 내연기관 비교</h1>
+                    <p id="evVsGasDesc" class="card-description text-sm text-zinc-500 overflow-hidden">주행거리 기준 연료비를 비교해 절약액을 추정합니다.</p>
+                </div>
+                <div class="calculator-content px-6 pb-5 flex flex-col w-full transition-all duration-150 ease-out space-y-6 opacity-100 translate-y-0">
+                    <div class="grid grid-cols-1 gap-3">
+                        <div><label id="lblDriveKm2" class="block text-xs font-medium text-zinc-500 mb-1">연간 주행거리(km)</label><input type="number" inputmode="numeric" id="driveKm2" placeholder="12000" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"></div>
+                        <div><label id="lblGasEff" class="block text-xs font-medium text-zinc-500 mb-1">가솔린 연비(km/L)</label><input type="number" inputmode="decimal" id="gasEff" placeholder="13" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"></div>
+                        <div><label id="lblGasPrice" class="block text-xs font-medium text-zinc-500 mb-1">휘발유 가격(원/L)</label><input type="number" inputmode="numeric" id="gasPrice" placeholder="1650" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"></div>
+                        <div><label id="lblEvEff" class="block text-xs font-medium text-zinc-500 mb-1">EV 효율(km/kWh)</label><input type="number" inputmode="decimal" id="evEff" placeholder="5.7" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"></div>
+                        <div><label id="lblEvPrice" class="block text-xs font-medium text-zinc-500 mb-1">전기 단가(원/kWh)</label><select id="evPrice" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"><option value="150">심야(가정 저속, 약 150원)</option><option value="280" selected>평균(가정·급속 혼합, 약 280원)</option><option value="350">급속(공용, 약 350원)</option></select></div>
+                    </div>
+                    <p class="text-xs text-zinc-500 leading-relaxed">연료비만 비교한 단순 추정입니다. 전기차 보험료·충전 손실·취득세·감가상각 등은 제외되어 실제 절약액은 다를 수 있습니다.</p>
+                    <div class="bg-zinc-50 border border-gray-200/60 rounded-2xl p-4 space-y-2.5 shadow-inner mt-2">
+                        <div class="flex justify-between items-center"><span class="text-xs text-zinc-500 font-medium">가솔린 연료비(연)</span><span id="egGasValue" class="text-2xl font-black text-zinc-900">—</span></div>
+                        <div class="flex justify-between items-center border-t border-gray-200/40 pt-2.5"><span class="text-xs text-zinc-500 font-medium">전기차 연료비(연)</span><span id="egEvValue" class="text-sm text-right font-black text-zinc-900">—</span></div>
+                        <div class="flex justify-between items-center border-t border-gray-200/40 pt-2.5"><span class="text-xs text-zinc-500 font-medium">절약 효과</span><span id="egBreakdownValue" class="text-sm text-right font-semibold text-zinc-800">—</span></div>
+                    </div>
+                </div>
+            </div></div>

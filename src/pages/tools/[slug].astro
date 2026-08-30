@@ -1207,6 +1207,49 @@ const breadcrumbLd = {
         <label>연봉 B(원)<input id="salB" type="number" inputmode="decimal" placeholder="50000000"></label>
         <p class="tool-form__note">1인 가구·기본공제 기준으로 월급 실수령액 계산기와 같은 방식으로 추정합니다. 부양가족·소득공제에 따라 달라질 수 있습니다.</p>
       `,
+      'national-pension': `
+        <label>총 납입 기간(년)<input id="npYears" type="number" inputmode="numeric" placeholder="20" value="20"></label>
+        <label>본인 평균 소득(월, 원)<input id="npIncome" type="number" inputmode="numeric" placeholder="3000000"></label>
+        <label>수령 시작 나이<select id="npStartAge"><option value="61">61세(조기, -24%)</option><option value="62">62세(조기, -18%)</option><option value="63">63세(조기, -12%)</option><option value="64">64세(조기, -6%)</option><option value="65" selected>65세(정상)</option><option value="66">66세(연기, +8.4%)</option><option value="67">67세(연기, +16.8%)</option><option value="68">68세(연기, +25.2%)</option><option value="69">69세(연기, +33.6%)</option><option value="70">70세(연기, +42%)</option></select></label>
+        <p class="tool-form__note">간이 추정치입니다. 소득대체율 40%(40년 가입 기준)에 납입 기간 비율을 곱하고 수령 나이에 따른 조기 감액(연 6%)·연기 증액(연 8.4%)을 반영합니다. A값 재평가·소득 상한은 미반영이라 실제와 다를 수 있습니다.</p>
+      `,
+      'url-encode': `
+        <label class="tool-form__wide">문자열<textarea id="urlText" rows="4" placeholder="https://danmaek.com/도구"></textarea></label>
+        <label>작업<select id="urlMode"><option value="encode" selected>인코딩(한글 → %XX)</option><option value="decode">디코딩(%XX → 한글)</option></select></label>
+        <p class="tool-form__note">encodeURIComponent 규칙(예약 문자 제외 대부분 인코딩)으로 변환합니다. 디코딩할 수 없는 형식이면 오류를 알려줍니다.</p>
+      `,
+      'overtime-pay': `
+        <label>시급(원)<input id="opRate" type="number" inputmode="numeric" placeholder="10030"></label>
+        <label>일 기본 근무시간(시간)<input id="opBaseHours" type="number" inputmode="numeric" placeholder="8" value="8"></label>
+        <label>주 기본 근무일<select id="opWorkDays"><option value="5" selected>5일</option><option value="6">6일</option><option value="4">4일</option></select></label>
+        <label>연장 근무(주, 시간)<input id="opOverHours" type="number" inputmode="decimal" placeholder="4"></label>
+        <label>야간 근무(주, 시간)<input id="opNightHours" type="number" inputmode="decimal" placeholder="0" value="0"></label>
+        <label>휴일 근무(주, 시간)<input id="opHolidayHours" type="number" inputmode="decimal" placeholder="0" value="0"></label>
+        <p class="tool-form__note">근로기준법 기준 연장근로 50%·야간근로(22~06시) 50% 가산을 적용한 추정치입니다. 고정 월급제·주휴수당은 미반영이며 실제 지급 기준은 회사와 계약에 따라 다릅니다.</p>
+      `,
+      'due-date': `
+        <label class="tool-form__wide">마지막 월경 시작일<input id="lastPeriod" type="date"></label>
+        <label>기준 방식<select id="dueMode"><option value="280" selected>마지막 월경일(280일)</option><option value="266">배란·수정일(266일)</option></select></label>
+        <p class="tool-form__note">Naegele 법칙에 따라 마지막 월경일(또는 수정일)에서 280일(266일)을 더해 예정일을 계산하고 오늘 기준 임신 주수를 보여줍니다. 참고용이며 정확한 주수는 의료진 진단을 따르세요.</p>
+      `,
+      'qr-code': `
+        <label class="tool-form__wide">내용(텍스트·URL)<textarea id="qrText" rows="4" placeholder="https://danmaek.com"></textarea></label>
+        <label>크기<select id="qrSize"><option value="2">작게</option><option value="4" selected>중간</option><option value="6">크게</option></select></label>
+        <p class="tool-form__note">브라우저에서 바로 생성되며 내용이 서버로 전송되지 않습니다. 최대 약 2,000자까지 가능합니다.</p>
+      `,
+      'ev-vs-gas': `
+        <label>연간 주행거리(km)<input id="driveKm2" type="number" inputmode="numeric" placeholder="12000"></label>
+        <label>가솔린 연비(km/L)<input id="gasEff" type="number" inputmode="decimal" placeholder="13"></label>
+        <label>휘발유 가격(원/L)<input id="gasPrice" type="number" inputmode="numeric" placeholder="1650"></label>
+        <label>EV 효율(km/kWh)<input id="evEff" type="number" inputmode="decimal" placeholder="5.7"></label>
+        <label>전기 단가(원/kWh)<select id="evPrice"><option value="150">심야(가정 저속, 약 150원)</option><option value="280" selected>평균(가정·급속 혼합, 약 280원)</option><option value="350">급속(공용, 약 350원)</option></select></label>
+        <p class="tool-form__note">연료비만 비교한 단순 추정입니다. 전기차 보험료·충전 손실·취득세·감가상각 등은 제외되어 실제 절약액은 다를 수 있습니다.</p>
+      `,
+      'carbon-emission': `
+        <label>이동 수단<select id="ceMode"><option value="car-gas" selected>승용차(가솔린)</option><option value="car-diesel">승용차(디젤)</option><option value="ev">승용차(전기)</option><option value="bus">시내버스</option><option value="subway">지하철·도시철도</option><option value="ktx">KTX·고속철도</option><option value="plane">항공(국내선)</option></select></label>
+        <label>이동 거리(km)<input id="ceDistance" type="number" inputmode="decimal" placeholder="50"></label>
+        <p class="tool-form__note">고속철도·버스·철도는 승객 1인당, 승용차는 차량 기준 국내 평균 배출계수(kgCO2e)를 사용한 추정치입니다. 실제 연비·탑승 인원에 따라 달라질 수 있습니다.</p>
+      `,
     };
 
     function number(id: string) {
@@ -1274,6 +1317,14 @@ const breadcrumbLd = {
       a.click();
       a.remove();
       setTimeout(() => URL.revokeObjectURL(url), 1200);
+    }
+    function dataUrlToBlob(dataUrl: string) {
+      const [header, data] = dataUrl.split(',');
+      const mime = /^data:(.*?);/.exec(header)?.[1] || 'image/png';
+      const bin = atob(data);
+      const bytes = new Uint8Array(bin.length);
+      for (let i = 0; i < bin.length; i++) bytes[i] = bin.charCodeAt(i);
+      return new Blob([bytes], { type: mime });
     }
     function loadImage(srcFile: File) {
       return new Promise<HTMLImageElement>((resolve, reject) => {
@@ -1474,6 +1525,7 @@ const breadcrumbLd = {
       const deduction = pension + health + longCare + employment + monthlyIncomeTax + localTax;
       return { net: monthlyGross - deduction, deduction };
     }
+    let qrPng = '';
     function calculate() {
       if (type === 'bmi') {
         const h = number('height') / 100;
@@ -3087,6 +3139,188 @@ const breadcrumbLd = {
         if (breakdownValue) breakdownValue.textContent = diffMonthly === 0 ? '두 연봉의 실수령이 같습니다' : `${label} 월 ${money(Math.abs(diffMonthly))} 많음`;
         show(`A ${money(netA)} · B ${money(netB)} (월 실수령)`);
       }
+      if (type === 'national-pension') {
+        const years = number('npYears');
+        const income = number('npIncome');
+        const startAge = Number((document.getElementById('npStartAge') as HTMLSelectElement | null)?.value || 65);
+        const monthValue = document.getElementById('npMonthValue');
+        const yearValue = document.getElementById('npYearValue');
+        const breakdownValue = document.getElementById('npBreakdownValue');
+        if (!years || !income) {
+          show('');
+          [monthValue, yearValue, breakdownValue].forEach((el) => { if (el) el.textContent = '—'; });
+          return;
+        }
+        const months = years * 12;
+        const ratio = Math.min(1, months / 480);
+        const adjust = startAge < 65 ? 1 - (65 - startAge) * 0.06 : startAge > 65 ? 1 + (startAge - 65) * 0.084 : 1;
+        const monthly = 0.4 * income * ratio * adjust;
+        if (monthValue) monthValue.textContent = money(monthly);
+        if (yearValue) yearValue.textContent = money(monthly * 12);
+        if (breakdownValue) breakdownValue.textContent = `가입 ${years}년(${months}개월) · 소득대체율 ${(40 * ratio).toFixed(1)}% · ${startAge}세 개시`;
+        show(`${startAge}세 개시 시 월 ${money(monthly)} (연 ${money(monthly * 12)})`);
+      }
+      if (type === 'url-encode') {
+        const text = (document.getElementById('urlText') as HTMLTextAreaElement | null)?.value || '';
+        const mode = (document.getElementById('urlMode') as HTMLSelectElement | null)?.value || 'encode';
+        const valueBox = document.getElementById('urlValue');
+        const breakdownValue = document.getElementById('urlBreakdownValue');
+        if (!text) {
+          show('');
+          if (valueBox) valueBox.textContent = '—';
+          if (breakdownValue) breakdownValue.textContent = '—';
+          return;
+        }
+        try {
+          const out = mode === 'encode' ? encodeURIComponent(text) : decodeURIComponent(text);
+          const inputSize = new Blob([text]).size;
+          const outputSize = new Blob([out]).size;
+          if (valueBox) valueBox.textContent = out;
+          if (breakdownValue) breakdownValue.textContent = mode === 'encode' ? `입력 ${inputSize}바이트 → 결과 ${outputSize}바이트` : `디코딩 완료 (${outputSize}바이트)`;
+          show(`결과: ${out}`);
+        } catch {
+          if (valueBox) valueBox.textContent = '—';
+          if (breakdownValue) breakdownValue.textContent = '디코딩할 수 없는 형식입니다';
+          show('유효한 인코딩 문자열이 아닙니다.');
+        }
+      }
+      if (type === 'overtime-pay') {
+        const rate = number('opRate');
+        const baseHours = number('opBaseHours');
+        const workDays = number('opWorkDays');
+        const overH = number('opOverHours');
+        const nightH = number('opNightHours');
+        const holiH = number('opHolidayHours');
+        const baseValue = document.getElementById('opBaseValue');
+        const totalValue = document.getElementById('opTotalValue');
+        const breakdownValue = document.getElementById('opBreakdownValue');
+        if (!rate || !baseHours) {
+          show('');
+          [baseValue, totalValue, breakdownValue].forEach((el) => { if (el) el.textContent = '—'; });
+          return;
+        }
+        const weeklyBase = baseHours * workDays;
+        const overAdd = overH * rate * 0.5;
+        const nightAdd = nightH * rate * 0.5;
+        const holiAdd = holiH * rate * 0.5;
+        const monthly = (weeklyBase * rate + overAdd + nightAdd + holiAdd) * 4.345;
+        if (baseValue) baseValue.textContent = money(weeklyBase * rate * 4.345);
+        if (totalValue) totalValue.textContent = money(monthly);
+        if (breakdownValue) breakdownValue.textContent = `연장 ${money(overAdd * 4.345)} · 야간 ${money(nightAdd * 4.345)} · 휴일 ${money(holiAdd * 4.345)} (월 가산)`;
+        show(`월 예상 급여 약 ${money(monthly)} (가산수당 포함)`);
+      }
+      if (type === 'due-date') {
+        const lastPeriodRaw = (document.getElementById('lastPeriod') as HTMLInputElement | null)?.value || '';
+        const mode = Number((document.getElementById('dueMode') as HTMLSelectElement | null)?.value || 280);
+        const weekValue = document.getElementById('ddWeekValue');
+        const dueValue = document.getElementById('ddDueValue');
+        const breakdownValue = document.getElementById('ddBreakdownValue');
+        const lmp = new Date(lastPeriodRaw);
+        if (!lastPeriodRaw || Number.isNaN(lmp.getTime())) {
+          show('');
+          [weekValue, dueValue, breakdownValue].forEach((el) => { if (el) el.textContent = '—'; });
+          return;
+        }
+        const today = new Date();
+        today.setHours(0, 0, 0, 0);
+        const dayDiff = Math.max(0, Math.floor((today.getTime() - lmp.getTime()) / 86400000));
+        const weeks = Math.floor(dayDiff / 7);
+        const days = dayDiff % 7;
+        const edd = new Date(lmp.getTime() + mode * 86400000);
+        const remaining = Math.round((edd.getTime() - today.getTime()) / 86400000);
+        if (weekValue) weekValue.textContent = remaining < 0 ? '출산 예정일 지남' : `${weeks}주 ${days}일`;
+        if (dueValue) dueValue.textContent = edd.toLocaleDateString('ko-KR');
+        if (breakdownValue) breakdownValue.textContent = remaining < 0 ? `${-remaining}일 지남 (기준 ${mode}일)` : `예정일까지 ${remaining}일 남음 (기준 ${mode}일)`;
+        if (remaining >= 0) show(`현재 임신 ${weeks}주 ${days}일 · 출산 예정일 ${edd.toLocaleDateString('ko-KR')}`);
+      }
+      if (type === 'qr-code') {
+        const text = (document.getElementById('qrText') as HTMLTextAreaElement | null)?.value || '';
+        const cellSize = Number((document.getElementById('qrSize') as HTMLSelectElement | null)?.value || 4);
+        const preview = document.getElementById('qrPreviewWrap');
+        const breakdownValue = document.getElementById('qrBreakdownValue');
+        const factory = (window as any).qrcode;
+        if (!text) {
+          qrPng = '';
+          if (preview) preview.innerHTML = '내용을 입력하면 QR이 표시됩니다';
+          if (breakdownValue) breakdownValue.textContent = '—';
+          show('');
+          return;
+        }
+        if (!factory) {
+          show('QR 라이브러리를 불러오는 중입니다. 잠시 후 다시 입력해 주세요.');
+          return;
+        }
+        try {
+          const qr = factory(0, 'M');
+          qr.addData(text);
+          qr.make();
+          if (preview) preview.innerHTML = qr.createSvgTag(cellSize, 4);
+          const count = qr.getModuleCount();
+          const canvas = document.createElement('canvas');
+          const total = count * cellSize + 8;
+          canvas.width = total;
+          canvas.height = total;
+          const ctx = canvas.getContext('2d');
+          if (ctx) {
+            ctx.fillStyle = '#ffffff';
+            ctx.fillRect(0, 0, total, total);
+            ctx.fillStyle = '#000000';
+            for (let r = 0; r < count; r++) {
+              for (let c = 0; c < count; c++) {
+                if (qr.isDark(r, c)) ctx.fillRect(4 + c * cellSize, 4 + r * cellSize, cellSize, cellSize);
+              }
+            }
+            qrPng = canvas.toDataURL('image/png');
+          } else {
+            qrPng = '';
+          }
+          if (breakdownValue) breakdownValue.textContent = `${new Blob([text]).size}바이트 · ${count}×${count} 모듈 · 오류복원 M`;
+          show(`QR 코드를 생성했습니다. PNG 다운로드 버튼으로 저장하세요.`);
+        } catch {
+          qrPng = '';
+          show('QR 생성 실패: 내용이 너무 길어 QR로 표현할 수 없습니다.');
+        }
+      }
+      if (type === 'ev-vs-gas') {
+        const km = number('driveKm2');
+        const gasEff = number('gasEff');
+        const gasPrice = number('gasPrice');
+        const evEff = number('evEff');
+        const evPrice = number('evPrice');
+        const gasValue = document.getElementById('egGasValue');
+        const evValue = document.getElementById('egEvValue');
+        const breakdownValue = document.getElementById('egBreakdownValue');
+        if (!km || !gasEff || !gasPrice || !evEff) {
+          show('');
+          [gasValue, evValue, breakdownValue].forEach((el) => { if (el) el.textContent = '—'; });
+          return;
+        }
+        const gas = km / gasEff * gasPrice;
+        const ev = km / evEff * evPrice;
+        const save = gas - ev;
+        const pct = gas > 0 ? save / gas * 100 : 0;
+        if (gasValue) gasValue.textContent = money(gas);
+        if (evValue) evValue.textContent = money(ev);
+        if (breakdownValue) breakdownValue.textContent = save > 0 ? `연 ${money(save)} 절약 (−${pct.toFixed(1)}%) · 5년 ${money(save * 5)}` : save < 0 ? `연 ${money(-save)} 더 비쌈 (+${(-pct).toFixed(1)}%)` : '두 차량의 연료비가 같습니다';
+        show(`가솔린 ${money(gas)} · 전기차 ${money(ev)} (연간 연료비)`);
+      }
+      if (type === 'carbon-emission') {
+        const mode = (document.getElementById('ceMode') as HTMLSelectElement | null)?.value || 'car-gas';
+        const dist = number('ceDistance');
+        const valueBox = document.getElementById('ceValue');
+        const breakdownValue = document.getElementById('ceBreakdownValue');
+        const factor = ({ 'car-gas': 0.216, 'car-diesel': 0.245, ev: 0.088, bus: 0.116, subway: 0.039, ktx: 0.026, plane: 0.148 } as Record<string, number>)[mode] ?? 0.216;
+        if (!dist) {
+          show('');
+          if (valueBox) valueBox.textContent = '—';
+          if (breakdownValue) breakdownValue.textContent = '—';
+          return;
+        }
+        const kg = factor * dist;
+        if (valueBox) valueBox.textContent = `${kg.toFixed(1)} kg`;
+        if (breakdownValue) breakdownValue.textContent = `${dist.toLocaleString('ko-KR')}km · 소나무 약 ${(kg / 6.6).toFixed(1)}그루가 1년간 흡수하는 양 (인당 ${factor.toFixed(3)}kg/km)`;
+        show(`${dist.toLocaleString('ko-KR')}km 이동 시 탄소배출 약 ${kg.toFixed(1)}kgCO2e`);
+      }
     }
 
     form?.addEventListener('input', () => {
@@ -3110,6 +3344,17 @@ const breadcrumbLd = {
       });
     }
     form?.querySelector('[data-lotto-button]')?.addEventListener('click', () => calculate());
+    form?.addEventListener('click', (event) => {
+      const target = event.target as HTMLElement;
+      if (!target.closest('[data-qr-download]')) return;
+      if (!qrPng) return show('먼저 내용을 입력해 QR 코드를 만드세요.');
+      try {
+        downloadBlob(dataUrlToBlob(qrPng), 'danmaek-qr.png');
+        show('QR 코드 PNG를 다운로드했습니다.');
+      } catch {
+        show('다운로드에 실패했습니다.');
+      }
+    });
     form?.querySelector('[data-file-action]')?.addEventListener('click', async () => {
       const selected = file();
       if (!selected) return show('');

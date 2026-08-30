@@ -617,5 +617,12 @@
     ],
     "config": "window.SFT_TOOL_PAGE = { cardId: \"imageFilterCard\", slug: \"image-filter-tool\", title: \"Image Filter Tool\" }",
     "sourceTitle": "Image Filter Tool"
+  },
+  "qr-code-generator": {
+    "scripts": [
+      "https://cdn.jsdelivr.net/npm/qrcode-generator@1.4.4/qrcode.min.js"
+    ],
+    "config": "window.SFT_TOOL_PAGE = { cardId: \"qrCodeCard\", slug: \"qr-code-generator\", title: \"QR Code Generator\" }",
+    "sourceTitle": "QR Code Generator"
   }
 }

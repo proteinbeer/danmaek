@@ -1,0 +1,19 @@
+<div id="cardsGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 relative"><div id="urlEncodeCard" data-category="calculator" data-tool-slug="url-encode-decoder" class="expandable-card expand-transition relative z-10 block bg-white rounded-2xl border border-gray-200 shadow-sm hover:shadow-md hover:border-zinc-400 backdrop-blur-xs flex-col overflow-hidden w-full h-full max-w-lg mx-auto md:mx-0 tool-page-panel is-expanded active-panel shadow-2xl border-zinc-400 tool-panel">
+                <div class="card-content p-6 w-full">
+                    <button class="close-expanded-btn expand-close absolute top-5 right-5 text-zinc-400 hover:text-zinc-600 font-bold text-base cursor-pointer p-1 focus:outline-none" aria-label="Close converter">×</button>
+                    <div class="w-12 h-12 bg-zinc-100 rounded-xl flex items-center justify-center text-2xl mb-4">🔗</div>
+                    <h1 id="urlEncodeTitle" class="text-lg font-bold text-zinc-900 mb-1">URL 인코더·디코더</h1>
+                    <p id="urlEncodeDesc" class="card-description text-sm text-zinc-500 overflow-hidden">한글 문자열을 URL 인코딩하거나 인코딩된 URL을 복원합니다.</p>
+                </div>
+                <div class="calculator-content px-6 pb-5 flex flex-col w-full transition-all duration-150 ease-out space-y-6 opacity-100 translate-y-0">
+                    <div class="grid grid-cols-1 gap-3">
+                        <div><label id="lblUrlText" class="block text-xs font-medium text-zinc-500 mb-1">문자열</label><textarea id="urlText" rows="4" placeholder="https://danmaek.com/도구" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"></textarea></div>
+                        <div><label id="lblUrlMode" class="block text-xs font-medium text-zinc-500 mb-1">작업</label><select id="urlMode" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"><option value="encode" selected>인코딩(한글 → %XX)</option><option value="decode">디코딩(%XX → 한글)</option></select></div>
+                    </div>
+                    <p class="text-xs text-zinc-500 leading-relaxed">encodeURIComponent 규칙(예약 문자 제외 대부분 인코딩)으로 변환합니다. 디코딩할 수 없는 형식이면 오류를 알려줍니다.</p>
+                    <div class="bg-zinc-50 border border-gray-200/60 rounded-2xl p-4 space-y-2.5 shadow-inner mt-2">
+                        <div class="flex justify-between items-start gap-2"><span class="text-xs text-zinc-500 font-medium pt-0.5">결과</span><span id="urlValue" class="text-xs text-right font-mono font-semibold break-all text-zinc-900">—</span></div>
+                        <div class="flex justify-between items-center border-t border-gray-200/40 pt-2.5"><span class="text-xs text-zinc-500 font-medium">정보</span><span id="urlBreakdownValue" class="text-sm text-right font-semibold text-zinc-800">—</span></div>
+                    </div>
+                </div>
+            </div></div>

@@ -119,7 +119,14 @@ export type Tool = {
       | 'unit-price'
       | 'health-age'
       | 'car-ownership'
-      | 'salary-compare';
+      | 'salary-compare'
+      | 'national-pension'
+      | 'url-encode'
+      | 'overtime-pay'
+      | 'due-date'
+      | 'qr-code'
+      | 'ev-vs-gas'
+      | 'carbon-emission';
 };
 
 export const TOOLS: Tool[] = [
@@ -270,4 +277,11 @@ export const TOOLS: Tool[] = [
   { slug: 'health-age-calculator', title: '건강나이 계산기', description: '생활습관을 반영해 내 건강나이를 추정해 봅니다', category: '건강', icon: '🩺', type: 'health-age' },
   { slug: 'car-ownership-cost-calculator', title: '자동차 유지비 계산기', description: '연료·보험·세금·주차를 포함한 연간 유지비 총액을 계산합니다', category: '금융', icon: '💸', type: 'car-ownership' },
   { slug: 'salary-net-compare-calculator', title: '연봉 실수령 비교 계산기', description: '두 연봉의 월 실수령액과 차이를 비교합니다', category: '취업', icon: '⚖️', type: 'salary-compare' },
+  { slug: 'national-pension-calculator', title: '국민연금 예상 수령액 계산기', description: '납입 기간과 소득으로 국민연금 월 수령액을 추정합니다', category: '금융', icon: '🏦', type: 'national-pension' },
+  { slug: 'url-encode-decoder', title: 'URL 인코더·디코더', description: '한글 문자열을 URL 인코딩하거나 인코딩된 URL을 복원합니다', category: 'IT', icon: '🔗', type: 'url-encode' },
+  { slug: 'overtime-pay-calculator', title: '야간·연장 수당 계산기', description: '연장·야간·휴일 근무의 가산수당을 계산합니다', category: '취업', icon: '🌙', type: 'overtime-pay' },
+  { slug: 'due-date-calculator', title: '출산 예정일 계산기', description: '마지막 월경일로 현재 임신 주수와 출산 예정일을 계산합니다', category: '생활', icon: '🤰', type: 'due-date' },
+  { slug: 'qr-code-generator', title: 'QR 코드 생성기', description: '텍스트·URL로 QR 코드를 만들어 미리보기와 PNG를 제공합니다', category: 'IT', icon: '🔲', type: 'qr-code' },
+  { slug: 'ev-vs-gas-comparer', title: '전기차 vs 내연기관 비교', description: '주행거리 기준 연료비를 비교해 절약액을 추정합니다', category: '금융', icon: '⚡', type: 'ev-vs-gas' },
+  { slug: 'carbon-emission-calculator', title: '이동수단 탄소배출량 계산기', description: '수단별 이동 거리로 탄소배출량을 추정합니다', category: '생활', icon: '🌱', type: 'carbon-emission' },
 ];
