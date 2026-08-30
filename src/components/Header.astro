@@ -4,9 +4,8 @@ const path = Astro.url.pathname;
 <header class="site-header">
   <div class="container site-header__inner">
     <a class="brand" href="/" aria-label="단맥 홈">
-      <img class="brand-mark" src="/assets/danmaek-logo.png" alt="" aria-hidden="true" width="40" height="40" />
-      <span class="brand-copy">
-        <strong>DANMAEK</strong>
+      <span class="brand-mark" aria-hidden="true">
+        <img src="/assets/danmaek-logo.png" alt="" width="40" height="40" />
       </span>
     </a>
     <nav class="nav" aria-label="주요 메뉴">
@@ -15,10 +14,7 @@ const path = Astro.url.pathname;
       <a href="/tools/" aria-current={path.startsWith('/tools/') ? 'page' : undefined}>도구</a>
     </nav>
     <a class={`button-link header-search`} href="/search/" aria-label="검색" aria-current={path.startsWith('/search/') ? 'page' : undefined}>
-      <svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-        <circle cx="11" cy="11" r="7"></circle>
-        <path d="m20 20-3.8-3.8"></path>
-      </svg>
+      <img src="/assets/search.png" alt="" aria-hidden="true" width="26" height="26" />
     </a>
   </div>
 </header>

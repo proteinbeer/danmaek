@@ -84,7 +84,34 @@ export type Tool = {
       | 'activity-calorie'
       | 'heart-rate'
       | 'zodiac'
-      | 'name-score';
+      | 'name-score'
+      | 'work-hours'
+      | 'appliance'
+      | 'oven-temp'
+      | 'dividend'
+      | 'lotto'
+      | 'heat-index'
+      | 'weekly-allowance'
+      | 'cbm'
+      | 'ev-charging'
+      | 'capital-gains'
+      | 'macro'
+      | 'customs-duty'
+      | 'regex-tester'
+      | 'json-format'
+      | 'anniversary'
+      | 'lang-switch'
+      | 'measure'
+      | 'car-tax'
+      | 'text-base64'
+      | 'gacha-cost'
+      | 'sleep'
+      | 'book-read'
+      | 'json-csv'
+      | 'sha-hash'
+      | 'steps-kcal'
+      | 'weight-goal'
+      | 'romanize';
 };
 
 export const TOOLS: Tool[] = [
@@ -200,4 +227,31 @@ export const TOOLS: Tool[] = [
   { slug: 'heart-rate-zone-calculator', title: '목표 심박수 존 계산기', description: '나이로 최대심박수와 운동 강도별 목표 심박수를 계산합니다', category: '건강', icon: '❤️', type: 'heart-rate' },
   { slug: 'zodiac-sign-calculator', title: '별자리·띠 계산기', description: '생년월일로 별자리, 띠, 만 나이를 확인합니다', category: '재미', icon: '🌟', type: 'zodiac' },
   { slug: 'name-score-calculator', title: '이름 점수 계산기', description: '이름 글자 값을 더해 재미있는 이름 점수를 매깁니다', category: '재미', icon: '🔮', type: 'name-score' },
+  { slug: 'work-hours-calculator', title: '근무 시간 계산기', description: '출근·퇴근·휴게시간으로 하루 근무시간을 계산합니다', category: '취업', icon: '🕘', type: 'work-hours' },
+  { slug: 'appliance-power-cost-calculator', title: '가전 전기요금 계산기', description: '제품 소비전력과 사용시간으로 월 전기요금 기여액을 추정합니다', category: '생활', icon: '🔌', type: 'appliance' },
+  { slug: 'oven-temperature-converter', title: '오븐 온도 변환기', description: '오븐 온도를 섭씨·화씨·가스마크로 변환합니다', category: '요리', icon: '🍳', type: 'oven-temp' },
+  { slug: 'dividend-calculator', title: '배당금 계산기', description: '보유 주식과 주당 배당으로 연 배당금과 수익률을 계산합니다', category: '투자', icon: '🧧', type: 'dividend' },
+  { slug: 'lotto-number-generator', title: '로또 번호 생성기', description: '1부터 원하는 범위에서 중복 없는 로또 번호를 추첨합니다', category: '랜덤', icon: '🎰', type: 'lotto' },
+  { slug: 'heat-index-calculator', title: '체감온도·열지수 계산기', description: '기온과 습도로 열지수(체감온도)를 계산합니다', category: '생활', icon: '☀️', type: 'heat-index' },
+  { slug: 'weekly-allowance-calculator', title: '주휴수당 계산기', description: '시급과 근무시간으로 주휴수당과 예상 월급을 계산합니다', category: '취업', icon: '⏰', type: 'weekly-allowance' },
+  { slug: 'cbm-calculator', title: '부피·무게(CBM) 계산기', description: '박스 크기와 수량으로 CBM과 항공 부피무게를 계산합니다', category: '쇼핑', icon: '📦', type: 'cbm' },
+  { slug: 'ev-charging-cost-calculator', title: '전기차 충전비 계산기', description: '배터리 용량과 전기 단가로 충전 비용을 추정합니다', category: '생활', icon: '🔋', type: 'ev-charging' },
+  { slug: 'capital-gains-tax-calculator', title: '양도소득세 계산기', description: '주택을 팔 때 양도소득세와 실제 손에 남는 금액을 추정합니다', category: '금융', icon: '📑', type: 'capital-gains' },
+  { slug: 'macro-nutrient-calculator', title: '탄단지 계산기', description: '기초대사량과 활동량으로 하루 탄수화물·단백질·지방 권장량을 계산합니다', category: '건강', icon: '🥗', type: 'macro' },
+  { slug: 'customs-duty-calculator', title: '해외직구 관부가세 계산기', description: '상품가와 배송비로 관세와 부가세를 추정합니다', category: '쇼핑', icon: '📬', type: 'customs-duty' },
+  { slug: 'regex-tester', title: '정규식 테스터', description: '패턴과 텍스트를 넣고 매치 결과를 바로 확인합니다', category: 'IT', icon: '🔍', type: 'regex-tester' },
+  { slug: 'json-formatter', title: 'JSON 포맷터', description: 'JSON을 정렬하거나 축소하고 문법 오류를 확인합니다', category: 'IT', icon: '📋', type: 'json-format' },
+  { slug: 'anniversary-calculator', title: '기념일 계산기', description: '기준 날짜로 100일, 1주년 같은 기념일을 계산합니다', category: '생활', icon: '💝', type: 'anniversary' },
+  { slug: 'hangul-english-typo-converter', title: '한/영 오타 변환기', description: '영문 자판으로 친 한글 오타를 되돌리거나 반대로 변환합니다', category: '재미', icon: '🔤', type: 'lang-switch' },
+  { slug: 'cooking-measure-converter', title: '요리 계량 변환기', description: '큰술·작은술·컵·ml를 재료별 그램으로 환산합니다', category: '요리', icon: '🥄', type: 'measure' },
+  { slug: 'car-acquisition-tax-calculator', title: '차량 취·등록세 계산기', description: '차량 가격과 차급으로 취득세와 교육세를 추정합니다', category: '금융', icon: '🚗', type: 'car-tax' },
+  { slug: 'text-base64-converter', title: '텍스트→Base64 변환기', description: 'UTF-8 텍스트를 Base64로 인코딩·디코딩합니다', category: 'IT', icon: '🔡', type: 'text-base64' },
+  { slug: 'gacha-expected-cost-calculator', title: '가챠 기대 비용 계산기', description: '확률과 1회 비용으로 목표 달성에 필요한 시도 횟수를 추정합니다', category: '게임', icon: '💎', type: 'gacha-cost' },
+  { slug: 'sleep-cycle-calculator', title: '수면 사이클 계산기', description: '기상 시간 기준 90분 주기로 권장 취침 시간을 계산합니다', category: '건강', icon: '😴', type: 'sleep' },
+  { slug: 'book-finish-time-calculator', title: '독서 완독 시간 계산기', description: '쪽수와 읽기 속도로 완독 예상 시각을 계산합니다', category: '생활', icon: '📖', type: 'book-read' },
+  { slug: 'json-csv-converter', title: 'JSON→CSV 변환기', description: 'JSON 배열을 CSV로, CSV를 JSON으로 변환합니다', category: 'IT', icon: '🔁', type: 'json-csv' },
+  { slug: 'sha256-hash-generator', title: 'SHA-256 해시 생성기', description: 'SHA-1/256/384/512 해시를 브라우저에서 생성합니다', category: 'IT', icon: '🛡️', type: 'sha-hash' },
+  { slug: 'steps-kcal-calculator', title: '걸음 칼로리 계산기', description: '걸음 수로 이동 거리와 소모 칼로리를 추정합니다', category: '건강', icon: '🚶', type: 'steps-kcal' },
+  { slug: 'weight-loss-goal-calculator', title: '감량 목표일 계산기', description: '체중과 주간 감량 속도로 목표 달성 예상일을 계산합니다', category: '건강', icon: '⚖️', type: 'weight-goal' },
+  { slug: 'hangul-romanizer', title: '한글 로마자 변환기', description: '한글 문장을 국어의 로마자 표기법으로 변환합니다', category: '재미', icon: '🆎', type: 'romanize' },
 ];
