@@ -1,0 +1,20 @@
+<div id="cardsGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 relative"><div id="salaryCompareCard" data-category="calculator" data-tool-slug="salary-net-compare-calculator" class="expandable-card expand-transition relative z-10 block bg-white rounded-2xl border border-gray-200 shadow-sm hover:shadow-md hover:border-zinc-400 backdrop-blur-xs flex-col overflow-hidden w-full h-full max-w-lg mx-auto md:mx-0 tool-page-panel is-expanded active-panel shadow-2xl border-zinc-400 tool-panel">
+                <div class="card-content p-6 w-full">
+                    <button class="close-expanded-btn expand-close absolute top-5 right-5 text-zinc-400 hover:text-zinc-600 font-bold text-base cursor-pointer p-1 focus:outline-none" aria-label="Close calculator">×</button>
+                    <div class="w-12 h-12 bg-zinc-100 rounded-xl flex items-center justify-center text-2xl mb-4">⚖️</div>
+                    <h1 id="salaryCompareTitle" class="text-lg font-bold text-zinc-900 mb-1">연봉 실수령 비교 계산기</h1>
+                    <p id="salaryCompareDesc" class="card-description text-sm text-zinc-500 overflow-hidden">두 연봉의 월 실수령액과 차이를 비교합니다.</p>
+                </div>
+                <div class="calculator-content px-6 pb-5 flex flex-col w-full transition-all duration-150 ease-out space-y-6 opacity-100 translate-y-0">
+                    <div class="grid grid-cols-1 gap-3">
+                        <div><label id="lblSalA" class="block text-xs font-medium text-zinc-500 mb-1">연봉 A(원)</label><input type="number" inputmode="decimal" id="salA" placeholder="42000000" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"></div>
+                        <div><label id="lblSalB" class="block text-xs font-medium text-zinc-500 mb-1">연봉 B(원)</label><input type="number" inputmode="decimal" id="salB" placeholder="50000000" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"></div>
+                    </div>
+                    <p class="text-xs text-zinc-500 leading-relaxed">1인 가구·기본공제 기준으로 월급 실수령액 계산기와 같은 방식으로 추정한 값입니다. 부양가족·소득공제에 따라 달라질 수 있습니다.</p>
+                    <div class="bg-zinc-50 border border-gray-200/60 rounded-2xl p-4 space-y-2.5 shadow-inner mt-2">
+                        <div class="flex justify-between items-center"><span class="text-xs text-zinc-500 font-medium">A 월 실수령</span><span id="scAValue" class="text-2xl font-black text-zinc-900">—</span></div>
+                        <div class="flex justify-between items-center border-t border-gray-200/40 pt-2.5"><span class="text-xs text-zinc-500 font-medium">B 월 실수령</span><span id="scBValue" class="text-sm text-right font-black text-zinc-900">—</span></div>
+                        <div class="flex justify-between items-center border-t border-gray-200/40 pt-2.5"><span class="text-xs text-zinc-500 font-medium">비교 결과</span><span id="scBreakdownValue" class="text-sm text-right font-bold text-zinc-800">—</span></div>
+                    </div>
+                </div>
+            </div></div>

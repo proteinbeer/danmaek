@@ -1,0 +1,25 @@
+<div id="cardsGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 relative"><div id="healthAgeCard" data-category="calculator" data-tool-slug="health-age-calculator" class="expandable-card expand-transition relative z-10 block bg-white rounded-2xl border border-gray-200 shadow-sm hover:shadow-md hover:border-zinc-400 backdrop-blur-xs flex-col overflow-hidden w-full h-full max-w-lg mx-auto md:mx-0 tool-page-panel is-expanded active-panel shadow-2xl border-zinc-400 tool-panel">
+                <div class="card-content p-6 w-full">
+                    <button class="close-expanded-btn expand-close absolute top-5 right-5 text-zinc-400 hover:text-zinc-600 font-bold text-base cursor-pointer p-1 focus:outline-none" aria-label="Close calculator">×</button>
+                    <div class="w-12 h-12 bg-zinc-100 rounded-xl flex items-center justify-center text-2xl mb-4">🩺</div>
+                    <h1 id="healthAgeTitle" class="text-lg font-bold text-zinc-900 mb-1">건강나이 계산기</h1>
+                    <p id="healthAgeDesc" class="card-description text-sm text-zinc-500 overflow-hidden">생활습관을 반영해 내 건강나이를 추정해 봅니다.</p>
+                </div>
+                <div class="calculator-content px-6 pb-5 flex flex-col w-full transition-all duration-150 ease-out space-y-6 opacity-100 translate-y-0">
+                    <div class="grid grid-cols-1 gap-3">
+                        <div><label id="lblHaAge" class="block text-xs font-medium text-zinc-500 mb-1">실제 나이</label><input type="number" inputmode="numeric" id="haAge" placeholder="30" value="30" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"></div>
+                        <div><label id="lblHaGender" class="block text-xs font-medium text-zinc-500 mb-1">성별</label><select id="haGender" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"><option value="male" selected>남성</option><option value="female">여성</option></select></div>
+                        <div><label id="lblHaExercise" class="block text-xs font-medium text-zinc-500 mb-1">주당 운동 횟수</label><select id="haExercise" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"><option value="0">거의 없음</option><option value="1">1~2회</option><option value="2" selected>3~4회</option><option value="3">5회 이상</option></select></div>
+                        <div><label id="lblHaSleep" class="block text-xs font-medium text-zinc-500 mb-1">하루 수면 시간</label><select id="haSleep" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"><option value="1">5시간 미만</option><option value="2" selected>6~8시간</option><option value="3">9시간 이상</option></select></div>
+                        <div><label id="lblHaSmoke" class="block text-xs font-medium text-zinc-500 mb-1">흡연</label><select id="haSmoke" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"><option value="0" selected>안 함</option><option value="1">흡연</option></select></div>
+                        <div><label id="lblHaAlcohol" class="block text-xs font-medium text-zinc-500 mb-1">음주 빈도</label><select id="haAlcohol" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"><option value="0" selected>거의 안 함</option><option value="1">주 1~2회</option><option value="2">주 3회 이상</option></select></div>
+                        <div><label id="lblHaStress" class="block text-xs font-medium text-zinc-500 mb-1">스트레스</label><select id="haStress" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"><option value="0">낮음</option><option value="1" selected>보통</option><option value="2">높음</option></select></div>
+                    </div>
+                    <p class="text-xs text-zinc-500 leading-relaxed">운동·수면·흡연·음주·스트레스를 점수화한 재미·참고용 추정으로, 의학적 판단을 대체하지 않습니다.</p>
+                    <div class="bg-zinc-50 border border-gray-200/60 rounded-2xl p-4 space-y-2.5 shadow-inner mt-2">
+                        <div class="flex justify-between items-center"><span class="text-xs text-zinc-500 font-medium">건강나이</span><span id="haAgeValue" class="text-2xl font-black text-zinc-900">—</span></div>
+                        <div class="flex justify-between items-center border-t border-gray-200/40 pt-2.5"><span class="text-xs text-zinc-500 font-medium">차이</span><span id="haDiffValue" class="text-sm text-right font-black text-zinc-900">—</span></div>
+                        <div class="flex justify-between items-center border-t border-gray-200/40 pt-2.5"><span class="text-xs text-zinc-500 font-medium">조정</span><span id="haBreakdownValue" class="text-sm text-right font-bold text-zinc-800">—</span></div>
+                    </div>
+                </div>
+            </div></div>

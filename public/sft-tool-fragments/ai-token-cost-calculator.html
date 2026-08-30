@@ -1,0 +1,21 @@
+<div id="cardsGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 relative"><div id="aiTokenCard" data-category="calculator" data-tool-slug="ai-token-cost-calculator" class="expandable-card expand-transition relative z-10 block bg-white rounded-2xl border border-gray-200 shadow-sm hover:shadow-md hover:border-zinc-400 backdrop-blur-xs flex-col overflow-hidden w-full h-full max-w-lg mx-auto md:mx-0 tool-page-panel is-expanded active-panel shadow-2xl border-zinc-400 tool-panel">
+                <div class="card-content p-6 w-full">
+                    <button class="close-expanded-btn expand-close absolute top-5 right-5 text-zinc-400 hover:text-zinc-600 font-bold text-base cursor-pointer p-1 focus:outline-none" aria-label="Close calculator">×</button>
+                    <div class="w-12 h-12 bg-zinc-100 rounded-xl flex items-center justify-center text-2xl mb-4">🤖</div>
+                    <h1 id="aiTokenTitle" class="text-lg font-bold text-zinc-900 mb-1">AI 토큰·비용 계산기</h1>
+                    <p id="aiTokenDesc" class="card-description text-sm text-zinc-500 overflow-hidden">프롬프트 텍스트로 대략적인 토큰 수와 API 비용을 추정합니다.</p>
+                </div>
+                <div class="calculator-content px-6 pb-5 flex flex-col w-full transition-all duration-150 ease-out space-y-6 opacity-100 translate-y-0">
+                    <div class="grid grid-cols-1 gap-3">
+                        <div><label id="lblAiText" class="block text-xs font-medium text-zinc-500 mb-1">프롬프트 텍스트</label><textarea id="aiText" rows="6" placeholder="AI 프롬프트를 붙여넣으세요." class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"></textarea></div>
+                        <div><label id="lblAiModel" class="block text-xs font-medium text-zinc-500 mb-1">AI 모델</label><select id="aiModel" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"><option value="gpt" selected>GPT-4o급($2.5/$10)</option><option value="claude">Claude 3.5급($3/$15)</option><option value="gemini">Gemini Flash급($0.1/$0.4)</option></select></div>
+                        <div><label id="lblAiOutRatio" class="block text-xs font-medium text-zinc-500 mb-1">응답 길이(입력의 배수)</label><input type="number" inputmode="decimal" id="aiOutRatio" placeholder="1" value="1" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"></div>
+                    </div>
+                    <p class="text-xs text-zinc-500 leading-relaxed">단가(USD/1M 토큰)는 입력/출력 각각 GPT-4o급 2.5/10, Claude급 3/15, Gemini Flash급 0.1/0.4로 가정했습니다. 한글·영문 글자 기반의 근사 토큰 수이며 실제 토크나이저와 다를 수 있습니다.</p>
+                    <div class="bg-zinc-50 border border-gray-200/60 rounded-2xl p-4 space-y-2.5 shadow-inner mt-2">
+                        <div class="flex justify-between items-center"><span class="text-xs text-zinc-500 font-medium">예상 토큰 수</span><span id="aiTokenValue" class="text-2xl font-black text-zinc-900">—</span></div>
+                        <div class="flex justify-between items-center border-t border-gray-200/40 pt-2.5"><span class="text-xs text-zinc-500 font-medium">예상 비용(USD)</span><span id="aiTokenCostValue" class="text-sm text-right font-black text-zinc-900">—</span></div>
+                        <div class="flex justify-between items-center border-t border-gray-200/40 pt-2.5"><span class="text-xs text-zinc-500 font-medium">비용 내역</span><span id="aiTokenBreakdownValue" class="text-sm text-right font-bold text-zinc-800">—</span></div>
+                    </div>
+                </div>
+            </div></div>

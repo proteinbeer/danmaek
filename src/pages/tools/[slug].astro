@@ -1146,6 +1146,67 @@ const breadcrumbLd = {
         <label>기준<select id="romanStandard"><option value="revised" selected>국어의 로마자 표기법</option><option value="mccune">매큔-라이샤워</option></select></label>
         <p class="tool-form__note">국어의 로마자 표기법(2000년 제정) 기준으로 변환합니다.</p>
       `,
+      'ai-token': `
+        <label class="tool-form__wide">프롬프트 텍스트<textarea id="aiText" rows="6" placeholder="AI 프롬프트를 붙여넣으세요."></textarea></label>
+        <label>AI 모델<select id="aiModel"><option value="gpt" selected>GPT-4o급($2.5/$10)</option><option value="claude">Claude 3.5급($3/$15)</option><option value="gemini">Gemini Flash급($0.1/$0.4)</option></select></label>
+        <label>응답 길이(입력의 배수)<input id="aiOutRatio" type="number" inputmode="decimal" placeholder="1" value="1"></label>
+        <p class="tool-form__note">단가(USD/1M 토큰)는 GPT-4o급 2.5/10, Claude 급 3/15, Gemini Flash급 0.1/0.4로 추정합니다. 한글·영문 글자 기반 근사 토큰 수라 실제 토크나이저와 다를 수 있습니다.</p>
+      `,
+      'youth-account': `
+        <label>월 납입액(원)<input id="savingAmount" type="number" inputmode="decimal" placeholder="700000" value="700000"></label>
+        <label>연 소득 구간<select id="incomeBand"><option value="2400">2,400만 원 이하</option><option value="6000" selected>2,400만 원 초과~6,000만 원 이하</option><option value="7500">6,000만 원 초과~7,500만 원 이하</option></select></label>
+        <label>가입 기간(년)<input id="savingYears" type="number" inputmode="numeric" placeholder="5" value="5"></label>
+        <p class="tool-form__note">납입한도 월 70만 원 기준, 정부 기여금은 소득 구간별 6%(월 최대 3.6만 원)·4.5%(2.4만 원)·3%(1.6만 원)로 가정합니다. 이자는 미반영 추정치입니다.</p>
+      `,
+      'car-tax-annual': `
+        <label>배기량(cc)<input id="engineCc" type="number" inputmode="numeric" placeholder="1999"></label>
+        <label>차령(년)<input id="carYears" type="number" inputmode="numeric" placeholder="3" value="3"></label>
+        <label>연납 할인<select id="carAnnualPay"><option value="0" selected>적용 안 함(분납)</option><option value="1">1월 연납(10% 할인)</option></select></label>
+        <p class="tool-form__note">비영업용 승용차 기준, 배기량 구간(1,000cc 이하 80원·1,600cc 이하 140원·초과 200원/cc)에 지방교육세 30%를 더합니다. 차령 3년 초과부터 매년 5% 감면(최대 50%)됩니다.</p>
+      `,
+      'pet-cost': `
+        <label>반려동물<select id="petKind"><option value="dog" selected>강아지</option><option value="cat">고양이</option></select></label>
+        <label>월 사료비(원)<input id="foodCost" type="number" inputmode="decimal" placeholder="50000"></label>
+        <label>월 간식·용품비(원)<input id="snackCost" type="number" inputmode="decimal" placeholder="20000"></label>
+        <label>월 병원·미용비(원)<input id="medCost" type="number" inputmode="decimal" placeholder="30000"></label>
+        <label>보험료(월, 원)<input id="insCost" type="number" inputmode="decimal" placeholder="20000"></label>
+        <label>기타(월, 원)<input id="etcCost" type="number" inputmode="decimal" placeholder="10000"></label>
+        <p class="tool-form__note">월 비용 합계를 연간·5년으로 환산한 추정치입니다. 병원비 등 변동성이 커 실제와 다를 수 있습니다.</p>
+      `,
+      'unit-price': `
+        <label>상품 A 가격(원)<input id="priceA" type="number" inputmode="decimal" placeholder="9900"></label>
+        <label>상품 A 용량<input id="amountA" type="number" inputmode="decimal" placeholder="500"></label>
+        <label>상품 B 가격(원)<input id="priceB" type="number" inputmode="decimal" placeholder="14900"></label>
+        <label>상품 B 용량<input id="amountB" type="number" inputmode="decimal" placeholder="1000"></label>
+        <label>용량 단위<select id="upUnit"><option value="g" selected>g</option><option value="ml">mL</option><option value="ea">개</option><option value="장">장</option><option value="회">회</option></select></label>
+        <p class="tool-form__note">가격을 용량으로 나눈 단위가격(원/단위)을 비교해 어느 쪽이 저렴한지 판단합니다.</p>
+      `,
+      'health-age': `
+        <label>실제 나이<input id="haAge" type="number" inputmode="numeric" placeholder="30" value="30"></label>
+        <label>성별<select id="haGender"><option value="male" selected>남성</option><option value="female">여성</option></select></label>
+        <label>주당 운동 횟수<select id="haExercise"><option value="0">거의 없음</option><option value="1">1~2회</option><option value="2" selected>3~4회</option><option value="3">5회 이상</option></select></label>
+        <label>하루 수면 시간<select id="haSleep"><option value="1">5시간 미만</option><option value="2" selected>6~8시간</option><option value="3">9시간 이상</option></select></label>
+        <label>흡연<select id="haSmoke"><option value="0" selected>안 함</option><option value="1">흡연</option></select></label>
+        <label>음주 빈도<select id="haAlcohol"><option value="0" selected>거의 안 함</option><option value="1">주 1~2회</option><option value="2">주 3회 이상</option></select></label>
+        <label>스트레스<select id="haStress"><option value="0">낮음</option><option value="1" selected>보통</option><option value="2">높음</option></select></label>
+        <p class="tool-form__note">운동·수면·흡연·음주·스트레스를 점수화한 재미·참고용 추정입니다. 의학적 판단을 대체하지 않습니다.</p>
+      `,
+      'car-ownership': `
+        <label>연간 주행거리(km)<input id="driveKm" type="number" inputmode="decimal" placeholder="12000"></label>
+        <label>연비(km/L)<input id="fuelEfficiency" type="number" inputmode="decimal" placeholder="12"></label>
+        <label>유가(원/L)<input id="fuelPrice" type="number" inputmode="decimal" placeholder="1700"></label>
+        <label>연간 보험료(원)<input id="insPerYear" type="number" inputmode="decimal" placeholder="900000"></label>
+        <label>연간 자동차세(원)<input id="taxPerYear" type="number" inputmode="decimal" placeholder="400000"></label>
+        <label>연간 정비·수리비(원)<input id="maintPerYear" type="number" inputmode="decimal" placeholder="300000"></label>
+        <label>월 주차비(원)<input id="parkingPerMonth" type="number" inputmode="decimal" placeholder="50000"></label>
+        <label>연간 통행료·기타(원)<input id="etcPerYear" type="number" inputmode="decimal" placeholder="200000"></label>
+        <p class="tool-form__note">연료비는 주행거리÷연비×유가로 추정하고 나머지 비용과 합산합니다. 감가상각과 취득 비용은 미포함입니다.</p>
+      `,
+      'salary-compare': `
+        <label>연봉 A(원)<input id="salA" type="number" inputmode="decimal" placeholder="42000000"></label>
+        <label>연봉 B(원)<input id="salB" type="number" inputmode="decimal" placeholder="50000000"></label>
+        <p class="tool-form__note">1인 가구·기본공제 기준으로 월급 실수령액 계산기와 같은 방식으로 추정합니다. 부양가족·소득공제에 따라 달라질 수 있습니다.</p>
+      `,
     };
 
     function number(id: string) {
@@ -1376,6 +1437,43 @@ const breadcrumbLd = {
       return out;
     }
 
+    function estimateTokens(text: string) {
+      let hangul = 0, latin = 0, other = 0;
+      for (const ch of text) {
+        const code = ch.codePointAt(0) || 0;
+        if (code >= 0xac00 && code <= 0xd7a3) hangul++;
+        else if (/[A-Za-z0-9]/.test(ch)) latin++;
+        else if (!/\s/.test(ch)) other++;
+      }
+      return Math.round(hangul * 1.1 + latin / 3.7 + other / 3);
+    }
+    function netOf(monthlyGross: number) {
+      const yearGross = monthlyGross * 12;
+      let salaryDeduction = 0;
+      if (yearGross <= 5000000) salaryDeduction = yearGross * 0.7;
+      else if (yearGross <= 15000000) salaryDeduction = 3500000 + (yearGross - 5000000) * 0.4;
+      else if (yearGross <= 45000000) salaryDeduction = 7500000 + (yearGross - 15000000) * 0.15;
+      else if (yearGross <= 100000000) salaryDeduction = 12000000 + (yearGross - 45000000) * 0.05;
+      else salaryDeduction = 14750000 + (yearGross - 100000000) * 0.02;
+      const taxable = Math.max(0, yearGross - salaryDeduction);
+      let incomeTaxYear = 0;
+      if (taxable <= 14000000) incomeTaxYear = taxable * 0.06;
+      else if (taxable <= 50000000) incomeTaxYear = 840000 + (taxable - 14000000) * 0.15;
+      else if (taxable <= 88000000) incomeTaxYear = 6240000 + (taxable - 50000000) * 0.24;
+      else if (taxable <= 150000000) incomeTaxYear = 15360000 + (taxable - 88000000) * 0.35;
+      else if (taxable <= 300000000) incomeTaxYear = 30960000 + (taxable - 150000000) * 0.38;
+      else if (taxable <= 500000000) incomeTaxYear = 87960000 + (taxable - 300000000) * 0.40;
+      else if (taxable <= 1000000000) incomeTaxYear = 167960000 + (taxable - 500000000) * 0.42;
+      else incomeTaxYear = 377960000 + (taxable - 1000000000) * 0.45;
+      const monthlyIncomeTax = incomeTaxYear / 12;
+      const localTax = monthlyIncomeTax * 0.1;
+      const pension = Math.min(monthlyGross, 5900000) * 0.045;
+      const health = Math.min(monthlyGross, 20000000) * 0.03545;
+      const longCare = health * 0.1281;
+      const employment = monthlyGross * 0.009;
+      const deduction = pension + health + longCare + employment + monthlyIncomeTax + localTax;
+      return { net: monthlyGross - deduction, deduction };
+    }
     function calculate() {
       if (type === 'bmi') {
         const h = number('height') / 100;
@@ -2802,6 +2900,192 @@ const breadcrumbLd = {
         if (totalValue) totalValue.textContent = outV;
         if (breakdownValue) breakdownValue.textContent = `음절별 단순 변환 · ${text.length}자`;
         show(outV);
+      }
+      if (type === 'ai-token') {
+        const text = (document.getElementById('aiText') as HTMLTextAreaElement | null)?.value || '';
+        const totalValue = document.getElementById('aiTokenValue');
+        const costValue = document.getElementById('aiTokenCostValue');
+        const breakdownValue = document.getElementById('aiTokenBreakdownValue');
+        if (!text.trim()) {
+          show('');
+          [totalValue, costValue, breakdownValue].forEach((el) => { if (el) el.textContent = '—'; });
+          return;
+        }
+        const prices = {
+          gpt: { in: 2.5, out: 10 },
+          claude: { in: 3, out: 15 },
+          gemini: { in: 0.1, out: 0.4 },
+        } as Record<string, { in: number; out: number }>;
+        const model = (document.getElementById('aiModel') as HTMLSelectElement | null)?.value || 'gpt';
+        const ratio = number('aiOutRatio') || 1;
+        const tokens = estimateTokens(text);
+        const outTokens = Math.round(tokens * ratio);
+        const usd = tokens / 1000000 * prices[model].in + outTokens / 1000000 * prices[model].out;
+        if (totalValue) totalValue.textContent = `${tokens.toLocaleString('ko-KR')}개`;
+        if (costValue) costValue.textContent = `$${usd.toFixed(4)}`;
+        if (breakdownValue) breakdownValue.textContent = `입력 ${tokens.toLocaleString('ko-KR')} · 출력 ${outTokens.toLocaleString('ko-KR')} · 약 ${money(usd * 1400)}`;
+        show(`예상 토큰 ${tokens.toLocaleString('ko-KR')}개 · 비용 약 $${usd.toFixed(4)}`);
+      }
+      if (type === 'youth-account') {
+        const amount = Math.min(700000, number('savingAmount') || 0);
+        const band = (document.getElementById('incomeBand') as HTMLSelectElement | null)?.value || '6000';
+        const years = Math.max(1, number('savingYears') || 5);
+        const specs = {
+          '2400': { rate: 0.06, cap: 36000 },
+          '6000': { rate: 0.045, cap: 24000 },
+          '7500': { rate: 0.03, cap: 16000 },
+        } as Record<string, { rate: number; cap: number }>;
+        const grantValue = document.getElementById('youthGrantValue');
+        const totalValue = document.getElementById('youthTotalValue');
+        const breakdownValue = document.getElementById('youthBreakdownValue');
+        if (!amount) {
+          show('');
+          [grantValue, totalValue, breakdownValue].forEach((el) => { if (el) el.textContent = '—'; });
+          return;
+        }
+        const spec = specs[band];
+        const grant = Math.min(amount * spec.rate, spec.cap);
+        const months = years * 12;
+        const totalDeposit = amount * months;
+        const totalGrant = grant * months;
+        if (grantValue) grantValue.textContent = money(grant);
+        if (totalValue) totalValue.textContent = money(totalDeposit + totalGrant);
+        if (breakdownValue) breakdownValue.textContent = `${months}개월 · 납입 ${money(totalDeposit)} + 기여금 ${money(totalGrant)}`;
+        show(`월 기여금 약 ${money(grant)} · 만기 적립액 ${money(totalDeposit + totalGrant)}`);
+      }
+      if (type === 'car-tax-annual') {
+        const cc = number('engineCc');
+        const years = Math.max(0, number('carYears') || 0);
+        const annualPay = (document.getElementById('carAnnualPay') as HTMLSelectElement | null)?.value === '1';
+        const taxValue = document.getElementById('carAtTaxValue');
+        const totalValue = document.getElementById('carAtTotalValue');
+        const breakdownValue = document.getElementById('carAtBreakdownValue');
+        if (!cc) {
+          show('');
+          [taxValue, totalValue, breakdownValue].forEach((el) => { if (el) el.textContent = '—'; });
+          return;
+        }
+        let base = Math.min(cc, 1000) * 80;
+        if (cc > 1000) base += Math.min(cc - 1000, 600) * 140;
+        if (cc > 1600) base += (cc - 1600) * 200;
+        const discount = years > 3 ? Math.max(0.5, 1 - (years - 3) * 0.05) : 1;
+        const tax = Math.round(base * discount);
+        const edu = Math.round(tax * 0.3);
+        const subtotal = tax + edu;
+        const annual = annualPay ? Math.round(subtotal * 0.9) : subtotal;
+        if (taxValue) taxValue.textContent = money(tax);
+        if (totalValue) totalValue.textContent = money(annual);
+        if (breakdownValue) breakdownValue.textContent = annualPay
+          ? `${money(tax)} + 교육세 ${money(edu)} · 연납 10% 할인`
+          : `${money(tax)} + 교육세 ${money(edu)} · 분납 기준`;
+        show(`연간 자동차세 ${money(tax)} · 총 납부액 ${money(annual)}`);
+      }
+      if (type === 'pet-cost') {
+        const monthly = ['foodCost', 'snackCost', 'medCost', 'insCost', 'etcCost'].reduce((sum, id) => sum + (number(id) || 0), 0);
+        const monthValue = document.getElementById('petMonthValue');
+        const yearValue = document.getElementById('petYearValue');
+        const breakdownValue = document.getElementById('petBreakdownValue');
+        if (!monthly) {
+          show('');
+          [monthValue, yearValue, breakdownValue].forEach((el) => { if (el) el.textContent = '—'; });
+          return;
+        }
+        const yearly = monthly * 12;
+        if (monthValue) monthValue.textContent = money(monthly);
+        if (yearValue) yearValue.textContent = money(yearly);
+        if (breakdownValue) breakdownValue.textContent = `5년 환산 ${money(yearly * 5)}`;
+        show(`월 양육비 ${money(monthly)} · 연간 ${money(yearly)}`);
+      }
+      if (type === 'unit-price') {
+        const a = number('priceA');
+        const amountA = number('amountA');
+        const b = number('priceB');
+        const amountB = number('amountB');
+        const unit = (document.getElementById('upUnit') as HTMLSelectElement | null)?.value || 'g';
+        const priceAValue = document.getElementById('upPriceAValue');
+        const priceBValue = document.getElementById('upPriceBValue');
+        const breakdownValue = document.getElementById('upBreakdownValue');
+        if (!a || !amountA || !b || !amountB) {
+          show('');
+          [priceAValue, priceBValue, breakdownValue].forEach((el) => { if (el) el.textContent = '—'; });
+          return;
+        }
+        const unitA = a / amountA;
+        const unitB = b / amountB;
+        const cheaper = unitA <= unitB ? 'A' : 'B';
+        const diff = Math.abs(unitA - unitB) / Math.min(unitA, unitB) * 100;
+        if (priceAValue) priceAValue.textContent = `${fmt(unitA, 2)}원/${unit}`;
+        if (priceBValue) priceBValue.textContent = `${fmt(unitB, 2)}원/${unit}`;
+        if (breakdownValue) breakdownValue.textContent = `${cheaper}가 약 ${fmt(diff, 1)}% 저렴`;
+        show(`${cheaper} 상품이 더 저렴합니다 (원/${unit} 기준).`);
+      }
+      if (type === 'health-age') {
+        const age = number('haAge');
+        const ageValue = document.getElementById('haAgeValue');
+        const diffValue = document.getElementById('haDiffValue');
+        const breakdownValue = document.getElementById('haBreakdownValue');
+        if (!age) {
+          show('');
+          [ageValue, diffValue, breakdownValue].forEach((el) => { if (el) el.textContent = '—'; });
+          return;
+        }
+        const exercise = (document.getElementById('haExercise') as HTMLSelectElement | null)?.value || '2';
+        const sleep = (document.getElementById('haSleep') as HTMLSelectElement | null)?.value || '2';
+        const smoke = (document.getElementById('haSmoke') as HTMLSelectElement | null)?.value === '1';
+        const alcohol = (document.getElementById('haAlcohol') as HTMLSelectElement | null)?.value || '0';
+        const stress = (document.getElementById('haStress') as HTMLSelectElement | null)?.value || '1';
+        let delta = 0;
+        delta += exercise === '0' ? 1 : exercise === '2' ? -2 : exercise === '3' ? -3 : 0;
+        delta += sleep === '1' ? 2 : sleep === '3' ? -1 : 0;
+        delta += smoke ? 3 : 0;
+        delta += alcohol === '1' ? 1 : alcohol === '2' ? 2 : 0;
+        delta += stress === '2' ? 2 : stress === '0' ? -1 : 0;
+        const healthAge = Math.max(1, Math.min(age + 15, age + delta));
+        if (ageValue) ageValue.textContent = `${healthAge}살`;
+        const diff = healthAge - age;
+        if (diffValue) diffValue.textContent = diff === 0 ? '나이와 같음' : `${diff > 0 ? '+' : '-'}${Math.abs(diff)}살`;
+        if (breakdownValue) breakdownValue.textContent = `실제나이 ${age}살 · 조정 ${delta > 0 ? '+' + delta : delta}`;
+        show(`건강나이는 ${healthAge}살로 추정됩니다.`);
+      }
+      if (type === 'car-ownership') {
+        const km = number('driveKm');
+        const eff = number('fuelEfficiency');
+        const price = number('fuelPrice');
+        const fuelValue = document.getElementById('coFuelValue');
+        const totalValue = document.getElementById('coTotalValue');
+        const breakdownValue = document.getElementById('coBreakdownValue');
+        if (!km || !eff || !price) {
+          show('');
+          [fuelValue, totalValue, breakdownValue].forEach((el) => { if (el) el.textContent = '—'; });
+          return;
+        }
+        const fuel = km / eff * price;
+        const yearly = fuel + (number('insPerYear') || 0) + (number('taxPerYear') || 0) + (number('maintPerYear') || 0) + (number('parkingPerMonth') || 0) * 12 + (number('etcPerYear') || 0);
+        const monthly = yearly / 12;
+        if (fuelValue) fuelValue.textContent = money(fuel);
+        if (totalValue) totalValue.textContent = money(yearly);
+        if (breakdownValue) breakdownValue.textContent = `월 환산 ${money(monthly)}`;
+        show(`연간 유지비 총액 ${money(yearly)} · 월 ${money(monthly)}`);
+      }
+      if (type === 'salary-compare') {
+        const a = number('salA');
+        const b = number('salB');
+        const aValue = document.getElementById('scAValue');
+        const bValue = document.getElementById('scBValue');
+        const breakdownValue = document.getElementById('scBreakdownValue');
+        if (!a && !b) {
+          show('');
+          [aValue, bValue, breakdownValue].forEach((el) => { if (el) el.textContent = '—'; });
+          return;
+        }
+        const netA = a ? netOf(a / 12).net : 0;
+        const netB = b ? netOf(b / 12).net : 0;
+        const diffMonthly = netB - netA;
+        const label = diffMonthly > 0 ? 'B가' : diffMonthly < 0 ? 'A가' : '동일';
+        if (aValue) aValue.textContent = money(netA);
+        if (bValue) bValue.textContent = money(netB);
+        if (breakdownValue) breakdownValue.textContent = diffMonthly === 0 ? '두 연봉의 실수령이 같습니다' : `${label} 월 ${money(Math.abs(diffMonthly))} 많음`;
+        show(`A ${money(netA)} · B ${money(netB)} (월 실수령)`);
       }
     }
 

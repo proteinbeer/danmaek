@@ -111,7 +111,15 @@ export type Tool = {
       | 'sha-hash'
       | 'steps-kcal'
       | 'weight-goal'
-      | 'romanize';
+      | 'romanize'
+      | 'ai-token'
+      | 'youth-account'
+      | 'car-tax-annual'
+      | 'pet-cost'
+      | 'unit-price'
+      | 'health-age'
+      | 'car-ownership'
+      | 'salary-compare';
 };
 
 export const TOOLS: Tool[] = [
@@ -254,4 +262,12 @@ export const TOOLS: Tool[] = [
   { slug: 'steps-kcal-calculator', title: '걸음 칼로리 계산기', description: '걸음 수로 이동 거리와 소모 칼로리를 추정합니다', category: '건강', icon: '🚶', type: 'steps-kcal' },
   { slug: 'weight-loss-goal-calculator', title: '감량 목표일 계산기', description: '체중과 주간 감량 속도로 목표 달성 예상일을 계산합니다', category: '건강', icon: '⚖️', type: 'weight-goal' },
   { slug: 'hangul-romanizer', title: '한글 로마자 변환기', description: '한글 문장을 국어의 로마자 표기법으로 변환합니다', category: '재미', icon: '🆎', type: 'romanize' },
+  { slug: 'ai-token-cost-calculator', title: 'AI 토큰·비용 계산기', description: '프롬프트 텍스트로 대략적인 토큰 수와 API 비용을 추정합니다', category: 'IT', icon: '🤖', type: 'ai-token' },
+  { slug: 'youth-account-calculator', title: '청년도약계좌 계산기', description: '월 납입액과 소득 구간으로 정부 기여금과 적립액을 추정합니다', category: '금융', icon: '🪙', type: 'youth-account' },
+  { slug: 'car-annual-tax-calculator', title: '자동차세 계산기', description: '배기량과 차령으로 연간 자동차세와 지방교육세를 추정합니다', category: '금융', icon: '🚘', type: 'car-tax-annual' },
+  { slug: 'pet-care-cost-calculator', title: '반려동물 양육비 계산기', description: '월 사료·병원·보험 비용으로 연간 양육비를 계산합니다', category: '생활', icon: '🐾', type: 'pet-cost' },
+  { slug: 'unit-price-comparer', title: '단위가격 비교 계산기', description: '용량이 다른 상품의 실제 단위가격(원/g)을 비교합니다', category: '쇼핑', icon: '🧮', type: 'unit-price' },
+  { slug: 'health-age-calculator', title: '건강나이 계산기', description: '생활습관을 반영해 내 건강나이를 추정해 봅니다', category: '건강', icon: '🩺', type: 'health-age' },
+  { slug: 'car-ownership-cost-calculator', title: '자동차 유지비 계산기', description: '연료·보험·세금·주차를 포함한 연간 유지비 총액을 계산합니다', category: '금융', icon: '💸', type: 'car-ownership' },
+  { slug: 'salary-net-compare-calculator', title: '연봉 실수령 비교 계산기', description: '두 연봉의 월 실수령액과 차이를 비교합니다', category: '취업', icon: '⚖️', type: 'salary-compare' },
 ];

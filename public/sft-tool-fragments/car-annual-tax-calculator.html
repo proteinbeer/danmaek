@@ -1,0 +1,21 @@
+<div id="cardsGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 relative"><div id="carAnnualTaxCard" data-category="calculator" data-tool-slug="car-annual-tax-calculator" class="expandable-card expand-transition relative z-10 block bg-white rounded-2xl border border-gray-200 shadow-sm hover:shadow-md hover:border-zinc-400 backdrop-blur-xs flex-col overflow-hidden w-full h-full max-w-lg mx-auto md:mx-0 tool-page-panel is-expanded active-panel shadow-2xl border-zinc-400 tool-panel">
+                <div class="card-content p-6 w-full">
+                    <button class="close-expanded-btn expand-close absolute top-5 right-5 text-zinc-400 hover:text-zinc-600 font-bold text-base cursor-pointer p-1 focus:outline-none" aria-label="Close calculator">×</button>
+                    <div class="w-12 h-12 bg-zinc-100 rounded-xl flex items-center justify-center text-2xl mb-4">🚘</div>
+                    <h1 id="carAnnualTaxTitle" class="text-lg font-bold text-zinc-900 mb-1">자동차세 계산기</h1>
+                    <p id="carAnnualTaxDesc" class="card-description text-sm text-zinc-500 overflow-hidden">배기량과 차령으로 연간 자동차세와 지방교육세를 추정합니다.</p>
+                </div>
+                <div class="calculator-content px-6 pb-5 flex flex-col w-full transition-all duration-150 ease-out space-y-6 opacity-100 translate-y-0">
+                    <div class="grid grid-cols-1 gap-3">
+                        <div><label id="lblEngineCc" class="block text-xs font-medium text-zinc-500 mb-1">배기량(cc)</label><input type="number" inputmode="numeric" id="engineCc" placeholder="1999" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"></div>
+                        <div><label id="lblCarYears" class="block text-xs font-medium text-zinc-500 mb-1">차령(년)</label><input type="number" inputmode="numeric" id="carYears" placeholder="3" value="3" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"></div>
+                        <div><label id="lblCarAnnualPay" class="block text-xs font-medium text-zinc-500 mb-1">연납 할인</label><select id="carAnnualPay" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"><option value="0">적용 안 함(분납)</option><option value="1">1월 연납(10% 할인)</option></select></div>
+                    </div>
+                    <p class="text-xs text-zinc-500 leading-relaxed">비영업용 승용차 기준, 배기량 구간(1,000cc 이하 80원/cc, 1,600cc 이하 140원/cc, 초과 200원/cc)에 30% 지방교육세를 더합니다. 차령 3년 초과부터 매년 5% 감면(최대 50%)됩니다.</p>
+                    <div class="bg-zinc-50 border border-gray-200/60 rounded-2xl p-4 space-y-2.5 shadow-inner mt-2">
+                        <div class="flex justify-between items-center"><span class="text-xs text-zinc-500 font-medium">연간 자동차세</span><span id="carAtTaxValue" class="text-2xl font-black text-zinc-900">—</span></div>
+                        <div class="flex justify-between items-center border-t border-gray-200/40 pt-2.5"><span class="text-xs text-zinc-500 font-medium">총 납부액(교육세 포함)</span><span id="carAtTotalValue" class="text-sm text-right font-black text-zinc-900">—</span></div>
+                        <div class="flex justify-between items-center border-t border-gray-200/40 pt-2.5"><span class="text-xs text-zinc-500 font-medium">납부 방식</span><span id="carAtBreakdownValue" class="text-sm text-right font-bold text-zinc-800">—</span></div>
+                    </div>
+                </div>
+            </div></div>

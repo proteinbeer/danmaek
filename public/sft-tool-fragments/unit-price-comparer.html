@@ -1,0 +1,23 @@
+<div id="cardsGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 relative"><div id="unitPriceCard" data-category="calculator" data-tool-slug="unit-price-comparer" class="expandable-card expand-transition relative z-10 block bg-white rounded-2xl border border-gray-200 shadow-sm hover:shadow-md hover:border-zinc-400 backdrop-blur-xs flex-col overflow-hidden w-full h-full max-w-lg mx-auto md:mx-0 tool-page-panel is-expanded active-panel shadow-2xl border-zinc-400 tool-panel">
+                <div class="card-content p-6 w-full">
+                    <button class="close-expanded-btn expand-close absolute top-5 right-5 text-zinc-400 hover:text-zinc-600 font-bold text-base cursor-pointer p-1 focus:outline-none" aria-label="Close calculator">×</button>
+                    <div class="w-12 h-12 bg-zinc-100 rounded-xl flex items-center justify-center text-2xl mb-4">🧮</div>
+                    <h1 id="unitPriceTitle" class="text-lg font-bold text-zinc-900 mb-1">단위가격 비교 계산기</h1>
+                    <p id="unitPriceDesc" class="card-description text-sm text-zinc-500 overflow-hidden">용량이 다른 상품의 실제 단위가격(원/g)을 비교합니다.</p>
+                </div>
+                <div class="calculator-content px-6 pb-5 flex flex-col w-full transition-all duration-150 ease-out space-y-6 opacity-100 translate-y-0">
+                    <div class="grid grid-cols-1 gap-3">
+                        <div><label id="lblPriceA" class="block text-xs font-medium text-zinc-500 mb-1">상품 A 가격(원)</label><input type="number" inputmode="decimal" id="priceA" placeholder="9900" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"></div>
+                        <div><label id="lblAmountA" class="block text-xs font-medium text-zinc-500 mb-1">상품 A 용량</label><input type="number" inputmode="decimal" id="amountA" placeholder="500" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"></div>
+                        <div><label id="lblPriceB" class="block text-xs font-medium text-zinc-500 mb-1">상품 B 가격(원)</label><input type="number" inputmode="decimal" id="priceB" placeholder="14900" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"></div>
+                        <div><label id="lblAmountB" class="block text-xs font-medium text-zinc-500 mb-1">상품 B 용량</label><input type="number" inputmode="decimal" id="amountB" placeholder="1000" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"></div>
+                        <div><label id="lblUpUnit" class="block text-xs font-medium text-zinc-500 mb-1">용량 단위</label><select id="upUnit" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"><option value="g" selected>g</option><option value="ml">mL</option><option value="ea">개</option><option value="장">장</option><option value="회">회</option></select></div>
+                    </div>
+                    <p class="text-xs text-zinc-500 leading-relaxed">가격을 용량으로 나눈 단위가격(원/단위)을 비교해 어느 쪽이 저렴한지 판단합니다.</p>
+                    <div class="bg-zinc-50 border border-gray-200/60 rounded-2xl p-4 space-y-2.5 shadow-inner mt-2">
+                        <div class="flex justify-between items-center"><span class="text-xs text-zinc-500 font-medium">단위가격 A</span><span id="upPriceAValue" class="text-2xl font-black text-zinc-900">—</span></div>
+                        <div class="flex justify-between items-center border-t border-gray-200/40 pt-2.5"><span class="text-xs text-zinc-500 font-medium">단위가격 B</span><span id="upPriceBValue" class="text-sm text-right font-black text-zinc-900">—</span></div>
+                        <div class="flex justify-between items-center border-t border-gray-200/40 pt-2.5"><span class="text-xs text-zinc-500 font-medium">비교 결과</span><span id="upBreakdownValue" class="text-sm text-right font-bold text-zinc-800">—</span></div>
+                    </div>
+                </div>
+            </div></div>
