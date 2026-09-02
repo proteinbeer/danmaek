@@ -10,7 +10,7 @@ export type Post = {
     description: string;
     date: Date;
     updated?: Date;
-    category: 'IT' | '게임';
+    category: 'IT' | '게임' | '가이드';
     tags: string[];
     image: string;
     imageAlt: string;

@@ -1,0 +1,22 @@
+<div id="cardsGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 relative"><div id="savingGoalCard" data-category="calculator" data-tool-slug="saving-goal-calculator" class="expandable-card expand-transition relative z-10 block bg-white rounded-2xl border border-gray-200 shadow-sm hover:shadow-md hover:border-zinc-400 backdrop-blur-xs flex-col overflow-hidden w-full h-full max-w-lg mx-auto md:mx-0 tool-page-panel is-expanded active-panel shadow-2xl border-zinc-400 tool-panel">
+                <div class="card-content p-6 w-full">
+                    <button class="close-expanded-btn expand-close absolute top-5 right-5 text-zinc-400 hover:text-zinc-600 font-bold text-base cursor-pointer p-1 focus:outline-none" aria-label="Close calculator">×</button>
+                    <div class="w-12 h-12 bg-zinc-100 rounded-xl flex items-center justify-center text-2xl mb-4">🎯</div>
+                    <h1 id="savingGoalTitle" class="text-lg font-bold text-zinc-900 mb-1">저축 목표일 계산기</h1>
+                    <p id="savingGoalDesc" class="card-description text-sm text-zinc-500 overflow-hidden">월 저축액과 목표금액으로 달성 예상일을 계산합니다.</p>
+                </div>
+                <div class="calculator-content px-6 pb-5 flex flex-col w-full transition-all duration-150 ease-out space-y-6 opacity-100 translate-y-0">
+                    <div class="grid grid-cols-1 gap-3">
+                        <div><label id="lblGoalAmount" class="block text-xs font-medium text-zinc-500 mb-1">목표 금액(원)</label><input type="number" inputmode="numeric" id="goalAmount" placeholder="10000000" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"></div>
+                        <div><label id="lblCurrentSavings" class="block text-xs font-medium text-zinc-500 mb-1">현재 저축액(원)</label><input type="number" inputmode="numeric" id="currentSavings" placeholder="1000000" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"></div>
+                        <div><label id="lblMonthlySavings" class="block text-xs font-medium text-zinc-500 mb-1">월 저축액(원)</label><input type="number" inputmode="numeric" id="monthlySavings" placeholder="500000" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"></div>
+                        <div><label id="lblGoalInterestRate" class="block text-xs font-medium text-zinc-500 mb-1">연 이자율(%)</label><input type="number" inputmode="decimal" id="goalInterestRate" placeholder="3.0" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"></div>
+                    </div>
+                    <p class="text-xs text-zinc-500 leading-relaxed">월 저축액을 매월 동일하게 넣고 이자는 매월 복리로 쌓인다고 가정한 추정입니다. 세금은 반영하지 않았습니다.</p>
+                    <div class="bg-zinc-50 border border-gray-200/60 rounded-2xl p-4 space-y-2.5 shadow-inner mt-2">
+                        <div class="flex justify-between items-center"><span class="text-xs text-zinc-500 font-medium">목표 달성까지</span><span id="goalDateValue" class="text-2xl font-black text-zinc-900">—</span></div>
+                        <div class="flex justify-between items-center border-t border-gray-200/40 pt-2.5"><span class="text-xs text-zinc-500 font-medium">예상 이자</span><span id="goalTotalValue" class="text-sm text-right font-black text-zinc-900">—</span></div>
+                        <div class="flex justify-between items-center border-t border-gray-200/40 pt-2.5"><span class="text-xs text-zinc-500 font-medium">총 투입</span><span id="goalBreakdownValue" class="text-sm text-right font-semibold text-zinc-800">—</span></div>
+                    </div>
+                </div>
+            </div></div>

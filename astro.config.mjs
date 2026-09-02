@@ -84,7 +84,7 @@ const getEditableLines = (raw) => {
     }
 
     if (inHtmlBlock) {
-      if (/^<\/(p|div|script)>/i.test(trimmed) || /DYNAMIC BANNER END/i.test(trimmed)) {
+      if (/^<\/(p|div|script|figure|iframe)>/i.test(trimmed) || /DYNAMIC BANNER END/i.test(trimmed)) {
         inHtmlBlock = false;
       }
       continue;

@@ -11,6 +11,7 @@ const path = Astro.url.pathname;
     <nav class="nav" aria-label="주요 메뉴">
       <a href="/it/" aria-current={path.startsWith('/it/') ? 'page' : undefined}>IT</a>
       <a href="/games/" aria-current={path.startsWith('/games/') ? 'page' : undefined}>게임</a>
+      <a href="/guides/" aria-current={path.startsWith('/guides/') ? 'page' : undefined}>가이드</a>
       <a href="/tools/" aria-current={path.startsWith('/tools/') ? 'page' : undefined}>도구</a>
     </nav>
     <a class={`button-link header-search`} href="/search/" aria-label="검색" aria-current={path.startsWith('/search/') ? 'page' : undefined}>

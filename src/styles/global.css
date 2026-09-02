@@ -1109,6 +1109,7 @@ width: 18px;
   border-top: 4px solid #050505;
   border-radius: 14px;
   padding: clamp(26px, 5vw, 48px);
+  padding-bottom: 26px;
   box-shadow: 0 16px 44px rgba(15, 23, 42, .04);
 }
 .article-header h1 {
@@ -1127,6 +1128,9 @@ width: 18px;
 .hero-image {
   margin: 30px 0 36px;
 }
+.article-page--guide .hero-image {
+  margin: 30px 0 6px;
+}
 .hero-image img {
   display: block;
   width: 100%;
@@ -1136,7 +1140,6 @@ width: 18px;
 }
 .prose {
   padding-top: 34px;
-  border-top: 1px solid var(--line);
   color: #20242a;
   font-family: var(--font);
   font-size: 1.08rem;
@@ -1235,6 +1238,7 @@ width: 18px;
 }
 .coupang-banner {
   margin-top: 26px;
+  margin-bottom: 40px;
   overflow-x: auto;
 }
 .coupang-banner iframe {
@@ -1661,9 +1665,13 @@ article.featured .contact-form {
 }
 
 .adfit-banner {
-  margin-top: 26px;
+  margin-top: 30px;
+  margin-bottom: 30px;
   display: flex;
   justify-content: center;
+}
+.article-wrap > article .adfit-banner {
+  margin-bottom: 0;
 }
 
 .tool-form--sft .image-workspace {
@@ -2033,7 +2041,7 @@ border: 2px solid #fff;
 
 /* Danmaek IT/Game/Tools home skin */
 .home-hero {
-  padding-top: 30px;
+  padding-top: 0;
 }
 .home-hero h1,
 .home-hero > p {
@@ -2291,8 +2299,8 @@ border: 2px solid #fff;
     width: 100%;
     justify-content: center;
   }
-  .home-hero {
-    padding-top: 22px;
+.home-hero {
+    padding-top: 0;
   }
 }
 

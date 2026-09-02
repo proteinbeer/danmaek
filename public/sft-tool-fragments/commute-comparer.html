@@ -1,0 +1,24 @@
+<div id="cardsGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 relative"><div id="commuteCard" data-category="calculator" data-tool-slug="commute-comparer" class="expandable-card expand-transition relative z-10 block bg-white rounded-2xl border border-gray-200 shadow-sm hover:shadow-md hover:border-zinc-400 backdrop-blur-xs flex-col overflow-hidden w-full h-full max-w-lg mx-auto md:mx-0 tool-page-panel is-expanded active-panel shadow-2xl border-zinc-400 tool-panel">
+                <div class="card-content p-6 w-full">
+                    <button class="close-expanded-btn expand-close absolute top-5 right-5 text-zinc-400 hover:text-zinc-600 font-bold text-base cursor-pointer p-1 focus:outline-none" aria-label="Close calculator">×</button>
+                    <div class="w-12 h-12 bg-zinc-100 rounded-xl flex items-center justify-center text-2xl mb-4">🚗</div>
+                    <h1 id="commuteTitle" class="text-lg font-bold text-zinc-900 mb-1">출퇴근 비교 계산기</h1>
+                    <p id="commuteDesc" class="card-description text-sm text-zinc-500 overflow-hidden">자가용과 대중교통의 시간·비용을 비교합니다.</p>
+                </div>
+                <div class="calculator-content px-6 pb-5 flex flex-col w-full transition-all duration-150 ease-out space-y-6 opacity-100 translate-y-0">
+                    <div class="grid grid-cols-1 gap-3">
+                        <div><label id="lblCmDistance" class="block text-xs font-medium text-zinc-500 mb-1">편도 거리(km)</label><input type="number" inputmode="decimal" id="cmDistance" placeholder="20" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"></div>
+                        <div><label id="lblCmEfficiency" class="block text-xs font-medium text-zinc-500 mb-1">차량 연비(km/L)</label><input type="number" inputmode="decimal" id="cmEfficiency" placeholder="13" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"></div>
+                        <div><label id="lblCmFuelPrice" class="block text-xs font-medium text-zinc-500 mb-1">휘발유 가격(원/L)</label><input type="number" inputmode="numeric" id="cmFuelPrice" placeholder="1650" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"></div>
+                        <div><label id="lblCmCarTime" class="block text-xs font-medium text-zinc-500 mb-1">자가용 소요시간(분)</label><input type="number" inputmode="numeric" id="cmCarTime" placeholder="35" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"></div>
+                        <div><label id="lblCmTransitTime" class="block text-xs font-medium text-zinc-500 mb-1">대중교통 소요시간(분)</label><input type="number" inputmode="numeric" id="cmTransitTime" placeholder="50" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"></div>
+                        <div><label id="lblCmTransitFare" class="block text-xs font-medium text-zinc-500 mb-1">대중교통 요금(원/1회)</label><input type="number" inputmode="numeric" id="cmTransitFare" placeholder="1500" class="w-full bg-zinc-50 border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-zinc-400"></div>
+                    </div>
+                    <p class="text-xs text-zinc-500 leading-relaxed">자가용은 왕복 연료비, 대중교통은 왕복 요금으로 하루 단위 비용을 비교합니다. 주차비·보험·감가상각·환승 할인 등은 제외한 단순 추정입니다.</p>
+                    <div class="bg-zinc-50 border border-gray-200/60 rounded-2xl p-4 space-y-2.5 shadow-inner mt-2">
+                        <div class="flex justify-between items-center"><span class="text-xs text-zinc-500 font-medium">자가용(하루)</span><span id="cmCarCostValue" class="text-2xl font-black text-zinc-900">—</span></div>
+                        <div class="flex justify-between items-center border-t border-gray-200/40 pt-2.5"><span class="text-xs text-zinc-500 font-medium">대중교통(하루)</span><span id="cmTransitCostValue" class="text-sm text-right font-black text-zinc-900">—</span></div>
+                        <div class="flex justify-between items-center border-t border-gray-200/40 pt-2.5"><span class="text-xs text-zinc-500 font-medium">시간·비용 비교</span><span id="cmBreakdownValue" class="text-sm text-right font-semibold text-zinc-800">—</span></div>
+                    </div>
+                </div>
+            </div></div>

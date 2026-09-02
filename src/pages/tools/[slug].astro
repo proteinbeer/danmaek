@@ -53,6 +53,13 @@ const breadcrumbLd = {
         </div>
         <div class="tool-result" data-result hidden></div>
       </article>
+      <div class="adfit-banner">
+        <ins class="kakao_ad_area" style="display:none;"
+          data-ad-unit="DAN-LoWQpAjT1C8qjOLo"
+          data-ad-width="728"
+          data-ad-height="90"></ins>
+        <script is:inline async type="text/javascript" charset="utf-8" src="https://t1.kakaocdn.net/kas/static/ba.min.js"></script>
+      </div>
       <div id="tool-feedback" class="tool-feedback">
         <p class="tool-feedback__title">이 도구가 마음에 드셨나요?</p>
         <div class="tool-feedback__buttons">
@@ -1249,6 +1256,48 @@ const breadcrumbLd = {
         <label>이동 수단<select id="ceMode"><option value="car-gas" selected>승용차(가솔린)</option><option value="car-diesel">승용차(디젤)</option><option value="ev">승용차(전기)</option><option value="bus">시내버스</option><option value="subway">지하철·도시철도</option><option value="ktx">KTX·고속철도</option><option value="plane">항공(국내선)</option></select></label>
         <label>이동 거리(km)<input id="ceDistance" type="number" inputmode="decimal" placeholder="50"></label>
         <p class="tool-form__note">고속철도·버스·철도는 승객 1인당, 승용차는 차량 기준 국내 평균 배출계수(kgCO2e)를 사용한 추정치입니다. 실제 연비·탑승 인원에 따라 달라질 수 있습니다.</p>
+      `,
+      'stock-return': `
+        <label>매수 단가(원)<input id="buyPrice" type="number" inputmode="decimal" placeholder="50000"></label>
+        <label>보유 수량(주)<input id="shares" type="number" inputmode="numeric" placeholder="10"></label>
+        <label>매도 단가(원)<input id="sellPrice" type="number" inputmode="decimal" placeholder="65000"></label>
+        <label>수수료율(%)<input id="commissionRate" type="number" inputmode="decimal" placeholder="0.03"></label>
+        <label>양도소득세율(%)<select id="taxRate"><option value="0" selected>0 (연 250만원 이하 공제)</option><option value="6">6 (이익 연 250만~500만원)</option><option value="15">15 (이익 연 500만~3000만원)</option><option value="24">24 (이익 연 3000만원 초과)</option></select></label>
+        <p class="tool-form__note">수수료는 매수·매도 금액에 각각 반영하고, 양도소득세는 양도차익에만 적용한 단순 추정입니다. 해외주식·증권거래세 등 다른 비용은 제외됩니다.</p>
+      `,
+      'caffeine': `
+        <label>에스프레소·샷 (1샷 약 90mg)<input id="caffEspresso" type="number" inputmode="numeric" placeholder="0"></label>
+        <label>아메리카노·드립커피 (컵 약 180mg)<input id="caffAmericano" type="number" inputmode="numeric" placeholder="0"></label>
+        <label>에너지드링크 (캔 약 80mg)<input id="caffEnergy" type="number" inputmode="numeric" placeholder="0"></label>
+        <label>녹차·홍차 (컵 약 50mg)<input id="caffTea" type="number" inputmode="numeric" placeholder="0"></label>
+        <p class="tool-form__note">일반 성인 기준 일일 권장 한도를 약 400mg으로 잡고 비율로 표시합니다. 브랜드와 제조 방식에 따라 실제 함량은 다를 수 있습니다.</p>
+      `,
+      'saving-goal': `
+        <label>목표 금액(원)<input id="goalAmount" type="number" inputmode="numeric" placeholder="10000000"></label>
+        <label>현재 저축액(원)<input id="currentSavings" type="number" inputmode="numeric" placeholder="1000000"></label>
+        <label>월 저축액(원)<input id="monthlySavings" type="number" inputmode="numeric" placeholder="500000"></label>
+        <label>연 이자율(%)<input id="goalInterestRate" type="number" inputmode="decimal" placeholder="3.0"></label>
+        <p class="tool-form__note">월 저축액을 매월 동일하게 넣고 이자는 매월 복리로 쌓인다고 가정한 추정입니다. 세금은 반영하지 않았습니다.</p>
+      `,
+      'parking': `
+        <label>주차 시간(시간)<input id="parkDuration" type="number" inputmode="decimal" placeholder="3"></label>
+        <label>시간당 요금(원)<input id="parkHourlyRate" type="number" inputmode="numeric" placeholder="2000"></label>
+        <label>할인율(%)<input id="parkDiscountRate" type="number" inputmode="decimal" placeholder="0"></label>
+        <label>최소 요금(원)<input id="parkMinCharge" type="number" inputmode="numeric" placeholder="1000"></label>
+        <p class="tool-form__note">시간 단위로 계산하며 30분 미만 시 최소 요금을 적용하는 방식의 단순 추정입니다. 실제 요금은 최초 30분 단위·상한 등 시설 규정에 따라 다릅니다.</p>
+      `,
+      'password-strength': `
+        <label>비밀번호 입력<input id="pwInput" type="password" placeholder="비밀번호 입력"></label>
+        <p class="tool-form__note">문자 종류(소문자·대문자·숫자·특수문자)와 길이로 엔트로피를 계산해 1초 100억 회 추측을 가정한 탈취 시간을 추정합니다. 사전 단어·패턴 유사성은 반영하지 않습니다.</p>
+      `,
+      'commute': `
+        <label>편도 거리(km)<input id="cmDistance" type="number" inputmode="decimal" placeholder="20"></label>
+        <label>차량 연비(km/L)<input id="cmEfficiency" type="number" inputmode="decimal" placeholder="13"></label>
+        <label>휘발유 가격(원/L)<input id="cmFuelPrice" type="number" inputmode="numeric" placeholder="1650"></label>
+        <label>자가용 소요시간(분)<input id="cmCarTime" type="number" inputmode="numeric" placeholder="35"></label>
+        <label>대중교통 소요시간(분)<input id="cmTransitTime" type="number" inputmode="numeric" placeholder="50"></label>
+        <label>대중교통 요금(원/1회)<input id="cmTransitFare" type="number" inputmode="numeric" placeholder="1500"></label>
+        <p class="tool-form__note">자가용은 왕복 연료비, 대중교통은 왕복 요금으로 하루 단위 비용을 비교합니다. 주차비·보험·감가상각·환승 할인 등은 제외한 단순 추정입니다.</p>
       `,
     };
 
@@ -3320,6 +3369,190 @@ const breadcrumbLd = {
         if (valueBox) valueBox.textContent = `${kg.toFixed(1)} kg`;
         if (breakdownValue) breakdownValue.textContent = `${dist.toLocaleString('ko-KR')}km · 소나무 약 ${(kg / 6.6).toFixed(1)}그루가 1년간 흡수하는 양 (인당 ${factor.toFixed(3)}kg/km)`;
         show(`${dist.toLocaleString('ko-KR')}km 이동 시 탄소배출 약 ${kg.toFixed(1)}kgCO2e`);
+      }
+      if (type === 'stock-return') {
+        const buy = number('buyPrice');
+        const shares = number('shares');
+        const sell = number('sellPrice');
+        const commissionRate = number('commissionRate');
+        const taxRate = Number((document.getElementById('taxRate') as HTMLSelectElement | null)?.value || 0);
+        const rateBox = document.getElementById('srReturnRateValue');
+        const profitBox = document.getElementById('srProfitValue');
+        const breakdownValue = document.getElementById('srBreakdownValue');
+        if (!buy || !shares || !sell) {
+          show('');
+          if (rateBox) rateBox.textContent = '—';
+          if (profitBox) profitBox.textContent = '—';
+          if (breakdownValue) breakdownValue.textContent = '—';
+          return;
+        }
+        const principal = buy * shares;
+        const proceeds = sell * shares;
+        const fee = (principal + proceeds) * (commissionRate / 100);
+        const gain = proceeds - principal;
+        const tax = gain > 0 ? gain * (taxRate / 100) : 0;
+        const net = gain - fee - tax;
+        const rate = principal ? (net / principal) * 100 : 0;
+        if (rateBox) rateBox.textContent = `${rate >= 0 ? '+' : ''}${rate.toFixed(2)}%`;
+        if (profitBox) profitBox.textContent = net >= 0 ? `+${money(net)}` : `-${money(Math.abs(net))}`;
+        if (breakdownValue) breakdownValue.textContent = `원금 ${money(principal)} · 수수료 ${money(fee)} · 양도세 ${money(tax)}`;
+        show(`실질 수익 ${net >= 0 ? '+' : ''}${money(net)} (수익률 ${rate >= 0 ? '+' : ''}${rate.toFixed(2)}%)`);
+      }
+      if (type === 'caffeine') {
+        const espresso = number('caffEspresso');
+        const americano = number('caffAmericano');
+        const energy = number('caffEnergy');
+        const tea = number('caffTea');
+        const totalBox = document.getElementById('caffTotalValue');
+        const limitBox = document.getElementById('caffLimitValue');
+        const breakdownValue = document.getElementById('caffBreakdownValue');
+        const total = espresso * 90 + americano * 180 + energy * 80 + tea * 50;
+        if (!total) {
+          show('');
+          if (totalBox) totalBox.textContent = '—';
+          if (limitBox) limitBox.textContent = '—';
+          if (breakdownValue) breakdownValue.textContent = '—';
+          return;
+        }
+        const pct = (total / 400) * 100;
+        if (totalBox) totalBox.textContent = `${total.toLocaleString('ko-KR')}mg`;
+        if (limitBox) limitBox.textContent = `${pct.toFixed(0)}%`;
+        const verdict = total > 400 ? `권장량 초과 · 수면·불안에 주의` : `권장량(400mg) 이내`;
+        if (breakdownValue) breakdownValue.textContent = `${verdict} (샷 ${espresso} · 커피 ${americano} · 에너지 ${energy} · 차 ${tea})`;
+        show(`오늘 카페인 ${total.toLocaleString('ko-KR')}mg · 권장량(${400}mg)의 ${pct.toFixed(0)}%`);
+      }
+      if (type === 'saving-goal') {
+        const goal = number('goalAmount');
+        const current = number('currentSavings');
+        const monthly = number('monthlySavings');
+        const annualRate = number('goalInterestRate');
+        const dateBox = document.getElementById('goalDateValue');
+        const interestBox = document.getElementById('goalTotalValue');
+        const breakdownValue = document.getElementById('goalBreakdownValue');
+        if (!goal || !monthly) {
+          show('');
+          if (dateBox) dateBox.textContent = '—';
+          if (interestBox) interestBox.textContent = '—';
+          if (breakdownValue) breakdownValue.textContent = '—';
+          return;
+        }
+        const r = annualRate / 100 / 12;
+        let months: number;
+        if (r <= 0) {
+          months = Math.ceil(Math.max(0, goal - current) / monthly);
+        } else {
+          if (goal < current) {
+            months = 0;
+          } else {
+            months = Math.ceil(Math.log((goal * r + monthly) / (current * r + monthly)) / Math.log(1 + r));
+          }
+        }
+        {
+          let totalInput = current;
+          let accum = 0;
+          for (let i = 0; i < months; i++) {
+            totalInput = totalInput * (1 + r) + monthly;
+            accum += monthly;
+          }
+          const interest = Math.max(0, totalInput - current - accum);
+          if (interestBox) interestBox.textContent = money(interest);
+          if (breakdownValue) breakdownValue.textContent = `총 투입 ${money(current + accum)} · 복리 이자 ${money(interest)} (연 ${annualRate}%)`;
+        }
+        if (months <= 0) {
+          if (dateBox) dateBox.textContent = '이미 달성';
+          show('현재 저축액이 이미 목표에 도달했습니다.');
+        } else {
+          const year = Math.floor(months / 12);
+          const month = months % 12;
+          const label = year > 0 ? `${year}년 ${month}개월` : `${month}개월`;
+          if (dateBox) dateBox.textContent = label;
+          show(`목표 금액까지 약 ${label} 소요 (월 ${money(monthly)} 저축)`);
+        }
+      }
+      if (type === 'parking') {
+        const duration = number('parkDuration');
+        const hourly = number('parkHourlyRate');
+        const discount = number('parkDiscountRate');
+        const minCharge = number('parkMinCharge');
+        const feeBox = document.getElementById('parkFeeValue');
+        const breakdownValue = document.getElementById('parkBreakdownValue');
+        if (!hourly) {
+          show('');
+          if (feeBox) feeBox.textContent = '—';
+          if (breakdownValue) breakdownValue.textContent = '—';
+          return;
+        }
+        const base = duration * hourly;
+        const discounted = base * (1 - (discount > 0 ? discount : 0) / 100);
+        const fee = Math.max(minCharge || 0, discounted);
+        if (feeBox) feeBox.textContent = money(fee);
+        const parts: string[] = [`${duration}시간 × ${money(hourly)}`];
+        if (discount > 0) parts.push(`${discount}% 할인`);
+        if (minCharge > 0 && discounted < minCharge) parts.push(`최소 요금 적용`);
+        if (breakdownValue) breakdownValue.textContent = parts.join(' · ');
+        show(`주차 ${money(fee)} (${duration}시간)`);
+      }
+      if (type === 'password-strength') {
+        const pw = (document.getElementById('pwInput') as HTMLInputElement | null)?.value || '';
+        const strengthBox = document.getElementById('pwStrengthValue');
+        const entropyBox = document.getElementById('pwEntropyValue');
+        const breakdownValue = document.getElementById('pwBreakdownValue');
+        if (!pw) {
+          show('');
+          if (strengthBox) strengthBox.textContent = '—';
+          if (entropyBox) entropyBox.textContent = '—';
+          if (breakdownValue) breakdownValue.textContent = '—';
+          return;
+        }
+        let charset = 0;
+        if (/[a-z]/.test(pw)) charset += 26;
+        if (/[A-Z]/.test(pw)) charset += 26;
+        if (/[0-9]/.test(pw)) charset += 10;
+        if (/[^a-zA-Z0-9]/.test(pw)) charset += 33;
+        const entropy = pw.length * Math.log2(charset || 1);
+        const guesses = Math.pow(2, entropy);
+        const seconds = guesses / 1e10;
+        let label: string;
+        if (seconds < 60) label = '즉시(1분 미만)';
+        else if (seconds < 3600) label = `${Math.ceil(seconds / 60)}분`;
+        else if (seconds < 86400) label = `${Math.ceil(seconds / 3600)}시간`;
+        else if (seconds < 2592000) label = `${Math.ceil(seconds / 86400)}일`;
+        else if (seconds < 31536000) label = `${Math.ceil(seconds / 2592000)}개월`;
+        else if (seconds < 31536000 * 100) label = `${(seconds / 31536000).toFixed(1)}년`;
+        else if (seconds < 31536000 * 1e6) label = `${(seconds / 31536000 / 100).toFixed(0)}백년`;
+        else label = `수백만 년+`;
+        const level = entropy < 40 ? '약함' : entropy < 60 ? '보통' : entropy < 80 ? '강함' : '매우 강함';
+        if (strengthBox) strengthBox.textContent = level;
+        if (entropyBox) entropyBox.textContent = `${entropy.toFixed(1)} bit`;
+        if (breakdownValue) breakdownValue.textContent = `예상 탈취 시간 ${label} (문자 ${charset}종류 · ${pw.length}자리)`;
+        show(`강도: ${level} · 엔트로피 ${entropy.toFixed(1)} bit · 예상 탈취 ${label}`);
+      }
+      if (type === 'commute') {
+        const distance = number('cmDistance');
+        const eff = number('cmEfficiency');
+        const fuel = number('cmFuelPrice');
+        const carTime = number('cmCarTime');
+        const transitTime = number('cmTransitTime');
+        const transitFare = number('cmTransitFare');
+        const carBox = document.getElementById('cmCarCostValue');
+        const transitBox = document.getElementById('cmTransitCostValue');
+        const breakdownValue = document.getElementById('cmBreakdownValue');
+        const carCost = distance && eff && fuel ? (distance / eff) * fuel * 2 : 0;
+        const transitCost = transitFare * 2;
+        if (!carCost && !transitCost) {
+          show('');
+          if (carBox) carBox.textContent = '—';
+          if (transitBox) transitBox.textContent = '—';
+          if (breakdownValue) breakdownValue.textContent = '—';
+          return;
+        }
+        if (carBox) carBox.textContent = carCost ? money(carCost) : '—';
+        if (transitBox) transitBox.textContent = transitCost ? money(transitCost) : '—';
+        const diffCost = carCost - transitCost;
+        const costLine = carCost && transitCost ? `비용 ${diffCost > 0 ? '대중교통이 ' + money(diffCost) + ' 저렴' : diffCost < 0 ? '자가용이 ' + money(-diffCost) + ' 저렴' : '동일'}` : '비용 정보 부족';
+        const timeLine = carTime && transitTime ? `시간 ${carTime < transitTime ? '자가용이 ' + (transitTime - carTime) + '분 빠름' : carTime > transitTime ? '대중교통이 ' + (carTime - transitTime) + '분 빠름' : '동일'}` : '시간 정보 부족';
+        if (breakdownValue) breakdownValue.textContent = `${costLine} · ${timeLine}`;
+        show(carCost && transitCost ? `하루 자가용 ${money(carCost)} · 대중교통 ${money(transitCost)} (${diffCost > 0 ? `대중교통이 하루 ${money(diffCost)} 저렴` : `자가용이 하루 ${money(-diffCost)} 저렴`})` : '비용·시간을 입력해 주세요.');
       }
     }
 

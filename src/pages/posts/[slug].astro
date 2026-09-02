@@ -5,15 +5,20 @@ import { getPosts } from '../../lib/posts';
 export async function getStaticPaths() {
   const posts = getPosts();
   return posts.map((post, index) => {
-    const relatedByCategory = posts.filter((item) => item.id !== post.id && item.data.category === post.data.category);
-    const relatedFallback = posts.filter((item) => item.id !== post.id && item.data.category !== post.data.category);
+    const isGuide = post.data.category === '가이드';
+    const pool = isGuide
+      ? posts.filter((item) => item.data.category === '가이드')
+      : posts.filter((item) => item.data.category !== '가이드');
+    const indexInPool = pool.findIndex((item) => item.id === post.id);
+    const relatedByCategory = pool.filter((item) => item.id !== post.id && item.data.category === post.data.category);
+    const relatedFallback = pool.filter((item) => item.id !== post.id && item.data.category !== post.data.category);
     const related = [...relatedByCategory, ...relatedFallback].slice(0, 3);
     return {
       params: { slug: post.id },
       props: {
         post,
-        prev: posts[index - 1] ?? null,
-        next: posts[index + 1] ?? null,
+        prev: pool[indexInPool - 1] ?? null,
+        next: pool[indexInPool + 1] ?? null,
         related
       }
     };

@@ -126,7 +126,13 @@ export type Tool = {
       | 'due-date'
       | 'qr-code'
       | 'ev-vs-gas'
-      | 'carbon-emission';
+      | 'carbon-emission'
+      | 'stock-return'
+      | 'caffeine'
+      | 'saving-goal'
+      | 'parking'
+      | 'password-strength'
+      | 'commute';
 };
 
 export const TOOLS: Tool[] = [
@@ -284,4 +290,10 @@ export const TOOLS: Tool[] = [
   { slug: 'qr-code-generator', title: 'QR 코드 생성기', description: '텍스트·URL로 QR 코드를 만들어 미리보기와 PNG를 제공합니다', category: 'IT', icon: '🔲', type: 'qr-code' },
   { slug: 'ev-vs-gas-comparer', title: '전기차 vs 내연기관 비교', description: '주행거리 기준 연료비를 비교해 절약액을 추정합니다', category: '금융', icon: '⚡', type: 'ev-vs-gas' },
   { slug: 'carbon-emission-calculator', title: '이동수단 탄소배출량 계산기', description: '수단별 이동 거리로 탄소배출량을 추정합니다', category: '생활', icon: '🌱', type: 'carbon-emission' },
+  { slug: 'stock-return-calculator', title: '주식 수익률 계산기', description: '매수·매도가에 수수료·양도세를 반영해 실질 수익률을 계산합니다', category: '투자', icon: '📈', type: 'stock-return' },
+  { slug: 'caffeine-calculator', title: '카페인 섭취 계산기', description: '음료별 카페인 합산으로 일일 섭취량을 확인합니다', category: '건강', icon: '☕', type: 'caffeine' },
+  { slug: 'saving-goal-calculator', title: '저축 목표일 계산기', description: '월 저축액과 목표금액으로 달성 예상일을 계산합니다', category: '금융', icon: '🎯', type: 'saving-goal' },
+  { slug: 'parking-fee-calculator', title: '주차 요금 계산기', description: '주차 시간과 단가로 예상 요금을 계산합니다', category: '생활', icon: '🅿️', type: 'parking' },
+  { slug: 'password-strength-checker', title: '비밀번호 강도 체크기', description: '문자 종류와 길이로 비밀번호 강도와 예상 탈취 시간을 확인합니다', category: '보안', icon: '🔒', type: 'password-strength' },
+  { slug: 'commute-comparer', title: '출퇴근 비교 계산기', description: '자가용과 대중교통의 시간·비용을 비교합니다', category: '취업', icon: '🚗', type: 'commute' },
 ];

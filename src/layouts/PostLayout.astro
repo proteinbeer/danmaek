@@ -43,7 +43,7 @@ const breadcrumbLd = {
     <script is:inline type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
     <script is:inline type="application/ld+json" set:html={JSON.stringify(breadcrumbLd)} />
   </Fragment>
-  <main class="article-page">
+  <main class={`article-page${data.category === '가이드' ? ' article-page--guide' : ''}`}>
     <div class="article-wrap">
       <nav class="breadcrumb" aria-label="breadcrumb">
         <a href="/">홈</a> <span aria-hidden="true">/</span> <a href={categoryToPath[data.category]}>{data.category}</a>
@@ -57,6 +57,13 @@ const breadcrumbLd = {
           </div>
           <div class="tag-list">
             {data.tags.map((tag: string) => <span>#{tag}</span>)}
+          </div>
+          <div class="adfit-banner adfit-banner--hero">
+            <ins class="kakao_ad_area" style="display:none;"
+              data-ad-unit="DAN-LoWQpAjT1C8qjOLo"
+              data-ad-width="728"
+              data-ad-height="90"></ins>
+            <script is:inline async type="text/javascript" charset="utf-8" src="https://t1.kakaocdn.net/kas/static/ba.min.js"></script>
           </div>
         </header>
         {!data.hideHeroImage && (
@@ -83,13 +90,16 @@ const breadcrumbLd = {
           )}
         </nav>
         <div class="coupang-banner">
-          <script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-          <script is:inline>
-            new PartnersCoupang.G({"id":1021235,"trackingCode":"AF7638395","subId":null,"template":"carousel","width":"662","height":"140"});
-          </script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
+<script is:inline>
+	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+	new PartnersCoupang.G({"id":1021235,"trackingCode":"AF7638395","subId":null,"template":"carousel","width":"662","height":"140"});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
         </div>
       </article>
-      <div style="text-align:center; padding-top:18px;">
+      <div style="text-align:center; padding-top:24px;">
         <a class="button-link" href="#top" style="display:inline-flex;">맨 위로 ↑</a>
       </div>
     </div>

@@ -9,6 +9,13 @@ const posts = getPostsByCategory('IT');
 ---
 <BaseLayout title={`IT | ${SITE.name}`} description={category.description} canonical={new URL('/it/', SITE.url).toString()}>
   <main class="container">
+    <div class="adfit-banner">
+      <ins class="kakao_ad_area" style="display:none;"
+        data-ad-unit="DAN-LoWQpAjT1C8qjOLo"
+        data-ad-width="728"
+        data-ad-height="90"></ins>
+      <script is:inline async type="text/javascript" charset="utf-8" src="https://t1.kakaocdn.net/kas/static/ba.min.js"></script>
+    </div>
     <section aria-label="IT 글 목록">
       <div class="section-head">
         <div><h2>IT</h2></div>

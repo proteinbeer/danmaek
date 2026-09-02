@@ -4,10 +4,18 @@ import PostCard from '../components/PostCard.astro';
 import { getPosts } from '../lib/posts';
 import { TOOLS } from '../lib/tools';
 
-const posts = getPosts();
+const posts = getPosts().filter((post) => post.data.category !== '가이드');
+const guidePosts = getPosts().filter((post) => post.data.category === '가이드');
 ---
 <BaseLayout>
   <main class="home-page">
+    <div class="container adfit-banner">
+      <ins class="kakao_ad_area" style="display:none;"
+        data-ad-unit="DAN-LoWQpAjT1C8qjOLo"
+        data-ad-width="728"
+        data-ad-height="90"></ins>
+      <script is:inline async type="text/javascript" charset="utf-8" src="https://t1.kakaocdn.net/kas/static/ba.min.js"></script>
+    </div>
     <section class="container home-hero" aria-labelledby="home-title">
       <h1 id="home-title">IT, 게임, 도구를 빠르게 깊게</h1>
       <p>새로운 기술과 게임 흐름, 바로 쓰는 온라인 도구를 단맥답게 정리합니다.</p>
@@ -30,6 +38,28 @@ const posts = getPosts();
         </button>
         <span class="pager__status" id="pager-status"></span>
         <button type="button" class="pager__arrow" id="pager-next" aria-label="다음 페이지">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 18l6-6-6-6"/></svg>
+        </button>
+      </nav>
+    </section>
+
+    <section class="container" aria-labelledby="guides-title" id="guide-section">
+      <div class="section-head">
+        <div>
+          <h2 id="guides-title">단 가이드</h2>
+          <p>구매, 환불, 설정 같은 실생활에 바로 써먹는 방법</p>
+        </div>
+        <input id="home-guide-search" class="home-search-input" type="search" placeholder="가이드 검색" aria-label="가이드 검색" autocomplete="off" />
+      </div>
+      <div class="grid" id="guide-grid">
+        {guidePosts.map((post) => <PostCard post={post} />)}
+      </div>
+      <nav class="pager" id="guide-pager" aria-label="가이드 페이지 네비게이션">
+        <button type="button" class="pager__arrow" id="guide-pager-prev" aria-label="이전 페이지">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 18l-6-6 6-6"/></svg>
+        </button>
+        <span class="pager__status" id="guide-pager-status"></span>
+        <button type="button" class="pager__arrow" id="guide-pager-next" aria-label="다음 페이지">
           <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 18l6-6-6-6"/></svg>
         </button>
       </nav>
@@ -62,13 +92,18 @@ const posts = getPosts();
           <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 18l6-6-6-6"/></svg>
         </button>
       </nav>
-      <div class="adfit-banner">
-        <ins class="kakao_ad_area" style="display:none;"
-          data-ad-unit="DAN-LoWQpAjT1C8qjOLo"
-          data-ad-width="728"
-          data-ad-height="90"></ins>
+      <div class="tool-coupang tool-coupang--sm">
+<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
+<script is:inline>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
       </div>
-      <script is:inline async type="text/javascript" charset="utf-8" src="https://t1.kakaocdn.net/kas/static/ba.min.js"></script>
+      <div class="tool-coupang tool-coupang--lg">
+<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
+<script is:inline>
+	new PartnersCoupang.G({"id":1021235,"trackingCode":"AF7638395","subId":null,"template":"carousel","width":"662","height":"140"});
+</script>
+      </div>
     </section>
 
   </main>
@@ -183,7 +218,54 @@ const posts = getPosts();
     homeSearch?.addEventListener('input', filterPosts);
     homeToolSearch?.addEventListener('input', filterTools);
 
+    const guideSearch = document.getElementById('home-guide-search') as HTMLInputElement;
+    const guideGrid = document.getElementById('guide-grid') as HTMLElement;
+    const guidePager = document.getElementById('guide-pager') as HTMLElement;
+    const guidePrevButton = document.getElementById('guide-pager-prev') as HTMLButtonElement;
+    const guideNextButton = document.getElementById('guide-pager-next') as HTMLButtonElement;
+    const guideStatus = document.getElementById('guide-pager-status') as HTMLElement;
+    const GUIDE_PAGE_SIZE = 6;
+    const allGuideCards = Array.from(guideGrid?.children ?? []) as HTMLElement[];
+    let filteredGuideCards = [...allGuideCards];
+    let guideTotalPages = Math.ceil(filteredGuideCards.length / GUIDE_PAGE_SIZE);
+    let guideCurrent = 0;
+
+    function renderGuides() {
+      const start = guideCurrent * GUIDE_PAGE_SIZE;
+      const pageCards = filteredGuideCards.slice(start, start + GUIDE_PAGE_SIZE);
+      guideGrid.innerHTML = '';
+      pageCards.forEach((card) => { card.style.display = ''; guideGrid.appendChild(card); });
+      for (let i = pageCards.length; i < GUIDE_PAGE_SIZE; i++) guideGrid.appendChild(makePlaceholder());
+      guideStatus.textContent = `${guideCurrent + 1} / ${guideTotalPages}`;
+      guidePrevButton.disabled = guideCurrent === 0;
+      guideNextButton.disabled = guideCurrent >= guideTotalPages - 1;
+      guidePager.hidden = guideTotalPages <= 1 && filteredGuideCards.length <= GUIDE_PAGE_SIZE;
+    }
+
+    function goToGuidePage(page: number) {
+      if (page < 0 || page > guideTotalPages - 1 || page === guideCurrent) return;
+      guideCurrent = page;
+      renderGuides();
+    }
+
+    function filterGuides() {
+      const q = (guideSearch?.value || '').trim().toLowerCase();
+      if (q) {
+        filteredGuideCards = allGuideCards.filter((card) => card.textContent?.toLowerCase().includes(q));
+      } else {
+        filteredGuideCards = [...allGuideCards];
+      }
+      guideTotalPages = Math.ceil(filteredGuideCards.length / GUIDE_PAGE_SIZE) || 1;
+      guideCurrent = 0;
+      renderGuides();
+    }
+
+    guidePrevButton?.addEventListener('click', () => goToGuidePage(guideCurrent - 1));
+    guideNextButton?.addEventListener('click', () => goToGuidePage(guideCurrent + 1));
+    guideSearch?.addEventListener('input', filterGuides);
+
     renderPosts();
     renderTools();
+    renderGuides();
   </script>
 </BaseLayout>

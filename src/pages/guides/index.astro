@@ -1,11 +1,13 @@
 ---
 import BaseLayout from '../../components/BaseLayout.astro';
+import PostCard from '../../components/PostCard.astro';
 import { CATEGORIES, SITE } from '../../consts';
-import { TOOLS } from '../../lib/tools';
+import { getPostsByCategory } from '../../lib/posts';
 
-const category = CATEGORIES.find((item) => item.name === '도구')!;
+const category = CATEGORIES.find((item) => item.name === '가이드')!;
+const posts = getPostsByCategory('가이드');
 ---
-<BaseLayout title={`도구 | ${SITE.name}`} description={category.description} canonical={new URL('/tools/', SITE.url).toString()}>
+<BaseLayout title={`가이드 | ${SITE.name}`} description={category.description} canonical={new URL('/guides/', SITE.url).toString()}>
   <main class="container">
     <div class="adfit-banner">
       <ins class="kakao_ad_area" style="display:none;"
@@ -14,22 +16,12 @@ const category = CATEGORIES.find((item) => item.name === '도구')!;
         data-ad-height="90"></ins>
       <script is:inline async type="text/javascript" charset="utf-8" src="https://t1.kakaocdn.net/kas/static/ba.min.js"></script>
     </div>
-    <section aria-label="도구 목록">
+    <section aria-label="가이드 글 목록">
       <div class="section-head">
-        <div><h2>도구</h2></div>
+        <div><h2>가이드</h2></div>
       </div>
       <div class="grid">
-        {[...TOOLS].reverse().map((tool) => (
-          <article class="post-card">
-            <a class="post-card__image" href={`/tools/${tool.slug}/`} aria-label={tool.title}>
-              <div class="tool-card__icon-placeholder">{tool.icon}</div>
-            </a>
-            <div class="post-card__meta">
-              <span>{tool.category}</span>
-            </div>
-            <h3><a href={`/tools/${tool.slug}/`}>{tool.title}</a></h3>
-          </article>
-        ))}
+        {posts.map((post) => <PostCard post={post} />)}
       </div>
     </section>
     <div class="tool-coupang tool-coupang--sm">
