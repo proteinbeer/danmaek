@@ -1,0 +1,95 @@
+---
+import BaseLayout from '../../components/BaseLayout.astro';
+import PostCard from '../../components/PostCard.astro';
+import { CATEGORIES, COUPON_SUBCATEGORIES, SITE } from '../../consts';
+import { getPostsByCategory } from '../../lib/posts';
+
+const category = CATEGORIES.find((item) => item.name === '쿠폰')!;
+const posts = getPostsByCategory('쿠폰');
+const subcats = [...COUPON_SUBCATEGORIES];
+---
+<BaseLayout title={`쿠폰 | ${SITE.name}`} description={category.description} canonical={new URL('/coupons/', SITE.url).toString()}>
+  <main class="container">
+    <div class="adfit-banner">
+      <ins class="kakao_ad_area" style="display:none;"
+        data-ad-unit="DAN-LoWQpAjT1C8qjOLo"
+        data-ad-width="728"
+        data-ad-height="90"></ins>
+      <script is:inline async type="text/javascript" charset="utf-8" src="https://t1.kakaocdn.net/kas/static/ba.min.js"></script>
+    </div>
+    <section aria-label="쿠폰 목록">
+      <div class="section-head">
+        <div><h2>쿠폰</h2></div>
+        <div class="section-head__controls">
+          <div class="sub-drop" id="coupon-sub-drop">
+            <button type="button" class="sub-filter" id="coupon-sub-trigger" aria-haspopup="listbox" aria-expanded="false">전체</button>
+            <div class="sub-dropdown" role="listbox" id="coupon-sub-list">
+              <button type="button" class="sub-dropdown-item" data-value="" role="option">전체</button>
+              {subcats.map((sub) => <button type="button" class="sub-dropdown-item" data-value={sub.name} role="option">{sub.name}</button>)}
+            </div>
+          </div>
+          <input id="coupon-search" class="home-search-input" type="search" placeholder="쿠폰 검색" aria-label="쿠폰 검색" autocomplete="off" />
+        </div>
+      </div>
+      <div class="grid" id="post-grid">
+        {posts.map((post) => <PostCard post={post} />)}
+      </div>
+    </section>
+    <div class="tool-coupang tool-coupang--sm">
+<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
+<script is:inline>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+    </div>
+    <div class="tool-coupang tool-coupang--lg">
+<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
+<script is:inline>
+	new PartnersCoupang.G({"id":1021235,"trackingCode":"AF7638395","subId":null,"template":"carousel","width":"662","height":"140"});
+</script>
+    </div>
+  </main>
+  <script>
+    const grid = document.getElementById('post-grid') as HTMLElement;
+    const allCards = Array.from(grid?.children ?? []) as HTMLElement[];
+
+    function setupSubDrop(drop: HTMLElement, onChange: (value: string) => void) {
+      const trigger = drop.querySelector('.sub-filter') as HTMLButtonElement;
+      const list = drop.querySelector('.sub-dropdown') as HTMLElement;
+      const items = Array.from(drop.querySelectorAll('.sub-dropdown-item')) as HTMLButtonElement[];
+      let value = '';
+      const open = () => { list.classList.add('open'); trigger.setAttribute('aria-expanded', 'true'); };
+      const close = () => { list.classList.remove('open'); trigger.setAttribute('aria-expanded', 'false'); };
+      trigger.addEventListener('click', (e) => {
+        e.stopPropagation();
+        list.classList.contains('open') ? close() : open();
+      });
+      items.forEach((item) => {
+        item.addEventListener('click', (e) => {
+          e.stopPropagation();
+          value = item.dataset.value || '';
+          trigger.textContent = item.textContent || '전체';
+          items.forEach((it) => it.classList.toggle('active', it === item));
+          close();
+          onChange(value);
+        });
+      });
+      document.addEventListener('click', (e) => {
+        if (!drop.contains(e.target as Node)) close();
+      });
+      return { getValue: () => value };
+    }
+
+    const couponSearch = document.getElementById('coupon-search') as HTMLInputElement;
+    function filterCoupons() {
+      const q = (couponSearch?.value || '').trim().toLowerCase();
+      const sub = couponSub.getValue();
+      allCards.forEach((card) => {
+        const matchSub = !sub || card.dataset.subcategory === sub;
+        const matchQ = !q || card.textContent?.toLowerCase().includes(q);
+        card.style.display = matchSub && matchQ ? '' : 'none';
+      });
+    }
+    couponSearch?.addEventListener('input', filterCoupons);
+    const couponSub = setupSubDrop(document.getElementById('coupon-sub-drop') as HTMLElement, () => filterCoupons());
+  </script>
+</BaseLayout>

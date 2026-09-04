@@ -10,7 +10,8 @@ export type Post = {
     description: string;
     date: Date;
     updated?: Date;
-    category: 'IT' | '게임' | '가이드';
+    category: '뉴스' | '가이드' | '쿠폰';
+    subcategory: string;
     tags: string[];
     image: string;
     imageAlt: string;
@@ -45,7 +46,8 @@ const normalizePost = ([path, mod]: [string, PostModule]): Post => {
       description: String(frontmatter.description ?? ''),
       date: toDate(frontmatter.date),
       updated: frontmatter.updated ? toDate(frontmatter.updated) : undefined,
-      category: String(frontmatter.category ?? 'IT') as Post['data']['category'],
+      category: (String(frontmatter.category ?? '뉴스') as Post['data']['category']),
+      subcategory: String(frontmatter.subcategory ?? ''),
       tags: toStringArray(frontmatter.tags),
       image: String(frontmatter.image ?? 'https://img.danmaek.com/images/og-default.jpg'),
       imageAlt: String(frontmatter.imageAlt ?? ''),
@@ -69,3 +71,6 @@ export const getPosts = () => posts;
 
 export const getPostsByCategory = (category: Post['data']['category']) =>
   posts.filter((post) => post.data.category === category);
+
+export const getPostsBySubcategory = (category: Post['data']['category'], subcategory: string) =>
+  posts.filter((post) => post.data.category === category && post.data.subcategory === subcategory);

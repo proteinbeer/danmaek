@@ -3,7 +3,7 @@ import BaseLayout from '../components/BaseLayout.astro';
 import ShareButtons from '../components/ShareButtons.astro';
 import PostCard from '../components/PostCard.astro';
 import LocalPostEditor from '../components/LocalPostEditor.astro';
-import { SITE, categoryToPath } from '../consts';
+import { SITE, categoryToPath, NEWS_SUBCATEGORIES, GUIDE_SUBCATEGORIES, COUPON_SUBCATEGORIES } from '../consts';
 
 const { post, prev, next, related } = Astro.props;
 const Content = post.Content;
@@ -13,6 +13,8 @@ const description = data.description.trim();
 const metaDescription = description || SITE.description;
 const canonical = new URL(`/posts/${post.id}/`, SITE.url).toString();
 const updated = data.updated ?? data.date;
+const subList = data.category === '가이드' ? GUIDE_SUBCATEGORIES : data.category === '쿠폰' ? COUPON_SUBCATEGORIES : NEWS_SUBCATEGORIES;
+const sub = data.subcategory ? subList.find((s) => s.name === data.subcategory) : null;
 const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'BlogPosting',
@@ -34,7 +36,8 @@ const breadcrumbLd = {
   itemListElement: [
     { '@type': 'ListItem', position: 1, name: '홈', item: SITE.url },
     { '@type': 'ListItem', position: 2, name: data.category, item: new URL(categoryToPath[data.category], SITE.url).toString() },
-    { '@type': 'ListItem', position: 3, name: data.title, item: canonical }
+    ...(sub ? [{ '@type': 'ListItem', position: 3, name: sub.name, item: new URL(`${categoryToPath[data.category]}${sub.slug}/`, SITE.url).toString() }] : []),
+    { '@type': 'ListItem', position: sub ? 4 : 3, name: data.title, item: canonical }
   ]
 };
 ---
@@ -46,7 +49,7 @@ const breadcrumbLd = {
   <main class={`article-page${data.category === '가이드' ? ' article-page--guide' : ''}`}>
     <div class="article-wrap">
       <nav class="breadcrumb" aria-label="breadcrumb">
-        <a href="/">홈</a> <span aria-hidden="true">/</span> <a href={categoryToPath[data.category]}>{data.category}</a>
+        <a href="/">홈</a> <span aria-hidden="true">/</span> <a href={categoryToPath[data.category]}>{data.category}</a>{sub && <> <span aria-hidden="true">/</span> <a href={`${categoryToPath[data.category]}${sub.slug}/`}>{sub.name}</a></>}
       </nav>
       <article>
         <header class="article-header">
@@ -99,7 +102,7 @@ const breadcrumbLd = {
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
         </div>
       </article>
-      <div style="text-align:center; padding-top:24px;">
+      <div style="text-align:center; padding-top:22px;">
         <a class="button-link" href="#top" style="display:inline-flex;">맨 위로 ↑</a>
       </div>
     </div>
@@ -109,8 +112,7 @@ const breadcrumbLd = {
     <section class="container related-section">
       <div class="section-head">
         <div>
-          <h2>관련 글</h2>
-          <p>이어서 읽기 좋은 다른 글입니다.</p>
+          <h2>{data.category === '가이드' ? '단 가이드' : '단 글'}</h2>
         </div>
       </div>
       <div class="grid">

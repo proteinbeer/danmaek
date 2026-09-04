@@ -17,10 +17,13 @@ const category = CATEGORIES.find((item) => item.name === '도구')!;
     <section aria-label="도구 목록">
       <div class="section-head">
         <div><h2>도구</h2></div>
+        <div class="section-head__controls">
+          <input id="tools-search" class="home-search-input" type="search" placeholder="도구 검색" aria-label="도구 검색" autocomplete="off" />
+        </div>
       </div>
-      <div class="grid">
+      <div class="grid" id="tool-grid">
         {[...TOOLS].reverse().map((tool) => (
-          <article class="post-card">
+          <article class="post-card" data-search={`${tool.title} ${tool.category}`}>
             <a class="post-card__image" href={`/tools/${tool.slug}/`} aria-label={tool.title}>
               <div class="tool-card__icon-placeholder">{tool.icon}</div>
             </a>
@@ -45,4 +48,16 @@ const category = CATEGORIES.find((item) => item.name === '도구')!;
 </script>
     </div>
   </main>
+  <script>
+    const toolGrid = document.getElementById('tool-grid') as HTMLElement;
+    const allToolCards = Array.from(toolGrid?.children ?? []) as HTMLElement[];
+    const toolsSearch = document.getElementById('tools-search') as HTMLInputElement;
+    function filterTools() {
+      const q = (toolsSearch?.value || '').trim().toLowerCase();
+      allToolCards.forEach((card) => {
+        card.style.display = !q || card.dataset.search?.toLowerCase().includes(q) ? '' : 'none';
+      });
+    }
+    toolsSearch?.addEventListener('input', filterTools);
+  </script>
 </BaseLayout>

@@ -2,13 +2,15 @@
 import { categoryToPath } from '../consts';
 const { post } = Astro.props;
 const data = post.data;
+const label = data.subcategory || data.category;
+const link = data.category === '뉴스' ? '/news/' : categoryToPath[data.category];
 ---
-<article class="post-card">
+<article class="post-card" data-category={data.category} data-subcategory={data.subcategory}>
   <a class="post-card__image" href={`/posts/${post.id}/`} aria-label={data.title}>
     <img src={data.image} alt={data.imageAlt} width={data.imageWidth} height={data.imageHeight} loading="lazy" decoding="async" />
   </a>
   <div class="post-card__meta">
-    <a href={categoryToPath[data.category]}>{data.category}</a>
+    <a href={link}>{label}</a>
     <span> · </span>
     <time datetime={data.date.toISOString()}>{data.date.toLocaleDateString('ko-KR')}</time>
   </div>

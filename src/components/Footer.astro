@@ -1,3 +1,6 @@
+---
+import { COUPON_SUBCATEGORIES, GUIDE_SUBCATEGORIES, NEWS_SUBCATEGORIES } from '../consts';
+---
 <footer class="site-footer">
   <div class="container site-footer__inner">
     <div class="footer-brand">
@@ -9,10 +12,38 @@
       </a>
       <span>&copy; 2026 DANMAEK. All rights reserved.</span>
     </div>
-    <nav class="footer-links" aria-label="정보">
-      <a href="/contact/">문의</a>
-      <a href="/privacy/">개인정보처리방침</a>
-      <a href="/feed.xml">RSS</a>
-    </nav>
+    <div class="footer-navigation">
+      <nav class="footer-cats" aria-label="카테고리">
+        <div class="footer-cats-row">
+          <div class="footer-cat">
+            <a href="/news/">뉴스</a>
+            <div class="footer-subcats">
+              {NEWS_SUBCATEGORIES.map((sub) => <a href={`/news/${sub.slug}/`}><span class="footer-subcat-label">{sub.name}</span></a>)}
+            </div>
+          </div>
+          <div class="footer-cat">
+            <a href="/guides/">가이드</a>
+            <div class="footer-subcats">
+              {GUIDE_SUBCATEGORIES.map((sub) => <a href={`/guides/${sub.slug}/`}><span class="footer-subcat-label">{sub.name}</span></a>)}
+            </div>
+          </div>
+          <div class="footer-cat">
+            <a href="/coupons/">쿠폰</a>
+            <div class="footer-subcats">
+              {COUPON_SUBCATEGORIES.map((sub) => <a href={`/coupons/${sub.slug}/`}><span class="footer-subcat-label">{sub.name}</span></a>)}
+            </div>
+          </div>
+          <div class="footer-cat">
+            <a href="/tools/">도구</a>
+          </div>
+        </div>
+      </nav>
+      <nav class="footer-links" aria-label="정보">
+        <a href="/about/">소개</a>
+        <a href="/contact/">문의</a>
+        <a href="/privacy/">개인정보처리방침</a>
+        <a href="/feed.xml">RSS</a>
+      </nav>
+    </div>
   </div>
 </footer>

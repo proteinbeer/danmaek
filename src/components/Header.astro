@@ -1,4 +1,6 @@
 ---
+import { COUPON_SUBCATEGORIES, GUIDE_SUBCATEGORIES, NEWS_SUBCATEGORIES } from '../consts';
+
 const path = Astro.url.pathname;
 ---
 <header class="site-header">
@@ -9,10 +11,33 @@ const path = Astro.url.pathname;
       </span>
     </a>
     <nav class="nav" aria-label="주요 메뉴">
-      <a href="/it/" aria-current={path.startsWith('/it/') ? 'page' : undefined}>IT</a>
-      <a href="/games/" aria-current={path.startsWith('/games/') ? 'page' : undefined}>게임</a>
-      <a href="/guides/" aria-current={path.startsWith('/guides/') ? 'page' : undefined}>가이드</a>
-      <a href="/tools/" aria-current={path.startsWith('/tools/') ? 'page' : undefined}>도구</a>
+      <div class="nav-item">
+        <a href="/news/" aria-current={path.startsWith('/news/') ? 'page' : undefined} class="nav-item__link">뉴스</a>
+        <div class="nav-dropdown">
+          {NEWS_SUBCATEGORIES.map((sub) => (
+            <a href={`/news/${sub.slug}/`} aria-current={path.startsWith(`/news/${sub.slug}/`) ? 'page' : undefined}>{sub.name}</a>
+          ))}
+        </div>
+      </div>
+      <div class="nav-item">
+        <a href="/guides/" aria-current={path.startsWith('/guides/') ? 'page' : undefined} class="nav-item__link">가이드</a>
+        <div class="nav-dropdown">
+          {GUIDE_SUBCATEGORIES.map((sub) => (
+            <a href={`/guides/${sub.slug}/`} aria-current={path.startsWith(`/guides/${sub.slug}/`) ? 'page' : undefined}>{sub.name}</a>
+          ))}
+        </div>
+      </div>
+      <div class="nav-item">
+        <a href="/coupons/" aria-current={path.startsWith('/coupons/') ? 'page' : undefined} class="nav-item__link">쿠폰</a>
+        <div class="nav-dropdown">
+          {COUPON_SUBCATEGORIES.map((sub) => (
+            <a href={`/coupons/${sub.slug}/`} aria-current={path.startsWith(`/coupons/${sub.slug}/`) ? 'page' : undefined}>{sub.name}</a>
+          ))}
+        </div>
+      </div>
+      <div class="nav-item">
+        <a href="/tools/" aria-current={path.startsWith('/tools/') ? 'page' : undefined} class="nav-item__link">도구</a>
+      </div>
     </nav>
     <a class={`button-link header-search`} href="/search/" aria-label="검색" aria-current={path.startsWith('/search/') ? 'page' : undefined}>
       <img src="/assets/search.png" alt="" aria-hidden="true" width="26" height="26" />
