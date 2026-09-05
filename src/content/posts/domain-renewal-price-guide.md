@@ -10,10 +10,10 @@ tags:
   - "도메인 갱신"
   - "도메인 이전"
   - "DNS"
-image: "/assets/posts/guide-images/domain-renewal-guide-01.jpg"
+image: "/assets/posts/guide-images/network-guide-common.jpg"
 imageAlt: "노트북으로 인터넷 작업을 하는 모습"
 imageWidth: 1200
-imageHeight: 630
+imageHeight: 675
 hideHeroImage: true
 hideDescription: true
 ---
@@ -24,7 +24,7 @@ hideDescription: true
 
 도메인을 어느 곳에서 등록하든 도메인 자체는 동일합니다. 그런데 첫해 가격은 1천 원대인데 갱신 가격은 몇 배로 뛰는 경우가 많죠. 등록 대행사가 가격을 나누는 방식에는 이유가 있습니다.
 
-<img class="post-landscape-image" src="/assets/posts/guide-images/domain-renewal-guide-01.jpg" alt="노트북으로 인터넷 작업을 하는 모습" width="1200" height="630" loading="lazy" decoding="async" />
+<img class="post-landscape-image" src="/assets/posts/guide-images/network-guide-common.jpg" alt="노트북으로 인터넷 작업을 하는 모습" width="1200" height="675" loading="lazy" decoding="async" />
 
 ## 1. 어디서 사든 도메인은 같다
 

@@ -10,10 +10,10 @@ tags:
   - "웹사이트"
   - "워드프레스"
   - "웹빌더"
-image: "/assets/posts/guide-images/website-cost-guide-01.jpg"
+image: "/assets/posts/guide-images/network-guide-common.jpg"
 imageAlt: "재택 근무 중 노트북으로 작업하는 모습"
 imageWidth: 1200
-imageHeight: 630
+imageHeight: 675
 hideHeroImage: true
 hideDescription: true
 ---
@@ -24,7 +24,7 @@ hideDescription: true
 
 홈페이지 제작 비용은 검색해보면 100만 원부터 수천만 원까지 천차만별입니다. 그런데 정작 많이 오해하는 부분은 "직접 만들면 거의 무료"라는 생각입니다. 직접 만드는 쪽도 호스팅과 테마, 무엇보다 시간 비용이 들어갑니다.
 
-<img class="post-landscape-image" src="/assets/posts/guide-images/website-cost-guide-01.jpg" alt="재택 근무 중 노트북으로 작업하는 모습" width="1200" height="630" loading="lazy" decoding="async" />
+<img class="post-landscape-image" src="/assets/posts/guide-images/network-guide-common.jpg" alt="재택 근무 중 노트북으로 작업하는 모습" width="1200" height="675" loading="lazy" decoding="async" />
 
 ## 1. 대행사 제작 비용은 어느 정도일까
 

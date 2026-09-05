@@ -10,7 +10,7 @@ tags:
   - "핑"
   - "인터넷 속도"
   - "온라인 게임"
-image: "/assets/posts/guide-images/dualsense-1200x675.jpg"
+image: "/assets/posts/guide-images/network-guide-common.jpg"
 imageAlt: "온라인 게임 플레이 중 핑 문제"
 imageWidth: 1200
 imageHeight: 675
@@ -27,7 +27,7 @@ hideDescription: true
 
 온라인 게임을 하다가 핑(지연 시간)이 갑자기 높아지면 많은 분이 공유기를 껐다 켭니다. 하지만 공유기 전에는 내 컴퓨터에서 네트워크를 쓰는 프로그램을 확인하는 것이 훨씬 효율적입니다. 온라인 게임의 핑 저하는 대부분 다운로드·업데이트, 다른 기기의 사용량, 무선 연결 문제로부터 발생하므로, 아래 순서대로 확인하면 원인을 빠르게 좁힐 수 있습니다.
 
-<img class="post-landscape-image" src="/assets/posts/guide-images/dualsense-1200x675.jpg" alt="온라인 게임 플레이 중 핑 문제" width="1200" height="675" loading="lazy" decoding="async" />
+<img class="post-landscape-image" src="/assets/posts/guide-images/network-guide-common.jpg" alt="온라인 게임 플레이 중 핑 문제" width="1200" height="675" loading="lazy" decoding="async" />
 
 
 ## 1. 다운로드와 업데이트 확인

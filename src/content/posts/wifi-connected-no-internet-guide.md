@@ -10,10 +10,10 @@ tags:
   - "인터넷 안 됨"
   - "공유기"
   - "네트워크"
-image: "/assets/posts/guide-images/gaming-router.jpg"
+image: "/assets/posts/guide-images/network-guide-common.jpg"
 imageAlt: "홈 게이트웨이와 와이파이 공유기"
-imageWidth: 960
-imageHeight: 540
+imageWidth: 1200
+imageHeight: 675
 hideHeroImage: true
 hideDescription: true
 ---
@@ -27,7 +27,7 @@ hideDescription: true
 
 와이파이에 연결되면 대부분 인터넷도 함께 되지만, 가끔 와이파이 연결은 되어 있는데 인터넷(인터넷 없음, 연결 안 됨)만 되지 않는 경우가 있습니다. 이때 공유기부터 재부팅하기 전에, 문제가 컴퓨터 쪽인지 공유기나 인터넷 회선 쪽인지 먼저 구분하는 것이 빠른 해결의 핵심입니다. 구분하는 방법부터 차근차근 확인해보시기 바랍니다.
 
-<img class="post-landscape-image" src="/assets/posts/guide-images/gaming-router.jpg" alt="홈 게이트웨이와 와이파이 공유기" width="960" height="540" loading="lazy" decoding="async" />
+<img class="post-landscape-image" src="/assets/posts/guide-images/network-guide-common.jpg" alt="홈 게이트웨이와 와이파이 공유기" width="1200" height="675" loading="lazy" decoding="async" />
 
 
 ## 1. 다른 기기에서 확인
