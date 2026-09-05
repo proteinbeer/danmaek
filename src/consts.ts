@@ -37,7 +37,12 @@ export const COUPON_SUBCATEGORIES: Subcategory[] = [
   { name: '나 혼자만 레벨업', slug: 'solo-leveling' },
   { name: 'AFK 아레나', slug: 'afk-arena' },
   { name: '소울 나이트', slug: 'soul-knight' },
-  { name: '원펀맨: 영웅의 길', slug: 'one-punch-road' }
+  { name: '원펀맨: 영웅의 길', slug: 'one-punch-road' },
+  { name: '원신', slug: 'genshin-impact' },
+  { name: '붕괴: 스타레일', slug: 'honkai-star-rail' },
+  { name: '절지구원', slug: 'zenless-zone-zero' },
+  { name: '명조: 웨이브', slug: 'wuthering-waves' },
+  { name: '명일방주', slug: 'arknights' }
 ];
 
 export type ToolSubcategory = { name: string; slug: string; categories: string[] };
