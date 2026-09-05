@@ -52,6 +52,18 @@ Yoast SEO와 Rank Math는 유료 버전이 있지만, **SEO의 기본 기능은 
 
 다만 SEO 플러그인 한 개 정도는 설치하는 편을 권장합니다. 랭킹 마이너스가 되는 중복 콘텐츠 문제를 막아주고, 검색엔진에게 글 구조를 안정적으로 전달하는 데 도움이 되기 때문입니다. 핵심은 **한 개만, 잘 설정된 플러그인**입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
+<script is:inline>
+	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 선택 기준
 
 SEO 플러그인을 고를 때는 무료 버전 기능부터 확인하시기 바랍니다. 업데이트 주기가 빠른지, 워드프레스 최신 버전과 호환이 잘 되는지도 중요합니다. 대부분 Rank Math와 Yoast 중에서 선택하면 되고, 두 개를 동시에 설치하는 것은 피하시기 바랍니다.
