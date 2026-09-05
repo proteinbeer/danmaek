@@ -42,7 +42,15 @@ export const COUPON_SUBCATEGORIES: Subcategory[] = [
   { name: '붕괴: 스타레일', slug: 'honkai-star-rail' },
   { name: '젠레스 존 제로', slug: 'zenless-zone-zero' },
   { name: '명조: 웨이브', slug: 'wuthering-waves' },
-  { name: '명일방주', slug: 'arknights' }
+  { name: '명일방주', slug: 'arknights' },
+  { name: '이환', slug: 'neverness-to-everness' },
+  { name: '드래곤볼 레전즈', slug: 'dragon-ball-legends' },
+  { name: '원스휴먼', slug: 'once-human' },
+  { name: '퍼니싱: 그레이 레이븐', slug: 'punishing-gray-raven' },
+  { name: '붕괴3rd', slug: 'honkai-impact-3rd' },
+  { name: '승리의 여신: 니케', slug: 'nikke' },
+  { name: '소녀전선2: 망명', slug: 'girls-frontline-2' },
+  { name: '마비노기 모바일', slug: 'mabinogi-mobile' }
 ];
 
 export type ToolSubcategory = { name: string; slug: string; categories: string[] };
