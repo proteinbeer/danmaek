@@ -40,7 +40,7 @@ export const COUPON_SUBCATEGORIES: Subcategory[] = [
   { name: '원펀맨: 영웅의 길', slug: 'one-punch-road' },
   { name: '원신', slug: 'genshin-impact' },
   { name: '붕괴: 스타레일', slug: 'honkai-star-rail' },
-  { name: '절지구원', slug: 'zenless-zone-zero' },
+  { name: '젠레스 존 제로', slug: 'zenless-zone-zero' },
   { name: '명조: 웨이브', slug: 'wuthering-waves' },
   { name: '명일방주', slug: 'arknights' }
 ];
