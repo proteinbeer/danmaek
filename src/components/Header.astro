@@ -1,5 +1,5 @@
 ---
-import { COUPON_SUBCATEGORIES, GUIDE_SUBCATEGORIES, NEWS_SUBCATEGORIES } from '../consts';
+import { COUPON_SUBCATEGORIES, GUIDE_SUBCATEGORIES, NEWS_SUBCATEGORIES, TOOL_SUBCATEGORIES } from '../consts';
 
 const path = Astro.url.pathname;
 ---
@@ -37,6 +37,11 @@ const path = Astro.url.pathname;
       </div>
       <div class="nav-item">
         <a href="/tools/" aria-current={path.startsWith('/tools/') ? 'page' : undefined} class="nav-item__link">도구</a>
+        <div class="nav-dropdown">
+          {TOOL_SUBCATEGORIES.map((sub) => (
+            <a href={`/tools/${sub.slug}/`} aria-current={path.startsWith(`/tools/${sub.slug}/`) ? 'page' : undefined}>{sub.name}</a>
+          ))}
+        </div>
       </div>
     </nav>
     <a class={`button-link header-search`} href="/search/" aria-label="검색" aria-current={path.startsWith('/search/') ? 'page' : undefined}>

@@ -1,9 +1,18 @@
 ---
-import { categoryToPath } from '../consts';
+import { categoryToPath, NEWS_SUBCATEGORIES, GUIDE_SUBCATEGORIES, COUPON_SUBCATEGORIES } from '../consts';
 const { post } = Astro.props;
 const data = post.data;
 const label = data.subcategory || data.category;
-const link = data.category === '뉴스' ? '/news/' : categoryToPath[data.category];
+
+const SUB_SLUG_BY_CATEGORY: Record<string, Map<string, string>> = {
+  '뉴스': new Map(NEWS_SUBCATEGORIES.map((s) => [s.name, s.slug])),
+  '가이드': new Map(GUIDE_SUBCATEGORIES.map((s) => [s.name, s.slug])),
+  '쿠폰': new Map(COUPON_SUBCATEGORIES.map((s) => [s.name, s.slug]))
+};
+const subSlug = data.subcategory ? (SUB_SLUG_BY_CATEGORY[data.category]?.get(data.subcategory) ?? '') : '';
+const link = subSlug
+  ? `${categoryToPath[data.category] ?? '/news/'}${subSlug}/`
+  : (data.category === '뉴스' ? '/news/' : categoryToPath[data.category]);
 ---
 <article class="post-card" data-category={data.category} data-subcategory={data.subcategory}>
   <a class="post-card__image" href={`/posts/${post.id}/`} aria-label={data.title}>

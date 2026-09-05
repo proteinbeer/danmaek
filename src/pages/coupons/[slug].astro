@@ -14,7 +14,7 @@ export function getStaticPaths() {
 const { sub } = Astro.props;
 const category = CATEGORIES.find((item) => item.name === '쿠폰')!;
 const posts = getPostsBySubcategory('쿠폰', sub.name);
-const title = `${sub.name} 쿠폰`;
+const title = `${sub.name} | 쿠폰`;
 const canonical = new URL(`/coupons/${sub.slug}/`, SITE.url).toString();
 ---
 <BaseLayout title={`${title} | ${SITE.name}`} description={`${sub.name} 관련 쿠폰 모음입니다.`} canonical={canonical}>

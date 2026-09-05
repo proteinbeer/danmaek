@@ -1,5 +1,5 @@
 ---
-import { COUPON_SUBCATEGORIES, GUIDE_SUBCATEGORIES, NEWS_SUBCATEGORIES } from '../consts';
+import { COUPON_SUBCATEGORIES, GUIDE_SUBCATEGORIES, NEWS_SUBCATEGORIES, TOOL_SUBCATEGORIES } from '../consts';
 ---
 <footer class="site-footer">
   <div class="container site-footer__inner">
@@ -35,6 +35,9 @@ import { COUPON_SUBCATEGORIES, GUIDE_SUBCATEGORIES, NEWS_SUBCATEGORIES } from '.
           </div>
           <div class="footer-cat">
             <a href="/tools/">도구</a>
+            <div class="footer-subcats">
+              {TOOL_SUBCATEGORIES.map((sub) => <a href={`/tools/${sub.slug}/`}><span class="footer-subcat-label">{sub.name}</span></a>)}
+            </div>
           </div>
         </div>
       </nav>

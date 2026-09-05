@@ -40,6 +40,19 @@ export const COUPON_SUBCATEGORIES: Subcategory[] = [
   { name: '원펀맨: 영웅의 길', slug: 'one-punch-road' }
 ];
 
+export type ToolSubcategory = { name: string; slug: string; categories: string[] };
+
+export const TOOL_SUBCATEGORIES: ToolSubcategory[] = [
+  { name: '금융·계산', slug: 'finance', categories: ['금융', '투자', '계산', '변환'] },
+  { name: '건강·운동', slug: 'health', categories: ['건강', '운동'] },
+  { name: '생활·요리', slug: 'daily-life', categories: ['생활', '요리'] },
+  { name: 'IT·보안', slug: 'it-security', categories: ['IT', '보안'] },
+  { name: '게임·랜덤', slug: 'games-random', categories: ['게임', '랜덤', '재미'] },
+  { name: '이미지·오디오·영상', slug: 'media', categories: ['이미지', '오디오', '영상'] },
+  { name: '생성·디자인', slug: 'create-design', categories: ['생성', '글쓰기', '창작', '디자인'] },
+  { name: '취업·쇼핑·여행', slug: 'work-shopping-travel', categories: ['취업', '쇼핑', '여행', '학업'] }
+];
+
 export const categoryToPath: Record<string, string> = {
   뉴스: '/news/',
   가이드: '/guides/',

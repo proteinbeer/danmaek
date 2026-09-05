@@ -1,52 +1,108 @@
 ---
 
 import BaseLayout from '../../components/BaseLayout.astro';
+import { TOOL_SUBCATEGORIES } from '../../consts';
 import { TOOLS } from '../../lib/tools';
+import type { Tool } from '../../lib/tools';
+import type { ToolSubcategory } from '../../consts';
 
 export function getStaticPaths() {
-  return TOOLS.map((tool) => ({
-    params: { slug: tool.slug },
-    props: { tool },
-  }));
+  return [
+    ...TOOLS.map((tool) => ({ params: { slug: tool.slug }, props: { tool } })),
+    ...TOOL_SUBCATEGORIES.map((sub) => ({ params: { slug: sub.slug }, props: { sub } })),
+  ];
 }
 
-const { tool } = Astro.props;
+const { tool: toolRaw, sub: subRaw } = Astro.props as { tool?: Tool; sub?: ToolSubcategory };
+const t = toolRaw as Tool;
+const s = subRaw as ToolSubcategory;
+const isSub = subRaw !== undefined;
+const pageTitle = isSub ? `${s.name} 도구 | 단맥` : `${t.title} | 단맥`;
+const pageDescription = isSub ? `${s.name} 관련 도구 모음입니다.` : t.description;
 const canonicalUrl = new URL(Astro.url.pathname, 'https://danmaek.com').toString();
-const jsonLd = {
+const jsonLd = !isSub ? {
   "@context": "https://schema.org",
   "@type": "WebApplication",
-  "name": tool.title,
-  "description": tool.description,
+  "name": t.title,
+  "description": t.description,
   "url": canonicalUrl,
   "applicationCategory": "UtilityApplication",
   "operatingSystem": "Web",
   "offers": { "@type": "Offer", "price": "0", "priceCurrency": "KRW" }
-};
-const breadcrumbLd = {
+} : null;
+const breadcrumbLd = !isSub ? {
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
     { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://danmaek.com/" },
     { "@type": "ListItem", "position": 2, "name": "도구", "item": "https://danmaek.com/tools/" },
-    { "@type": "ListItem", "position": 3, "name": tool.title }
+    { "@type": "ListItem", "position": 3, "name": t.title }
   ]
-};
+} : null;
+const subTools = isSub ? TOOLS.filter((item) => s.categories.includes(item.category)) : [];
 ---
 
-<BaseLayout title={`${tool.title} | 단맥`} description={tool.description} canonical={canonicalUrl}>
-  <link slot="head" rel="stylesheet" href="/assets/tailwind.css" />
-  <script slot="head" is:inline type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
-  <script slot="head" is:inline type="application/ld+json" set:html={JSON.stringify(breadcrumbLd)} />
-  <main class="tool-page">
-    <section class="container tool-wrap">
-      <nav class="breadcrumb" aria-label="breadcrumb">
-        <a href="/">홈</a> <span aria-hidden="true">/</span> <a href="/tools/">도구</a>
-      </nav>
-      <article class="tool-panel tool-panel--sft" data-tool={tool.type} data-slug={tool.slug} data-icon={tool.icon} data-title={tool.title} data-description={tool.description}>
-        <div class="tool-panel__icon" aria-hidden="true">{tool.icon}</div>
-        <p class="eyebrow">{tool.category}</p>
-        <h1>{tool.title}</h1>
-        <p class="tool-desc">{tool.description}</p>
+<BaseLayout title={pageTitle} description={pageDescription} canonical={canonicalUrl}>
+  {isSub ? (
+    <>
+      <main class="container">
+        <div class="adfit-banner">
+          <ins class="kakao_ad_area" style="display:none;"
+            data-ad-unit="DAN-LoWQpAjT1C8qjOLo"
+            data-ad-width="728"
+            data-ad-height="90"></ins>
+          <script is:inline async type="text/javascript" charset="utf-8" src="https://t1.kakaocdn.net/kas/static/ba.min.js"></script>
+        </div>
+        <section aria-label="도구 서브카테고리">
+          <div class="section-head">
+            <div><h2>{s.name}</h2></div>
+            <div class="section-head__controls">
+              <input id="subtools-search" class="home-search-input" type="search" placeholder="검색" aria-label="도구 검색" autocomplete="off" />
+            </div>
+          </div>
+          <div class="grid" id="subtool-grid">
+            {[...subTools].reverse().map((item) => (
+              <article class="post-card">
+                <a class="post-card__image" href={`/tools/${item.slug}/`} aria-label={item.title}>
+                  <div class="tool-card__icon-placeholder">{item.icon}</div>
+                </a>
+                <div class="post-card__meta">
+                  <a href={`/tools/${s.slug}/`}>{item.category}</a>
+                </div>
+                <h3><a href={`/tools/${item.slug}/`}>{item.title}</a></h3>
+              </article>
+            ))}
+          </div>
+        </section>
+        <div class="tool-coupang tool-coupang--sm">
+<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
+<script is:inline>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+        </div>
+        <div class="tool-coupang tool-coupang--lg">
+<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
+<script is:inline>
+	new PartnersCoupang.G({"id":1021235,"trackingCode":"AF7638395","subId":null,"template":"carousel","width":"662","height":"140"});
+</script>
+        </div>
+      </main>
+    </>
+  ) : (
+    <>
+      <link slot="head" rel="stylesheet" href="/assets/tailwind.css" />
+      <script slot="head" is:inline type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+      <script slot="head" is:inline type="application/ld+json" set:html={JSON.stringify(breadcrumbLd)} />
+      <main class="tool-page">
+        <section class="container tool-wrap">
+          <nav class="breadcrumb" aria-label="breadcrumb">
+            <a href="/">홈</a> <span aria-hidden="true">/</span> <a href="/tools/">도구</a>
+          </nav>
+          <article class="tool-panel tool-panel--sft" data-tool={t.type} data-slug={t.slug} data-icon={t.icon} data-title={t.title} data-description={t.description}>
+        <div class="tool-panel__icon" aria-hidden="true">{t.icon}</div>
+        <p class="eyebrow">{t.category}</p>
+        <h1>{t.title}</h1>
+        <p class="tool-desc">{t.description}</p>
 
         <div class="tool-form tool-form--sft" data-form>
           <p class="tool-loading">도구를 불러오는 중입니다.</p>
@@ -90,14 +146,29 @@ const breadcrumbLd = {
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
       </div>
     </section>
-  </main>
-
+      </main>
+    </>
+  )}
   <div class="toast" id="toast">감사합니다!</div>
 
   <script is:inline>window.SFT_LOCALE = 'ko';</script>
 
   <script>
+    const subGrid = document.getElementById('subtool-grid') as HTMLElement;
+    const subCards = Array.from(subGrid?.children ?? []) as HTMLElement[];
+    const subSearch = document.getElementById('subtools-search') as HTMLInputElement;
+    function filterSubTools() {
+      const q = (subSearch?.value || '').trim().toLowerCase();
+      subCards.forEach((card) => {
+        card.style.display = !q || card.textContent?.toLowerCase().includes(q) ? '' : 'none';
+      });
+    }
+    subSearch?.addEventListener('input', filterSubTools);
+  </script>
+
+  <script>
     const panel = document.querySelector('[data-tool]') as HTMLElement | null;
+    if (panel) {
     const form = document.querySelector('[data-form]') as HTMLElement | null;
     const result = document.querySelector('[data-result]') as HTMLElement | null;
     const type = panel?.dataset.tool;
@@ -3620,6 +3691,7 @@ const breadcrumbLd = {
         show('이 브라우저에서 처리할 수 없는 파일입니다.');
       }
     });
+    }
   </script>
 
   <script is:inline>

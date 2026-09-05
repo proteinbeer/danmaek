@@ -1,9 +1,16 @@
 ---
 import BaseLayout from '../../components/BaseLayout.astro';
-import { CATEGORIES, SITE } from '../../consts';
+import { CATEGORIES, SITE, TOOL_SUBCATEGORIES } from '../../consts';
 import { TOOLS } from '../../lib/tools';
 
 const category = CATEGORIES.find((item) => item.name === '도구')!;
+const toolSubs = [...TOOL_SUBCATEGORIES];
+const toolSubByCategory = new Map<string, string>();
+const toolSubByCatSlug = new Map<string, string>();
+toolSubs.forEach((sub) => sub.categories.forEach((c) => {
+  toolSubByCategory.set(c, sub.name);
+  toolSubByCatSlug.set(c, sub.slug);
+}));
 ---
 <BaseLayout title={`도구 | ${SITE.name}`} description={category.description} canonical={new URL('/tools/', SITE.url).toString()}>
   <main class="container">
@@ -18,17 +25,28 @@ const category = CATEGORIES.find((item) => item.name === '도구')!;
       <div class="section-head">
         <div><h2>도구</h2></div>
         <div class="section-head__controls">
-          <input id="tools-search" class="home-search-input" type="search" placeholder="도구 검색" aria-label="도구 검색" autocomplete="off" />
+          <div class="sub-drop" id="tool-sub-drop">
+            <button type="button" class="sub-filter" id="tool-sub-trigger" aria-haspopup="listbox" aria-expanded="false">전체</button>
+            <div class="sub-dropdown" role="listbox" id="tool-sub-list">
+              <button type="button" class="sub-dropdown-item" data-value="" role="option">전체</button>
+              {toolSubs.map((sub) => <button type="button" class="sub-dropdown-item" data-value={sub.name} role="option">{sub.name}</button>)}
+            </div>
+          </div>
+          <input id="tools-search" class="home-search-input" type="search" placeholder="검색" aria-label="도구 검색" autocomplete="off" />
         </div>
       </div>
       <div class="grid" id="tool-grid">
         {[...TOOLS].reverse().map((tool) => (
-          <article class="post-card" data-search={`${tool.title} ${tool.category}`}>
+          <article class="post-card" data-search={`${tool.title} ${tool.category}`} data-subcategory={toolSubByCategory.get(tool.category) ?? ''}>
             <a class="post-card__image" href={`/tools/${tool.slug}/`} aria-label={tool.title}>
               <div class="tool-card__icon-placeholder">{tool.icon}</div>
             </a>
             <div class="post-card__meta">
-              <span>{tool.category}</span>
+              {toolSubByCatSlug.has(tool.category) ? (
+                <a href={`/tools/${toolSubByCatSlug.get(tool.category)}/`}>{tool.category}</a>
+              ) : (
+                <span>{tool.category}</span>
+              )}
             </div>
             <h3><a href={`/tools/${tool.slug}/`}>{tool.title}</a></h3>
           </article>
@@ -52,12 +70,44 @@ const category = CATEGORIES.find((item) => item.name === '도구')!;
     const toolGrid = document.getElementById('tool-grid') as HTMLElement;
     const allToolCards = Array.from(toolGrid?.children ?? []) as HTMLElement[];
     const toolsSearch = document.getElementById('tools-search') as HTMLInputElement;
+
+    function setupSubDrop(drop: HTMLElement, onChange: (value: string) => void) {
+      const trigger = drop.querySelector('.sub-filter') as HTMLButtonElement;
+      const list = drop.querySelector('.sub-dropdown') as HTMLElement;
+      const items = Array.from(drop.querySelectorAll('.sub-dropdown-item')) as HTMLButtonElement[];
+      let value = '';
+      const open = () => { list.classList.add('open'); trigger.setAttribute('aria-expanded', 'true'); };
+      const close = () => { list.classList.remove('open'); trigger.setAttribute('aria-expanded', 'false'); };
+      trigger.addEventListener('click', (e) => {
+        e.stopPropagation();
+        list.classList.contains('open') ? close() : open();
+      });
+      items.forEach((item) => {
+        item.addEventListener('click', (e) => {
+          e.stopPropagation();
+          value = item.dataset.value || '';
+          trigger.textContent = item.textContent || '전체';
+          items.forEach((it) => it.classList.toggle('active', it === item));
+          close();
+          onChange(value);
+        });
+      });
+      document.addEventListener('click', (e) => {
+        if (!drop.contains(e.target as Node)) close();
+      });
+      return { getValue: () => value };
+    }
+
     function filterTools() {
       const q = (toolsSearch?.value || '').trim().toLowerCase();
+      const sub = toolSub.getValue();
       allToolCards.forEach((card) => {
-        card.style.display = !q || card.dataset.search?.toLowerCase().includes(q) ? '' : 'none';
+        const matchSub = !sub || card.dataset.subcategory === sub;
+        const matchQ = !q || card.dataset.search?.toLowerCase().includes(q);
+        card.style.display = matchSub && matchQ ? '' : 'none';
       });
     }
     toolsSearch?.addEventListener('input', filterTools);
+    const toolSub = setupSubDrop(document.getElementById('tool-sub-drop') as HTMLElement, () => filterTools());
   </script>
 </BaseLayout>

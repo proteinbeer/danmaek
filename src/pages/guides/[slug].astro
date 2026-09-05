@@ -14,7 +14,7 @@ export function getStaticPaths() {
 const { sub } = Astro.props;
 const category = CATEGORIES.find((item) => item.name === '가이드')!;
 const posts = getPostsBySubcategory('가이드', sub.name);
-const title = `${sub.name} 가이드`;
+const title = `${sub.name} | 가이드`;
 const canonical = new URL(`/guides/${sub.slug}/`, SITE.url).toString();
 ---
 <BaseLayout title={`${title} | ${SITE.name}`} description={`${sub.name} 관련 가이드입니다.`} canonical={canonical}>
