@@ -1,8 +1,8 @@
 ---
 title: "GTA 6 게임플레이 공개, 확 달라진 새로운 시스템들"
 description: "락스타가 공개한 GTA 6 장시간 게임 영상을 바탕으로, GTA 5 이후 13년 만의 신작이 달라진 7가지 지점을 정리합니다."
-date: 2026-08-31
-updated: 2026-08-31
+date: 2026-09-04
+updated: 2026-09-04
 category: "뉴스"
 subcategory: "게임"
 tags:

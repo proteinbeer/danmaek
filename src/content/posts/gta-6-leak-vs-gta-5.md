@@ -1,8 +1,8 @@
 ---
 title: "GTA 6 유출 영상, GTA 5와 달라진 점 6가지"
 description: "GTA 6 유출 영상에서 확인된 수배 단계와 경찰 추적 그리고 연료와 장비 보관 등 GTA 5와 달라진 점 여섯 가지를 정리합니다."
-date: 2026-08-14
-updated: 2026-08-14
+date: 2026-09-04
+updated: 2026-09-04
 category: "뉴스"
 subcategory: "게임"
 tags:

@@ -1,8 +1,8 @@
 ---
 title: "램 16GB와 32GB 차이, 게임에서 체감되는 순간은?"
 description: "램 용량이 두 배면 프레임도 두 배 되는 게 아닙니다. 실제 차이가 크게 나타나는 순간과 용량 선택 기준을 정리했습니다."
-date: 2026-09-01
-updated: 2026-09-01
+date: 2026-09-04
+updated: 2026-09-04
 category: "가이드"
 subcategory: "PC·하드웨어"
 tags:
