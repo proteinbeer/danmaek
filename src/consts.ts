@@ -27,7 +27,10 @@ export const GUIDE_SUBCATEGORIES: Subcategory[] = [
   { name: '플스', slug: 'ps' },
   { name: 'PC·하드웨어', slug: 'pc-hardware' },
   { name: '네트워크', slug: 'network' },
-  { name: '주변기기', slug: 'peripherals' }
+  { name: '주변기기', slug: 'peripherals' },
+  { name: '워드프레스', slug: 'wordpress' },
+  { name: '호스팅', slug: 'hosting' },
+  { name: '스위치', slug: 'switch' }
 ];
 
 export const COUPON_SUBCATEGORIES: Subcategory[] = [
@@ -50,7 +53,14 @@ export const COUPON_SUBCATEGORIES: Subcategory[] = [
   { name: '붕괴3rd', slug: 'honkai-impact-3rd' },
   { name: '승리의 여신: 니케', slug: 'nikke' },
   { name: '소녀전선2: 망명', slug: 'girls-frontline-2' },
-  { name: '마비노기 모바일', slug: 'mabinogi-mobile' }
+  { name: '마비노기 모바일', slug: 'mabinogi-mobile' },
+  { name: '리버스: 1999', slug: 'reverse-1999' },
+  { name: '쿠키런: 모험의 탑', slug: 'cookie-run-toa' },
+  { name: '에이지 오브 엠파이어 모바일', slug: 'age-of-empires-mobile' },
+  { name: '로드모바일: 트랜스포머', slug: 'lords-mobile-transformers' },
+  { name: '일곱 개의 대죄: 오리진', slug: 'seven-deadly-sins-origin' },
+  { name: 'I9: 인페르노 나인', slug: 'i9-inferno-nine' },
+  { name: '운빨존많겜', slug: 'lucky-defense' }
 ];
 
 export type ToolSubcategory = { name: string; slug: string; categories: string[] };

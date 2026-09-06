@@ -4,13 +4,13 @@ description: "VPS 호스팅은 같은 RAM, 같은 코어인데도 업체마다 �
 date: 2026-09-05
 updated: 2026-09-05
 category: "가이드"
-subcategory: "네트워크"
+subcategory: "호스팅"
 tags:
   - "VPS"
   - "호스팅"
   - "서버"
   - "트래픽"
-image: "/assets/posts/guide-images/network-guide-common.jpg"
+image: "/assets/posts/guide-images/hosting-guide.jpg"
 imageAlt: "서버 랙과 데이터센터"
 imageWidth: 1200
 imageHeight: 675
@@ -24,7 +24,7 @@ hideDescription: true
 
 VPS 가상 서버는 같은 사양이라도 업체에 따라 월 요금이 두세 배까지 차이납니다. 단순히 RAM과 코어 숫자만 비교하면 왜 그런 차이가 나는지 알 수 없죠. 가격표에 안 보이는 트래픽과 백업, 리전 정책이 실사용 비용을 좌우합니다.
 
-<img class="post-landscape-image" src="/assets/posts/guide-images/network-guide-common.jpg" alt="서버 랙과 데이터센터" width="1200" height="675" loading="lazy" decoding="async" />
+<img class="post-landscape-image" src="/assets/posts/guide-images/hosting-guide.jpg" alt="서버 랙과 데이터센터" width="1200" height="675" loading="lazy" decoding="async" />
 
 ## 1. VPS 가격이 천차만별인 이유
 

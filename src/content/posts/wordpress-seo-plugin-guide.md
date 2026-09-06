@@ -4,13 +4,13 @@ description: "워드프레스 SEO 플러그인은 검색 노출의 기초인 타
 date: 2026-09-05
 updated: 2026-09-05
 category: "가이드"
-subcategory: "네트워크"
+subcategory: "워드프레스"
 tags:
   - "워드프레스"
   - "SEO"
   - "검색 최적화"
   - "Yoast"
-image: "/assets/posts/guide-images/network-guide-common.jpg"
+image: "/assets/posts/guide-images/wordpress-guide.jpg"
 imageAlt: "검색 최적화와 사용자 경험 관련 일러스트"
 imageWidth: 1200
 imageHeight: 675
@@ -24,7 +24,7 @@ hideDescription: true
 
 워드프레스 블로그를 시작하면 Yoast SEO나 Rank Math 같은 SEO 플러그인을 권하는 글을 자주 접합니다. 그런데 이 플러그인들이 실제로 하는 일과, 없어도 되는 경우는 조금 다릅니다. 설치 전에 어떤 기능이 필요한지 먼저 알아보겠습니다.
 
-<img class="post-landscape-image" src="/assets/posts/guide-images/network-guide-common.jpg" alt="검색 최적화와 사용자 경험 관련 일러스트" width="1200" height="675" loading="lazy" decoding="async" />
+<img class="post-landscape-image" src="/assets/posts/guide-images/wordpress-guide.jpg" alt="검색 최적화와 사용자 경험 관련 일러스트" width="1200" height="675" loading="lazy" decoding="async" />
 
 ## 1. SEO 플러그인이 하는 일
 

@@ -4,14 +4,14 @@ description: "워드프레스 호스팅은 스토리지 용량이 크게 중요�
 date: 2026-09-05
 updated: 2026-09-05
 category: "가이드"
-subcategory: "네트워크"
+subcategory: "호스팅"
 tags:
   - "워드프레스"
   - "호스팅"
   - "웹호스팅"
   - "PHP"
-image: "/assets/posts/guide-images/network-guide-common.jpg"
-imageAlt: "워드프레스 관리자 화면"
+image: "/assets/posts/guide-images/hosting-guide.jpg"
+imageAlt: "웹 호스팅 서버 선택과 관리"
 imageWidth: 1200
 imageHeight: 675
 hideHeroImage: true
@@ -24,7 +24,7 @@ hideDescription: true
 
 워드프레스 호스팅을 고를 때 대부분 스토리지 용량부터 살펴봅니다. 그런데 실제로 사이트 속도와 안정성을 결정하는 기준은 용량이 아닙니다. 미디어 파일이 쌓여도 CDN이나 외부 저장소로 빼면 되기 때문이죠.
 
-<img class="post-landscape-image" src="/assets/posts/guide-images/network-guide-common.jpg" alt="워드프레스 관리자 화면" width="1200" height="675" loading="lazy" decoding="async" />
+<img class="post-landscape-image" src="/assets/posts/guide-images/hosting-guide.jpg" alt="웹 호스팅 서버 선택과 관리" width="1200" height="675" loading="lazy" decoding="async" />
 
 ## 1. 용량은 왜 나중에 봐도 될까
 
