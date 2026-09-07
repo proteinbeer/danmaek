@@ -77,9 +77,3 @@ MMOLite는 이클립스가 처음으로 내건 장르 표방입니다. 이름에
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [스마일게이트 뉴스룸 - 이클립스: 더 어웨이크닝 9월 10일 정식 출시](https://newsroom.smilegate.com/bbs/board.php?bo_table=news&wr_id=2340)
-- [스마일게이트 뉴스룸 - 이클립스 론칭 라이브 방송](https://newsroom.smilegate.com)
-- [인벤 - 이클립스: 더 어웨이크닝 소개](https://www.inven.co.kr)

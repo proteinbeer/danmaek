@@ -113,7 +113,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [로이터](https://www.reuters.com/world/asia-pacific/chinese-humanoid-robot-maker-unitree-set-jump-over-600-shanghai-debut-2026-08-19/)

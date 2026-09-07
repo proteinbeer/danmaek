@@ -103,9 +103,3 @@ hideDescription: true
 - 공식 교환 센터(lordsmobile.igg.com/gifts/)
 - 공식 페이스북(LordsMobile)
 - 공식 유튜브 채널
-
-## 출처
-
-- [로드모바일 공식 교환 센터](https://lordsmobile.igg.com/gifts/)
-- [MrGuider - Lords Mobile codes](https://www.mrguider.org/codes/lords-mobile-codes-redeem/)
-- [Cofre Gamers - 로드모바일 쿠폰 총정리](https://cofregamers.com/kr/%EB%A1%9C%EB%93%9C-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%BF%A0%ED%8F%B0-%EC%BD%94%EB%93%9C-%EC%B4%9D%EC%A0%95%EB%A6%AC/)

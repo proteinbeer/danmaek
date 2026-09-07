@@ -87,10 +87,3 @@ STARRAILGIFT는 오랫동안 유효한 상시 코드로 신규·복귀 유저에
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [붕괴 스타레일 리딤코드 모음 - 소프트잇](https://softit.tistory.com/125)
-- [붕괴 스타레일 리딤코드 총정리 - 빌드박서](https://buildboxer.tistory.com/1756)
-- [붕괴 스타레일 리딤코드 쿠폰 - 게임트렌드](https://gametrends.co.kr/honkai-star-rail-codes/)
-- [붕괴: 스타레일 공식 기프트 페이지](https://hsr.hoyoverse.com/gift?lang=ko-kr)

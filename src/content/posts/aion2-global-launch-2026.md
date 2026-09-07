@@ -111,9 +111,3 @@ MMO는 출시 첫날 동시 접속자가 많다고 성공이라고 보기 어렵
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [엔씨 게임스컴 2026 발표](https://www.news1.kr/it-science/game-review/6269568)
-- [아이온2 글로벌 공식 사이트](https://aion2.plaync.com)
-- [포게이머 아이온2 글로벌 일정 보도](https://www.gamemeca.com)

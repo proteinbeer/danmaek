@@ -99,8 +99,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [Steam 고객지원 - 저장 공간](https://help.steampowered.com/ko/faqs/view/4BD4-4528-6B2E-8327)
-- [Steam 고객지원 - 게임 파일 검증](https://help.steampowered.com/ko/faqs/view/0C48-FCBD-DA66-93EB)

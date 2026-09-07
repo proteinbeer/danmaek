@@ -109,9 +109,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [소울 나이트 쿠폰 코드 모음과 입력 방법 - 정보킹](https://wjdqhzld.com/소울나이트-쿠폰-코드/)
-- [소울 나이트 쿠폰 2026 최신 코드 모음 - 게임 팁 저장소](https://game.savetip.co.kr/soul-knight-coupon-codes-guide/)
-- [소울 나이트 쿠폰 코드 및 입력 방법 - 뮤뮤 플레이어](https://www.mumuplayer.com/kr/blog/soul-knight-redeem-code.html)

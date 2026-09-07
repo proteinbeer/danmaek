@@ -109,9 +109,3 @@ hideDescription: true
 - 공식 네이버 라운지(에이지 오브 엠파이어 모바일)
 - 공식 유튜브(@AoEMobile_KR)
 - 공식 페이스북(aoemobile)
-
-## 출처
-
-- [에이지 오브 엠파이어 모바일 공식 홈페이지](https://www.aoemobile.com/ko/)
-- [공식 네이버 라운지](https://game.naver.com/lounge/Age_of_Empires_Mobile/home)
-- [Cofre Gamers - 에이지 오브 엠파이어 모바일 코드](https://cofregamers.com/kr/에이지-오브-엠파이어-모바일-코드/)

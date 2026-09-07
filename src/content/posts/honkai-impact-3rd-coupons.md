@@ -87,8 +87,3 @@ TimeAlbum, CheersCaptain는 글로벌 버전 기준으로 안내되는 코드입
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [붕괴3rd 리딤 코드 - gamsgo](https://www.gamsgo.com/ko/blog/honkai-impact-3rd-redeem-code)
-- [붕괴3rd 공식 사이트](https://www.honkaiimpact3.com/)

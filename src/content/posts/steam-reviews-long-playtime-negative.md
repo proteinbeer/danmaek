@@ -111,8 +111,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [국제 인간 컴퓨터 상호작용 저널](https://www.tandfonline.com/doi/full/10.1080/10447318.2026.2708469)
-- [게임메카](https://www.gamemeca.com/view.php?gid=1779303)

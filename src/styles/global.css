@@ -468,6 +468,63 @@ background: var(--paper);
   aspect-ratio: 16/9;
   object-fit: cover;
 }
+.post-card__image { position: relative; }
+.new-badge {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  z-index: 2;
+  padding: 4px 8px 5px;
+  border-radius: 999px;
+  border: 1px solid rgba(255, 255, 255, .35);
+  background: linear-gradient(180deg, #1c1c1e, #000);
+  color: #fff;
+  font-size: .78rem;
+  font-weight: 900;
+  letter-spacing: .1em;
+  line-height: 1;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, .5);
+  overflow: hidden;
+  animation: new-badge-pop .5s cubic-bezier(.2, 1.4, .5, 1) both;
+}
+.new-badge::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: -60%;
+  width: 45%;
+  background: linear-gradient(105deg, transparent, rgba(255, 255, 255, .35), transparent);
+  transform: skewX(-20deg);
+  animation: new-badge-shine 2.2s ease-in-out infinite;
+}
+.new-badge__text {
+  display: inline-block;
+  color: #fff;
+  text-shadow: 0 0 5px rgba(255, 255, 255, .7);
+  transform: translate(1px, 1px);
+}
+@keyframes new-badge-shine {
+  0%, 55% { left: -60%; }
+  85%, 100% { left: 130%; }
+}
+@keyframes new-badge-pop {
+  0% { transform: scale(.4) rotate(-8deg); opacity: 0; }
+  60% { transform: scale(1.12) rotate(2deg); opacity: 1; }
+  100% { transform: scale(1) rotate(0deg); opacity: 1; }
+}
+.new-badge--yesterday {
+  border-color: rgba(180, 180, 180, .5);
+  background: linear-gradient(180deg, #b0b0b3, #747476);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, .35);
+}
+.new-badge--yesterday::before {
+  background: linear-gradient(105deg, transparent, rgba(255, 255, 255, .25), transparent);
+}
+.new-badge--tool {
+  top: 8px;
+  left: 8px;
+}
 .post-card__meta,
 .article-meta,
 .tag-list {
@@ -1446,6 +1503,15 @@ main:not(.home-page) .tool-coupang {
 .share-row {
   align-items: center;
   overflow: visible;
+}
+.share-row__label {
+  width: 4px;
+  height: 1.45em;
+  background: #050505;
+  border: 0;
+  padding: 0;
+  align-self: center;
+  margin-right: 14px;
 }
 .button-link {
   appearance: none;

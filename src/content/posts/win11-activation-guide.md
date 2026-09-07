@@ -78,8 +78,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [Microsoft 지원 - 정품 인증 오류 도움말](https://support.microsoft.com/en-us/windows/activation/get-help-with-windows-activation-errors)
-- [Microsoft 지원 - Windows 정품 인증](https://support.microsoft.com/en-us/windows/activate-windows-c39005d4-95ee-b91e-b399-2820fda32227)

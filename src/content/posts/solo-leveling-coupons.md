@@ -96,10 +96,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [나 혼자만 레벨업 어라이즈 쿠폰 모음 - 디그우](https://www.digwow.net/나-혼자만-레벨업-어라이즈/쿠폰-모음/)
-- [Solo Leveling ARISE Codes (2026년 9월) - theclick.gg](https://www.theclick.gg/solo-leveling-arise-codes/)
-- [나 혼자만 레벨업 어라이즈 리딤 코드 모음 - 소프트잇](https://softit.tistory.com/116)
-- [나 혼자만 레벨업 어라이즈 넷마블 쿠폰 등록 페이지](https://coupon.netmarble.com/sololv)

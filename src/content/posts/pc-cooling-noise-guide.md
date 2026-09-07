@@ -109,8 +109,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [HWiNFO 공식 사이트](https://www.hwinfo.com/)
-- [Core Temp 공식 사이트](https://www.alcpu.com/CoreTemp/)

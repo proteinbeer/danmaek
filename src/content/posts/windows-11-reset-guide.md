@@ -95,8 +95,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [Microsoft 지원 - PC 초기화](https://support.microsoft.com/ko-kr/windows/pc-%EC%B4%88%EA%B8%B0%ED%99%94-0ef73740-b927-549b-b7c9-e6f2b48d275e)
-- [Microsoft 지원 - Windows 11을 설치하는 방법](https://support.microsoft.com/ko-kr/windows/windows-11%EC%9D%84-%EC%84%A4%EC%B9%98%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-e0edbbfb-cfc5-4011-868b-2ce77ac7c70e)

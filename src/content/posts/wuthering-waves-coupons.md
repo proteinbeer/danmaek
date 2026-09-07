@@ -83,10 +83,3 @@ WUTHERINGGIFT 같은 상시 코드는 만료일 없이 계정당 1회만 사용�
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [명조: 워더링 웨이브 리딤코드 쿠폰 모음 - 정보킹](https://wjdqhzld.com/wuthering-waves-codes/)
-- [명조 워더링 웨이브 리딤코드 모음 - 소프트잇](https://softit.tistory.com/119)
-- [명조 코드 활성 목록 - WuWa Tools](https://wuwa.uk/ko/articles/redeem-codes)
-- [명조 워더링 웨이브 리딤코드 - 쿠폰누나](https://noona.help/game/wuthering-waves)

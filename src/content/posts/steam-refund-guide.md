@@ -96,9 +96,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [스팀 공식 환불 정책](https://store.steampowered.com/steam_refunds/)
-- [스팀 고객지원 - 게임 문제 도움말](https://help.steampowered.com/ko/)
-- [스팀 구독자 이용 약관](https://store.steampowered.com/subscriber_agreement/)

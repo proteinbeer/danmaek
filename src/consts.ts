@@ -60,7 +60,8 @@ export const COUPON_SUBCATEGORIES: Subcategory[] = [
   { name: '로드모바일: 트랜스포머', slug: 'lords-mobile-transformers' },
   { name: '일곱 개의 대죄: 오리진', slug: 'seven-deadly-sins-origin' },
   { name: 'I9: 인페르노 나인', slug: 'i9-inferno-nine' },
-  { name: '운빨존많겜', slug: 'lucky-defense' }
+  { name: '운빨존많겜', slug: 'lucky-defense' },
+  { name: '레이드: 그림자의 전설', slug: 'raid-shadow-legends' }
 ];
 
 export type ToolSubcategory = { name: string; slug: string; categories: string[] };

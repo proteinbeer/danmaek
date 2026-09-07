@@ -92,10 +92,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [원펀맨 쿠폰 코드 최신 모음 - 지쿠폰 플레이](https://gcouponplay.com/coupon/원펀맨/)
-- [원펀맨: 영웅의 길 쿠폰 코드 및 입력 방법 - 뮤뮤 글로벌](https://www.mumuglobal.com/kr/blog/one-punch-man-redeem-codes.html)
-- [원펀맨 영웅의길 쿠폰 번호 사용 방법 - 게임 팁 저장소](https://game.savetip.co.kr/1013-2/)
-- [원펀맨: 영웅의 길 공식 구글 플레이 페이지](https://play.google.com/store/apps/details?id=com.opmkr.android)

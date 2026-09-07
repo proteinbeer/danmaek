@@ -79,8 +79,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [PlayStation 공식 - 계정 및 보안 지원](https://www.playstation.com/ko-kr/support/account/)
-- [PlayStation 공식 - 계정 복구하기](https://www.playstation.com/ko-kr/support/account/recover-signin-id/)

@@ -113,8 +113,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [카운터포인트리서치 2026년 2분기 세계 스마트폰 시장 자료](https://korea.counterpointresearch.com/smartphone-market-2026-q2-down/)
-- [삼성전자 갤럭시 제품 자료](https://news.samsung.com/global/galaxy-s26-ultra)

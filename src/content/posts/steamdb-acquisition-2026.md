@@ -77,9 +77,3 @@ xPaw는 앞으로 몇 달 동안 인수인계에 참여합니다. 초즌은 스�
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [인벤 파티 게시판 - 13년 운영 SteamDB, 새 주인 맞았다](https://www.inven.co.kr/board/party/6292/1822)
-- [루리웹 - 넥서스모드, 스팀DB 인수](https://bbs.ruliweb.com/pc/board/300007/read/2354341)
-- [SteamDB 공식 사이트](https://steamdb.info)

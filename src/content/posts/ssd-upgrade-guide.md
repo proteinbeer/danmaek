@@ -112,8 +112,3 @@ SSD는 크게 두 가지 형태로 나뉩니다. PC에 맞는 타입을 골라�
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [Crucial - 새 SSD 설치하는 방법](https://www.crucial.com/articles/about-ssd/how-to-install-a-new-ssd)
-- [Clonezilla 공식 사이트](https://clonezilla.org/)

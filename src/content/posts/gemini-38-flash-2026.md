@@ -99,11 +99,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [구글 공식 블로그 - 제미나이 3.8 플래시와 3.8 플래시 사이버 소개](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/)
-- [아스 테크니카 - 구글, 6주 만에 세 번째 플래시 모델 발표](https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/)
-- [9to5구글 - 제미나이 3.8 플래시 출시](https://9to5google.com/2026/09/02/gemini-3-8-flash-launch/)
-- [더 레지스터 - 제미나이 3.8 플래시 경쟁력](https://www.theregister.com/ai-and-ml/2026/09/02/with_gemini-38-flash-google-reminds-everyone-its-still-in-the-race/5294049)
-- [실리콘앵글 - 구글 두 제미나이 모델 발표](https://siliconangle.com/2026/09/02/google-launches-two-gemini-3-8-models-with-cutting-edge-reasoning-capabilities/)

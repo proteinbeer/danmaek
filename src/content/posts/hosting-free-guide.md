@@ -110,9 +110,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [GitHub Pages 공식 문서](https://pages.github.com/)
-- [Cloudflare Pages 공식 문서](https://pages.cloudflare.com/)
-- [Netlify 공식 사이트](https://www.netlify.com/)

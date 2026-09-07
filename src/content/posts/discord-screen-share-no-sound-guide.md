@@ -93,7 +93,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [디스코드 공식 지원](https://support.discord.com/)

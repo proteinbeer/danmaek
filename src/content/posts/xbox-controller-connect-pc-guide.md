@@ -110,8 +110,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [Xbox 지원 - 컨트롤러를 PC에 연결하는 방법](https://support.xbox.com/ko-KR/help/hardware-network/controller/connect-xbox-wireless-controller-to-pc)
-- [Steam 고객지원 - 컨트롤러](https://help.steampowered.com/ko/faqs/view/53A6-5C20-5088-77E4)

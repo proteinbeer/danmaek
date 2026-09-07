@@ -112,8 +112,3 @@ OBS는 장면(씬) 전환, 마이크와 데스크톱 오디오 분리 녹음, �
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [Xbox 지원 - 게임 바 시작하기](https://support.xbox.com/ko-KR/help/games-apps/game-bar/getting-started-with-game-bar)
-- [OBS Studio 공식 사이트](https://obsproject.com/)

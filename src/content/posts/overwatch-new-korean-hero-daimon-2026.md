@@ -104,9 +104,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [더게임스데일리 - 오버워치 신규 한국 영웅 디몬 공개 예고](https://www.tgdaily.co.kr/news/articleView.html?idxno=406201)
-- [오버워치 공식 유튜브 채널 - 디몬 티저](https://www.youtube.com/@PlayOverwatch)
-- [오버워치 공식 사이트](https://overwatch.blizzard.com/ko-kr/)

@@ -89,10 +89,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [쿠키런: 킹덤 쿠폰 입력 공식 페이지 - 데브플레이](https://coupon.devplay.com/coupon/ck/ko)
-- [쿠키런: 킹덤 쿠폰 코드 및 입력 방법 - 정보킹](https://wjdqhzld.com/쿠키런-킹덤-쿠폰/)
-- [쿠키런: 킹덤 쿠폰 모음 - 디그우](https://www.digwow.net/쿠키런-킹덤/쿠폰-모음/)
-- [쿠키런: 킹덤 리딤코드 - 쿠폰누나](https://noona.help/game/cookie-run-kingdom)

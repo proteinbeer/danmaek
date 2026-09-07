@@ -89,7 +89,3 @@ USB 인식 문제는 대부분 단자, 드라이브 문자, 드라이버와 같�
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [Microsoft 공식 지원](https://support.microsoft.com/ko-kr/windows)

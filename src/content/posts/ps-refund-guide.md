@@ -112,8 +112,3 @@ PC나 스마트폰의 브라우저로도 환불을 신청할 수 있습니다.
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [PlayStation 지원 - 반복 결제 및 구독](https://www.playstation.com/ko-kr/support/account/repeat-billing-subscriptions/)
-- [PlayStation 지원](https://www.playstation.com/ko-kr/support/)

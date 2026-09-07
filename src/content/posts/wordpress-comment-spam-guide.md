@@ -113,9 +113,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [워드프레스 공식 Akismet 페이지](https://akismet.com/)
-- [워드프레스 토론 설정 도움말](https://wordpress.org/documentation/)
-- [Cloudflare Turnstile](https://www.cloudflare.com/ko-kr/products/turnstile/)

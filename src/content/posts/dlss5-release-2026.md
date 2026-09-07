@@ -77,9 +77,3 @@ DLSS 5는 AI가 장면을 재해석하는 '뉴럴 렌더링' 기술입니다. �
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [게임동아 - 실사냐 파괴냐? 엔비디아 DLSS 5에 기대와 우려 교차](https://game.donga.com/124088/)
-- [게임메카 - 극사실적 그래픽 구현하는 DLSS 5, 유저 반응은](https://www.gamemeca.com/view.php?gid=1780036)
-- [인벤 - 유출된 DLSS 5 논란…이게 클라우드, 티파 맞아?](https://www.inven.co.kr/board/party/6292/1818)

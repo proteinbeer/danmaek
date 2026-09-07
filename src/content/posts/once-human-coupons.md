@@ -86,9 +86,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [원스휴먼 리딤 코드 - cosm-game](https://cosm-game.com/codes/once-human-redeem-codes/)
-- [Once Human Codes - urgametips](https://urgametips.com/once-human-codes/)
-- [원스휴먼 공식 사이트](https://www.oncehuman.com/)

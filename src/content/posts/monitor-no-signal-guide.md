@@ -89,7 +89,3 @@ HDMI와 디스플레이포트가 여러 개 있는 모니터라면 현재 케이
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [Microsoft 공식 지원](https://support.microsoft.com/ko-kr/windows)

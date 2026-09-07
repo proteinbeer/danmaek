@@ -112,8 +112,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [Steam 고객지원 - 오프라인 모드 사용하기](https://support.steampowered.com/kb_article.php?ref=3167-NAGH-1333)
-- [Steam 고객지원](https://help.steampowered.com/ko/)

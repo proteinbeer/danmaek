@@ -112,9 +112,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [일렉트렉 테슬라 중국 리콜 보도](https://electrek.co/2026/08/21/tesla-recall-3-million-cars-china-door-handles/)
-- [폭스비즈니스 테슬라 리콜 보도](https://www.foxbusiness.com/lifestyle/tesla-recalls-nearly-3m-vehicles-over-doors-may-difficult-open-after-crashes)
-- [로이터](https://www.reuters.com)

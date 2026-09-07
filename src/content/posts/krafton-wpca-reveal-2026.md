@@ -115,9 +115,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [전자신문 - 크래프톤 5민랩, 신작 세계허구관리연맹: WPCA 첫 공개](https://www.etnews.com/20260904000157)
-- [소니 인터랙티브 엔터테인먼트 - 스테이트 오브 플레이](https://www.playstation.com/ko-kr/)
-- [크래프톤 공식 사이트](https://www.krafton.com/)

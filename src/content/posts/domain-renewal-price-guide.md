@@ -88,10 +88,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [ICANN - 도메인 등록 절차 안내](https://www.icann.org/resources/pages/domain-names-0)
-- [가비아 도메인 등록](https://domain.gabia.com/)
-- [Cloudflare Registrar](https://www.cloudflare.com/products/registrar/)
-- [getNameCheap 공식 홈페이지](https://www.namecheap.com/)

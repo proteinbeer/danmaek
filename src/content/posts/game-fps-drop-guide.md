@@ -109,8 +109,3 @@ HWiNFO나 MSI 애프터버너 같은 무료 모니터링 프로그램으로 게�
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [Microsoft 공식 지원](https://support.microsoft.com/ko-kr/windows)
-- [엔비디아 공식 지원](https://www.nvidia.com/ko-kr/)

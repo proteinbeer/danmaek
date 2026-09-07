@@ -88,10 +88,3 @@ SSL 인증서도 기본 확인 사항입니다. Let's Encrypt를 통해 무료 �
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [WordPress 공식 사이트 - 호스팅 요구사항](https://wordpress.org/about/requirements/)
-- [카페24 웹호스팅](https://hosting.cafe24.com/)
-- [가비아 웹호스팅](https://hosting.gabia.com/)
-- [Cloudways 공식 홈페이지](https://www.cloudways.com/)

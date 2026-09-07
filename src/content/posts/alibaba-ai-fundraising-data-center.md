@@ -114,9 +114,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [BNN 블룸버그 알리바바 자금조달 보도](https://www.bnnbloomberg.ca/business/company-news/2026/08/24/alibaba-shares-slide-after-us102-billion-ai-share-sale-offered-at-sharp-discount/)
-- [로이터](https://www.reuters.com)
-- [알리바바 그룹](https://www.alibabagroup.com)

@@ -90,10 +90,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [원신 리딤코드 모음 - 소프트잇](https://softit.tistory.com/39)
-- [원신 리딤코드 최신 정보와 사용법 총정리 - 블랙트리스](https://blacktrees.tistory.com/entry/%EC%9B%90%EC%8B%A0-%EB%A6%AC%EB%94%A4%EC%BD%94%EB%93%9C-%EC%B5%9C%EC%8B%A0-%EC%A0%95%EB%B3%B4%EC%99%80-%EC%82%AC%EC%9A%A9%EB%B2%95-%EC%B4%9D%EC%A0%95%EB%A6%AC-2026)
-- [원신 7.0 버전 리딤 코드 및 입력 방법 - 키덜트 리뷰어](https://game.warkingmom.com/entry/%EC%9B%90%EC%8B%A0-GenShin-8%EC%9B%94-16%EC%9D%BC-%EA%B8%B0%EC%A4%80-%EC%B5%9C%EC%8B%A0-%EB%A6%AC%EB%94%A4-%EC%BD%94%EB%93%9C-%EB%B0%8F-%EC%9E%85%EB%A0%A5-%EB%B0%A9%EB%B2%95)
-- [원신 공식 기프트 페이지](https://genshin.hoyoverse.com/m/ko/gift)

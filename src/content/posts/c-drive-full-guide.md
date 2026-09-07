@@ -92,7 +92,3 @@ C드라이브 여유 공간이 갑자기 줄었다면 큰 파일부터 무작정
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [Microsoft 공식 지원](https://support.microsoft.com/ko-kr/windows)

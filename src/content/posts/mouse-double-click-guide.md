@@ -112,9 +112,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [Microsoft 지원 - Windows 도움말](https://support.microsoft.com/windows)
-- [로지텍 공식 지원](https://www.logitech.com/ko-kr/support.html)
-- [위키백과 - 컴퓨터 마우스](https://ko.wikipedia.org/wiki/컴퓨터_마우스)

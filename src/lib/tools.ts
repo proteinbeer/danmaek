@@ -4,6 +4,7 @@ export type Tool = {
   description: string;
   category: string;
   icon: string;
+  created?: string;
   type:
     | 'bmi'
     | 'age'

@@ -80,8 +80,3 @@ SSD 구매 시 PS5 호환 모델인지 확인해야 합니다. 속도 기준을 
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [PlayStation 공식 - PS5 콘솔 스토리지 관리 방법](https://www.playstation.com/ko-kr/support/games/)
-- [PlayStation 공식 - PS4 콘솔 스토리지 관리 방법](https://www.playstation.com/ko-kr/support/games/)

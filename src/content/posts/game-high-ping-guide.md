@@ -97,8 +97,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [스팀 고객지원](https://help.steampowered.com/ko/)
-- [Microsoft 공식 지원](https://support.microsoft.com/ko-kr/windows)

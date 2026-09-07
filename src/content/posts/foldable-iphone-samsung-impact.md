@@ -113,8 +113,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [카운터포인트리서치 2026년 폴더블 스마트폰 시장 전망](https://korea.counterpointresearch.com/foldable-smartphone-market-set-for-grwoth-in-2026-as-apple-expected-enrty-intensifies-competition/)
-- [삼성전자 갤럭시 Z 폴드 자료](https://news.samsung.com/global/galaxy-z-fold)

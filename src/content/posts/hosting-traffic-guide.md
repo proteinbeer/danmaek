@@ -110,9 +110,3 @@ CDN은 보안 기능(방화벽, DDoS 완화)까지 함께 제공하는 경우가
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [Cloudflare 공식 사이트](https://www.cloudflare.com/ko-kr/)
-- [PageSpeed Insights](https://pagespeed.web.dev/)
-- [카페24 공식 사이트](https://www.cafe24.com/)

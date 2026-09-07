@@ -119,8 +119,3 @@ USB4 제품의 성능이 계속 올라가면 이 구분이 점점 약해집니�
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [삼성전자 뉴스룸](https://news.samsung.com)
-- [삼성전자 게임스컴 2026 발표](https://news.samsung.com/global/samsung-showcases-p9-and-p7-ssds-featuring-usb4-at-gamescom-2026)

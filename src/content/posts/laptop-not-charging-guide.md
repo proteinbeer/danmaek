@@ -89,7 +89,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [Microsoft 공식 지원](https://support.microsoft.com/ko-kr/windows)

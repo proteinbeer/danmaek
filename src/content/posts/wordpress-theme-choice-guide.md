@@ -112,9 +112,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [워드프레스 테마 디렉토리](https://wordpress.org/themes/)
-- [워드프레스 공식 문서](https://wordpress.org/documentation/)
-- [PageSpeed Insights](https://pagespeed.web.dev/)

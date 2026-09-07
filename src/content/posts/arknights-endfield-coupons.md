@@ -84,10 +84,3 @@ ENDFIELDGIFT는 웰컴 상시 코드로 오로베릴을 받을 수 있어 가장
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [명일방주 엔드필드 쿠폰 코드 모음 - 정보킹](https://wjdqhzld.com/arknights-endfield-codes/)
-- [명일방주 엔드필드 쿠폰 리딤코드 모음 - 빌드박서](https://buildboxer.tistory.com/1838)
-- [명일방주: 엔드필드 최신 쿠폰 코드 - 블루스택](https://www.bluestacks.com/ko/blog/redeem-codes/arknights-endfield-redeem-codes-ko.html)
-- [명일방주: 엔드필드 리딤코드 및 웹 이벤트 보상 - 게임조선](https://www.gamechosun.co.kr/webzine/article/view.php?no=219673)

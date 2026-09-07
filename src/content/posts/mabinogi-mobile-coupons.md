@@ -83,10 +83,3 @@ WELCOME2CAMPFIRE, PLAYNEWSEAS0N 같은 이전 코드는 7월에 만료됐으므�
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [마비노기 모바일 쿠폰 안내 - 쿠폰몽](https://honeybeejoa.co.kr/bbs/board.php?bo_table=mabinogimobile&wr_id=1)
-- [마비노기 모바일 리딤 코드 - note41669](https://note41669.tistory.com/entry/mabinogi-mobile-coupon-code-2026-07)
-- [마비노기 모바일 리딤 코드 - 블루스택](https://www.bluestacks.com/ko/blog/redeem-codes/mabinogi-mobile-redeem-codes-ko.html)
-- [넥슨 공식 쿠폰 사이트](https://mcoupon.nexon.com)

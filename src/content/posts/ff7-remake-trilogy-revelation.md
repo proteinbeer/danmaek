@@ -111,8 +111,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [스퀘어 에닉스](https://www.square-enix.com/ffvii/en-us/)
-- [게임스컴 공식 홈페이지](https://www.gamescom.global/)

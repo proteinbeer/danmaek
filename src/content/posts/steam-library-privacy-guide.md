@@ -112,8 +112,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [Steam 개인 정보 설정](https://store.steampowered.com/account/privacy)
-- [Steam 고객지원](https://help.steampowered.com/ko/)

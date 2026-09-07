@@ -79,8 +79,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [PlayStation 공식 - 하드웨어 및 수리 지원](https://www.playstation.com/ko-kr/support/hardware/)
-- [PlayStation 공식 - 컨트롤러 지원](https://www.playstation.com/ko-kr/support/hardware/controller/)

@@ -100,8 +100,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [Microsoft 지원 - 네트워크 연결 문제 해결](https://support.microsoft.com/windows)
-- [아이피타임 공식 고객지원](https://www.iptime.com/)

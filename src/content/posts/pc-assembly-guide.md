@@ -112,8 +112,3 @@ M-ATX 보드를 ATX 케이스에 넣을 때는 고정 구멍 위치를 잘 맞�
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [PCPartPicker - 부품 호환성 확인](https://pcpartpicker.com/)
-- [Reddit r/buildapc 커뮤니티](https://www.reddit.com/r/buildapc/)

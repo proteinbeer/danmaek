@@ -90,9 +90,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [Microsoft 지원 - UEFI(펌웨어) 설정으로 부팅](https://support.microsoft.com/windows)
-- [ASUS 공식 지원 - BIOS 진입 안내](https://www.asus.com/support/)
-- [기가바이트 공식 FAQ](https://www.gigabyte.com/)

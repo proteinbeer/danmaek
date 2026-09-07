@@ -128,10 +128,3 @@ AGI에 다가갈수록 AI 스스로 통제를 벗어나는 사고와, 그와 싸
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [서울경제 - 5시간 걸리던 검색 3분만에…오픈AI "AGI 시대에 온 것 환영"](https://www.sedaily.com/article/20087424)
-- [토큰포스트 - 오픈AI, GPT-6 아스트라 API·유료권 공개](https://www.tokenpost.kr/news/breaking/402923)
-- [아시아경제 - 오픈AI에 뚫린 허깅페이스 17조원에 산 엔비디아, 왜?](https://www.asiae.co.kr/article/2026090411543298879)
-- [오픈AI 공식 블로그](https://openai.com/blog)

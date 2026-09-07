@@ -91,8 +91,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [WordPress 공식 문서 - 비밀번호 분실](https://wordpress.org/documentation/article/lost-password/)
-- [워드프레스 코덱스 - 로그인 문제 해결](https://wordpress.org/documentation/category/troubleshooting/)

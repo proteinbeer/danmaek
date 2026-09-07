@@ -86,9 +86,3 @@ SEO 플러그인을 고를 때는 무료 버전 기능부터 확인하시기 바
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [Yoast SEO 공식 홈페이지](https://yoast.com/)
-- [Rank Math 공식 홈페이지](https://rankmath.com/)
-- [WordPress 공식 문서 - 검색 엔진 최적화](https://wordpress.org/documentation/article/search-engine-optimization/)

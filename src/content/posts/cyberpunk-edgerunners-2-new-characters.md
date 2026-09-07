@@ -113,9 +113,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [인벤 엣지러너 2 공개 보도](https://www.inven.co.kr/webzine/news/?news=319755)
-- [넷플릭스](https://www.netflix.com)
-- [CD 프로젝트 RED](https://www.cdprojektred.com)

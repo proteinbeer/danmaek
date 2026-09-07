@@ -105,8 +105,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [Microsoft 지원 - Windows 접근성 기능](https://support.microsoft.com/windows)
-- [위키백과 - 컴퓨터 키보드](https://ko.wikipedia.org/wiki/컴퓨터_키보드)

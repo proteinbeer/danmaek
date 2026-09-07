@@ -90,9 +90,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [이환 리딤코드 및 입력 방법 - 정보킹](https://wjdqhzld.com/nte-codes/)
-- [이환 리딤코드 + 입력 방법 (8/19 Update) - 인벤](https://www.inven.co.kr/board/nte/6517/48)
-- [1.3에서 공개된 리딤 코드 - 인벤](https://www.inven.co.kr/board/nte/6517/1863)

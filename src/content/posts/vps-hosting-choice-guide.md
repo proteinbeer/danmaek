@@ -90,11 +90,3 @@ VPS 선택은 RAM 숫자가 아니라 **트래픽, 백업, 리전, 관리형 여
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [Hetzner Cloud 공식 홈페이지](https://www.hetzner.com/cloud/)
-- [Vultr 공식 홈페이지](https://www.vultr.com/)
-- [DigitalOcean 공식 홈페이지](https://www.digitalocean.com/)
-- [Cafe24 클라우드 - 가상서버호스팅](https://hosting.cafe24.com/)
-- [hostadvice - 2026 VPS 호스팅 업체 비교](https://ko.hostadvice.com/vps/)

@@ -113,9 +113,3 @@ e숍 앱에서 위시리스트에 넣어두면 세일에 들어갔을 때 알림
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [닌텐도 e숍 안내](https://www.nintendo.com/store/)
-- [닌텐도 스위치 공식 소개 페이지](https://www.nintendo.com/switch/)
-- [한국닌텐도 공식 사이트](https://www.nintendo.co.kr/)

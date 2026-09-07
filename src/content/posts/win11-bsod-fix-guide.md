@@ -78,8 +78,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [Microsoft Learn - 중지 코드 오류 문제 해결](https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/stop-code-error-troubleshooting)
-- [Microsoft 지원 - Windows 블루스크린 오류 해결](https://support.microsoft.com/en-us/windows/resolving-blue-screen-errors-60b01860-58f2-be66-7516-5c45a66ae3c6)

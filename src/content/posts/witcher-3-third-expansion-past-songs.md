@@ -112,8 +112,3 @@ CD 프로젝트 레드는 이번 확장팩을 게롤트에게 다시 돌아가�
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [CD 프로젝트 레드](https://www.cdprojektred.com/)
-- [게임스컴 공식 홈페이지](https://www.gamescom.global/)

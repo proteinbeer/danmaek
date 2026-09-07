@@ -78,8 +78,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [Microsoft 지원 - Windows에서 업데이트 관리](https://support.microsoft.com/en-us/windows/manage-updates-in-windows-643e9ea7-3cf6-7da6-a25c-95d4f7f099fe)
-- [Microsoft Windows - Windows 업데이트 일시중지하기](https://www.microsoft.com/en-us/windows/learning-center/windows-update-pause)

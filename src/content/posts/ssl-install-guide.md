@@ -91,8 +91,3 @@ Let's Encrypt 외에 **Cloudflare**를 사용하면 원본 서버 인증과 별�
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [Let's Encrypt 공식 사이트](https://letsencrypt.org/ko/)
-- [Cloudflare 무료 SSL 안내](https://developers.cloudflare.com/)

@@ -112,8 +112,3 @@ Shift+다시 시작은 로그인 화면뿐 아니라 **계정에 진입한 상�
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [Microsoft - Windows 11 소개](https://www.microsoft.com/ko-kr/windows/windows-11)
-- [Microsoft 지원 - Windows](https://support.microsoft.com/ko-kr/windows)

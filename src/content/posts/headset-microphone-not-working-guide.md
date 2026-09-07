@@ -93,8 +93,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [Microsoft 지원 - Windows 사운드 설정](https://support.microsoft.com/windows)
-- [위키백과 - 마이크로폰](https://ko.wikipedia.org/wiki/마이크로폰)

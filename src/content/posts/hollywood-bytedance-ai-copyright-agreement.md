@@ -113,9 +113,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [버라이어티 미국 영화협회 바이트댄스 합의 보도](https://variety.com/2026/biz/news/motion-picture-association-deal-bytedance-ip-ai-seedance-1236836240/)
-- [로이터](https://www.reuters.com)
-- [미국 영화협회](https://www.motionpictures.org)

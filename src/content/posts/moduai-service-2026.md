@@ -89,9 +89,3 @@ KT가 제안한 이름은 '이음 인사이드'입니다. 다양한 서비스에
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [연합뉴스 - 모두의 AI 착수 간담회, SKT·카카오·KT 참석](https://www.yna.co.kr/view/AKR20260904152200017)
-- [전자신문 - 모두의 AI 프로젝트 착수](https://www.etnews.com)
-- [한국경제 - 하정우 국가AI전략위 부위원장 취임](https://www.hankyung.com)

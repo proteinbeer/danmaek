@@ -113,9 +113,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [인벤 게임스컴 2026 한국 게임사 출품 정리](https://www.inven.co.kr/webzine/news/?news=319683)
-- [게임스컴](https://www.gamescom.global)
-- [크래프톤](https://www.krafton.com)

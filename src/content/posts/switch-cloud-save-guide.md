@@ -113,9 +113,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [닌텐도 스위치 온라인 공식 소개](https://www.nintendo.com/switch-online/)
-- [닌텐도 공식 지원 가이드](https://en-americas-support.nintendo.com/app/answers/detail/a_id/21539)
-- [한국닌텐도 공식 사이트](https://www.nintendo.co.kr/)

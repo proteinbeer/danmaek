@@ -114,8 +114,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [Wi-Fi Alliance - 와이파이 알아보기](https://www.wi-fi.org/discover-wi-fi)
-- [Wi-Fi Alliance 공식 사이트](https://www.wi-fi.org/)

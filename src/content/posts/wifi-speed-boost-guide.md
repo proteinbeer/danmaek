@@ -114,8 +114,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [Fast.com - 넷플릭스 속도 측정](https://fast.com)
-- [Speedtest by Ookla](https://www.speedtest.net/ko)

@@ -83,9 +83,3 @@ POE2의 새 리그는 카카오게임즈에도 의미가 큰 상황입니다. �
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [디스이즈게임 - POE2 금단의 의식 리그 공개](https://www.tgdaily.co.kr/news/articleView.html?idxno=406776)
-- [카카오게임즈 공식 카페 - POE2 금단의 의식 업데이트](https://game.daum.net/kakao)
-- [인벤 - 패스 오브 엑자일2 금단의 의식](https://www.inven.co.kr)

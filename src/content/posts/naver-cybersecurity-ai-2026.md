@@ -83,8 +83,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [전자신문 - 네이버클라우드 컨소시엄, 사이버보안 특화 AI 최종 사업자 선정](https://www.etnews.com/20260903000052)
-- [연합뉴스 - 네이버클라우드, 사이버보안 특화 AI 사업자로 선정](https://www.yna.co.kr)

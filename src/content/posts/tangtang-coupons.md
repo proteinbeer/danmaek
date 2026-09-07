@@ -89,10 +89,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [탕탕특공대 쿠폰 모음 (2026년 9월) - 디그우](https://www.digwow.net/탕탕특공대/쿠폰-모음/)
-- [탕탕특공대 쿠폰 코드 최신 모음 - 지쿠폰 플레이](https://gcouponplay.com/coupon/탕탕특공대/)
-- [탕탕특공대 쿠폰 번호와 입력 방법 - 게임트렌드](https://gametrends.co.kr/탕탕특공대-쿠폰-번호-및-입력-방법/)
-- [탕탕특공대 공식 디스코드](https://discord.com/invite/survivorio)

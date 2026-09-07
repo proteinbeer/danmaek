@@ -86,10 +86,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [메이플 키우기 쿠폰 모음 (9/3 업데이트) - 인벤](https://www.inven.co.kr/board/mapleidle/6554/152)
-- [메키픽 쿠폰 정보](https://www.mekipick.com/news/coupon)
-- [메이플 키우기 넥슨 공식 쿠폰 사용 페이지](https://mcoupon.nexon.com/maplestoryidle?lang=ko)
-- [메이플 키우기 쿠폰 및 입력 방법 - 게임트렌드](https://gametrends.co.kr/)

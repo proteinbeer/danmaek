@@ -111,8 +111,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [로이터](https://www.reuters.com/business/nvidia-shares-set-280-billion-price-swing-after-earnings-options-show-2026-08-25/)
-- [인베스토피디아](https://www.investopedia.com/nvidia-reports-earnings-wednesday-here-is-how-much-traders-expect-the-stock-to-move-nvda-q2-fy2027-update-12062509)

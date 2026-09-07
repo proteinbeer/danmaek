@@ -131,9 +131,3 @@ GTA 5에서는 자동차를 훔치고 무기를 꺼내 범죄를 저지른 뒤 �
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [락스타 게임즈 GTA 6 공식 페이지](https://www.rockstargames.com/VI/)
-- [게임메카 GTA 6 대규모 유출 보도](https://www.gamemeca.com/view.php?gid=1779289)
-- [피씨게이머 GTA 6 유출 영상 분석](https://www.pcgamer.com/games/grand-theft-auto/gta-6-video-leak-analysis-august-2026/)

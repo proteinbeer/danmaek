@@ -104,9 +104,3 @@ I9: 인페르노 나인은 게임 내 설정에서 쿠폰을 입력합니다. �
 - 공식 네이버 라운지(인페르노 나인)
 - 공식 홈페이지(global.leniuhw.com/inferno_nine)
 - 공식 카페
-
-## 출처
-
-- [공식 네이버 라운지](https://game.naver.com/lounge/Inferno_Nine/)
-- [Nyang Corp - I9 쿠폰 모음](https://nyangcorp.com/games/games-coupon/inferno_nine)
-- [GameTrends - I9: Inferno Nine codes](https://gametrends.co.kr/i9-inferno-nine-codes/)

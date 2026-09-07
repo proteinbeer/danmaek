@@ -113,9 +113,3 @@ DB 정리는 눈에 보이는 변화보다 크지는 않지만, 관리자 화면
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [PageSpeed Insights](https://pagespeed.web.dev/)
-- [워드프레스 공식 문서](https://wordpress.org/documentation/)
-- [Cloudflare 공식 사이트](https://www.cloudflare.com/ko-kr/)

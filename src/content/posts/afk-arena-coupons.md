@@ -92,10 +92,3 @@ AFK 아레나 쿠폰은 대부분 계정당 1회만 사용할 수 있습니다. 
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [AFK 아레나 쿠폰 모음 - 디그우](https://www.digwow.net/afk-아레나/쿠폰-모음/)
-- [AFK 아레나 공식 교환 사이트](https://cdkey.lilith.com/afk-global)
-- [AFK 아레나 다이아 쿠폰 교환 코드 - 코딩하는 집사](https://yongku2.tistory.com/7956)
-- [AFK 아레나 쿠폰 리딤코드 모음 - 지쿠폰](https://gcoupon.net/coupon/afkArena)

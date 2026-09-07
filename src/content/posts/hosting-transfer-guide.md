@@ -114,9 +114,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [워드프레스 공식 백업 문서](https://wordpress.org/documentation/article/backing-up-your-wordpress-site/)
-- [ICANN 공식 사이트](https://www.icann.org/)
-- [카페24 공식 사이트](https://www.cafe24.com/)

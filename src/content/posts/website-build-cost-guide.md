@@ -90,10 +90,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [벤처플래닛 - 홈페이지 제작 비용 총정리](https://vplanet.biz/homepage-cost-guide/)
-- [크리에이티브소프트 - 2026 홈페이지 제작 비용](https://www.creativesoft.co.kr/blog/homepage-development-cost-2026)
-- [아임웹 공식 홈페이지](https://imweb.me/)
-- [WordPress 공식 홈페이지](https://wordpress.org/)

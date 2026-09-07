@@ -89,9 +89,3 @@ SK텔레콤은 로드맵도 함께 제시했습니다. 먼저 울산 AIDC 투자
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [연합뉴스 - SKT AIDC 3사 체제, KKR 등 3조800억 유치](https://www.yna.co.kr/view/AKR20260904128600017)
-- [전자신문 - SKT 데이터센터 사업 개편](https://www.etnews.com)
-- [한국경제 - SK브로드밴드 인적분할, SK호라이즌 설립](https://www.hankyung.com)

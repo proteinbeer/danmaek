@@ -78,8 +78,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [Microsoft 지원 - Windows에서 드라이브 공간 확보](https://support.microsoft.com/en-us/windows/free-up-drive-space-in-windows-85529ccb-c365-490d-b548-831022bc9b32)
-- [Microsoft Windows - 저장 공간 관리하기](https://www.microsoft.com/en-us/windows/learning-center/manage-storage-space)

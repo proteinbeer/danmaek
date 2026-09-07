@@ -100,8 +100,3 @@ hideDescription: true
 - 공식 X(@7DSO_KR)
 - 공식 디스코드
 - 공식 네이버 카페
-
-## 출처
-
-- [일곱 개의 대죄: 오리진 공식 홈페이지](https://7origin.netmarble.com/ko)
-- [디그우 - 대죄 오리진 쿠폰 모음](https://www.digwow.net/%EC%9D%BC%EA%B3%B1-%EA%B0%9C%EC%9D%98-%EB%8C%80%EC%A3%84-origin-0-5%EC%A3%BC%EB%85%84/%EC%BF%A0%ED%8F%B0-%EB%AA%A8%EC%9D%8C/)

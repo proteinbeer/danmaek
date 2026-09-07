@@ -101,8 +101,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [크래프톤 게임스컴 2026 발표](https://www.yna.co.kr/view/AKR20260826012200017)
-- [코리아타임스 PUBG 데드넷 공개 보도](https://koreatimes.co.kr)

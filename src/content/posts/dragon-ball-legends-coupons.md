@@ -86,10 +86,3 @@ SUMMER7893는 유효 기간이 9월 7일까지로 얼마 남지 않았습니다.
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [Dragon Ball Legends codes - GamesRadar+](https://www.gamesradar.com/games/rpg/dragon-ball-legends-codes/)
-- [All Active Dragon Ball Legends Codes - Skycoach](https://skycoach.gg/blog/dragon-ball-legends/articles/dbl-codes)
-- [Dragon Ball Legends Codes (August 2026) - dztecs](https://www.dztecs.com/gaming/dragon-ball-legends-codes/)
-- [Dragon Ball Legends 공식 코드 입력 페이지](https://ww.bandainamcoentwebstore.com/dble-ww/en/code)

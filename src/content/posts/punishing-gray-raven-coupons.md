@@ -85,8 +85,3 @@ PGR2026, NEWROSETTA0203는 글로벌 버전에서 사용 가능한 코드입니�
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [퍼니싱: 그레이 레이븐 8월 리딤 코드 - cosm-game](https://cosm-game.com/codes/punishing-gray-raven-redeem-codes-for-august-2026/)
-- [퍼니싱: 그레이 레이븐 공식 사이트](https://pgr.kurogames.com/)

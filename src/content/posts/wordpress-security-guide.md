@@ -108,9 +108,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [워드프레스 공식 보안 문서](https://wordpress.org/documentation/article/administration-over-security/)
-- [워드프레스 공식 사이트](https://wordpress.org/)
-- [OWASP 공식 사이트](https://owasp.org/)

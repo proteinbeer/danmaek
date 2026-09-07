@@ -123,9 +123,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [엔비디아 투자자 관계 자료](https://investor.nvidia.com)
-- [로이터 8월 25일 엔비디아 실적 전망 보도](https://www.yna.co.kr/view/AKR20260826019800009)
-- [로이터 8월 26일 세계 증시 보도](https://www.yna.co.kr)

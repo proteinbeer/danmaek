@@ -113,8 +113,3 @@ E3의 종료는 게임쇼의 죽음보다는 발표만으로 유지되던 게임
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [게임스컴 공식 홈페이지](https://www.gamescom.global/)
-- [워싱턴 포스트](https://www.washingtonpost.com/video-games/2021/06/18/e3-2022-future/)

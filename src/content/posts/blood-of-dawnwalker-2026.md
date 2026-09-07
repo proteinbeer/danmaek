@@ -79,9 +79,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [데일리게임 - 반다이남코, 더 블러드 오브 던워커 한국어판 정식 출시](https://www.dailygame.co.kr/view.php?ud=20260903175549965521ad998911_26)
-- [인벤 - 더 블러드 오브 던워커 한국어판, 9월 3일 출시 앞서 트레일러 공개](https://www.inven.co.kr/webzine/news/?news=319951)
-- [게임포커스 - 반다이남코 오픈월드 다크 판타지 액션 RPG 더 블러드 오브 던워커 정식 발매](https://gamefocus.co.kr/detail.php?number=178812)

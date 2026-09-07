@@ -86,8 +86,3 @@ LVF4M3QMD6는 최근 배포된 코드로 아직 만료 기한이 확인되지 �
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [소녀전선2 망명 리딤코드 쿠폰 모음 - 정보킹](https://wjdqhzld.com/%EC%86%8C%EB%85%80%EC%A0%84%EC%84%A02-%EB%A6%AC%EB%94%A4%EC%BD%94%EB%93%9C/)
-- [소녀전선2 망명 신규 코드 안내 - 소프트잇](https://softit.tistory.com/173)

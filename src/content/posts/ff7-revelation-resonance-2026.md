@@ -95,9 +95,3 @@ hideDescription: true
 이런 양갈래 전략은 이미 오래된 일이 아닙니다. 최근 몇 년간 회사는 픽셀아트 스타일의 옥토패스 트래블러 시리즈를 통해 HD-2D라는 장르의 감각을 입증해 왔고, 리조넌스는 그 실험을 파이널 판타지 본가 브랜드로 끌어올린 결과물이라고 볼 수 있습니다.
 
 물론 두 작품이 모두 성공을 장담할 수는 없습니다. 리벨레이션은 7년에 걸친 실험의 결말이라 실패하면 오랜 팬심까지 흔들릴 수 있고, 리조넌스는 모바일 원작 기반이라서 기대를 의심하는 시선도 있습니다. 하지만 어쨌든 이번 스테이트 오브 플레이에서 파이널 판타지는 "마지막 지평"과 "새로운 시작"이라는 두 가지 미래를 동시에 보여줬습니다.
-
-## 출처
-
-- [파이널 판타지 7 리벨레이션 발매일 발표 (PlayStation.Blog)](https://blog.playstation.com/2026/09/03/final-fantasy-vii-revelation-launches-on-ps5-april-8-2027/)
-- [파이널 판타지 리조넌스 데모 & 세피로스 (PlayStation.Blog)](https://blog.playstation.com/2026/09/03/final-fantasy-resonance-ps5-demo-available-today-sephiroth-revealed/)
-- [파이널 판타지 7 리벨레이션 발매일 (Polygon)](https://www.polygon.com/final-fantasy-7-revelation-september-state-of-play-release-date-announced/)

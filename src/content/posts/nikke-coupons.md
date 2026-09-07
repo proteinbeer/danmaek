@@ -86,9 +86,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [승리의 여신 니케 쿠폰 코드 모음 - 정보킹](https://wjdqhzld.com/%EB%8B%88%EC%BC%80-%EC%BF%A0%ED%8F%B0/)
-- [니케 CDK 코드 - buffhub](https://buffhub.com/ko/blog/nikke/nikke-cdk-codes.html)
-- [니케 쿠폰 안내 - 쿠폰몽](https://honeybeejoa.co.kr/bbs/board.php?bo_table=nikke&wr_id=1)

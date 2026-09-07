@@ -79,9 +79,3 @@ PS5, Xbox 시리즈 X|S, PC, 닌텐도 스위치 2로 발매됐고 한국어를 
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [인벤 - 귀무자: Way of the Sword, 메타크리틱 85점 호평 속 출발](https://www.inven.co.kr/webzine/news/?news=320276)
-- [게임메카 - 일섬의 짜릿함 살아 있다, 귀무자: 검의 길 메타 85점](https://www.gamemeca.com/view.php?gid=1779873)
-- [캡콤 귀무자 공식 사이트](https://www.capcom-games.com/onimusha/ws/ko-kr/)

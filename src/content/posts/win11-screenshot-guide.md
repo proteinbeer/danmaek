@@ -112,8 +112,3 @@ PrintScreen 키의 기본 동작(클립보드 복사)을 캡처 도구가 열리
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [Microsoft - Windows 11 소개](https://www.microsoft.com/ko-kr/windows/windows-11)
-- [Microsoft 지원 - Windows](https://support.microsoft.com/ko-kr/windows)

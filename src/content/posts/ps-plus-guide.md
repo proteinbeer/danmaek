@@ -113,8 +113,3 @@ PS Plus는 플레이스테이션의 유료 구독 서비스입니다. 기본 혜
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [PlayStation Plus 공식 안내](https://www.playstation.com/ko-kr/ps-plus/)
-- [PlayStation 지원 - 반복 결제 및 구독](https://www.playstation.com/ko-kr/support/account/repeat-billing-subscriptions/)

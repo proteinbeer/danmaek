@@ -79,8 +79,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [스팀 공식 - 클라우드 저장 도움말](https://help.steampowered.com/ko/faqs/view/68F3-E94E-89A1-DCB2)
-- [스팀 공식 고객지원](https://help.steampowered.com/ko/)

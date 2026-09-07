@@ -112,8 +112,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [테크크런치 옥스 알파 분석](https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/)
-- [오픈라우터](https://openrouter.ai)

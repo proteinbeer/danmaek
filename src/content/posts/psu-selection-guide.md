@@ -112,8 +112,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [80 PLUS 인증 공식 사이트](https://www.80plus.org/)
-- [OuterVision 파워서플라이 계산기](https://outervision.com/power-supply-calculator)

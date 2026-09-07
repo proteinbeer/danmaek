@@ -113,9 +113,3 @@ AMD 라데온 소프트웨어는 게임별 프로필, 프레임 표시 등 부�
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [NVIDIA 드라이버 다운로드](https://www.nvidia.com/ko-kr/drivers/)
-- [AMD 드라이버 및 지원](https://www.amd.com/ko/support)
-- [인텔 드라이버 및 지원](https://www.intel.com/content/www/us/en/download-center/home.html)

@@ -99,8 +99,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [스팀 공식 홈페이지](https://store.steampowered.com/)
-- [스팀 고객지원 - 다운로드 도움말](https://help.steampowered.com/ko/)

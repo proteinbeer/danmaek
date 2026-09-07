@@ -107,9 +107,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [크래프톤 게임스컴 2026 발표](https://www.krafton.com/)
-- [코리아타임스 크래프톤 신작 공개](https://koreajoongangdaily.joins.com/)
-- [타래 언바운드 공식 자료](https://www.krafton.com/)

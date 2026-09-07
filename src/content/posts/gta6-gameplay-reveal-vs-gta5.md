@@ -111,9 +111,3 @@ GTA 6는 그 구조를 버리지 않으면서 행동 하나마다 조건과 반�
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [락스타 게임즈 GTA 6 공식 페이지](https://www.rockstargames.com/VI/)
-- [락스타 게임즈 GTA 6 공식 스토어](https://www.rockstargames.com/gta-vi)
-- [더 버지 GTA 6 장시간 공개 영상 보도](https://www.theverge.com/games)

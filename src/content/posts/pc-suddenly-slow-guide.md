@@ -92,7 +92,3 @@ SSD(솔리드 스테이트 드라이브)는 빈 공간이 적을수록 성능이
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [Microsoft 공식 지원](https://support.microsoft.com/ko-kr/windows)

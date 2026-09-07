@@ -77,9 +77,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [디지털투데이 - 스팀, 12TB '역대급 유출'…2003~2013년 미공개 게임 빌드 쏟아졌다](https://www.digitaltoday.co.kr/news/articleView.html?idxno=696731)
-- [아르스 테크니카 - 스팀 12TB 유출 보도](https://arstechnica.com)
-- [스팀 공식 스토어](https://store.steampowered.com)

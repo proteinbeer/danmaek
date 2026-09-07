@@ -113,8 +113,3 @@ USB가 인식되지 않는다면 **USB 3.0 포트 대신 USB 2.0 포트**에 연
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [마이크로소프트 윈도우 11 다운로드 페이지](https://www.microsoft.com/ko-kr/software-download/windows11)
-- [Rufus 공식 사이트](https://rufus.ie/ko/)

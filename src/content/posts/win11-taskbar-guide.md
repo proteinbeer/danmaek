@@ -112,8 +112,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [Microsoft - Windows 11 소개](https://www.microsoft.com/ko-kr/windows/windows-11)
-- [Microsoft 지원](https://support.microsoft.com/ko-kr/windows)

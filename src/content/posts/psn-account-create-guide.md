@@ -114,8 +114,3 @@ PS5를 처음 부팅하면 계정 만들기 화면이 바로 나타납니다.
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [PlayStation Network 공식 안내](https://www.playstation.com/ko-kr/psn/)
-- [PlayStation 지원](https://www.playstation.com/ko-kr/support/)

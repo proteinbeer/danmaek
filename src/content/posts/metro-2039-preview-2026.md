@@ -122,9 +122,3 @@ hideDescription: true
 동시에 이번 작품은 시리즈 역사상 가장 어두운 이야기라고 불립니다. 전쟁 속에서 제작진이 겪은 감정을 고스란히 녹였기 때문이죠. 희망을 바라봤던 엑소더스와 달리, 2039는 영웅도 없다며 독재와 전쟁의 대가를 정면으로 응시합니다.
 
 어쩌면 그것이 메트로라는 이름이 여전히 사랑받는 이유입니다. 화려한 영웅담이 아니라, 어두운 현실에서 버티는 인간을 그려내기 때문이죠. 모스크바 지하철로의 귀환은 그렇게 내년 2월 다가옵니다.
-
-## 출처
-
-- [메트로 2039 빅 프리뷰 (GamesRadar+)](https://www.gamesradar.com/games/fps/metro-2039-the-big-preview-hub/)
-- [메트로 2039 4시간 핸즈온 프리뷰 (GamesRadar+)](https://www.gamesradar.com/games/fps/after-playing-metro-2039-for-4-hours-heres-5-reasons-why-its-now-my-most-anticipated-fps-of-2027/)
-- [메트로 2039 '리니게이드' 트레일러 보도 (MKAU Gaming)](https://www.mkaugaming.com/metro-2039-reveals-renegade-gameplay-trailer-at-opening-night-live/)

@@ -101,9 +101,3 @@ hideDescription: true
 - 공식 네이버 카페(운빨존많겜)
 - 공식 공지사항
 - 111퍼센트 도움말
-
-## 출처
-
-- [운빨존많겜 공식 네이버 카페](https://cafe.naver.com/omfgluckyme)
-- [디그우 - 운빨존많겜 쿠폰 모음](https://www.digwow.net/%EC%9A%B4%EB%B9%A8%EC%A1%B4%EB%A7%8E%EA%B2%9C/%EC%BF%A0%ED%8F%B0-%EB%AA%A8%EC%9D%8C/)
-- [Lv1 Arcade - Lucky Defense 코드](https://www.lv1arcade.com/coupons/luckyDefense)

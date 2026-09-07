@@ -87,10 +87,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [Zenless Zone Zero codes - LDshop](https://www.ldshop.gg/blog/news/zenless-zone-zero-codes.html)
-- [젠레스 존 제로 리딤코드 - 소프트잇](https://softit.tistory.com/213)
-- [젠레스 존 제로 리딤코드 65개 - 쿠폰누나](https://noona.help/game/zenless-zone-zero)
-- [젠레스 존 제로 공식 리딤 페이지](https://zenless.hoyoverse.com/redemption)

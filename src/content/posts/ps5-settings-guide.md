@@ -113,8 +113,3 @@ VRR은 설정 화면에서 **디스플레이 정보 확인**을 눌러 지원 �
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [PlayStation - PS5 소개](https://www.playstation.com/ko-kr/ps5/)
-- [PlayStation 지원](https://www.playstation.com/ko-kr/support/)

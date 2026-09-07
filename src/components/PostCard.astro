@@ -13,10 +13,18 @@ const subSlug = data.subcategory ? (SUB_SLUG_BY_CATEGORY[data.category]?.get(dat
 const link = subSlug
   ? `${categoryToPath[data.category] ?? '/news/'}${subSlug}/`
   : (data.category === '뉴스' ? '/news/' : categoryToPath[data.category]);
+const todayLabel = new Date().toDateString();
+const yesterday = new Date();
+yesterday.setDate(yesterday.getDate() - 1);
+const yesterdayLabel = yesterday.toDateString();
+const dateLabel = data.date.toDateString();
+const badgeClass = dateLabel === todayLabel ? '' : ' new-badge--yesterday';
+const showBadge = dateLabel === todayLabel || dateLabel === yesterdayLabel;
 ---
 <article class="post-card" data-category={data.category} data-subcategory={data.subcategory}>
   <a class="post-card__image" href={`/posts/${post.id}/`} aria-label={data.title}>
     <img src={data.image} alt={data.imageAlt} width={data.imageWidth} height={data.imageHeight} loading="lazy" decoding="async" />
+    {showBadge && <span class={`new-badge${badgeClass}`}><span class="new-badge__text">NEW</span></span>}
   </a>
   <div class="post-card__meta">
     <a href={link}>{label}</a>

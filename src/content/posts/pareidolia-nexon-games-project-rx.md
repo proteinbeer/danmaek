@@ -117,9 +117,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [인벤 파레이돌리아 명칭 확정 보도](https://www.inven.co.kr/webzine/news/?news=319847)
-- [게임메카 파레이돌리아 공개 보도](https://www.gamemeca.com/view.php?gid=1779532)
-- [넥슨게임즈](https://company.nexon.com)

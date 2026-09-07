@@ -105,8 +105,3 @@ AMD 그래픽카드라면 AMD Software(아드레날린)의 게임 설정에서 �
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [Microsoft 공식 지원](https://support.microsoft.com/ko-kr/windows)
-- [엔비디아 공식 지원](https://www.nvidia.com/ko-kr/)

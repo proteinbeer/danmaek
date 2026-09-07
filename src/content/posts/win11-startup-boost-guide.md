@@ -78,8 +78,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [Microsoft 지원 - Windows에서 시작 앱 구성](https://support.microsoft.com/en-us/windows/experience/startup-boot/configure-startup-applications-in-windows)
-- [Microsoft Windows - 시작 프로그램 관리하기](https://www.microsoft.com/en-us/windows/learning-center/take-control-of-windows-startup)

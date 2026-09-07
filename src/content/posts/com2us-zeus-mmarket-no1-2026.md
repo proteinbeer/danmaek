@@ -101,10 +101,3 @@ AI가 획득한 성장 재료를 임의로 소비하지 않아 이용자가 다�
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [컴투스 '제우스' 구글·애플 마켓 매출 1위 (뉴시스)](https://www.newsis.com/view/NISX20260903_0003775306)
-- [양대마켓 1위 '제우스', 직접 해봤더니... (쿠키뉴스)](https://www.kukinews.com/article/view/kuk202609030213)
-- [제우스: 오만의 신 공식 홈페이지](https://zeus.com2us.com)
-- [제우스: 오만의 신 구글플레이](https://play.google.com/store/apps/details?id=com.com2us.es.android.google.kr.normal)

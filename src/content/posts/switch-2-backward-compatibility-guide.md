@@ -113,9 +113,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [닌텐도 스위치 공식 소개 페이지](https://www.nintendo.com/switch/)
-- [닌텐도 스위치 온라인 공식 소개](https://www.nintendo.com/switch-online/)
-- [한국닌텐도 공식 사이트](https://www.nintendo.co.kr/)

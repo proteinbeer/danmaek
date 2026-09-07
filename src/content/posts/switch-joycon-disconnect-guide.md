@@ -112,9 +112,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [닌텐도 공식 지원 - 컨트롤러 보정 안내](https://en-americas-support.nintendo.com/app/answers/detail/a_id/43971)
-- [닌텐도 스위치 공식 소개 페이지](https://www.nintendo.com/switch/)
-- [한국닌텐도 공식 사이트](https://www.nintendo.co.kr/)

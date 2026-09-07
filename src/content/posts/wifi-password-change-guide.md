@@ -112,7 +112,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-## 출처
-
-- [Wi-Fi Alliance - WPA3 무선 보안](https://www.wi-fi.org/discover-wi-fi/security)
