@@ -7,3 +7,7 @@ dist/
 npm-debug.log*
 image/
 seo-check-report.json
+
+dev.log
+backup_mojibake_pre_fix/
+public/assets/danmaek-logo-blue-backup.png

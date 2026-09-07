@@ -30,7 +30,9 @@ export const GUIDE_SUBCATEGORIES: Subcategory[] = [
   { name: '주변기기', slug: 'peripherals' },
   { name: '워드프레스', slug: 'wordpress' },
   { name: '호스팅', slug: 'hosting' },
-  { name: '스위치', slug: 'switch' }
+  { name: '스위치', slug: 'switch' },
+  { name: '메이플 키우기', slug: 'maple-raising' },
+  { name: '랜덤 다이스 2', slug: 'random-dice-2' }
 ];
 
 export const COUPON_SUBCATEGORIES: Subcategory[] = [
