@@ -1,8 +1,8 @@
 ---
 title: "붕괴: 스타레일 쿠폰 9월 최신 정리"
-description: "붕괴: 스타레일 쿠폰 코드를 모아 정리했다. 게임 내 리딤코드 메뉴나 공식 기프트 사이트에서 입력하고 보상은 우편함에서 받으면 된다. 성옥을 주는 상시 코드부터 꼭 입력하자."
-date: 2026-09-05
-updated: 2026-09-05
+description: "붕괴: 스타레일 쿠폰 코드를 모아 정리했다. 게임 내 리딤코드 메뉴나 공식 기프트 사이트에서 입력하고 보상은 우편함에서 받으면 된다. 성옥을 주는 상시 코드부터 9월 버전 코드까지 9월 8일 기준으로 확인했다."
+date: 2026-09-08
+updated: 2026-09-08
 category: "쿠폰"
 subcategory: "붕괴: 스타레일"
 tags:
@@ -31,16 +31,18 @@ hideDescription: true
 
 ## 1. 지금 사용 가능한 최신 쿠폰
 
-9월 기준으로 확인된 붕괴: 스타레일 사용 가능 리딤코드는 다음과 같습니다. 코드는 대소문자를 정확히 입력해야 하며, 계정당 1회만 사용할 수 있습니다.
+9월 8일 기준으로 재확인된 붕괴: 스타레일 사용 가능 리딤코드는 다음과 같습니다. 코드는 대소문자를 정확히 입력해야 하며, 계정당 1회만 사용할 수 있습니다.
 
 | 쿠폰 코드 | 보상 |
 | --- | --- |
-| STARRAILGIFT | 성옥 50, 여행 가이드 2, 해피워터 5, 신용 포인트 10,000 |
+| STARRAILGIFT | 성옥 50, 여행 가이드 2, 해피워터 5, 신용 포인트 10,000 (상시 코드) |
+| OMEGA | 성옥 60, 연료 1 |
+| CREATIONNYMPH | 성옥 60, 연료 1 |
 | FAREWELL | 성옥 60, 연료 1 |
 | IFYOUAREREADINGTHIS | 성옥 60, 연료 1 |
-| CREATIONNYMPH | 성옥 등 버전 한정 보상 |
-| OMEGA | 성옥 등 이벤트 보상 |
 | BladeFitCheck | 이벤트 잡템 |
+
+OMEGA, CREATIONNYMPH, FAREWELL, IFYOUAREREADINGTHIS 네 개는 현재 버전에서 각각 성옥 60과 연료 1을 주는 것으로 확인됐습니다.
 
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">

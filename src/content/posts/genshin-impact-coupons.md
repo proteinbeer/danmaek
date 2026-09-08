@@ -1,8 +1,8 @@
 ---
 title: "원신 쿠폰 9월 최신 정리"
-description: "원신 리딤코드를 모아 정리했다. 공식 기프트 사이트에서 코드를 입력하고 보상은 게임 우편함에서 받으면 된다. 기한이 짧은 코드가 많아 확인 즉시 입력하는 편이 좋다."
-date: 2026-09-05
-updated: 2026-09-05
+description: "원신 리딤코드를 모아 정리했다. 공식 기프트 사이트에서 코드를 입력하고 보상은 게임 우편함에서 받으면 된다. 9월 신규 스네즈나야 코드 포함, 기한이 짧은 코드가 많아 확인 즉시 입력하는 편이 좋다."
+date: 2026-09-08
+updated: 2026-09-08
 category: "쿠폰"
 subcategory: "원신"
 tags:
@@ -31,18 +31,18 @@ hideDescription: true
 
 ## 1. 지금 사용 가능한 최신 쿠폰
 
-9월 기준으로 확인된 원신 사용 가능 리딤코드는 다음과 같습니다. 표의 코드를 공식 기프트 사이트에 접속해 입력하면 됩니다.
+9월 8일 기준으로 재확인된 원신 사용 가능 리딤코드는 다음과 같습니다. 가장 최신은 스네즈나야 스토리 코드인 MySnezhnayaCareer로 다른 코드보다 원석을 많이 줍니다. 표의 코드를 공식 기프트 사이트에 접속해 입력하면 됩니다.
 
 | 쿠폰 코드 | 보상 |
 | --- | --- |
-| LCXGEA5SX65L | 모라 1만, 모험가의 경험 5, 정제용 광물 5, 생선 볶음면, 절운고추 치킨 5 |
-| UIVIBUQM6Q8A | 7.0 업데이트 기념 원석 등 |
-| P7G0XA30H0Q3 | 7.0 특별 방송 원석 등 |
-| 2BJ64QRZ7RT8 | 7.0 특별 방송 원석 등 |
-| EHVE2TEAFY6O | 이벤트 보상 |
-| GS70XINGOJ | 이벤트 보상 |
-| Snezhnaya | 이벤트 보상 |
-| GENSHINGIFT | 원석 50, 영웅의 경험 3 |
+| MySnezhnayaCareer | 원석 160, 모라 20,000, 영웅의 경험 3 |
+| GENSHINGIFT | 원석 50, 영웅의 경험 3 (상시 코드) |
+| 2BJ64QRZ7RT8 | 원석 60, 모험가의 경험 5 |
+| Y1INABQB6DEX | 원석 60, 모험가의 경험 5 |
+| LEGEDILJKSGM | 원석 60, 모험가의 경험 5 |
+| BALLETCOLLAB | 원석 30, 모라 10,000, 정제용 광물 3 |
+| DUGODWKRHAKDNJ | 원석 30, 모라 10,000, 영웅의 경험 3, 정제용 광물 3 |
+| XVIZDH2B9WGX | 모라 10,000, 모험가의 경험 10, 정제용 광물 5 등 |
 
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
