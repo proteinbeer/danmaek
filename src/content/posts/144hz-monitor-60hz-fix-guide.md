@@ -29,7 +29,6 @@ hideDescription: true
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/hero-bloom.jpg" alt="144Hz 게이밍 모니터 화면" width="1280" height="720" loading="lazy" decoding="async" />
 
-
 ## 1. 윈도우 새로 고침 빈도 확인
 
 윈도우 11에서는 설정, 시스템, 디스플레이, 고급 디스플레이로 들어가면 현재 새로 고침 빈도를 확인할 수 있습니다. 여기서 목록에 144Hz가 있다면 직접 선택하시면 되죠.
@@ -51,9 +50,8 @@ hideDescription: true
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
@@ -80,6 +78,17 @@ AMD 그래픽카드라면 AMD Software(아드레날린)의 게임 설정에서 �
 
 게임 실행 도중 프레임을 보여주는 기준도 참고가 됩니다. 만약 게임 내 프레임 제한이나 지연 방지 기능이 60으로 설정되어 있다면 144로 바꾸시면 됩니다. 특히 발로란트, 오버워치, 카운터스트라이크 같은 경쟁 게임은 이 설정이 프레임에 직접 영향을 줍니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 동적 새로 고침 빈도 확인
 
 윈도우 11에는 상황에 따라 새로 고침 빈도를 자동으로 바꾸는 동적 새로 고침 빈도가 있습니다. 특정 게임이나 프로그램에서 예상보다 낮게 동작한다면 이 기능을 꺼보고 비교해보시면 됩니다.
@@ -94,8 +103,7 @@ AMD 그래픽카드라면 AMD Software(아드레날린)의 게임 설정에서 �
 
 그래픽 드라이버를 최신 버전으로 업데이트해보는 것도 도움이 됩니다. 드라이버가 다소 낡은 경우 새로 고침 빈도 목록에서 최신 주사율이 누락될 수 있습니다. 마지막으로 모니터를 단독으로 연결한 상태에서 다시 테스트해보면, 다중 모니터 구성이나 케이블 문제와 구분할 수 있습니다.
 
-
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>

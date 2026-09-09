@@ -41,29 +41,39 @@ hideDescription: true
 
 스택이 일정 수준 쌓이면 포식의 화력이 급격히 증가합니다. 이후에는 무리하게 합성을 반복하기보다 포식 주변에 버프를 유지하고, 필요 없는 주사위만 골라 정리하는 흐름으로 전환합니다. 이 타이밍 판단이 포식덱의 실력을 가르는 지점입니다.
 
-## 3. 변형 조합: 눈보라·균열
-
-포식 성장형의 성장 자리를 눈보라로 바꾼 변형도 운용됩니다. 적응·소환·포식·눈보라·균열 구성으로, 눈보라가 적의 이동을 늦추고 균열이 추가 피해를 붙여 제어와 딜을 함께 챙깁니다.
-
-순수 성장형에 비해 스택 성장은 느리지만, 자체 제어 수단이 있어 단독 운용이 편합니다. 랜덤 매칭 협동이나 서포터와의 호흡이 맞지 않을 때 유리한 선택지입니다. 콘텐츠에 따라 성장형과 제어형을 갈아 끼우는 것이 좋습니다.
-
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
 
+## 3. 변형 조합: 눈보라·균열
+
+포식 성장형의 성장 자리를 눈보라로 바꾼 변형도 운용됩니다. 적응·소환·포식·눈보라·균열 구성으로, 눈보라가 적의 이동을 늦추고 균열이 추가 피해를 붙여 제어와 딜을 함께 챙깁니다.
+
+순수 성장형에 비해 스택 성장은 느리지만, 자체 제어 수단이 있어 단독 운용이 편합니다. 랜덤 매칭 협동이나 서포터와의 호흡이 맞지 않을 때 유리한 선택지입니다. 콘텐츠에 따라 성장형과 제어형을 갈아 끼우는 것이 좋습니다.
+
 ## 4. 해금 루트와 성장 순서
 
 포식까지 가는 초반 루트는 커뮤니티에서 여러 패턴이 공유됩니다. 대표적인 방식은 마법 계열에서 적응까지 진행해 소환·콤보를 확보한 뒤, 공학에서 톱날·기어를 열고, 마지막으로 혼돈 계열의 혼돈·균열을 거쳐 포식을 여는 순서입니다.
 
 중상위권에서는 CC(군중제어)기를 거의 넣지 않고 딜러 버프에 자원을 몰아주는 서폿 세팅과 함께 포식 원콤 타이밍을 앞당기기도 합니다. 포식 성장형을 주력으로 삼는다면 트리를 넓게 벌리기보다 포식이 놓인 카오스 계열로 최단 거리를 밀어주는 것이 효율적입니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 전술효과와 타이밍
 
@@ -77,12 +87,11 @@ hideDescription: true
 
 포식의 강점은 단일 대상 원콤이라 보스 중심 콘텐츠에서 발휘됩니다. 잡몹이 다수 몰리는 구간이나 운영 난도가 부담스러운 초반에는 기어덱 같은 광역·입문 조합과 번갈아 쓰는 것이 안정적입니다. 주력 딜러 하나를 깊이 키운 뒤 변형을 시도하는 로드맵이 무난합니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->

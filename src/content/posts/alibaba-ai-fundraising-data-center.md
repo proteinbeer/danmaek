@@ -34,7 +34,6 @@ hideDescription: true
 
 ## 1. 인공지능은 소프트웨어인가
 
-
 기존 인터넷 서비스는 이용자가 늘어도 소프트웨어를 복제하는 비용이 상대적으로 낮았습니다. 반면 생성형 인공지능은 이용자가 질문할 때마다 실제 연산 자원이 들어가죠.
 
 모델을 학습할 때도 반도체, 전력, 데이터센터가 필요합니다.
@@ -57,8 +56,6 @@ hideDescription: true
 
 주문 규모가 발행 규모를 크게 웃돌았다는 점은 투자자들이 희석을 걱정하면서도 알리바바의 인공지능 전략 자체에는 관심을 갖고 있다는 신호이기도 합니다.
 
-<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/alibaba-ai-fundraising-data-center/03-hkex-trading-hall.jpg" alt="홍콩증권거래소 매매홀" loading="lazy" />
-
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
@@ -80,8 +77,6 @@ hideDescription: true
 
 알리바바가 자체 모델, 클라우드, 반도체를 함께 묶어 투자하려는 이유도 이런 구조와 연결되죠.
 
-<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/alibaba-ai-fundraising-data-center/02-alibaba-hq-hangzhou.jpg" alt="항저우 알리바바 그룹 본사" loading="lazy" />
-
 ## 4. 모델 순위보다 투자 회수 기간
 
 인공지능 뉴스는 보통 어떤 모델이 평가에서 1위를 했는지에 집중됩니다. 하지만 기업이 실제로 살아남으려면 성능보다 돈을 벌 수 있는지가 더 중요하죠.
@@ -92,7 +87,16 @@ hideDescription: true
 
 앞으로 인공지능 기업을 볼 때는 모델 성능뿐 아니라 클라우드 매출, 연산 비용, 자체 반도체, 투자 회수 기간도 함께 보셔야 합니다.
 
-<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/alibaba-ai-fundraising-data-center/04-data-center-server-racks.jpg" alt="데이터센터 서버 랙" loading="lazy" />
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 인공지능 경쟁의 다음 승자
 
@@ -103,14 +107,3 @@ hideDescription: true
 102억 달러는 모델 하나를 만드는 비용이라기보다 몇 년 동안 계속 싸울 수 있는 연료에 가깝습니다. 주가가 단기적으로 흔들려도 회사가 이 돈을 실제 성장으로 바꾸면 평가는 언제든지 달라질 수 있기 때문입니다.
 
 반대로 투자만 늘고 수익성이 따라오지 않으면 인공지능 열풍은 기업에 큰 부담이 될 수 있습니다. 이제 경쟁은 누가 더 똑똑한 모델을 만들었느냐에서 누가 더 오래 투자하고 더 빨리 수익을 만들 수 있느냐로 이동하고 있습니다.
-
-<div style="margin: 40px 0 28px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

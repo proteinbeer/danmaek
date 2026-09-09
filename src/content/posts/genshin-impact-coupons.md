@@ -44,18 +44,6 @@ hideDescription: true
 | DUGODWKRHAKDNJ | 원석 30, 모라 10,000, 영웅의 경험 3, 정제용 광물 3 |
 | XVIZDH2B9WGX | 모라 10,000, 모험가의 경험 10, 정제용 광물 5 등 |
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 원신 코드도 수량과 유효 기간이 정해져 있어 (공식 기프트 사이트)
 
 원신은 게임 내부에 리딤코드 입력 메뉴가 없어서, 공식 기프트 사이트에서 등록하는 방식입니다.
@@ -73,20 +61,19 @@ hideDescription: true
 
 특별 방송에서 공개되는 코드는 방송 후 48시간 정도 안에 만료되기도 합니다. 새 버전 소식은 공식 유튜브 방송과 커뮤니티에서 확인하고, 코드가 나오면 바로 입력하는 습관이 중요하죠.
 
-## 4. 코드가 안 될 때 확인할 사항
-
-먼저 코드의 대소문자와 공백, 특수문자를 확인하시기 바랍니다. 복사 붙여넣기를 쓰면 오타를 막을 수 있습니다.
-
-만료됐거나 이미 사용한 코드라면 교환 실패가 나옵니다. 또 일부 코드는 선착순 수량 제한이 있어서 입력이 막힐 수도 있습니다. 코드가 듣지 않는다면 최신 코드 목록을 다시 확인해주시기 바랍니다.
-
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
+
+## 4. 코드가 안 될 때 확인할 사항
+
+먼저 코드의 대소문자와 공백, 특수문자를 확인하시기 바랍니다. 복사 붙여넣기를 쓰면 오타를 막을 수 있습니다.
+
+만료됐거나 이미 사용한 코드라면 교환 실패가 나옵니다. 또 일부 코드는 선착순 수량 제한이 있어서 입력이 막힐 수도 있습니다. 코드가 듣지 않는다면 최신 코드 목록을 다시 확인해주시기 바랍니다.

@@ -42,9 +42,8 @@ hideDescription: true
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
@@ -63,13 +62,7 @@ hideDescription: true
 
 보안 → 로그인 ID(이메일 주소)에서 새 이메일로 바꿀 수 있습니다. 변경하면 모든 기기에서 로그아웃되니, 새 이메일로 확인 절차를 마친 뒤 다시 로그인하면 됩니다.
 
-## 5. 해킹이 의심될 때 대처법
-
-모르는 결제 내역이 보이거나, 변경한 적 없는 이메일이 계정과 연결되어 있다면 **신속히 조치**해야 합니다. 먼저 계정의 비밀번호와 로그인 방법을 바꾸고, 등록된 결제 수단을 점검해 불필요한 카드는 제거하기 바랍니다.
-
-스팸함에 모르는 PlayStation 이메일이 있다면, 본인 계정에 접근하려는 시도일 수 있습니다. 로그인 방법을 변경하고 계정 상태를 확인하면 더 큰 피해를 막을 수 있습니다.
-
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>
@@ -79,3 +72,9 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
+
+## 5. 해킹이 의심될 때 대처법
+
+모르는 결제 내역이 보이거나, 변경한 적 없는 이메일이 계정과 연결되어 있다면 **신속히 조치**해야 합니다. 먼저 계정의 비밀번호와 로그인 방법을 바꾸고, 등록된 결제 수단을 점검해 불필요한 카드는 제거하기 바랍니다.
+
+스팸함에 모르는 PlayStation 이메일이 있다면, 본인 계정에 접근하려는 시도일 수 있습니다. 로그인 방법을 변경하고 계정 상태를 확인하면 더 큰 피해를 막을 수 있습니다.

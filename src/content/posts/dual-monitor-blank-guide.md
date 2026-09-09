@@ -29,7 +29,6 @@ hideDescription: true
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/hero-bloom.jpg" alt="모니터 두 대를 사용하는 듀얼 모니터 셋업" width="1280" height="720" loading="lazy" decoding="async" />
 
-
 ## 1. 디스플레이 감지
 
 설정, 시스템, 디스플레이에서 두 모니터가 표시되는지 확인하시면 됩니다. 보이지 않는다면 여러 디스플레이 메뉴에서 감지를 실행해볼 수 있죠.
@@ -49,9 +48,8 @@ hideDescription: true
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
@@ -74,16 +72,7 @@ hideDescription: true
 
 데스크톱이라면 그래픽카드의 **다른 출력 단자**로 옮겨 확인하시면 됩니다. 특정 출력 단자만 인식이 불안정할 수도 있습니다. 노트북이라면 다른 USB-C(DP) 단자나 HDMI 단자를 시도해볼 수 있습니다.
 
-## 5. 드라이버 확인
-
-윈도우에서 두 번째 모니터를 계속 찾지 못한다면 그래픽 드라이버 업데이트 상태도 확인해보시는 것이 좋습니다.
-
-디스플레이 감지를 눌러도 두 번째 모니터가 계속 감지되지 않는다면, 그래픽 드라이버가 오래되었거나 손상되었을 수 있습니다. 장치 관리자에서 **디스플레이 어댑터** 항목을 펼쳐 그래픽카드에 오류 표시가 없는지 확인하고, 드라이버를 최신 버전으로 업데이트하시면 됩니다.
-
-드라이버를 업데이트한 뒤 시스템을 다시 시작하면 다중 모니터가 정상적으로 인식되는 경우가 많습니다. 드라이버 업데이트로도 해결되지 않으면, 그래픽 하드웨어가 두 번째 출력을 지원하는지(그래픽카드의 출력 포트 구성)도 확인해보시기 바랍니다.
-
-
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>
@@ -93,3 +82,11 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
+
+## 5. 드라이버 확인
+
+윈도우에서 두 번째 모니터를 계속 찾지 못한다면 그래픽 드라이버 업데이트 상태도 확인해보시는 것이 좋습니다.
+
+디스플레이 감지를 눌러도 두 번째 모니터가 계속 감지되지 않는다면, 그래픽 드라이버가 오래되었거나 손상되었을 수 있습니다. 장치 관리자에서 **디스플레이 어댑터** 항목을 펼쳐 그래픽카드에 오류 표시가 없는지 확인하고, 드라이버를 최신 버전으로 업데이트하시면 됩니다.
+
+드라이버를 업데이트한 뒤 시스템을 다시 시작하면 다중 모니터가 정상적으로 인식되는 경우가 많습니다. 드라이버 업데이트로도 해결되지 않으면, 그래픽 하드웨어가 두 번째 출력을 지원하는지(그래픽카드의 출력 포트 구성)도 확인해보시기 바랍니다.

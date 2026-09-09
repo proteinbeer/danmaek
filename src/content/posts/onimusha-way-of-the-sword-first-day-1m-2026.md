@@ -46,11 +46,32 @@ hideDescription: true
 
 결과적으로 첫날 100만 장이라는 숫자가 나왔으니 일정 조정은 적어도 초반 판매에서는 불리하게 작용하지 않았습니다. 출시 시점 자체가 게임 품질만큼 중요하다는 걸 보여주는 사례이기도 하죠.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 데모를 한 번으로 끝내지 않은 이유
 
 캡콤은 정식 출시 전 여러 차례 체험 기회를 열었습니다. 6월에는 플레이 가능한 데모를 공개했고 행사에서도 직접 게임을 만져볼 수 있는 기회를 늘렸습니다.
 
 귀무자처럼 오랫동안 신작이 없었던 시리즈는 이름만 보고 예약 구매하기 어려운 이용자도 많습니다. 기억 속 전투가 현재 기준에서도 재미있는지 확인해야 하기 때문이죠.
+
+그래서 데모는 광고 영상보다 더 중요한 역할을 했습니다. 영상에서 화려해 보이는 검술이 실제 조작에서도 손맛이 있는지를 구매 전에 검증하게 해준 셈입니다.
+
+## 4. 캡콤의 오래된 게임 다시 꺼내기
+
+최근 캡콤은 몬스터 헌터, 바이오하자드, 스트리트 파이터처럼 이미 강한 시리즈뿐 아니라 과거 자산을 다시 활용하는 움직임도 이어가고 있습니다. 귀무자는 그중에서도 신작 공백이 특히 길었던 이름이죠.
+
+여기서 첫날 100만 장이 의미 있는 이유는 단순한 매출보다 다음 선택지를 넓혀준다는 데 있습니다. 오래 쉬었다는 이유만으로 시리즈 가치가 사라지는 건 아니라는 데이터가 생겼기 때문입니다.
+
+팬 입장에서는 자연스럽게 다른 과거 시리즈까지 기대하게 됩니다. 회사 입장에서도 완전히 새로운 브랜드를 처음부터 알리는 비용과 과거 이름을 현대적으로 되살리는 비용을 비교할 수 있게 되죠.
 
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
@@ -63,18 +84,6 @@ hideDescription: true
   </div>
 </div>
 
-그래서 데모는 광고 영상보다 더 중요한 역할을 했습니다. 영상에서 화려해 보이는 검술이 실제 조작에서도 손맛이 있는지를 구매 전에 검증하게 해준 셈입니다.
-
-## 4. 캡콤의 오래된 게임 다시 꺼내기
-
-최근 캡콤은 몬스터 헌터, 바이오하자드, 스트리트 파이터처럼 이미 강한 시리즈뿐 아니라 과거 자산을 다시 활용하는 움직임도 이어가고 있습니다. 귀무자는 그중에서도 신작 공백이 특히 길었던 이름이죠.
-
-여기서 첫날 100만 장이 의미 있는 이유는 단순한 매출보다 다음 선택지를 넓혀준다는 데 있습니다. 오래 쉬었다는 이유만으로 시리즈 가치가 사라지는 건 아니라는 데이터가 생겼기 때문입니다.
-
-팬 입장에서는 자연스럽게 다른 과거 시리즈까지 기대하게 됩니다. 회사 입장에서도 완전히 새로운 브랜드를 처음부터 알리는 비용과 과거 이름을 현대적으로 되살리는 비용을 비교할 수 있게 되죠.
-
-<img class="post-landscape-image" src="/assets/posts/news-images/onimusha-way-of-the-sword-2026-02.jpg" alt="게게 아쿠타미 작가의 귀무자 웨이 오브 더 소드 출시 기념 일러스트" width="640" height="640" loading="lazy" decoding="async" />
-
 ## 5. 첫날 숫자보다 봐야 할 다음 단계
 
 첫날 100만 장이 장기 흥행을 보장하는 것은 아닙니다. 액션 게임은 초반 평가와 입소문에 따라 판매 속도가 크게 달라질 수 있고, 오래된 팬 외에 신규 이용자가 얼마나 남는지가 더 중요합니다.
@@ -86,15 +95,3 @@ hideDescription: true
 또 하나 볼 부분은 시리즈 누적 판매량입니다. 이번 신작이 첫날 100만 장을 더하면서 귀무자 전체가 1000만 장을 넘겼죠.
 
 오랫동안 멈춰 있던 브랜드가 단 하루 만에 전체 누적의 10분의 1에 해당하는 판매량을 추가한 셈입니다. 오래된 팬만 돌아왔다고 보기에는 신규 이용자의 비중도 상당했을 가능성을 생각하게 하는 숫자입니다.
-
-<div style="margin: 40px 0 28px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-

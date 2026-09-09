@@ -42,9 +42,8 @@ hideDescription: true
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
@@ -63,13 +62,7 @@ hideDescription: true
 
 배터리 수명이 크게 줄었다면 교체를 고려해 보기 바랍니다. 컨트롤러 사용 시간이 눈에 띄게 짧아졌다면 배터리 노후화일 가능성이 큽니다.
 
-## 5. 어떤 케이블·액세서리가 좋을까
-
-컨트롤러 문제를 겪지 않으려면 **정품 호환 케이블**을 준비해 두는 편이 좋습니다. 충전 충격을 줄여 주는 거치대나 충전독도 배터리 관리를 편하게 해 줍니다.
-
-악세서리 선택 시 호환 모델을 확인하고, 오래 쓰는 제품을 고르면 컨트롤러를 오래 쓸 수 있습니다.
-
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>
@@ -79,3 +72,9 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
+
+## 5. 어떤 케이블·액세서리가 좋을까
+
+컨트롤러 문제를 겪지 않으려면 **정품 호환 케이블**을 준비해 두는 편이 좋습니다. 충전 충격을 줄여 주는 거치대나 충전독도 배터리 관리를 편하게 해 줍니다.
+
+악세서리 선택 시 호환 모델을 확인하고, 오래 쓰는 제품을 고르면 컨트롤러를 오래 쓸 수 있습니다.

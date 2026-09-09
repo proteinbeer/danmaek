@@ -73,7 +73,16 @@ hideDescription: true
 
 새 고룡 건도라자도 이 지역에서 중요한 존재로 등장합니다. 과거 몬스터와 완전히 새로운 몬스터를 한 확장팩에 함께 넣으면서 추억과 신선함을 동시에 노립니다.
 
-<img class="post-landscape-image" src="/assets/posts/news-images/monster-hunter-wilds-ascendance-2026-02.jpg" alt="몬스터 헌터 와일즈 어센던스 스카이바운드 이어리 공중 지역" width="1280" height="720" loading="lazy" decoding="async" />
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 확장팩인데 사실상 후속 이야기
 
@@ -88,15 +97,3 @@ hideDescription: true
 동시에 본편에서 완성된 것처럼 보였던 관계를 다시 흔들 수 있습니다. 조사대가 요새를 만들고 나타가 헌터가 됐다는 사실만으로도 사람들이 금지된 땅을 대하는 태도가 달라졌다는 걸 보여주기 때문이죠.
 
 정확한 출시일과 전체 몬스터 수는 아직 공개되지 않았습니다. 지금 확인할 수 있는 것은 2027년 출시 예정과 이야기의 큰 방향, 새 지역과 일부 몬스터 정도이므로 나머지는 추가 발표를 기다리는 편이 정확합니다.
-
-<div style="margin: 40px 0 28px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-

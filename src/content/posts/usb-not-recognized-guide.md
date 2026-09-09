@@ -29,7 +29,6 @@ USB 메모리나 외장하드를 컴퓨터에 꽂았는데 파일 탐색기에 �
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/hero-bloom.jpg" alt="노트북에 꽂힌 USB 메모리" width="1280" height="720" loading="lazy" decoding="async" />
 
-
 ## 1. 다른 단자에서 확인
 
 앞쪽 단자에서 안 된다면 뒤쪽 단자에 연결해보시고, 다른 컴퓨터에서도 인식되는지 비교해보시면 됩니다.
@@ -49,9 +48,8 @@ USB가 연결되었는데 파일 탐색기에만 보이지 않는다면 윈도�
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
@@ -74,12 +72,7 @@ USB가 연결되었는데 파일 탐색기에만 보이지 않는다면 윈도�
 
 파일이 없거나 백업되어 있다면 디스크 관리에서 드라이브를 **포맷**해 파일 시스템을 다시 구성할 수 있습니다. 포맷은 드라이브를 정상 사용할 수 있게 하는 마지막 수단으로, 반드시 필요한 경우에만 진행하시면 됩니다. 포맷 후에도 인식되지 않는다면 USB 고장이거나 저장장치 수명이 다했을 수 있습니다.
 
-## 5. 정리
-
-USB 인식 문제는 대부분 단자, 드라이브 문자, 드라이버와 같은 소프트웨어·연결 문제로 해결됩니다. 포맷 전에 위 단계를 꼭 확인해보시고, 중요한 데이터가 있다면 복구 가능성을 먼저 점검하시기 바랍니다.
-
-
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>
@@ -89,3 +82,7 @@ USB 인식 문제는 대부분 단자, 드라이브 문자, 드라이버와 같�
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
+
+## 5. 정리
+
+USB 인식 문제는 대부분 단자, 드라이브 문자, 드라이버와 같은 소프트웨어·연결 문제로 해결됩니다. 포맷 전에 위 단계를 꼭 확인해보시고, 중요한 데이터가 있다면 복구 가능성을 먼저 점검하시기 바랍니다.

@@ -42,9 +42,8 @@ hideDescription: true
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
@@ -63,13 +62,7 @@ hideDescription: true
 
 또한 가족 구성원을 서로 신뢰할 수 있어야 합니다. 라이브러리가 공유되는 만큼 각자의 인앱 구매나 밴(이용 정지) 사유가 공유되지는 않지만, 게임 계정 자체는 철저히 분리되어 있으므로 비밀번호는 서로 공유하지 않는 것이 안전합니다.
 
-## 5. 가족에서 나가기
-
-가족 공유를 더 이상 쓰지 않는다면 **가족 → 가족 관리**에서 내 계정을 탈퇴할 수 있습니다. 탈퇴하면 더 이상 상대방의 라이브러리에 접근하지 못하고, 반대로 나의 라이브러리도 상대방에게 공유되지 않습니다.
-
-탈퇴 후에는 특정 기간 동안 새 가족에 바로 가입하지 못할 수 있으므로, 신중하게 결정해보시기 바랍니다. 가족 공유는 복잡해 보이지만 한 번 익숙해지면 가족 단위 PC 게임 생활을 훨씬 알차게 만들어 줍니다.
-
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>
@@ -79,3 +72,9 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
+
+## 5. 가족에서 나가기
+
+가족 공유를 더 이상 쓰지 않는다면 **가족 → 가족 관리**에서 내 계정을 탈퇴할 수 있습니다. 탈퇴하면 더 이상 상대방의 라이브러리에 접근하지 못하고, 반대로 나의 라이브러리도 상대방에게 공유되지 않습니다.
+
+탈퇴 후에는 특정 기간 동안 새 가족에 바로 가입하지 못할 수 있으므로, 신중하게 결정해보시기 바랍니다. 가족 공유는 복잡해 보이지만 한 번 익숙해지면 가족 단위 PC 게임 생활을 훨씬 알차게 만들어 줍니다.

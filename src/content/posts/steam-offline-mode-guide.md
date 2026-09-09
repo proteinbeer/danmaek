@@ -23,13 +23,11 @@ hideDescription: true
   이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
 </p>
 
-
 기차나 비행기 안처럼 인터넷이 없는 환경에서 스팀 게임을 하려면 오프라인 모드가 필요합니다. 스팀 게임은 다운로드할 때만 인터넷이 필요하다고 생각하기 쉽지만, 스팀 클라이언트가 온라인 상태를 유지하지 못하면 게임 실행이 막힐 수 있죠.
 
 오프라인 모드를 미리 이해해두면, 인터넷이 끊긴 상황에서도 설치된 게임을 이어서 즐길 수 있습니다. 전환 방법과 제약 사항을 아래에 정리했습니다.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/steam-home.jpg" alt="인터넷 없이 실행할 수 있는 스팀 게임 라이브러리" width="1200" height="675" loading="lazy" decoding="async" />
-
 
 ## 1. 오프라인 모드란 무엇인가
 
@@ -51,16 +49,6 @@ hideDescription: true
 
 전환할 때 스팀을 다시 시작하라는 안내가 나올 수 있습니다. 다운로드가 진행 중이면 오프라인 모드로 전환되지 않으므로, 다운로드를 완료하거나 중지한 뒤 진행하시기 바랍니다.
 
-## 3. 인터넷 없이 스팀 시작하기
-
-이미 오프라인인 상태에서 스팀을 실행해야 할 때는 다음과 같이 시작합니다.
-
-- 스팀을 실행하면 로그인 서버 연결이 실패하고 **연결 오류** 화면이 나타납니다.
-- **오프라인 모드로 시작**을 눌러 로그인 없이 클라이언트에 접속합니다.
-- 오프라인 모드에서도 게임 라이브러리는 정상적으로 표시되며, 설치된 게임을 실행할 수 있습니다.
-
-계정 로그인 정보가 PC에 저장되어 있어야 오프라인 모드가 동작합니다. 계정 정보를 자동 저장하지 않도록 설정한 경우라면 미리 온라인 상태에서 확인해두시는 것이 좋습니다.
-
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
@@ -72,6 +60,16 @@ hideDescription: true
   </div>
 </div>
 
+## 3. 인터넷 없이 스팀 시작하기
+
+이미 오프라인인 상태에서 스팀을 실행해야 할 때는 다음과 같이 시작합니다.
+
+- 스팀을 실행하면 로그인 서버 연결이 실패하고 **연결 오류** 화면이 나타납니다.
+- **오프라인 모드로 시작**을 눌러 로그인 없이 클라이언트에 접속합니다.
+- 오프라인 모드에서도 게임 라이브러리는 정상적으로 표시되며, 설치된 게임을 실행할 수 있습니다.
+
+계정 로그인 정보가 PC에 저장되어 있어야 오프라인 모드가 동작합니다. 계정 정보를 자동 저장하지 않도록 설정한 경우라면 미리 온라인 상태에서 확인해두시는 것이 좋습니다.
+
 ## 4. 오프라인에서 실행할 수 없는 게임
 
 모든 게임이 오프라인에서 열리는 것은 아닙니다. 다음 유형은 주의가 필요합니다.
@@ -81,6 +79,17 @@ hideDescription: true
 - **온라인 멀티 전용 게임**: 매치메이킹을 지원하는 게임은 서버가 없으면 이용할 수 없죠.
 
 구체적으로 어떤 게임이 오프라인을 지원하는지는 게임 설명이나 실행해봐야 알 수 있습니다. 외출 전에 한 번 시험 삼아 오프라인 모드로 게임을 열어보시면 확실합니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 클라우드 저장과 세이브 관리
 
@@ -102,7 +111,7 @@ hideDescription: true
 
 여행 중 노트북으로 오프라인 플레이를 자주 한다면, 귀가 후 온라인 전환과 업데이트까지 마무리하면 다음 외출에 대비할 수 있습니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>

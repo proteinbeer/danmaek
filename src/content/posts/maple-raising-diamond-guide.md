@@ -44,9 +44,8 @@ hideDescription: true
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
@@ -65,6 +64,17 @@ hideDescription: true
 
 월 단위로 풀리는 패스류 보상은 무과금도 목표치를 정해두면 달성 가능한 선에서 설계되어 있습니다. 조건을 확인한 뒤 달성 가능한 구간까지는 채워두는 것이 좋습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 다이아 사용 우선순위
 
 무과금이 모은 다이아를 쓸 때는 세 가지를 먼저 챙기는 것이 좋습니다. 첫째는 영구 보유 효과가 붙은 코스튬, 둘째는 펫과 관련된 버프 슬롯, 셋째는 전투 조합을 바꿔줄 스킬 뽑기입니다.
@@ -77,12 +87,11 @@ hideDescription: true
 
 쓸 때는 보유 효과 있는 영구 재화에 먼저 투자하고, 눈앞의 뽑기 자극은 참는 것이 장기 성장에 유리합니다. 한 달만 꾸준히 모아도 초반에 쓰기 부담스러운 수치가 쌓이므로, 초심 잃지 않고 관리하는 것이 핵심입니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->

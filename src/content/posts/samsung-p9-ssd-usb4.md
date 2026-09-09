@@ -65,8 +65,6 @@ P9은 1테라바이트, 2테라바이트, 4테라바이트, 8테라바이트 용
 
 그래서 P9의 성능 차이는 일반 소비자보다 전문 영상 제작자가 먼저 크게 체감할 가능성이 높습니다.
 
-<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/samsung-p9-ssd-usb4/02-samsung-p9-p7.jpg" alt="삼성 P9과 P7 휴대용 SSD 라인업" loading="lazy" />
-
 ## 4. 게임스컴 공개
 
 저장장치인데 게임스컴에서 공개했다는 점도 꽤 흥미롭습니다. 그런데 최근 게임은 설치 용량뿐 아니라 고해상도 텍스처와 패치 파일까지 계속 커지고 있죠.
@@ -74,6 +72,17 @@ P9은 1테라바이트, 2테라바이트, 4테라바이트, 8테라바이트 용
 노트북 저장 공간이 부족하면 게임을 지웠다가 다시 설치하는 일이 흔합니다. 외장 SSD 속도가 충분히 빨라지면 보관용이 아니라 게임을 설치하고 직접 실행하는 공간으로 쓰기가 쉬워집니다.
 
 휴대용 게임기와 게이밍 노트북 사용자가 늘어나는 흐름까지 생각하면 왜 독일까지 갔는지 이해가 됩니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. P7도 같은 USB4
 
@@ -83,8 +92,6 @@ P9과 함께 공개된 P7도 USB4를 사용합니다. P7을 일상적인 사용�
 
 현재 P7과 P9 모두 8월 31일부터 세계 시장에 순차 출시될 예정입니다.
 
-<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/samsung-p9-ssd-usb4/04-samsung-p9-p7.jpg" alt="삼성 P7 휴대용 SSD USB4" loading="lazy" />
-
 ## 6. 가격은 확실히 높은 편
 
 미국 권장 가격 기준 P9은 1테라바이트 339달러, 2테라바이트 649달러, 8테라바이트 모델은 2699달러로 발표됐습니다. 50만원에서 300만원까지 꽤 비싸죠.
@@ -92,6 +99,17 @@ P9과 함께 공개된 P7도 USB4를 사용합니다. P7을 일상적인 사용�
 속도와 용량이 크게 늘어난 만큼 일반 외장 SSD와 비교하면 상당히 높은 가격대입니다. 단순 백업용으로 사용하실 분이라면 성능을 제대로 활용하지 못하면서 가격만 많이 지불할 수도 있습니다.
 
 일단 초기에는 영상 제작자와 전문 작업자, 대용량 데이터를 자주 다루는 분들에게 더 맞는 제품으로 보입니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 7. 최대 속도
 

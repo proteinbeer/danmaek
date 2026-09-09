@@ -29,7 +29,6 @@ hideDescription: true
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/dualsense-1200x675.jpg" alt="디스코드 화면 공유 중인 게임 화면" width="1200" height="675" loading="lazy" decoding="async" />
 
-
 ## 1. 소리 공유를 지원하는 환경인지 확인
 
 디스코드는 윈도우 데스크톱, 맥 데스크톱, 크롬 브라우저, 모바일에서 화면 공유 소리를 캡처할 수 있습니다. 리눅스에서는 애플리케이션 소리 공유가 지원되지 않습니다.
@@ -49,9 +48,8 @@ hideDescription: true
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
@@ -74,16 +72,7 @@ hideDescription: true
 
 하드웨어 가속을 끄면 화면 공유 시 CPU가 처리 부담을 더 지기 때문에 성능이 다소 달라질 수 있지만, 안정성 문제를 해결하는 데 도움이 됩니다. 이 설정을 바꾼 뒤 화면 공유 소리가 정상적으로 전달되는지 확인하시면 됩니다.
 
-## 5. 윈도우와 드라이버 확인
-
-소리 장치 드라이버나 그래픽 드라이버가 오래됐거나 윈도우 업데이트 이후 문제가 생긴 경우도 있습니다. 다른 프로그램에서는 소리가 정상인지 확인하고, 디스코드만 문제라면 앱을 완전히 종료하고 다시 실행해보시면 되죠.
-
-다른 프로그램(영상 플레이어, 브라우저)에서 소리가 정상적으로 나오는지 확인하시면 됩니다. 다른 프로그램은 정상인데 디스코드 화면 공유에서만 소리가 안 들린다면 디스코드 앱이나 설정 쪽 문제일 가능성이 높습니다.
-
-디스코드를 완전히 종료(작업 표시줄에서 오른쪽 클릭 → 종료)하고 다시 실행하시면 됩니다. 또한 소리 장치와 그래픽 드라이버를 최신 버전으로 업데이트해서 윈도우 업데이트 이후 호환성 문제가 생기지 않았는지도 확인해보시기 바랍니다.
-
-
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>
@@ -93,3 +82,11 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
+
+## 5. 윈도우와 드라이버 확인
+
+소리 장치 드라이버나 그래픽 드라이버가 오래됐거나 윈도우 업데이트 이후 문제가 생긴 경우도 있습니다. 다른 프로그램에서는 소리가 정상인지 확인하고, 디스코드만 문제라면 앱을 완전히 종료하고 다시 실행해보시면 되죠.
+
+다른 프로그램(영상 플레이어, 브라우저)에서 소리가 정상적으로 나오는지 확인하시면 됩니다. 다른 프로그램은 정상인데 디스코드 화면 공유에서만 소리가 안 들린다면 디스코드 앱이나 설정 쪽 문제일 가능성이 높습니다.
+
+디스코드를 완전히 종료(작업 표시줄에서 오른쪽 클릭 → 종료)하고 다시 실행하시면 됩니다. 또한 소리 장치와 그래픽 드라이버를 최신 버전으로 업데이트해서 윈도우 업데이트 이후 호환성 문제가 생기지 않았는지도 확인해보시기 바랍니다.

@@ -54,8 +54,6 @@ hideDescription: true
 
 이는 성장주에서 가장 흔한 충돌이죠.
 
-<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/unitree-stock-surge-crash-humanoid/02-unitree-h1-sprint.jpg" alt="유니트리 H1 로봇 달리기" loading="lazy" />
-
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
@@ -87,7 +85,16 @@ hideDescription: true
 
 그래서 유니트리의 첫날 상승률만 보고 로봇 시장의 실제 성장 속도를 판단하시면 위험합니다.
 
-<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/unitree-stock-surge-crash-humanoid/03-humanoid-factory.jpg" alt="휴머노이드 로봇 공장 투입 장면" loading="lazy" />
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 거품과 혁신은 동시에 존재
 
@@ -100,16 +107,3 @@ hideDescription: true
 로봇의 성능이 계속 좋아지고 실제 산업에 투입되더라도 기업 가치가 너무 빠르게 앞서가면 이런 큰 조정은 언제든 다시 나올 수 있죠.
 
 유니트리의 45% 하락을 로봇 산업의 실패라고 보는 것도, 첫날 460% 상승을 로봇 시대의 확정이라고 보는 것도 사실 너무 빠릅니다. 오히려 이번 움직임은 새로운 산업이 클수록 기술과 주가를 따로 봐야 한다는 좋은 사례에 가깝죠.
-
-<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/unitree-stock-surge-crash-humanoid/04-shanghai-financial-district.jpg" alt="상하이 루자루이 금융가 야경" loading="lazy" />
-
-<div style="margin: 40px 0 28px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

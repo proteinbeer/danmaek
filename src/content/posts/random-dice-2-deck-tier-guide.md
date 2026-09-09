@@ -41,29 +41,39 @@ hideDescription: true
 
 포식의 딜을 그대로 유지하면서 제어 성능을 끌어올린 형태라, 딜러 혼자 해야 할 부담을 줄입니다. 다만 딜러 자체 스택 성장 속도는 성장형보다 느리기 때문에, 서포터와의 호흡이 좋은 고정 파티에서 더 빛을 보는 조합입니다.
 
-## 3. 입문·범용: 기어덱과 강풍덱
-
-티어와 무관하게 입문 추천 1순위로 꾸준히 거론되는 것은 기어덱입니다. 기어·적응·제물·얼음·스위치 조합으로, 기어끼리 연결될수록 효율이 오르는 특성 덕분에 눈금을 크게 올리지 않아도 판이 안정적으로 돌아갑니다.
-
-강풍 광역 덱은 강풍·감염·얼음·제물·적응으로 짜며, 광역 처리에 강해서 실수에 비교적 관대합니다. 두 덱 모두 전설 주사위가 없어도 굴러가는 운영 난도 낮은 조합이라, 초반 등반과 시스템 익히기에 적합합니다. 새 조합을 시도하기 전에 이 중 하나를 먼저 완성하는 편이 성장 효율이 좋습니다.
-
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
 
+## 3. 입문·범용: 기어덱과 강풍덱
+
+티어와 무관하게 입문 추천 1순위로 꾸준히 거론되는 것은 기어덱입니다. 기어·적응·제물·얼음·스위치 조합으로, 기어끼리 연결될수록 효율이 오르는 특성 덕분에 눈금을 크게 올리지 않아도 판이 안정적으로 돌아갑니다.
+
+강풍 광역 덱은 강풍·감염·얼음·제물·적응으로 짜며, 광역 처리에 강해서 실수에 비교적 관대합니다. 두 덱 모두 전설 주사위가 없어도 굴러가는 운영 난도 낮은 조합이라, 초반 등반과 시스템 익히기에 적합합니다. 새 조합을 시도하기 전에 이 중 하나를 먼저 완성하는 편이 성장 효율이 좋습니다.
+
 ## 4. 협동 서포터: 제어 중심 조합
 
 협동에서 서포터를 맡으면 직접 처치보다 제어와 성장 지원에 집중합니다. 초반 무난한 조합으로는 원자·얼음·톱날·적응·소환이 거론됩니다. 원자와 얼음으로 몬스터의 진입을 늦추고, 톱날이 관통 화력으로 초반 부족한 딜을 메웁니다.
 
 딜러 화력이 충분하다면 톱날 대신 균열을 넣은 원자·얼음·균열·적응·소환 조합으로 넘어갈 수 있습니다. 서포터 본연의 역할인 적 방어력 감소와 버프에 더 집중하는 구성이죠. 서포터는 딜러의 주력 눈금에 맞춰 같이 성장하는 감각이 중요합니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 티어 평가의 잠정성
 
@@ -77,12 +87,11 @@ hideDescription: true
 
 현재 자원으로 바로 굴릴 수 있는 조합부터 갖추고, 이후 모으는 재화로 다음 티어 덱을 준비하는 순서가 무난합니다. 여러 덱을 한 번에 벌려 놓기보다 주력 덱 하나를 완성해 체감 성과를 낸 뒤 새 조합으로 넘어가는 편이 만족감과 효율 모두에서 낫습니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->

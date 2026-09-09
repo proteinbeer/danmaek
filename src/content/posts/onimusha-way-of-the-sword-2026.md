@@ -61,15 +61,13 @@ hideDescription: true
 
 그래도 출시 직후 이용자 반응은 좋았습니다. 스팀 평가는 '매우 긍정적'으로 86% 긍정 평가를 기록했는데, 출시 직후 나온 부정적 리뷰는 대부분 인게임 실행 이슈 때문이었다는 설명입니다. 보스전만 놓고 보면 만점을 줘도 아깝지 않다는 이용자 평가도 나왔습니다.
 
-<img class="post-landscape-image" src="/assets/posts/news-images/onimusha-way-of-the-sword-2026-02.jpg" alt="귀무자: 검의 길 플레이 화면" width="1280" height="720" loading="lazy" decoding="async" />
-
 ## 4. 체험판, 지금 바로
 
 귀무자: 검의 길은 현재 각 플랫폼에서 무료 체험판을 제공합니다. 출시 전 데모에서 전투의 완성도가 기대 이상이라는 평가가 이어졌던 만큼, 미리 플레이해 보고 구매를 결정하기 좋은 구성입니다.
 
 PS5, Xbox 시리즈 X|S, PC, 닌텐도 스위치 2로 발매됐고 한국어를 지원합니다. '어렵지만 성취감 있는 검술 액션'을 선호한다면 이번 가을 눈여겨볼 타이틀입니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>

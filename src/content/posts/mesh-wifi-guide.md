@@ -47,9 +47,8 @@ hideDescription: true
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
@@ -72,15 +71,7 @@ hideDescription: true
 
 유선이 여의치 않다면 최신 Wi-Fi 표준(예: Wi-Fi 6/6E, 7) 지원 제품을 고르는 것이 좋습니다. 무선 백홀 전용 대역을 지원하는 제품은 유선 없이도 속도가 준수합니다. 구매 전에 **무선 백홀 전용 주파수** 지원 여부를 확인하면 도움이 됩니다.
 
-## 5. 속도가 기대보다 안 나올 때
-
-배치만 잘해도 체감 속도가 달라집니다. 여전히 느리다면 인터넷 회선 자체의 대역폭과 주파수 간섭을 점검해보세요.
-
-메시 노드를 배치했는데도 속도가 아쉽다면 먼저 인터넷 회선 속도가 어느 정도인지 측정해보시기 바랍니다. 집 인터넷 자체가 느리면 메시로는 개선되지 않습니다. 회선 속도 확인은 통신사 공식 속도측정 페이지로 하는 것이 정확합니다.
-
-무선 간섭도 큰 변수입니다. 노드를 TV나 전자레인지, 무선 전화기 옆에 두면 주파수 간섭으로 속도가 떨어집니다. 제품 앱에서 채널을 자동으로 고르게 하거나, 5GHz 대역에 최신 기기들이 연결되도록 설정해두는 것도 좋습니다. 펌웨어 업데이트 유무도 꼭 확인하세요.
-
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>
@@ -90,3 +81,11 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
+
+## 5. 속도가 기대보다 안 나올 때
+
+배치만 잘해도 체감 속도가 달라집니다. 여전히 느리다면 인터넷 회선 자체의 대역폭과 주파수 간섭을 점검해보세요.
+
+메시 노드를 배치했는데도 속도가 아쉽다면 먼저 인터넷 회선 속도가 어느 정도인지 측정해보시기 바랍니다. 집 인터넷 자체가 느리면 메시로는 개선되지 않습니다. 회선 속도 확인은 통신사 공식 속도측정 페이지로 하는 것이 정확합니다.
+
+무선 간섭도 큰 변수입니다. 노드를 TV나 전자레인지, 무선 전화기 옆에 두면 주파수 간섭으로 속도가 떨어집니다. 제품 앱에서 채널을 자동으로 고르게 하거나, 5GHz 대역에 최신 기기들이 연결되도록 설정해두는 것도 좋습니다. 펌웨어 업데이트 유무도 꼭 확인하세요.

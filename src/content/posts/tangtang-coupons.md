@@ -46,18 +46,6 @@ hideDescription: true
 | pumpkin2024 | 이벤트 코드 |
 | halloween2024 | 이벤트 코드 |
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 최근 배포된 계절 코드(greatheat2026 (게임 내)
 
 탕탕특공대 쿠폰은 게임 안에서 쉽게 입력할 수 있습니다. 별도 사이트에 접속할 필요가 없는 경우가 많죠.
@@ -70,6 +58,17 @@ hideDescription: true
 
 탕탕특공대는 공식 디스코드 커뮤니티를 운영하고 있습니다. 디스코드에 접속해 규칙에 동의한 뒤 **redeem-gift-code** 메뉴를 확인하면 최신 쿠폰 번호를 볼 수 있습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 4. 계정당 1회, 코드는 정확히
 
 탕탕특공대 쿠폰은 모두 계정당 1회만 사용할 수 있죠. 같은 코드를 다시 입력하면 이미 사용한 상태라는 안내가 나옵니다.
@@ -77,15 +76,3 @@ hideDescription: true
 쿠폰을 입력한 뒤에도 보상이 바로 인벤토리에 들어가지 않고 우편함이나 보상 화면으로 지급되는 경우가 많습니다. 반드시 보상을 수령해야 하며, 우편함 보존 기간이 지나면 사라질 수 있습니다.
 
 새로운 쿠폰은 시즌·이벤트마다 자주 바뀌므로, 디스코드와 공식 채널을 주기적으로 확인하면서 기한이 짧은 코드부터 입력해두는 편이 좋죠.
-
-<div style="margin: 40px 0 28px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

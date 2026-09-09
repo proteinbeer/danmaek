@@ -23,13 +23,11 @@ hideDescription: true
   이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
 </p>
 
-
 게임 클립을 남기고 싶거나 강의를 녹화해야 할 때, 별도 프로그램이 반드시 필요한 것은 아닙니다. 윈도우 11에는 기본 화면 녹화 기능이 내장되어 있기 때문이죠. **Windows + G** 키 하나로 게임 바(Game Bar)를 열어 바로 녹화를 시작할 수 있습니다.
 
 다만 게임 바는 게임 창 위주로 동작해서, 바탕화면 전체를 녹화해야 할 때는 한계가 있습니다. 그 경우에는 무료 프로그램인 OBS Studio가 정답이죠. 상황별 사용법을 아래에 정리했습니다.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/hero-bloom.jpg" alt="게임 바와 녹화 프로그램을 쓰는 윈도우 11 PC" width="1200" height="675" loading="lazy" decoding="async" />
-
 
 ## 1. 게임 바로 기본 녹화하기
 
@@ -51,16 +49,6 @@ hideDescription: true
 
 저장 위치를 바꾸면 나중에 파일을 찾는 게 훨씬 편해집니다.
 
-## 3. 마이크와 게임 소리 함께 녹음하기
-
-화면만 남기는 게 아니라 목소리도 함께 녹화하고 싶다면 캡처 위젯에서 오디오를 설정합니다.
-
-- 게임 바 위젯 중 **오디오** 위젯을 열어 시스템 소리와 마이크 볼륨을 각각 조절합니다.
-- 마이크가 켜져 있지 않으면 내 목소리가 녹음되지 않으므로, 시스템 설정에서 **기본 녹음 장치**가 제대로 선택됐는지 확인합니다.
-- 녹화 도중에도 오디오 위젯으로 마이크 음소거를 켜고 끌 수 있습니다.
-
-녹화 후 목소리가 안 들린다면 대부분 녹음 장치 선택 문제입니다. 장치를 확인하고 다시 녹화하시기 바랍니다.
-
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
@@ -72,6 +60,16 @@ hideDescription: true
   </div>
 </div>
 
+## 3. 마이크와 게임 소리 함께 녹음하기
+
+화면만 남기는 게 아니라 목소리도 함께 녹화하고 싶다면 캡처 위젯에서 오디오를 설정합니다.
+
+- 게임 바 위젯 중 **오디오** 위젯을 열어 시스템 소리와 마이크 볼륨을 각각 조절합니다.
+- 마이크가 켜져 있지 않으면 내 목소리가 녹음되지 않으므로, 시스템 설정에서 **기본 녹음 장치**가 제대로 선택됐는지 확인합니다.
+- 녹화 도중에도 오디오 위젯으로 마이크 음소거를 켜고 끌 수 있습니다.
+
+녹화 후 목소리가 안 들린다면 대부분 녹음 장치 선택 문제입니다. 장치를 확인하고 다시 녹화하시기 바랍니다.
+
 ## 4. 단축키로 빠르게 녹화하기
 
 매번 게임 바를 열지 않아도 단축키만으로 녹화를 시작·종료할 수 있습니다.
@@ -81,6 +79,17 @@ hideDescription: true
 - **Windows + Alt + Print Screen**: 현재 화면 캡처
 
 게임 중 갑자기 멋진 순간이 나왔을 때, 녹화를 켜두지 않아도 **Windows + Alt + G**로 마지막 순간을 잡을 수 있습니다. 배경 녹화는 설정에서 켤 수 있지만 배터리와 성능을 조금 사용하므로 노트북이라면 신경 써야 합니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 녹화 파일 찾기와 활용
 
@@ -102,7 +111,7 @@ hideDescription: true
 
 OBS는 장면(씬) 전환, 마이크와 데스크톱 오디오 분리 녹음, 해상도 설정이 자유로워, 게임 바로 부족한 부분을 모두 채워줍니다. 다만 설정 항목이 많아 처음엔 조금 어렵게 느껴지죠. 기본값으로 시작해 차근차근 익히시면 됩니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>

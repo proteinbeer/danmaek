@@ -41,29 +41,39 @@ hideDescription: true
 
 추천 구성은 불·바람·얼음·독을 기반으로 한 지속 피해형 덱입니다. 복잡한 발동 조건을 맞추기보다 기본 공격과 상태 이상 효과로 웨이브를 넘기고 싶다면 자연이 무난한 선택입니다. 대신 고점 자체는 다른 계열보다 낮다는 점을 감안해야 합니다.
 
-## 3. 마법 루트: 합성 중심
-
-마법 루트는 전기, 마탄, 연금, 공명, 소환, 콤보, 적응 주사위로 구성됩니다. 합성과 필드 순환을 적극적으로 쓰는 플레이어라면 가장 먼저 주목할 계열입니다. 트리에서는 소환 → 콤보 → 적응 순으로 여는 것이 일반적입니다.
-
-기본 덱 구조는 콤보·소환·적응에 합성 보조와 생존 주사위를 얹는 형태입니다. 핵심은 콤보를 무작정 높은 눈금으로 만드는 것이 아니라, 소환과 적응을 반복 합성하면서 콤보 횟수를 누적하는 방식으로 운영합니다. 합성 난도가 있는 만큼 익숙해지면 후반 성장 한계가 큽니다.
-
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
 
+## 3. 마법 루트: 합성 중심
+
+마법 루트는 전기, 마탄, 연금, 공명, 소환, 콤보, 적응 주사위로 구성됩니다. 합성과 필드 순환을 적극적으로 쓰는 플레이어라면 가장 먼저 주목할 계열입니다. 트리에서는 소환 → 콤보 → 적응 순으로 여는 것이 일반적입니다.
+
+기본 덱 구조는 콤보·소환·적응에 합성 보조와 생존 주사위를 얹는 형태입니다. 핵심은 콤보를 무작정 높은 눈금으로 만드는 것이 아니라, 소환과 적응을 반복 합성하면서 콤보 횟수를 누적하는 방식으로 운영합니다. 합성 난도가 있는 만큼 익숙해지면 후반 성장 한계가 큽니다.
+
 ## 4. 질서 루트: 음양·성장 활용
 
 질서 루트는 음양, 봉인, 성장, 축복, 집행, 심판, 버블, 정렬 주사위로 구성됩니다. 초반 7일 여정 700포인트 보상으로 음양을 해금할 수 있다는 점이 이 루트의 매력 포인트입니다. 음양은 가로·세로 배치 조건을 맞추면 효과가 발동하고, 두 방향을 모두 충족하면 극치의 조화를 일으키는 배치형 딜러입니다.
 
 추천 구성은 음양·성장·필드 정리 보조·버블 계열입니다. 음양의 가로·세로 조건을 완성하는 것이 최우선이고, 필요 없는 주사위를 과도하게 높은 눈금으로 만들어 배치가 막히지 않도록 관리하는 것이 중요합니다. 버블은 합성 시 눈금이 낮은 주사위에 보호 효과를 부여해 보스 스킬을 한 차례 막아주는 등 후반 안정성이 좋습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 공학·카오스 루트 특성
 
@@ -77,12 +87,11 @@ hideDescription: true
 
 조작과 합성이 복잡한 것이 싫으면 자연을 선택해도 좋습니다. 트리 선택은 궁극적으로 주력 덱 하나를 완성하고 7성 각성을 노리는 방향으로 이어져야 합니다. 여러 루트를 벌려 놓기보다 핵심 주사위까지 최단 거리로 진행하고, 완성 뒤 다음 루트를 준비하는 흐름이 효율적입니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->

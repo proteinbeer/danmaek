@@ -44,6 +44,17 @@ hideDescription: true
 
 문제는 비용이 아니라 **시간**입니다. 워드프레스나 빌더를 처음 배우는 데만 2~4주가 걸리고, 디자인과 콘텐츠까지 완성하려면 2~3개월이 걸리는 일이 흔합니다. 사업 초기에 홈페이지가 늦게 열릴수록 기회 손실이 생깁니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 숨은 비용이 갈리는 지점
 
 직접 제작이든 대행이든 예산을 넘기는 항목은 비슷합니다.
@@ -54,18 +65,6 @@ hideDescription: true
 
 셋째, **콘텐츠 수정 비용**입니다. 대행사에 매번 문구 하나 바꿔달라고 요청하면 건당 비용이 붙습니다. 스스로 수정할 수 있는 CMS 구조라면 이 비용이 줄어듭니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 4. 직접 만들 때와 외주할 때, 무엇을 기준으로 나눌까
 
 직접 제작은 단순한 소개 페이지나 예약, 결제 같은 복잡한 기능이 없을 때 유리합니다. 초기 비용은 대행 대비 크게 아낄 수 있지만, 대신 운영과 보안 관리까지 본인이 감당해야 합니다.
@@ -74,13 +73,7 @@ hideDescription: true
 
 실용적인 절충안은 **검증된 프리미엄 테마(5~10만 원)를 기반으로 소규모 개인 프리랜서에게 마무리를 맡기는 방법**입니다. 풀커스텀 디자인 대비 비용은 절반에도 안 들면서 완성도는 크게 올라갑니다.
 
-## 5. 정리
-
-홈페이지 제작 비용은 제작 방식 × 디자인 수준 × 기능 범위로 결정됩니다. 대행 기준 기본형은 150~300만 원이고, 직접 만들면 초기 현금은 아끼되 시간과 유지보수 부담이 커집니다.
-
-직접 만들 경우에도 호스팅, 테마, SEO 설정 비용은 피할 수 없습니다. **첫해 총비용 기준으로 비교하고, 대행 견적을 받을 때는 SEO와 유지보수 포함 여부를 반드시 확인**하시기 바랍니다.
-
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>
@@ -90,3 +83,9 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
+
+## 5. 정리
+
+홈페이지 제작 비용은 제작 방식 × 디자인 수준 × 기능 범위로 결정됩니다. 대행 기준 기본형은 150~300만 원이고, 직접 만들면 초기 현금은 아끼되 시간과 유지보수 부담이 커집니다.
+
+직접 만들 경우에도 호스팅, 테마, SEO 설정 비용은 피할 수 없습니다. **첫해 총비용 기준으로 비교하고, 대행 견적을 받을 때는 SEO와 유지보수 포함 여부를 반드시 확인**하시기 바랍니다.

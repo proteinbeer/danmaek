@@ -67,9 +67,7 @@ GTA 6는 오는 11월 19일 PS5와 Xbox Series X|S로 출시됩니다. 예약 �
 
 올해 연말 시장에서 가장 큰 화두가 될 이 게임이, 유출과 논란 속에서도 출시까지 정상 궤도를 지키고 있는지가 게임 업계 전체의 관심사입니다.
 
-<img class="post-landscape-image" src="/assets/posts/news-images/gta6-netflix-leak-2026-02.jpg" alt="GTA 6 유출 영상 관련 이미지" width="1280" height="720" loading="lazy" decoding="async" />
-
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>

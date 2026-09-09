@@ -47,9 +47,8 @@ Windows의 작업 관리자를 켜고(GPU 섹션) 그래픽카드 온도를 실�
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
@@ -72,15 +71,7 @@ Windows의 작업 관리자를 켜고(GPU 섹션) 그래픽카드 온도를 실�
 
 써멀 재도포만으로 온도가 수십도 낮아진 사례도 흔합니다. 다만 자칫 잘못 분해하면 팬 케이블이 끊기거나 방열판 접촉이 나빠질 수 있으니, 자신이 없으면 전문 수리를 맡기는 것도 방법입니다.
 
-## 5. 그래도 온도가 높다면
-
-먼지와 써멀이 정상이라면 그래픽카드 성능 설정이나 케이스 환경을 조정해볼 수 있습니다. 프레임 제한으로 발열을 줄이는 방법도 있습니다.
-
-그래픽카드 소프트웨어에서 전력 제한(Power Limit)을 낮추거나 프레임 상한을 모니터 주사율에 맞추면 발열과 소음이 크게 줄어듭니다. 예를 들어 200프레임을 뽑을 수 있는 환경이라도 144로 제한하면 GPU가 하는 일이 줄어 열도 함께 감소합니다.
-
-또한 케이스 전면에 흡기 팬이 없거나 후면 배기 팬이 고장이라면 팬을 추가하거나 교체하는 것도 고려하세요. 온도 문제가 계속되면 그래픽카드가 아닌 다른 부품(파워, 메모리 접촉 불량)이 원인일 수 있으니, 이때는 전문 점검을 받아보는 것이 좋습니다.
-
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>
@@ -90,3 +81,11 @@ Windows의 작업 관리자를 켜고(GPU 섹션) 그래픽카드 온도를 실�
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
+
+## 5. 그래도 온도가 높다면
+
+먼지와 써멀이 정상이라면 그래픽카드 성능 설정이나 케이스 환경을 조정해볼 수 있습니다. 프레임 제한으로 발열을 줄이는 방법도 있습니다.
+
+그래픽카드 소프트웨어에서 전력 제한(Power Limit)을 낮추거나 프레임 상한을 모니터 주사율에 맞추면 발열과 소음이 크게 줄어듭니다. 예를 들어 200프레임을 뽑을 수 있는 환경이라도 144로 제한하면 GPU가 하는 일이 줄어 열도 함께 감소합니다.
+
+또한 케이스 전면에 흡기 팬이 없거나 후면 배기 팬이 고장이라면 팬을 추가하거나 교체하는 것도 고려하세요. 온도 문제가 계속되면 그래픽카드가 아닌 다른 부품(파워, 메모리 접촉 불량)이 원인일 수 있으니, 이때는 전문 점검을 받아보는 것이 좋습니다.

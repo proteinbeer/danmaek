@@ -54,8 +54,6 @@ hideDescription: true
 
 그래서 베테랑의 악평은 게임을 전혀 재미없게 했다는 평가보다 장기 유저의 불만에 가까울 수 있습니다.
 
-<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/steam-reviews-long-playtime-negative/02-steam-deck-closeup.jpg" alt="스팀덱 OLED 클로즈업" loading="lazy" />
-
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
@@ -87,7 +85,16 @@ hideDescription: true
 
  개발사 입장에서는 이런 리뷰를 단순한 악성 평가로 버리기보다 어떤 변화가 장기 이용자를 떠나게 만드는지 보여주는 자료로 볼 필요가 있습니다.
 
-<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/steam-reviews-long-playtime-negative/03-dark-gaming-glow.jpg" alt="어두운 조명의 게이밍 화면" loading="lazy" />
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 200시간
 
@@ -98,16 +105,3 @@ hideDescription: true
 어떤 게임을 오래 할 수 있는 사람의 성향, 멀티플레이 여부, 유료와 무료 게임의 차이, 업데이트 방식 같은 여러 요인이 함께 영향을 줄 수 있습니다. 200시간이라는 숫자를 게임의 유통기한처럼 받아들일 수는 없습니다.
 
 오히려 이 연구가 보여주는 건 플레이 시간과 만족도의 관계가 단순히 오래 할수록 좋다는 직선이 아니라는 점입니다. 정말 좋아했던 게임이기 때문에 1000시간 뒤에 더 날카로운 무서운 악평을 남길 수도 있다는 것이죠.
-
-<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/steam-reviews-long-playtime-negative/04-controller-closeup.jpg" alt="게이밍 컨트롤러 클로즈업" loading="lazy" />
-
-<div style="margin: 40px 0 28px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

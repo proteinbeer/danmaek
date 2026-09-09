@@ -24,13 +24,11 @@ hideDescription: true
   이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
 </p>
 
-
 부팅에 몇 분씩 걸리는 PC라면 가장 큰 개선을 보여주는 업그레이드가 SSD 교체입니다. 기계식 하드디스크(HDD)를 SSD로 바꾸면 부팅과 프로그램 실행 속도가 확연히 달라지죠.
 
 설치 자체는 어렵지 않지만, 어떤 SSD를 고를지와 기존 데이터를 어떻게 옮길지가 관건입니다. 종류 선택부터 복제, 장착 순서까지 아래에 정리했습니다.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/hero-bloom.jpg" alt="SSD를 장착해 업그레이드하는 데스크톱 PC" width="1200" height="675" loading="lazy" decoding="async" />
-
 
 ## 1. 어떤 SSD를 골라야 하나
 
@@ -50,17 +48,6 @@ SSD는 크게 두 가지 형태로 나뉩니다. PC에 맞는 타입을 골라�
 
 복제는 무료 도구로도 가능합니다. 복제 소프트웨어는 대부분 새 SSD의 용량이 기존 파티션보다 커야 원활합니다. 새로 설치를 선택했다면 윈도우 11 설치 USB를 미리 준비해두세요.
 
-## 3. 데스크톱 SSD 교체 순서
-
-데스크톱은 본체를 열고 나사 몇 개로 교체할 수 있습니다.
-
-1. 전원을 완전히 끄고 **전원 케이블을 뽑은 뒤** 본체 패널을 엽니다.
-2. M.2라면 슬롯에 **금 접점 방향**을 맞춰 살짝 밀어 넣고 나사로 고정합니다.
-3. SATA형이라면 SATA 데이터 케이블과 전원 케이블을 연결하고 하드디스크 베이에 고정합니다.
-4. 부팅 후 바이오스(펌웨어)의 부팅 순서에서 새 SSD가 **첫 번째**인지 확인합니다.
-
-정전기를 없애기 위해 본체 금속 부분을 짚은 뒤에 부품을 다루면 좋습니다. 케이블을 뽑을 때는 홈 부분을 살짝 눌러야 빠집니다.
-
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
@@ -72,6 +59,17 @@ SSD는 크게 두 가지 형태로 나뉩니다. PC에 맞는 타입을 골라�
   </div>
 </div>
 
+## 3. 데스크톱 SSD 교체 순서
+
+데스크톱은 본체를 열고 나사 몇 개로 교체할 수 있습니다.
+
+1. 전원을 완전히 끄고 **전원 케이블을 뽑은 뒤** 본체 패널을 엽니다.
+2. M.2라면 슬롯에 **금 접점 방향**을 맞춰 살짝 밀어 넣고 나사로 고정합니다.
+3. SATA형이라면 SATA 데이터 케이블과 전원 케이블을 연결하고 하드디스크 베이에 고정합니다.
+4. 부팅 후 바이오스(펌웨어)의 부팅 순서에서 새 SSD가 **첫 번째**인지 확인합니다.
+
+정전기를 없애기 위해 본체 금속 부분을 짚은 뒤에 부품을 다루면 좋습니다. 케이블을 뽑을 때는 홈 부분을 살짝 눌러야 빠집니다.
+
 ## 4. 노트북 SSD 교체 시 주의할 점
 
 노트북은 구조가 조금 다르므로 설명서를 먼저 확인하는 것이 안전합니다.
@@ -81,6 +79,17 @@ SSD는 크게 두 가지 형태로 나뉩니다. PC에 맞는 타입을 골라�
 - 밑판을 벌릴 때는 나사 위치와 개봉 순서를 사진으로 메모해두면 조립할 때 헷갈리지 않습니다.
 
 노트북 지원 SSD 규격(SATA 또는 NVMe)은 제조사 공식 사양표에서 확인한 뒤 구매하시기 바랍니다. 슬롯 규격이 안 맞으면 장착 자체가 불가능하죠.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 기존 HDD를 보조 저장공간으로 살리기
 
@@ -102,7 +111,7 @@ SSD는 크게 두 가지 형태로 나뉩니다. PC에 맞는 타입을 골라�
 
 부팅과 프로그램 실행이 눈에 띄게 빨라지는 것이 정상입니다. 그래도 느리다면 다른 부품(메모리, CPU)이 병목인지 순서대로 점검해보시기 바랍니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>

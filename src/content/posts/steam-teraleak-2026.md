@@ -59,15 +59,13 @@ hideDescription: true
 
 스팀은 2013년까지 2천 개가 넘는 게임을 호스팅했는데, 그 이전에 스팀에 있었던 게임이라면 유출물에 포함될 가능성이 높습니다. 팬들은 방대한 자료에서 게임별 발견 내용을 목록으로 정리해 공유하고 있습니다.
 
-<img class="post-landscape-image" src="/assets/posts/news-images/steam-teraleak-2026-02.jpg" alt="스팀 테라리크 유출 관련 이미지" width="1280" height="720" loading="lazy" decoding="async" />
-
 ## 4. 저작권과 보안, 두 가지 우려
 
 이번 유출은 게임사들의 저작권 문제와 오래된 인프라의 보안 부실을 동시에 드러냈습니다. 개인 사용자 데이터나 비밀번호, 결제 정보가 유출됐다는 징후는 없지만, 10년 이상 방치된 시스템에 외부 접근이 가능했다는 사실 자체가 문제입니다. 비슷한 엔드포인트가 또 있을 가능성도 배제할 수 없습니다.
 
 자료 취급에 대한 경고도 나왔습니다. 밸브 콘텐츠 크리에이터 타일러 맥비커는 서드파티 콘텐츠가 대거 포함된 만큼 파일을 조작하는 것은 법적으로 위험할 수 있다며 주의를 당부했습니다. 밸브는 아직 공식 입장을 내놓지 않았고, 커뮤니티의 분석은 앞으로도 이어질 전망입니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>

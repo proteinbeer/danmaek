@@ -73,7 +73,16 @@ hideDescription: true
 
 리버스에서 초코보 종류에 따라 이동 방식이 달랐다면 마지막 편에서는 캐릭터와 도구 자체가 이동 퍼즐에 더 깊게 들어가는 모습입니다.
 
-<img class="post-landscape-image" src="/assets/posts/news-images/ff7-revelation-02.jpg" alt="파이널 판타지 7 리벨레이션 캐릭터 교체 게임플레이 화면" width="1280" height="720" loading="lazy" decoding="async" />
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 누가 임무에 가느냐도 선택
 
@@ -91,15 +100,7 @@ hideDescription: true
 
 마지막 편에서 이런 미니게임을 줄이지 않고 오히려 별도 이야기를 붙인 것도 흥미롭습니다. 스퀘어 에닉스가 리벨레이션을 엔딩만 보러 달리는 직선형 게임으로 만들 생각은 없다는 뜻에 가깝습니다.
 
-## 7. 원작과 같은 곳에 도착할까
-
-리벨레이션은 결국 30년 가까이 알고 있던 이야기의 마지막 지점으로 향합니다. 하지만 그 길에 하이윈드 자유 탐험, 피츠, 캐릭터 선택, 새로운 퀸즈 블러드 이야기를 더했습니다.
-
-그래서 마지막 작품의 가장 큰 긴장은 결말 하나에만 있지 않습니다. 원작과 같은 장소에 도착하더라도 어떤 사람과 어떤 과정을 거쳐 도착하느냐가 달라질 수 있죠.
-
-리메이크 첫 작품이 운명을 바꿀 수 있느냐는 질문을 던졌다면, 마지막 편은 그 질문을 플레이어의 선택까지 끌고 오는 모습입니다. 2027년 4월에 확인할 건 누가 살아남느냐뿐 아니라 내가 어떤 길로 그 장면에 도착했는지도 될 것 같습니다.
-
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>
@@ -109,3 +110,11 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
+
+## 7. 원작과 같은 곳에 도착할까
+
+리벨레이션은 결국 30년 가까이 알고 있던 이야기의 마지막 지점으로 향합니다. 하지만 그 길에 하이윈드 자유 탐험, 피츠, 캐릭터 선택, 새로운 퀸즈 블러드 이야기를 더했습니다.
+
+그래서 마지막 작품의 가장 큰 긴장은 결말 하나에만 있지 않습니다. 원작과 같은 장소에 도착하더라도 어떤 사람과 어떤 과정을 거쳐 도착하느냐가 달라질 수 있죠.
+
+리메이크 첫 작품이 운명을 바꿀 수 있느냐는 질문을 던졌다면, 마지막 편은 그 질문을 플레이어의 선택까지 끌고 오는 모습입니다. 2027년 4월에 확인할 건 누가 살아남느냐뿐 아니라 내가 어떤 길로 그 장면에 도착했는지도 될 것 같습니다.

@@ -65,9 +65,7 @@ hideDescription: true
 
 여기에 블리즈컨 2026 메인 스테이지 일정 사이에 '60분 공백'이 확인된다는 사실이 겹치며, 이 시간에 스타크래프트 발표가 예정돼 있다는 설이 더 힘을 얻고 있습니다. 공식 발표 날(9월 12일)이 가까워질수록 이 ARG는 점점 더 큰 화제로 번질 전망입니다.
 
-<img class="post-landscape-image" src="/assets/posts/news-images/starcraft-arg-nexon-2026-02.jpg" alt="스타크래프트 저그 관련 아트" width="1280" height="720" loading="lazy" decoding="async" />
-
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>

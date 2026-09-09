@@ -40,29 +40,39 @@ SEO 플러그인이 필수는 아닙니다. 최근 워드프레스 코어와 테
 
 게다가 플러그인은 사이트를 무겁게 만듭니다. SEO 플러그인을 여러 개 깔면 서로 충돌하고 속도가 느려질 수 있습니다. 테마 내장 기능으로 충분하다고 판단되면 별도 플러그인 없이 자체 사이트맵과 메타 관리로 충분합니다.
 
-## 3. 무료 플러그인으로 충분할까
-
-Yoast SEO와 Rank Math는 유료 버전이 있지만, **SEO의 기본 기능은 무료 버전만으로 해결됩니다.** 타이틀/설명 설정, 사이트맵, 캐노니컬, 기본 스키마까지 무료 범위에 포함되어 있습니다.
-
-유료 버전은 여러 키워드 추적, 내부 링크 제안, 보다 정교한 스키마 카탈로그 같은 부가 기능에 붙습니다. 소규모 블로그라면 처음부터 유료를 살 필요가 없습니다.
-
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
 
+## 3. 무료 플러그인으로 충분할까
+
+Yoast SEO와 Rank Math는 유료 버전이 있지만, **SEO의 기본 기능은 무료 버전만으로 해결됩니다.** 타이틀/설명 설정, 사이트맵, 캐노니컬, 기본 스키마까지 무료 범위에 포함되어 있습니다.
+
+유료 버전은 여러 키워드 추적, 내부 링크 제안, 보다 정교한 스키마 카탈로그 같은 부가 기능에 붙습니다. 소규모 블로그라면 처음부터 유료를 살 필요가 없습니다.
+
 ## 4. 없이 시작해도 되는 조건
 
 몇 가지 조건이 맞는다면 SEO 플러그인 없이도 운영 가능합니다. 사이트가 소규모이고, 테마에서 타이틀과 설명 설정이 지원되며, 사이트맵을 수동으로 만들거나 테마가 제공한다면 됩니다.
 
 다만 SEO 플러그인 한 개 정도는 설치하는 편을 권장합니다. 랭킹 마이너스가 되는 중복 콘텐츠 문제를 막아주고, 검색엔진에게 글 구조를 안정적으로 전달하는 데 도움이 되기 때문입니다. 핵심은 **한 개만, 잘 설정된 플러그인**입니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 선택 기준
 
@@ -76,7 +86,7 @@ SEO 플러그인을 고를 때는 무료 버전 기능부터 확인하시기 바
 
 중요한 것은 **한 개의 플러그인을 제대로 설정하고 캐시 플러그인으로 속도를 보정하는 것**입니다. 플러그인 개수보다 사이트 속도와 콘텐츠 품질이 검색 순위에 훨씬 큰 영향을 줍니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>

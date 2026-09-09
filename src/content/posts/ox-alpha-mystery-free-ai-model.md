@@ -76,8 +76,6 @@ hideDescription: true
 
 옥스 알파가 코딩과 지속적인 에이전트 작업을 강조하는 이유도 단순한 질문 답변보다 이런 긴 작업 흐름을 노리고 있기 때문입니다.
 
-<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/ox-alpha-mystery-free-ai-model/02-mystery-identity-oxalpha.jpg" alt="옥스 알파 공식 페이지 히어로 이미지" loading="lazy" />
-
 ## 4. 무료 모델의 가장 큰 비용은 데이터일 수 있다
 
 가격이 0원이라고 비용이 없는 것은 아닙니다.
@@ -90,6 +88,17 @@ hideDescription: true
 
 특히 회사 업무에서는 성능보다 계약 조건과 데이터 보관 정책이 더 중요하죠.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 인공지능 브랜드가 약해지는 미래
 
 옥스 알파가 보여주는 더 큰 변화는 이용자가 회사 이름보다 작업 결과를 먼저 보기 시작했다는 점입니다. 오픈라우터 같은 중간 플랫폼에서는 같은 화면에서 여러 모델을 바로 바꿔 쓸 수 있죠.
@@ -101,14 +110,3 @@ hideDescription: true
 가격과 성능이 바뀌면 다음 날 바로 다른 모델로 이동할 수도 있습니다.
 
 익명의 옥스 알파가 상위권에 올라간 현상은 이런 미래를 미리 보여주는 장면일 수 있습니다. 누가 만들었는지보다 지금 내 일을 얼마나 잘해 주는지가 더 중요해지는 시장이 오는 거죠.
-
-<div style="margin: 40px 0 28px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

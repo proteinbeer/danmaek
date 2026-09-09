@@ -73,6 +73,17 @@ hideDescription: true
 
 다만 시간대 전환에 주의가 필요합니다. 밤에 쉐도우스텝으로 폐탑에 들어가 건 안에 머무는 사이 해가 뜨면, 뱀파이어 능력을 쓸 수 없어 나가지 못하는 상황이 생깁니다. 이동과 공략을 시작하기 전에 현재 시간과 예상 경과를 확인하는 습관이 필요합니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 회복과 흡혈 관리
 
 흡혈귀의 고민은 회복입니다. 물약만으로는 버티기 어려우므로, 인간과 동물의 시체를 약탈해 피 소모품을 얻거나 전투 중 흡혈 스킬로 회복하는 방법을 동시에 준비하는 편이 좋습니다.
@@ -89,7 +100,7 @@ hideDescription: true
 
 마지막으로 난이도 설정도 전투의 재미에 영향을 줍니다. 방어에 익숙해졌다면 도전 난이도 이상에서 플레이하는 편이 파티와 탐험의 무게감을 살려줍니다. 쉬운 난이도로는 브렌시스를 이르게 쓰러뜨려 30일이라는 시한 자체가 사라질 수 있으므로, 재미를 보전하고 싶다면 난이도를 올리는 것을 추천합니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>

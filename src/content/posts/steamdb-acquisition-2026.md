@@ -59,15 +59,13 @@ hideDescription: true
 
 xPaw는 앞으로 몇 달 동안 인수인계에 참여합니다. 초즌은 스팀DB에 전담 인력과 자금을 투입해 인프라와 보안, 확장성을 개선할 계획입니다. 그동안 이용자가 기부한 스팀 키에 의존하던 게임 파일 추적 방식도 보완해 필요한 게임 키를 직접 구매하는 방식으로 개선된다고 전했습니다.
 
-<img class="post-landscape-image" src="/assets/posts/news-images/steamdb-acquisition-2026-02.jpg" alt="넥서스모드 모드 페이지 관련 이미지" width="1280" height="720" loading="lazy" decoding="async" />
-
 ## 4. 커뮤니티 서비스의 기업화가 남긴 과제
 
 이번 인수는 수백만 명이 의존하는 커뮤니티 기반 서비스가 한 사람의 부담에서 벗어난 사례로 읽힙니다. 취미 프로젝트가 일정 규모를 넘어서면 혼자 운영하기 어려워진다는 지점을 보여주면서, 기업에 안겼을 때 독립성이 얼마나 유지되는지가 관건이 됩니다.
 
 스팀DB 특유의 중립성과 완전성이 초즌 체제에서도 이어질지도 남은 과제입니다. 인수 발표에서는 기존 기능 보존을 우선하겠다고 밝혔지만, 언제든 정책이 바뀔 수 있습니다. 게임 정보 인프라가 한 기업의 소유로 넘어간 상황을 지켜볼 필요가 있습니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>

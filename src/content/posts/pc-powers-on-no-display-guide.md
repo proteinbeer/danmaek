@@ -29,7 +29,6 @@ hideDescription: true
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/hero-bloom.jpg" alt="RGB 데스크톱 컴퓨터 셋업" width="1280" height="720" loading="lazy" decoding="async" />
 
-
 ## 1. 모니터 전원과 입력 확인
 
 모니터 전원이 켜져 있는지, 입력 신호가 맞는지 먼저 확인하시면 됩니다. 다른 기기를 연결해 모니터 자체가 정상인지 비교하는 것도 좋죠.
@@ -49,9 +48,8 @@ hideDescription: true
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
@@ -74,12 +72,7 @@ hideDescription: true
 
 또한 그래픽카드를 분리했다가 다시 장착해보고, 가능하다면 다른 메모리 슬롯에 장착해 비교해보시면 됩니다. 메모리나 그래픽카드를 다시 장착한 뒤에도 화면이 안 나온다면, 다른 부품(파워서플라이, 메인보드) 문제를 전문가에게 점검받아야 할 수 있습니다.
 
-## 5. 부팅음과 표시등 확인
-
-메인보드에 따라 부팅 시 삐 소리(비프음)나 표시등으로 문제를 알려주기도 합니다. 전원을 켤 때 이상한 비프음이 반복된다면 해당 소리가 어떤 부품 문제를 뜻하는지 메인보드 설명서나 제조사 안내를 확인해보시면 됩니다. 케이스 전면의 전원 LED가 계속 켜져 있는지, 깜빡이는지도 참고가 됩니다.
-
-
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>
@@ -89,3 +82,7 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
+
+## 5. 부팅음과 표시등 확인
+
+메인보드에 따라 부팅 시 삐 소리(비프음)나 표시등으로 문제를 알려주기도 합니다. 전원을 켤 때 이상한 비프음이 반복된다면 해당 소리가 어떤 부품 문제를 뜻하는지 메인보드 설명서나 제조사 안내를 확인해보시면 됩니다. 케이스 전면의 전원 LED가 계속 켜져 있는지, 깜빡이는지도 참고가 됩니다.

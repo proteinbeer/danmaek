@@ -61,15 +61,13 @@ PIF가 게임과 스포츠에 공을 들인 것은 이번이 처음이 아닙니
 
 전문가들은 지난 몇 년간 게임 업계를 덮친 구조조정 흐름 속에서, 자본력이 풍부한 새 주인의 등장이 EA 내부 서열과 투자 판단을 어떻게 바꿀지 주목하고 있습니다.
 
-<img class="post-landscape-image" src="/assets/posts/news-images/ea-saudi-acquisition-2026-02.jpg" alt="EA 본사 및 사우디 인수 관련 이미지" width="1280" height="720" loading="lazy" decoding="async" />
-
 ## 4. 게임 산업, 자본의 시대 접어드나
 
 EA 사례는 게임사 인수 금액 체계가 확 바뀌었음을 보여줍니다. 수년 전 마이크로소프트의 액티비전 블리자드 인수(690억 달러)도 역대급이었지만, 이번 거래는 사모펀드 구조로 완전 비공개 전환까지 이뤄냈다는 점에서 상장 게임사 지형에 더 직접적인 영향을 줍니다.
 
 과거 게임사 인수가 사업 확장을 위한 것이었다면, 이번 건은 자본 시장 자체가 '게임 IP'를 새로운 투자 자산으로 바라보고 있다는 신호로 해석할 수 있습니다. EA가 프라이빗 기업으로서 어떤 전략을 내놓을지, 그리고 유사한 대형 거래가 더 이어질지가 향후 관전 포인트입니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>

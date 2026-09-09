@@ -82,6 +82,17 @@ hideDescription: true
 
 철저하게 고치는 것이 목표라면 스위치 교체나 새 마우스 구매가 현실적입니다. 다행히 마우스는 비교적 저렴한 주변기기라, 오래된 제품이라면 교체가 낫습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 더블클릭 오류로 보이는 다른 원인
 
 더블클릭처럼 느껴지는 증상 중에는 마우스 자체의 문제가 아닌 경우도 있습니다.
@@ -102,7 +113,7 @@ hideDescription: true
 
 위 테스트로 하드웨어 문제가 확실해지면 교체를 결정하면 됩니다. 게이밍 마우스는 스위치 수명이 긴 제품을 선택하는 것이 재발을 줄이는 방법이죠.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>

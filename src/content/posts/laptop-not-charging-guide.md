@@ -29,7 +29,6 @@ hideDescription: true
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/hero-bloom.jpg" alt="충전 케이블이 연결된 노트북 충전 포트" width="1280" height="720" loading="lazy" decoding="async" />
 
-
 ## 1. 충전 제한 기능 확인
 
 일부 노트북은 배터리 수명을 위해 80% 정도에서 충전을 멈추는 기능이 있습니다. 제조사 전용 프로그램에서 배터리 보호 설정을 확인해보시면 되죠.
@@ -48,6 +47,17 @@ hideDescription: true
 
 가능하면 노트북에 번들로 제공된 정품 충전기를 사용하는 것이 좋습니다. 정품은 노트북이 요구하는 전압(V)과 전류(A)에 맞춰 설계되어 있으며, USB-C 충전기를 쓰는 경우에도 노트북이 지원하는 전력 규격(예: PD 65W, PD 100W)을 확인하시면 됩니다. 지원보다 낮은 출력의 충전기는 충전 속도가 느리거나 아예 충전되지 않을 수 있습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 다른 콘센트에서 확인
 
 멀티탭 대신 벽면 콘센트에 직접 연결해보고 충전 단자도 다시 꽂아보시면 됩니다.
@@ -55,18 +65,6 @@ hideDescription: true
 멀티탭에 다른 전자기기가 많이 연결되어 있으면 전압이 낮아져 노트북 충전이 제대로 되지 않을 수 있습니다. 벽면 콘센트에 직접 꽂아보고, 충전기 어댑터와 노트북의 충전 포트 쪽을 분리했다가 끝까지 다시 꽂으시면 됩니다. 접촉 불량은 생각보다 많이 발생하는 원인입니다.
 
 또한 노트북의 충전 포트에 먼지나 이물질이 쌓여 있지 않은지 확인하시면 됩니다. 이물질이 끼면 충전 접촉이 불안정해져 간헐적으로 충전이 중단될 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 4. 배터리 상태 확인
 
@@ -78,8 +76,7 @@ hideDescription: true
 
 마지막으로 특정 노트북에서는 케이스(하판) 분해나 배터리 센서 리셋이 필요한 경우도 있습니다. 위의 방법으로 해결되지 않고 충전이 전혀 감지되지 않는다면 제조사 서비스센터나 전문 수리점의 점검을 받는 것이 안전합니다.
 
-
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>

@@ -29,7 +29,6 @@ hideDescription: true
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/network-guide-common.jpg" alt="홈 게이트웨이와 와이파이 공유기" width="1200" height="675" loading="lazy" decoding="async" />
 
-
 ## 1. 다른 기기에서 확인
 
 휴대폰도 같은 와이파이에 연결해서 인터넷이 되지 않는다면 컴퓨터 문제보다 공유기나 회선 문제일 가능성이 높습니다.
@@ -52,9 +51,8 @@ hideDescription: true
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
@@ -77,12 +75,7 @@ hideDescription: true
 
 또한 **장치 관리자 → 네트워크 어댑터**에서 와이파이 어댑터에 오류 표시가 없는지 확인하고, 드라이버를 최신 버전으로 업데이트해보시면 됩니다. 네트워크 어댑터를 한 번 껐다 켜는 방법, 또는 윈도우의 네트워크 초기화 명령을 사용해 어댑터 설정을 초기화하는 방법도 있습니다.
 
-## 5. 간단한 원인 확인
-
-위에서 해결되지 않는다면 몇 가지 환경적인 원인도 확인해보시면 됩니다. 노트북의 비행기 모드가 켜져 있지는 않은지, 공유기에서 특정 기기의 인터넷 접근이 차단되고 있지는 않은지 확인해보시면 됩니다. 자녀 보호나 MAC 주소 필터링 같은 공유기 설정이 적용되어 있다면 해당 컴퓨터만 인터넷이 막힐 수 있습니다.
-
-
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>
@@ -92,3 +85,7 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
+
+## 5. 간단한 원인 확인
+
+위에서 해결되지 않는다면 몇 가지 환경적인 원인도 확인해보시면 됩니다. 노트북의 비행기 모드가 켜져 있지는 않은지, 공유기에서 특정 기기의 인터넷 접근이 차단되고 있지는 않은지 확인해보시면 됩니다. 자녀 보호나 MAC 주소 필터링 같은 공유기 설정이 적용되어 있다면 해당 컴퓨터만 인터넷이 막힐 수 있습니다.

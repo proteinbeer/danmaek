@@ -46,14 +46,6 @@ hideDescription: true
 
 방을 여러 개 두고 목적별로 나누는 방식도 유용합니다. 번식방은 편안함과 자극을 최대로, 격투방은 반대로 편안함을 낮춰 고양이끼리 싸우게 해 이긴 개체의 능력치를 강화시키는 식이죠. 초반에는 길고양이를 데려와 혈통을 섞는 것이 근친교배로 인한 기형을 막는 가장 확실한 방법입니다.
 
-## 3. 팅크가 열어주는 정보와 가계도 관리
-
-게임 초반에는 고양이의 정보가 거의 보이지 않아 번식 판단이 어렵습니다. 이때 집 안의 NPC 팅크에게 고양이를 기부하면 정보가 조금씩 열립니다. 새끼 고양이를 10마리씩 기부할 때마다 성욕, 공격성, 근친 상태, 가계도, 능력치 구분 같은 추가 정보가 해금되죠.
-
-정보가 열리면 근친교배를 피하기 쉬워집니다. 근친교배로 태어난 고양이는 선천적 기형으로 능력치와 외모가 나빠질 확률이 높기 때문입니다. 가계도를 살펴 혈연관계를 확인하고, 분파별로 아이콘을 지정해 서로 섞이지 않게 관리하거나 길고양이를 끌어들이는 방식이 기본 전략입니다.
-
-길고양이는 플레이어의 무리와 혈연이 없어 근친 위험이 낮다는 장점이 있습니다. 매력 수치를 높이면 능력치와 스킬이 더 뛰어난 길고양이가 찾아오니, 좋은 외부 혈통을 원한다면 매력 관리도 함께 하는 편이 좋습니다.
-
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
@@ -65,6 +57,14 @@ hideDescription: true
   </div>
 </div>
 
+## 3. 팅크가 열어주는 정보와 가계도 관리
+
+게임 초반에는 고양이의 정보가 거의 보이지 않아 번식 판단이 어렵습니다. 이때 집 안의 NPC 팅크에게 고양이를 기부하면 정보가 조금씩 열립니다. 새끼 고양이를 10마리씩 기부할 때마다 성욕, 공격성, 근친 상태, 가계도, 능력치 구분 같은 추가 정보가 해금되죠.
+
+정보가 열리면 근친교배를 피하기 쉬워집니다. 근친교배로 태어난 고양이는 선천적 기형으로 능력치와 외모가 나빠질 확률이 높기 때문입니다. 가계도를 살펴 혈연관계를 확인하고, 분파별로 아이콘을 지정해 서로 섞이지 않게 관리하거나 길고양이를 끌어들이는 방식이 기본 전략입니다.
+
+길고양이는 플레이어의 무리와 혈연이 없어 근친 위험이 낮다는 장점이 있습니다. 매력 수치를 높이면 능력치와 스킬이 더 뛰어난 길고양이가 찾아오니, 좋은 외부 혈통을 원한다면 매력 관리도 함께 하는 편이 좋습니다.
+
 ## 4. 클래스와 목걸이 선택
 
 번식으로 좋은 개체를 만들었다면 이제 장비와 역할을 정합니다. 각 고양이는 목걸이로 직업을 부여받는데, 전사, 탱커, 마법사, 성직자 등 14개 가까운 클래스가 존재하며 클래스마다 약 75개의 고유 능력이 준비되어 있습니다.
@@ -72,6 +72,17 @@ hideDescription: true
 클래스는 캐릭터가 주로 표시하는 능력치를 정해줍니다. 예를 들어 레벨당 활력이 늘어나는 직업은 낮은 체력을 보완하는 탱커로, 행운 기반 플레이에는 도살자 같은 직업이 어울립니다. 초반 안정적인 빌드를 원한다면 한 가지 능력치를 확실히 보완해주는 전사, 탱커, 성직자, 초능력자 계열이 추천되죠.
 
 능력치 선택 시에는 활력, 지능, 속도, 행운 위주로 잡고 나머지는 부가 요소로 두는 편이 좋습니다. 목걸이를 무시하고 스킬만으로 빌드를 짜려는 시도는 패시브 확보가 어려워 실패하기 쉽습니다. 클래스는 스포일러가 없는 기존 직업만으로도 어렵지 않게 강한 조합을 만들 수 있습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 전투 속도와 전술 시점 활용
 
@@ -89,7 +100,7 @@ hideDescription: true
 
 뮤제닉스는 겉모습과 달리 전투의 숙련도와 번식 설계의 깊이를 동시에 요구하는 게임입니다. 콘솔과 한국어로 편하게 즐길 수 있게 된 지금, 위 팁들을 먼저 살펴두면 200시간이 넘는 여정을 훨씬 수월하게 시작할 수 있을 것입니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>
@@ -99,5 +110,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-

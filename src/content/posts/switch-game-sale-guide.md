@@ -82,6 +82,17 @@ e숍 앱에서 위시리스트에 넣어두면 세일에 들어갔을 때 알림
 - 게임을 아직 시작하지 않았다면 에디션 세일을 기다렸다가 사는 방법이 가성비가 가장 좋습니다.
 - 사전 구매(예약)는 보너스가 있지만, 가격 자체는 출시 후 세일보다 비쌀 수 있으니 신작 출시 직후만 피하면 됩니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 구매 시점의 핵심 원칙
 
 정가 구매를 피하는 데는 결국 몇 가지 원칙이 정해져 있습니다.
@@ -103,7 +114,7 @@ e숍 앱에서 위시리스트에 넣어두면 세일에 들어갔을 때 알림
 
 정보를 모으는 습관이 붙으면 "이 게임은 얼마까지 내려간 적이 있으니 그 가격 주변에서 사자"는 기준이 생깁니다. 이 기준이 정가 지출을 막는 가장 확실한 방패가 됩니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>

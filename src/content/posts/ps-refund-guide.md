@@ -23,13 +23,11 @@ hideDescription: true
   이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
 </p>
 
-
 스토어에서 마음에 들지 않는 게임을 사버렸다면 환불을 고민하게 됩니다. 플레이스테이션 스토어의 디지털 게임은 물리 판매와 달리, 실행 여부에 따라 환불 가능 여부가 크게 갈리죠.
 
 게임을 받았는지 여부에 따라 절차가 다르고, 환불 요청은 콘솔이나 웹에서 간단히 신청할 수 있습니다. 환불 원칙과 요청 순서를 아래에 정리했습니다.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/playstation-ps.jpg" alt="스토어에서 게임 환불을 요청하는 플레이스테이션 콘솔 이미지" width="1280" height="720" loading="lazy" decoding="async" />
-
 
 ## 1. 환불 가능 여부 먼저 확인
 
@@ -51,16 +49,6 @@ PS5 본체에서 바로 요청할 수 있습니다.
 
 환불 요청이 접수되지 않는 항목도 있습니다. 게임 실행 여부에 따라 선택지가 아예 안 나올 수 있으므로, 1번에서 확인한 기준과 비교해보시기 바랍니다.
 
-## 3. 웹에서 환불 신청하기
-
-PC나 스마트폰의 브라우저로도 환불을 신청할 수 있습니다.
-
-1. [PlayStation 지원 사이트](https://www.playstation.com/ko-kr/support/)에 접속합니다.
-2. 결제 및 구독 카테고리에서 **구매 환불 요청** 항목을 선택합니다.
-3. 계정으로 로그인해 환불 대상을 고르고 사유를 선택해 제출합니다.
-
-웹 신청은 본체를 켜지 않아도 되므로, 밖에서도 처리가 가능합니다. 신청 후에는 결제 수단(신용카드, 지갑 등)에 따라 반영 시간이 다를 수 있습니다.
-
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
@@ -72,6 +60,16 @@ PC나 스마트폰의 브라우저로도 환불을 신청할 수 있습니다.
   </div>
 </div>
 
+## 3. 웹에서 환불 신청하기
+
+PC나 스마트폰의 브라우저로도 환불을 신청할 수 있습니다.
+
+1. [PlayStation 지원 사이트](https://www.playstation.com/ko-kr/support/)에 접속합니다.
+2. 결제 및 구독 카테고리에서 **구매 환불 요청** 항목을 선택합니다.
+3. 계정으로 로그인해 환불 대상을 고르고 사유를 선택해 제출합니다.
+
+웹 신청은 본체를 켜지 않아도 되므로, 밖에서도 처리가 가능합니다. 신청 후에는 결제 수단(신용카드, 지갑 등)에 따라 반영 시간이 다를 수 있습니다.
+
 ## 4. 지갑 잔액(기프트 카드) 구매는 어떻게
 
 기프트 카드로 지갑을 충전해 구매한 경우의 환불은 처리 방식이 조금 다릅니다.
@@ -81,6 +79,17 @@ PC나 스마트폰의 브라우저로도 환불을 신청할 수 있습니다.
 - 실물 기프트 카드를 개봉한 경우나 이미 코드가 사용된 경우는 복잡해질 수 있습니다.
 
 결제 전 화면에서 언제 어떤 방식으로 환불되는지 확인할 수 있습니다. 신용카드로 산 게임도 잔액으로 돌려주는 정책인지 확인해보시는 것이 좋겠죠.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 물리 디스크 게임의 반품과 교환
 
@@ -102,7 +111,7 @@ PC나 스마트폰의 브라우저로도 환불을 신청할 수 있습니다.
 
 반복적으로 사고 취소를 하면 스토어 정책상 계정에 제한이 걸릴 수 있습니다. 환불은 긴급한 상황에서 쓰는 편이 안전합니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>

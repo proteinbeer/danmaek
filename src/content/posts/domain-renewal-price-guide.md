@@ -38,6 +38,17 @@ hideDescription: true
 
 문제는 두 번째 해부터입니다. 신규 등록가가 아니라 **정상 갱신가**가 적용되면서 갑자기 비용이 오릅니다. 이 차이를 모르고 구매하면 예상과 다른 금액을 내게 됩니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 갱신가가 다르게 보이는 또 다른 이유
 
 같은 .com이라도 갱신가가 업체마다 천차만별입니다. 그 이유는 크게 세 가지입니다.
@@ -48,23 +59,22 @@ hideDescription: true
 
 셋째, **자동 갱신 설정**입니다. 자동 갱신을 켜두면 만료 직전 자동으로 연장되며, 해제하지 않는 한 예상치 못한 갱신가가 발생할 수 있습니다. 갱신 안내만 받고 원할 때 직접 연장하고 싶다면 자동 갱신은 꺼두는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 4. 도메인 이전으로 갱신가 줄이기
 
 도메인은 다른 등록 대행사로 **이전(Transfer)**할 수 있습니다. 이전 시 보통 1년이 추가 연장되므로, 갱신가가 높은 업체에서 저렴한 업체로 옮기면 갱신 비용을 아낄 수 있습니다.
 
 단, 다음 조건을 미리 확인하시면 됩니다. 등록 후 60일이 지나야 이전할 수 있고, 이전 잠금이 걸려 있으면 해제해야 합니다. 그리고 등록 대행사에서 이전 승인 코드(EPP 코드)를 발급받아야 하죠. 만료되기 며칠 전에 시작하면 안정적으로 진행됩니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 도메인을 살 때 주의할 점
 
@@ -78,7 +88,7 @@ hideDescription: true
 
 도메인은 어디서 사든 실제 도메인은 같습니다. 그만큼 판단 기준은 **첫해 할인에 속지 말고 정상 갱신가와 부가 기능 포함 여부**로 내리시면 됩니다. 갱신가가 지나치게 오르면 도메인 이전으로 아낄 수 있다는 점도 기억해두시기 바랍니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>

@@ -44,16 +44,6 @@ hideDescription: true
 
 다만 약점도 뚜렷합니다. 가장 어려운 최신 코딩 벤치마크인 터미널-벤치 4.0에서는 19.1%에 그쳐, 클로드 오퍼스 5의 51.8%에 크게 뒤졌죠. 쉽고 익숙한 코딩은 잘하지만 가장 어려운 자율 코딩에서는 아직 갭이 남아 있다는 뜻입니다.
 
-<img class="post-landscape-image" src="/assets/posts/news-images/gemini-3-8-flash-02.jpg" alt="데이터 기반 기술 작전 장면" width="1280" height="720" loading="lazy" decoding="async" />
-
-## 3. 가격, 절반 수준으로 잘린 뒤 절반으로
-
-제미나이 3.8 플래시의 프로모션 가격은 입력 토큰 100만 개당 0.75달러, 출력 100만 개당 3.75달러입니다. 3.7 플래시와 같은 가격대이면서 GPT-5.6 솔(입력 4달러, 출력 20달러)이나 클로드 오퍼스 5(입력 5달러, 출력 25달러)보다 훨씬 쌉니다.
-
-아티피셜 애널리시스는 같은 지능 수준에서 가장 저렴한 모델이라고 평가했습니다. 다만 이런 프로모션 가격은 연말인 12월 31일까지이고, 새해부터는 입력 1.5달러, 출력 7.5달러로 두 배 오릅니다.
-
-일반 이용자는 구글 제미나이 앱의 AI 프로·울트라 구독자, AI 모드, 구글 시트의 제미나이로 쓸 수 있고, 개발자는 안티그래비티, AI 스튜디오, 제미나이 API, 안드로이드 스튜디오, 스티치에서 이용 가능합니다.
-
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
@@ -65,6 +55,14 @@ hideDescription: true
   </div>
 </div>
 
+## 3. 가격, 절반 수준으로 잘린 뒤 절반으로
+
+제미나이 3.8 플래시의 프로모션 가격은 입력 토큰 100만 개당 0.75달러, 출력 100만 개당 3.75달러입니다. 3.7 플래시와 같은 가격대이면서 GPT-5.6 솔(입력 4달러, 출력 20달러)이나 클로드 오퍼스 5(입력 5달러, 출력 25달러)보다 훨씬 쌉니다.
+
+아티피셜 애널리시스는 같은 지능 수준에서 가장 저렴한 모델이라고 평가했습니다. 다만 이런 프로모션 가격은 연말인 12월 31일까지이고, 새해부터는 입력 1.5달러, 출력 7.5달러로 두 배 오릅니다.
+
+일반 이용자는 구글 제미나이 앱의 AI 프로·울트라 구독자, AI 모드, 구글 시트의 제미나이로 쓸 수 있고, 개발자는 안티그래비티, AI 스튜디오, 제미나이 API, 안드로이드 스튜디오, 스티치에서 이용 가능합니다.
+
 ## 4. 플래시 사이버, 취약점을 스스로 찾아 패치하다
 
 제미나이 3.8 플래시 사이버는 취약점 탐지와 자동 패치에 특화된 모델입니다. 구글은 이 모델이 이전 모델과 "훨씬 큰 프론티어 모델"을 모두 뛰어넘는 성능을 보인다고 밝혔습니다.
@@ -73,7 +71,16 @@ hideDescription: true
 
 가장 주목할 만한 결과는 구글 클라우드 취약점 연구팀입니다. 이 팀은 플래시 사이버로 보통 몇 달이 걸리는 핵심 기반 취약점을 2시간도 안 되어 찾아냈다고 했습니다.
 
-<img class="post-landscape-image" src="/assets/posts/news-images/gemini-3-8-flash-03.jpg" alt="사이버보안 운영 센터 장면" width="1280" height="720" loading="lazy" decoding="async" />
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 페어윈드, 강한 능력을 믿을 기관에만
 
@@ -89,7 +96,7 @@ hideDescription: true
 
 동시에 이번 출시는 AI 사이버보안의 방향도 보여줍니다. 강한 보안 모델을 열어주되, 기관의 책임과 감사를 기준으로 접근을 통제하는 방식이죠. 구글의 빠른 플래시 출시가 실력 회복이고, 페어윈드가 업계의 통제 모델이 될지는 앞으로 지켜볼 일입니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>

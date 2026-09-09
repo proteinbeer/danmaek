@@ -49,18 +49,6 @@ hideDescription: true
 | GAMEJOBCOOKIETOP | 크리스탈 500 |
 | HYRLASCENSIONITE | 대지 상급잔재 10 |
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 2. 최근 공개된 이벤트 코드
 
 2주년 업데이트와 크리에이터 이벤트에서 공개된 코드들도 있습니다. 아래 코드는 공개 시점이 짧아 보상 표기가 없는 경우가 많은데, 입력 후 우편함에서 보상을 확인하면 됩니다.
@@ -72,6 +60,17 @@ hideDescription: true
 - MEGAMECOINMEGAME
 - EARTHPOTENTIAL10
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 코드 입력 방법
 
 쿠키런: 모험의 탑은 게임 내가 아니라 공식 쿠폰 페이지에서 코드를 입력하는 방식입니다. DevPlay 계정을 쓰는 만큼 연동 상태를 먼저 확인하세요.
@@ -82,23 +81,22 @@ hideDescription: true
 4. DevPlay 계정 이메일을 입력하고 쿠폰 코드를 붙여넣습니다.
 5. [상품 받기]를 누르고, 게임을 재시작한 뒤 우편함에서 보상을 수령합니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 4. 계정당 1회 사용과 만료 코드 주의
 
 쿠키런: 모험의 탑 쿠폰은 계정당 1회만 사용할 수 있으며, 대소문자를 정확히 구분해 입력해야 합니다. 이미 사용한 코드나 만료된 코드를 입력하면 "사용할 수 없는 쿠폰" 안내가 나옵니다.
 
 위 목록에서 무기한으로 표시한 5개 코드는 검증된 코드지만, 그 외 코드는 공개 시점이 오래되면 만료될 수 있습니다. 오류가 나면 목록의 다른 코드로 진행하시기 바랍니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 신규 코드 받는 법
 

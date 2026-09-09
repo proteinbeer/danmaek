@@ -65,9 +65,7 @@ hideDescription: true
 
 전 세계적 추이를 집계하는 다른 트래커(게임스인더스트리.biz 등)도 8월 11일 확정 수치보다 수백 명을 더 확인할 가능성이 있다고 경고했습니다. GTA 6가 연말 시장의 관심을 모두 흡수하면서 접근하는 기간, 소규모 개발사는 특히 힘이 빠지는 구간이 될 전망입니다.
 
-<img class="post-landscape-image" src="/assets/posts/news-images/gaming-layoffs-2026-02.jpg" alt="게임 산업 리셋을 상징하는 리셋 버튼 이미지" width="1280" height="720" loading="lazy" decoding="async" />
-
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>

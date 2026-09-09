@@ -44,9 +44,8 @@ hideDescription: true
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
@@ -65,6 +64,17 @@ hideDescription: true
 
 시설 해금 순서가 꼬이지 않도록, 새로 열린 콘텐츠는 바로 한 번씩 진입해 조건을 확인해두는 습관이 좋습니다. 해금된 콘텐츠를 두면 가이드 퀘스트 진행도 전체의 준비가 길어집니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 가이드 퀘스트 보상 활용
 
 가이드 퀘스트는 단계별 보상을 줍니다. 보상에 포함된 재화는 대부분 다음 가이드 퀘스트를 진행할 때 필요한 것들이라, 어딘가에 아껴두기보다 바로 사용하는 것이 맞습니다.
@@ -77,12 +87,11 @@ hideDescription: true
 
 그리고 가이드 퀘스트는 주간 초기화가 아니라 누적 진행형입니다. 늦게 하더라도 따라가기만 하면 되지만, 열리는 콘텐츠가 성장 보상과 이어지므로 초반에 비우는 편이 가장 효율적입니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->

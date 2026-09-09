@@ -73,6 +73,17 @@ hideDescription: true
 
 마지막 달 지역은 방어력과 저항이 모두 높아 단순 사냥으로는 오래 끌기 어렵습니다. 심령사 해금이 여기서 이뤄지는데, 심령사 계열의 마인드 기반 공격은 높은 방어를 우회하는 데 효과적입니다. 최종 지역답게 파티 전체 능력치와 장비 세트를 앞 단계에서 갖춘 상태로 진입하는 편이 좋습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 지역별 유리한 클래스 요약
 
 앞선 내용을 한눈에 정리하면 다음과 같습니다.
@@ -93,7 +104,7 @@ hideDescription: true
 
 특히 하드에서는 적이 같은 조건에서 수치가 더 붙기 때문에, 근친교배로 인한 기형이 그대로 약점이 됩니다. 길고양이를 꾸준히 받아 혈통을 섞고 가계도를 확인하는 습관이 중요하며, 해금한 목걸이 중 티어가 높은 성직자, 사냥꾼, 전사를 중심으로 파티를 꾸리면 하드 진입이 한결 수월해집니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>

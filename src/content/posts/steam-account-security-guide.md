@@ -42,9 +42,8 @@ hideDescription: true
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
@@ -63,13 +62,7 @@ hideDescription: true
 
 또한 의심스러운 링크나 '계정이 정지됐다'는 메시지, 무료 게임을 준다는 사이트 등에 주의해야 합니다. 공식 스팀 도메인이 아닌 주소에서 로그인 정보를 입력하지 않는 것이 최선의 예방책이죠.
 
-## 5. 이미 해킹당했다면
-
-계정이 이미 해킹당했다면 당황하지 말고 **스팀 고객지원**에 접속해 계정 복구를 신청해야 합니다. 등록된 이메일이나 거래 영수증, 복구 코드를 준비해 두면 절차가 빨라집니다.
-
-해킹을 예방하는 가장 확실한 방법은 모바일 스팀가드와 복구 코드 보관, 그리고 공식 사이트에서만 로그인하는 습관입니다. 지금 이 글을 보셨다면 바로 스팀가드 관리 화면부터 확인해보시기 바랍니다.
-
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>
@@ -79,3 +72,9 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
+
+## 5. 이미 해킹당했다면
+
+계정이 이미 해킹당했다면 당황하지 말고 **스팀 고객지원**에 접속해 계정 복구를 신청해야 합니다. 등록된 이메일이나 거래 영수증, 복구 코드를 준비해 두면 절차가 빨라집니다.
+
+해킹을 예방하는 가장 확실한 방법은 모바일 스팀가드와 복구 코드 보관, 그리고 공식 사이트에서만 로그인하는 습관입니다. 지금 이 글을 보셨다면 바로 스팀가드 관리 화면부터 확인해보시기 바랍니다.

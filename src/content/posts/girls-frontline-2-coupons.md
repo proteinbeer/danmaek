@@ -38,18 +38,6 @@ hideDescription: true
 | --- | --- | --- |
 | LVF4M3QMD6 | 붕괴결정 샤드 100, 사르디스 골드 2,000, 해석 도면 2,000, 전장 보고 2,000 | 7월 6일 공개, 무기한 |
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 LVF4M3QMD6는 최근 배포된 코드로 아직 만료 기한이 확인되지 않았습니다. 만료 코드는 아래 안내를 참고해 걸러주시기 바랍니다.
 
 ## 2. 입력 방법 (게임 내 교환 코드)
@@ -63,6 +51,17 @@ LVF4M3QMD6는 최근 배포된 코드로 아직 만료 기한이 확인되지 �
 
 코드 입력은 대소문자와 공백이 정확해야 하므로, 복사 붙여넣기를 권장합니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 방송 코드의 짧은 유효 기간
 
 2월 방송에서 공개된 KTDXF8QE6J, 3F2D5ULVWU, W7G6C9KNK9는 2월 15일에 만료됐습니다. 방송 코드는 공개 후 며칠 안에 닫히는 경우가 많습니다.
@@ -75,12 +74,11 @@ LVF4M3QMD6는 최근 배포된 코드로 아직 만료 기한이 확인되지 �
 
 코드 수량이 제한된 선착순 배포도 있으므로, 방송 직후에 바로 입력하는 것이 핵심입니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->

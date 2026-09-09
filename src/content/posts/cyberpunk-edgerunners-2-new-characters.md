@@ -37,7 +37,6 @@ hideDescription: true
 
 ## 1. 데이비드를 다시 쓰면
 
-
 사이버펑크 엣지러너 첫 시즌은 데이비드의 성장과 파멸을 하나의 완결된 이야기로 만들었습니다. 결말이 강하게 기억되는 이유도 그 여정을 되돌리기 어렵게 끝냈기 때문입니다.
 
 인기 때문에 억지로 인물을 되살리면 단기적으로는 화제가 될 수는 있죠.
@@ -56,7 +55,16 @@ hideDescription: true
 
 이 방식은 사실 한 캐릭터의 인기에 의존하는 시리즈보다 장기 확장에 유리합니다.
 
-<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/cyberpunk-edgerunners-2-new-characters/02-new-crew-reveal.jpg" alt="엣지러너 2에 등장하는 새 용병 크루 공개 이미지" loading="lazy" />
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 3. 첫 애니가 게임을 다시 살린
 
@@ -67,6 +75,16 @@ hideDescription: true
 이 사례는 게임과 애니메이션이 서로 광고가 될 수 있다는 점을 보여줬죠. 애니를 보고 세계관에 관심을 가진 사람들이 게임으로 들어가고, 유저는 다시 애니의 장소와 설정을 알아보는 순환 세계가 만들어진 겁니다.
 
 엣지러너 2 역시 단순한 넷플릭스 애니가 아니라 사이버펑크 전체 브랜드의 관심을 다시 끌어올리는 역할을 할 가능성이 크죠.
+
+## 4. 새로운 캐릭터가 더 안전
+
+새로운 인물을 쓰면 제작진은 기존 팬의 기억에 덜 묶입니다. 직업, 성격, 전투 방식, 관계를 처음부터 새로 설계할 수 있습니다.
+
+실패해도 첫 시즌의 주인공을 망쳤다는 비판은 피할 수 있습니다.
+
+반대로 성공하면 사이버펑크 세계관에 또 하나의 인기 캐릭터 집단이 생기겠죠. 그래서 브랜드 입장에서는 위험을 분산하면서 자산을 늘리는 선택으로도 보입니다.
+
+특히 게임 세계관은 한 명의 영웅보다 수많은 의뢰와 인물이 공존하는 구조라 이런 선집형 이야기와 궁합이 좋습니다.
 
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
@@ -79,18 +97,6 @@ hideDescription: true
   </div>
 </div>
 
-## 4. 새로운 캐릭터가 더 안전
-
-새로운 인물을 쓰면 제작진은 기존 팬의 기억에 덜 묶입니다. 직업, 성격, 전투 방식, 관계를 처음부터 새로 설계할 수 있습니다.
-
-실패해도 첫 시즌의 주인공을 망쳤다는 비판은 피할 수 있습니다.
-
-반대로 성공하면 사이버펑크 세계관에 또 하나의 인기 캐릭터 집단이 생기겠죠. 그래서 브랜드 입장에서는 위험을 분산하면서 자산을 늘리는 선택으로도 보입니다.
-
-특히 게임 세계관은 한 명의 영웅보다 수많은 의뢰와 인물이 공존하는 구조라 이런 선집형 이야기와 궁합이 좋습니다.
-
-<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/cyberpunk-edgerunners-2-new-characters/03-crew-roman-carax-d.jpg" alt="카메라를 든 새 크루 로만 카락스 디 컨셉 이미지" loading="lazy" />
-
 ## 5. 후속편보다 선집
 
 엣지러너 2가 성공하면 사이버펑크 애니메이션은 한 가족의 연속극보다 나이트 시티에서 벌어지는 여러 비극을 묶는 선집 시리즈로 발전할 수 있습니다. 시즌마다 주인공, 조직, 시대를 조금씩 바꾸는 방식이 가능하게 되죠.
@@ -100,16 +106,3 @@ hideDescription: true
 새 시즌은 첫 시즌을 이겨야 하는 후속편이 아니라 같은 도시에서 벌어진 또 다른 이야기로 평가받을 수 있습니다. 그리고 비교 부담은 줄어드는 대신 세계관의 깊이는 더 커집니다.
 
 사이버펑크 엣지러너 2에서 가장 중요한 건 첫 시즌과 얼마나 비슷한지가 아닐 수 있습니다. 새로운 인물로도 나이트 시티가 여전히 매력적이고 잔혹하게 느껴지는지를 증명하는 것이 중요해 보이죠.
-
-<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/cyberpunk-edgerunners-2-new-characters/04-crew-talia-yang.jpg" alt="새 크루 탈리아 양 캐릭터 공개 이미지" loading="lazy" />
-
-<div style="margin: 40px 0 28px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

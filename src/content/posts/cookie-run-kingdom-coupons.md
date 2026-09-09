@@ -40,18 +40,6 @@ hideDescription: true
 | CRKREBIRTHLIVE | 리버스 라이브 기념 보상 | 9/13까지 |
 | MISSEARTHBREAD26 | 크리스탈 1500개, 무지개 큐브 500개, 초콜릿 가루 500개 | 9/14까지 |
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 그 외에도 2024년에 배포된 일부 코드가 여전히 입력되는 경우가 있습니다. 다만 만료 여부가 확인되지 않은 코드도 많으므로 최신 코드부터 시도하는 편이 좋죠.
 
 ## 2. 쿠폰 입력 방법 (데브플레이)
@@ -63,6 +51,17 @@ hideDescription: true
 쿠폰 페이지에 접속해 데브플레이 계정과 쿠폰 코드 16자리를 입력하고 상품 받기를 누르면 됩니다. 등록 후에는 게임을 완전히 종료했다가 다시 실행해야 보상이 들어옵니다.
 
 보상은 게임 내 **우편함**에서 수령할 수 있습니다. 계정당 1회 등록이 원칙이니 코드 입력 전에 정확히 확인하는 것이 좋습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 3. 쿠폰 자동 등록 사이트 사용법
 
@@ -78,12 +77,11 @@ hideDescription: true
 
 새 코드는 데브시스터즈 공식 커뮤니티와 방송에서 가장 먼저 공개됩니다. 주기적으로 확인하면 기한이 짧은 코드도 놓치지 않습니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->

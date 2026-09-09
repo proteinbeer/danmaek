@@ -48,9 +48,8 @@ hideDescription: true
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
@@ -73,6 +72,17 @@ hideDescription: true
 
 입장 티켓은 매일 사용할 수 있는 만큼 소진하는 것을 기본 루틴으로 잡는 것이 좋습니다. 버려지는 티켓은 곧 손실입니다. 던전에서 자꾸 실패한다면 같은 던전을 반복하기보다 동료 구성이나 스킬 세팅을 먼저 점검하는 편이 낫습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 동료 구성과 패시브 활용
 
 동료는 전투에 함께 참전하는 것보다, 장착한 패시브 효과가 실제 성장을 크게 좌우합니다. 동료 레벨이 낮으면 고유 스킬이 해금되지 않아 능력을 온전히 쓰지 못하니, 동료 성장 재료는 꾸준히 투자해야 합니다.
@@ -89,12 +99,11 @@ hideDescription: true
 
 매일 챙길 재화 루틴으로는 일일 퀘스트와 광고 보상을 빼먹지 않는 것이 가장 중요합니다. 방치형 게임에서는 광고·미션 보상이 전체 재화 수급에서 꽤 큰 비중을 차지합니다. 오프라인 성장 보상도 일정 시간까지만 쌓이므로 늦어도 하루 두 번은 접속해서 수령해주고, 가이드 퀘스트는 새 콘텐츠를 여는 단초가 되니 항상 우선 진행하는 것을 잊지 않는 것이 좋습니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->

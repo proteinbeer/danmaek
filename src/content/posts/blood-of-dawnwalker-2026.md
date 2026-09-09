@@ -61,15 +61,13 @@ hideDescription: true
 
 개발사는 이 작품을 시작으로 다른 시대와 문화권을 무대로 한 후속작도 이어갈 방침입니다. 산고라 계곡이 이번 사가의 무대라면, 이후 작품들은 더 넓은 세계관으로 확장된다는 구상입니다.
 
-<img class="post-landscape-image" src="/assets/posts/news-images/blood-of-dawnwalker-2026-02.jpg" alt="더 블러드 오브 던워커 게임 플레이 이미지" width="1280" height="720" loading="lazy" decoding="async" />
-
 ## 4. 한국어판 출시 구성과 특전
 
 한국어판은 여러 에디션으로 발매됐습니다. 플레이스테이션5 패키지의 데이 원 에디션에는 본편과 스틸북, 세계 지도, '산고라 나그네의 갑옷 세트'가 들어 있고, 콜렉터즈 에디션에는 '코엔' 피규어와 수집 보관함, 실물 세계 개요서, 디지털 콘텐츠가 추가됩니다. 다운로드 버전은 일반판과 디지털 코믹북·사운드트랙이 포함된 '이클립스 에디션'으로 제공됩니다.
 
 패키지 버전 초회 동봉 특전과 다운로드 예약 특전인 '산고라 나그네의 갑옷 세트'는 선행 개방 콘텐츠로, 지금 받지 않아도 게임을 진행하며 획득할 수 있습니다. '위쳐3에서 검술과 탐험, 선택의 재미를 좋아했던' 이용자에게 특히 추천할 만한 신작입니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>

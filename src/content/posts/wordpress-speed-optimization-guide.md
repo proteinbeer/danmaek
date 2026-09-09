@@ -83,6 +83,17 @@ hideDescription: true
 
 DB 정리는 눈에 보이는 변화보다 크지는 않지만, 관리자 화면과 글쓰기 반응이 확실히 가벼워집니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. CDN과 호스팅을 다시 볼 때
 
 위 방법으로도 충분하지 않은 상황은 방문자가 멀리 있거나, 남아있는 병목이 서버 자체일 때입니다.
@@ -103,7 +114,7 @@ DB 정리는 눈에 보이는 변화보다 크지는 않지만, 관리자 화면
 
 측정 기록을 남겨두면 어떤 변화가 효과가 있었는지 한눈에 보입니다. 이 과정을 반복하면 사이트는 늘 가벼운 상태를 유지합니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>

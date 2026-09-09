@@ -46,6 +46,17 @@ hideDescription: true
 
 초반 퀘스트만 따라가는 단계와 달리, 이들 콘텐츠는 일주일가량 플레이한 이용자들이 남을 이유를 만들어주는 장치로 보입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 제우스는 어떤 게임인가
 
 '제우스: 오만의 신'은 그리스 신화 최고의 신 제우스의 오만이 세계를 갈라놓는 스토리를 다룬 경쟁형 MMORPG입니다. 언리얼 엔진 5로 묘사된 올림포스 무대와 직업 육성을 중심으로 하죠.
@@ -56,7 +67,15 @@ hideDescription: true
 
 AI가 획득한 성장 재료를 임의로 소비하지 않아 이용자가 다시 접속한 뒤 성장 방향을 직접 정하는 방식도 특징입니다. 쿠키뉴스가 공개한 시착 소감에서는 이 AI 모드에 대한 긍정적인 반응이 두드러졌습니다.
 
-<img class="post-landscape-image" src="/assets/posts/news-images/zeus-02-screenshot.jpg" alt="제우스: 오만의 신 전투 스크린샷" width="1052" height="592" loading="lazy" decoding="async" />
+## 4. 이용자 반응은 '익숙함'과 '색깔'
+
+출시 일주일이 지난 시점의 이용자 평가는 대체로 '익숙하다'는 반응이 많습니다. 카카오게임즈의 '오딘: 발할라 라이징'과 비교 대상으로 자주 언급되죠.
+
+에픽 퀘스트를 따라 성장하고 장비를 강화하며, 탈것으로 이동하는 진행 방식은 기존 MMORPG와 크게 다르지 않다는 평가입니다. 반대로 익숙한 구조 덕에 진입 장벽이 낮다는 장점으로 읽히기도 합니다.
+
+성장 구간에서는 초반 고비가 있다는 지적도 나옵니다. 에픽 48에서 만나는 '하피 여왕'이 대표적인 난관으로 꼽히며, 장비와 성장 요소를 갖추지 못하면 진행이 어렵다는 분위기죠.
+
+과금에 대한 반응도 엇갈립니다. 빠른 성장을 노리면 유료 상품의 영향이 크게 느껴지지만, 시간을 들여 키우면 부담이 덜하다는 평가도 있습니다.
 
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
@@ -69,16 +88,6 @@ AI가 획득한 성장 재료를 임의로 소비하지 않아 이용자가 다�
   </div>
 </div>
 
-## 4. 이용자 반응은 '익숙함'과 '색깔'
-
-출시 일주일이 지난 시점의 이용자 평가는 대체로 '익숙하다'는 반응이 많습니다. 카카오게임즈의 '오딘: 발할라 라이징'과 비교 대상으로 자주 언급되죠.
-
-에픽 퀘스트를 따라 성장하고 장비를 강화하며, 탈것으로 이동하는 진행 방식은 기존 MMORPG와 크게 다르지 않다는 평가입니다. 반대로 익숙한 구조 덕에 진입 장벽이 낮다는 장점으로 읽히기도 합니다.
-
-성장 구간에서는 초반 고비가 있다는 지적도 나옵니다. 에픽 48에서 만나는 '하피 여왕'이 대표적인 난관으로 꼽히며, 장비와 성장 요소를 갖추지 못하면 진행이 어렵다는 분위기죠.
-
-과금에 대한 반응도 엇갈립니다. 빠른 성장을 노리면 유료 상품의 영향이 크게 느껴지지만, 시간을 들여 키우면 부담이 덜하다는 평가도 있습니다.
-
 ## 5. 시장이 보는 의미
 
 증권가의 반응도 빠릅니다. 키움증권은 제우스의 초반 성과를 반영해 목표주가를 기존 4만 7000원에서 5만 원으로 상향했고, 3분기 일평균 매출은 약 15억 원으로 추정했습니다.
@@ -90,14 +99,3 @@ AI가 획득한 성장 재료를 임의로 소비하지 않아 이용자가 다�
 다만 진짜 성적표는 출시 첫 주 순위가 아니라 앞으로의 흥행 유지력에 달려 있습니다. 3분기에는 출시 이후 한 달가량 성과만 실적에 반영되고, 한 분기 전체가 들어가는 4분기부터 실질적 기여도가 드러날 전망입니다.
 
 한동안은 국내 매출 순위 1위가 얼마나 유지되는지, 그리고 이용자 평가가 '익숙함'을 넘어 제우스만의 색깔을 만들어내는지가 관건이 될 것입니다.
-
-<div style="margin: 40px 0 28px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

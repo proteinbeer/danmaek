@@ -73,6 +73,17 @@ hideDescription: true
 
 탐험을 돕는 주술 단서와 마법 방벽 같은 기술도 유용합니다. 낮 중심이라면 늘 쓰는 시간대인 만큼, 주술 교본 수집을 우선하는 것이 효율적입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 밤 중심 빌드: 검술과 흡혈
 
 밤에 잠입과 사냥을 즐기는 플레이어는 흡혈 트리에 집중하는 편이 좋습니다. 다만 밤 전용 기술만으로 초반을 버티기 어려우므로 검술을 함께 찍어 안정성을 보완합니다.
@@ -89,7 +100,7 @@ hideDescription: true
 
 결국 스킬 투자의 핵심은 모든 트리를 다 채우는 것이 아니라, 내가 싸우는 시간대와 방식에 맞춰 두 갈래를 집중하는 것입니다. 검술을 기본축으로 삼고 낮에는 주술, 밤에는 흡혈을 얹는 구성이면 어떤 빌드든 두 시간대를 모두 대응할 수 있습니다. 시간이 곧 자원인 게임인 만큼, 헤매는 투자 없이 목적을 먼저 정하고 찍는 편이 좋습니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>

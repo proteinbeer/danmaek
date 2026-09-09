@@ -40,18 +40,6 @@ hideDescription: true
 | 2026SFOH | 스타크롬 1,000 등 | 운영진 공개 코드 |
 | S3STREAMER | 스타크롬 1,000 등 | 스트리머 코드 |
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 원스휴먼 코드는 소문자로 입력됩니다. 이미 만료된 OHS10521 (게임 내 리딤 코드)
 
 원스휴먼은 게임 내 설정 메뉴에서 코드를 입력합니다. PC와 콘솔, 모바일 버전 모두 동일합니다.
@@ -69,20 +57,19 @@ hideDescription: true
 
 보상이 지급되지 않으면 입력 계정에서 이미 사용한 적 있는 코드인지 먼저 확인해보시기 바랍니다.
 
-## 4. 만료 코드와 검증되지 않은 코드 주의
-
-일부 안내 페이지에서 OHS10521 계열 코드를 사용 가능으로 소개하기도 하지만, 현재는 대부분 만료됐거나 재배포가 불확실한 상태입니다. 최신 목록은 공식 커뮤니티와 갱신이 빠른 매체를 확인하는 편이 안전합니다.
-
-새로운 코드는 게임 출시 기념 또는 방송에서 나오므로, 공식 소식을 주기적으로 확인하는 습관이 좋죠.
-
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
+
+## 4. 만료 코드와 검증되지 않은 코드 주의
+
+일부 안내 페이지에서 OHS10521 계열 코드를 사용 가능으로 소개하기도 하지만, 현재는 대부분 만료됐거나 재배포가 불확실한 상태입니다. 최신 목록은 공식 커뮤니티와 갱신이 빠른 매체를 확인하는 편이 안전합니다.
+
+새로운 코드는 게임 출시 기념 또는 방송에서 나오므로, 공식 소식을 주기적으로 확인하는 습관이 좋죠.

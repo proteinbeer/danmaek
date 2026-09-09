@@ -41,29 +41,39 @@ hideDescription: true
 
 기어덱은 기어·적응·제물·얼음·스위치로 구성됩니다. 기어가 서로 연결될수록 효율이 오르는 구조라, 연결을 유지하면서 필요 없는 주사위만 합성하는 감각을 익히기 좋습니다. 강풍덱은 강풍·감염·얼음·제물·적응으로 짜며, 강풍의 광역 공격과 감염의 지속 피해로 몰려드는 적을 한 번에 처리합니다. 두 덱 모두 얼음으로 적을 늦추고 제물로 SP를 확보하는 뼈대는 같아서, 하나를 완성하면 다른 하나로 넘어가기도 쉽습니다.
 
-## 3. 합성의 기본 원칙과 눈금 관리
-
-전투에서 가장 흔한 실수는 같은 눈금이 보이자마자 무조건 합성하는 것입니다. 초반에는 낮은 눈금 주사위 여러 개가 총 화력에서 더 높은 경우가 많습니다. 특히 메인 딜러가 1~2개밖에 없을 때 딜러끼리 합성해 버리면 순간 화력이 크게 떨어집니다.
-
-필드를 먼저 절반 이상 채운 뒤 합성을 시작하는 것이 안정적입니다. 같은 주사위가 두세 쌍 쌓였을 때부터 눈금을 올려가고, 메인 딜러는 대체 딜러가 확보될 때까지 보존합니다. 보드가 막힐 때는 필요 없는 보조 주사위부터 처리하는 식으로 순서를 잡습니다.
-
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
 
+## 3. 합성의 기본 원칙과 눈금 관리
+
+전투에서 가장 흔한 실수는 같은 눈금이 보이자마자 무조건 합성하는 것입니다. 초반에는 낮은 눈금 주사위 여러 개가 총 화력에서 더 높은 경우가 많습니다. 특히 메인 딜러가 1~2개밖에 없을 때 딜러끼리 합성해 버리면 순간 화력이 크게 떨어집니다.
+
+필드를 먼저 절반 이상 채운 뒤 합성을 시작하는 것이 안정적입니다. 같은 주사위가 두세 쌍 쌓였을 때부터 눈금을 올려가고, 메인 딜러는 대체 딜러가 확보될 때까지 보존합니다. 보드가 막힐 때는 필요 없는 보조 주사위부터 처리하는 식으로 순서를 잡습니다.
+
 ## 4. 강화 우선순위와 SP 사용
 
 SP는 소환과 주사위 레벨 업에 동시에 쓰입니다. 초반부터 소환에만 쏟으면 레벨 업이 늦고, 반대로 레벨만 올리면 보드가 비어 라인이 밀립니다. 판의 흐름을 보면서 적절히 나누는 것이 핵심입니다.
 
 레벨 업 순서는 메인 딜러가 1순위입니다. 그다음 성장과 SP 확보 주사위, 마지막으로 보조·제어 순서로 투자합니다. 모든 주사위를 골고루 올리기보다 주력 딜러를 먼저 밀어주는 쪽이 같은 재화로 더 큰 체감 성장을 만들어냅니다. 판이 안정된 뒤에는 각성 효과 개방까지 고려해 핵심 주사위에 자원을 모아두는 것이 좋습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 필드 배치와 위치 활용
 
@@ -77,12 +87,11 @@ SP는 소환과 주사위 레벨 업에 동시에 쓰입니다. 초반부터 소
 
 성장 순서는 운영이 쉬운 덱 하나를 먼저 완성한 뒤 새 주사위를 하나씩 얹는 방식이 효율적입니다. 여러 덱을 동시에 찾기보다 한 판이 끝나면 그 판에서 어느 칸이 약했는지 점검하면서 덱을 다듬는 습관을 들이면, 같은 카드 구성으로도 훨씬 안정적인 라인을 만들 수 있습니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->

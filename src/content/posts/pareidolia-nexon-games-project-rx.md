@@ -36,7 +36,6 @@ hideDescription: true
 
 ## 1. 블루 아카이브의 카피인가
 
-
 블루 아카이브가 성공했으니 같은 구조를 조금 더 화려하게 만드는 것이 안전한 루트가 될 수는 있습니다. 하지만 실제로는 기존 팬에게도 새 유저에게도 애매한 게임이 될 위험이 크죠.
 
 기존 팬은 원작과 계속 비교하고 새 유저는 굳이 비슷한 게임을 하나 더 시작할 이유가 없습니다.
@@ -44,7 +43,6 @@ hideDescription: true
 그래서 후속 프로젝트에는 익숙함과 차별화가 동시에 필요합니다. 파레이돌리아가 캐릭터 관계라는 핵심은 유지하면서 도시 생활, 부흥, 다양한 생활 콘텐츠를 강조하는 이유도 이 문제와 연결해서 볼 수 있죠.
 
 블루 아카이브의 강점을 그대로 버리지는 않되 플레이하는 감각은 다르게 만들려는 시도인 셈입니다.
-
 
 ## 2. 생활 콘텐츠가 중요한 이유
 
@@ -57,8 +55,6 @@ hideDescription: true
 이런 구조가 잘 만들어지면 전투가 없는 시간도 콘텐츠가 되죠. 방, 거리, 사무소, 일상 행동 같은 공간이 캐릭터를 보여주는 무대로 바뀌는 것이죠.
 
 반대로 생활 콘텐츠가 반복 작업으로 느껴지면 게임이 쉽게 피곤해질 수 있죠. 결국 중요한 건 기능의 개수가 아니라 캐릭터가 살아 있다는 느낌을 얼마나 자연스럽게 만드는지입니다.
-
-<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/pareidolia-nexon-games-project-rx/02-pareidolia-inews-2.jpg" alt="파레이돌리아 공식 이미지" loading="lazy" />
 
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
@@ -83,8 +79,6 @@ hideDescription: true
 
 단순한 모바일 게임의 피시 이식보다 처음부터 여러 기기에서 같은 세계를 보여주려는 방향에 가깝습니다.
 
-<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/pareidolia-nexon-games-project-rx/03-pareidolia-inews-3.jpg" alt="파레이돌리아 공식 이미지" loading="lazy" />
-
 ## 4. 일본 시장을 일찍 두드리는 이유
 
 파레이돌리아는 9월 도쿄게임쇼 2026에서 첫 시연을 진행할 예정입니다. 정식 명칭을 공개한 직후 실제 플레이를 일본 관객에게 보여주는 일정이 잡혀 있다는 점이 중요합니다.
@@ -95,7 +89,16 @@ hideDescription: true
 
 첫 시연에서 전투보다 생활 콘텐츠가 얼마나 보여질지도 관심 포인트입니다.
 
-<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/pareidolia-nexon-games-project-rx/04-pareidolia-inews-4.jpg" alt="파레이돌리아 공식 이미지" loading="lazy" />
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 성공을 가를 건 그래픽보다 관계의 밀도
 
@@ -106,14 +109,3 @@ hideDescription: true
 아니마시라는 공간이 단순한 예쁜 배경에 그칠지, 캐릭터와 사건이 계속 쌓이는 생활 공간이 될지가 핵심입니다. 전투, 생활, 스토리가 따로 노는지 서로 연결되는지도 봐야 하죠.
 
 파레이돌리아를 블루 아카이브 후속작이라는 말 하나로만 보면 오히려 중요한 변화를 놓칠 수 있죠. 넥슨게임즈가 같은 팬층을 유지하면서도 더 넓은 플랫폼과 더 깊은 일상 경험으로 확장할 수 있는지가 이 작품의 진짜 시험대가 될 가능성이 큽니다.
-
-<div style="margin: 40px 0 28px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

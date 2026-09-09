@@ -24,13 +24,11 @@ hideDescription: true
   이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
 </p>
 
-
 새 플레이스테이션 콘솔을 구매하면 가장 먼저 해야 할 일이 PSN(PlayStation Network) 계정 만들기입니다. 스토어에서 게임을 사고, 온라인 플레이를 하고, 세이브를 백업하려면 계정이 필요하죠.
 
 가입은 PC의 브라우저에서도, 콘솔에서도 할 수 있습니다. 계정 생성 시 알아두면 좋은 규칙과 보안 설정까지 아래에 정리했습니다.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/playstation-ps.jpg" alt="플레이스테이션 네트워크에 가입하는 콘솔 이미지" width="1280" height="720" loading="lazy" decoding="async" />
-
 
 ## 1. 준비물과 유의사항
 
@@ -53,16 +51,6 @@ PC나 스마트폰의 웹 브라우저에서도 가입할 수 있습니다.
 
 가입 진행 중 카드 등록을 요구하는 화면이 나오면 건너뛰어도 됩니다. 결제 정보는 나중에 스토어에서 구매할 때 추가할 수 있습니다. 구독 서비스(PS Plus) 가입도 미리 세울 필요는 없습니다.
 
-## 3. 콘솔에서 계정 만들기
-
-PS5를 처음 부팅하면 계정 만들기 화면이 바로 나타납니다.
-
-1. 콘솔 홈 화면에서 **사용자 만들기 → 새 사용자**를 선택합니다.
-2. **계정 만들기**를 선택하고 PC 가입과 같은 정보(이메일, 생년월일, 국가/지역)를 입력합니다.
-3. 온라인 ID를 정하고 로그인하면 콘솔과 계정이 연결됩니다.
-
-이미 다른 기기에 로그인한 계정이 있다면 **기존 계정으로 로그인**을 선택하는 것도 가능합니다. 콘솔 한 대에 계정 여러 개를 등록해 가족이 공유할 수 있죠.
-
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
@@ -74,6 +62,16 @@ PS5를 처음 부팅하면 계정 만들기 화면이 바로 나타납니다.
   </div>
 </div>
 
+## 3. 콘솔에서 계정 만들기
+
+PS5를 처음 부팅하면 계정 만들기 화면이 바로 나타납니다.
+
+1. 콘솔 홈 화면에서 **사용자 만들기 → 새 사용자**를 선택합니다.
+2. **계정 만들기**를 선택하고 PC 가입과 같은 정보(이메일, 생년월일, 국가/지역)를 입력합니다.
+3. 온라인 ID를 정하고 로그인하면 콘솔과 계정이 연결됩니다.
+
+이미 다른 기기에 로그인한 계정이 있다면 **기존 계정으로 로그인**을 선택하는 것도 가능합니다. 콘솔 한 대에 계정 여러 개를 등록해 가족이 공유할 수 있죠.
+
 ## 4. 온라인 ID 정하는 팁
 
 온라인 ID는 계정 생성 시 처음 정하는 이름이지만, 이후에도 조건부로 변경할 수 있습니다.
@@ -83,6 +81,17 @@ PS5를 처음 부팅하면 계정 만들기 화면이 바로 나타납니다.
 - 특수문자 사용이 제한되므로 알파벳과 숫자 위주로 만드시면 안전합니다.
 
 다른 사용자가 이미 쓴 온라인 ID는 사용할 수 없습니다. 인기 있는 이름은 대부분 선점돼 있으니, 어느 정도 시도를 감안해 후보를 몇 개 준비해가면 편리합니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 계정 보안 설정하기
 
@@ -104,7 +113,7 @@ PS5를 처음 부팅하면 계정 만들기 화면이 바로 나타납니다.
 
 구매 내역과 다운로드 목록은 계정에 남으므로, 기기를 바꾸어도 다시 내려받을 수 있습니다. 세이브 클라우드 백업과 연동하려면 위에서 언급한 구독 서비스 가입이 필요하죠.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>

@@ -39,11 +39,28 @@ hideDescription: true
 
 이 화면은 현재 부팅에 미치는 영향 정도를 함께 보여주어, 영향이 큰 앱부터 정리하기 좋습니다. 설정에서는 앱을 켜고 끄는 것에 그치지만, 실행 성능에 미치는 영향은 확인할 수 있습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 작업 관리자에서 끄기
 
 더 자세한 정보가 필요하면 작업 관리자를 사용하면 됩니다. **시작 버튼을 마우스 오른쪽 버튼으로 클릭 → 작업 관리자**를 열고, **시작 앱** 탭으로 이동하면 됩니다. 각 앱의 상태와 부팅 영향(없음/낮음/높음)이 표시됩니다.
 
 제거할 앱을 선택하고 **사용 안 함**을 누르면 해당 앱이 시작 프로그램에서 꺼집니다. 이 화면은 설정보다 영향도를 정확히 보여주어, 실제로 부팅을 느리게 만드는 앱을 찾아내는 데 효과적입니다. 백신이나 시스템 필수 요소는 건드리지 않는 것이 안전합니다.
+
+## 4. 시작 폴더에서 직접 관리
+
+설정과 작업 관리자에 나타나지 않는 앱은 시작 폴더에서 직접 관리할 수 있습니다. **윈도우 키 + R**을 눌러 실행 창을 열고 `shell:startup`을 입력하면 현재 사용자의 시작 폴더가 열립니다. 여기 있는 바로가기를 삭제하거나 옮기면 시작 프로그램에서 빠집니다.
+
+모든 사용자에게 적용하려면 `shell:common startup`을 사용하면 됩니다. 시작 폴더는 파일 탐색기처럼 보이므로, 잘못 지우지 않도록 조심해서 정리하면 됩니다. 의심되는 바로가기만 삭제하고 나머지는 그대로 두는 것이 좋습니다.
 
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
@@ -56,25 +73,8 @@ hideDescription: true
   </div>
 </div>
 
-## 4. 시작 폴더에서 직접 관리
-
-설정과 작업 관리자에 나타나지 않는 앱은 시작 폴더에서 직접 관리할 수 있습니다. **윈도우 키 + R**을 눌러 실행 창을 열고 `shell:startup`을 입력하면 현재 사용자의 시작 폴더가 열립니다. 여기 있는 바로가기를 삭제하거나 옮기면 시작 프로그램에서 빠집니다.
-
-모든 사용자에게 적용하려면 `shell:common startup`을 사용하면 됩니다. 시작 폴더는 파일 탐색기처럼 보이므로, 잘못 지우지 않도록 조심해서 정리하면 됩니다. 의심되는 바로가기만 삭제하고 나머지는 그대로 두는 것이 좋습니다.
-
 ## 5. 정리 후 주의할 점
 
 시작 프로그램을 모두 꺼두면 오히려 필요한 프로그램이 실행되지 않을 수 있습니다. 이후 정기적으로 켜고 싶은 앱은 다시 **사용**으로 바꾸거나 시작 폴더에 바로가기를 넣으면 됩니다.
 
 백신, 드라이버 업데이트 도구, 클라우드 동기화 클라이언트처럼 백그라운드에서 반드시 돌아야 하는 앱은 끄지 않는 것이 좋습니다. 부팅 속도만을 위해 보안 관련 프로그램까지 끄면 오히려 시스템이 위험해질 수 있죠. 항상 '이 앱이 정말 자동 실행돼야 하나'를 기준으로 판단하면 됩니다.
-
-<div style="margin: 40px 0 28px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

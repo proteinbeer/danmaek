@@ -44,9 +44,8 @@ hideDescription: true
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
@@ -65,6 +64,17 @@ hideDescription: true
 
 이 시기에는 하루 두 번 입장할 수 있는 던전을 놓치지 않는 것이 중요합니다. 던전 권장 난이도가 자신의 전투력보다 낮아도, 재료가 쌓이는 속도라는 측면에서는 최상위 단계를 도는 것이 성장 가속에 유효합니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 장비 던전의 진짜 목적
 
 장비 던전은 직접 장비를 주기보다 장비 성장에 필요한 합성 재료를 주는 성격이 강합니다. 사냥에서 나오는 장비 조각과 함께 쌓일 때, 장비 세트 효과를 맞추기 좋습니다.
@@ -77,12 +87,11 @@ hideDescription: true
 
 구간 요약으로는 초반은 경험치, 중반은 동료 재료, 후반은 강화 재료가 기본입니다. 이 흐름만 따라도 막히는 구간이 있을 때 어느 던전부터 돌아야 할지 금방 판단할 수 있습니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->

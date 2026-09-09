@@ -37,7 +37,6 @@ hideDescription: true
 
 ## 1. 완전히 막는 것보다 규칙
 
-
 생성형 인공지능 영상은 이미 일반 사람들에게 빠르게 퍼지고 있습니다. 특정 회사 하나를 막아도 비슷한 모델이 다른 곳에서 계속 나올 수 있죠.
 
 이제 영화사 입장에서는 기술 자체를 사라지게 만드는 전략이 현실적이지 않을 수 있습니다.
@@ -55,8 +54,6 @@ hideDescription: true
 사용자가 유명 배우 이름을 입력했을 때 막을지, 비슷한 외모까지 제한할지, 패러디는 어떻게 볼지 같은 이상한 경계가 계속 생깁니다. 캐릭터도 이름을 쓰지 않고 외형만 비슷하게 만들면 또 복잡해집니다.
 
 앞으로 인공지능 서비스의 경쟁은 생성 품질뿐 아니라 이런 경계를 얼마나 일관되게 관리하는지에서도 갈릴 가능성이 있습니다.
-
-<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/hollywood-bytedance-ai-copyright-agreement/02-seedance-ai-video-still.jpg" alt="시댄스로 생성된 인공지능 영상 장면" loading="lazy" />
 
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
@@ -79,8 +76,6 @@ hideDescription: true
 
 이렇게 보면 이번 합의는 방어 계약이면서 동시에 향후 사업 모델의 출발점이 될 수도 있겠습니다.
 
-<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/hollywood-bytedance-ai-copyright-agreement/03-hollywood-sign.jpg" alt="로스앤젤레스 할리우드 사인" loading="lazy" />
-
 ## 4. 우리만 불편
 
 저작권 보호 장치가 강해지면 AI를 이용하는 사람들은 이전에 만들 수 있던 일부 영상을 더 이상 생성하지 못할 수 있죠. 유명 캐릭터, 배우, 특정 영화 장면을 직접 요구할수록 거절될 가능성이 커질 수도 있습니다.
@@ -91,19 +86,7 @@ hideDescription: true
 
 앞으로 같은 요청을 여러 인공지능 서비스에 넣었을 때 더 느슨한 쪽이 인기를 얻을 겁니다.
 
-## 5. 다음 단계는 합의보다 표준화
-
-바이트댄스와 미국 영화협회의 합의는 중요한 첫 사례지만 업계 전체의 법은 아닙니다. 다른 인공지능 회사와 다른 저작권자가 같은 기준을 자동으로 따르는 것도 아니죠.
-
-그래서 앞으로 더 중요한 건 공통 기준이 만들어지는지입니다.
-
-어떤 데이터로 학습했는지 공개하는 방식, 저작권자가 거부할 수 있는 절차, 생성 결과에 표시를 넣는 방법, 허가된 캐릭터를 상업적으로 쓰는 방식이 점점 표준화될 수 있겠습니다.
-
-현재 인공지능 저작권 전쟁은 기술을 없애느냐의 싸움에서 누가 어떤 조건으로 쓸 수 있느냐의 협상으로 이동하고 있습니다. 그리고 이번 합의는 그 변화가 실제로 시작됐다는 점에서 의미가 크죠.
-
-<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/hollywood-bytedance-ai-copyright-agreement/04-film-camera-movie-set.jpg" alt="영화 촬영 현장의 35mm 카메라" loading="lazy" />
-
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>
@@ -113,3 +96,13 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
+
+## 5. 다음 단계는 합의보다 표준화
+
+바이트댄스와 미국 영화협회의 합의는 중요한 첫 사례지만 업계 전체의 법은 아닙니다. 다른 인공지능 회사와 다른 저작권자가 같은 기준을 자동으로 따르는 것도 아니죠.
+
+그래서 앞으로 더 중요한 건 공통 기준이 만들어지는지입니다.
+
+어떤 데이터로 학습했는지 공개하는 방식, 저작권자가 거부할 수 있는 절차, 생성 결과에 표시를 넣는 방법, 허가된 캐릭터를 상업적으로 쓰는 방식이 점점 표준화될 수 있겠습니다.
+
+현재 인공지능 저작권 전쟁은 기술을 없애느냐의 싸움에서 누가 어떤 조건으로 쓸 수 있느냐의 협상으로 이동하고 있습니다. 그리고 이번 합의는 그 변화가 실제로 시작됐다는 점에서 의미가 크죠.

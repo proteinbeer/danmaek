@@ -46,12 +46,6 @@ hideDescription: true
 
 문제는 이들이 실제 위험과 연출된 공포의 경계를 제대로 구분하지 못하기 시작한다는 점입니다. 방송을 위해 한 선택이 생존을 망가뜨리는 구조가 만들어집니다.
 
-## 3. 산장에서 남태평양 섬으로
-
-이야기는 호주 시드니의 공포 행사에서 새로운 생존자를 만나며 방향이 바뀝니다. 이후 팀은 1970년대 고급 리조트가 갑자기 폐쇄된 남태평양의 외딴 섬으로 향합니다.
-
-전작의 눈 덮인 산과 비교하면 색과 풍경부터 완전히 다릅니다. 밝고 아름다운 섬이라는 외형과 내부에 숨은 오래된 공포를 충돌시키려는 선택으로 보입니다.
-
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
@@ -63,6 +57,12 @@ hideDescription: true
   </div>
 </div>
 
+## 3. 산장에서 남태평양 섬으로
+
+이야기는 호주 시드니의 공포 행사에서 새로운 생존자를 만나며 방향이 바뀝니다. 이후 팀은 1970년대 고급 리조트가 갑자기 폐쇄된 남태평양의 외딴 섬으로 향합니다.
+
+전작의 눈 덮인 산과 비교하면 색과 풍경부터 완전히 다릅니다. 밝고 아름다운 섬이라는 외형과 내부에 숨은 오래된 공포를 충돌시키려는 선택으로 보입니다.
+
 개발진은 아름답지만 치명적인 낙원이라는 표현을 사용했습니다. 어두운 복도만 무서운 것이 아니라 햇빛 아래에서도 불안하게 만드는 공포를 노리는 셈입니다.
 
 ## 4. 닭 한 마리도 선택지가 됨
@@ -73,7 +73,16 @@ hideDescription: true
 
 작아 보이는 선택이 이후 다른 단서와 죽음으로 이어질 수 있습니다. 단순히 마지막 장면에서 생존자를 고르는 게임이 아니라 행동 하나가 멀리 있는 사건까지 밀어내는 구조를 다시 강조합니다.
 
-<img class="post-landscape-image" src="/assets/posts/news-images/until-dawn-2-2026-02.jpg" alt="언틸 던 2 미나의 희생 선택 장면" width="1280" height="720" loading="lazy" decoding="async" />
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 디스패치 제작진이 붙은 이유
 
@@ -88,15 +97,3 @@ hideDescription: true
 예약 구매는 9월 10일부터 시작되며 닥터 힐 관련 의상과 수집 요소가 예약 특전으로 제공됩니다. 디지털 디럭스판에는 데드 트루 멤버 8명의 네온 의상과 각종 죽음 장면을 다시 보는 디오라마 기능도 들어갑니다.
 
 이 기능은 조금 잔혹하지만 언틸 던이라는 시리즈와는 잘 맞습니다. 누가 어떻게 죽었는지를 실패 화면으로 끝내지 않고 수집 요소처럼 되돌려보게 만들면서 여러 선택을 반복해보는 이유를 추가하기 때문입니다.
-
-<div style="margin: 40px 0 28px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-

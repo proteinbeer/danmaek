@@ -23,13 +23,11 @@ hideDescription: true
   이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
 </p>
 
-
 스팀 게임이 많아지면 용량 관리가 큰 고민이 됩니다. 로딩이 느린 HDD에 설치된 게임을 SSD로 옮기고 싶거나, 반대로 용량이 부족해 HDD로 이동해야 하는 상황이 생기기 마련이죠.
 
 다행히 스팀에는 게임을 **다시 다운로드하지 않고** 다른 드라이브로 옮기는 기능이 내장되어 있습니다. 파일 이동만 진행되기 때문에 시간도 절약할 수 있습니다.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/steam-home.jpg" alt="스팀 라이브러리와 게임 목록 화면" width="1200" height="675" loading="lazy" decoding="async" />
-
 
 ## 1. 게임이 설치된 위치 확인
 
@@ -78,6 +76,17 @@ hideDescription: true
 
 게임을 SSD로 옮기면 체감 변화가 큽니다. 오픈월드 게임의 맵 로딩, 레벨 진입 속도가 확연히 빨라지는 경우가 많죠. 반대로 자주 하지 않는 게임을 HDD로 보내면 SSD 용량을 관리할 수 있습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 새 PC로 게임 폴더 복사하기
 
 드라이브 이동과 별개로, 새 PC나 다른 PC에 게임을 그대로 옮기고 싶은 경우도 있습니다. 외장하드에 파일을 복사해 옮기는 방식입니다.
@@ -88,14 +97,3 @@ hideDescription: true
 4. 스팀을 재시작하면 게임 목록에 나타나고, 잘못된 파일만 검증합니다.
 
 **ACF 파일이 없으면** 스팀이 게임을 설치 전 상태로 인식하고 전체를 다시 받으려 하므로, appmanifest 파일을 함께 복사하는 것이 핵심입니다.
-
-<div style="margin: 40px 0 28px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

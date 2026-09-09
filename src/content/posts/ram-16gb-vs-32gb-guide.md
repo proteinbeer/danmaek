@@ -30,7 +30,6 @@ hideDescription: true
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/dualsense-1200x675.jpg" alt="게임용 PC와 램 업그레이드" width="1200" height="675" loading="lazy" decoding="async" />
 
-
 ## 1. 게임만 실행한다면
 
 비교적 가벼운 게임이나 오래된 게임 하나만 실행하는 환경이면 16GB에서도 큰 문제가 없는 경우가 많습니다. 게임이 실제로 쓰는 메모리가 16GB 안에서 해결된다면 32GB로 늘려도 평균 프레임이 크게 오르지 않죠.
@@ -52,9 +51,8 @@ hideDescription: true
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
@@ -77,16 +75,7 @@ hideDescription: true
 
 점점 더 커지고 있는 추세는 특히 통합 그래픽(내장 그래픽)을 쓰는 시스템에서 두드러지는데, 내장 그래픽은 램의 일부를 그래픽 메모리로 사용하기 때문입니다. 램을 추가할 때는 기존 램과 **규격(DDR4/DDR5), 동작 속도, 용량**이 어울리는지 확인하고, 메인보드가 지원하는 최대 용량과 구성도 함께 파악해두는 것이 좋습니다.
 
-## 5. 어떤 용량을 고를까
-
-게임 하나만 실행하고 다른 프로그램을 거의 사용하지 않는다면 16GB도 충분한 경우가 많습니다. 새 컴퓨터를 오래 사용하거나 최신 게임, 방송, 녹화, 많은 브라우저 탭을 동시에 사용할 계획이시라면 32GB가 더 편한 선택이 되죠.
-
-게임 하나만 실행하고 다른 프로그램을 거의 사용하지 않는 가벼운 사용자라면 16GB로도 충분합니다. 반면 새 컴퓨터를 오래 사용할 계획이거나, 최신 대형 게임과 방송·녹화·편집을 겸하거나, 브라우저 탭을 많이 띄워두는 사용자라면 처음부터 32GB를 선택하는 것이 안정적입니다.
-
-결국 램은 많을수록 무조건 프레임이 오르는 부품이라기보다, **부족해졌을 때 성능과 사용감이 크게 흔들리는 부품**에 가깝습니다. 향후 사용 패턴을 고려해 여유가 있다면 조금 더 큰 용량을 선택하는 편이 장기적으로 편합니다.
-
-
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>
@@ -96,3 +85,11 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
+
+## 5. 어떤 용량을 고를까
+
+게임 하나만 실행하고 다른 프로그램을 거의 사용하지 않는다면 16GB도 충분한 경우가 많습니다. 새 컴퓨터를 오래 사용하거나 최신 게임, 방송, 녹화, 많은 브라우저 탭을 동시에 사용할 계획이시라면 32GB가 더 편한 선택이 되죠.
+
+게임 하나만 실행하고 다른 프로그램을 거의 사용하지 않는 가벼운 사용자라면 16GB로도 충분합니다. 반면 새 컴퓨터를 오래 사용할 계획이거나, 최신 대형 게임과 방송·녹화·편집을 겸하거나, 브라우저 탭을 많이 띄워두는 사용자라면 처음부터 32GB를 선택하는 것이 안정적입니다.
+
+결국 램은 많을수록 무조건 프레임이 오르는 부품이라기보다, **부족해졌을 때 성능과 사용감이 크게 흔들리는 부품**에 가깝습니다. 향후 사용 패턴을 고려해 여유가 있다면 조금 더 큰 용량을 선택하는 편이 장기적으로 편합니다.

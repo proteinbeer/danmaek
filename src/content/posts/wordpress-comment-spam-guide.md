@@ -81,6 +81,17 @@ hideDescription: true
 
 악성 봇은 계속 진화하기 때문에 텍스트 규칙만으로는 한계가 있습니다. Akismet처럼 **패턴을 실시간으로 학습하는 서비스**를 켜두면 거의 손이 가지 않습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 기존 스팸 한 번에 정리하기
 
 이미 쌓인 스팸 댓글은 하나씩 지우기보다 한 번에 정리하는 것이 낫습니다.
@@ -103,7 +114,7 @@ hideDescription: true
 
 스팸 댓글은 "몰라서 피해를 보는 문제"에 가깝습니다. 기본 설정과 플러그인 하나만 제대로 해두어도 하루 수십 건의 도배가 거의 0으로 줄어듭니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>

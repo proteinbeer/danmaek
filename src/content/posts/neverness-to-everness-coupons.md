@@ -44,18 +44,6 @@ hideDescription: true
 | DRAGONGIRL | 환석 30, 폰즈 20,000, 푸카 초콜릿 |
 | NTEFREE | 폰즈 30,000 |
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 대부분의 이환 코드는 별도 기한 표시 없이 사용할 수 있지만 (게임 내 교환 코드)
 
 이환은 게임 내에서 바로 코드를 입력합니다. PC와 모바일 모두 동일한 방식입니다.
@@ -73,20 +61,19 @@ hideDescription: true
 
 보상은 입력 즉시 지급되지 않고 우편함으로 도착합니다. 모두 수령을 눌러 한 번에 챙기는 편이 좋죠.
 
-## 4. 방송 코드의 짧은 유효 기간
-
-1.3 프리뷰 방송에서 공개된 FOGDENGAME, EYEOFDELUSION, SUMMERTIME은 8월 11일에 이미 만료됐습니다. 출시 기념 코드 WELCOMETONTE도 8월 19일을 마지막으로 사용이 끝났습니다.
-
-새로운 코드는 공식 X(@NTE_KO)와 인벤 게시판에서 빠르게 공유되므로, 그곳에서 최신 코드를 확인하는 것이 좋습니다.
-
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
+
+## 4. 방송 코드의 짧은 유효 기간
+
+1.3 프리뷰 방송에서 공개된 FOGDENGAME, EYEOFDELUSION, SUMMERTIME은 8월 11일에 이미 만료됐습니다. 출시 기념 코드 WELCOMETONTE도 8월 19일을 마지막으로 사용이 끝났습니다.
+
+새로운 코드는 공식 X(@NTE_KO)와 인벤 게시판에서 빠르게 공유되므로, 그곳에서 최신 코드를 확인하는 것이 좋습니다.

@@ -29,7 +29,6 @@ hideDescription: true
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/hero-bloom.jpg" alt="모니터에 연결하는 HDMI 케이블" width="1280" height="720" loading="lazy" decoding="async" />
 
-
 ## 1. 모니터 입력 선택
 
 HDMI와 디스플레이포트가 여러 개 있는 모니터라면 현재 케이블이 꽂힌 입력으로 설정돼 있는지 먼저 확인하시면 되죠.
@@ -49,9 +48,8 @@ HDMI와 디스플레이포트가 여러 개 있는 모니터라면 현재 케이
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
@@ -74,12 +72,7 @@ HDMI와 디스플레이포트가 여러 개 있는 모니터라면 현재 케이
 
 노트북을 사용하신다면 노트북 내장 화면은 나오는데 외부 모니터만 신호 없음이 표시되는 경우가 있습니다. 이때는 외장 모니터를 인식하도록 디스플레이 전환 단축키(보통 Fn키 조합)를 누르거나 **윈도우키 + P**를 눌러 "확장" 또는 "복제" 모드를 선택하시면 됩니다.
 
-## 5. 컴퓨터 상태 확인
-
-모니터가 정상인데도 계속 신호 없음이 나온다면 컴퓨터가 부팅 과정에서 멈춰 있을 수도 있습니다. 덮개를 열고 냉각팬이 도는지, 전원 표시등이 정상인지 확인하시면 됩니다. 부팅이 완료된 상태라면 케이스 내부의 먼지나 그래픽카드 장착 상태를 점검하고, 그래도 안 된다면 본체 전원을 완전히 차단한 뒤 다시 켜보는 방법이 있습니다.
-
-
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>
@@ -89,3 +82,7 @@ HDMI와 디스플레이포트가 여러 개 있는 모니터라면 현재 케이
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
+
+## 5. 컴퓨터 상태 확인
+
+모니터가 정상인데도 계속 신호 없음이 나온다면 컴퓨터가 부팅 과정에서 멈춰 있을 수도 있습니다. 덮개를 열고 냉각팬이 도는지, 전원 표시등이 정상인지 확인하시면 됩니다. 부팅이 완료된 상태라면 케이스 내부의 먼지나 그래픽카드 장착 상태를 점검하고, 그래도 안 된다면 본체 전원을 완전히 차단한 뒤 다시 켜보는 방법이 있습니다.

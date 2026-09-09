@@ -65,7 +65,16 @@ SK텔레콤은 로드맵도 함께 제시했습니다. 먼저 울산 AIDC 투자
 
 이어 충청권과 서남권에 각각 GW급 데이터센터를 추가하고, 2029년부터 5GW 규모를 단계별로 구축한다는 계획입니다. 최종적으로 2035년까지 총 15GW 인프라를 갖춘다는 목표죠. 국내뿐 아니라 해외 투자와 협력으로 영역을 넓히겠다는 뜻도 담겨 있습니다.
 
-<img class="post-landscape-image" src="/assets/posts/news-images/skt-ai-data-center-02.jpg" alt="데이터센터 확장 로드맵" width="1280" height="720" loading="lazy" decoding="async" />
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 남은 과제, 전력과 인허가
 
@@ -79,7 +88,7 @@ SK텔레콤은 로드맵도 함께 제시했습니다. 먼저 울산 AIDC 투자
 
 3조800억원 규모의 투자를 유치하면서 글로벌 자본의 관심도 확인했습니다. 이제 남은 것은 실제 수익으로 이어지는 실행력입니다. 울산 AIDC가 제때 가동되고, 해외 협력이 구체화되는지가 이 계획의 성공 여부를 가르는 잣대가 되겠죠.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>

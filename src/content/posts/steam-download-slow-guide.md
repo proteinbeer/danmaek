@@ -29,7 +29,6 @@ hideDescription: true
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/steam-home.jpg" alt="스팀 게임 다운로드 환경" width="1200" height="630" loading="lazy" decoding="async" />
 
-
 ## 1. 다운로드 지역 변경
 
 스팀은 위치를 기준으로 콘텐츠 서버를 자동으로 고릅니다. 그런데 서버가 혼잡하거나 거리가 멀면 속도가 떨어지죠. 스팀 설정, 다운로드에서 현재 지역과 가까운 다른 다운로드 지역으로 바꿔보시면 됩니다.
@@ -53,9 +52,8 @@ hideDescription: true
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
@@ -80,16 +78,7 @@ hideDescription: true
 
 다운로드 그래프는 높게 나오는데 실제 진행이 멈칫멈칫한다면, **작업 관리자에서 디스크 사용량**이 100%에 가까운지 확인해보시면 됩니다. 하드디스크(HDD)를 사용한다면 SSD로 게임을 설치하면 다운로드와 설치 속도가 크게 개선될 수 있습니다.
 
-## 5. 게임 실행 중 다운로드
-
-게임을 켜두면 스팀은 게임의 네트워크 활동을 우선하기 위해 다운로드를 일시 정지할 수도 있습니다. 게임 플레이 중 다운로드가 멈춘다면 설정, 다운로드에서 게임 플레이 중 다운로드 허용 여부를 확인해보시면 됩니다.
-
-게임을 실행 중인 상태에서는 스팀이 해당 게임의 네트워크 활동을 우선시하기 위해 다운로드를 일시 정지하거나 속도를 낮출 수 있습니다. 게임을 플레이하는 동안 다운로드가 멈추거나 느리게 진행된다면, **스팀 설정 → 다운로드**에서 "게임을 플레이하는 동안 다운로드 허용" 옵션이 켜져 있는지 확인해보시면 됩니다.
-
-이 옵션이 꺼져 있으면 게임 실행 중에는 다운로드가 자동으로 중단됩니다. 이 옵션을 켜면 게임과 다운로드를 동시에 진행할 수 있지만, 게임의 온라인 연결이 다소 느려질 수 있으므로 상황에 맞게 설정하시면 됩니다.
-
-
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>
@@ -99,3 +88,11 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
+
+## 5. 게임 실행 중 다운로드
+
+게임을 켜두면 스팀은 게임의 네트워크 활동을 우선하기 위해 다운로드를 일시 정지할 수도 있습니다. 게임 플레이 중 다운로드가 멈춘다면 설정, 다운로드에서 게임 플레이 중 다운로드 허용 여부를 확인해보시면 됩니다.
+
+게임을 실행 중인 상태에서는 스팀이 해당 게임의 네트워크 활동을 우선시하기 위해 다운로드를 일시 정지하거나 속도를 낮출 수 있습니다. 게임을 플레이하는 동안 다운로드가 멈추거나 느리게 진행된다면, **스팀 설정 → 다운로드**에서 "게임을 플레이하는 동안 다운로드 허용" 옵션이 켜져 있는지 확인해보시면 됩니다.
+
+이 옵션이 꺼져 있으면 게임 실행 중에는 다운로드가 자동으로 중단됩니다. 이 옵션을 켜면 게임과 다운로드를 동시에 진행할 수 있지만, 게임의 온라인 연결이 다소 느려질 수 있으므로 상황에 맞게 설정하시면 됩니다.

@@ -23,13 +23,11 @@ hideDescription: true
   이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
 </p>
 
-
 엑스박스 컨트롤러는 PC 게임과의 호환성이 가장 뛰어난 게임패드입니다. 드라이버를 별도로 설치하지 않아도 윈도우가 대부분 자동으로 인식하죠. 연결 방법은 유선, 블루투스, 무선 어댑터 세 가지로 나뉩니다.
 
 어느 방법을 쓰든 첫 연결만 익숙해지면 이후에는 간단합니다. 게임마다 설정이 꼬여 패드가 안 먹는 경우도 있는데, 그 해결 방법까지 아래에 정리했습니다.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/dualsense-1200x675.jpg" alt="PC에 연결할 게임 컨트롤러" width="1200" height="675" loading="lazy" decoding="async" />
-
 
 ## 1. 연결 전 확인할 것
 
@@ -51,17 +49,6 @@ hideDescription: true
 
 이후 대부분의 게임과 스팀에서 바로 인식됩니다. 유선 연결은 페어링 설정 없이 꽂기만 하면 되므로, 블루투스가 없는 구형 컨트롤러일 때도 유용하죠.
 
-## 3. 블루투스로 연결하기
-
-무선으로 쓰고 싶다면 컨트롤러를 페어링 모드로 전환한 뒤 PC에서 연결하면 됩니다.
-
-1. 컨트롤러 중앙의 **X 버튼을 3초간 길게 눌러** 전원을 켭니다.
-2. 컨트롤러가 페어링 모드에 들어가면 X 버튼이 **빠르게 깜빡입니다.**
-3. PC에서 **설정 → Bluetooth 및 기기 → 장치 추가 → Bluetooth**를 선택합니다.
-4. 목록에서 **Xbox Wireless Controller**를 선택하면 연결됩니다. (컨트롤러에 버튼이 여러 개 있는 모델은 X 버튼 위 페어링 버튼을 함께 눌러야 하기도 합니다)
-
-연결되면 X 버튼 불이 깜빡임을 멈추고 켜진 상태를 유지합니다. 블루투스 연결은 유선보다 지연이 조금 있지만 대부분의 게임에서 체감하기 어렵습니다.
-
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
@@ -73,6 +60,17 @@ hideDescription: true
   </div>
 </div>
 
+## 3. 블루투스로 연결하기
+
+무선으로 쓰고 싶다면 컨트롤러를 페어링 모드로 전환한 뒤 PC에서 연결하면 됩니다.
+
+1. 컨트롤러 중앙의 **X 버튼을 3초간 길게 눌러** 전원을 켭니다.
+2. 컨트롤러가 페어링 모드에 들어가면 X 버튼이 **빠르게 깜빡입니다.**
+3. PC에서 **설정 → Bluetooth 및 기기 → 장치 추가 → Bluetooth**를 선택합니다.
+4. 목록에서 **Xbox Wireless Controller**를 선택하면 연결됩니다. (컨트롤러에 버튼이 여러 개 있는 모델은 X 버튼 위 페어링 버튼을 함께 눌러야 하기도 합니다)
+
+연결되면 X 버튼 불이 깜빡임을 멈추고 켜진 상태를 유지합니다. 블루투스 연결은 유선보다 지연이 조금 있지만 대부분의 게임에서 체감하기 어렵습니다.
+
 ## 4. Xbox 무선 어댑터로 연결하기
 
 블루투스 미지원 구형 엑스박스 원 컨트롤러를 무선으로 쓰는 방법입니다. 전용 수신기라 안정성이 높고 여러 컨트롤러를 동시에 연결할 수 있죠.
@@ -82,6 +80,17 @@ hideDescription: true
 3. 어댑터의 페어링 버튼도 눌러 서로 연결되면 완료입니다.
 
 무선 어댑터는 1개만 구매해도 엑스박스 컨트롤러 최대 8개를 연결할 수 있습니다. 헤드셋을 컨트롤러에 꽂아 쓰는 분이라면 무선 연결 중에도 오디오가 되는 점이 장점이죠.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 게임에서 인식 안 될 때
 
@@ -100,7 +109,7 @@ hideDescription: true
 
 시리즈 X|S 컨트롤러는 USB-C 포트를 사용하고, 엑스박스 원 컨트롤러는 마이크로 USB 포트를 사용합니다. 연장 케이블을 쓰면 거리가 먼 환경에서도 유선 연결이 편해져요. 배터리 수명이 급격히 줄었다면 배터리 교체 시점을 확인해보시기 바랍니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>

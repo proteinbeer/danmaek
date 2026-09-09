@@ -65,9 +65,7 @@ hideDescription: true
 
 제랄트의 오랜 친구 '당텔리온'의 고향이라는 설정으로, 새로운 돌연변이 장비와 무기 '체인'을 활용해 전투를 펼친다는 세부 내용이 공개됐습니다. 스토리 분기의 선택과 결과가 제랄트가 가장 소중히 하는 관계까지 위협하는 전개로 예고됐습니다.
 
-<img class="post-landscape-image" src="/assets/posts/news-images/witcher3-remastered-2026-02.jpg" alt="위쳐 3 리마스터 발표 영상 이미지" width="1280" height="720" loading="lazy" decoding="async" />
-
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>

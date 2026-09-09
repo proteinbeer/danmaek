@@ -62,13 +62,7 @@ hideDescription: true
 
 이 도구는 하드디스크(HDD)뿐 아니라 SSD에서도 유용하며, 저장소 센스를 켜기 전에 한 번 정리해 두면 효과적입니다.
 
-## 5. 클라우드와 앱으로 추가 확보
-
-쓰지 않는 앱을 제거하거나, 큰 파일을 클라우드(원드라이브 등)로 옮기면 더 많은 공간을 확보할 수 있습니다. **저장 공간 → 앱 및 기능**에서 용량이 큰 앱을 찾아 제거할 수 있으며, 동기화 폴더를 두어 파일을 온라인에 보관하면 드라이브 공간을 절약할 수 있죠.
-
-또한 **설정 → 시스템 → 저장 공간 → 고급 저장소 설정**에서 드라이브별 항목을 세밀하게 살펴볼 수도 있습니다. 평소에 저장소 센스를 켜 두고 임시 파일을 주기적으로 정리하는 습관이 공간 관리의 핵심입니다.
-
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>
@@ -78,3 +72,9 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
+
+## 5. 클라우드와 앱으로 추가 확보
+
+쓰지 않는 앱을 제거하거나, 큰 파일을 클라우드(원드라이브 등)로 옮기면 더 많은 공간을 확보할 수 있습니다. **저장 공간 → 앱 및 기능**에서 용량이 큰 앱을 찾아 제거할 수 있으며, 동기화 폴더를 두어 파일을 온라인에 보관하면 드라이브 공간을 절약할 수 있죠.
+
+또한 **설정 → 시스템 → 저장 공간 → 고급 저장소 설정**에서 드라이브별 항목을 세밀하게 살펴볼 수도 있습니다. 평소에 저장소 센스를 켜 두고 임시 파일을 주기적으로 정리하는 습관이 공간 관리의 핵심입니다.

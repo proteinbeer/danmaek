@@ -73,6 +73,17 @@ hideDescription: true
 
 무엇을 하지 않을지 정하는 것도 일정의 일부입니다. 선택과 집중의 무게는 이 게임의 가장 큰 재미이자, 여러 엔딩을 보기 위한 다회차의 이유이기도 합니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 무료 활동을 이동과 묶기
 
 활동 138개 중 66개는 아무 금액을 쓰지 않고 경험치와 전리품을 줍니다. 시계를 쓰지 않는 순수 이득이므로, 지나치는 길에 발견하면 바로 처리하는 편이 효율적입니다.
@@ -89,7 +100,7 @@ hideDescription: true
 
 마지막으로 결말 분기를 노린다면 최종 퀘스트 직전의 세이브를 남겨두세요. 시간이 다 되기 전의 지점에서 저장해 두면 같은 30일을 기준으로 다른 선택을 시도할 수 있어, 한 회차 정보를 다른 엔딩에 재활용할 수 있습니다. 여유는 실력이고, 계획은 곧 즐거움입니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>

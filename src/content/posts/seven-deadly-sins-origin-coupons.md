@@ -44,18 +44,6 @@ hideDescription: true
 | ORIGINDISCORD | 영웅 뽑기권 1개, 작은 큐브 열쇠 꾸러미 3개 |
 | ORIGINSTEAM | 영웅 뽑기권 1개, 상급 마스터리 EXP 10 |
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 2. 0.5주년 페스티벌 코드
 
 0.5주년 페스티벌과 함께 공개된 아래 코드들은 공개된 지 얼마 안 돼 9월 초 입력이 가능합니다. 보상은 우편함으로 지급되며, 선착순 소진 시 조기 종료될 수 있습니다.
@@ -63,6 +51,17 @@ hideDescription: true
 - 7DSORIGIN05HALF
 - 7DS05ANNIV
 - ORIGIN05TH
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 3. 코드 입력 방법
 
@@ -74,23 +73,22 @@ hideDescription: true
 4. 쿠폰 번호를 대소문자 구분해 입력하고 확인합니다.
 5. 게임 재접속 후 우편함에서 보상을 수령합니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 4. 계정당 1회 사용과 만료 코드 주의
 
 쿠폰은 계정당 1회 사용할 수 있으며 서버별로 중복 입력이 불가능합니다. 출시 직후 공개된 ORIGINX, ORIGINDISCORD, ORIGINSTEAM 등은 안내된 기간이 지났기 때문에 계정에 따라 만료됐을 수 있습니다.
 
 가장 확실한 건 0.5주년 코드 3종입니다. 우선 입력하고, 나머지는 오류가 나면 만료로 판단하시기 바랍니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 신규 코드 받는 법
 

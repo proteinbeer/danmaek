@@ -46,14 +46,6 @@ hideDescription: true
 
 따라서 변이 하나의 표기 수치만 보는 것이 아니라, 해당 고양이가 실제로 쓸 클래스의 주 능력치와 겹치는지 확인하는 판별이 중요합니다. 클래스 글에서 다룬 능력치 보정과 합쳐졌을 때 양수로 남는 조합이 사실상의 S급 기준입니다.
 
-## 3. 순수 이득 S급 변이와 묶음 조합
-
-커뮤니티에서 반복적으로 추천되는 방식은 짝을 이루는 변이를 함께 붙여 약점을 소거하는 묶음 조합입니다. 대표적인 예시가 곰 다리와 뾰족 귀 조합으로, 두 변이가 서로의 마이너스 능력치를 서로 보완하면서 실질적으로 추가 마이너스 없이 값진 보너스만 남게 만들 수 있습니다.
-
-이런 식으로 한 부위씩 묶음을 완성해가는 것이 S급 혈통을 만드는 기본 길입니다. 다리 계열은 속도와 기동성이 핵심이고, 귀 계열은 지능과 민첩에 강한 변이가 많아, 클래스의 니즈와 맞는 부위부터 채우는 것이 효율적입니다.
-
-묶음을 설계할 때는 목걸이 해금 순서와도 연결됩니다. 가령 탐지나 우회 공격이 필요한 후반 지역을 노린다면 방어를 깎는 변이를 피하고, 초반 사냥 중심이라면 속도 관련 묶음부터 채우는 방식으로 선택하면 됩니다.
-
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
@@ -65,6 +57,14 @@ hideDescription: true
   </div>
 </div>
 
+## 3. 순수 이득 S급 변이와 묶음 조합
+
+커뮤니티에서 반복적으로 추천되는 방식은 짝을 이루는 변이를 함께 붙여 약점을 소거하는 묶음 조합입니다. 대표적인 예시가 곰 다리와 뾰족 귀 조합으로, 두 변이가 서로의 마이너스 능력치를 서로 보완하면서 실질적으로 추가 마이너스 없이 값진 보너스만 남게 만들 수 있습니다.
+
+이런 식으로 한 부위씩 묶음을 완성해가는 것이 S급 혈통을 만드는 기본 길입니다. 다리 계열은 속도와 기동성이 핵심이고, 귀 계열은 지능과 민첩에 강한 변이가 많아, 클래스의 니즈와 맞는 부위부터 채우는 것이 효율적입니다.
+
+묶음을 설계할 때는 목걸이 해금 순서와도 연결됩니다. 가령 탐지나 우회 공격이 필요한 후반 지역을 노린다면 방어를 깎는 변이를 피하고, 초반 사냥 중심이라면 속도 관련 묶음부터 채우는 방식으로 선택하면 됩니다.
+
 ## 4. 변이 상속과 세대 이어가기
 
 변이는 번식 단계에서 새끼에게 유전될 확률이 있으며, 부모가 가진 변이가 많을수록 좋은 변이가 함께 이어질 가능성이 높아집니다. 반대로 부모가 페널티 변이만 든 경우 새끼가 그대로 물려받아 혈통 전체가 약해질 수 있습니다.
@@ -72,6 +72,17 @@ hideDescription: true
 세대를 이어갈 때는 단순히 크기가 큰 개체를 뽑는 것보다 변이의 방향을 보고 선택하는 편이 좋습니다. 어차피 전투 레벨링은 개체마다 새로 시작되므로, 번식 단계의 유전 요소인 기본 능력치와 변이가 세대 축적의 핵심입니다.
 
 여러 부위에 걸쳐 원하는 묶음을 모두 채우려면 두어 세대는 잡아야 합니다. 매 세대 만들고 버리기를 반복하다 보면 그 사이 근친 상태가 쌓일 수 있으니, 길고양이를 번갈아 섞어 혈통 거리를 유지하며 진행하는 것이 안정적입니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 질환과 돌연변이의 차이
 
@@ -92,7 +103,7 @@ hideDescription: true
 
 이렇게 관리하면 한두 번의 해금과 번식 단계만으로 원하는 묶음 조합을 채울 수 있습니다. 변이는 외형으로 바로 보이기 때문에, 혈통 관리에 익숙해지면 원하는 비주얼의 고양이를 설계하면서 강한 능력치까지 확보하는 재미가 있습니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>

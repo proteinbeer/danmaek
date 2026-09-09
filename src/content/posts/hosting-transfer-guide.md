@@ -4,15 +4,15 @@ description: "파일과 데이터베이스 백업부터 DNS 변경까지, 사이
 date: 2026-08-23
 updated: 2026-08-23
 category: "가이드"
-subcategory: "호스팅"
+subcategory: "네트워크"
 tags:
   - "호스팅 이전"
   - "마이그레이션"
   - "DNS"
   - "워드프레스 이전"
   - "백업"
-image: "/assets/posts/guide-images/hosting-guide.jpg"
-imageAlt: "서버 간 데이터백업과 호스팅 이전 개념"
+image: "/assets/posts/guide-images/network-guide-common.jpg"
+imageAlt: "호스팅 이전을 위해 서버 간 데이터를 옮기는 네트워크 구조"
 imageWidth: 1200
 imageHeight: 675
 hideHeroImage: true
@@ -27,7 +27,7 @@ hideDescription: true
 
 실상은 파일과 데이터베이스를 옮기고 도메인 주소만 바꾸면 되는데, 순서만 지키면 사이트가 죽지 않은 채 1시간 안에 끝납니다. 이 글에서 그 순서를 차례대로 정리했으니 천천히 따라오시면 됩니다.
 
-<img class="post-landscape-image" src="/assets/posts/guide-images/hosting-guide.jpg" alt="서버 간 데이터백업과 호스팅 이전 개념" width="1200" height="675" loading="lazy" decoding="async" />
+<img class="post-landscape-image" src="/assets/posts/guide-images/network-guide-common.jpg" alt="호스팅 이전을 위해 서버 간 데이터를 옮기는 네트워크 구조" width="1200" height="675" loading="lazy" decoding="async" />
 
 ## 1. 이전 전에 미리 준비할 것
 
@@ -83,6 +83,17 @@ hideDescription: true
 
 네임서버 변경 후 주소가 남아있는지 확인하려면 커맨드에서 `nslookup` 명령으로 검사해볼 수 있습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 이전 후 확인할 것
 
 주소가 새 서버를 가리키기 시작하면 아래 항목을 차례로 점검합니다.
@@ -104,7 +115,7 @@ hideDescription: true
 
 이전 전 백업 파일은 복귀가 완전히 끝난 뒤에도 한 번 더 보관해두세요. 호스팅을 옮기면 같은 실수를 반복하지 않도록, 다음 이전을 위해 백업 절차를 메모로 남겨두면 더 좋습니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>

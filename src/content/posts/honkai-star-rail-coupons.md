@@ -44,18 +44,6 @@ hideDescription: true
 
 OMEGA, CREATIONNYMPH, FAREWELL, IFYOUAREREADINGTHIS 네 개는 현재 버전에서 각각 성옥 60과 연료 1을 주는 것으로 확인됐습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 STARRAILGIFT는 오랫동안 유효한 상시 코드로 신규·복귀 유저에게 특히 권장됩니다. 나머지 코드는 시기에 따라 만료될 수 있으므로 확인되는 대로 바로 입력해두는 편이 좋습니다.
 
 ## 2. 입력 방법 (게임 내 리딤코드)
@@ -65,6 +53,17 @@ STARRAILGIFT는 오랫동안 유효한 상시 코드로 신규·복귀 유저에
 게임 접속 후 화면 좌측 상단의 **휴대폰 아이콘**을 클릭하고, 프로필 화면에서 닉네임 옆의 **점 세 개(···) 버튼**을 선택합니다. 나타나는 메뉴의 **리딤코드**에 코드를 입력하면 됩니다.
 
 아이폰(iOS)은 앱 정책상 게임 내 입력이 제한될 수 있습니다. 이 경우 아래 공식 홈페이지 방법을 이용하시기 바랍니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 3. 공식 홈페이지에서 입력하는 방법
 
@@ -78,12 +77,11 @@ STARRAILGIFT는 오랫동안 유효한 상시 코드로 신규·복귀 유저에
 
 새 코드를 놓치지 않으려면 공식 유튜브, X(트위터), 호요랩 공지를 주기적으로 확인하는 것이 가장 확실합니다. 이 글의 목록도 새 코드가 나오면 계속 갱신하도록 하겠습니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->

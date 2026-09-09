@@ -37,18 +37,6 @@ hideDescription: true
 | --- | --- | --- |
 | WELCOME2ERINN | 캣 보이저 헬멧 의상 | 2026년 9월 22일 23:59까지 |
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 WELCOME2ERINN은 영문 대문자와 숫자로 이루어진 코드입니다. 기한이 9월 22일까지이므로 (게임 내 쿠폰 메뉴 / 공식 사이트)
 
 마비노기 모바일은 게임 내 쿠폰 메뉴 또는 넥슨 공식 쿠폰 사이트에서 입력합니다.
@@ -66,20 +54,19 @@ WELCOME2ERINN은 영문 대문자와 숫자로 이루어진 코드입니다. 기
 
 WELCOME2CAMPFIRE, PLAYNEWSEAS0N 같은 이전 코드는 7월에 만료됐으므로 입력하실 필요가 없습니다.
 
-## 4. 문자 입력 시 오타 주의
-
-쿠폰 코드는 숫자 0과 영문 O가 비슷해 오타가 나기 쉽습니다. 복사 붙여넣기를 쓰면 오타를 막을 수 있습니다.
-
-입력 후 보상이 보이지 않으면 게임을 재시작하고 우편함을 다시 확인해주시기 바랍니다.
-
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
+
+## 4. 문자 입력 시 오타 주의
+
+쿠폰 코드는 숫자 0과 영문 O가 비슷해 오타가 나기 쉽습니다. 복사 붙여넣기를 쓰면 오타를 막을 수 있습니다.
+
+입력 후 보상이 보이지 않으면 게임을 재시작하고 우편함을 다시 확인해주시기 바랍니다.

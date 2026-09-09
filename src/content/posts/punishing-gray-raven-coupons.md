@@ -39,18 +39,6 @@ hideDescription: true
 | PGR2026 | 블랙 카드 150, 세럼 번들 β(M) 2개 | 만료 기한 없음, 8월 기준 확정 |
 | NEWROSETTA0203 | 블랙 카드 150, 세럼 번들 β(M) 2개 | 만료 기한 없음, 8월 기준 확정 |
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 두 코드 모두 정식 출시 또는 캐릭터 출시 기념으로 배포됐으며 (게임 내 알림 패널)
 
 퍼니싱은 게임 내부에서 코드를 교환합니다.
@@ -68,20 +56,19 @@ PGR2026, NEWROSETTA0203는 글로벌 버전에서 사용 가능한 코드입니�
 
 대만 서버 전용 코드(HAPPY6THBIRTHDAY 등)는 국내에서 입력해도 반응하지 않으니 주의하시기 바랍니다.
 
-## 4. 만료 코드와 방송 코드 구분
-
-기념일이나 방송에서 공개된 일부 코드는 며칠 안에 만료됩니다. 안내에 사용 가능이라고 적혀 있어도 날짜가 오래됐다면 재확인이 필요합니다.
-
-최신 코드는 공식 라운지와 갱신이 빠른 매체를 함께 보는 편이 안전하죠.
-
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
+
+## 4. 만료 코드와 방송 코드 구분
+
+기념일이나 방송에서 공개된 일부 코드는 며칠 안에 만료됩니다. 안내에 사용 가능이라고 적혀 있어도 날짜가 오래됐다면 재확인이 필요합니다.
+
+최신 코드는 공식 라운지와 갱신이 빠른 매체를 함께 보는 편이 안전하죠.

@@ -30,7 +30,6 @@ hideDescription: true
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/steam-home.jpg" alt="스팀 홈 화면 공유 이미지" width="1200" height="630" loading="lazy" decoding="async" />
 
-
 ## 1. 기본 조건은 14일과 2시간
 
 스팀 게임과 소프트웨어는 구매 후 14일 이내, 플레이 시간이 2시간 미만이면 환불을 요청할 수 있습니다. 게임이 마음에 들지 않거나 컴퓨터 사양이 부족한 경우, 실수로 구매한 경우도 환불 사유가 될 수 있습니다
@@ -54,9 +53,8 @@ hideDescription: true
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
@@ -85,8 +83,7 @@ hideDescription: true
 
 결국 구매 후 14일 안이고 플레이 시간이 2시간 미만이면 가장 확실하고, 조건을 조금 넘겼다면 환불 사유를 적어서 한 번 신청해보시면 됩니다.
 
-
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>

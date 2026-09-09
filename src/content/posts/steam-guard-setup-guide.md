@@ -47,9 +47,8 @@ PC에서 스팀 클라이언트를 실행한 뒤 왼쪽 상단의 **상단 메�
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
@@ -72,13 +71,7 @@ PC에서 스팀 클라이언트를 실행한 뒤 왼쪽 상단의 **상단 메�
 
 아이템 거래를 자주 하거나 게임을 여러 기기에서 즐기는 사람이라면 이메일 협정 인증으로는 코드가 이메일로 오는 동안 기다려야 해서 불편할 수 있습니다. 이런 경우 모바일 인증기가 훨씬 빠르고 안전합니다. 설령 이메일 계정이 유출되더라도 모바일 인증 코드는 핸드폰에만 존재하기 때문입니다.
 
-## 5. 설정 후 잊지 말아야 할 것
-
-스팀 가드를 켰다고 끝이 아니라, 이후에 지켜야 할 습관이 있습니다. 이메일 계정 보호와 비밀번호 관리는 스팀 가드와 별개로 꾸준히 신경 써야 합니다.
-
-스팀 가드를 켠 뒤에도 다음을 꼭 기억하세요. 첫째, 다른 사이트와 스팀에 같은 비밀번호를 쓰지 마십시오. 둘째, 이메일에도 2단계 인증을 걸어 스팀 가드의 약점을 막으십시오. 셋째, 지인이나 판매자가 "계정을 확인해달라"며 코드를 요구하면 절대 절대 알려주지 마십시오. 스팀과 밸브는 어떤 경우에도 플레이어에게 인증 코드를 요구하지 않습니다.
-
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>
@@ -88,3 +81,9 @@ PC에서 스팀 클라이언트를 실행한 뒤 왼쪽 상단의 **상단 메�
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
+
+## 5. 설정 후 잊지 말아야 할 것
+
+스팀 가드를 켰다고 끝이 아니라, 이후에 지켜야 할 습관이 있습니다. 이메일 계정 보호와 비밀번호 관리는 스팀 가드와 별개로 꾸준히 신경 써야 합니다.
+
+스팀 가드를 켠 뒤에도 다음을 꼭 기억하세요. 첫째, 다른 사이트와 스팀에 같은 비밀번호를 쓰지 마십시오. 둘째, 이메일에도 2단계 인증을 걸어 스팀 가드의 약점을 막으십시오. 셋째, 지인이나 판매자가 "계정을 확인해달라"며 코드를 요구하면 절대 절대 알려주지 마십시오. 스팀과 밸브는 어떤 경우에도 플레이어에게 인증 코드를 요구하지 않습니다.

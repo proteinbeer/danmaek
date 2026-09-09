@@ -44,6 +44,8 @@ hideDescription: true
 
 파일 탐색기 설정도 일반 사용자용 기본값과 다릅니다. 파일 확장자와 숨김 파일을 표시하고 제목 표시줄에서 전체 경로를 볼 수 있게 하며 긴 경로 지원도 켭니다.
 
+반대로 최근 사용 파일, 동기화 제공자 안내, 시작 메뉴의 계정 알림처럼 개발 흐름을 끊을 수 있는 요소는 줄입니다. 작은 설정이지만 새 PC마다 반복해서 바꾸던 사람에게는 시간을 꽤 아껴주는 부분입니다.
+
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
@@ -54,8 +56,6 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-반대로 최근 사용 파일, 동기화 제공자 안내, 시작 메뉴의 계정 알림처럼 개발 흐름을 끊을 수 있는 요소는 줄입니다. 작은 설정이지만 새 PC마다 반복해서 바꾸던 사람에게는 시간을 꽤 아껴주는 부분입니다.
 
 ## 3. 64GB 메모리가 기본선이 된 이유
 
@@ -73,7 +73,16 @@ hideDescription: true
 
 마이크로소프트가 로컬 실행을 사용량 제한 없는 방식이라고 강조한 이유도 여기에 있습니다. PC를 산 뒤 모델 실행 횟수가 늘어난다고 별도의 토큰 요금이 붙지는 않기 때문입니다.
 
-<img class="post-landscape-image" src="/assets/posts/news-images/project-zenith-2026-campus-02.jpg" alt="마이크로소프트 레드몬드 캠퍼스 전경" width="1280" height="853" loading="lazy" decoding="async" />
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 개발자 PC가 다시 별도 시장이 될까
 
@@ -88,14 +97,3 @@ AI 개발 때문에 필요한 메모리와 대역폭이 크게 올라가면서 �
 결국 새 하드웨어의 핵심 가치는 아이콘 배치가 아니라 64GB 이상의 통합 메모리와 높은 대역폭에서 나옵니다. 소프트웨어 구성은 따라 할 수 있어도 큰 로컬 모델을 빠르게 돌리는 하드웨어 조건까지 쉽게 복제되지는 않기 때문입니다.
 
 가격과 구체적인 출시 모델은 아직 모두 공개되지 않았습니다. 따라서 프로젝트 제니스를 당장 구매 가능한 새 윈도우 제품군으로 보기보다 마이크로소프트가 제시한 개발자 PC의 새로운 기준에 가깝게 보는 편이 정확합니다.
-
-<div style="margin: 40px 0 28px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

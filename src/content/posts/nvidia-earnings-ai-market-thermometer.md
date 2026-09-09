@@ -54,8 +54,6 @@ hideDescription: true
 
 실적 발표의 질문이 돈을 많이 벌었느냐가 아니라 시장의 기대를 계속 뛰어넘을 수 있느냐로 바뀐 겁니다.
 
-<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/nvidia-earnings-ai-market-thermometer/02-blackwell-rack.jpg" alt="NVIDIA 블랙웰 GPU 랙" loading="lazy" />
-
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
@@ -87,7 +85,16 @@ hideDescription: true
 
 그래서 이번 실적에서는 현재 판매량만큼 다음 세대 제품과 추론 시장에서의 위치도 중요합니다.
 
-<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/nvidia-earnings-ai-market-thermometer/03-nvidia-datacenter.jpg" alt="AI 데이터센터 서버 랙" loading="lazy" />
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 인공지능 거품 논쟁이 실적마다 반복되는 이유
 
@@ -98,16 +105,3 @@ hideDescription: true
 엔비디아 실적이 좋아도 거품 논쟁이 끝나지 않는 이유는 반도체 판매가 늘어난 것과 그 반도체를 산 회사들이 투자금을 충분히 회수하는 것은 다른 문제이기 때문입니다. 결국 인공지능 서비스가 데이터센터 비용보다 더 큰 수익을 만들어야 긴 투자 사이클이 유지되죠.
 
 사실 엔비디아 실적은 그 과정의 앞부분을 확인하는 시험입니다. 당장 반도체 수요가 강한지 보여줄 수는 있지만 인공지능 산업 전체의 최종 수익성을 증명하는 것은 아니라는 점까지 함께 보셔야하죠.
-
-<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/nvidia-earnings-ai-market-thermometer/04-ai-bubble-debate.jpg" alt="AI 거품 논쟁 뉴스 보도" loading="lazy" />
-
-<div style="margin: 40px 0 28px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

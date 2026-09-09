@@ -43,18 +43,6 @@ AFK 아레나 쿠폰은 교환 코드 형태로 배포되며, 대부분 다이�
 | AFK-3WQZ4-6XSH | 교환 가능 확인 |
 | AFK-7HLPV-H4SA | 교환 가능 확인 |
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 최근에 확인된 코드 위주로 정리했습니다. 계정당 1회만 사용할 수 있고 (공식 교환 사이트)
 
 AFK 아레나 쿠폰은 공식 교환 사이트에서 입력합니다. 주소는 cdkey.lilith.com/afk-global입니다.
@@ -73,6 +61,17 @@ AFK 아레나에 접속한 뒤 화면 좌측 상단의 **프로필 아이콘**�
 
 UID를 잘못 입력하면 인증번호를 받을 수 없으므로, 화면에 표시된 숫자를 그대로 복사 붙여넣기 하는 편이 안전합니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 4. 계정당 1회, 만료 날짜를 확인
 
 AFK 아레나 쿠폰은 대부분 계정당 1회만 사용할 수 있습니다. 만료일이 공개된 코드도 있고, 미공개로 교환 가능 여부가 확인되지 않는 코드도 있죠.
@@ -80,15 +79,3 @@ AFK 아레나 쿠폰은 대부분 계정당 1회만 사용할 수 있습니다. 
 교환 코드는 새 이벤트나 업데이트 때마다 배포됩니다. 빠르게 소비되는 편이라 공식 커뮤니티와 교환 사이트를 주기적으로 확인하는 것이 좋습니다.
 
 교환한 다이아는 우편함 보존 기간이 지나면 사라질 수 있으니, 보상이 도착하면 바로 수령해두는 편이 좋습니다.
-
-<div style="margin: 40px 0 28px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

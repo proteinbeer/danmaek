@@ -41,18 +41,6 @@ hideDescription: true
 | ENDFIELDGIFT | 오로베릴 150, 탈로시안 화폐 10,000, 중급 작전 기록 20, 무기 점검 장치 20 | 웰컴 상시 |
 | ENDFIELD4PC | 탈로시안 화폐 13,000, 고급 작전 기록 2, 무기 점검 세트 2 | PC 전용 |
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ENDFIELDGIFT는 웰컴 상시 코드로 오로베릴을 받을 수 있어 가장 먼저 입력할 가치가 있습니다. ENDFIELD4PC는 PC 클라이언트에서만 입력되는 코드이니 (게임 내 교환 코드)
 
 명일방주 엔드필드 쿠폰은 게임 안에서 바로 입력할 수 있습니다.
@@ -67,20 +55,19 @@ ENDFIELDGIFT는 웰컴 상시 코드로 오로베릴을 받을 수 있어 가장
 
 엔드필드와 원작은 별개의 게임이므로 코드도 서로 통용되지 않습니다. 어느 게임에서 받은 코드인지 확인하고 입력하는 편이 좋죠.
 
-## 4. 코드별 입력 환경과 유효 기간 주의
-
-엔드필드 코드는 대부분 모바일과 PC 모두에서 입력할 수 있지만, PC 전용 코드는 모바일에서 입력이 불가능합니다.
-
-출시 초기에 배포된 ALLFIELD, RETURNOFALL 같은 코드는 이미 만료된 상태입니다. 신규 코드는 업데이트와 라이브 방송 때마다 공개되므로, 공식 네이버 라운지와 디스코드 공지를 확인하다 보면 새 소식을 빠르게 받아볼 수 있죠.
-
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
+
+## 4. 코드별 입력 환경과 유효 기간 주의
+
+엔드필드 코드는 대부분 모바일과 PC 모두에서 입력할 수 있지만, PC 전용 코드는 모바일에서 입력이 불가능합니다.
+
+출시 초기에 배포된 ALLFIELD, RETURNOFALL 같은 코드는 이미 만료된 상태입니다. 신규 코드는 업데이트와 라이브 방송 때마다 공개되므로, 공식 네이버 라운지와 디스코드 공지를 확인하다 보면 새 소식을 빠르게 받아볼 수 있죠.

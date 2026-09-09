@@ -49,9 +49,8 @@ hideDescription: true
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
@@ -70,6 +69,17 @@ hideDescription: true
 
 경험상 3회 정도에서 판단을 내리는 경우가 많습니다. 3회 안에 SS~S 직업이라면 바로 진행하고, 계속 기대에 못 미치면 두 번째 캐릭터 슬롯으로 넘어가는 것도 하나의 방법입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 리세 후 체크할 시스템
 
 리세가 끝나고 첫날은 가이드 퀘스트를 우선 밀면서 시스템을 여는 데 집중합니다. 맵 돌파 퀘스트는 초반 경험치 제공량이 커서 가이드 퀘스트가 곧 성장 루프입니다.
@@ -82,12 +92,11 @@ hideDescription: true
 
 처음부터 티어만 따라가다 지치는 유저도 많습니다. 게임을 오래 즐기려면 사냥 화면에서의 만족감이 무척 중요하므로, 등급표와 취향 사이에서 균형을 맞추는 것이 현명한 선택입니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->

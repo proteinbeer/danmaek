@@ -80,7 +80,7 @@ hideDescription: true
 
 마우스가 되는 바이오스가 많지만, 방향키와 엔터, Esc로 모든 항목을 조작할 수 있으니 키보드만으로도 충분합니다. 실수로 설정을 바꿨다면 **Load Optimized Defaults(기본값 복원)**로 되돌리면 됩니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>

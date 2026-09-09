@@ -63,8 +63,6 @@ hideDescription: true
 
 오버워치가 한국에서 다시 힘을 얻으려면 실제 게임플레이도 중요하겠지만, 남의 이야기가 아닌 우리 이야기를 하는 캐릭터가 나온다는 것 자체의 효과가 큽니다.
 
-<img class="post-landscape-image" src="/assets/posts/news-images/overwatch-daimon-02.jpg" alt="오버워치 디몬 게임 플레이 하이라이트" width="1280" height="720" loading="lazy" decoding="async" />
-
 ## 4. 디몬은 어떤 모습일까
 
 공개된 티저에서 확인할 수 있는 것은 제한적입니다. 빨간 메카를 탄 디몬이 검을 휘두르며 전투를 벌이는 흐름 정도가 전부죠.
@@ -91,16 +89,3 @@ hideDescription: true
 그동안 오버워치에 대한 국내 관심은 지속적으로 줄어드는 분위기였습니다. 그런 시점에 한국 영웅, 한국 퍼블리셔, 한국 오프라인 행사가 한꺼번에 묶인 것은 한국 시장을 다시 붙들기 위한 의지로 볼 수 있습니다.
 
 정식 트레일러에서 디몬이 실제로 어떤 게임플레이를 보여줄지가 이번 관심이 어디까지 이어질지를 가르는 기준이 될 것입니다. 지금은 과연 53번째 영웅이 한국에서 큰 힘을 받을 수 있을지, 그리고 그 파동이 오버워치 전체의 분위기를 바꿀 수 있을지 지켜볼 때입니다.
-
-<img class="post-landscape-image" src="/assets/posts/news-images/overwatch-daimon-03.jpg" alt="오버워치 디몬 공식 아트" width="1280" height="720" loading="lazy" decoding="async" />
-
-<div style="margin: 40px 0 28px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

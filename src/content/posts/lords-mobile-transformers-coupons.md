@@ -45,18 +45,6 @@ hideDescription: true
 | TRANSFORMERSGIFT | 트랜스포머 콜라보 특별 보상 | - |
 | TFRACEWAY | 트랜스포머 이벤트 보상 | - |
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 2. 최근 공개된 콜라보·기념 코드
 
 콜라보와 기념일로 공개된 추가 코드들도 있습니다. 아래 코드는 검증 시점별로 유효 여부가 달라 입력이 실패하면 만료로 보면 됩니다.
@@ -65,6 +53,17 @@ hideDescription: true
 - LM7THANNIVERSARY
 - LMROLLOUT
 - WELCOMEDEFENDER
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 3. 코드 입력 방법
 
@@ -77,23 +76,22 @@ hideDescription: true
 
 웹으로 입력할 경우 lordsmobile.igg.com/gifts/ 에 접속해 IGG ID로 로그인한 뒤 같은 코드를 입력하면 됩니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 4. 계정당 1회 사용과 만료 코드 주의
 
 로드모바일 코드는 계정당 1회만 사용할 수 있고 대소문자를 구분합니다. 코드 앞뒤에 공백이 들어가지 않도록 그대로 복사해 붙여넣는 편이 좋습니다.
 
 유효 기간이 정확히 안내되지 않는 코드가 많고, 잔여 수량이 소진되면 조기 종료되기도 합니다. 특히 KINGSWORLDS는 9월 9일까지이니 최대한 빨리 입력하시기 바랍니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 신규 코드 받는 법
 

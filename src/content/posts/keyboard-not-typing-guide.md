@@ -84,6 +84,17 @@ hideDescription: true
 
 이물질이 원인이라면 청소만으로 해결됩니다. 청소 후에도 동일하다면 해당 스위치의 수명이 다했다고 보시면 됩니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 아무것도 안 눌리는 그 순간, 긴급 확인
 
 입력이 완전히 멈추었을 때는 "키보드가 잠겼는지"부터 확인해야 합니다.
@@ -94,14 +105,3 @@ hideDescription: true
 - 재부팅 후에도 안 된다면 다른 컴퓨터에 연결해 하드웨어 이상 여부를 판단합니다.
 
 키보드는 대부분 재부팅으로 복구되는 일시적 오류가 많습니다. 그래도 같은 문제가 반복된다면 장치 제거 → 재부팅까지 해보시기 바랍니다.
-
-<div style="margin: 40px 0 28px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

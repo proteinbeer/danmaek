@@ -66,8 +66,6 @@ hideDescription: true
 
 일반 공격과 스킬을 사용하는 동시에 적의 약점을 공략하거나 주변 환경을 활용해 허구를 무력화하는 방식도 설명됐습니다. 거대한 규모의 허구와 연이어 맞서는 보스 전투와 빠른 템포의 액션도 구현 대상입니다.
 
-<img class="post-landscape-image" src="/assets/posts/news-images/krafton-wpca-02.jpg" alt="WPCA 전투 플레이 화면" width="1280" height="720" loading="lazy" decoding="async" />
-
 ## 4. 최대 3인 협동
 
 핵심 플레이는 최대 3인의 협동 사냥입니다. 친구와 함께 허구를 추적하고, 역할을 나눠 전투를 벌이는 것에서 재미가 나옵니다.
@@ -75,14 +73,6 @@ hideDescription: true
 싱글 플레이도 가능하지만, 3인이 모였을 때 강력한 허구를 상대하는 긴장감과, 사냥 후 재료를 나눠 갖는 성장 사이클은 협동 플레이에 최적화된 설계로 보입니다.
 
 파티 플레이가 정착되면 몬스터 헌터처럼 각 플레이어가 맡은 역할과 빌드의 조합이 중요해질 전망입니다. 여기에 획득한 재료로 무기를 만들어 빌드를 꾸리는 구조까지 더해지면, 반복 플레이의 동기가 분명해집니다.
-
-## 5. 템빨 용사 키우기에서 신작으로
-
-5민랩은 템빨 용사 키우기로 이름을 알린 스튜디오입니다. 전작은 글로벌 누적 100만 다운로드를 돌파하며 캐주얼 장르의 흥행을 경험했습니다.
-
-이번 WPCA는 그 경험을 바탕으로 완전히 다른 장르의 글로벌 신작을 노립니다. 캐주얼 방치형에서 대형 협동 액션으로 도약하는 것이죠. 스튜디오의 규모와 경험이 아직 길지 않은 상황에서 데뷔작급 신작으로 글로벌 쇼케이스에 나선 점은 주목할 만합니다.
-
-10월에는 첫 테스트 일정과 참가 방법 등 세부 내용이 공개될 예정입니다. 이 테스트에서 협동 플레이의 완성도를 직접 확인할 수 있게 됩니다.
 
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
@@ -95,6 +85,14 @@ hideDescription: true
   </div>
 </div>
 
+## 5. 템빨 용사 키우기에서 신작으로
+
+5민랩은 템빨 용사 키우기로 이름을 알린 스튜디오입니다. 전작은 글로벌 누적 100만 다운로드를 돌파하며 캐주얼 장르의 흥행을 경험했습니다.
+
+이번 WPCA는 그 경험을 바탕으로 완전히 다른 장르의 글로벌 신작을 노립니다. 캐주얼 방치형에서 대형 협동 액션으로 도약하는 것이죠. 스튜디오의 규모와 경험이 아직 길지 않은 상황에서 데뷔작급 신작으로 글로벌 쇼케이스에 나선 점은 주목할 만합니다.
+
+10월에는 첫 테스트 일정과 참가 방법 등 세부 내용이 공개될 예정입니다. 이 테스트에서 협동 플레이의 완성도를 직접 확인할 수 있게 됩니다.
+
 ## 6. 2028년까지 남은 과제
 
 출시까지는 시간이 있습니다. 2028년 3분기가 목표인 만큼, 지금은 첫 공개에 가까운 단계입니다. 협동 액션 장르는 전투의 손맛과 사냥의 긴장감이 재미를 좌우하는데, 이 부분이 실제로 체감되려면 테스트의 완성도를 지켜봐야 합니다.
@@ -103,9 +101,7 @@ hideDescription: true
 
 서울이 게임의 무대로 충분히 매력적으로 그려지는지, 그리고 3인 협동 사냥이 헌팅 장르의 팬들을 사로잡을 수준인지가 WPCA의 향방을 결정할 것입니다.
 
-<img class="post-landscape-image" src="/assets/posts/news-images/krafton-wpca-03.jpg" alt="세계허구관리연맹 WPCA 공식 아트" width="1280" height="720" loading="lazy" decoding="async" />
-
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>

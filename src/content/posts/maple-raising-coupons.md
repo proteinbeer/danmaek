@@ -39,18 +39,6 @@ hideDescription: true
 | --- | --- | --- |
 | PINKBEANATTACK | 동료 소환권 300개 | 2026-10-14 23:59 |
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 직전에 배포된 GIFT300 같은 쿠폰은 이미 기간이 만료됐죠. GIFT300은 8월 14일부터 9월 2일까지 진행된 업데이트 기념 쿠폰으로 (안드로이드와 PC)
 
 안드로이드와 PC(에뮬레이터) 버전은 게임 안에서 바로 쿠폰을 입력할 수 있습니다. 별도 사이트에 접속할 필요가 없죠.
@@ -67,6 +55,17 @@ hideDescription: true
 
 코드를 입력한 뒤에는 보상을 받을 서버와 캐릭터를 정확히 선택하고 등록합니다. 게임을 다시 실행하거나 재접속하면 우편함에서 보상을 확인할 수 있습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 4. 보상은 우편함에서, 계정당 1회
 
 메이플 키우기 쿠폰은 모두 계정당 1회만 사용할 수 있죠. 이미 입력한 코드를 다시 넣으면 사용할 수 없다는 안내가 나옵니다.
@@ -74,15 +73,3 @@ hideDescription: true
 쿠폰으로 받는 보상은 인벤토리에 바로 들어가지 않고 게임 내 우편함으로 지급됩니다. 따라서 입력한 뒤에는 반드시 우편함에 들어가 보상을 수령해야 합니다. 우편함에도 보존 기간이 있으니 오래 방치하면 사라질 수 있습니다.
 
 이 밖에도 넥슨 공식 포럼과 커뮤니티에 새 쿠폰이 올라오기 때문에, 새 코드가 뜨면 빠르게 확인해서 바로 사용하는 편이 좋습니다. 쿠폰 유효 기간은 짧게 책정되는 경우가 많아서 늦게 발견하면 입력할 수 없게 되죠.
-
-<div style="margin: 40px 0 28px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

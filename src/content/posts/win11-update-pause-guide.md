@@ -62,13 +62,7 @@ hideDescription: true
 
 홈 에디션에서는 그룹 정책이 제공되지 않아 레지스트리 편집(regedit)으로 업데이트 서비스 문제를 조정하기도 하지만, 이는 권장되지 않습니다. 전문적인 지식 없이 시스템 파일을 건드리면 윈도우가 손상될 수 있으므로, 일반 사용자는 설정의 일시중지와 활동 시간을 활용하는 편이 안전합니다.
 
-## 5. 일시중지 후 체크리스트
-
-업데이트를 일시중지했다면, 꼭 다시 업데이트를 확인하도록 기억해 두는 것이 중요합니다. 일시중지 기간이 끝나는 날짜를 미리 파악해 두고, 여유가 있을 때 **업데이트 다시 시작**을 눌러 최신 보안 패치를 적용하면 됩니다.
-
-또한 중요한 작업이 끝난 뒤에는 일시중지를 해제하지 않아도 Windows가 다시 업데이트를 확인하므로, 평소에는 굳이 차단할 필요가 없습니다. 보안 패치가 밀리지 않도록 업데이트를 최신 상태로 유지하는 습관이 가장 좋습니다.
-
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>
@@ -78,3 +72,9 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
+
+## 5. 일시중지 후 체크리스트
+
+업데이트를 일시중지했다면, 꼭 다시 업데이트를 확인하도록 기억해 두는 것이 중요합니다. 일시중지 기간이 끝나는 날짜를 미리 파악해 두고, 여유가 있을 때 **업데이트 다시 시작**을 눌러 최신 보안 패치를 적용하면 됩니다.
+
+또한 중요한 작업이 끝난 뒤에는 일시중지를 해제하지 않아도 Windows가 다시 업데이트를 확인하므로, 평소에는 굳이 차단할 필요가 없습니다. 보안 패치가 밀리지 않도록 업데이트를 최신 상태로 유지하는 습관이 가장 좋습니다.

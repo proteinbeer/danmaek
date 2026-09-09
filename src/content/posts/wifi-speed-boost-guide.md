@@ -24,13 +24,11 @@ hideDescription: true
   이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
 </p>
 
-
 인터넷 요금제를 올렸는데도 와이파이가 여전히 느리다면 공유기 설정이 병목일 수 있습니다. 스마트폰과 PC가 모두 Wi-Fi 6를 지원한다고 해도 공유기 설정이 최적화되지 않으면 대역폭을 살리지 못하죠.
 
 특히 2.4GHz 대역은 간섭이 많아 속도가 떨어지는 경우가 많습니다. 5GHz로 전환하고 채널·QoS를 정리하면 별도의 비용 없이 체감 속도가 달라질 수 있습니다.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/network-guide-common.jpg" alt="와이파이 공유기와 네트워크 환경" width="1200" height="675" loading="lazy" decoding="async" />
-
 
 ## 1. 2.4GHz와 5GHz의 차이
 
@@ -51,17 +49,6 @@ hideDescription: true
 
 관리자 비밀번호를 모른다면 공유기 초기화 버튼을 이용해 재시작하면 기본 비밀번호로 되돌아가지만, 설정 전체가 초기화되므로 주의해서 사용하시기 바랍니다.
 
-## 3. 5GHz 전환과 채널 변경
-
-무선 설정에서 5GHz 대역을 켜고 채널을 지정하면 간섭이 크게 줄어듭니다.
-
-- 스마트폰이나 PC의 와이파이 목록에서 5GHz용 SSID(이름)를 확인하고 연결합니다.
-- **2.4GHz 채널**은 서로 겹치지 않는 **1, 6, 11** 중 하나로 설정합니다. 주변 공유기가 사용하는 채널을 확인하려면 와이파이 분석 프로그램을 쓰면 됩니다.
-- **5GHz 채널**은 **36, 40, 44, 48** 같은 낮은 번호를 권장합니다. 주변 네트워크와 겹칠 경우 다른 채널로 바꿔보시면 됩니다.
-- 채널 대역폭은 기본값(보통 20/40MHz 또는 80MHz)을 유지하되, 안정성을 원하면 20MHz로 고정하는 방법도 있습니다.
-
-채널 변경은 미리 알람이 뜨는 와이파이 연결이 잠깐 끊겼다가 다시 연결되므로, 작업 중인 기기가 있으면 잠깐 기다렸다가 진행하시기 바랍니다.
-
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
@@ -73,6 +60,17 @@ hideDescription: true
   </div>
 </div>
 
+## 3. 5GHz 전환과 채널 변경
+
+무선 설정에서 5GHz 대역을 켜고 채널을 지정하면 간섭이 크게 줄어듭니다.
+
+- 스마트폰이나 PC의 와이파이 목록에서 5GHz용 SSID(이름)를 확인하고 연결합니다.
+- **2.4GHz 채널**은 서로 겹치지 않는 **1, 6, 11** 중 하나로 설정합니다. 주변 공유기가 사용하는 채널을 확인하려면 와이파이 분석 프로그램을 쓰면 됩니다.
+- **5GHz 채널**은 **36, 40, 44, 48** 같은 낮은 번호를 권장합니다. 주변 네트워크와 겹칠 경우 다른 채널로 바꿔보시면 됩니다.
+- 채널 대역폭은 기본값(보통 20/40MHz 또는 80MHz)을 유지하되, 안정성을 원하면 20MHz로 고정하는 방법도 있습니다.
+
+채널 변경은 미리 알람이 뜨는 와이파이 연결이 잠깐 끊겼다가 다시 연결되므로, 작업 중인 기기가 있으면 잠깐 기다렸다가 진행하시기 바랍니다.
+
 ## 4. QoS 설정으로 대역폭 배분
 
 여러 기기가 동시에 인터넷을 쓰면 게임 핑이 치고 동영상이 버벅이기 쉽습니다. QoS(서비스 품질) 설정으로 우선순위를 나눠주면 이 문제가 완화됩니다.
@@ -82,6 +80,17 @@ hideDescription: true
 - 대용량 다운로드 기기의 속도 제한을 걸어 나머지 기기의 체감 속도를 지켜주는 방식도 있습니다.
 
 공유기마다 메뉴 이름(우선순위, QoS, 대역폭 관리)이 다르니 보통 상단의 전문 설정 탭에서 찾으시면 됩니다. 기능이 없는 저가 공유기라면 최신 공유기 교체를 고려해볼 수 있습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 위치, 펌웨어, 기기 상태 점검
 
@@ -104,7 +113,7 @@ hideDescription: true
 
 요금제보다 크게 낮은 속도가 계속 나온다면, 공유기와 모뎀을 재부팅하거나 통신사 측 상황을 문의해보시기 바랍니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>

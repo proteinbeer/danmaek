@@ -55,8 +55,6 @@ hideDescription: true
 
 안전 장치는 예뻐 보이는 것보다 처음 보는 사람도 즉시 이해할 수 있는지가 더 중요하기 때문입니다.
 
-<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/tesla-china-recall-door-handles/02-tesla-model-3-interior-door.jpg" alt="테슬라 모델 3 실내 도어 패널" loading="lazy" />
-
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
@@ -78,8 +76,6 @@ hideDescription: true
 
 그래서 중국의 규제가 장기적으로 글로벌 자동차 디자인에 영향을 줄 가능성은 충분히 있습니다.
 
-<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/tesla-china-recall-door-handles/03-tesla-model-3-front.jpg" alt="테슬라 모델 3 전면 외관" loading="lazy" />
-
 ## 4. 자동차에서 물리 버튼이 다시 중요해지는 이유
 
 최근 자동차는 공조, 오디오, 운전 보조 기능까지 대형 화면 안에 넣는 경우가 많습니다. 화면 하나로 많은 기능을 처리하면 제조사는 부품 수를 줄이고 내부 디자인도 단순하게 만들 수 있기 때문입니다.
@@ -90,19 +86,7 @@ hideDescription: true
 
 앞으로 자동차 디자인은 얼마나 많은 기능을 화면에 넣을 수 있느냐보다 어떤 기능만큼은 물리적으로 남겨야 하느냐가 더 중요한 기준이 될 수도 있습니다.
 
-## 5. 미래적인 디자인보다 중요한 것
-
-이번 중국 리콜에서 테슬라가 가장 많은 차량을 차지했지만 문제의 본질은 테슬라 한 회사에만 있지는 않습니다. 여러 전기차 업체가 전자식 손잡이를 사용했고 같은 규제 변화의 영향을 받고 있기 때문입니다.
-
-사실 전기차가 기존 자동차보다 더 많은 소프트웨어를 사용하는 건 자연스러운 흐름입니다.
-
-하지만 자동차는 스마트폰과 달리 사고가 나면 몇 초 안에 탈출해야 하는 기계죠. 그래서 화면이 멈춰도 기다릴 수 있는 전자제품과는 안전 기준이 다를 수밖에 없습니다.
-
-이번 리콜은 자동차의 미래가 무조건 버튼과 손잡이를 없애는 방향은 아닐 수도 있다는 점을 보여줍니다. 가장 미래적인 자동차가 오히려 가장 단순한 기계식 장치를 다시 필요로 할 수도 있는 거죠.
-
-<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/tesla-china-recall-door-handles/04-tesla-model-y-side.jpg" alt="테슬라 모델 Y 측면 외관" loading="lazy" />
-
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>
@@ -112,3 +96,13 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
+
+## 5. 미래적인 디자인보다 중요한 것
+
+이번 중국 리콜에서 테슬라가 가장 많은 차량을 차지했지만 문제의 본질은 테슬라 한 회사에만 있지는 않습니다. 여러 전기차 업체가 전자식 손잡이를 사용했고 같은 규제 변화의 영향을 받고 있기 때문입니다.
+
+사실 전기차가 기존 자동차보다 더 많은 소프트웨어를 사용하는 건 자연스러운 흐름입니다.
+
+하지만 자동차는 스마트폰과 달리 사고가 나면 몇 초 안에 탈출해야 하는 기계죠. 그래서 화면이 멈춰도 기다릴 수 있는 전자제품과는 안전 기준이 다를 수밖에 없습니다.
+
+이번 리콜은 자동차의 미래가 무조건 버튼과 손잡이를 없애는 방향은 아닐 수도 있다는 점을 보여줍니다. 가장 미래적인 자동차가 오히려 가장 단순한 기계식 장치를 다시 필요로 할 수도 있는 거죠.

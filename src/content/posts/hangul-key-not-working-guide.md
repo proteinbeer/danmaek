@@ -29,7 +29,6 @@ hideDescription: true
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/hero-bloom.jpg" alt="한글 자판이 표시된 키보드" width="1280" height="720" loading="lazy" decoding="async" />
 
-
 ## 1. 입력 언어 확인
 
 작업 표시줄 오른쪽 아래에 한국어 입력기가 선택돼 있는지 확인하시면 됩니다. 영어 입력기로 바뀌었다면 한국어로 다시 선택하시면 되죠.
@@ -49,9 +48,8 @@ hideDescription: true
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
@@ -76,14 +74,7 @@ hideDescription: true
 
 또한 일부 프로그램은 관리자 권한으로 실행될 때 입력기가 정상 동작하지 않는 경우가 있습니다. 관리자 권한을 해제해서 실행해보거나, 반대로 관리자 권한으로 실행해서 비교해보시기 바랍니다. 입력기 관련 오류가 있는 프로그램은 알트 탭으로 다른 창에 갔다가 돌아오면 임시로 해결되는 경우도 있습니다.
 
-## 5. 키보드 뻗음과 재부팅
-
-위 방법들로 해결되지 않는다면 키보드 입력이 잠시 멈춘 상태일 수 있습니다. 무선 키보드라면 배터리를 확인하고, 유선 키보드라면 다른 USB 포트에 꽂아보시면 됩니다. 그래도 안 된다면 시스템을 다시 시작하면 입력기가 초기화되어 해결되기도 합니다.
-
-키보드가 물리적으로 고장난 것이 아닌지 확인하려면 메모장이나 웹 검색창에 한/영 키를 눌러보시면 됩니다. 키보드 문제라면 다른 컴퓨터나 다른 USB 포트에서도 동일하게 동작하지 않는지 확인해보는 것이 도움이 됩니다.
-
-
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>
@@ -93,3 +84,9 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
+
+## 5. 키보드 뻗음과 재부팅
+
+위 방법들로 해결되지 않는다면 키보드 입력이 잠시 멈춘 상태일 수 있습니다. 무선 키보드라면 배터리를 확인하고, 유선 키보드라면 다른 USB 포트에 꽂아보시면 됩니다. 그래도 안 된다면 시스템을 다시 시작하면 입력기가 초기화되어 해결되기도 합니다.
+
+키보드가 물리적으로 고장난 것이 아닌지 확인하려면 메모장이나 웹 검색창에 한/영 키를 눌러보시면 됩니다. 키보드 문제라면 다른 컴퓨터나 다른 USB 포트에서도 동일하게 동작하지 않는지 확인해보는 것이 도움이 됩니다.

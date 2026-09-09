@@ -4,15 +4,15 @@ description: "호스팅 트래픽이 초과되면 사이트가 잠기거나 추�
 date: 2026-08-23
 updated: 2026-08-23
 category: "가이드"
-subcategory: "호스팅"
+subcategory: "네트워크"
 tags:
   - "호스팅"
   - "트래픽"
   - "CDN"
   - "캐시"
   - "이미지 최적화"
-image: "/assets/posts/guide-images/hosting-guide.jpg"
-imageAlt: "호스팅 트래픽 증가를 처리하는 CDN과 서버 구조"
+image: "/assets/posts/guide-images/network-guide-common.jpg"
+imageAlt: "호스팅 트래픽을 처리하는 CDN과 네트워크 구조"
 imageWidth: 1200
 imageHeight: 675
 hideHeroImage: true
@@ -27,7 +27,7 @@ hideDescription: true
 
 트래픽은 사실 몇 가지 설정만 바꿔도 크게 줄어듭니다. 순서대로 적용하면 사이트는 빨라지고 사용량은 낮아지는 효과를 함께 볼 수 있습니다.
 
-<img class="post-landscape-image" src="/assets/posts/guide-images/hosting-guide.jpg" alt="호스팅 트래픽 증가를 처리하는 CDN과 서버 구조" width="1200" height="675" loading="lazy" decoding="async" />
+<img class="post-landscape-image" src="/assets/posts/guide-images/network-guide-common.jpg" alt="호스팅 트래픽을 처리하는 CDN과 네트워크 구조" width="1200" height="675" loading="lazy" decoding="async" />
 
 ## 1. 트래픽이 초과되는 흐름을 먼저 보기
 
@@ -80,6 +80,17 @@ CDN은 보안 기능(방화벽, DDoS 완화)까지 함께 제공하는 경우가
 
 캐시 설정을 하면 방문자 입장의 재방문 속도도 크게 향상됩니다. 단, 글을 수정할 때는 캐시를 비워야 변경이 반영되니 이 부분만 기억해두세요.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 트래픽 사용량 실시간 확인
 
 요금제를 바꾸기 전에 **어디서 트래픽이 소모되는지** 정확히 알아야 대응이 가능합니다.
@@ -100,7 +111,7 @@ CDN은 보안 기능(방화벽, DDoS 완화)까지 함께 제공하는 경우가
 
 트래픽 문제는 대부분 기술 설정으로 풀리는 경우가 많습니다. 그래도 요금제 자체 용량이 수시로 부족한 수준이라면, 그때부터는 서버가 아닌 **CDN 전면 구성이나 호스팅 변경**을 검토해보시기 바랍니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>

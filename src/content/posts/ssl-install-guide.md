@@ -4,15 +4,15 @@ description: "웹사이트를 HTTPS로 전환하기 위해 필요한 SSL 인증�
 date: 2026-09-06
 updated: 2026-09-06
 category: "가이드"
-subcategory: "호스팅"
+subcategory: "네트워크"
 tags:
   - "SSL"
   - "HTTPS"
   - "Let's Encrypt"
   - "인증서"
   - "웹사이트 보안"
-image: "/assets/posts/guide-images/hosting-guide.jpg"
-imageAlt: "웹서버에 SSL 인증서를 설치해 HTTPS로 연결하는 개념"
+image: "/assets/posts/guide-images/network-guide-common.jpg"
+imageAlt: "웹서버 SSL 인증서로 HTTPS 연결을 보호하는 네트워크 구조"
 imageWidth: 1200
 imageHeight: 675
 hideHeroImage: true
@@ -27,7 +27,7 @@ hideDescription: true
 
 SSL 슬슬지만 요즘은 거의 모든 호스팅에서 **무료 인증서를 자동 발급**해주기 때문에 비용 걱정 없이 전환할 수 있습니다. 어떤 인증서를 어떻게 설치하는지 순서대로 정리했습니다.
 
-<img class="post-landscape-image" src="/assets/posts/guide-images/hosting-guide.jpg" alt="웹서버에 SSL 인증서를 설치해 HTTPS로 연결하는 개념" width="1200" height="675" loading="lazy" decoding="async" />
+<img class="post-landscape-image" src="/assets/posts/guide-images/network-guide-common.jpg" alt="웹서버 SSL 인증서로 HTTPS 연결을 보호하는 네트워크 구조" width="1200" height="675" loading="lazy" decoding="async" />
 
 ## 1. SSL 인증서 종류와 무료 선택
 
@@ -81,7 +81,7 @@ Let's Encrypt 외에 **Cloudflare**를 사용하면 원본 서버 인증과 별�
 
 위 확인이 끝나면 사이트 주소가 `https://`로 시작하는 안전한 사이트가 됩니다. 좌절하지 않도록, 혼합 콘텐츠는 발생할 수 있는 일반적인 상황이니 하나씩 찾아 고치면 됩니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>

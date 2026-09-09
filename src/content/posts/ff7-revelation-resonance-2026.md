@@ -46,8 +46,6 @@ hideDescription: true
 
 퀘스트도 재구성됩니다. 어떤 캐릭터가 리드를 맡을지 플레이어가 고를 수 있어, 같은 퀘스트라도 진행자가 누구냐에 따라 완전히 다른 경험이 됩니다. 출시 시점에는 스토리 확장 패스가 별도 판매되고, 이어서 스토리 DLC 두 개가 2027년 겨울에서 2028년 봄 사이에 나옵니다.
 
-<img class="post-landscape-image post-landscape-image--high" src="/assets/posts/news-images/ff7-revelation-02.jpg" alt="파이널 판타지 7 리벨레이션 플레이 스크린샷" width="1280" height="720" loading="lazy" decoding="async" />
-
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
@@ -74,8 +72,6 @@ hideDescription: true
 데모는 오늘 바로 내려받을 수 있고 본편 첫 장 전체를 포함합니다. 분량은 약 3~5시간이며, 세이브 데이터를 그대로 본편으로 이어갈 수 있습니다. 본편은 2026년 10월 22일 PS5, 닌텐도 스위치 2, 스위치, 엑스박스 시리즈 X|S, PC에서 출시됩니다.
 
 전투는 턴제를 발전시킨 것으로, 적의 약점을 공략해 스태거 상태로 만들면 추가 턴과 강력한 레조넌스 공격을 쓸 수 있습니다. 여기에 클라우드나 티더스, 빛의 전사 같은 시리즈 캐릭터의 에코인 '비전'을 소환해 함께 싸우는 시스템도 더해져, 초보에게는 턴제 RPG의 맛을, 팬에게는 향수를 제공합니다.
-
-<img class="post-landscape-image" src="/assets/posts/news-images/ff7-resonance.jpg" alt="파이널 판타지 리조넌스 HD-2D 그래픽" width="1280" height="720" loading="lazy" decoding="async" />
 
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">

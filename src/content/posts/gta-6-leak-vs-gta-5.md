@@ -54,8 +54,6 @@ GTA 6에서 실제로 얼굴과 옷과 차량이 따로 추적된다면 도주 �
 
 다만 화면에 표시된 그림의 정확한 의미는 아직 공식 설명이 따로 없습니다. 현재로서는 유출 영상을 바탕으로 한 해석이라고 보시면 되죠.
 
-<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/gta-6-leak-vs-gta-5/03-gta6-chase.jpg" alt="GTA 6 유출 영상에 담긴 경찰 추적 장면" loading="lazy" />
-
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
@@ -79,8 +77,6 @@ GTA 6 유출 영상에서는 차량 화면에 연료와 엔진 상태로 보이�
 
 GTA 5가 자동차를 빠르게 훔쳐서 바로 사용하는 방식이었다면 GTA 6는 차량 하나에도 조금 더 많은 상황과 관리 요소를 넣으려는 것으로 보입니다.
 
-<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/gta-6-leak-vs-gta-5/01-gta6-leak.jpg" alt="유출된 GTA 6 게임플레이 화면" loading="lazy" />
-
 ## 4. 차량 보관함과 달라진 무기
 
 GTA 5에서는 무기 선택 화면을 열면 캐릭터가 상당히 많은 총기와 장비를 한꺼번에 가지고 다닐 수 있습니다. 현실적으로는 들고 다니기 어려운 양의 무기를 언제든 꺼내 사용할 수 있었죠.
@@ -93,6 +89,17 @@ GTA 6가 비슷한 방향으로 간다면 GTA 5처럼 무기를 사실상 무제
 
 아직 휴대 가능한 무기의 정확한 개수는 공식적으로 확인되지 않았기 때문에 제한형 무기 시스템이 확정됐다고 보기는 어렵죠. 다만 차량 보관함이 실제 화면에 나타난 만큼 장비 관리가 GTA 5보다 중요해질 가능성은 충분해 보입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 농구와 집중력 성장 시스템
 
 유출 영상에서는 제이슨이 집 근처에서 농구를 하는 장면도 등장합니다. 단순히 공을 던지는 장식용 행동이 아니라 타이밍에 맞춰 슛을 하는 작은 게임 형태로 구현된 모습이었죠.
@@ -104,8 +111,6 @@ GTA 5에도 체력과 힘과 운전 같은 능력치가 존재했습니다. 하�
 근처 운동기구에도 활동을 시작할 수 있는 표시가 있다는 분석이 나오면서 농구뿐 아니라 운동이나 다양한 취미 활동을 통해 능력치를 높이는 시스템이 들어갈 가능성도 보입니다.
 
 GTA 5에서도 테니스와 골프 같은 여가 활동을 즐길 수 있었지만 GTA 6에서는 이런 활동이 캐릭터 성장과 더 밀접하게 연결될 수 있다는 점이 다릅니다.
-
-<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/gta-6-leak-vs-gta-5/02-gta6-gameplay.jpg" alt="GTA 6 유출 영상의 플레이 장면" loading="lazy" />
 
 ## 6. 범죄 게임에서 생활형으로
 
@@ -121,7 +126,7 @@ GTA 5에서는 자동차를 훔치고 무기를 꺼내 범죄를 저지른 뒤 �
 
 다만 현재 유출본은 개발 중인 자료로 어떤 방향으로 개발되고 있는지 살펴보는 정도로 보시는 것이 좋겠죠.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>

@@ -41,29 +41,39 @@ hideDescription: true
 
 필드가 꽉 차면 필요 없는 주사위부터 합성해 겹침을 만들고, 겹침 대상을 눈금을 올릴 주사위로 지정합니다. 높은 눈금 딜러 하나와 보조 구성이, 낮은 눈금 딜러 다섯 개보다 유리한 판이 많다는 점을 기억하는 것이 좋습니다.
 
-## 3. 배치 위치 요령
-
-공격 범위가 넓은 딜러는 중앙에, 버프 주사위는 딜러 주변에, 제어 주사위는 적 이동 경로 쪽에 두는 것이 기본입니다. 전기처럼 번지는 공격은 몬스터가 오래 머무는 구간에 몰아두면 체류 중인 적을 오래 맞출 수 있습니다.
-
-특정 배치 조건을 요구하는 주사위는 더 신경을 써야 합니다. 가로·세로로 나열해야 효과가 발동하는 조합은 면적 확보가 우선이므로, 필드 전체를 배치하기 어려운 주사위로 채우기보다 정리할 수 있는 보조 주사위를 섞는 편이 안정적입니다.
-
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
 
+## 3. 배치 위치 요령
+
+공격 범위가 넓은 딜러는 중앙에, 버프 주사위는 딜러 주변에, 제어 주사위는 적 이동 경로 쪽에 두는 것이 기본입니다. 전기처럼 번지는 공격은 몬스터가 오래 머무는 구간에 몰아두면 체류 중인 적을 오래 맞출 수 있습니다.
+
+특정 배치 조건을 요구하는 주사위는 더 신경을 써야 합니다. 가로·세로로 나열해야 효과가 발동하는 조합은 면적 확보가 우선이므로, 필드 전체를 배치하기 어려운 주사위로 채우기보다 정리할 수 있는 보조 주사위를 섞는 편이 안정적입니다.
+
 ## 4. 강화 우선순위
 
 레벨 업 순서는 메인 딜러가 1순위이고, 그다음 성장과 SP 확보, 마지막으로 보조·제어 순서입니다. 모든 주사위를 동시에 강화하면 성장 재화가 부족해지므로, 같은 재화로 더 큰 체감 성장을 만드는 쪽에 집중해야 합니다.
 
 판이 안정된 뒤에는 7성 도달 시 열리는 각성 능력을 고려해 핵심 주사위에 자원을 모아두는 것이 좋습니다. 초반에는 소환과 업그레이드의 균형을 맞추는 것도 중요합니다. 초반 SP를 전부 소환에만 쓰면 레벨 업이 늦고, 반대로 레벨 업만 누르면 보드가 부족해집니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 자주 하는 실수
 
@@ -77,12 +87,11 @@ hideDescription: true
 
 초반에는 운영이 쉬운 덱으로 감을 잡고, 주사위 레벨이 오른 뒤 후반형 덱으로 넘어가는 것이 덜 답답합니다. 그리고 방해형 덱을 쓰더라도 메인 딜러 하나는 반드시 확실하게 두는 원칙을 지켜야 합니다. 이 기준만 잡아도 덱을 바꿀 때 실력을 오래 유지할 수 있습니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->

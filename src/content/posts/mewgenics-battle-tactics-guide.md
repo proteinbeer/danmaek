@@ -74,6 +74,17 @@ hideDescription: true
 
 함정 회피와 위치 보너스를 함께 챙기려면 이동력을 아끼는 것이 핵심입니다. 매 턴 최대 거리를 쓰기보다, 적의 다음 움직임을 예상해 한 칸씩 조정하는 플레이가 결국 더 많은 백스탭 기회를 만들어냅니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 스탠스와 액션 운용
 
 공격, 이동, 방어 외에도 개체마다 고유 액션과 스탠스가 준비되어 있습니다. 스탠스는 전투 중 상태를 바꿔 공격의 방향성을 강화하거나 방어를 올리는 방식으로 작동하며, 상황에 맞춰 전환하는 것이 효율을 크게 좌우합니다.
@@ -90,7 +101,7 @@ hideDescription: true
 
 전투 속도와 조작 선택을 병행하면 한 판의 소요 시간이 눈에 띄게 줄어듭니다. 공략 템포가 빨라질수록 번식 단계에서 좋은 개체를 다시 뽑는 시간도 함께 확보되므로, 전투 전술과 육성의 순환이 전체 게임 속도를 높여줍니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>

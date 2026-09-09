@@ -44,6 +44,8 @@ hideDescription: true
 
 이 부분 때문에 게임패스의 의미도 조금 달라집니다. 기존에는 구독 안에 들어 있던 기능이 사용량에 따라 추가 비용이 발생할 수 있는 구조로 바뀌기 때문입니다.
 
+마이크로소프트도 일부 이용자에게 실질적인 비용 상승이 될 수 있다는 점을 인정했습니다. 11월 시행 전에 추가 시간 가격과 잔여 시간 확인 방식 등을 공개할 예정입니다.
+
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
@@ -54,8 +56,6 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-
-마이크로소프트도 일부 이용자에게 실질적인 비용 상승이 될 수 있다는 점을 인정했습니다. 11월 시행 전에 추가 시간 가격과 잔여 시간 확인 방식 등을 공개할 예정입니다.
 
 ## 3. 구독하지 않아도 클라우드는 가능
 
@@ -73,7 +73,16 @@ hideDescription: true
 
 마이크로소프트는 월간 제한을 두면 서비스의 안정성과 성능에 계속 투자하면서 운영을 유지할 수 있다고 설명했습니다. 이용자 입장에서는 기술적인 이유보다 내가 내는 돈이 늘어나는지가 더 중요할 수 있습니다.
 
-<img class="post-landscape-image" src="/assets/posts/news-images/xbox-cloud-gaming-2026-02.jpg" alt="엑스박스 클라우드 게임 시간 변화 안내 이미지" width="960" height="540" loading="lazy" decoding="async" />
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 4%라는 숫자를 어떻게 볼까
 
@@ -91,7 +100,7 @@ hideDescription: true
 
 결국 엑스박스가 원하는 미래는 무제한 클라우드보다 어디서든 접속하고 사용한 만큼 비용을 분담하는 모델에 가까워 보입니다. 11월에 공개될 추가 시간 가격이 이 전략을 이용자들이 받아들일 수 있을지 결정할 가능성이 큽니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>
@@ -101,4 +110,3 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
-

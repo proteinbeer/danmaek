@@ -59,15 +59,13 @@ MMOLite는 이클립스가 처음으로 내건 장르 표방입니다. 이름에
 
 이 자리에서 신규 트레일러가 처음 공개되고, 앞으로의 콘텐츠 로드맵과 실시간 Q&A가 이어졌습니다. 특별 게스트도 등장하며 출시 기대감을 높인 방송이었습니다. 라이브에서 공개된 정보는 정식 출시를 앞둔 이용자들에게 핵심 참고 자료가 됐습니다.
 
-<img class="post-landscape-image" src="/assets/posts/news-images/smilegate-eclipse-launch-2026-02.jpg" alt="이클립스: 더 어웨이크닝 플레이 화면" width="1280" height="720" loading="lazy" decoding="async" />
-
 ## 4. 정식 출시 이후 관전 포인트
 
 게임의 성패는 결국 출시 후에 드러납니다. MMOLite를 표방한 만큼, 붐비는 접속자가 그대로 정착하는지가 첫 번째 잣대가 됩니다. 과도한 경쟁 요소를 줄였다는 설계가 실제로 운영 데이터에서 유효한지도 확인할 부분이죠.
 
 또 모바일과 PC 플랫폼 간 경험이 얼마나 자연스럽게 이어지는지도 중요합니다. 크로스플랫폼은 홍보 요소이자 실제 운영 난이도를 높이는 요소이기 때문입니다. 이용자 이탈 없이 콘텐츠 업데이트가 이어지는지가 이클립스의 지속 성장을 가른다고 볼 수 있습니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>

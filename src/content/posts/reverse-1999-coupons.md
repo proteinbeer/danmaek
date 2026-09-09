@@ -48,18 +48,6 @@ hideDescription: true
 | MeshingMinds | 더스트 20,000, 샤포도니 20,000, 통찰 상자 |
 | 1999AnimeWatchParty | 애니메이션 방영 기념 초상화 |
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 2. 최근 공개된 이벤트 코드
 
 방송과 애니메이션 상영을 기념해 추가된 코드들도 있습니다. 아래 코드는 리워드 표기 없이 공개된 경우가 많아 입력 후 우편함을 확인하면 됩니다.
@@ -70,6 +58,17 @@ hideDescription: true
 - DancingAlloy
 - CrazyToBe
 - DreadfulTruth
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 3. 코드 입력 방법
 
@@ -83,23 +82,22 @@ hideDescription: true
 
 입력 후 보상이 바로 표시되지 않아도 게임 내 우편함에서 수령할 수 있습니다. 코드 앞뒤에 공백이 붙지 않도록 그대로 붙여넣는 편이 좋죠.
 
-<div style="margin: 40px 0 28px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 4. 계정당 1회 사용과 만료 코드 주의
 
 리버스 1999 코드는 계정당 1회만 사용할 수 있으며, 이미 사용한 코드를 다시 입력하면 오류 안내가 나옵니다. 일부 코드는 잔여 수량 소진 시 조기 종료되기도 합니다.
 
 과거에 공개된 2024~2025년 코드들(6THEPERFECTNUMBER, GREENLAKE, VERSIONUPDATE 등)은 전부 만료됐습니다. 구버전 목록을 참고해 입력하다가 오류가 나는 경우가 많으니 위 표의 현재 목록만 사용하시기 바랍니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 신규 코드 받는 법
 

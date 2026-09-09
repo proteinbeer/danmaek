@@ -40,18 +40,6 @@ hideDescription: true
 | NIKKE1104 | 크레딧 박스(2시간) 등 육성 재료 | 상시 계열 |
 | thxfor990000 | 그로우 세트(1시간) 등 | 마일스톤 기념, 무기한에 가까움 |
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 위 코드는 오래 사용 가능한 상시 계열입니다. 다만 공식에서 최근 신규 코드를 배포하지 않아 코드 목록이 적은 상태이니 (게임 내 공지의 교환 페이지)
 
 니케 코드는 게임 밖의 공식 CD키 교환 페이지에서 입력합니다.
@@ -69,20 +57,19 @@ hideDescription: true
 
 일부 매체가 이전 코드를 사용 가능으로 소개하기도 하지만, 입력 전 만료일을 다시 확인하는 편이 안전하죠.
 
-## 4. 입력 전 서버·계정 확인
-
-니케 코드는 계정당 1회만 사용할 수 있습니다. 이미 입력한 코드는 다시 쓸 수 없으며, 서버 구분이 필요한 경우가 있어 로그인 서버를 먼저 확인해주시기 바랍니다.
-
-보상이 지급되지 않으면 교환 내역과 우편함을 다시 확인해보시기 바랍니다.
-
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
+
+## 4. 입력 전 서버·계정 확인
+
+니케 코드는 계정당 1회만 사용할 수 있습니다. 이미 입력한 코드는 다시 쓸 수 없으며, 서버 구분이 필요한 경우가 있어 로그인 서버를 먼저 확인해주시기 바랍니다.
+
+보상이 지급되지 않으면 교환 내역과 우편함을 다시 확인해보시기 바랍니다.

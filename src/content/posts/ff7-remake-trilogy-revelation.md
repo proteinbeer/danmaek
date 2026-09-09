@@ -52,8 +52,6 @@ hideDescription: true
 
 리메이크라기보다 원작에 대한 기억까지 이용하는 후속 해석에 가깝죠.
 
-<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/ff7-remake-trilogy-revelation/02-ff7-rebirth-openworld.jpg" alt="파이널 판타지 7 리버스 오픈월드" loading="lazy" />
-
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
@@ -85,7 +83,16 @@ hideDescription: true
 
 사실 3부작으로 늘린 장점이 마지막에는 정리해야 할 이야기의 양이라는 부담으로 돌아옵니다.
 
-<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/ff7-remake-trilogy-revelation/03-ff7-revelation-gameplay.jpg" alt="파이널 판타지 7 리벨레이션 플레이 장면" loading="lazy" />
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 리메이크의 기준을 바꾼 프로젝트
 
@@ -98,16 +105,3 @@ hideDescription: true
 하지만 성공적으로 완결된다면 리메이크는 과거 게임을 보존하는 상품이 아니라 과거 작품을 기반으로 또 하나의 장기 시리즈를 만드는 방법이 될 수 있습니다.
 
 리벨레이션의 평가는 마지막 한 편뿐 아니라 7년에 걸친 3부작 실험 전체의 평가가 될 가능성이 크죠.
-
-<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/ff7-remake-trilogy-revelation/04-ff7-original-ps1.jpg" alt="파이널 판타지 7 원작 PS1 그래픽" loading="lazy" />
-
-<div style="margin: 40px 0 28px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

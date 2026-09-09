@@ -29,12 +29,13 @@ export const GUIDE_SUBCATEGORIES: Subcategory[] = [
   { name: '네트워크', slug: 'network' },
   { name: '주변기기', slug: 'peripherals' },
   { name: '워드프레스', slug: 'wordpress' },
-  { name: '호스팅', slug: 'hosting' },
   { name: '스위치', slug: 'switch' },
   { name: '메이플 키우기', slug: 'maple-raising' },
   { name: '랜덤 다이스 2', slug: 'random-dice-2' },
   { name: '뮤제닉스', slug: 'mewgenics' },
-  { name: '더 블러드 오브 던워커', slug: 'dawnwalker' }
+  { name: '더 블러드 오브 던워커', slug: 'dawnwalker' },
+  { name: '귀무자', slug: 'onimusha' },
+  { name: '발하임', slug: 'valheim' }
 ];
 
 export const COUPON_SUBCATEGORIES: Subcategory[] = [

@@ -82,6 +82,17 @@ hideDescription: true
 
 "모든 게임 됩니다"라고 안심하기 전에, 구매할 때 가장 좋아하는 게임 몇 개가 목록에 있는지 확인하는 것이 안전합니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 게임 성능은 더 좋아질까
 
 같은 스위치 1 게임이라도 스위치 2에서 구동하면 성능이 개선되는 경우가 있습니다.
@@ -103,7 +114,7 @@ hideDescription: true
 
 이 정도만 확인하면 일상 이용에 큰 문제는 없습니다. 게임과 데이터를 옮기고 나서도 문제가 생기면 닌텐도 공식 지원으로 문의하는 것이 가장 확실합니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>

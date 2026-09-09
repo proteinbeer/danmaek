@@ -40,18 +40,6 @@ hideDescription: true
 | OPEN | 크로노 크리스탈 100 | 별도 기한 없음 |
 | LIMIT5502 | 크로노 크리스탈 150 | 별도 기한 없음(최신 공개) |
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 SUMMER7893는 유효 기간이 9월 7일까지로 얼마 남지 않았습니다. 크로노 크리스탈은 게임 내 샵의 크로노 크리스탈 탭에서 사용할 수 있으니 (반다이남코 웹스토어)
 
 드래곤볼 레전즈 코드는 게임 내부가 아니라 반다이남코 공식 웹스토어에서 입력합니다.
@@ -69,20 +57,19 @@ SUMMER7893는 유효 기간이 9월 7일까지로 얼마 남지 않았습니다.
 
 로그인 후 보상 수령까지는 앱 재시작이 필요한 경우도 있습니다. 안 보이면 게임을 한 번 껐다 켜보시기 바랍니다.
 
-## 4. 코드 공개 채널과 주간 웹 기프트
-
-새 코드는 주로 공식 X(트위터)와 Legends Information 방송에서 공개됩니다. 8월 8주년 관련 코드들은 대부분 만료됐고, 지금은 위 세 개만 유효한 상태입니다.
-
-웹스토어에는 코드 없이 받는 주간 보너스 아이템도 올라오므로, 정기적으로 방문해 챙겨가는 습관이 좋죠.
-
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
+
+## 4. 코드 공개 채널과 주간 웹 기프트
+
+새 코드는 주로 공식 X(트위터)와 Legends Information 방송에서 공개됩니다. 8월 8주년 관련 코드들은 대부분 만료됐고, 지금은 위 세 개만 유효한 상태입니다.
+
+웹스토어에는 코드 없이 받는 주간 보너스 아이템도 올라오므로, 정기적으로 방문해 챙겨가는 습관이 좋죠.

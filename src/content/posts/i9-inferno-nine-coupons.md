@@ -47,18 +47,6 @@ I9: 인페르노 나인은 레니우게임즈(Leniu Technology)가 만든 중세
 | VVIP777 | 일반 보상 |
 | vvvip999 | 일반 보상 |
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 2. 최근 공개된 이벤트 코드
 
 1주년 이벤트와 콜라보 시절 공개된 아래 코드들도 있습니다. 공개 시점이 조금 지났지만 계속 입력되는 코드로 알려져 있습니다.
@@ -68,6 +56,17 @@ I9: 인페르노 나인은 레니우게임즈(Leniu Technology)가 만든 중세
 - I9GIFT
 - ALWAYSWIN
 - GIFTOFGOD
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 3. 코드 입력 방법
 
@@ -79,23 +78,22 @@ I9: 인페르노 나인은 게임 내 설정에서 쿠폰을 입력합니다. �
 4. 쿠폰 코드를 입력하고 [확인]을 누릅니다.
 5. 보상은 우편함으로 지급되며, 재접속 후 수령하면 됩니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 4. 계정당 1회 사용과 만료 코드 주의
 
 쿠폰은 계정당 1회만 사용할 수 있고 대소문자를 구분합니다. 이미 사용한 코드를 다시 입력하면 오류 안내가 나옵니다.
 
 1주년에 공개된 코드는 시간이 지나며 서서히 만료되고 있습니다. 2026년 11월까지 유효한 VVVIP9를 우선 입력하고, 오류가 나는 코드는 만료로 보시면 됩니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 신규 코드 받는 법
 

@@ -53,8 +53,6 @@ CD 프로젝트 레드에 따르면 위쳐 3 누적 판매량은 6500만 장을 
 
  또한 회사가 대형 신작을 준비하는 동안 매출과 관심을 이어갈 중간 제품으로도 적합합니다.
 
-<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/witcher-3-third-expansion-past-songs/02-witcher3-nextgen.jpg" alt="위쳐 3 넥스젠 업데이트 장면" loading="lazy" />
-
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
@@ -86,7 +84,16 @@ CD 프로젝트 레드는 이번 확장팩을 게롤트에게 다시 돌아가�
 
 게임의 수명이 출시 후 몇 년이라는 과거의 공식이 점점 약해지고 있다는 사례이기도 합니다.
 
-<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/witcher-3-third-expansion-past-songs/03-cdpr-castle.jpg" alt="중세 성 캐슬" loading="lazy" />
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 게임 산업이 카탈로그 사업으로
 
@@ -99,16 +106,3 @@ CD 프로젝트 레드는 이번 확장팩을 게롤트에게 다시 돌아가�
 새 작품 하나를 만들고 버리는 것이 아니라 기존 게임을 계속 업데이트하고 새로운 이용자에게 판매할 수 있는 거죠. 위쳐 3처럼 판매량이 큰 작품이라면 10년 뒤에도 새 콘텐츠를 붙일 경제적 이유가 생깁니다.
 
 과거의 노래가 성공하면 다른 회사들도 오래된 인기 게임을 리마스터하는 데서 끝내지 않고 실제 신규 확장팩을 붙이는 방식을 더 적극적으로 검토할 수 있겠죠. 그래서 위쳐 3의 귀환은 추억 상품이면서 동시에 게임 한 편의 수명이 얼마나 길어질 수 있는지를 시험하는 사례가 됩니다.
-
-<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/witcher-3-third-expansion-past-songs/04-witcher3-cinematic.jpg" alt="위쳐 3 시네마틱 영상" loading="lazy" />
-
-<div style="margin: 40px 0 28px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

@@ -28,7 +28,6 @@ C드라이브 여유 공간이 갑자기 줄었다면 큰 파일부터 무작정
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/hero-bloom.jpg" alt="C드라이브 속성 화면에서 용량 확인" width="1280" height="720" loading="lazy" decoding="async" />
 
-
 ## 1. 저장소 사용량 확인
 
 설정, 시스템, 저장소로 들어가면 앱, 임시 파일, 문서 등이 얼마나 공간을 차지하는지 확인할 수 있습니다. 어떤 항목이 큰지 감이 잡히면 정리 순서가 정해지죠.
@@ -50,9 +49,8 @@ C드라이브 여유 공간이 갑자기 줄었다면 큰 파일부터 무작정
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
@@ -77,12 +75,7 @@ C드라이브 여유 공간이 갑자기 줄었다면 큰 파일부터 무작정
 
 클라우드 동기화 프로그램을 사용한다면 저장 공간을 점유하지 않도록 파일을 온라인 전용으로 설정하거나, 큰 폴더의 동기화를 중지할 수 있는지 확인하시면 됩니다. 게임이나 윈도우 업데이트가 반복해서 설치되는 구조인지도 확인해보시는 것이 좋습니다.
 
-## 5. 더 적극적인 정리
-
-용량이 계속 부족하다면 시스템 복원 지점을 줄이거나, 페이지 파일의 위치를 다른 드라이브로 옮기거나, 대용량 파일을 C드라이브가 아닌 다른 드라이브로 이동하는 방법을 고려해볼 수 있습니다. 다만 시스템 설정을 바꾸는 작업은 내부 데이터 손상 위험이 있으므로, 되도록 안전한 방법부터 시도하시는 것을 권장합니다.
-
-
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>
@@ -92,3 +85,7 @@ C드라이브 여유 공간이 갑자기 줄었다면 큰 파일부터 무작정
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
+
+## 5. 더 적극적인 정리
+
+용량이 계속 부족하다면 시스템 복원 지점을 줄이거나, 페이지 파일의 위치를 다른 드라이브로 옮기거나, 대용량 파일을 C드라이브가 아닌 다른 드라이브로 이동하는 방법을 고려해볼 수 있습니다. 다만 시스템 설정을 바꾸는 작업은 내부 데이터 손상 위험이 있으므로, 되도록 안전한 방법부터 시도하시는 것을 권장합니다.

@@ -46,18 +46,6 @@ hideDescription: true
 | INTHEWEB | 무료 보상 |
 | raidwebstore | 에너지 포션 5개, 실버 50만, 5성 치킨 |
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 위 코드는 계정당 1회씩만 사용할 수 있습니다. 신규 유저 전용 코드는 **WELCOMEGIFT**(벨로워 + 보이드 물약 11개 + 실버 10만 + 레어 스킬 북 3개), **GETLOKI**(로키), **LURIA**(루리아) 등이며, 계정 생성 후 72시간(일부는 24시간) 이내에만 입력할 수 있습니다. 신규 코드와 전체 유저 코드는 별개로 사용할 수 있으니 시작하자마자 입력해두는 것이 좋습니다.
 
 ## 2. 게임 내에서 코드 입력하는 방법
@@ -67,6 +55,17 @@ hideDescription: true
 게임에 접속해 요새 화면 좌측의 **3줄 메뉴 버튼**을 누르고 **프로모션 코드**를 선택합니다. 코드 입력창에 쿠폰 코드를 넣고 **확인**을 누르면 보상이 수신함으로 지급됩니다.
 
 주의할 점은 프로모션 코드 입력은 **계정당 24시간에 1개**로 제한된다는 것입니다. 전날 코드를 입력했다면 다음 코드는 24시간이 지나야 입력할 수 있습니다. 코드가 여러 개라면 보상이 큰 코드부터 순서를 정해두고 하루씩 입력하는 편이 효율적입니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 3. iOS와 공식 홈페이지에서 입력하는 방법
 
@@ -86,12 +85,11 @@ iOS는 7.10 버전 이후로 게임 내 프로모션 코드 입력 기능이 비
 - 코드가 **만료**됐거나 특정 **지역에서만** 작동할 수도 있습니다. 지역 제한이 있는 미국 코드는 아시아 계정에서 작동하지 않을 수 있습니다.
 - 유효하지 않은 코드를 연속으로 3번 입력하면 약 1시간 동안 코드 사용이 일시 제한되니, 확실한 코드만 입력하세요.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->

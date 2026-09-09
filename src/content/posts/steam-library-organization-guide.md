@@ -42,9 +42,8 @@ hideDescription: true
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
@@ -63,13 +62,7 @@ hideDescription: true
 
 이렇게 붙인 태그는 자동 컬렉션을 만드는 기준으로도 쓸 수 있습니다. 개인적인 플레이 상태를 태그로 관리하면, 라이브러리가 수십 개가 되어도 내가 지금 무엇을 해야 할지 바로 눈에 들어옵니다.
 
-## 5. 정리를 계속 유지하는 습관
-
-라이브러리 정리는 한 번으로 끝나는 것이 아니라, 게임을 새로 살 때마다 조금씩 업데이트해 두는 것이 좋습니다. 새 게임을 구매하면 바로 컬렉션에 넣고, 하지 않을 게임은 숨겨서 어지러움을 방지하면 됩니다.
-
-정리된 라이브러리는 게임을 고르고 실행하는 시간을 줄여 줄 뿐만 아니라, 사둔 게임을 다시 꺼내 즐기는 계기가 되기도 합니다. 스팀 라이브러리가 쌓여 있었다면 오늘 컬렉션 기능부터 시도해보시기 바랍니다.
-
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>
@@ -79,3 +72,9 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
+
+## 5. 정리를 계속 유지하는 습관
+
+라이브러리 정리는 한 번으로 끝나는 것이 아니라, 게임을 새로 살 때마다 조금씩 업데이트해 두는 것이 좋습니다. 새 게임을 구매하면 바로 컬렉션에 넣고, 하지 않을 게임은 숨겨서 어지러움을 방지하면 됩니다.
+
+정리된 라이브러리는 게임을 고르고 실행하는 시간을 줄여 줄 뿐만 아니라, 사둔 게임을 다시 꺼내 즐기는 계기가 되기도 합니다. 스팀 라이브러리가 쌓여 있었다면 오늘 컬렉션 기능부터 시도해보시기 바랍니다.

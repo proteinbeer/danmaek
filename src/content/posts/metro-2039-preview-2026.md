@@ -92,8 +92,6 @@ hideDescription: true
 
 무기 제작 시스템도 확장됐습니다. 설계도(블루프린트)를 찾아 조립 테이블에서 총을 업그레이드하거나 새 총을 만들어낼 수 있죠. 공압으로 펌프질해야 발사되는 샤툰 소총 같은 무기 덕분에, 몬스터에게 쫓기는 상황에서도 관리할 게 하나 더 늘어나는 메트로 특유의 긴장감이 살아있습니다.
 
-<img class="post-landscape-image" src="/assets/posts/news-images/metro-2039-02.jpg" alt="메트로 2039 지하철 터널 장면" width="1200" height="675" loading="lazy" decoding="async" />
-
 ## 6. 2027년 2월, 지하철로의 귀환
 
 메트로 2039는 2027년 2월 PS5, 엑스박스 시리즈 X|S, PC(스팀, 에픽게임즈 스토어, 엑스박스 PC)로 출시됩니다. 단인 싱글 플레이 스토리 FPS로, 전작 엑소더스가 선보인 개방형 샌드박스의 장점을 살리면서도 초반 두 작품의 촘촘한 선형 구조로 회귀했죠.
@@ -102,9 +100,7 @@ hideDescription: true
 
 게임스컴에서 공개된 '리니게이드' 트레일러는 스트레인저가 노보라이히가 장악한 모스크바에 잠입하는 흐름을 보여줬고, 이와 함께 구매자에게 스트레인저의 전투 자국이 남은 스파르탄 헬멧 실물 레플리카가 포함된 컬렉터스 에디션 계획도 처음 공개됐습니다.
 
-<img class="post-landscape-image" src="/assets/posts/news-images/metro-2039-03.jpg" alt="메트로 2039 게임스컴 공식 아트" width="1280" height="720" loading="lazy" decoding="async" />
-
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>

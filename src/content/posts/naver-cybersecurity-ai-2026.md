@@ -59,21 +59,13 @@ hideDescription: true
 
 이 기간 중 5개월 시점에 중간 평가가 이뤄집니다. 개발이 실제 진척되고 있는지, 도입한 인프라가 제대로 활용되는지를 확인하는 단계입니다. 사업단은 이달 중 협약을 체결한 뒤 본격적인 개발에 착수할 예정입니다.
 
-<img class="post-landscape-image" src="/assets/posts/news-images/naver-cybersecurity-ai-02.jpg" alt="AI 데이터센터 GPU 서버 랙" width="1280" height="720" loading="lazy" decoding="async" />
-
 ## 4. 경쟁 구도, 네이버와 SKT의 맞대결
 
 최종 평가까지 경쟁한 상대는 SK텔레콤 주도 컨소시엄이었습니다. 네이버와 SK텔레콤은 각자 인공지능 인프라와 보안 역량을 내세워 사업권을 두고 다퉜습니다. 이번 사업은 국내 클라우드 시장 양대 축이 보안 AI에서 정면으로 겨룬 사례라는 점에서 업계의 관심을 모았습니다.
 
 결국 네이버 측이 보안 전문 기업과 기간시설 수요 기관을 두루 끌어모은 조합을 앞세워 사업권을 따냈습니다. 다만 두 컨소시엄 모두 국내에 부족한 보안 AI 생태계를 끌어올리는 데 의미가 있다는 평가입니다.
 
-## 5. 앞으로의 과제
-
-이번 사업이 성공하려면 모델 개발을 넘어 실제 보안 현장에서 쓰이는 수준까지 끌어올려야 합니다. GPU를 빌려 모델을 학습하는 것은 시작일 뿐이라는 뜻입니다. 수요 기관이 참여한 것은 그만큼 실제 활용 단계까지 고려된 설계라는 방증이기도 하죠.
-
-국가 차원의 자체 보안 AI가 단순한 연구 성과로 그치지 않고, 시중의 클라우드와 보안 서비스에 자연스럽게 녹아들 수 있는지가 관건입니다. 중간 평가 이후에도 일정에 맞춰 결과를 내놓을 수 있을지 지켜봐야 할 것입니다.
-
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>
@@ -83,3 +75,9 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
+
+## 5. 앞으로의 과제
+
+이번 사업이 성공하려면 모델 개발을 넘어 실제 보안 현장에서 쓰이는 수준까지 끌어올려야 합니다. GPU를 빌려 모델을 학습하는 것은 시작일 뿐이라는 뜻입니다. 수요 기관이 참여한 것은 그만큼 실제 활용 단계까지 고려된 설계라는 방증이기도 하죠.
+
+국가 차원의 자체 보안 AI가 단순한 연구 성과로 그치지 않고, 시중의 클라우드와 보안 서비스에 자연스럽게 녹아들 수 있는지가 관건입니다. 중간 평가 이후에도 일정에 맞춰 결과를 내놓을 수 있을지 지켜봐야 할 것입니다.

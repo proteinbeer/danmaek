@@ -49,18 +49,6 @@ hideDescription: true
 | MERCENARYAOEM | 시즌 코드 |
 | SUPERNOVA | 시즌 코드 |
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 2. 최근 공개된 이벤트 코드
 
 월별 개발자 칼럼과 시즌 이벤트로 공개된 코드들도 있습니다. 아래 코드는 유효 기간이 짧은 편이라 입력을 서두르는 게 좋습니다.
@@ -74,6 +62,17 @@ hideDescription: true
 - ICUICU
 - WUDIWUDI
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 코드 입력 방법
 
 에이지 오브 엠파이어 모바일은 게임 내 설정의 선물 교환 메뉴에서 코드를 입력합니다.
@@ -83,23 +82,22 @@ hideDescription: true
 3. 쿠폰 코드를 붙여넣고 [사용(Redeem)]을 누릅니다.
 4. 우편함(mailbox)에서 보상을 수령합니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 4. 계정당 1회 사용과 만료 코드 주의
 
 에이지 오브 엠파이어 모바일 코드는 계정당 1회만 사용할 수 있고 대소문자·기호를 구분합니다. 코드 끝에 공백이나 줄바꿈이 붙으면 오류가 나니 그대로 복사해 붙여넣는 편이 좋습니다.
 
 이 게임은 코드 유효 기간이 특히 짧습니다. 몇 주 내로 만료되는 코드가 많아, 오류가 나면 만료됐을 가능성이 높으니 목록의 다른 코드로 진행하시기 바랍니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 신규 코드 받는 법
 

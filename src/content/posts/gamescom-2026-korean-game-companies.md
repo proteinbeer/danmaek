@@ -37,14 +37,11 @@ hideDescription: true
 
 ## 1. 출시 전부터 세계 관객을 만나는 무대
 
-
 게임스컴은 유럽에서 열리지만 방문객과 언론의 범위는 훨씬 넓습니다. 현장 시연, 생방송 발표, 해외 매체 취재가 동시에 일어나기 때문에 신작 하나가 짧은 시간에 여러 시장에 노출될 수 있죠.
 
 엔씨가 프로젝트 본파이어의 첫 공개를 게임스컴 개막 전야 행사에 맞춘 것도 이런 이유입니다.
 
 아직 정식 이름조차 공개하지 않은 작품을 국내 행사보다 먼저 글로벌 생방송 무대에 올리는 것은 처음부터 해외 이용자의 반응을 중요한 기준으로 본다는 신호로 읽을 수 있죠. 그리고 아이온 2, 신더시티도 같은 행사에 함께 등장합니다.
-
-<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/gamescom-2026-korean-game-companies/02-ncsoft-cinder-city.jpg" alt="엔씨 신더시티 트레일러 아트" loading="lazy" />
 
 ## 2. 가챠 모바일 이미지에서 벗어나려는 한국 게임들
 
@@ -79,8 +76,6 @@ hideDescription: true
 
 반대로 자신 있는 빌드를 보여줄 수 있다면 영상보다 더욱 강한 신뢰를 쌓을 수도 있습니다. 최근 게임 이용자들이 사전 제작 영상보다 실제 플레이 화면을 더 중요하게 보는 분위기와도 맞아떨어집니다.
 
-<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/gamescom-2026-korean-game-companies/03-krafton-gamescom-lineup.jpg" alt="크래프톤 게임스컴 출품 라인업 공개 이미지" loading="lazy" />
-
 ## 4. 국내 반응과 해외 반응
 
 한국에서 익숙한 과금 구조, 조작 방식, 캐릭터 디자인이 해외에서는 잘 통하지 않습니다. 반대로 국내에서는 낯선 장르가 해외에서는 더 큰 시장을 가질 수도 있습니다.
@@ -91,19 +86,7 @@ hideDescription: true
 
 그래서 게임스컴 출품을 단순히 해외 홍보라고 보기보다 출시 전략을 검증하는 과정으로 보는 편이 더 정확합니다.
 
-## 5. 이후가 더 중요
-
-사실 게임쇼에서 박수를 많이 받았다고 흥행이 보장되는 것은 아닙니다. 예고 영상이 좋았지만 실제 출시에서 평가가 무너진 게임도 많았고, 반대로 행사에서 조용했던 작품이 입소문으로 성공하는 경우도 있었기 때문입니다.
-
-결국 게임스컴은 시작점입니다.
-
-프로젝트 본파이어의 정식 이름과 게임 방식이 공개된 뒤 실제 이용자 반응이 유지되는지, 크래프톤의 미공개 신작이 행사 이후에도 관심을 이어가는지가 더 중요한거죠. 사실 공개 직후 찬사보다 출시까지 얼마나 꾸준히 정보를 쌓는지가 승부가 될 가능성이 큽니다.
-
-올해 한국 게임사를 볼 때는 몇 개 작품을 공개했는지만 세기보다 어떤 게임을 직접 시연하게 하는지, 어느 플랫폼을 목표로 하는지, 해외 반응을 어떻게 이어가는지를 보시면 요즘 흐름이 더 잘 보입니다.
-
-<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/gamescom-2026-korean-game-companies/04-gamescom-indie-show.jpg" alt="게임스컴 행사장 방문객들" loading="lazy" />
-
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>
@@ -113,3 +96,13 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
+
+## 5. 이후가 더 중요
+
+사실 게임쇼에서 박수를 많이 받았다고 흥행이 보장되는 것은 아닙니다. 예고 영상이 좋았지만 실제 출시에서 평가가 무너진 게임도 많았고, 반대로 행사에서 조용했던 작품이 입소문으로 성공하는 경우도 있었기 때문입니다.
+
+결국 게임스컴은 시작점입니다.
+
+프로젝트 본파이어의 정식 이름과 게임 방식이 공개된 뒤 실제 이용자 반응이 유지되는지, 크래프톤의 미공개 신작이 행사 이후에도 관심을 이어가는지가 더 중요한거죠. 사실 공개 직후 찬사보다 출시까지 얼마나 꾸준히 정보를 쌓는지가 승부가 될 가능성이 큽니다.
+
+올해 한국 게임사를 볼 때는 몇 개 작품을 공개했는지만 세기보다 어떤 게임을 직접 시연하게 하는지, 어느 플랫폼을 목표로 하는지, 해외 반응을 어떻게 이어가는지를 보시면 요즘 흐름이 더 잘 보입니다.

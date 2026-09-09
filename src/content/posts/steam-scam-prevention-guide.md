@@ -47,9 +47,8 @@ hideDescription: true
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
@@ -72,13 +71,7 @@ hideDescription: true
 
 또한 타인에게 스팀 지갑 코드를 보내달라는 요청도 흔합니다. 코드는 현금과 같다고 생각하면 됩니다. 누가 어떤 이유로든 지갑 코드나 결제 카드 정보를 요구하면 거래를 중단하고 신고하는 것이 맞습니다.
 
-## 5. 이미 당했거나 의심될 때 대처법
-
-로그인을 이상한 페이지에서 했거나 아이템이 사라졌다면 계정과 기기를 즉시 보호해야 합니다. 비밀번호 변경과 기기 인증 해제가 첫 단계입니다.
-
-① 스팀 공식 사이트에 접속해 비밀번호를 즉시 변경하고, 스팀 가드가 없다면 바로 활성화하세요. ② 계정 설정에서 최근 로그인 기록을 확인하고, 모르는 기기가 있으면 해당 기기의 인증을 해제하세요. ③ 스팀 지원에 '계정 도난' 신고를 접수하고, 거래 기록이 있다면 아이템 복원을 요청하세요. ④ 확인되지 않은 확장 프로그램을 설치했다면 브라우저에서 제거하고, 컴퓨터 전체에서 계정 값을 입력한 기억이 있다면 다른 사이트 비밀번호도 함께 바꾸는 것이 안전합니다.
-
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>
@@ -88,3 +81,9 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
+
+## 5. 이미 당했거나 의심될 때 대처법
+
+로그인을 이상한 페이지에서 했거나 아이템이 사라졌다면 계정과 기기를 즉시 보호해야 합니다. 비밀번호 변경과 기기 인증 해제가 첫 단계입니다.
+
+① 스팀 공식 사이트에 접속해 비밀번호를 즉시 변경하고, 스팀 가드가 없다면 바로 활성화하세요. ② 계정 설정에서 최근 로그인 기록을 확인하고, 모르는 기기가 있으면 해당 기기의 인증을 해제하세요. ③ 스팀 지원에 '계정 도난' 신고를 접수하고, 거래 기록이 있다면 아이템 복원을 요청하세요. ④ 확인되지 않은 확장 프로그램을 설치했다면 브라우저에서 제거하고, 컴퓨터 전체에서 계정 값을 입력한 기억이 있다면 다른 사이트 비밀번호도 함께 바꾸는 것이 안전합니다.

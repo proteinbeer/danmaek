@@ -42,18 +42,6 @@ hideDescription: true
 | ZZZ28HERO | 폴리크롬 60 |
 | 64GM5HQF2F | 데니 20,000 |
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 폴리크롬을 모으는 게 목표라면 ZZZMEIJI → ZZZ2YEAR → ZENLESSGIFT 순으로 먼저 입력해두시면 됩니다. 코드가 듣지 않으면 만료됐거나 이미 사용한 상태일 가능성이 높습니다.
 
 ## 2. 입력 방법 (게임 내 교환 코드)
@@ -63,6 +51,17 @@ hideDescription: true
 게임 실행 후 **ESC 키(또는 좌측 상단 메뉴)**를 눌러 **더보기**를 열고, **교환 코드** 메뉴를 선택합니다. 코드를 정확히 입력하고 교환을 누르면 보상이 우편함으로 지급됩니다.
 
 아이폰(iOS)은 앱 정책상 게임 내 입력이 제한될 수 있습니다. 이 경우 아래 공식 리딤 사이트 방법을 이용하시기 바랍니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 3. 공식 리딤 사이트에서 입력하는 방법
 
@@ -76,12 +75,11 @@ hideDescription: true
 
 예를 들어 zzzCuteness는 소문자 'zzz'로 시작하는 코드입니다. O와 0, I와 l처럼 헷갈리는 문자도 있으므로 복사해 입력하는 습관이 중요하죠.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->

@@ -46,8 +46,6 @@ hideDescription: true
 
 그래서 실적을 보실 때 전체 매출 증가율과 함께 데이터센터 매출이 얼마나 늘었는지를 따로 보셔야 합니다.
 
-<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/nvidia-q2-earnings-2026/02-nvidia-earnings.jpg" alt="엔비디아 젠슨 황 CEO 컴퓨텍스 2025 키노트" loading="lazy" />
-
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
@@ -75,6 +73,17 @@ hideDescription: true
 
 로이터는 시장이 루빈의 공급 속도와 초기 수요를 이번 실적 발표의 핵심 관전 포인트 가운데 하나로 보고 있다고 합니다. 현재 제품이 얼마나 팔렸는지보다 다음 제품이 얼마나 빨리 돈을 벌기 시작하는지가 중요하다는 뜻이죠.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 인공지능 투자에 돈이 너무 많이
 
 대형 기술기업은 데이터센터에 수천억달러 규모의 투자를 계속하고 있습니다. 엔비디아는 이 지출의 가장 큰 수혜자 가운데 하나입니다.
@@ -83,8 +92,6 @@ hideDescription: true
 
 엔비디아는 인공지능 기반 시설 투자에 직접 금융 지원까지 확대하고 있습니다. 회사 입장에서는 시장을 키우는 전략이지만 투자자 입장에서는 실제 최종 수요와 금융 지원으로 만들어진 수요를 얼마나 구분할 수 있는지도 중요한 문제가 되죠.
 
-<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/nvidia-q2-earnings-2026/04-nvidia-earnings.jpg" alt="엔비디아 AI 팩토리 투자 비전" loading="lazy" />
-
 ## 6. 중국보다 더 커지는 경쟁 문제
 
 미국의 반도체 수출 규제로 엔비디아의 중국 사업은 계속 영향을 받고 있습니다. 어떤 제품을 판매할 수 있는지 자체가 정책에 따라 달라질 수 있기 때문에 중국 매출은 항상 변수입니다.
@@ -92,6 +99,17 @@ hideDescription: true
 여기에 경쟁도 커지고 있습니다. AMD와 인텔뿐 아니라 구글과 아마존, 마이크로소프트 같은 엔비디아의 가장 큰 고객들이 자체 인공지능 칩을 개발하고 있습니다.
 
 고객이 동시에 경쟁자가 되는 구조죠. 지금 당장은 엔비디아 가속기에 대한 수요가 강하지만 대형 고객이 자체 칩 비중을 늘리기 시작하면 장기 성장률에 영향을 줄 수 밖에 없습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 7. 다음 분기 전망
 
@@ -110,8 +128,6 @@ hideDescription: true
 현재 엔비디아는 인공지능 열풍의 중심에서 실제로 돈을 가장 많이 벌고 있는 기업 가운데 하나입니다. 그래서 매출 성장률이 둔화되면 단순히 엔비디아 한 회사가 나빠졌다는 해석보다 인공지능 기반 시설 투자가 정점을 서서히 지나고 있는 것 아니냐는 의심으로 번질 수 밖에 없습니다.
 
 반대로 920억달러를 넘는 매출과 높은 총이익률, 강한 다음 분기 전망을 동시에 보여주면 대형 기술기업의 인공지능 투자가 아직 끝나지 않았다는 근거가 됩니다. 결국 이번 실적은 숫자 하나보다 인공지능 산업 전체가 지금의 투자 속도를 얼마나 오래 유지할 수 있는지를 확인하는 발표에 가깝죠.
-
-<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/nvidia-q2-earnings-2026/03-nvidia-earnings.jpg" alt="엔비디아 젠슨 황 CEO CES 2025 키노트" loading="lazy" />
 
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">

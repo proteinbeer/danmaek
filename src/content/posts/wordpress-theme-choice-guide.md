@@ -80,6 +80,17 @@ hideDescription: true
 - 상업용 사이트라면 단일 사이트 라이선스인지, 무제한 라이선스인지도 판매 상세에 따라 다르니 확인합니다.
 - 무료 테마의 경우 라이선스가 꼬여 배포가 중단되는 경우도 있으니, 다운로드 페이지의 라이선스 표기를 읽어봅니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 선택 기준 간단 정리
 
 사이트 목적에 따라 추천하는 선택이 달라집니다.
@@ -102,7 +113,7 @@ hideDescription: true
 
 무료든 유료든 "테마는 시작점"이라는 것을 기억하시기 바랍니다. 테마를 바꾸면 페이지 편집이 흔들리는 경우가 많아, 바꿀수록 유지보수 비용은 올라갑니다. 처음부터 한 번 잘 고른 것이 장기적으로 가장 싼 선택입니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>

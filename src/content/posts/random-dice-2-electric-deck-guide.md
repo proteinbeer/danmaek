@@ -41,29 +41,39 @@ hideDescription: true
 
 초보용 구성은 전기·적응·소환·성장·얼음이었습니다. 딜, 합성 유연성, 필드 유지, 성장, 제어를 한 번에 담아 손이 바빠도 크게 무너지지 않습니다. 성장 주사위가 없다면 얼음이나 기본 보조 딜러를 넣고 버티는 식으로 대체해도 됩니다.
 
-## 3. 합성 타이밍과 눈금 관리
-
-전기덱에서 가장 흔한 실수는 시작하자마자 같은 눈금이 보인다고 바로 합성하는 것입니다. 필드에 공격 주사위가 너무 적으면 몬스터가 빠르게 쌓이고, 특히 전기가 1~2개밖에 없을 때 무리하게 합성하면 딜 공백이 생깁니다.
-
-초반에는 필드의 절반 이상을 채운 뒤 합성을 생각하는 것이 안정적입니다. 전기가 최소 3개 이상 보일 때부터 눈금 관리를 시작하는 기준을 잡아두면 급하게 합성하다 필드가 비는 일을 줄일 수 있습니다. 소환 주사위는 초반 SP가 빡빡할 때 잘 활용해 필드를 빨리 채우고, 적응과 엮어 불필요한 칸을 처리합니다.
-
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
 
+## 3. 합성 타이밍과 눈금 관리
+
+전기덱에서 가장 흔한 실수는 시작하자마자 같은 눈금이 보인다고 바로 합성하는 것입니다. 필드에 공격 주사위가 너무 적으면 몬스터가 빠르게 쌓이고, 특히 전기가 1~2개밖에 없을 때 무리하게 합성하면 딜 공백이 생깁니다.
+
+초반에는 필드의 절반 이상을 채운 뒤 합성을 생각하는 것이 안정적입니다. 전기가 최소 3개 이상 보일 때부터 눈금 관리를 시작하는 기준을 잡아두면 급하게 합성하다 필드가 비는 일을 줄일 수 있습니다. 소환 주사위는 초반 SP가 빡빡할 때 잘 활용해 필드를 빨리 채우고, 적응과 엮어 불필요한 칸을 처리합니다.
+
 ## 4. 배치 원칙
 
 전기 피해가 주변 적에게 이어지는 특성 때문에, 몬스터가 오래 지나가는 구간에 전기 주사위가 많을수록 효율이 좋습니다. 보통은 중앙이나 경로 체류 시간이 긴 쪽에 전기를 몰아두는 편이 낫습니다.
 
 적응이나 소환처럼 직접 딜 비중이 낮은 주사위는 가장자리 쪽에 있어도 괜찮습니다. 스위치 같은 위치 조정 수단이 있다면 전기를 좋은 자리로 옮기고, 보조 주사위는 합성 재료로 쓰기 쉬운 위치에 둡니다. 배치만 정리해도 같은 덱인데 웨이브 밀림이 확 줄어듭니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 업그레이드 우선순위
 
@@ -77,12 +87,11 @@ hideDescription: true
 
 덱이 안정되면 그때 포식이나 변이 같은 고점 덱으로 넘어가도 늦지 않습니다. 전기덱으로 합성과 배치의 기본을 다진 뒤 운영 요령이 쌓이면, 어떤 덱으로 갈아타더라도 같은 원리가 적용되어 적응이 빠르다는 장점이 있습니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->

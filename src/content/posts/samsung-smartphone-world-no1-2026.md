@@ -38,8 +38,6 @@ hideDescription: true
 
 다만 세계 시장 전체를 보면 모든 소비자가 울트라 가격을 감당할 수 있는 것은 아닙니다. 그래서 삼성에는 고급형과 보급형을 동시에 운영하는 구조가 중요하죠.
 
-<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/samsung-smartphone-world-no1-2026/02-samsung-galaxy-s26-ultra.jpg" alt="삼성 갤럭시 S26 울트라" loading="lazy" />
-
 ## 2. 판매량을 받치는 A 시리즈
 
 갤럭시 A 시리즈는 국가와 가격대에 따라 다양한 제품으로 판매되고 있습니다. 최신 기능을 모두 넣기보다 필요한 기능을 남기고 가격을 낮추는 역할을 합니다.
@@ -75,7 +73,16 @@ hideDescription: true
 
 2분기처럼 전체 시장이 줄어든 상황에서 삼성의 점유율이 올라간 배경도 이런 구조와 연결해서 볼 수 있습니다.
 
-<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/samsung-smartphone-world-no1-2026/03-samsung-s26-lineup.jpg" alt="삼성 갤럭시 S26 시리즈 라인업" loading="lazy" />
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 애플은 다른 방식
 
@@ -93,16 +100,6 @@ hideDescription: true
 
 그런데 삼성은 A 시리즈와 S 시리즈를 모두 가지고 있어 이런 양극화에 동시에 대응할 수 있죠.
 
-<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/samsung-smartphone-world-no1-2026/04-samsung-galaxy-a57.jpg" alt="삼성 갤럭시 A57 5G" loading="lazy" />
-
-## 7. 세계 1위보다 더 중요한 숫자
-
-출하량 1위라는 숫자는 보기 좋지만 모든 스마트폰 한 대가 같은 이익을 남기지는 않습니다. 고급형 판매 비중이 높을수록 적은 판매량으로도 높은 매출을 만들 수도 있습니다.
-
-삼성이 울트라와 폴더블 제품을 계속 강조하는 이유도 여기에 있습니다. A 시리즈로 시장 점유율을 지키면서 S 시리즈와 폴더블로 수익성을 높여야 하기 때문이죠.
-
-앞으로 삼성 스마트폰을 보실 때는 세계 1위라는 숫자와 함께 고급형 판매 비중이 얼마나 올라가는지도 같이 보시는 편이 중요합니다.
-
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
@@ -113,3 +110,11 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
+
+## 7. 세계 1위보다 더 중요한 숫자
+
+출하량 1위라는 숫자는 보기 좋지만 모든 스마트폰 한 대가 같은 이익을 남기지는 않습니다. 고급형 판매 비중이 높을수록 적은 판매량으로도 높은 매출을 만들 수도 있습니다.
+
+삼성이 울트라와 폴더블 제품을 계속 강조하는 이유도 여기에 있습니다. A 시리즈로 시장 점유율을 지키면서 S 시리즈와 폴더블로 수익성을 높여야 하기 때문이죠.
+
+앞으로 삼성 스마트폰을 보실 때는 세계 1위라는 숫자와 함께 고급형 판매 비중이 얼마나 올라가는지도 같이 보시는 편이 중요합니다.

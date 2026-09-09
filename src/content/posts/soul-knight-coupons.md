@@ -58,18 +58,6 @@ hideDescription: true
 | FLOWERS | 칠색 비올라 씨앗 5개 |
 | SKback2023 | 보석 233개, 부활 쿠폰 2개, 무료 체험 쿠폰 2개 |
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 보석 999개를 주는 코드가 특히 값지죠. 특히 초반 캐릭터 성장에 보석이 핵심 재정이므로 코드를 정확히 입력해두면 시작이 편해집니다.
 
 ## 2. 입력 방법
@@ -81,6 +69,17 @@ hideDescription: true
 '선물 코드를 입력하세요' 입력란에 쿠폰 코드를 넣고 체크 버튼을 누르면 즉시 보상이 지급됩니다. 코드는 대소문자를 정확히 맞춰야 하며, 복사 붙여넣기로 입력하면 오타를 피할 수 있죠.
 
 입력했는데 반응이 없다면 이미 사용한 코드이거나 오타가 난 경우가 많습니다. 다른 코드로 다시 시도해 주시기 바랍니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 3. 오래된 코드도 찾아보면
 
@@ -98,12 +97,11 @@ hideDescription: true
 
 새 쿠폰은 칠리룸 공식 커뮤니티와 소셜 채널에서 공개됩니다. 기간이 제한된 코드가 있으니 공개 소식을 자주 확인하면 놓치지 않습니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->

@@ -82,6 +82,17 @@ hideDescription: true
 
 전체 이전은 유료 가입이 없어도 가능합니다. 그러니 클라우드 미지원 게임이 많다면 이 방법으로 새 기기에 옮기시면 됩니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 기기를 보내기 전에 반드시 할 일
 
 기기를 판매하거나 양도하기 전에는 반드시 초기화를 해야 합니다.
@@ -103,7 +114,7 @@ hideDescription: true
 
 백업 날짜가 "어제"가 아니라 "한 달 전"인 게임이 있다면 그 게임은 사실상 복구 불가능한 상태입니다. 이 간단한 확인을 익숙하게 만들어 두시기 바랍니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>

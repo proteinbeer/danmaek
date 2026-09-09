@@ -47,18 +47,6 @@ hideDescription: true
 | M0narciscoming0730 | 맞춤 추첨권 10개 |
 | 5UMM3R_EV3NT | 여름 이벤트 보상 |
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 보상은 코드마다 조금씩 다르지만 (게임 내 리딤 코드)
 
 나 혼자만 레벨업 어라이즈 쿠폰은 게임 안에서 바로 입력할 수 있습니다.
@@ -77,6 +65,17 @@ hideDescription: true
 
 웹 등록도 인게임 등록과 동일하게 계정당 1회 사용이 원칙입니다. 어느 쪽이든 입력 후에는 우편함에서 보상을 받아야 하죠.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 4. 계정당 1회, 기한이 짧은 코드 주의
 
 나 혼자만 레벨업 쿠폰은 모두 계정당 1회만 사용할 수 있습니다. 같은 코드를 다시 입력하면 이미 사용한 코드라는 안내가 나옵니다.
@@ -84,15 +83,3 @@ hideDescription: true
 새 코드는 업데이트나 방송, 캐릭터 출시 때마다 공개되며 일정한 주기는 없습니다. 만료가 빠른 코드가 많아 공식 커뮤니티와 방송 안내를 자주 확인하는 편이 좋죠.
 
 코드를 놓치지 않으려면 새 공지가 올라올 때 바로 입력하는 것이 가장 확실합니다. 이 글 목록도 최신 코드가 나오면 계속 갱신하도록 하겠습니다.
-
-<div style="margin: 40px 0 28px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

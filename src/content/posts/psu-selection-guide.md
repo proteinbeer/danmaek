@@ -23,13 +23,11 @@ hideDescription: true
   이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
 </p>
 
-
 조립 PC에서 가장 얕보이다가 문제가 생기기 쉬운 부품이 파워서플라이입니다. 용량이 부족하면 게임 중 재부팅이 일어나고, 규격이 안 맞으면 장착 자체가 불가능하죠.
 
 파워는 와트 수만 크다고 좋은 것이 아닙니다. 실제 사용 부품의 소비 전력을 계산하고, 등급과 규격까지 맞춰야 합니다. 선택 기준을 하나씩 정리했습니다.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/hero-bloom.jpg" alt="파워서플라이와 전원 커넥터를 확인하는 데스크톱 PC" width="1200" height="675" loading="lazy" decoding="async" />
-
 
 ## 1. 파워 용량(와트) 계산부터
 
@@ -51,16 +49,6 @@ hideDescription: true
 
 무조건 최상위 등급이 필요한 것은 아닙니다. 브론즈~골드 구간에서 안정성을 갖춘 제품을 고르는 것이 가성비가 좋습니다.
 
-## 3. 규격과 크기 확인
-
-파워는 케이스와 메인보드에 맞는 규격으로 골라야 합니다.
-
-- 대부분의 케이스는 **ATX 규격** 파워를 사용합니다. 큰 파워란이 있는 ITX 케이스는 **SFX 규격**을 요구합니다.
-- 케이스의 파워 장착 구역 크기와 파워 길이(mm)를 비교해야 간섭 없이 장착됩니다.
-- 장착 방향(흡기 팬이 케이스 바닥을 향하는지)도 케이스 구조에 따라 결정됩니다.
-
-케이스 스펙에 지원 파워 규격이 적혀 있습니다. 구매 전에 케이스 제품 정보와 파워 길이를 함께 확인하시기 바랍니다.
-
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
@@ -72,6 +60,16 @@ hideDescription: true
   </div>
 </div>
 
+## 3. 규격과 크기 확인
+
+파워는 케이스와 메인보드에 맞는 규격으로 골라야 합니다.
+
+- 대부분의 케이스는 **ATX 규격** 파워를 사용합니다. 큰 파워란이 있는 ITX 케이스는 **SFX 규격**을 요구합니다.
+- 케이스의 파워 장착 구역 크기와 파워 길이(mm)를 비교해야 간섭 없이 장착됩니다.
+- 장착 방향(흡기 팬이 케이스 바닥을 향하는지)도 케이스 구조에 따라 결정됩니다.
+
+케이스 스펙에 지원 파워 규격이 적혀 있습니다. 구매 전에 케이스 제품 정보와 파워 길이를 함께 확인하시기 바랍니다.
+
 ## 4. 커넥터와 케이블 모듈러 방식
 
 그래픽카드가 요구하는 전원 커넥터가 파워에 있는지 확인합니다.
@@ -81,6 +79,17 @@ hideDescription: true
 - 케이블 정리가 편한 **풀모듈러** 제품은 쓸 케이블만 연결합니다. 세미모듈러는 필수 케이블만 고정입니다.
 
 커넥터 종류는 그래픽카드 제조사 스펙표에서 확인할 수 있습니다. 파워 사양에 해당 커넥터가 몇 개 포함되는지도 상세표에 나오죠. 부족하면 젠더를 쓰기보다 여유 있는 파워를 권장합니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 보호 기능과 브랜드 신뢰도
 
@@ -102,7 +111,7 @@ hideDescription: true
 
 파워는 PC에서 오래 쓰는 부품 중 하나입니다. 한번 잘 고르면 몇 세대 업그레이드 동안 함께 쓸 수 있으므로, 용량과 규격에 여유를 두고 선택하시기 바랍니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>

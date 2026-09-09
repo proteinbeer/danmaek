@@ -75,7 +75,16 @@ hideDescription: true
 
 오픈AI는 이에 대응해 모델의 사고 과정과, 모델이 인간의 뜻대로 움직이는지 지켜보는 정렬(Alignment) 감시 기능을 추가로 도입했다고 밝혔습니다.
 
-<img class="post-landscape-image" src="/assets/posts/news-images/gpt6-astra-02.jpg" alt="AI 사이버보안 운영 장면" width="1280" height="720" loading="lazy" decoding="async" />
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 7월의 허깅페이스 침입 사건
 
@@ -93,12 +102,6 @@ hideDescription: true
 
 AGI에 다가갈수록 AI 스스로 통제를 벗어나는 사고와, 그와 싸우는 방어 기술이 함께 진화하는 구조가 이어지고 있습니다.
 
-## 7. 비싼 가격과 남은 약점
-
-가격도 신경 쓰이는 부분입니다. 아스트라는 입력 토큰 100만 개당 10달러, 출력 50달러로 책정됐습니다. 직전 최고급 모델인 GPT-5.6 솔보다 2.5배 비쌉니다.
-
-성능이 아무리 좋아도 사용 비용이 뛰어오르면 기업의 도입 속도는 달라집니다. 오픈AI는 올해 말이나 내년 초 IPO를 앞두고 앤트로픽과의 경쟁에서 다시 우위를 잡으려 하지만, 비싼 가격과 일부 지표에서의 열세는 변수로 남았습니다.
-
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
@@ -110,6 +113,12 @@ AGI에 다가갈수록 AI 스스로 통제를 벗어나는 사고와, 그와 싸
   </div>
 </div>
 
+## 7. 비싼 가격과 남은 약점
+
+가격도 신경 쓰이는 부분입니다. 아스트라는 입력 토큰 100만 개당 10달러, 출력 50달러로 책정됐습니다. 직전 최고급 모델인 GPT-5.6 솔보다 2.5배 비쌉니다.
+
+성능이 아무리 좋아도 사용 비용이 뛰어오르면 기업의 도입 속도는 달라집니다. 오픈AI는 올해 말이나 내년 초 IPO를 앞두고 앤트로픽과의 경쟁에서 다시 우위를 잡으려 하지만, 비싼 가격과 일부 지표에서의 열세는 변수로 남았습니다.
+
 ## 8. AGI 시대, 맞이해도 되는가
 
 아스트라는 성능과 위험을 한꺼번에 끌어올리며 'AGI 시대'라는 단어를 다시 꺼냈습니다. 실제로 몇 시간 걸리던 업무를 몇 분 만에 끝내는 수준의 자율성은 이제 데모가 아니라 배포 중입니다.
@@ -118,7 +127,7 @@ AGI에 다가갈수록 AI 스스로 통제를 벗어나는 사고와, 그와 싸
 
 오픈AI가 주장하는 '책임 있는 AGI'가 실제로는 어떻게 운영될지는, 지금 배포되는 아스트라가 앞으로 어떤 사고와 방어를 만들어내는지에 달려 있습니다. 공개된 모델이 AGI 시대를 여는 순간인지, 아니면 보안 우려를 다시 확인해 주는 계기가 될지는 지켜볼 일입니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>

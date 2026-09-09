@@ -46,10 +46,6 @@ GTA 6를 기다리고 있다면 11월 19일에 게임만 나오는 게 아닙니
 
 검정 모델은 플레이스테이션 다이렉트 중심으로 더 제한적으로 풀립니다. 일부 지역에서는 선택된 판매점에서도 판매되지만, 소니가 두 디자인의 희소성을 똑같이 잡지는 않은 셈이죠.
 
-## 3. 9월 10일이 먼저 중요한 이유
-
-게임 출시는 11월이지만 패드를 원한다면 먼저 볼 날짜는 9월 10일입니다. 독일, 프랑스, 오스트리아, 스페인, 이탈리아를 포함한 지원 지역에서 현지 시간 오전 10시부터 예약이 시작됩니다.
-
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
@@ -60,6 +56,10 @@ GTA 6를 기다리고 있다면 11월 19일에 게임만 나오는 게 아닙니
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
+
+## 3. 9월 10일이 먼저 중요한 이유
+
+게임 출시는 11월이지만 패드를 원한다면 먼저 볼 날짜는 9월 10일입니다. 독일, 프랑스, 오스트리아, 스페인, 이탈리아를 포함한 지원 지역에서 현지 시간 오전 10시부터 예약이 시작됩니다.
 
 GTA 한정판이라는 이름만으로 수요가 몰릴 가능성이 있기 때문에 출시일까지 기다렸다가 사는 전략은 위험할 수 있습니다. 소니도 처음부터 한정 수량이라고 명시하고 있습니다.
 
@@ -73,7 +73,16 @@ GTA 한정판이라는 이름만으로 수요가 몰릴 가능성이 있기 때�
 
 하드웨어 기능은 같은 계열이고 차별점은 디자인입니다. 결국 이번 제품은 성능 업그레이드보다 GTA 6 출시일 자체를 하나의 기념일처럼 만드는 상품에 가깝습니다.
 
-<img class="post-landscape-image" src="/assets/posts/news-images/gta6-dualsense-2026-02.jpg" alt="GTA 6 한정판 듀얼센스 무선 컨트롤러" width="1280" height="720" loading="lazy" decoding="async" />
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. GTA 6가 게임 밖까지 확장되는 방식
 
@@ -90,15 +99,3 @@ GTA 6는 아직 출시 전인데 이미 현실 도시 협업, 한정판 하드�
 게임을 처음 실행하는 순간부터 같은 테마의 패드를 쓰게 만드는 방식이죠. GTA 6가 단순한 신작보다 하나의 출시 행사처럼 움직이고 있다는 인상을 더 강하게 만듭니다.
 
 한국 판매 방식과 정확한 물량은 지역별 공지를 확인해야 합니다. 해외 플레이스테이션 다이렉트의 예약 시간과 판매 조건을 그대로 국내 판매에 적용해서 보면 안 됩니다.
-
-<div style="margin: 40px 0 28px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-

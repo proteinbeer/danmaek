@@ -29,7 +29,6 @@ hideDescription: true
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/hero-bloom.jpg" alt="윈도우 11 초기화를 진행할 PC 환경" width="1280" height="720" loading="lazy" decoding="async" />
 
-
 ## 1. 내 파일 유지
 
 내 파일 유지를 고르면 윈도우를 다시 설치하면서 문서, 사진 같은 개인 파일만 남깁니다. 대신 설치한 앱과 윈도우 설정은 제거되죠.
@@ -49,9 +48,8 @@ hideDescription: true
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
@@ -76,16 +74,7 @@ hideDescription: true
 
 또한 Windows의 **장치 암호화(비트로커)**를 사용 중이라면 **비트로커 복구 키**를 미리 확인해두시면 됩니다. 초기화 과정에서 복구 키를 요구할 수 있고, 복구 키를 잃어버리면 데이터에 접근하지 못할 수 있기 때문입니다. 복구 키는 마이크로소프트 계정이나 복구 키 백업 파일에서 찾을 수 있습니다.
 
-## 5. 초기화 진행 중 주의사항
-
-초기화가 진행되는 동안 화면이 한동안 검게 남거나 여러 번 재부팅될 수 있고, 이때 전원을 강제로 끄면 실패할 수 있으니 끝까지 기다리시는 것이 좋습니다.
-
-윈도우 초기화는 진행 과정에서 화면이 갑자기 꺼지거나, 검은 화면이 오래 지속되거나, 여러 번 재부팅될 수 있습니다. 이는 정상적인 초기화 과정이므로 당황하지 말고 끝까지 기다려야 합니다.
-
-**절대 전원을 강제로 끄지 않는 것이 좋습니다.** 초기화가 진행되는 동안 전원을 끄면 윈도우가 손상되거나 초기화가 실패할 수 있습니다. 노트북은 전원 어댑터를 연결한 상태로 진행하는 것이 안전합니다. 초기화가 끝나면 윈도우 설정 초기 화면이 나타나며, 이후 프로그램과 설정을 다시 해야 합니다.
-
-
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>
@@ -95,3 +84,11 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
+
+## 5. 초기화 진행 중 주의사항
+
+초기화가 진행되는 동안 화면이 한동안 검게 남거나 여러 번 재부팅될 수 있고, 이때 전원을 강제로 끄면 실패할 수 있으니 끝까지 기다리시는 것이 좋습니다.
+
+윈도우 초기화는 진행 과정에서 화면이 갑자기 꺼지거나, 검은 화면이 오래 지속되거나, 여러 번 재부팅될 수 있습니다. 이는 정상적인 초기화 과정이므로 당황하지 말고 끝까지 기다려야 합니다.
+
+**절대 전원을 강제로 끄지 않는 것이 좋습니다.** 초기화가 진행되는 동안 전원을 끄면 윈도우가 손상되거나 초기화가 실패할 수 있습니다. 노트북은 전원 어댑터를 연결한 상태로 진행하는 것이 안전합니다. 초기화가 끝나면 윈도우 설정 초기 화면이 나타나며, 이후 프로그램과 설정을 다시 해야 합니다.

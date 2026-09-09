@@ -78,6 +78,17 @@ hideDescription: true
 
 이 조합은 가이드일 뿐, 실제로는 얻은 아이템의 수치를 비교해 우선순위를 바꾸는 편이 좋습니다. 특히 후반 지역에서는 클래스 티어보다 장비 세트가 전투 결과를 더 크게 좌우할 때도 있습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 아이템 파밍과 관리 요령
 
 장비는 모험에서 바로 주어지기 때문에, 원하는 수치가 안 나올 때마다 같은 지역을 반복하는 파밍이 필요합니다. 목걸이 해금을 위해 지나온 이전 지역의 보상이 후반 빌드의 재료가 되는 경우도 많으니, 지역 클리어 후 남는 라운드를 정비 용도로 돌리는 것이 효율적입니다.
@@ -94,7 +105,7 @@ hideDescription: true
 
 결론적으로 장비는 아이템 자체 수치만큼 시점이 중요합니다. 방금 뽑은 우수 개체에 명중 보장 아이템과 맞는 세트를 얹어주면 전투 효율이 급격히 올라가며, 이 흐름이 전체 파티의 클리어 속도를 결정합니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>

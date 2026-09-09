@@ -48,8 +48,6 @@ hideDescription: true
 
 이건 총을 잘 쏘는 유저뿐 아니라 여러 능력과 조합을 시험하는 유저까지 끌어들이려는 선택으로 볼 수 있습니다.
 
-<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/pubg-deadnet-gamescom-2026/02-pubg-deadnet.jpg" alt="PUBG 데드넷 게임플레이 스크린샷" loading="lazy" />
-
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
@@ -77,7 +75,16 @@ hideDescription: true
 
 너무 다르면 왜 PUBG인지 의문이 생기고, 너무 비슷하면 굳이 새 게임을 할 이유가 없어지죠. 그래서 데드넷이 해결해야 하는 가장 어려운 문제도 바로 이 사이에 있습니다.
 
-<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/pubg-deadnet-gamescom-2026/03-pubg-deadnet.jpg" alt="PUBG 데드넷 전투 장면" loading="lazy" />
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 배틀그라운드2보다 프랜차이즈
 
@@ -90,14 +97,3 @@ hideDescription: true
 그런데 데드넷처럼 다른 장르와 구조를 선택하면 두 게임을 동시에 운영하기가 훨씬 쉽죠. 기존 배틀그라운드를 좋아하는 유저들은 그대로 남고, 반복 성장과 새로운 세계관을 원하는 유저는 데드넷으로 이동할 수 있기 때문입니다.
 
 현재 출시일은 확정되지 않았고 비공개 테스트 참가 등록이 진행되고 있습니다. 결국 첫 시험에서 총기 감각과 로그라이트 성장이 얼마나 자연스럽게 연결되는지가 데드넷의 방향을 결정할 가능성이 크죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

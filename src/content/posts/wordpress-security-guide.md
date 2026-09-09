@@ -76,6 +76,17 @@ hideDescription: true
 - FTP 계정을 사용한다면 **FTP용 전용 계정**을 만들어 사이트 파일만 접근할 수 있게 제한합니다.
 - 데이터베이스 비밀번호는 무작위로 긴 값을 사용하고, 관리자 패널에서 바꿀 수 있는 곳이면 즉시 변경합니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 정기 백업과 복구 절차
 
 아무리 막아도 뚫리는 상황은 완전히 없앨 수 없습니다. 그래서 **복구 계획**이 마지막 보안입니다.
@@ -98,7 +109,7 @@ hideDescription: true
 
 여러 보안 플러그인을 동시에 쓰면 충돌이 나는 경우가 많으므로, 한 개만 선택해 제대로 설정하는 것이 좋습니다. 로그인 보호 하나면 충분한 소규모 사이트도 많죠.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>

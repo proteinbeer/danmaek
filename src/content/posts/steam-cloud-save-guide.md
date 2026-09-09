@@ -42,9 +42,8 @@ hideDescription: true
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
@@ -63,13 +62,7 @@ hideDescription: true
 
 특히 온라인 게임이나 멀티플레이어 게임은 클라우드 저장이 아닌 서버에 세이브가 저장되는 경우가 있어, 로컬 폴더를 확인하는 것이 더 정확합니다. 세이브 폴더 위치는 게임 위키나 커뮤니티에서 쉽게 찾을 수 있습니다.
 
-## 5. 게임별 클라우드 저장 시간 설정
-
-스팀은 게임마다 클라우드 저장 간격을 조절할 수 있습니다. **설정 → 클라우드**에서 클라우드 저장 기능을 끄거나 켤 수 있고, 게임별로는 **속성 → 업데이트** 창에서 개별 설정을 지정할 수 있죠.
-
-기본적으로 클라우드 저장을 켜 두고, 세이브가 민감하거나 특별한 게임만 별도로 관리하는 것이 일반적입니다. 평소에는 클라우드 저장을 켜 두는 편이 세이브 유실을 막는 가장 쉬운 방법입니다.
-
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>
@@ -79,3 +72,9 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
+
+## 5. 게임별 클라우드 저장 시간 설정
+
+스팀은 게임마다 클라우드 저장 간격을 조절할 수 있습니다. **설정 → 클라우드**에서 클라우드 저장 기능을 끄거나 켤 수 있고, 게임별로는 **속성 → 업데이트** 창에서 개별 설정을 지정할 수 있죠.
+
+기본적으로 클라우드 저장을 켜 두고, 세이브가 민감하거나 특별한 게임만 별도로 관리하는 것이 일반적입니다. 평소에는 클라우드 저장을 켜 두는 편이 세이브 유실을 막는 가장 쉬운 방법입니다.

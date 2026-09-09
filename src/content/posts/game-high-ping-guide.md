@@ -29,7 +29,6 @@ hideDescription: true
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/network-guide-common.jpg" alt="온라인 게임 플레이 중 핑 문제" width="1200" height="675" loading="lazy" decoding="async" />
 
-
 ## 1. 다운로드와 업데이트 확인
 
 스팀, 윈도우 업데이트, 클라우드 동기화, 게임 런처가 뒤에서 파일을 내려받고 있으면 핑이 크게 올라갑니다. 그래서 작업 관리자와 각 게임 런처에서 현재 다운로드가 진행 중인지 확인해보시면 되죠.
@@ -49,9 +48,8 @@ hideDescription: true
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
@@ -76,18 +74,7 @@ hideDescription: true
 
 게임 안에서 서버 지역을 선택할 수 있다면, 실제 살고 있는 지역과 가까운 서버가 선택되어 있는지 확인하시면 됩니다. 서버와의 거리가 멀수록 왕복 지연 시간이 늘어나므로, 가까운 서버를 선택하는 것이 중요합니다.
 
-## 5. 속도보다 지연 시간이 중요
-
-다운로드 속도가 빠르다고 게임 핑까지 반드시 낮은 것은 아닙니다. 온라인 게임은 데이터 양보다 서버까지 왕복하는 시간이 중요해서, 속도 측정 결과만 보고 정상이라고 판단하면 원인을 놓칠 수 있기 때문입니다.
-
-인터넷 속도 측정 결과 다운로드 속도가 빠르다고 해서 게임 핑이 낮은 것은 아닙니다. 온라인 게임은 대량의 데이터를 받는 것이 아니라 서버와 주고받는 작은 패킷의 **왕복 지연 시간(핑)**이 중요합니다. 때문에 속도가 빠른 것만으로 정상이라고 판단하면 핑 문제의 원인을 놓칠 수 있습니다.
-
-게임의 핑을 확인할 때는 속도 측정 사이트의 다운로드 속도보다 **지연 시간(ms)** 값을 참고하시면 됩니다. 일반적으로 20~50ms 이하가 쾌적하고, 100ms를 넘으면 체감 지연이 커집니다.
-
-백그라운드 다운로드를 모두 멈추고 유선 연결에서도 여러 게임의 핑이 계속 높다면 그때 공유기 재부팅과 인터넷 회선 상태를 확인해보시는 순서가 가장 효율적입니다.
-
-
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>
@@ -97,3 +84,13 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
+
+## 5. 속도보다 지연 시간이 중요
+
+다운로드 속도가 빠르다고 게임 핑까지 반드시 낮은 것은 아닙니다. 온라인 게임은 데이터 양보다 서버까지 왕복하는 시간이 중요해서, 속도 측정 결과만 보고 정상이라고 판단하면 원인을 놓칠 수 있기 때문입니다.
+
+인터넷 속도 측정 결과 다운로드 속도가 빠르다고 해서 게임 핑이 낮은 것은 아닙니다. 온라인 게임은 대량의 데이터를 받는 것이 아니라 서버와 주고받는 작은 패킷의 **왕복 지연 시간(핑)**이 중요합니다. 때문에 속도가 빠른 것만으로 정상이라고 판단하면 핑 문제의 원인을 놓칠 수 있습니다.
+
+게임의 핑을 확인할 때는 속도 측정 사이트의 다운로드 속도보다 **지연 시간(ms)** 값을 참고하시면 됩니다. 일반적으로 20~50ms 이하가 쾌적하고, 100ms를 넘으면 체감 지연이 커집니다.
+
+백그라운드 다운로드를 모두 멈추고 유선 연결에서도 여러 게임의 핑이 계속 높다면 그때 공유기 재부팅과 인터넷 회선 상태를 확인해보시는 순서가 가장 효율적입니다.

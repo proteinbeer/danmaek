@@ -59,15 +59,13 @@ DLSS 5는 AI가 장면을 재해석하는 '뉴럴 렌더링' 기술입니다. �
 
 강제 적용이 캐릭터를 다른 인물처럼 보이게 만든 것은 이 기술이 학습한 세 가지 레이어(표면 알베도, 조명 의미론, 표면 법선)가 스타일라이즈드 캐릭터에서 모두 흐트러졌기 때문입니다. 정식판은 개발자가 마스킹으로 특정 영역에만 적용하고 강도를 조절하며, 이용자가 설정에서 완전히 끌 수도 있는 방식으로 통합될 예정입니다.
 
-<img class="post-landscape-image" src="/assets/posts/news-images/dlss5-release-2026-02.jpg" alt="DLSS 5 적용 후 게임 화면" width="1280" height="720" loading="lazy" decoding="async" />
-
 ## 4. 개발자들 사이에서도 엇갈린 평가
 
 게임 개발자들의 반응도 갈렸습니다. 바이오하자드 레퀴엠 시연을 본 GTA 5, 데스 스트랜딩 2 참여 애니메이터 마이크 요크는 "캐릭터가 다른 인물처럼 보인다"며 조명 변화에 그치지 않는 인상 변화를 우려했습니다. 반면 킹덤 컴: 딜리버런스 2 개발을 이끈 다니엘 바브라는 유출판을 직접 시험한 뒤 "의도했던 얼굴 표현에 가까워졌다"며 긍정 평가를 내렸습니다.
 
 유출본이 정식판과 다를 수 있다는 점도 고려해야 합니다. 모더들은 호환되지 않는 CUDA 코드를 수정해 RTX 4080에서도 구동하는 데 성공했지만, 엔비디아가 RTX 40 시리즈를 공식 지원할지는 발표되지 않았습니다. 정식 버전의 성능 수치에 대한 독립 검증도 아직 이뤄지지 않았습니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>

@@ -81,7 +81,7 @@ hideDescription: true
 
 코드 삽입 방식은 실수가 나면 사이트가 깨질 수 있어 주의가 필요합니다. 확실하지 않다면 호스팅 고객센터가 비밀번호 초기화를 도와주는지 먼저 문의하는 것이 안전합니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>

@@ -81,6 +81,17 @@ hideDescription: true
 
 이미 사용 중인 액세서리가 많다면 그 호환성 비용까지 계산에 넣어야 합니다. 휴대용 세팅을 새로 갖추는 비용은 생각보다 큽니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 가격과 시점
 
 가격은 두 모델의 선택을 결정하는 중요한 기준입니다.
@@ -101,7 +112,7 @@ hideDescription: true
 
 스위치 2는 확실한 업그레이드지만, 모든 분에게 필요한 업그레이드는 아닙니다. 본인의 이용 패턴을 위 기준에 대입해보시면 결정에 도움이 됩니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>

@@ -38,18 +38,6 @@ hideDescription: true
 | --- | --- | --- |
 | WUTHERINGGIFT | 별의 소리 50, 특급 공명 촉진제 2, 중급 흡입식 소생제 2, 중급 에너지 주머니 2, 클램 코인 10,000 | 상시 코드 |
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 명조는 특별 프로그램(방송) 때마다 코드 3개가 공개됩니다. 다만 이 방송 코드는 대부분 방송 후 수일에서 2주 안에 만료됩니다. 예를 들어 3.5 버전 방송 코드인 MECHANISMCITY (게임 내 리딤 코드)
 
 명조 쿠폰은 게임 안에서 바로 입력할 수 있습니다.
@@ -66,20 +54,19 @@ WUTHERINGGIFT 같은 상시 코드는 만료일 없이 계정당 1회만 사용�
 
 따라서 전략은 단순합니다. **상시 코드는 언제든, 방송 코드는 공개 직후** 입력하면 됩니다. 코드가 나왔다는 소식이 들리면 미루지 말고 바로 교환해두는 편이 좋죠.
 
-## 4. 코드가 안 될 때 확인할 사항
-
-먼저 대소문자를 확인하시기 바랍니다. O와 0, l과 I처럼 비슷한 문자 때문에 오타가 나는 경우가 많습니다.
-
-만료되었거나 계정당 1회를 이미 사용했다면 무효 안내가 나옵니다. 코드를 입력했는데도 보상이 보이지 않는다면 게임을 완전히 종료했다가 다시 실행해 우편함을 확인해주시기 바랍니다.
-
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
+
+## 4. 코드가 안 될 때 확인할 사항
+
+먼저 대소문자를 확인하시기 바랍니다. O와 0, l과 I처럼 비슷한 문자 때문에 오타가 나는 경우가 많습니다.
+
+만료되었거나 계정당 1회를 이미 사용했다면 무효 안내가 나옵니다. 코드를 입력했는데도 보상이 보이지 않는다면 게임을 완전히 종료했다가 다시 실행해 우편함을 확인해주시기 바랍니다.

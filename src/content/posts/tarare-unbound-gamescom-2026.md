@@ -48,8 +48,6 @@ hideDescription: true
 
 특히 해외 전시회에서는 몇 초 안에 게임의 인상을 남겨야 합니다. 비슷한 중세 판타지 작품이 연달아 등장하는 상황에서 복장과 건축, 언어만으로 출신 문화가 보이는 게임은 그 자체로 기억 장치를 하나 더 갖게 되는 것입니다.
 
-<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/tarare-unbound-gamescom-2026/02-tarare-combat.jpg" alt="타래 언바운드 전투 장면" loading="lazy" />
-
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
@@ -77,7 +75,16 @@ hideDescription: true
 
 낯선 문화와 낯선 게임 방식을 동시에 이해해야 하는 부담을 줄이는 겁니다.
 
-<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/tarare-unbound-gamescom-2026/03-tarare-world.jpg" alt="타래 언바운드 태귀도 세계관 스크린샷" loading="lazy" />
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 결국 남는 것은 전투
 
@@ -95,9 +102,7 @@ hideDescription: true
 
 대형 게임이 매년 수없이 쏟아지는 시장에서는 이제 익숙함만으로 살아남기 어렵죠. 그래서 타래 언바운드의 흥미로운 점은 한국적인 요소가 많다는 사실보다 그것을 굳이 감추지 않는다는 데 있습니다.
 
-<img class="post-landscape-image" src="https://img.danmaek.com/images/posts/tarare-unbound-gamescom-2026/04-tarare-classes.jpg" alt="타래 언바운드 캐릭터 클래스" loading="lazy" />
-
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>

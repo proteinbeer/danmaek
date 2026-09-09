@@ -73,6 +73,17 @@ hideDescription: true
 
 밤에는 각 지역의 탑을 오르면 주변의 관심 지점이 물음표로 표시됩니다. 랜드마크와 예상 퀘스트가 한 번에 펼쳐지므로, 새 지역에 들어가면 밤에 탑부터 확인하는 흐름이 효율적입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 흔한 초보 실수들
 
 가장 흔한 실수는 모든 퀘스트를 그 자리에서 수락하는 것입니다. 시간이 드는 일을 받는 순간 예산이 빠듯해지므로, 수락하기 전에 시간 비용부터 확인하는 습관이 필요합니다. 하나에 온전한 두세 단계를 쓰는 퀘스트도 있습니다.
@@ -93,7 +104,7 @@ hideDescription: true
 
 이 네 원칙만 머리에 두고 시작해도 30일이라는 무게에 눌리지 않습니다. 시간은 적이 아니라 설계 도구임을 받아들이는 순간, 던워커의 맛이 완전히 달라집니다. 선택의 무게와 다회차 재미까지 즐기면서 본인만의 30일을 채워보면 됩니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>

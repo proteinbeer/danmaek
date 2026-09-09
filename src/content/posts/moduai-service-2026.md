@@ -42,14 +42,6 @@ SK텔레콤이 맡은 영역의 핵심은 '실행형 AI'입니다. 앱을 설치
 
 인터페이스가 간단해질수록 AI 사용에 익숙하지 않은 이용자도 쉽게 접근할 수 있습니다. SK텔레콤은 통신사 인프라와 결합해 전국 어디서든 끊김 없이 서비스되는 것이 강점이라고 설명합니다.
 
-<img class="post-landscape-image" src="/assets/posts/news-images/moduai-service-2026-02.jpg" alt="모두의 AI 프로젝트 착수 안내 그래픽" width="1280" height="720" loading="lazy" decoding="async" />
-
-## 3. 카카오, 생활 밀착형 AI로 승부
-
-카카오는 카카오톡이라는 국민 메신저를 기반으로 한 '생활밀착형 AI'를 내세웠습니다. 일상 대화와 약속 조율, 정보 탐색이 자연스럽게 녹아드는 방식의 AI 서비스가 핵심입니다.
-
-흥미로운 점은 LG그룹의 AI 기술까지 결합한다는 계획입니다. 카카오가 가진 플랫폼과 유통망, LG 계열사가 쌓아온 AI 기술력을 합쳐 더 완성도 높은 서비스를 만들겠다는 구상이죠. 규모가 큰 두 그룹이 협력한다는 점에서 시장의 기대도 큽니다.
-
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
@@ -61,11 +53,28 @@ SK텔레콤이 맡은 영역의 핵심은 '실행형 AI'입니다. 앱을 설치
   </div>
 </div>
 
+## 3. 카카오, 생활 밀착형 AI로 승부
+
+카카오는 카카오톡이라는 국민 메신저를 기반으로 한 '생활밀착형 AI'를 내세웠습니다. 일상 대화와 약속 조율, 정보 탐색이 자연스럽게 녹아드는 방식의 AI 서비스가 핵심입니다.
+
+흥미로운 점은 LG그룹의 AI 기술까지 결합한다는 계획입니다. 카카오가 가진 플랫폼과 유통망, LG 계열사가 쌓아온 AI 기술력을 합쳐 더 완성도 높은 서비스를 만들겠다는 구상이죠. 규모가 큰 두 그룹이 협력한다는 점에서 시장의 기대도 큽니다.
+
 ## 4. KT, '이음 인사이드'로 서비스 전반에 AI를
 
 KT가 제안한 이름은 '이음 인사이드'입니다. 다양한 서비스에 AI를 심는다는 뜻으로, KT가 운영하는 커머스와 미디어, 고객 응대 등 각 서비스 곳곳에 AI를 배치하는 방식입니다.
 
 이미 통신사로서 방대한 서비스 포트폴리오를 갖고 있는 KT는 이를 AI로 연결하는 것이 포인트입니다. 한 번의 문의나 명령으로 여러 서비스를 이어주는 통합 경험을 목표로 하고 있죠. 세 회사가 겹치지 않으면서 각자의 강점을 살리는 역할 분담이 핵심입니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 12월 정식 서비스를 향한 일정
 
@@ -79,7 +88,7 @@ KT가 제안한 이름은 '이음 인사이드'입니다. 다양한 서비스에
 
 글로벌 AI 경쟁이 치열한 가운데, 정부가 모두의 AI를 단순한 공공 서비스가 아닌 산업 전반의 기술 저변을 넓히는 수단으로 바라보고 있다는 해석이 나옵니다. 앞으로 베타 과정에서 어떤 차별화된 사용성이 확보되는지가 관건이겠죠.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>

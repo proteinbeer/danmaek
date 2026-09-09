@@ -48,9 +48,8 @@ CPU, 메모리, 디스크 사용량이 계속 90% 이상인 프로그램이 있�
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
@@ -73,16 +72,7 @@ SSD(솔리드 스테이트 드라이브)는 빈 공간이 적을수록 성능이
 
 작업 관리자의 **프로세스**에서 "Windows 업데이트", 게임 플랫폼(스팀, 에픽 등) 업데이트, 백신 검사 항목이 높은 사용량을 보이고 있다면, 업데이트가 끝날 때까지 잠시 기다리거나 불필요한 자동 업데이트를 끄는 방법을 고려해보시면 됩니다.
 
-## 5. 재부팅 후에도 느리다면
-
-특정 프로그램만 느린지 컴퓨터 전체가 느린지 구분해보셔야 합니다. 전체가 계속 느리다면 저장장치 상태나 발열 문제도 확인할 필요가 있습니다.
-
-컴퓨터를 다시 시작한 뒤에도 계속 느리다면 특정 프로그램 문제가 아니라 하드웨어 쪽 원인일 수 있습니다. **저장장치 상태**를 확인해 SSD의 수명이나 오류가 없는지 살펴보고, 노트북이나 데스크톱이 과열되지는 않았는지도 확인해보시면 됩니다. 발열이 심하면 성능이 자동으로 낮아져 느려질 수 있습니다.
-
-특정 프로그램만 느리다면 해당 프로그램의 업데이트나 재설치가 도움이 됩니다. 반대로 전체 시스템이 계속 느리다면, 위의 소프트웨어 정리가 끝난 뒤에도 개선이 없다면 저장장치(하드디스크/SSD)의 건강 상태와 시스템 용량을 다시 점검하는 것이 좋습니다.
-
-
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>
@@ -92,3 +82,11 @@ SSD(솔리드 스테이트 드라이브)는 빈 공간이 적을수록 성능이
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
+
+## 5. 재부팅 후에도 느리다면
+
+특정 프로그램만 느린지 컴퓨터 전체가 느린지 구분해보셔야 합니다. 전체가 계속 느리다면 저장장치 상태나 발열 문제도 확인할 필요가 있습니다.
+
+컴퓨터를 다시 시작한 뒤에도 계속 느리다면 특정 프로그램 문제가 아니라 하드웨어 쪽 원인일 수 있습니다. **저장장치 상태**를 확인해 SSD의 수명이나 오류가 없는지 살펴보고, 노트북이나 데스크톱이 과열되지는 않았는지도 확인해보시면 됩니다. 발열이 심하면 성능이 자동으로 낮아져 느려질 수 있습니다.
+
+특정 프로그램만 느리다면 해당 프로그램의 업데이트나 재설치가 도움이 됩니다. 반대로 전체 시스템이 계속 느리다면, 위의 소프트웨어 정리가 끝난 뒤에도 개선이 없다면 저장장치(하드디스크/SSD)의 건강 상태와 시스템 용량을 다시 점검하는 것이 좋습니다.

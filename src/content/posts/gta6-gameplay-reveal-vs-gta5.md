@@ -28,7 +28,7 @@ hideDescription: true
 
 출시일도 2026년 11월 19일로 확정돼 있습니다. 이제 관심사는 정말 출시되는지가 아니라 GTA 5 이후 13년 만에 나오는 신작이 얼마나 달라졌는지로 넘어갔다고 볼 수 있습니다.
 
-<img class="post-landscape-image" src="https://sm.ign.com/ign_de/feature/6/69-new-gta/69-new-gta-6-gameplay-details-we-saw-at-rockstar-hq_fbnc.jpg" alt="GTA 6 게임플레이 공개 장면" loading="lazy" />
+<img class="post-landscape-image post-landscape-image--high" src="https://sm.ign.com/ign_de/feature/6/69-new-gta/69-new-gta-6-gameplay-details-we-saw-at-rockstar-hq_fbnc.jpg" alt="GTA 6 게임플레이 공개 장면" loading="lazy" />
 
 ## 1. 제이슨과 루시아를 함께 쓰는 방식
 
@@ -38,8 +38,6 @@ GTA 5도 마이클, 프랭클린, 트레버를 바꾸며 플레이하는 구조�
 
 저는 이 부분이 GTA 6에서 가장 중요한 변화라고 봅니다. GTA 5의 캐릭터 교체가 세 명의 서로 다른 인생을 오가는 재미였다면 이번에는 두 사람이 한 사건을 어떻게 함께 해결하는지가 중심에 가까워 보입니다.
 
-<img class="post-landscape-image" src="https://img.zeit.de/digital/games/2026-08/gta-6-videospiel-neuer-teil-1/super__767x511" alt="GTA 6 제이슨과 루시아 게임플레이 장면" loading="lazy" />
-
 ## 2. 다시 돌아온 여섯 단계 수배
 
 경찰 시스템도 단순히 별 숫자만 올라가는 방식에서 더 복잡해집니다. 최근 공개된 시연에서는 여섯 단계 수배 시스템이 돌아오고, 경찰이 주인공의 외모를 기억할 수 있다는 내용까지 확인됐죠.
@@ -47,6 +45,17 @@ GTA 5도 마이클, 프랭클린, 트레버를 바꾸며 플레이하는 구조�
 따라서 경찰 시야에서 잠시 벗어났다고 끝나는 것이 아니라 옷을 바꾸거나 추적 조건 자체를 끊는 행동이 중요해질 가능성이 큽니다. 비싼 차량은 훔치기 더 어렵고 특정 차량에는 별도의 장비가 필요하다는 내용도 공개됐습니다.
 
 그리고 GTA 시리즈에서 자동차를 훔치는 행동은 거의 버튼 한 번으로 해결되는 기본 동작이었습니다. 그런데 GTA 6에서는 이 사소한 행동까지 상황을 만들기 위한 과정으로 바꾸려는 느낌이 강하죠.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 3. 바이스 시티보다 큰 레오니다
 
@@ -83,8 +92,6 @@ GTA 5는 2013년에 처음 나온 게임이라 지금 기준으로 보면 사람
 
 결국 오픈월드에서 그래픽은 몇 시간 지나면 익숙해집니다. 반대로 지나가던 사람과 차량이 예상하지 못한 행동을 하면 수백 시간을 플레이해도 새로운 장면이 나올 수 있죠.
 
-<img class="post-landscape-image" src="https://playfront.de/wp-content/uploads/2026/08/gta-6-open-world-768x432.webp" alt="GTA 6 오픈월드 게임플레이 화면" loading="lazy" />
-
 ## 6. 11월 19일 출시, PC는 아직
 
 GTA 6의 공식 출시일은 2026년 11월 19일입니다. 현재 락스타가 명시한 출시 플랫폼은 플레이스테이션 5, 엑스박스 시리즈 X와 S입니다.
@@ -93,15 +100,7 @@ PC 버전은 아직 공식 출시 일정이 공개되지 않았습니다. GTA 5�
 
 출시 전 예약 구매와 사전 다운로드 일정도 이미 공개됐습니다. 적어도 현재 단계에서는 또 연기될지를 기다리기보다 실제 출시를 앞두고 세부 기능을 하나씩 공개하는 단계에 들어갔다고 보는 편입니다.
 
-## 7. GTA 5의 확장이 아니라 새 기준
-
-처음 GTA 6 영상이 나왔을 때는 그래픽이 얼마나 좋아졌는지가 먼저 보였습니다. 하지만 이번 장시간 공개를 보고 나면 더 큰 차이는 캐릭터 관계, 경찰 추적, 차량 절도, 지역 구성, 일상 활동처럼 플레이 과정 자체가 보였습니다.
-
-GTA 5가 오랫동안 살아남은 이유는 당시 그래픽이 좋아서만은 아니었습니다. 도시 안에서 운전하고, 싸우고, 도망가고, 예상하지 못한 사건을 만드는 기본 구조가 워낙 강했기 때문이죠.
-
-GTA 6는 그 구조를 버리지 않으면서 행동 하나마다 조건과 반응을 더 촘촘하게 넣는 방향으로 보입니다. 레데디에서 많은 교훈을 얻은 거 같죠.
-
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>
@@ -111,3 +110,11 @@ GTA 6는 그 구조를 버리지 않으면서 행동 하나마다 조건과 반�
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
+
+## 7. GTA 5의 확장이 아니라 새 기준
+
+처음 GTA 6 영상이 나왔을 때는 그래픽이 얼마나 좋아졌는지가 먼저 보였습니다. 하지만 이번 장시간 공개를 보고 나면 더 큰 차이는 캐릭터 관계, 경찰 추적, 차량 절도, 지역 구성, 일상 활동처럼 플레이 과정 자체가 보였습니다.
+
+GTA 5가 오랫동안 살아남은 이유는 당시 그래픽이 좋아서만은 아니었습니다. 도시 안에서 운전하고, 싸우고, 도망가고, 예상하지 못한 사건을 만드는 기본 구조가 워낙 강했기 때문이죠.
+
+GTA 6는 그 구조를 버리지 않으면서 행동 하나마다 조건과 반응을 더 촘촘하게 넣는 방향으로 보입니다. 레데디에서 많은 교훈을 얻은 거 같죠.

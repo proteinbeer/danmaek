@@ -1,5 +1,5 @@
 ---
-title: "원펀맨: 영웅의 길 쿠폰 최신 정리"
+title: "원펀맨: 영웅의 길 쿠폰 9월 최신 정리"
 description: "원펀맨: 영웅의 길 쿠폰 코드를 모아 정리했다. 게임 내 프로필의 쿠폰 코드 메뉴에서 코드를 입력하고 보상을 수령할 수 있다."
 date: 2026-09-02
 updated: 2026-09-04
@@ -49,18 +49,6 @@ hideDescription: true
 | OPM2021 | 다이아 100개, 강자 소환권 2개, 상점 리셋권 1개 |
 | OPM666 | 다이아 200개, 소환권 등 |
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 원펀맨 쿠폰은 만료일이 공개되지 않아서 최근에 추가된 코드부터 차례로 시도하는 편이 좋습니다. 코드가 듣지 않으면 이미 만료됐거나 계정당 1회를 이미 사용한 상태죠.
 
 ## 2. 입력 방법
@@ -73,6 +61,17 @@ hideDescription: true
 
 입력한 코드가 동작하지 않으면 만료됐거나 이미 사용한 코드일 가능성이 높습니다. 다른 코드로 하나씩 시도해 주시기 바랍니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 계정당 1회, 만료 확인이 어려운 편
 
 원펀맨: 영웅의 길 쿠폰은 모두 계정당 1회만 사용할 수 있습니다. 같은 코드를 다시 입력하면 사용할 수 없다는 안내가 나옵니다.
@@ -80,15 +79,3 @@ hideDescription: true
 다만 이 게임은 쿠폰별 만료일이 거의 공개되지 않습니다. 따라서 새로 공개된 코드 위주로 시도하고, 만료 표시가 없는 코드라도 안 먹히면 과감히 다른 코드를 쓰는 것이 효율적이죠.
 
 새 쿠폰은 공식 커뮤니티와 이벤트 공지를 통해 배포됩니다. 방송이나 기념일마다 코드가 나오는 경우가 있으니 주기적으로 확인해두는 편이 좋습니다.
-
-<div style="margin: 40px 0 28px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

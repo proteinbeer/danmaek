@@ -83,7 +83,7 @@ hideDescription: true
 
 위 순서를 전부 통과했는데도 마이크가 안 된다면, 다른 컴퓨터에 꽂아 정상 작동하는지로 **하드웨어 고장 여부**를 판가름하면 됩니다. 다른 기기에서도 안 된다면 교체를 고려해보시기 바랍니다.
 
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>

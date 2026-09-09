@@ -43,9 +43,8 @@ PS4도 **설정 → 애플리케이션 저장 데이터 관리**에서 저장 �
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
@@ -64,13 +63,7 @@ PS5·PS4 모두 클라우드 저장 기능을 제공하며, 저장 데이터 업
 
 미디어 갤러리에서 더 이상 필요 없는 캡처를 골라 삭제하거나, 용량이 큰 영상 클립만 정리하면 공간을 쉽게 확보할 수 있습니다. 게임별로 어떤 콘텐츠가 얼마나 큰지도 스토리지 화면에서 확인할 수 있습니다.
 
-## 5. 그래도 부족하면 SSD 추가하기
-
-자주 즐기는 게임이 많은데 계속 지우기 어렵다면, **M.2 SSD를 추가 설치**하는 방법이 가장 확실합니다. PS5는 M.2 SSD 슬롯을 지원하므로 내장 저장 공간을 크게 늘릴 수 있습니다. 설치 후에는 해당 SSD를 PS5 전용 스토리지로 포맷해 사용하면 됩니다.
-
-SSD 구매 시 PS5 호환 모델인지 확인해야 합니다. 속도 기준을 충족하는 제품을 고르면 로딩 속도 저하 없이 사용할 수 있습니다.
-
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>
@@ -80,3 +73,9 @@ SSD 구매 시 PS5 호환 모델인지 확인해야 합니다. 속도 기준을 
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
+
+## 5. 그래도 부족하면 SSD 추가하기
+
+자주 즐기는 게임이 많은데 계속 지우기 어렵다면, **M.2 SSD를 추가 설치**하는 방법이 가장 확실합니다. PS5는 M.2 SSD 슬롯을 지원하므로 내장 저장 공간을 크게 늘릴 수 있습니다. 설치 후에는 해당 SSD를 PS5 전용 스토리지로 포맷해 사용하면 됩니다.
+
+SSD 구매 시 PS5 호환 모델인지 확인해야 합니다. 속도 기준을 충족하는 제품을 고르면 로딩 속도 저하 없이 사용할 수 있습니다.

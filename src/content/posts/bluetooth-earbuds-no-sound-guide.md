@@ -29,7 +29,6 @@ hideDescription: true
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/hero-bloom.jpg" alt="블루투스 무선 헤드셋" width="1280" height="720" loading="lazy" decoding="async" />
 
-
 ## 1. 출력 장치 확인
 
 작업 표시줄의 스피커 아이콘에서 현재 출력 장치가 블루투스 이어폰으로 선택돼 있는지 확인하시면 됩니다.
@@ -49,9 +48,8 @@ hideDescription: true
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
@@ -70,16 +68,7 @@ hideDescription: true
 
 단순하지만 자주 놓치는 부분이 볼륨과 음소거 상태입니다. 작업 표시줄의 볼륨이 음소거이거나 최저로 되어 있는지, 그리고 윈도우 사운드 설정에서 이어폰 장치의 볼륨이 별도로 낮게 설정되어 있지 않은지 확인하시면 됩니다. 일부 이어폰은 마이크 사용 모드(헤드셋 모드)에서 음질이나 볼륨이 낮아지기도 합니다.
 
-## 5. 드라이버와 윈도우 확인
-
-문제가 계속되면 블루투스 드라이버와 윈도우 업데이트 상태를 확인해보실 수도 있죠.
-
-블루투스 드라이버가 오래되거나 손상되면 오디오 장치가 제대로 동작하지 않을 수 있습니다. **설정 → Bluetooth 및 장치**에서 블루투스가 정상적으로 켜져 있는지 확인하고, **장치 관리자 → Bluetooth**에서 관련 드라이버를 최신 버전으로 업데이트하시면 됩니다.
-
-드라이버 업데이트는 컴퓨터 제조사 지원 페이지나 윈도우 업데이트를 통해 진행할 수 있습니다. 블루투스 오디오가 인식되지 않는 경우라면, 드라이버를 제거한 뒤 시스템을 다시 시작해 자동 재설치를 유도하는 방법도 사용됩니다. 윈도우 자체를 최신으로 갱신하는 것도 블루투스 오디오 문제 해결에 도움이 됩니다.
-
-
-<div style="margin: 40px 0 28px; text-align: center;">
+<div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script src="https://ads-partners.coupang.com/g.js"></script>
@@ -89,3 +78,11 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
+
+## 5. 드라이버와 윈도우 확인
+
+문제가 계속되면 블루투스 드라이버와 윈도우 업데이트 상태를 확인해보실 수도 있죠.
+
+블루투스 드라이버가 오래되거나 손상되면 오디오 장치가 제대로 동작하지 않을 수 있습니다. **설정 → Bluetooth 및 장치**에서 블루투스가 정상적으로 켜져 있는지 확인하고, **장치 관리자 → Bluetooth**에서 관련 드라이버를 최신 버전으로 업데이트하시면 됩니다.
+
+드라이버 업데이트는 컴퓨터 제조사 지원 페이지나 윈도우 업데이트를 통해 진행할 수 있습니다. 블루투스 오디오가 인식되지 않는 경우라면, 드라이버를 제거한 뒤 시스템을 다시 시작해 자동 재설치를 유도하는 방법도 사용됩니다. 윈도우 자체를 최신으로 갱신하는 것도 블루투스 오디오 문제 해결에 도움이 됩니다.
