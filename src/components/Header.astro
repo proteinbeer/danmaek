@@ -49,3 +49,24 @@ const path = Astro.url.pathname;
     </a>
   </div>
 </header>
+<script>
+  const navItems = Array.from(document.querySelectorAll<HTMLElement>('.nav-item'));
+  for (const item of navItems) {
+    const drop = item.querySelector<HTMLElement>('.nav-dropdown');
+    if (!drop) continue;
+    const clamp = () => {
+      const rect = drop.getBoundingClientRect();
+      const vw = document.documentElement.clientWidth;
+      const minDx = 8 - rect.left;
+      const maxDx = vw - 8 - rect.right;
+      const dx = Math.max(minDx, Math.min(0, maxDx));
+      if (dx === 0) { drop.style.transform = ''; return; }
+      const sign = dx >= 0 ? '+' : '-';
+      drop.style.transform = `translateX(calc(-50% ${sign} ${Math.abs(dx)}px))`;
+    };
+    item.addEventListener('mouseenter', clamp);
+    item.addEventListener('focusin', clamp);
+    item.addEventListener('mouseleave', () => { drop.style.transform = ''; });
+    item.addEventListener('focusout', () => { drop.style.transform = ''; });
+  }
+</script>

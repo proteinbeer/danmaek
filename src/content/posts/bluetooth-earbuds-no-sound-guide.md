@@ -10,7 +10,7 @@ tags:
   - "이어폰"
   - "소리 안 나옴"
   - "오디오"
-image: "/assets/posts/guide-images/hero-bloom.jpg"
+image: "/assets/posts/guide-images/dualsense-1200x675.jpg"
 imageAlt: "블루투스 무선 헤드셋"
 imageWidth: 1920
 imageHeight: 1080
@@ -27,7 +27,7 @@ hideDescription: true
 
 블루투스 이어폰을 컴퓨터에 연결했는데 사운드가 나오지 않는 일은 흔합니다. 화면에는 이어폰이 연결됐다고 뜨지만, 실제 소리는 모니터나 다른 스피커로 나가는 경우가 많습니다. 완전히 고장난 것은 아니고 윈도우의 출력 장치 설정이나 블루투스 연결 상태가 어긋난 경우가 대부분이므로, 아래 순서대로 확인하면 쉽게 해결할 수 있습니다.
 
-<img class="post-landscape-image" src="/assets/posts/guide-images/hero-bloom.jpg" alt="블루투스 무선 헤드셋" width="1280" height="720" loading="lazy" decoding="async" />
+<img class="post-landscape-image" src="/assets/posts/guide-images/dualsense-1200x675.jpg" alt="블루투스 무선 헤드셋" width="1280" height="720" loading="lazy" decoding="async" />
 
 ## 1. 출력 장치 확인
 

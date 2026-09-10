@@ -48,8 +48,7 @@ hideDescription: true
 - 게임마다 수동으로 백업할 수도 있습니다. 설정 → 데이터 관리 → 세이브 데이터에서 원하는 게임을 눌러 "백업"을 실행합니다.
 - 백업된 세이브는 설정에서 "세이브 데이터 다운로드"로 새 기기에 복원합니다.
 
-놓치기 쉬운 것은 **백업을 한 번도 안 한 상태**입니다. 가입만 하고 자동 백업을 켜지 않으면 실제 백업이 없다는 점을 반드시 확인하세요.
-
+놓치기 쉬운 것은 **백업을 한 번도 안 한 상태**입니다. 가입만 하고 자동 백업을 켜지 않으면 실제 백업이 없다는 점을 반드시 확인하십시오.
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->

@@ -57,8 +57,15 @@ const subcats = [...GUIDE_SUBCATEGORIES];
       const list = drop.querySelector('.sub-dropdown') as HTMLElement;
       const items = Array.from(drop.querySelectorAll('.sub-dropdown-item')) as HTMLButtonElement[];
       let value = '';
-      const open = () => { list.classList.add('open'); trigger.setAttribute('aria-expanded', 'true'); };
-      const close = () => { list.classList.remove('open'); trigger.setAttribute('aria-expanded', 'false'); };
+      const clampList = () => {
+        const r = list.getBoundingClientRect();
+        const vw = document.documentElement.clientWidth;
+        const dx = Math.max(8 - r.left, Math.min(0, vw - 8 - r.right));
+        if (dx === 0) { list.style.left = ''; return; }
+        list.style.left = `${dx}px`;
+      };
+      const open = () => { list.classList.add('open'); trigger.setAttribute('aria-expanded', 'true'); clampList(); };
+      const close = () => { list.classList.remove('open'); trigger.setAttribute('aria-expanded', 'false'); list.style.left = ''; };
       trigger.addEventListener('click', (e) => {
         e.stopPropagation();
         list.classList.contains('open') ? close() : open();

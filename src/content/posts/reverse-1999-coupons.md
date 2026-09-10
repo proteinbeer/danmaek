@@ -86,7 +86,7 @@ hideDescription: true
 
 리버스 1999 코드는 계정당 1회만 사용할 수 있으며, 이미 사용한 코드를 다시 입력하면 오류 안내가 나옵니다. 일부 코드는 잔여 수량 소진 시 조기 종료되기도 합니다.
 
-과거에 공개된 2024~2025년 코드들(6THEPERFECTNUMBER, GREENLAKE, VERSIONUPDATE 등)은 전부 만료됐습니다. 구버전 목록을 참고해 입력하다가 오류가 나는 경우가 많으니 위 표의 현재 목록만 사용하시기 바랍니다.
+과거에 공개된 2024～2025년 코드들(6THEPERFECTNUMBER, GREENLAKE, VERSIONUPDATE 등)은 전부 만료됐습니다. 구버전 목록을 참고해 입력하다가 오류가 나는 경우가 많으니 위 표의 현재 목록만 사용하시기 바랍니다.
 
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">

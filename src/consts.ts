@@ -35,7 +35,8 @@ export const GUIDE_SUBCATEGORIES: Subcategory[] = [
   { name: '뮤제닉스', slug: 'mewgenics' },
   { name: '더 블러드 오브 던워커', slug: 'dawnwalker' },
   { name: '귀무자', slug: 'onimusha' },
-  { name: '발하임', slug: 'valheim' }
+  { name: '발하임', slug: 'valheim' },
+  { name: '워독스', slug: 'wardogs' }
 ];
 
 export const COUPON_SUBCATEGORIES: Subcategory[] = [

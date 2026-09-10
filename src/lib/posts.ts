@@ -65,7 +65,10 @@ const normalizePost = ([path, mod]: [string, PostModule]): Post => {
 export const posts = Object.entries(modules)
   .map(normalizePost)
   .filter((post) => !post.data.draft)
-  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+  .sort((a, b) => {
+    if (a.data.featured !== b.data.featured) return a.data.featured ? -1 : 1;
+    return b.data.date.valueOf() - a.data.date.valueOf();
+  });
 
 export const getPosts = () => posts;
 

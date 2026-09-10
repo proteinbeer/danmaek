@@ -1,8 +1,8 @@
 ---
 title: "윈도우 11 스크린샷 찍는 법, 캡처 도구와 단축키 정리"
 description: "윈도우 11에서 화면을 캡처하는 방법을 정리했습니다. Win+Shift+S 캡처 도구, Win+PrintScreen 전체 화면 저장, 지연 캡처와 텍스트 인식까지 다룹니다."
-date: 2026-08-25
-updated: 2026-08-25
+date: 2026-08-23
+updated: 2026-08-23
 category: "가이드"
 subcategory: "윈도우 11"
 tags:

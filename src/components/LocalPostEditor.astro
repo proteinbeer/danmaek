@@ -40,8 +40,8 @@ const { slug } = Astro.props;
   .local-post-editor__save,
   .local-post-editor__close {
     appearance: none;
-    border: 1px solid #0d2b57;
-    background: #0d2b57;
+    border: 1px solid #050505;
+    background: #050505;
     color: #fff;
     cursor: pointer;
     font: inherit;
@@ -52,7 +52,7 @@ const { slug } = Astro.props;
     min-width: 74px;
     min-height: 46px;
     border-radius: 999px;
-    box-shadow: 0 10px 24px rgba(13, 43, 87, .24);
+    box-shadow: 0 10px 24px rgba(0, 0, 0, .24);
   }
 
   .local-post-editor__panel {
@@ -62,8 +62,8 @@ const { slug } = Astro.props;
     width: min(688px, calc(100vw - 24px));
     max-height: min(760px, calc(100vh - 110px));
     overflow: hidden;
-    border: 1px solid #d9dee7;
-    border-top: 4px solid #0d2b57;
+    border: 1px solid #d9d9d9;
+    border-top: 4px solid #050505;
     border-radius: 16px;
     background: #fff;
     color: #111827;
@@ -86,7 +86,7 @@ const { slug } = Astro.props;
 
   .local-post-editor__head p {
     margin: 5px 0 0;
-    color: #64748b;
+    color: #737373;
     font-size: .84rem;
     line-height: 1.5;
   }
@@ -104,7 +104,7 @@ const { slug } = Astro.props;
     box-sizing: border-box;
     border: 1px solid #cfd6e2;
     border-radius: 16px;
-    background: #eef2f7;
+    background: #f2f2f2;
     color: #111827;
     font: inherit;
     font-size: .98rem;
@@ -114,8 +114,8 @@ const { slug } = Astro.props;
   }
 
   .local-post-editor__title input:focus {
-    border-color: #0d2b57;
-    outline: 3px solid rgba(13, 43, 87, .12);
+    border-color: #050505;
+    outline: 3px solid rgba(0, 0, 0, .12);
   }
 
   .local-post-editor__close {
@@ -145,7 +145,7 @@ const { slug } = Astro.props;
 
   .local-post-editor__status {
     margin: 0;
-    color: #64748b;
+    color: #737373;
     font-size: .9rem;
     font-weight: 800;
   }
@@ -171,7 +171,7 @@ const { slug } = Astro.props;
     box-sizing: border-box;
     overflow: hidden;
     resize: vertical;
-    border: 1px solid #d9dee7;
+    border: 1px solid #d9d9d9;
     border-radius: 16px;
     background: #fff;
     color: #111827;
@@ -184,13 +184,13 @@ const { slug } = Astro.props;
 
   :global(.local-post-editor__line--heading textarea) {
     border-color: #cfd6e2;
-    background: #eef2f7;
+    background: #f2f2f2;
     font-weight: 900;
   }
 
   :global(.local-post-editor__line textarea:focus) {
-    border-color: #0d2b57;
-    outline: 3px solid rgba(13, 43, 87, .12);
+    border-color: #050505;
+    outline: 3px solid rgba(0, 0, 0, .12);
   }
 
   :global(.danmaek-editor-target-highlight) {
@@ -204,12 +204,12 @@ const { slug } = Astro.props;
     position: absolute;
     inset: -10px -12px;
     z-index: -1;
-    border: 3px solid rgba(13, 43, 87, .92);
+    border: 3px solid rgba(0, 0, 0, .92);
     border-radius: 14px;
-    background: rgba(13, 43, 87, .07);
+    background: rgba(0, 0, 0, .07);
     box-shadow:
-      0 0 0 6px rgba(13, 43, 87, .08),
-      0 0 26px rgba(13, 43, 87, .24);
+      0 0 0 6px rgba(0, 0, 0, .08),
+      0 0 26px rgba(0, 0, 0, .24);
     pointer-events: none;
     animation: danmaek-editor-glow 1.45s ease-in-out infinite;
   }
@@ -218,14 +218,14 @@ const { slug } = Astro.props;
     0%,
     100% {
       box-shadow:
-        0 0 0 5px rgba(13, 43, 87, .06),
-        0 0 18px rgba(13, 43, 87, .18);
+        0 0 0 5px rgba(0, 0, 0, .06),
+        0 0 18px rgba(0, 0, 0, .18);
     }
 
     50% {
       box-shadow:
-        0 0 0 9px rgba(13, 43, 87, .11),
-        0 0 34px rgba(13, 43, 87, .34);
+        0 0 0 9px rgba(0, 0, 0, .11),
+        0 0 34px rgba(0, 0, 0, .34);
     }
   }
 
@@ -245,7 +245,7 @@ const { slug } = Astro.props;
   }
 
   .local-post-editor__message {
-    color: #94a3b8;
+    color: #a3a3a3;
     font-size: .84rem;
     font-weight: 400;
   }

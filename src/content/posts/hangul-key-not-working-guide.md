@@ -10,7 +10,7 @@ tags:
   - "입력기"
   - "키보드"
   - "윈도우 설정"
-image: "/assets/posts/guide-images/hero-bloom.jpg"
+image: "/assets/posts/guide-images/dualsense-1200x675.jpg"
 imageAlt: "한글 자판이 표시된 키보드"
 imageWidth: 1920
 imageHeight: 1080
@@ -27,7 +27,7 @@ hideDescription: true
 
 한영 전환은 대부분 한/영 키 하나로 해결되지만, 가끔 갑자기 먹지 않게 되어 당황하는 경우가 있습니다. 키보드를 새로 바꾸거나, 윈도우를 업데이트하거나, 특정 프로그램을 설치한 뒤에 생기는 경우가 많습니다. 대부분 키보드 고장이 아니라 설정 문제이므로, 아래 순서대로 확인하면 빠르게 해결할 수 있습니다. 키보드를 바꾸거나 고친다고 판단하기 전에 먼저 설정부터 살펴보시는 것이 좋습니다.
 
-<img class="post-landscape-image" src="/assets/posts/guide-images/hero-bloom.jpg" alt="한글 자판이 표시된 키보드" width="1280" height="720" loading="lazy" decoding="async" />
+<img class="post-landscape-image" src="/assets/posts/guide-images/dualsense-1200x675.jpg" alt="한글 자판이 표시된 키보드" width="1280" height="720" loading="lazy" decoding="async" />
 
 ## 1. 입력 언어 확인
 

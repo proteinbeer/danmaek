@@ -1,8 +1,8 @@
 ---
 title: "윈도우 11 설치 USB 만들고 클린 설치하는 법"
 description: "윈도우 11 설치 USB를 만드는 방법과 이를 활용한 클린 설치 과정을 정리했습니다. 공식 미디어 제작 도구와 Rufus 두 가지 방법으로 준비할 수 있습니다."
-date: 2026-08-28
-updated: 2026-08-28
+date: 2026-08-23
+updated: 2026-08-23
 category: "가이드"
 subcategory: "윈도우 11"
 tags:
