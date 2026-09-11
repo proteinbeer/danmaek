@@ -150,3 +150,14 @@ AI 투자 경쟁과 중앙은행 금리가 서로 멀리 떨어진 뉴스가 아
 AI가 공짜처럼 느껴지는 현재 경험 뒤에는 거대한 서버와 부채 비용이 있습니다.
 
 이 비용을 누가 장기적으로 부담할지 결정되는 순간이 AI 서비스 사업모델의 진짜 시험대가 될 겁니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

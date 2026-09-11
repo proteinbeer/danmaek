@@ -150,3 +150,14 @@ EA처럼 직원과 스튜디오가 많은 회사를 다른 그룹과 묶는 작�
 중복 조직을 어떻게 정리하고 브랜드 자율성을 얼마나 남길지가 게임 개발 현장에 직접 영향을 줄 수 있습니다.
 
 그래서 발표가 나오더라도 진짜 변화는 이후 몇 년 동안 천천히 나타날 가능성이 큽니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

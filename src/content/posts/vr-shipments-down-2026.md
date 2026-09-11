@@ -150,3 +150,14 @@ PC까지 필요한 제품은 전체 비용이 커지고 독립형 기기도 스�
 스팀 프레임이 좋은 기기여도 가격이 너무 높으면 기존 VR 이용자만 이동하는 제품이 될 수 있습니다.
 
 반대로 합리적인 가격에 PC 게임 라이브러리와 연결된다면 줄어든 시장 안에서도 새로운 수요를 만들 가능성이 있습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

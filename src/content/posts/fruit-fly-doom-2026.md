@@ -150,3 +150,14 @@ AI를 이용해 수많은 2차원 이미지를 조합하고 뉴런 연결을 3�
 당장 상용 게임 NPC에 초파리 뇌를 넣겠다는 이야기는 아닙니다.
 
 다만 생물학과 게임 시뮬레이션이 서로 데이터를 주고받는 연구가 늘면 예상하지 못한 행동 모델이 나올 가능성은 충분합니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

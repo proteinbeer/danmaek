@@ -150,3 +150,14 @@ hideDescription: true
 디스플레이가 고장나거나 터치가 정상 작동하지 않을 때 대체 수단이 무엇인지도 설계에서 중요해질 수 있습니다.
 
 물리 조작계를 없애는 만큼 소프트웨어와 화면의 신뢰성이 자동차 핵심 부품 수준으로 올라가는 셈입니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

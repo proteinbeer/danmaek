@@ -97,7 +97,7 @@ for (let i = 0; i < files.length; i++) {
   sections.forEach((sec, idx) => {
     body += `## ${idx + 1}. ${sec.title}\n\n`;
     body += dedupeConsecutive(sec.paragraphs).join('\n\n') + '\n\n';
-    if (idx === 1 || idx === 3 || idx === 5) {
+    if (idx % 2 === 1) {
       body += banner + '\n\n';
     }
   });

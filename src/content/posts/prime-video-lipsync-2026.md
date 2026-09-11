@@ -154,3 +154,14 @@ AI가 현지화 인력을 줄이는 방향으로만 갈 것이라고 보기 어�
 결국 이용자가 기술 존재를 잊고 작품에 집중할 수 있을 때 이 기능의 가치가 가장 크게 드러날 겁니다.
 
 더빙 현지화의 기준 자체가 바뀌는 장면입니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

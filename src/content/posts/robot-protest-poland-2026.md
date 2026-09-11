@@ -152,3 +152,14 @@ AI가 직업을 바꾸면 가장 먼저 필요한 건 새로운 기술을 배우
 사라지는 업무에서 새로운 업무로 이동할 수 있게 교육 비용과 시간을 누가 부담할지까지 함께 논의해야 실제 일자리 대책이 됩니다.
 
 기술보다 제도가 늦는 문제는 앞으로 여러 나라가 반복해서 마주칠 가능성이 큽니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

@@ -150,3 +150,14 @@ A20 프로는 일반 프로 모델뿐 아니라 폴더블 아이폰 듀오에도
 2나노 공정의 진짜 장점도 같은 작업을 더 적은 전력으로 처리할 때 크게 체감됩니다.
 
 출시 뒤에는 벤치마크 점수와 함께 게임 한 시간 뒤 배터리와 온도를 보는 테스트가 중요할 겁니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

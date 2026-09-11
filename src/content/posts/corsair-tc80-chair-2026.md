@@ -150,3 +150,14 @@ TC80처럼 조절 기능을 줄인 제품은 특히 자신의 책상 높이와 �
 특히 조절 기능이 단순한 의자는 주변 가구와의 궁합이 더 중요합니다.
 
 TC80이 저렴한 선택이라도 현재 책상과 잘 맞지 않으면 다른 조절형 의자가 장기적으로 더 나은 선택일 수 있습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

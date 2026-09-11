@@ -150,3 +150,14 @@ AI 데이터센터는 CPU와 GPU, 추론 가속기, 네트워크 칩이 한 시�
 디매트릭스가 실제 시장에서 자리 잡으려면 NVLink 연결뿐 아니라 배포와 디버깅 경험까지 단순해야 합니다.
 
 AI칩 경쟁에서 벤치마크 숫자와 개발자 편의성이 함께 중요한 이유입니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

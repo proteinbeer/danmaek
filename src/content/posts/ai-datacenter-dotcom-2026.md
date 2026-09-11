@@ -154,3 +154,14 @@ AI 데이터센터도 전력 가격과 GPU 조달 능력, 고객 집중도를 �
 단순히 GPU를 많이 보유한 회사보다 자산을 오래 높은 가동률로 돌리는 회사가 유리합니다.
 
 결국 데이터센터 사업도 기술 이야기처럼 보이지만 본질은 비싼 장비를 얼마나 쉬지 않고 돈 벌게 하느냐에 가깝습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

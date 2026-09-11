@@ -152,3 +152,14 @@ AI칩처럼 수요가 빠르게 늘어나는 제품에서는 이런 차이가 �
 미세 공정 경쟁이 나노미터 숫자뿐 아니라 시간당 웨이퍼 생산량 싸움인 이유입니다.
 
 장비 규격 하나가 바뀌어도 전체 공급망이 움직여야 한다는 점이 반도체 산업의 복잡성을 잘 보여줍니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

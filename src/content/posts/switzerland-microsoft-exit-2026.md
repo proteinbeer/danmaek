@@ -152,3 +152,14 @@ hideDescription: true
 스위스 사례는 기업 IT에서도 탈출 비용을 평소에 계산해야 한다는 경고처럼 볼 수 있습니다.
 
 작게 시작한 이번 전환이 실제 업무에서 버틸 수 있는지가 앞으로 가장 중요한 시험대입니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

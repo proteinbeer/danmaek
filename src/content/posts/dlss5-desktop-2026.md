@@ -150,3 +150,14 @@ AI가 화면을 실시간으로 다시 그리기 시작하면 무엇이 원본�
 공식 기능이 되면 성능 최적화와 보안 문제는 줄어들 수 있습니다.
 
 대신 모든 화면을 AI가 바꾸는 기능을 기본으로 켤지 선택으로 둘지에 대한 논쟁은 더 커질 수 있습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

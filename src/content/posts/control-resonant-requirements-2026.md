@@ -150,3 +150,14 @@ RTX 5080까지 기본적으로 업스케일링을 쓰는 시대라면 사양표�
 컨트롤 레저넌트는 레메디의 기술력을 보여주는 작품인 만큼 PC판 첫인상이 중요합니다.
 
 출시 뒤에는 최고 사양 데모보다 중급 그래픽카드에서 얼마나 안정적으로 돌아가는지가 더 넓은 이용자 평가를 결정할 가능성이 큽니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

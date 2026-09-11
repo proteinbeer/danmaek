@@ -150,3 +150,14 @@ AI가 이런 수준의 연구 문제에서 반복적으로 의미 있는 결과�
 앞으로는 생성 AI와 검증 AI가 서로 다른 역할을 맡는 구조가 일반화될 가능성이 있습니다.
 
 한쪽이 아이디어를 폭넓게 만들고 다른 쪽이 오류를 좁히면 연구 속도 자체가 지금과 달라질 수 있습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

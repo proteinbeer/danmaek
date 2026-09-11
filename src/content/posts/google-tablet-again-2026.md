@@ -150,3 +150,14 @@ hideDescription: true
 하드웨어를 직접 만들지 않아도 삼성과 다른 제조사 제품을 기준으로 플랫폼을 발전시킬 수 있습니다.
 
 다만 기준 기기가 없는 상태에서도 개발자에게 꾸준한 신호를 줄 수 있느냐가 앞으로의 숙제입니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

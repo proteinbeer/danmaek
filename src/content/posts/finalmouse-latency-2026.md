@@ -150,3 +150,14 @@ hideDescription: true
 파이널마우스의 2밀리초 주장이 실제 경쟁사 제품 개발을 자극하면 몇 년 뒤에는 특별한 기능이 아니라 기본 사양이 될 수 있습니다.
 
 소비자는 최고 기록보다 그 기술이 어느 가격대까지 내려오는지를 보는 편이 더 실용적입니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

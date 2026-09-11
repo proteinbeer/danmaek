@@ -150,3 +150,14 @@ AI가 코드를 대신 써도 스토어에 제출하는 사람은 결국 결과�
 AI가 개발자 수를 늘린 만큼 플랫폼은 심사 속도와 안전을 동시에 맞춰야 합니다.
 
 앞으로 브라우저 경쟁에서 확장 프로그램 개수보다 얼마나 안전하게 관리되는지가 더 중요한 차별점이 될 가능성이 있습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

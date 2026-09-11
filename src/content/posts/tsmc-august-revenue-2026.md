@@ -152,3 +152,14 @@ AI 기업의 자본지출과 스마트폰 신제품 주기가 동시에 움직�
 특정 AI 고객 몇 곳에만 성장이 집중된다면 경기 변화 때 변동성도 함께 커질 수 있습니다.
 
 특히 첨단 공정은 새 공장을 세운 뒤 바로 최고 수율이 나오는 산업이 아닙니다. 시간이 곧 경쟁력입니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
