@@ -11,7 +11,7 @@ tags:
   - "NVLink"
   - "AI 칩"
   - "서버"
-image: "https://img.danmaek.com/images/og-default.jpg"
+image: "/assets/posts/news-images/dmatrix-nvlink-2026-01.png"
 imageAlt: "엔비디아 경쟁 AI칩도 엔비디아 서버에 들어간다, 이상한 동맹"
 imageWidth: 1200
 imageHeight: 675

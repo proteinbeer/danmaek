@@ -11,7 +11,7 @@ tags:
   - "지포스"
   - "업스케일링"
   - "데스크톱"
-image: "https://img.danmaek.com/images/og-default.jpg"
+image: "/assets/posts/news-images/dlss5-desktop-2026-01.jpg"
 imageAlt: "DLSS 5를 윈도우 화면 전체에 적용했다, RTX 30도 돌아간다"
 imageWidth: 1200
 imageHeight: 675

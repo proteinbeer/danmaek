@@ -11,7 +11,7 @@ tags:
   - "2나노"
   - "TSMC"
   - "모바일 AP"
-image: "https://img.danmaek.com/images/og-default.jpg"
+image: "/assets/posts/news-images/apple-a20-pro-2026-01.jpg"
 imageAlt: "애플 A20 프로 2나노, 속도보다 발열을 잡겠다는 변화"
 imageWidth: 1200
 imageHeight: 675

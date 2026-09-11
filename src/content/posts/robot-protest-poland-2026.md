@@ -11,7 +11,7 @@ tags:
   - "폴란드"
   - "AI 자동화"
   - "일자리"
-image: "https://img.danmaek.com/images/og-default.jpg"
+image: "/assets/posts/news-images/robot-protest-poland-2026-01.jpg"
 imageAlt: "로봇이 인간 일자리를 지켜달라 시위했다, 폴란드에서 벌어진 장면"
 imageWidth: 1200
 imageHeight: 675

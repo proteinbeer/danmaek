@@ -11,7 +11,7 @@ tags:
   - "AI"
   - "더빙"
   - "입모양"
-image: "https://img.danmaek.com/images/og-default.jpg"
+image: "/assets/posts/news-images/prime-video-lipsync-2026-01.jpg"
 imageAlt: "더빙하면 배우 입모양도 바뀐다, 프라임 비디오가 AI를 쓴 이유"
 imageWidth: 1200
 imageHeight: 675

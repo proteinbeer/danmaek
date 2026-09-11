@@ -11,7 +11,7 @@ tags:
   - "합병"
   - "세비 게임즈"
   - "게임 산업"
-image: "https://img.danmaek.com/images/og-default.jpg"
+image: "/assets/posts/news-images/ea-savvy-merger-2026-01.jpg"
 imageAlt: "EA와 세비 게임즈 합병 검토, 사우디 게임 제국이 커진다"
 imageWidth: 1200
 imageHeight: 675

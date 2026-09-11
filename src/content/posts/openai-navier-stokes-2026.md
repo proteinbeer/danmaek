@@ -11,7 +11,7 @@ tags:
   - "수학"
   - "AI"
   - "유체역학"
-image: "https://img.danmaek.com/images/og-default.jpg"
+image: "/assets/posts/news-images/openai-navier-stokes-2026-01.png"
 imageAlt: "AI 1만개가 88시간 풀었다, 수학 난제 해결 주장의 무게"
 imageWidth: 1200
 imageHeight: 675

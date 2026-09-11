@@ -11,7 +11,7 @@ tags:
   - "부채"
   - "빅테크"
   - "투자"
-image: "https://img.danmaek.com/images/og-default.jpg"
+image: "/assets/posts/news-images/ai-debt-boom-2026-01.webp"
 imageAlt: "AI 데이터센터 짓느라 2200억달러 빌렸다, 빅테크 부채도 커진다"
 imageWidth: 1200
 imageHeight: 675

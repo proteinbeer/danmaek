@@ -11,7 +11,7 @@ tags:
   - "확장 프로그램"
   - "AI"
   - "검수"
-image: "https://img.danmaek.com/images/og-default.jpg"
+image: "/assets/posts/news-images/edge-ai-review-2026-01.jpg"
 imageAlt: "AI가 만든 엣지 확장 프로그램, 검사도 AI가 맡는다"
 imageWidth: 1200
 imageHeight: 675

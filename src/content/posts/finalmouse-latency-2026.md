@@ -11,7 +11,7 @@ tags:
   - "클릭 지연"
   - "게이밍"
   - "반응 속도"
-image: "https://img.danmaek.com/images/og-default.jpg"
+image: "/assets/posts/news-images/finalmouse-latency-2026-01.jpg"
 imageAlt: "파이널마우스 클릭 2밀리초 주장, 이제 사람이 느낄 차이인가"
 imageWidth: 1200
 imageHeight: 675

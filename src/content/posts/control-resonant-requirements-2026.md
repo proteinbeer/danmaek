@@ -11,7 +11,7 @@ tags:
   - "PC 사양"
   - "RTX 5080"
   - "시스템 요구 사양"
-image: "https://img.danmaek.com/images/og-default.jpg"
+image: "/assets/posts/news-images/control-resonant-requirements-2026-01.jpg"
 imageAlt: "컨트롤 레저넌트 사양 공개, RTX 5080도 업스케일링이 기본"
 imageWidth: 1200
 imageHeight: 675

@@ -11,7 +11,7 @@ tags:
   - "매출"
   - "AI 칩"
   - "파운드리"
-image: "https://img.danmaek.com/images/og-default.jpg"
+image: "/assets/posts/news-images/tsmc-august-revenue-2026-01.jpg"
 imageAlt: "TSMC 한 달 매출 53퍼센트 늘었다, AI칩 승자는 따로 있다"
 imageWidth: 1200
 imageHeight: 675

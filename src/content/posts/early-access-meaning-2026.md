@@ -11,7 +11,7 @@ tags:
   - "출시"
   - "반품"
   - "기대치"
-image: "https://img.danmaek.com/images/og-default.jpg"
+image: "/assets/posts/news-images/early-access-meaning-2026-01.jpg"
 imageAlt: "얼리 액세스 의미가 사라졌다, 미완성이라 써도 욕먹는 이유"
 imageWidth: 1200
 imageHeight: 675

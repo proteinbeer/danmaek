@@ -11,7 +11,7 @@ tags:
   - "프라이버시"
   - "추적"
   - "개인정보"
-image: "https://img.danmaek.com/images/og-default.jpg"
+image: "/assets/posts/news-images/lg-smart-tv-privacy-2026-01.jpg"
 imageAlt: "LG 스마트TV 추적 논란, HDMI 화면까지 본다는 주장이 나왔다"
 imageWidth: 1200
 imageHeight: 675

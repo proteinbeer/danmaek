@@ -11,7 +11,7 @@ tags:
   - "마스크"
   - "반도체"
   - "초미세 공정"
-image: "https://img.danmaek.com/images/og-default.jpg"
+image: "/assets/posts/news-images/asml-large-masks-2026-01.jpg"
 imageAlt: "AI칩이 너무 커졌다, ASML이 마스크 크기까지 바꾸는 이유"
 imageWidth: 1200
 imageHeight: 675

@@ -11,7 +11,7 @@ tags:
   - "픽셀"
   - "제품 단종"
   - "하드웨어"
-image: "https://img.danmaek.com/images/og-default.jpg"
+image: "/assets/posts/news-images/google-tablet-again-2026-01.jpg"
 imageAlt: "구글 태블릿 또 사라지나, 픽셀 태블릿이 스토어에서 빠졌다"
 imageWidth: 1200
 imageHeight: 675

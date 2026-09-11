@@ -11,7 +11,7 @@ tags:
   - "AAA"
   - "개발 비용"
   - "인디 게임"
-image: "https://img.danmaek.com/images/og-default.jpg"
+image: "/assets/posts/news-images/graphics-arms-race-2026-01.jpg"
 imageAlt: "게임 그래픽은 2010년에 충분했다, 개발자가 멈추자 한 이유"
 imageWidth: 1200
 imageHeight: 675

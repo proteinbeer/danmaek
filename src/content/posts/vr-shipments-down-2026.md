@@ -11,7 +11,7 @@ tags:
   - "출하량"
   - "밸브"
   - "헤드셋"
-image: "https://img.danmaek.com/images/og-default.jpg"
+image: "/assets/posts/news-images/vr-shipments-down-2026-01.jpg"
 imageAlt: "VR 출하량 18퍼센트 줄었다, 밸브는 왜 지금 새 기기를 내나"
 imageWidth: 1200
 imageHeight: 675

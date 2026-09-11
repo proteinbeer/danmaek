@@ -11,7 +11,7 @@ tags:
   - "뇌 컴퓨터"
   - "실험"
   - "AI"
-image: "https://img.danmaek.com/images/og-default.jpg"
+image: "/assets/posts/news-images/fruit-fly-doom-2026-01.jpg"
 imageAlt: "초파리 뇌로 둠을 돌렸다, 장난처럼 시작한 실험이 묘하다"
 imageWidth: 1200
 imageHeight: 675

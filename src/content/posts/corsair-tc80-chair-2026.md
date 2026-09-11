@@ -11,7 +11,7 @@ tags:
   - "TC80"
   - "사무용"
   - "가구"
-image: "https://img.danmaek.com/images/og-default.jpg"
+image: "/assets/posts/news-images/corsair-tc80-chair-2026-01.jpg"
 imageAlt: "게이밍 의자인데 게이밍처럼 안 생겼다, 코르세어가 방향을 바꿨다"
 imageWidth: 1200
 imageHeight: 675

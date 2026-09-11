@@ -11,7 +11,7 @@ tags:
   - "서버 접속"
   - "동시 접속"
   - "출시"
-image: "https://img.danmaek.com/images/og-default.jpg"
+image: "/assets/posts/news-images/wardogs-launch-servers-01.jpg"
 imageAlt: "워독스 30만명 몰렸다, 베타 뒤에도 서버가 터진 이유"
 imageWidth: 1200
 imageHeight: 675

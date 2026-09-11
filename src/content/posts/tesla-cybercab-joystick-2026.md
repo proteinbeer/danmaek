@@ -11,7 +11,7 @@ tags:
   - "자율주행"
   - "조이스틱"
   - "모빌리티"
-image: "https://img.danmaek.com/images/og-default.jpg"
+image: "/assets/posts/news-images/tesla-cybercab-joystick-2026-01.jpg"
 imageAlt: "핸들 없는 사이버캡, 화면 속 조이스틱이 발견된 이유"
 imageWidth: 1200
 imageHeight: 675

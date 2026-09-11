@@ -11,7 +11,7 @@ tags:
   - "아웃룩"
   - "MS 365"
   - "조달"
-image: "https://img.danmaek.com/images/og-default.jpg"
+image: "/assets/posts/news-images/switzerland-microsoft-exit-2026-01.jpg"
 imageAlt: "스위스가 마이크로소프트를 떠난다, 1100만달러를 쓰는 이유"
 imageWidth: 1200
 imageHeight: 675

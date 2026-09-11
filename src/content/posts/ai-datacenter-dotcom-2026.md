@@ -11,7 +11,7 @@ tags:
   - "코인 채굴"
   - "대역폭"
   - "버블"
-image: "https://img.danmaek.com/images/og-default.jpg"
+image: "/assets/posts/news-images/ai-datacenter-dotcom-2026-01.png"
 imageAlt: "코인 채굴장이 AI 데이터센터가 됐다, 2000년과 닮은 장면"
 imageWidth: 1200
 imageHeight: 675
