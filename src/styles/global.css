@@ -429,6 +429,10 @@ background: var(--paper);
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 22px;
 }
+.home-page .grid.js-page-grid > :nth-child(n+7),
+.home-page .tool-grid.js-page-grid > :nth-child(n+7) {
+  display: none;
+}
 .post-card {
   display: grid;
   gap: 12px;
@@ -1295,6 +1299,7 @@ width: 18px;
   max-width: 100%;
   margin: 34px auto 34px;
   overflow: hidden;
+  min-height: 250px;
 }
 main:not(.home-page) .tool-coupang {
   margin-bottom: 8px;
@@ -1302,7 +1307,7 @@ main:not(.home-page) .tool-coupang {
 .tool-coupang--lg { display: none; }
 @media (min-width: 768px) {
   .tool-coupang--sm { display: none; }
-  .tool-coupang--lg { display: block; width: 662px; }
+  .tool-coupang--lg { display: block; width: 662px; min-height: 140px; }
 }
 .article-wrap {
   position: relative;
@@ -1426,6 +1431,9 @@ main:not(.home-page) .tool-coupang {
 .prose .post-landscape-image.post-landscape-image--bottom {
   object-position: center bottom;
 }
+.prose div[style*="width: 250px; max-width: 100%"] {
+  min-height: 250px;
+}
 .prose table {
   width: 100%;
   margin: 1.5rem 0;
@@ -1480,6 +1488,7 @@ main:not(.home-page) .tool-coupang {
   margin-top: 26px;
   margin-bottom: 19px;
   overflow-x: auto;
+  min-height: 140px;
 }
 .coupang-banner iframe {
   display: block;
@@ -1943,6 +1952,8 @@ article.featured .contact-form {
   margin-bottom: 30px;
   display: flex;
   justify-content: center;
+  align-items: center;
+  min-height: 90px;
 }
 .article-wrap > article .adfit-banner {
   margin-bottom: 0;

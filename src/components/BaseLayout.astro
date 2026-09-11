@@ -53,6 +53,10 @@ const imageUrl = new URL(image, SITE.url).toString();
     <title>{title}</title>
     <GoogleAnalytics />
     <slot name="head" />
+  <script is:inline>
+      if ('scrollRestoration' in history) history.scrollRestoration = 'manual';
+      window.scrollTo(0, 0);
+    </script>
   </head>
   <body id="top">
     <Header />

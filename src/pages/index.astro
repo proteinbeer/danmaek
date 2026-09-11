@@ -49,15 +49,15 @@ const yesterdayStr = yesterdayDate.toISOString().slice(0, 10);
           <input id="home-search" class="home-search-input" type="search" placeholder="검색" aria-label="글 검색" autocomplete="off" />
         </div>
       </div>
-      <div class="grid" id="post-grid">
+      <div class="grid js-page-grid" id="post-grid">
         {posts.map((post) => <PostCard post={post} />)}
       </div>
-      <nav class="pager" id="pager" aria-label="글 페이지 네비게이션">
-        <button type="button" class="pager__arrow" id="pager-prev" aria-label="이전 페이지">
+      <nav class="pager" id="pager" aria-label="글 페이지 네비게이션" hidden>
+        <button type="button" class="pager__arrow" id="pager-prev" aria-label="이전 페이지" disabled>
           <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 18l-6-6 6-6"/></svg>
         </button>
         <span class="pager__status" id="pager-status"></span>
-        <button type="button" class="pager__arrow" id="pager-next" aria-label="다음 페이지">
+        <button type="button" class="pager__arrow" id="pager-next" aria-label="다음 페이지" disabled>
           <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 18l6-6-6-6"/></svg>
         </button>
       </nav>
@@ -79,15 +79,15 @@ const yesterdayStr = yesterdayDate.toISOString().slice(0, 10);
           <input id="home-guide-search" class="home-search-input" type="search" placeholder="검색" aria-label="가이드 검색" autocomplete="off" />
         </div>
       </div>
-      <div class="grid" id="guide-grid">
+      <div class="grid js-page-grid" id="guide-grid">
         {guidePosts.map((post) => <PostCard post={post} />)}
       </div>
-      <nav class="pager" id="guide-pager" aria-label="가이드 페이지 네비게이션">
-        <button type="button" class="pager__arrow" id="guide-pager-prev" aria-label="이전 페이지">
+      <nav class="pager" id="guide-pager" aria-label="가이드 페이지 네비게이션" hidden>
+        <button type="button" class="pager__arrow" id="guide-pager-prev" aria-label="이전 페이지" disabled>
           <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 18l-6-6 6-6"/></svg>
         </button>
         <span class="pager__status" id="guide-pager-status"></span>
-        <button type="button" class="pager__arrow" id="guide-pager-next" aria-label="다음 페이지">
+        <button type="button" class="pager__arrow" id="guide-pager-next" aria-label="다음 페이지" disabled>
           <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 18l6-6-6-6"/></svg>
         </button>
       </nav>
@@ -109,15 +109,15 @@ const yesterdayStr = yesterdayDate.toISOString().slice(0, 10);
           <input id="home-coupon-search" class="home-search-input" type="search" placeholder="검색" aria-label="쿠폰 검색" autocomplete="off" />
         </div>
       </div>
-      <div class="grid" id="coupon-grid">
+      <div class="grid js-page-grid" id="coupon-grid">
         {couponPosts.map((post) => <PostCard post={post} />)}
       </div>
-      <nav class="pager" id="coupon-pager" aria-label="쿠폰 페이지 네비게이션">
-        <button type="button" class="pager__arrow" id="coupon-pager-prev" aria-label="이전 페이지">
+      <nav class="pager" id="coupon-pager" aria-label="쿠폰 페이지 네비게이션" hidden>
+        <button type="button" class="pager__arrow" id="coupon-pager-prev" aria-label="이전 페이지" disabled>
           <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 18l-6-6 6-6"/></svg>
         </button>
         <span class="pager__status" id="coupon-pager-status"></span>
-        <button type="button" class="pager__arrow" id="coupon-pager-next" aria-label="다음 페이지">
+        <button type="button" class="pager__arrow" id="coupon-pager-next" aria-label="다음 페이지" disabled>
           <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 18l6-6-6-6"/></svg>
         </button>
       </nav>
@@ -139,7 +139,7 @@ const yesterdayStr = yesterdayDate.toISOString().slice(0, 10);
           <input id="home-tool-search" class="home-search-input" type="search" placeholder="검색" aria-label="도구 검색" autocomplete="off" />
         </div>
       </div>
-      <div class="tool-grid" id="tool-grid">
+      <div class="tool-grid js-page-grid" id="tool-grid">
         {[...TOOLS].reverse().map((tool) => (
           <a class="tool-card" href={`/tools/${tool.slug}/`} data-subcategory={toolSubByCategory.get(tool.category) ?? ''}>
             {tool.created === todayStr && <span class="new-badge new-badge--tool"><span class="new-badge__text">NEW</span></span>}
@@ -151,12 +151,12 @@ const yesterdayStr = yesterdayDate.toISOString().slice(0, 10);
           </a>
         ))}
       </div>
-      <nav class="pager" id="tool-pager" aria-label="툴 페이지 네비게이션">
-        <button type="button" class="pager__arrow" id="tool-pager-prev" aria-label="이전 툴 페이지">
+      <nav class="pager" id="tool-pager" aria-label="툴 페이지 네비게이션" hidden>
+        <button type="button" class="pager__arrow" id="tool-pager-prev" aria-label="이전 툴 페이지" disabled>
           <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 18l-6-6 6-6"/></svg>
         </button>
         <span class="pager__status" id="tool-pager-status"></span>
-        <button type="button" class="pager__arrow" id="tool-pager-next" aria-label="다음 툴 페이지">
+        <button type="button" class="pager__arrow" id="tool-pager-next" aria-label="다음 툴 페이지" disabled>
           <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 18l6-6-6-6"/></svg>
         </button>
       </nav>
@@ -195,16 +195,30 @@ const yesterdayStr = yesterdayDate.toISOString().slice(0, 10);
       return div;
     }
 
+    function preloadAdjacent(cards: HTMLElement[], page: number, total: number, size: number) {
+      [page - 1, page + 1].forEach((p) => {
+        if (p < 0 || p >= total) return;
+        cards.slice(p * size, p * size + size).forEach((card) => {
+          const img = card.querySelector('img');
+          if (!img) return;
+          const src = img.getAttribute('src');
+          if (src) { const i = new Image(); i.src = src; }
+        });
+      });
+    }
+
     function renderPosts() {
       const start = current * PAGE_SIZE;
       const pageCards = filteredCards.slice(start, start + PAGE_SIZE);
       grid.innerHTML = '';
       pageCards.forEach((card) => { card.style.display = ''; grid.appendChild(card); });
-      for (let i = pageCards.length; i < PAGE_SIZE; i++) grid.appendChild(makePlaceholder());
+      const placeholders = Math.max(0, PAGE_SIZE - pageCards.length);
+      for (let i = 0; i < placeholders; i++) grid.appendChild(makePlaceholder());
       status.innerHTML = `<b>${current + 1}</b> / ${postTotalPages}`;
       prevButton.disabled = current === 0;
       nextButton.disabled = current >= postTotalPages - 1;
       pager.hidden = postTotalPages <= 1 && filteredCards.length <= PAGE_SIZE;
+      preloadAdjacent(filteredCards, current, postTotalPages, PAGE_SIZE);
     }
 
     function goTo(page: number) {
@@ -245,6 +259,7 @@ const yesterdayStr = yesterdayDate.toISOString().slice(0, 10);
       toolPrevButton.disabled = toolCurrent === 0;
       toolNextButton.disabled = toolCurrent >= toolTotalPages - 1;
       toolPager.hidden = toolTotalPages <= 1 && filteredToolCards.length <= TOOL_PAGE_SIZE;
+      preloadAdjacent(filteredToolCards, toolCurrent, toolTotalPages, TOOL_PAGE_SIZE);
     }
 
     function goToToolPage(page: number) {
@@ -351,6 +366,7 @@ const yesterdayStr = yesterdayDate.toISOString().slice(0, 10);
       guidePrevButton.disabled = guideCurrent === 0;
       guideNextButton.disabled = guideCurrent >= guideTotalPages - 1;
       guidePager.hidden = guideTotalPages <= 1 && filteredGuideCards.length <= GUIDE_PAGE_SIZE;
+      preloadAdjacent(filteredGuideCards, guideCurrent, guideTotalPages, GUIDE_PAGE_SIZE);
     }
 
     function goToGuidePage(page: number) {
@@ -398,6 +414,7 @@ const yesterdayStr = yesterdayDate.toISOString().slice(0, 10);
       couponPrevButton.disabled = couponCurrent === 0;
       couponNextButton.disabled = couponCurrent >= couponTotalPages - 1;
       couponPager.hidden = couponTotalPages <= 1 && filteredCouponCards.length <= COUPON_PAGE_SIZE;
+      preloadAdjacent(filteredCouponCards, couponCurrent, couponTotalPages, COUPON_PAGE_SIZE);
     }
     function goToCouponPage(page: number) {
       if (page < 0 || page > couponTotalPages - 1 || page === couponCurrent) return;

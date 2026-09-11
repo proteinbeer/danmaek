@@ -41,7 +41,8 @@ export const GUIDE_SUBCATEGORIES: Subcategory[] = [
   { name: '프라그마타', slug: 'pragmata' },
   { name: '낚시 방법', slug: 'how-to-fish' },
   { name: '봄바나나', slug: 'bombanana' },
-  { name: '모탈 셸 2', slug: 'mortal-shell-2' }
+  { name: '모탈 셸 2', slug: 'mortal-shell-2' },
+  { name: '할로윈 더 게임', slug: 'halloween-the-game' }
 ];
 
 export const COUPON_SUBCATEGORIES: Subcategory[] = [
