@@ -38,17 +38,9 @@ img { max-width: 100%; height: auto; }
 }
 
 .site-header {
-  background:
-    radial-gradient(circle at 50% 0%, rgba(255, 255, 255, .5), transparent 46%),
-    linear-gradient(90deg, #030303 0%, #090909 58%, #000 100%);
-  background-size: 200% 100%, 100% 100%;
-  animation: chrome-blue-focus 7s linear infinite;
+  background: linear-gradient(90deg, #030303 0%, #090909 58%, #000 100%);
   border-bottom: 1px solid rgba(255, 255, 255, .08);
   color: #fff;
-}
-@keyframes chrome-blue-focus {
-  from { background-position: 100% 0%, 0 0; }
-  to { background-position: -100% 0%, 0 0; }
 }
 .site-header__inner {
   min-height: 72px;
@@ -94,15 +86,6 @@ img { max-width: 100%; height: auto; }
   mask-repeat: no-repeat;
   -webkit-mask-position: center;
   mask-position: center;
-  background: linear-gradient(115deg, rgba(255, 255, 255, 0) 18%, rgba(255, 255, 255, .5) 50%, rgba(255, 255, 255, 0) 82%);
-  background-size: 260% 100%;
-  background-repeat: no-repeat;
-  animation: brand-shine 5s ease-in-out infinite;
-}
-@keyframes brand-shine {
-  0% { background-position: -220% 0; }
-  40% { background-position: 220% 0; }
-  100% { background-position: 220% 0; }
 }
 .brand-copy {
   display: grid;
@@ -2471,11 +2454,7 @@ border-radius: 8px;
   border-top: 0;
   margin-top: 0;
   padding: 30px 0 28px;
-  background:
-    radial-gradient(circle at 50% 0%, rgba(255, 255, 255, .35), transparent 44%),
-    linear-gradient(90deg, #030303 0%, #090909 62%, #000 100%);
-  background-size: 200% 100%, 100% 100%;
-  animation: chrome-blue-focus 10s linear infinite reverse;
+  background: linear-gradient(90deg, #030303 0%, #090909 62%, #000 100%);
   color: rgba(255, 255, 255, .72);
 }
 .site-footer__inner {
@@ -2538,12 +2517,8 @@ border-radius: 8px;
   mask-size: contain;
   -webkit-mask-repeat: no-repeat;
   mask-repeat: no-repeat;
-  -webkit-mask-position: center;
+-webkit-mask-position: center;
   mask-position: center;
-  background: linear-gradient(115deg, rgba(255, 255, 255, 0) 18%, rgba(255, 255, 255, .5) 50%, rgba(255, 255, 255, 0) 82%);
-  background-size: 260% 100%;
-  background-repeat: no-repeat;
-  animation: brand-shine 5s ease-in-out infinite;
 }
 .footer-brand p {
   max-width: 320px;
