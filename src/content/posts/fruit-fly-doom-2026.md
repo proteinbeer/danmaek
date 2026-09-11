@@ -31,6 +31,9 @@ hideDescription: true
 
 오히려 살아 있는 뇌의 연결 구조를 소프트웨어 입력과 출력으로 바꿔 게임에 넣을 수 있다는 사실 자체가 묘합니다.
 
+
+<img class="post-landscape-image post-landscape-image--high" src="/assets/posts/news-images/fruit-fly-doom-2026-01.jpg" alt="초파리 뇌로 둠을 돌렸다, 장난처럼 시작한 실험이 묘하다" width="1920" height="1080" loading="lazy" decoding="async" />
+
 ## 1. 연구의 목적은 게임이 아니다
 
 원래 프로젝트의 목적은 초파리 신경계를 이해하기 위한 기초 연구입니다.

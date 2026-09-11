@@ -31,6 +31,9 @@ hideDescription: true
 
 요즘 온라인 게임은 게임을 만드는 것과 출시 순간을 버티는 일이 완전히 다른 문제라는 걸 다시 보여줬기 때문입니다.
 
+
+<img class="post-landscape-image post-landscape-image--high" src="/assets/posts/news-images/wardogs-launch-servers-01.jpg" alt="워독스 30만명 몰렸다, 베타 뒤에도 서버가 터진 이유" width="1920" height="1080" loading="lazy" decoding="async" />
+
 ## 1. 30만명이 몰린 첫날
 
 워독스는 100명이 세 팀으로 싸우는 대규모 밀리터리 FPS라 출시 전부터 서버 부담이 예상됐습니다.

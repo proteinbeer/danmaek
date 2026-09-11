@@ -31,6 +31,9 @@ DLSS 5 신경 렌더링을 게임 안이 아니라 윈도우 데스크톱 전체
 
 그런데 오히려 그래서 DLSS가 게임 성능 기술에서 화면 자체를 바꾸는 필터로 확장될 수 있다는 가능성이 더 잘 보입니다.
 
+
+<img class="post-landscape-image post-landscape-image--high" src="/assets/posts/news-images/dlss5-desktop-2026-01.jpg" alt="DLSS 5를 윈도우 화면 전체에 적용했다, RTX 30도 돌아간다" width="1600" height="900" loading="lazy" decoding="async" />
+
 ## 1. 게임 밖으로 나온 DLSS
 
 기존 DLSS는 게임 엔진과 연결돼 낮은 해상도를 복원하거나 프레임을 생성하는 기능으로 인식됐습니다.

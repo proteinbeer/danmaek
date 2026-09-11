@@ -31,6 +31,9 @@ hideDescription: true
 
 그런데 로봇이 사람 대신 일자리를 걱정하는 팻말을 들고 있다는 역설 때문에 메시지는 일반 시위보다 훨씬 강하게 남습니다.
 
+
+<img class="post-landscape-image post-landscape-image--high" src="/assets/posts/news-images/robot-protest-poland-2026-01.jpg" alt="로봇이 인간 일자리를 지켜달라 시위했다, 폴란드에서 벌어진 장면" width="1424" height="1580" loading="lazy" decoding="async" />
+
 ## 1. 로봇의 자발적 시위는 아니다
 
 이번 행사는 민주주의 관련 시민단체가 AI와 로봇 자동화가 노동시장에 미치는 영향을 논의하자며 조직했습니다.

@@ -31,6 +31,9 @@ hideDescription: true
 
 그런데 이 카드조차 네이티브 4K 기준이 아니라 업스케일링을 전제로 잡았다는 점에서 요즘 PC 게임 사양표가 얼마나 달라졌는지 보여줍니다.
 
+
+<img class="post-landscape-image post-landscape-image--high" src="/assets/posts/news-images/control-resonant-requirements-2026-01.jpg" alt="컨트롤 레저넌트 사양 공개, RTX 5080도 업스케일링이 기본" width="2560" height="1440" loading="lazy" decoding="async" />
+
 ## 1. 120GB가 기본이 된 대작
 
 컨트롤 레저넌트는 설치에 120GB SSD 공간을 요구합니다.

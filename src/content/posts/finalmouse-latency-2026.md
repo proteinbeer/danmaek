@@ -31,6 +31,9 @@ hideDescription: true
 
 손가락이 버튼을 누르는 시간과 USB 전송, 게임 엔진 처리까지 합쳐지기 때문에 2밀리초라는 숫자를 어떻게 읽어야 하는지가 더 중요합니다.
 
+
+<img class="post-landscape-image post-landscape-image--high" src="/assets/posts/news-images/finalmouse-latency-2026-01.jpg" alt="파이널마우스 클릭 2밀리초 주장, 이제 사람이 느낄 차이인가" width="1624" height="914" loading="lazy" decoding="async" />
+
 ## 1. 자체 측정이라는 점
 
 파이널마우스는 자사 측정 장비와 방법으로 여러 마우스를 비교했습니다.

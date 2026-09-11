@@ -31,6 +31,9 @@ hideDescription: true
 
 반대로 줄어드는 시장에 새 제품을 내는 건 제품 하나보다 밸브가 VR을 어떻게 보고 있는지 더 궁금하게 만듭니다.
 
+
+<img class="post-landscape-image post-landscape-image--high" src="/assets/posts/news-images/vr-shipments-down-2026-01.jpg" alt="VR 출하량 18퍼센트 줄었다, 밸브는 왜 지금 새 기기를 내나" width="1920" height="1080" loading="lazy" decoding="async" />
+
 ## 1. VR은 아직도 비싼 취미
 
 VR은 몇 년 전부터 차세대 게임 플랫폼으로 불렸지만 여전히 일반 모니터와 콘솔만큼 널리 퍼지지 못했습니다.

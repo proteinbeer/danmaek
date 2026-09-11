@@ -31,6 +31,9 @@ hideDescription: true
 
 돈을 아끼기 위해 무료 소프트웨어를 쓰는 이야기가 아니라, 오히려 돈을 들여 미국 빅테크 의존도를 낮추려는 선택이라는 점이 핵심입니다.
 
+
+<img class="post-landscape-image post-landscape-image--high" src="/assets/posts/news-images/switzerland-microsoft-exit-2026-01.jpg" alt="스위스가 마이크로소프트를 떠난다, 1100만달러를 쓰는 이유" width="2000" height="1225" loading="lazy" decoding="async" />
+
 ## 1. 공짜라서 바꾸는 게 아니다
 
 오픈소스 소프트웨어는 라이선스 비용이 낮을 수 있지만 대규모 조직에서 전환 비용은 상당합니다.

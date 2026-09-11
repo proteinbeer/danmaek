@@ -31,6 +31,9 @@ AI 경쟁은 GPU와 모델 성능만의 싸움이 아닙니다.
 
 저는 이 숫자가 AI 붐을 기술 뉴스가 아니라 금융시장 이야기로 바꾸는 지점이라고 봅니다.
 
+
+<img class="post-landscape-image post-landscape-image--high" src="/assets/posts/news-images/ai-debt-boom-2026-01.webp" alt="AI 데이터센터 짓느라 2200억달러 빌렸다, 빅테크 부채도 커진다" width="1072" height="1072" loading="lazy" decoding="async" />
+
 ## 1. 현금 부자도 돈을 빌린다
 
 빅테크는 막대한 현금흐름을 만드는 회사들입니다.

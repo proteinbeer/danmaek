@@ -31,6 +31,9 @@ hideDescription: true
 
 스마트폰 칩 경쟁이 벤치마크 최고점에서 발열과 장시간 성능으로 이동하는 모습입니다.
 
+
+<img class="post-landscape-image post-landscape-image--high" src="/assets/posts/news-images/apple-a20-pro-2026-01.jpg" alt="애플 A20 프로 2나노, 속도보다 발열을 잡겠다는 변화" width="1600" height="1600" loading="lazy" decoding="async" />
+
 ## 1. 2나노가 주는 여유
 
 공정이 미세해지면 같은 면적에 더 많은 트랜지스터를 넣거나 전력 효율을 높일 수 있습니다.

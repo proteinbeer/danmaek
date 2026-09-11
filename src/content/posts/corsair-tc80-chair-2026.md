@@ -31,6 +31,9 @@ hideDescription: true
 
 게이밍 제품이 오랫동안 RGB와 각진 디자인으로 차별화했다면 이제는 오히려 게임 티가 덜 나는 것이 새로운 차별점이 되고 있기 때문입니다.
 
+
+<img class="post-landscape-image post-landscape-image--high" src="/assets/posts/news-images/corsair-tc80-chair-2026-01.jpg" alt="게이밍 의자인데 게이밍처럼 안 생겼다, 코르세어가 방향을 바꿨다" width="1000" height="563" loading="lazy" decoding="async" />
+
 ## 1. 버킷 시트에서 멀어졌다
 
 전통적인 게이밍 의자는 레이싱 카 좌석처럼 양옆이 올라온 형태와 큰 로고, 강한 색상을 많이 사용했습니다.

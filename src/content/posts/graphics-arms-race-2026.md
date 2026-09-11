@@ -31,6 +31,9 @@ hideDescription: true
 
 하지만 지금 게임 개발비와 설치 용량, 업스케일링 의존도를 보면 생각보다 현재적인 질문입니다.
 
+
+<img class="post-landscape-image post-landscape-image--high" src="/assets/posts/news-images/graphics-arms-race-2026-01.jpg" alt="게임 그래픽은 2010년에 충분했다, 개발자가 멈추자 한 이유" width="2560" height="1440" loading="lazy" decoding="async" />
+
 ## 1. 16년 전에도 이미 충분히 예뻤다
 
 2010년 앨런 웨이크는 당시 기준으로 사실적인 조명과 얼굴, 숲 표현을 보여준 작품이었습니다.

@@ -31,6 +31,9 @@ hideDescription: true
 
 번역의 문제를 자막과 목소리에서 끝내지 않고 영상 자체까지 수정한다는 점에서 스트리밍 현지화가 한 단계 더 깊어졌습니다.
 
+
+<img class="post-landscape-image post-landscape-image--high" src="/assets/posts/news-images/prime-video-lipsync-2026-01.jpg" alt="더빙하면 배우 입모양도 바뀐다, 프라임 비디오가 AI를 쓴 이유" width="1200" height="600" loading="lazy" decoding="async" />
+
 ## 1. 더빙의 오래된 어색함
 
 다른 언어로 더빙하면 문장 길이와 발음이 달라 원래 배우의 입 움직임과 목소리가 어긋납니다.

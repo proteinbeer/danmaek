@@ -31,6 +31,9 @@ hideDescription: true
 
 그래서 실제 일반 운전용인지 정비와 이동을 위한 제한 기능인지는 확정되지 않았지만, 사람 조작을 없앤 차량에도 결국 사람의 개입 방법이 필요하다는 현실적인 문제를 보여줍니다.
 
+
+<img class="post-landscape-image post-landscape-image--high" src="/assets/posts/news-images/tesla-cybercab-joystick-2026-01.jpg" alt="핸들 없는 사이버캡, 화면 속 조이스틱이 발견된 이유" width="2558" height="1600" loading="lazy" decoding="async" />
+
 ## 1. 운전대가 없는 차
 
 사이버캡은 처음부터 사람이 운전하지 않는 차량을 전제로 설계됐습니다.

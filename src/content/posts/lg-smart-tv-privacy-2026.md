@@ -31,6 +31,9 @@ LG 스마트TV가 시청 습관과 홈 네트워크 정보를 폭넓게 수집�
 
 이번 글은 어느 한쪽 주장을 사실로 확정하기보다 스마트TV가 얼마나 많은 데이터를 볼 수 있는지 자체를 보는 편이 맞습니다.
 
+
+<img class="post-landscape-image post-landscape-image--high" src="/assets/posts/news-images/lg-smart-tv-privacy-2026-01.jpg" alt="LG 스마트TV 추적 논란, HDMI 화면까지 본다는 주장이 나왔다" width="1920" height="1080" loading="lazy" decoding="async" />
+
 ## 1. 자동 콘텐츠 인식이라는 기능
 
 스마트TV에는 화면에 무엇이 나오고 있는지 분석해 시청 패턴을 파악하는 자동 콘텐츠 인식 기능이 들어갈 수 있습니다.

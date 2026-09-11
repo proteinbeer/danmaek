@@ -31,6 +31,9 @@ TSMC의 2026년 8월 매출이 약 5148억 대만달러로 집계됐습니다.
 
 AI 경쟁에서 가장 안정적인 위치가 어디인지 보여주는 숫자입니다.
 
+
+<img class="post-landscape-image post-landscape-image--high" src="/assets/posts/news-images/tsmc-august-revenue-2026-01.jpg" alt="TSMC 한 달 매출 53퍼센트 늘었다, AI칩 승자는 따로 있다" width="1920" height="1080" loading="lazy" decoding="async" />
+
 ## 1. 한 달 5148억 대만달러
 
 TSMC가 공식 발표한 8월 연결 매출은 약 5148억 대만달러입니다.

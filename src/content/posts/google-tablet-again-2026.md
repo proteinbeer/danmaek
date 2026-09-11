@@ -31,6 +31,9 @@ hideDescription: true
 
 안드로이드를 만든 회사가 정작 안드로이드 태블릿 하드웨어에서는 계속 확신을 보여주지 못한다는 점이 묘합니다.
 
+
+<img class="post-landscape-image post-landscape-image--high" src="/assets/posts/news-images/google-tablet-again-2026-01.jpg" alt="구글 태블릿 또 사라지나, 픽셀 태블릿이 스토어에서 빠졌다" width="3840" height="2891" loading="lazy" decoding="async" />
+
 ## 1. 픽셀 태블릿이 사라졌다
 
 픽셀 태블릿은 구글이 직접 만든 안드로이드 태블릿으로 2023년에 등장했습니다.

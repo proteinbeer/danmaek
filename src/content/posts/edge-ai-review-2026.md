@@ -31,6 +31,9 @@ AI 코딩 도구 덕분에 프로그래밍 경험이 적은 사람도 브라우�
 
 AI가 생산량을 늘리고 그 생산량을 감당하기 위해 다시 AI가 필요한 묘한 순환입니다.
 
+
+<img class="post-landscape-image post-landscape-image--high" src="/assets/posts/news-images/edge-ai-review-2026-01.jpg" alt="AI가 만든 엣지 확장 프로그램, 검사도 AI가 맡는다" width="2000" height="1333" loading="lazy" decoding="async" />
+
 ## 1. 개발 문턱이 낮아졌다
 
 예전에는 간단한 확장 프로그램 하나를 만들려 해도 자바스크립트와 브라우저 API를 직접 배워야 했습니다.

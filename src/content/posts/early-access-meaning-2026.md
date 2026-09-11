@@ -31,6 +31,9 @@ hideDescription: true
 
 게임은 얼리 액세스라고 적혀 있지만 돈을 낸 이용자 입장에서는 오늘 산 상품이 오늘 제대로 돌아가기를 기대하기 때문입니다.
 
+
+<img class="post-landscape-image post-landscape-image--high" src="/assets/posts/news-images/early-access-meaning-2026-01.jpg" alt="얼리 액세스 의미가 사라졌다, 미완성이라 써도 욕먹는 이유" width="1354" height="762" loading="lazy" decoding="async" />
+
 ## 1. 원래 얼리 액세스는 테스트에 가까웠다
 
 초기 스팀 얼리 액세스는 개발 중인 게임을 좋아하는 이용자가 먼저 들어가 버그를 찾고 의견을 주는 문화가 강했습니다.

@@ -31,6 +31,9 @@ EA 스포츠 FC, 배틀필드, 심즈 같은 초대형 지식재산과 세비가
 
 저는 이걸 단순 인수 뉴스보다 사우디가 게임을 하나의 국가 산업으로 얼마나 크게 보고 있는지 보여주는 장면으로 봅니다.
 
+
+<img class="post-landscape-image post-landscape-image--high" src="/assets/posts/news-images/ea-savvy-merger-2026-01.jpg" alt="EA와 세비 게임즈 합병 검토, 사우디 게임 제국이 커진다" width="1200" height="675" loading="lazy" decoding="async" />
+
 ## 1. EA 인수로 끝나지 않을 수 있다
 
 사우디 국부펀드는 이미 EA를 약 550억달러 규모로 비상장화하는 거래를 진행했습니다.

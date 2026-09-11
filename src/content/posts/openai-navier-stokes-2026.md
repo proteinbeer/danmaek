@@ -31,6 +31,9 @@ hideDescription: true
 
 그렇더라도 수학계가 충분히 검토하기 전까지는 역사적인 난제가 완전히 끝났다고 단정하는 표현은 조심할 필요가 있습니다.
 
+
+<img class="post-landscape-image post-landscape-image--high" src="/assets/posts/news-images/openai-navier-stokes-2026-01.png" alt="AI 1만개가 88시간 풀었다, 수학 난제 해결 주장의 무게" width="1600" height="900" loading="lazy" decoding="async" />
+
 ## 1. 밀레니엄 문제라는 무게
 
 나비에 스토크스 방정식은 유체가 어떻게 움직이는지 설명하는 핵심 수학 도구입니다.

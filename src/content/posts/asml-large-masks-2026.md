@@ -31,6 +31,9 @@ ASML이 차세대 하이NA EUV 장비에 더 큰 12인치 마스크를 쓰는 �
 
 최신 데이터센터 칩이 너무 커지면서 더 미세하게 찍는 기술만으로는 부족하고 한 번에 찍을 수 있는 면적까지 다시 늘려야 하는 상황이 왔습니다.
 
+
+<img class="post-landscape-image post-landscape-image--high" src="/assets/posts/news-images/asml-large-masks-2026-01.jpg" alt="AI칩이 너무 커졌다, ASML이 마스크 크기까지 바꾸는 이유" width="3077" height="1600" loading="lazy" decoding="async" />
+
 ## 1. 마스크가 하는 일
 
 반도체 노광 장비는 회로 패턴이 담긴 마스크를 이용해 웨이퍼 위에 미세한 회로를 인쇄합니다.
