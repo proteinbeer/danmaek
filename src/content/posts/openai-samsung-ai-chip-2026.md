@@ -18,7 +18,6 @@ imageWidth: 1280
 imageHeight: 720
 hideHeroImage: true
 hideDescription: true
-featured: true
 ---
 
 <p class="affiliate-disclosure">
