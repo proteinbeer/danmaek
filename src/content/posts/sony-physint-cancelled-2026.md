@@ -11,7 +11,7 @@ tags:
   - "피진트"
   - "게임 산업"
   - "예산"
-image: "/assets/posts/news-images/sony-physint-cancelled-2026-01.png"
+image: "/assets/posts/news-images/sony-physint-cancelled-2026-01.jpg"
 imageAlt: "소니가 코지마 피진트를 포기했다, 일정 지연과 예산설이 함께 나온 배경"
 imageWidth: 1200
 imageHeight: 675
@@ -31,7 +31,7 @@ hideDescription: true
 
 따라서 현재는 확인된 사실과 업계 보도를 나눠서 보는 것이 가장 안전합니다.
 
-<img class="post-landscape-image post-landscape-image--high" src="/assets/posts/news-images/sony-physint-cancelled-2026-01.png" alt="소니가 코지마 피진트를 포기했다, 일정 지연과 예산설이 함께 나온 배경" width="1200" height="675" loading="lazy" decoding="async" />
+<img class="post-landscape-image post-landscape-image--high" src="/assets/posts/news-images/sony-physint-cancelled-2026-01.jpg" alt="소니가 코지마 피진트를 포기했다, 일정 지연과 예산설이 함께 나온 배경" width="1200" height="675" loading="lazy" decoding="async" />
 
 ## 1. 플레이스테이션이 물러난 프로젝트
 

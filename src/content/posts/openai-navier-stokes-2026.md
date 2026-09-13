@@ -11,7 +11,7 @@ tags:
   - "수학"
   - "AI"
   - "유체역학"
-image: "/assets/posts/news-images/openai-navier-stokes-2026-01.png"
+image: "/assets/posts/news-images/openai-navier-stokes-2026-01.jpg"
 imageAlt: "AI 1만개가 88시간 풀었다, 수학 난제 해결 주장의 무게"
 imageWidth: 1200
 imageHeight: 675
@@ -32,7 +32,7 @@ hideDescription: true
 그렇더라도 수학계가 충분히 검토하기 전까지는 역사적인 난제가 완전히 끝났다고 단정하는 표현은 조심할 필요가 있습니다.
 
 
-<img class="post-landscape-image post-landscape-image--high" src="/assets/posts/news-images/openai-navier-stokes-2026-01.png" alt="AI 1만개가 88시간 풀었다, 수학 난제 해결 주장의 무게" width="1600" height="900" loading="lazy" decoding="async" />
+<img class="post-landscape-image post-landscape-image--high" src="/assets/posts/news-images/openai-navier-stokes-2026-01.jpg" alt="AI 1만개가 88시간 풀었다, 수학 난제 해결 주장의 무게" width="1600" height="900" loading="lazy" decoding="async" />
 
 ## 1. 밀레니엄 문제라는 무게
 

@@ -11,7 +11,7 @@ tags:
   - "코인 채굴"
   - "대역폭"
   - "버블"
-image: "/assets/posts/news-images/ai-datacenter-dotcom-2026-01.png"
+image: "/assets/posts/news-images/ai-datacenter-dotcom-2026-01.jpg"
 imageAlt: "코인 채굴장이 AI 데이터센터가 됐다, 2000년과 닮은 장면"
 imageWidth: 1200
 imageHeight: 675
@@ -32,7 +32,7 @@ hideDescription: true
 AI도 기술의 방향이 맞는 것과 지금 투자한 모든 회사가 성공하는 것은 전혀 다른 문제일 수 있습니다.
 
 
-<img class="post-landscape-image post-landscape-image--high" src="/assets/posts/news-images/ai-datacenter-dotcom-2026-01.png" alt="코인 채굴장이 AI 데이터센터가 됐다, 2000년과 닮은 장면" width="2400" height="1527" loading="lazy" decoding="async" />
+<img class="post-landscape-image post-landscape-image--high" src="/assets/posts/news-images/ai-datacenter-dotcom-2026-01.jpg" alt="코인 채굴장이 AI 데이터센터가 됐다, 2000년과 닮은 장면" width="2400" height="1527" loading="lazy" decoding="async" />
 
 ## 1. 채굴장에서 AI로 이동
 

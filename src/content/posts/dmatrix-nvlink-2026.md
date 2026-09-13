@@ -11,7 +11,7 @@ tags:
   - "NVLink"
   - "AI 칩"
   - "서버"
-image: "/assets/posts/news-images/dmatrix-nvlink-2026-01.png"
+image: "/assets/posts/news-images/dmatrix-nvlink-2026-01.jpg"
 imageAlt: "엔비디아 경쟁 AI칩도 엔비디아 서버에 들어간다, 이상한 동맹"
 imageWidth: 1200
 imageHeight: 675
@@ -32,7 +32,7 @@ AI 추론칩 스타트업 디매트릭스가 자사 랩터 프로세서를 엔�
 저는 이게 엔비디아가 칩 회사에서 데이터센터 플랫폼 회사로 변하는 모습을 잘 보여주는 사례라고 봅니다.
 
 
-<img class="post-landscape-image post-landscape-image--high" src="/assets/posts/news-images/dmatrix-nvlink-2026-01.png" alt="엔비디아 경쟁 AI칩도 엔비디아 서버에 들어간다, 이상한 동맹" width="1280" height="680" loading="lazy" decoding="async" />
+<img class="post-landscape-image post-landscape-image--high" src="/assets/posts/news-images/dmatrix-nvlink-2026-01.jpg" alt="엔비디아 경쟁 AI칩도 엔비디아 서버에 들어간다, 이상한 동맹" width="1280" height="680" loading="lazy" decoding="async" />
 
 ## 1. 훈련과 추론은 다른 시장
 

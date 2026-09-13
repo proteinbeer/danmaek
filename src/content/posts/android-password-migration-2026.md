@@ -11,7 +11,7 @@ tags:
   - "패스키"
   - "이전"
   - "구글"
-image: "/assets/posts/news-images/android-password-migration-2026-01.png"
+image: "/assets/posts/news-images/android-password-migration-2026-01.jpg"
 imageAlt: "안드로이드 비밀번호 관리자 갈아타기 쉬워졌다, 패스키까지 직접 옮기는 방법"
 imageWidth: 1200
 imageHeight: 675
@@ -31,7 +31,7 @@ hideDescription: true
 
 보안 도구를 바꾸기 어려워 한 서비스에 계속 묶이던 문제를 줄이는 변화입니다.
 
-<img class="post-landscape-image post-landscape-image--high" src="/assets/posts/news-images/android-password-migration-2026-01.png" alt="안드로이드 비밀번호 관리자 갈아타기 쉬워졌다, 패스키까지 직접 옮기는 방법" width="1200" height="675" loading="lazy" decoding="async" />
+<img class="post-landscape-image post-landscape-image--high" src="/assets/posts/news-images/android-password-migration-2026-01.jpg" alt="안드로이드 비밀번호 관리자 갈아타기 쉬워졌다, 패스키까지 직접 옮기는 방법" width="1200" height="675" loading="lazy" decoding="async" />
 
 ## 1. 파일 없이 직접 이전
 

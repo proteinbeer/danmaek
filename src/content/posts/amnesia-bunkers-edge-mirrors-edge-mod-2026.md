@@ -1,0 +1,107 @@
+---
+title: "암네시아 더 벙커가 미러스 엣지가 됐다, 15분짜리 모드가 신기한 이유"
+description: "지하 벙커에서 괴물에게 쫓기던 암네시아 더 벙커가 밝은 옥상 위를 달리는 파쿠르 게임으로 바뀌었습니다. 이용자 제작 모드 벙커스 엣지는 미러스 엣지의 달리기와 벽타기, 슬라이딩까지 암네시아 엔진 안에 구현했습니다."
+date: 2026-09-13T12:00:00
+updated: 2026-09-13T12:00:00
+category: "뉴스"
+subcategory: "게임"
+tags:
+  - "암네시아"
+  - "더 벙커"
+  - "미러스 엣지"
+  - "모드"
+  - "공포"
+image: "/assets/posts/news-images/amnesia-bunkers-edge-mirrors-edge-mod-2026-01.jpg"
+imageAlt: "암네시아 더 벙커가 미러스 엣지가 됐다, 15분짜리 모드가 신기한 이유"
+imageWidth: 1200
+imageHeight: 675
+hideHeroImage: true
+hideDescription: true
+---
+
+<p class="affiliate-disclosure">
+  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
+</p>
+
+지하 벙커에서 괴물에게 쫓기던 암네시아 더 벙커가 밝은 옥상 위를 달리는 파쿠르 게임으로 바뀌었습니다. 이용자 제작 모드 벙커스 엣지는 미러스 엣지의 달리기와 벽타기, 슬라이딩까지 암네시아 엔진 안에 구현했습니다.
+
+두 게임은 분위기가 거의 정반대라 화면만 보면 다른 엔진처럼 느껴집니다. 그래도 괴물은 포털을 따라와 옥상 위까지 주인공을 쫓아오기 때문에 공포 게임의 정체성은 이상하게 남아 있습니다.
+
+<img class="post-landscape-image post-landscape-image--high" src="/assets/posts/news-images/amnesia-bunkers-edge-mirrors-edge-mod-2026-01.jpg" alt="암네시아 더 벙커가 미러스 엣지가 됐다, 15분짜리 모드가 신기한 이유" width="1200" height="675" loading="lazy" decoding="async" />
+
+## 1. 프릭셔널 모딩 잼에서 나온 작품
+
+벙커스 엣지는 프릭셔널 게임즈가 2026년에 진행한 모딩 잼을 위해 제작됐습니다. 주제가 현실이란 무엇인가였고 제작자 티맨은 전쟁터의 벙커와 미러스 엣지식 미래 도시를 포털로 연결했습니다.
+
+공식 확장팩이 아니라 팬 제작물이라 완성도보다 아이디어와 기술 실험의 재미가 중심입니다. 원작을 가진 PC 이용자가 짧게 즐기는 변형 콘텐츠에 가깝습니다.
+
+## 2. 벽타기와 슬라이딩까지 구현
+
+단순히 밝은 맵을 넣은 것이 아니라 난간 넘기와 벽 달리기, 파이프 오르기, 슬라이딩, 180도 벽 점프 같은 파쿠르 동작을 구현했습니다. 미러스 엣지의 길 안내 방식인 러너 비전도 재현됐습니다.
+
+암네시아의 HPL 엔진은 어둠과 좁은 실내 공포를 위해 만들어진 이미지가 강합니다. 같은 엔진으로 밝고 넓은 옥상을 빠르게 이동하는 장면이 나온다는 것 자체가 모딩의 재미입니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
+## 3. 괴물도 옥상까지 따라온다
+
+배경이 밝아졌다고 게임이 안전해지는 것은 아닙니다. 더 벙커의 괴물은 주인공 앙리를 따라 포털을 통과하고 옥상에서도 계속 추격합니다.
+
+좁은 통로에서 소리를 들으며 숨어야 했던 원작과 달리 이번에는 도망칠 공간이 훨씬 넓습니다. 공포의 방식이 숨기에서 추격전으로 바뀌는 셈입니다.
+
+## 4. 완성도보다는 아이디어가 핵심
+
+실제 미러스 엣지처럼 매끄럽지는 않습니다. 슬라이딩이 어색하거나 벽을 뚫고 지형 안에 갇히는 문제도 있으며 제작 목적 자체가 상용 게임 수준의 완성품은 아닙니다.
+
+대신 원래 엔진으로 어디까지 다른 게임을 만들 수 있는지 보여주는 데 의미가 있습니다. 모드가 새로운 맵 추가를 넘어 장르까지 바꿀 수 있다는 사례입니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
+## 5. 전체 플레이는 약 15분
+
+모드 분량은 약 15분 정도로 짧습니다. 큰 캠페인을 기대하기보다 일요일 오후에 한 번 보고 웃을 수 있는 실험작에 가깝습니다.
+
+짧기 때문에 오히려 아이디어가 늘어지지 않습니다. 암네시아와 미러스 엣지를 둘 다 아신다면 서로 어울릴 것 같지 않은 두 게임의 규칙이 충돌하는 재미만으로도 볼 가치가 있습니다.
+
+지금 단계에서는 한 번의 발표나 사례만으로 전체 흐름을 단정하기는 어렵습니다. 후속 업데이트와 공식 설명, 실제 이용자 반응이 같은 방향으로 이어지는지 확인하시면 처음 뉴스에서 보이지 않던 의미까지 더 정확하게 판단할 수 있습니다.
+
+## 6. 이런 모드가 공식 게임에도 주는 힌트
+
+팬 모드는 개발사가 생각하지 않았던 방식으로 엔진의 가능성을 시험합니다. 벙커스 엣지처럼 완전히 다른 이동 시스템이 돌아가는 사례는 앞으로 프릭셔널이 자체 게임에서 더 넓은 공간과 빠른 움직임을 시도할 수 있다는 기술적 힌트가 되기도 합니다.
+
+물론 공식 게임이 미러스 엣지처럼 변할 가능성이 있다는 뜻은 아닙니다. 다만 모딩 도구를 공개하고 잼을 운영하면 이용자가 게임 수명을 늘리는 동시에 개발사에게 예상하지 못한 실험 결과를 돌려준다는 점에서 이런 작은 프로젝트도 의미가 있습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
+## 7. 공포게임은 밝아져도 무서울 수 있다
+
+벙커스 엣지가 재미있는 이유는 어두운 벙커를 밝은 도시로 바꿨는데도 추격 자체의 긴장은 남아 있다는 점입니다. 공포가 색상과 조명에서만 나오는 것이 아니라 언제 따라잡힐지 모르는 규칙에서도 만들어진다는 뜻입니다. 그래서 이 모드는 장르 패러디이면서 동시에 원작의 공포 설계가 어떤 요소에 의존했는지 거꾸로 보여주는 실험처럼 보이기도 합니다.
+
+설치 전에는 원작 암네시아 더 벙커가 필요하고 팬 제작 모드 특성상 저장 파일이나 설정을 따로 백업해두는 편이 안전합니다. 짧은 실험작이라 부담은 적지만 공식 지원 콘텐츠는 아닙니다.

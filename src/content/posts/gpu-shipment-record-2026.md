@@ -11,7 +11,7 @@ tags:
   - "엔비디아"
   - "GPU 시장"
   - "데스크톱"
-image: "/assets/posts/news-images/gpu-shipment-record-2026-01.png"
+image: "/assets/posts/news-images/gpu-shipment-record-2026-01.jpg"
 imageAlt: "그래픽카드 가격은 오르는데 1250만 장 팔렸다, 엔비디아 90%가 된 시장"
 imageWidth: 1200
 imageHeight: 675
@@ -31,7 +31,7 @@ hideDescription: true
 
 GPU 시장이 일반적인 소비재와 다르게 움직이는 이유가 드러나는 장면입니다.
 
-<img class="post-landscape-image post-landscape-image--high" src="/assets/posts/news-images/gpu-shipment-record-2026-01.png" alt="그래픽카드 가격은 오르는데 1250만 장 팔렸다, 엔비디아 90%가 된 시장" width="1200" height="675" loading="lazy" decoding="async" />
+<img class="post-landscape-image post-landscape-image--high" src="/assets/posts/news-images/gpu-shipment-record-2026-01.jpg" alt="그래픽카드 가격은 오르는데 1250만 장 팔렸다, 엔비디아 90%가 된 시장" width="1200" height="675" loading="lazy" decoding="async" />
 
 ## 1. 4년 만의 높은 출하량
 

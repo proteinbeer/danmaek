@@ -11,7 +11,7 @@ tags:
   - "월드 오브 워크래프트"
   - "디아블로"
   - "행사"
-image: "/assets/posts/news-images/blizzcon-2026-opening-01.png"
+image: "/assets/posts/news-images/blizzcon-2026-opening-01.jpg"
 imageAlt: "블리즈컨 2026 오늘 개막, 월드 오브 워크래프트와 디아블로 발표가 시작된다"
 imageWidth: 1200
 imageHeight: 675
@@ -31,7 +31,7 @@ hideDescription: true
 
 단순 축제보다 블리자드의 다음 1년을 한꺼번에 확인하는 자리라고 보시면 됩니다.
 
-<img class="post-landscape-image post-landscape-image--high" src="/assets/posts/news-images/blizzcon-2026-opening-01.png" alt="블리즈컨 2026 오늘 개막, 월드 오브 워크래프트와 디아블로 발표가 시작된다" width="1200" height="675" loading="lazy" decoding="async" />
+<img class="post-landscape-image post-landscape-image--high" src="/assets/posts/news-images/blizzcon-2026-opening-01.jpg" alt="블리즈컨 2026 오늘 개막, 월드 오브 워크래프트와 디아블로 발표가 시작된다" width="1200" height="675" loading="lazy" decoding="async" />
 
 ## 1. 9월 12일과 13일 애너하임
 

@@ -1,0 +1,105 @@
+---
+title: "스타필드 개발자가 인정한 한계, 500명으로도 사람이 부족했던 이유"
+description: "스타필드 개발에 참여했던 전 베데스다 리드 시스템 디자이너 커트 쿨만이 원래 구상이 너무 야심찼고 제대로 만들려면 훨씬 더 많은 사람이 필요했다고 말했습니다. 이미 약 500명이 참여한 프로젝트였다는 점을 생각하면 꽤 강한 평가입니다."
+date: 2026-09-13T12:00:00
+updated: 2026-09-13T12:00:00
+category: "뉴스"
+subcategory: "게임"
+tags:
+  - "스타필드"
+  - "베데스다"
+  - "오픈월드"
+  - "개발 인력"
+  - "인정"
+image: "/assets/posts/news-images/starfield-developer-scope-admission-2026-01.jpg"
+imageAlt: "스타필드 개발자가 인정한 한계, 500명으로도 사람이 부족했던 이유"
+imageWidth: 1200
+imageHeight: 675
+hideHeroImage: true
+hideDescription: true
+---
+
+<p class="affiliate-disclosure">
+  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
+</p>
+
+스타필드 개발에 참여했던 전 베데스다 리드 시스템 디자이너 커트 쿨만이 원래 구상이 너무 야심찼고 제대로 만들려면 훨씬 더 많은 사람이 필요했다고 말했습니다. 이미 약 500명이 참여한 프로젝트였다는 점을 생각하면 꽤 강한 평가입니다.
+
+쿨만은 스타필드가 베데스다의 강점을 그대로 확장한 게임이 아니었다고 봤습니다. 차량 경험도 없던 팀이 우주전과 수많은 행성, 새로운 시스템을 동시에 만들어야 했다는 것이죠.
+
+<img class="post-landscape-image post-landscape-image--high" src="/assets/posts/news-images/starfield-developer-scope-admission-2026-01.jpg" alt="스타필드 개발자가 인정한 한계, 500명으로도 사람이 부족했던 이유" width="1200" height="675" loading="lazy" decoding="async" />
+
+## 1. 폴아웃 4보다 세 배 이상 커진 팀
+
+쿨만의 설명에 따르면 폴아웃 4는 약 150명 규모로 개발됐지만 스타필드는 여러 스튜디오가 참여한 약 500명 규모 프로젝트로 커졌습니다. 사람 수만 보면 충분해 보이지만 조직이 커질수록 작업 전달과 승인 과정도 함께 복잡해졌습니다.
+
+조명 하나를 고쳐도 여러 담당자가 순서대로 작업하고 다시 빌드를 만들어야 하는 식으로 작은 수정의 비용이 커졌다고 합니다. 규모가 커지면 같은 사람이 바로 옆자리에서 해결하던 문제도 절차가 필요한 일이 됩니다.
+
+## 2. 그래도 사람이 더 필요했다
+
+흥미로운 점은 팀이 너무 커서 느려졌다는 설명과 동시에 더 많은 사람이 필요했다는 평가가 함께 나온다는 것입니다. 스타필드가 목표로 한 행성과 도시, 퀘스트의 규모가 현재 인원으로 채우기에는 너무 컸다는 뜻입니다.
+
+오픈월드는 지도만 크게 만든다고 완성되지 않습니다. 이용자가 방문할 이유와 사건, 인물, 보상까지 계속 채워야 공간이 살아 있는 세계처럼 느껴집니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
+## 3. 새 시스템이 완성될 때까지 기다려야 했던 개발자들
+
+스타필드는 기존 베데스다 게임에 없던 우주선과 행성, 새로운 탐험 규칙을 만들어야 했습니다. 핵심 시스템이 늦게 완성되면 그 위에서 퀘스트를 만드는 디자이너도 기다릴 수밖에 없고 실제 콘텐츠 제작 기간은 더 짧아집니다.
+
+이미 만들어진 스카이림식 구조를 그대로 확장하는 것과 완전히 새로운 기반 기술을 동시에 만드는 것은 난도가 다릅니다. 대형 팀이라고 일정 문제가 자동으로 해결되지 않는 이유입니다.
+
+## 4. 베데스다의 강점과 맞지 않았던 우주 게임
+
+쿨만은 거대한 우주 오픈월드가 당시 팀의 강점에 정확히 맞는 프로젝트는 아니었다고 돌아봤습니다. 베데스다는 걸어서 발견하는 밀도 높은 세계에 강했지만 스타필드는 행성 사이 이동과 우주선 전투까지 직접 해결해야 했습니다.
+
+이 차이는 실제 플레이에서도 드러났습니다. 도시와 던전은 익숙한 베데스다 느낌이 강했지만 행성 사이를 메뉴와 로딩으로 잇는 구조는 한 세계를 걸어다니던 경험과 달랐죠.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
+## 5. 큰 게임은 사람 수보다 구조가 중요하다
+
+스타필드 사례는 대형 게임이 단순히 개발자를 더 투입한다고 해결되지 않는다는 점을 보여줍니다. 팀이 커질수록 시스템을 일찍 확정하고 각 스튜디오가 독립적으로 작업할 수 있는 구조가 더 중요해집니다.
+
+스타필드가 실패한 게임이라는 뜻은 아닙니다. 오히려 상당 부분을 실제로 구현했지만 처음 그렸던 거대한 비전을 완성하려면 베데스다의 개발 방식 자체가 달라져야 했다는 내부자의 평가에 가깝습니다.
+
+지금 단계에서는 한 번의 발표나 사례만으로 전체 흐름을 단정하기는 어렵습니다. 후속 업데이트와 공식 설명, 실제 이용자 반응이 같은 방향으로 이어지는지 확인하시면 처음 뉴스에서 보이지 않던 의미까지 더 정확하게 판단할 수 있습니다.
+
+## 6. 다음 베데스다 게임이 배워야 할 점
+
+스타필드 이후 베데스다가 같은 규모의 세계를 다시 만든다면 행성 수를 늘리는 것보다 각 장소의 밀도를 먼저 결정할 가능성이 큽니다. 이용자가 기억하는 것은 방문 가능한 숫자보다 그곳에서 실제로 만난 사람과 사건이기 때문입니다.
+
+저는 스타필드가 보여준 가장 큰 교훈도 여기에 있다고 봅니다. 대형 게임의 야심은 기능 목록으로 증명되는 것이 아니라 서로 다른 시스템이 하나의 플레이 흐름으로 얼마나 자연스럽게 이어지느냐에서 증명됩니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
+## 7. 스타필드 2가 나온다면 더 적게 만들어도 된다
+
+후속작이 나온다면 행성 숫자를 더 늘리는 것보다 방문할 가치가 있는 장소를 줄이고 밀도를 높이는 선택이 오히려 유리할 수 있습니다. 베데스다의 강점은 거대한 숫자보다 우연히 발견한 동굴과 작은 마을에서 예상하지 못한 이야기를 만나는 경험이었습니다. 스타필드의 규모가 그 장점을 희석했다면 다음 작품은 더 작아져도 더 풍부하게 느껴질 수 있습니다.
