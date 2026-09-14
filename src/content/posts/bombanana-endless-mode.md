@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 봄바나나 엔들리스는 정해진 30개 캠페인과 달리 절차적으로 만들어지는 웨이브를 계속 버티는 모드입니다. 진행할수록 난도가 올라가기 때문에 단순 암기보다 세 명의 팀워크가 그대로 점수와 생존 시간으로 드러납니다.
 
 캠페인을 어느 정도 익힌 뒤 들어가시면 좋습니다. 처음부터 엔들리스에 가면 역할 자체를 배우느라 모드의 재미를 제대로 느끼기 어렵습니다.
@@ -46,17 +42,6 @@ hideDescription: true
 
 반복되는 퍼즐이 많아질수록 설명을 길게 할 이유가 줄어듭니다. 자주 나오는 모듈은 몇 단어만으로 통하는 약어를 정해 두면 시간이 갈수록 팀 속도가 자연스럽게 빨라집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 역할을 중간에 흔들지 않는다
 
 엔들리스에서는 한 역할에 익숙해진 감각이 그대로 생존력입니다. 기록을 노리는 판이라면 시작 전에 역할을 정하고 끝까지 유지하시는 편이 안정적입니다.
@@ -73,17 +58,6 @@ hideDescription: true
 
 한 번 실수한 직후에는 속도를 더 내기보다 현재 상태를 다시 확인하셔야 합니다. 실패를 만회하려고 서두르면 같은 실수가 연속으로 나와 긴 기록이 한순간에 끝날 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 환경 방해를 먼저 정리한다
 
 정전이나 시야 방해, 큰 소음 같은 환경 요소가 발생하면 퍼즐보다 통신 복구가 먼저입니다. 정보를 제대로 주고받을 수 없는 상태에서 퍼즐을 계속 밀면 실수가 커집니다.
@@ -99,17 +73,6 @@ hideDescription: true
 매판 끝난 뒤 누가 못했다보다 어느 단계에서 시간이 가장 많이 걸렸는지를 보는 편이 좋습니다.
 
 엔들리스 기록은 한 명의 최고 실력보다 세 사람의 평균 안정성에 가깝습니다. 가장 느린 역할이 편하게 정보를 처리할 수 있는 속도에 맞추면 전체 생존 시간이 오히려 길어집니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 캠페인과 다른 재미가 있다
 

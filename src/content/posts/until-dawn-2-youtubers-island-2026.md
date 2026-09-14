@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 언틸 던 2는 전작과 같은 산장에서 사람만 바꿔 다시 시작하지 않습니다. 2027년 1월 28일 출시되는 후속작은 가짜 유령 사냥 방송을 만드는 유튜버 팀을 주인공으로 세우고, 무대를 남태평양의 버려진 섬까지 넓혔죠.
 
 공포 게임 속 등장인물이 위험한 장소에 굳이 들어가는 이유가 억지스럽게 느껴질 때가 있습니다. 이번에는 조회수를 위해 공포를 찾아다니는 사람들을 주인공으로 만들면서 그 문제 자체를 이야기 안으로 끌어들인 모습입니다.
@@ -46,17 +42,6 @@ hideDescription: true
 
 문제는 이들이 실제 위험과 연출된 공포의 경계를 제대로 구분하지 못하기 시작한다는 점입니다. 방송을 위해 한 선택이 생존을 망가뜨리는 구조가 만들어집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 산장에서 남태평양 섬으로
 
 이야기는 호주 시드니의 공포 행사에서 새로운 생존자를 만나며 방향이 바뀝니다. 이후 팀은 1970년대 고급 리조트가 갑자기 폐쇄된 남태평양의 외딴 섬으로 향합니다.
@@ -72,17 +57,6 @@ hideDescription: true
 공개된 예시 중에는 방송사가 의식을 위해 희생을 요구하는 장면도 있습니다. 닭을 희생할지 풀어주고 대신 자신의 피를 사용할지를 선택하게 되죠.
 
 작아 보이는 선택이 이후 다른 단서와 죽음으로 이어질 수 있습니다. 단순히 마지막 장면에서 생존자를 고르는 게임이 아니라 행동 하나가 멀리 있는 사건까지 밀어내는 구조를 다시 강조합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 디스패치 제작진이 붙은 이유
 

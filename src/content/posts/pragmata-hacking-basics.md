@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 프라그마타 전투의 중심은 다이애나의 해킹입니다. 휴의 사격 실력이 아무리 좋아도 장갑이 닫힌 적에게 계속 공격하면 효율이 떨어지고, 강한 적일수록 이 차이가 크게 느껴집니다.
 
 해킹은 별도 미니게임이 아니라 사격과 동시에 굴리는 전투 시스템입니다. 화면 한쪽에서 경로를 찾는 동안 휴는 계속 움직이고 회피해야 하므로, 퍼즐을 빨리 푸는 것보다 안전하게 끝내는 습관이 중요합니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 따라서 해킹을 끝내고 무기를 고르기 시작하면 시간을 잃습니다. 해킹 중에 어떤 무기로 공격할지 미리 정해 두시면 오픈 시간을 훨씬 효율적으로 쓸 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 해킹 중 이동은 필수
 
 다이애나의 해킹 화면을 보고 있어도 휴는 적 공격 대상입니다. 가만히 서서 퍼즐만 보면 강한 적이나 다수전에서 쉽게 맞습니다.
@@ -65,17 +50,6 @@ hideDescription: true
 
 후반에는 전술 유닛과 해킹 노드를 통해 이런 불편을 줄이는 방법도 생깁니다. 그래서 해킹이 어려워질수록 손가락 속도보다 장비와 노드 구성이 중요해집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 노드는 전투 스타일을 바꾼다
 
 다이애나가 사용하는 해킹 노드는 단순 퍼즐 보너스가 아닙니다. 매트릭스를 줄이거나 특정 방해를 완화하고, 오픈 시간과 전투 효율을 높이는 식으로 실제 전투를 바꿉니다.
@@ -87,17 +61,6 @@ hideDescription: true
 보스는 공격 압박이 크고 매트릭스도 복잡해질 수 있습니다. 이때는 해킹 화면만 보고 끝까지 밀어붙이기보다 패턴이 끝나는 순간을 골라 짧고 안전하게 연결해야 합니다.
 
 스테이시스 넷이나 디코이 제너레이터처럼 시간을 벌어주는 장비를 함께 쓰면 해킹 난도가 크게 내려갑니다. 좋은 해킹은 손이 빠른 해킹보다 안전한 상황을 먼저 만든 해킹입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 다이애나 업그레이드가 체감이 크다
 

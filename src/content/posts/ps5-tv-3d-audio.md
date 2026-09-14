@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 PS5는 헤드폰뿐 아니라 TV 스피커에서도 3D 오디오 기능을 사용할 수 있습니다. 거실에서 헤드셋 없이 플레이하시는 분에게 유용하지만 TV 위치와 방 구조에 따라 효과 차이가 큽니다.
 
 설정을 켜기 전에 측정 과정과 TV 자체 음향 기능이 겹치지 않는지 확인하는 편이 좋습니다.
@@ -41,17 +37,6 @@ TV 스피커는 헤드폰처럼 귀 바로 옆에 있지 않기 때문에 방의
 
 주변 소음을 줄이고 TV 음량도 평소 수준에 맞춰두면 측정이 더 안정적입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 사운드바와 중복 처리 주의
 
 사운드바나 TV에 자체 공간 음향 모드가 켜져 있으면 PS5 처리와 겹칠 수 있습니다. 소리가 지나치게 울리거나 대사가 멀어지면 한쪽 공간 음향 기능을 끄고 비교합니다.
@@ -64,17 +49,6 @@ TV 스피커는 헤드폰처럼 귀 바로 옆에 있지 않기 때문에 방의
 
 혼자 플레이할 때와 가족이 같이 볼 때 설정을 다르게 두는 것도 방법입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 게임별 차이가 큼
 
 3D 오디오를 잘 활용한 게임에서는 빗소리, 총알 방향, 위층 발소리처럼 공간 정보가 눈에 띄게 살아납니다. 반대로 평면적인 믹싱의 게임에서는 차이가 작을 수 있습니다.
@@ -86,17 +60,6 @@ TV 스피커는 헤드폰처럼 귀 바로 옆에 있지 않기 때문에 방의
 기능을 켠 뒤 저음이 빠지거나 대사가 답답해졌다면 억지로 유지할 필요가 없습니다. TV 자체 게임 모드와 음향 설정까지 기본으로 돌린 뒤 하나씩 다시 켜보면 어떤 처리에서 문제가 생기는지 찾기 쉽습니다.
 
 공간감보다 선명도가 더 중요한 환경도 충분히 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 설정 변경 뒤 확인할 부분
 
@@ -112,13 +75,3 @@ PS5 문제 해결은 무작정 초기화하는 것보다 재현 조건을 찾는
 
 PS5는 같은 증상이라도 계정, 게임 버전, 연결 장비에 따라 원인이 달라질 수 있습니다. 그래서 가장 최근에 바꾼 설정과 문제가 시작된 시점을 기준으로 하나씩 되돌려 확인하시면 불필요한 재설치와 초기화를 줄일 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

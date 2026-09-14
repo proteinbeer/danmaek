@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 PS5에서 DLC를 구매하고 설치까지 끝냈는데 게임 안에서 찾을 수 없는 경우가 있습니다. 다운로드 실패만 생각하기 쉽지만 본편과 DLC의 지역, 구매 계정, 게임 진행 조건이 서로 맞지 않아 생기는 경우도 많습니다.
 
 특히 해외 계정이나 수입 디스크를 함께 쓰시면 지역 조합을 먼저 확인해야 합니다.
@@ -41,17 +37,6 @@ PS5에서 DLC를 구매하고 설치까지 끝냈는데 게임 안에서 찾을 
 
 해외 디스크를 쓰면서 한국 스토어에서 DLC를 샀다면 가장 먼저 확인할 부분입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 구매 계정 확인
 
 DLC를 산 계정과 현재 플레이하는 계정이 다르면 콘텐츠 공유 조건에 따라 보이지 않을 수 있습니다. 거래 내역에서 실제 구매 계정을 확인하고 콘솔 공유 설정도 함께 봅니다.
@@ -64,17 +49,6 @@ DLC가 설치돼 있어도 스토리 일정 지점까지 진행해야 등장하�
 
 게임 설명의 이용 조건을 확인하시면 불필요한 재설치를 줄일 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 라이선스 복원
 
 구매 기록과 설치 상태가 모두 맞는데 콘텐츠가 잠겨 있다면 라이선스 복원을 시도합니다. 계정 권한이 다시 확인되면서 DLC가 정상 인식되는 경우가 있습니다.
@@ -86,17 +60,6 @@ DLC가 설치돼 있어도 스토리 일정 지점까지 진행해야 등장하�
 DLC에 설치 대기 상태가 계속 뜬다면 저장 공간과 네트워크 상태, 본편 설치 위치를 확인합니다. 본편과 추가 콘텐츠가 서로 다른 조건에 놓이면 설치가 정상 완료되지 않을 수 있습니다.
 
 모든 조건이 맞는데도 반복되면 다운로드를 다시 시작하거나 공식 지원을 확인합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 설정 변경 뒤 확인할 부분
 
@@ -112,13 +75,3 @@ PS5 문제 해결은 무작정 초기화하는 것보다 재현 조건을 찾는
 
 PS5는 같은 증상이라도 계정, 게임 버전, 연결 장비에 따라 원인이 달라질 수 있습니다. 그래서 가장 최근에 바꾼 설정과 문제가 시작된 시점을 기준으로 하나씩 되돌려 확인하시면 불필요한 재설치와 초기화를 줄일 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

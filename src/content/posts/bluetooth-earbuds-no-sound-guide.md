@@ -18,11 +18,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
-
 윈도우에는 블루투스 이어폰이 연결돼 있어도 실제 소리가 모니터나 스피커로 나가는 경우가 있습니다. 그럴 때는 출력 장치부터 확인해보시는 편이 빠르죠.
 
 블루투스 이어폰을 컴퓨터에 연결했는데 사운드가 나오지 않는 일은 흔합니다. 화면에는 이어폰이 연결됐다고 뜨지만, 실제 소리는 모니터나 다른 스피커로 나가는 경우가 많습니다. 완전히 고장난 것은 아니고 윈도우의 출력 장치 설정이나 블루투스 연결 상태가 어긋난 경우가 대부분이므로, 아래 순서대로 확인하면 쉽게 해결할 수 있습니다.
@@ -45,17 +40,6 @@ hideDescription: true
 
 그래도 문제가 있다면 이어폰을 블루투스 장치 목록에서 완전히 **삭제(제거)**하고 처음부터 다시 페어링하는 것이 확실합니다. 삭제 후 이어폰을 페어링 모드로 두고 다시 등록하시면 됩니다. 특히 페어링 정보가 꼬인 경우에는 이 과정이 꼭 필요할 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 다른 기기 연결 확인
 
 이어폰이 휴대폰에 동시에 연결돼 있으면 소리가 다른 기기로 넘어가는 경우도 있습니다. 잠시 다른 기기의 블루투스를 끄고 비교해보시면 됩니다.
@@ -67,17 +51,6 @@ hideDescription: true
 ## 4. 볼륨과 음소거 확인
 
 단순하지만 자주 놓치는 부분이 볼륨과 음소거 상태입니다. 작업 표시줄의 볼륨이 음소거이거나 최저로 되어 있는지, 그리고 윈도우 사운드 설정에서 이어폰 장치의 볼륨이 별도로 낮게 설정되어 있지 않은지 확인하시면 됩니다. 일부 이어폰은 마이크 사용 모드(헤드셋 모드)에서 음질이나 볼륨이 낮아지기도 합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 드라이버와 윈도우 확인
 

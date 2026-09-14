@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 윈도우 11은 업데이트를 자동으로 다운로드하고 설치하느라 정작 사용할 때 재부팅을 요구하기도 하죠. 중요한 일을 하는 동안 갑자기 업데이트가 진행되지 않도록 일시중지하는 방법을 정리했습니다. 완전 차단보다 일시중지가 훨씬 안전합니다.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/hero-bloom.jpg" alt="윈도우 11 자동 업데이트 설정 화면" width="1280" height="720" loading="lazy" decoding="async" />
@@ -39,17 +35,6 @@ hideDescription: true
 
 만약 이미 일시중지를 사용 중이라면 **업데이트 다시 시작**을 눌러 언제든 새로운 업데이트를 받을 수 있습니다. 일시중지 기간이 끝나면 자동으로 업데이트 확인이 재개됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 활동 시간으로 재부팅 방지
 
 업데이트가 설치된 뒤 자동 재부팅이 불편하다면 **활동 시간(사용 중인 시간)**을 설정하면 됩니다. **설정 → Windows 업데이트 → 고급 옵션 → 활동 시간**에서 사용 중인 시간을 정해두면, 그 시간대에는 윈도우가 재부팅하지 않습니다.
@@ -61,17 +46,6 @@ hideDescription: true
 일시중지보다 더 강하게 막고 싶다면 그룹 정책이나 레지스트리를 이용할 수 있습니다. 다만 이 방식은 업데이트 자체를 막아 보안 패치를 놓칠 위험이 있어 신중해야 합니다. Pro 이상에서 사용할 수 있는 그룹 정책 편집기(gpedit.msc)를 열고, **컴퓨터 구성 → 관리 템플릿 → Windows 구성 요소 → Windows 업데이트**에서 자동 업데이트 구성을 조정하면 됩니다.
 
 홈 에디션에서는 그룹 정책이 제공되지 않아 레지스트리 편집(regedit)으로 업데이트 서비스 문제를 조정하기도 하지만, 이는 권장되지 않습니다. 전문적인 지식 없이 시스템 파일을 건드리면 윈도우가 손상될 수 있으므로, 일반 사용자는 설정의 일시중지와 활동 시간을 활용하는 편이 안전합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 일시중지 후 체크리스트
 

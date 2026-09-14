@@ -18,11 +18,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
-
 게임을 하다가 핑이 갑자기 높아지면 공유기를 껐다 켜는 경우가 많죠. 그런데 그 전에 내 컴퓨터에서 네트워크를 쓰는 프로그램부터 확인하면 원인을 훨씬 빨리 찾을 수 있습니다.
 
 온라인 게임을 하다가 핑(지연 시간)이 갑자기 높아지면 많은 분이 공유기를 껐다 켭니다. 하지만 공유기 전에는 내 컴퓨터에서 네트워크를 쓰는 프로그램을 확인하는 것이 훨씬 효율적입니다. 온라인 게임의 핑 저하는 대부분 다운로드·업데이트, 다른 기기의 사용량, 무선 연결 문제로부터 발생하므로, 아래 순서대로 확인하면 원인을 빠르게 좁힐 수 있습니다.
@@ -45,17 +40,6 @@ hideDescription: true
 
 이웃이나 가족이 동시에 인터넷을 많이 쓰는 시간대에는 핑이 본질적으로 높아질 수 있으므로, 공유기 설정에서 대역폭을 게임 기기에 우선 배정하는 **QoS(트래픽 우선순위)** 기능을 활용해볼 수도 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 와이파이보다 유선으로 비교
 
 와이파이는 거리, 벽, 주변 무선 신호의 영향을 받습니다. 잠시 유선으로 연결해서 핑이 정상으로 돌아오는지 비교하면 무선 연결 문제인지 구분하기 쉽죠.
@@ -73,17 +57,6 @@ hideDescription: true
 핑이 **모든 게임**에서 높은지, **특정 게임**에서만 높은지 확인하시면 됩니다. 한 게임에서만 핑이 높다면 집 인터넷 문제보다는 그 게임의 **서버 상태나 접속 지역**이 원인일 수 있습니다. 공식적으로 서버 점검이나 장애가 보고되었는지도 확인하시면 됩니다.
 
 게임 안에서 서버 지역을 선택할 수 있다면, 실제 살고 있는 지역과 가까운 서버가 선택되어 있는지 확인하시면 됩니다. 서버와의 거리가 멀수록 왕복 지연 시간이 늘어나므로, 가까운 서버를 선택하는 것이 중요합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 속도보다 지연 시간이 중요
 

@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 메이플 키우기에서 레벨이 막혔다고 느낀다면, 그 순간 정답은 특정 던전이 아니라 '어떤 던전을 어떤 순서로 도느냐'에 있습니다. 성장 던전은 테마별로 보상이 달라서, 목적에 맞지 않는 던전을 반복하면 그 시간만큼 손해입니다.
 
 이 글에서는 무기·강화·경험치·장비 던전이 어떤 재료를 주는지, 그리고 성장 구간에 따라 어떤 던전부터 돌아야 하는지를 정리합니다.
@@ -41,17 +37,6 @@ hideDescription: true
 
 다만 경험치 던전은 이용 횟수 제한이 있는 경우가 많아, 입장이 가능한 날에는 반드시 소진하는 것을 추천합니다. 한 번이라도 놓친 횟수는 뒤늦게 복구가 어렵기 때문입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 중반에 옮겨가는 던전
 
 레벨이 어느 정도 쌓이면서 동료 강화가 필요해지는 시점이 오면, 동료 성장 재료를 주는 던전으로 무게가 이동합니다. 동료 레벨이 높을수록 패시브 효과가 좋아져서, 막힌 스테이지를 푸는 데 큰 도움이 됩니다.
@@ -63,17 +48,6 @@ hideDescription: true
 스킬 성장과 장비 강화 재료가 부족해지기 시작하는 후반에는 강화 던전이 주력이 됩니다. 강화 수치 자체가 전투력을 직접 올리기 때문입니다.
 
 이 시기에는 하루 두 번 입장할 수 있는 던전을 놓치지 않는 것이 중요합니다. 던전 권장 난이도가 자신의 전투력보다 낮아도, 재료가 쌓이는 속도라는 측면에서는 최상위 단계를 도는 것이 성장 가속에 유효합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 장비 던전의 진짜 목적
 
@@ -87,13 +61,3 @@ hideDescription: true
 
 구간 요약으로는 초반은 경험치, 중반은 동료 재료, 후반은 강화 재료가 기본입니다. 이 흐름만 따라도 막히는 구간이 있을 때 어느 던전부터 돌아야 할지 금방 판단할 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

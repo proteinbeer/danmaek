@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 4K 웹캠을 샀는데 영상회의 화면이 스마트폰보다 흐릿하게 보이면 제품 사양에 속은 것처럼 느껴질 수 있습니다.
 
 하지만 웹캠 화질은 해상도 숫자보다 조명, 자동초점, 노출, 앱 압축의 영향을 크게 받습니다.
@@ -61,17 +57,6 @@ hideDescription: true
 
 새 제품이라면 렌즈 표면에 얇은 투명 필름이 남아 있는지 확인하시는 것이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 노출과 밝기는 다르다
 
 화면이 어둡다고 밝기만 올리면 검은 부분이 회색으로 뜨면서 화질이 더 나빠질 수 있습니다.
@@ -96,17 +81,6 @@ hideDescription: true
 
 가능하면 데스크톱 앱과 브라우저를 번갈아 테스트해보시면 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. USB 대역폭도 확인
 
 고해상도 웹캠을 USB 허브에 캡처보드와 외장 SSD까지 함께 연결하면 한 연결 경로의 대역폭이 부족해질 수 있습니다.
@@ -126,17 +100,6 @@ PC 본체의 다른 USB 포트에 직접 연결해 비교해보시면 됩니다.
 제가 영상회의 환경을 만들면 웹캠 해상도를 보기 전에 얼굴 밝기와 카메라 위치부터 잡겠습니다.
 
 4K라는 숫자는 빛이 충분하고 초점이 맞고 앱이 화질을 유지할 때 비로소 의미가 생깁니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 화질을 판단할 때 확대 화면을 조심
 

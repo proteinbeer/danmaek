@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 스타워즈 제로 컴퍼니는 멋있는 캐릭터만 모아서 되는 게임이 아니라 역할 배분이 중요한 게임입니다. 전방을 버틸 사람, 확실하게 마무리할 사람, 전세를 복구할 사람, 전투 리듬을 관리할 사람이 적당히 섞여야 체감 난도가 확 내려갑니다.
 
 처음 플레이에서 분대가 약하다고 느껴진다면 캐릭터 성능보다 조합 문제일 가능성이 큽니다. 같은 장비와 같은 레벨이라도 누구를 함께 데려가느냐에 따라 전투 편차가 큽니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 화려함은 덜할 수 있지만 안정감이 높습니다. 처음에는 이 안정감이 가장 큰 장점입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 공격형 조합은 리스크도 크다
 
 어설트, 건슬링어, 샤프슈터처럼 공격 성향 캐릭터를 몰아넣으면 잘 풀릴 때는 시원합니다. 하지만 한 번 위치가 무너지면 복구가 어렵고, 다운 이후 전선이 크게 흔들릴 수 있습니다.
@@ -65,17 +50,6 @@ hideDescription: true
 
 특히 처음 플레이에서는 메딕 가치가 과소평가되기 쉽습니다. 그런데 여러 미션을 돌다 보면 메딕이 있을 때와 없을 때 피로도 차이가 확실히 느껴집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 스카우트와 스카운드럴은 팀이 익숙해질수록 좋다
 
 스카우트는 어드밴티지 수급과 적 탐지, 스카운드럴은 취약 유도와 지원 공격이 강점입니다. 둘 다 팀 전체 가치를 높이는 역할이라 조합이 익숙해질수록 평가가 올라갑니다.
@@ -87,17 +61,6 @@ hideDescription: true
 장거리 딜러 둘, 셋을 넣으면 멀리서 세게 쏠 수는 있지만 이동 목표나 구조 목표에서 불편해집니다. 반대로 근접 압박형만 몰아넣으면 열린 지형에서 반격을 많이 받게 됩니다.
 
 그래서 분대 조합은 강한 역할을 복제하기보다 빈칸을 채우는 방식으로 가셔야 합니다. 제일 약한 상황을 줄이는 것이 결국 전체 승률을 올립니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 추천 분대의 핵심은 안정된 첫 턴
 

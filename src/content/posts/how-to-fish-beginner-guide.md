@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 낚시 방법 초보자 가이드에서 막히는 분이라면 시스템 하나만 따로 보지 말고 진행과 장비를 함께 보시는 편이 좋습니다. 낚시 방법은 낚시, 전투, 판매, 퀘스트가 연결되어 있어 한 부분만 놓쳐도 다음 단계가 늦어질 수 있습니다.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/how-to-fish-2026-01.jpg" alt="낚시 방법(HOW TO FISH) 스팀 생존 낚시 게임 대표 이미지" width="460" height="215" loading="lazy" decoding="async" />
@@ -40,17 +36,6 @@ hideDescription: true
 
 그래서 낚싯대만 업그레이드하면 되는 낚시 게임이라고 생각하시면 진행이 막힐 수 있습니다. 낚시 장비와 전투 장비를 같이 보셔야 합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 첫 돈은 장비보다 진행에 쓴다
 
 초반 현금이 생기면 이것저것 사고 싶지만 먼저 퀘스트에 필요한 미끼와 이동에 필요한 기능을 챙기는 편이 좋습니다. 특히 보트를 얻은 뒤 레이더는 다음 섬과 낚시 지점을 찾는 데 체감이 큽니다.
@@ -63,17 +48,6 @@ hideDescription: true
 
 배를 몰고 멀리 나간다고 잠긴 섬이 자동으로 열리지는 않습니다. 최근 패치에서는 잠긴 섬으로 건너가던 비정상 이동도 막혀서 정상 퀘스트 진행이 더 중요해졌습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 보스 전리품은 함부로 팔지 않는다
 
 처음 보는 특이한 생물이나 보스 잔해는 바로 판매하지 않는 습관이 좋습니다. 일부 퀘스트는 보스를 죽인 사실보다 그 전리품을 인물에게 직접 가져다주는 과정까지 완료해야 다음 단계가 열립니다.
@@ -85,17 +59,6 @@ hideDescription: true
 스팀 상점 설명에는 초기 1명에서 4명 문구가 남아 있지만 공식 1점0점4 패치에서 최대 8인 로비 지원이 추가됐습니다. 친구가 많다면 큰 로비로 보스와 장난스러운 물리 플레이를 즐길 수 있습니다.
 
 반대로 혼자 해도 메인 진행은 가능합니다. 처음 시스템을 익힐 때는 1인으로 천천히 배우고, 이후 협동으로 넘어가셔도 좋습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 초보가 제일 많이 막히는 부분
 
@@ -117,13 +80,3 @@ hideDescription: true
 
 초반과 후반의 좋은 소비도 다릅니다. 초반은 미끼와 기본 무기, 레이더가 중요하고, 후반은 엔진과 수집 효율이 중요해지므로 한 가지 구매 순서를 끝까지 고집하지 않는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

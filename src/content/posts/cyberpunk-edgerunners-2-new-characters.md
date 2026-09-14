@@ -21,10 +21,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 넷플릭스가 사이버펑크 엣지러너 2를 10월 20일에 공개합니다.
 
 이번 작품은 첫 시즌의 주인공을 다시 끌어오는 방식이 아니라 나이트 시티의 새로운 용병들과 새로운 이야기를 보여주죠.
@@ -55,17 +51,6 @@ hideDescription: true
 
 이 방식은 사실 한 캐릭터의 인기에 의존하는 시리즈보다 장기 확장에 유리합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 첫 애니가 게임을 다시 살린
 
 첫 엣지러너는 애니메이션으로 끝나지 않았습니다. CD 프로젝트가 2022년 엣지러너 공개와 사이버펑크 2077 업데이트가 게임 판매에 큰 영향을 줬다고 공식적으로 밝혔기 때문입니다.
@@ -85,17 +70,6 @@ hideDescription: true
 반대로 성공하면 사이버펑크 세계관에 또 하나의 인기 캐릭터 집단이 생기겠죠. 그래서 브랜드 입장에서는 위험을 분산하면서 자산을 늘리는 선택으로도 보입니다.
 
 특히 게임 세계관은 한 명의 영웅보다 수많은 의뢰와 인물이 공존하는 구조라 이런 선집형 이야기와 궁합이 좋습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 후속편보다 선집
 

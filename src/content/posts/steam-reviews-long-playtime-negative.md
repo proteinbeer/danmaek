@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 게임이 재미없다면 보통 몇 시간 안에 그만둡니다.
 
 그런데 스팀 리뷰를 분석한 최근 연구에서는 200시간을 넘겨 플레이한 집단에서 부정적인 평가 비율이 다시 높아지는 현상이 확인됐죠.
@@ -54,17 +50,6 @@ hideDescription: true
 
 그래서 베테랑의 악평은 게임을 전혀 재미없게 했다는 평가보다 장기 유저의 불만에 가까울 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 매몰비용만으로 설명하기 어려운 이유
 
 긴 시간 플레이한 악평을 보면 매몰비용 때문에 못 그만둔 것 아니냐고 말합니다. 그리고 이미 투자한 시간이 아까워 계속 플레이했을 가능성은 분명 있습니다.
@@ -84,17 +69,6 @@ hideDescription: true
 연구에서 장시간 플레이 유저의 부정적 리뷰가 흥미로운 이유도 여기에 있습니다. 게임을 가장 많이 아는 사람들이 가장 강한 비판자가 될 수 있다는 점이죠.
 
  개발사 입장에서는 이런 리뷰를 단순한 악성 평가로 버리기보다 어떤 변화가 장기 이용자를 떠나게 만드는지 보여주는 자료로 볼 필요가 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 200시간
 

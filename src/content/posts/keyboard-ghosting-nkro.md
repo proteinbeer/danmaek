@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 게임에서 앞으로 달리면서 대각선 이동과 점프를 동시에 눌렀는데 한 키가 먹지 않는다면 손이 느린 문제가 아닐 수 있습니다.
 
 키보드가 여러 키 입력을 동시에 처리하지 못하는 고스팅이나 동시입력 제한이 원인일 수 있죠.
@@ -61,17 +57,6 @@ W와 A를 누른 상태에서 스페이스와 쉬프트를 더했을 때 어느 
 
 게임 설정을 아무리 바꿔도 물리적인 입력 구조는 바뀌지 않죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. USB와 블루투스에서 차이가 날 수 있다
 
 일부 키보드는 유선 연결과 무선 연결에서 지원하는 동시입력 수가 다릅니다.
@@ -100,17 +85,6 @@ W와 A를 누른 상태에서 스페이스와 쉬프트를 더했을 때 어느 
 
 특히 아주 저렴한 제품은 광고 문구와 실제 키 조합 지원 범위가 다를 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 게임 키 설정으로 우회할 수도 있다
 
 새 키보드를 바로 살 수 없다면 문제가 생기는 키 조합을 피하도록 단축키를 바꾸는 방법이 있습니다.
@@ -130,17 +104,6 @@ W와 A를 누른 상태에서 스페이스와 쉬프트를 더했을 때 어느 
 제가 키보드를 고를 때는 최대 몇 키라는 숫자보다 실제로 자주 쓰는 조합이 안정적으로 들어가는지를 더 중요하게 봅니다.
 
 결국 게임 중 한 번 씹힌 키가 사양표의 화려한 숫자보다 훨씬 크게 느껴지기 때문입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 구매 전에 확인할 가장 현실적인 방법
 

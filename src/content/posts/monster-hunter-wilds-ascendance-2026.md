@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 몬스터 헌터 와일즈의 대형 확장팩 어센던스는 몬스터 몇 마리와 지역 하나를 추가하는 방식에서 더 멀리 갑니다. 본편 엔딩 이후 시간을 몇 년이나 앞으로 보내고, 어린 나타가 정식 조사대원으로 성장한 세계를 다시 보여줍니다.
 
 확장팩에서 시간 점프를 크게 쓰면 익숙한 거점과 인물을 다시 활용하면서도 변화가 생깁니다. 캡콤은 이 방식을 이용해 금지된 땅 자체가 세월을 견딘 장소라는 느낌을 만들려는 것으로 보입니다.
@@ -46,17 +42,6 @@ hideDescription: true
 
 게임 속 시간이 흘렀다는 설정은 캐릭터의 대사에도 영향을 줄 수 있습니다. 과거 사건을 막 끝낸 사람과 몇 년 동안 그 결과를 견딘 사람은 같은 문제를 다르게 바라볼 수 있기 때문입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 어린 나타가 헌터가 된 뒤
 
 본편에서 어린 인물이었던 나타도 성장합니다. 어센던스에서는 수습 단계를 지나 조사대의 정식 구성원으로 활동하며 우드우드 동료 방가드와 함께 전투에 나섭니다.
@@ -72,17 +57,6 @@ hideDescription: true
 본편의 금지된 땅이 기후 변화와 생태계 움직임을 강조했다면 확장팩은 수직적인 공간까지 넓히는 방향입니다. 단순히 더 먼 곳이 아니라 이전에는 안개 때문에 보이지 않았던 장소가 열린다는 설정입니다.
 
 새 고룡 건도라자도 이 지역에서 중요한 존재로 등장합니다. 과거 몬스터와 완전히 새로운 몬스터를 한 확장팩에 함께 넣으면서 추억과 신선함을 동시에 노립니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 확장팩인데 사실상 후속 이야기
 

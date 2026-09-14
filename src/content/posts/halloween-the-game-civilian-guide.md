@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 할로윈 더 게임에서 민간인은 단순히 마이클 마이어스에게서 도망치는 생존자 역할이 아닙니다. 주민을 찾아 위험을 알리고, 필요한 물건을 모으고, 경찰을 부르고, 탈출 수단을 준비하는 여러 일을 동시에 처리해야 합니다.
 
 그래서 처음에는 눈앞의 마이클만 피하다가 정작 판 전체가 무너지는 경우가 많습니다. 민간인은 추격 실력보다 정보와 역할 분담이 훨씬 중요합니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 그래서 가방을 채우는 데 집중하기보다 지금 발견한 아이템이 어느 목표와 연결되는지 생각하시는 편이 효율적입니다. 탈출용 부품을 들고 있다면 해당 루트를 확인하고, 전투용 물건이 많다면 위험한 지역을 통과하는 동료를 돕는 식으로 역할을 바꾸시면 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 빛은 민간인의 방패
 
 마이클의 셰이프 점프는 어둠과 시야 밖에서 강해집니다. 밝은 공간을 유지하고 서로의 시야를 겹치면 마이클이 자유롭게 위치를 바꾸는 것을 제한할 수 있습니다.
@@ -64,17 +49,6 @@ hideDescription: true
 탈출 수단을 찾았다고 바로 작동시키는 것은 위험합니다. 공식 설명에서도 탈출 시퀀스를 시작하면 큰 소음이 발생해 마이클에게 정확한 위치를 알려준다고 명시되어 있습니다.
 
 주변 동료의 위치와 주민의 이동 준비, 필요한 핵심 아이템이 갖춰졌는지 먼저 확인하시는 편이 좋습니다. 혼자 탈출구를 열었다가 마이클을 불러들이면 팀 전체가 한 지점에 묶일 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 전투는 시간을 사는 행동
 
@@ -96,13 +70,3 @@ hideDescription: true
 
 처음 몇 판은 생존보다 팀 목표를 얼마나 이어 갔는지 확인하시면 좋습니다. 주민 한 명을 더 살리고 탈출 준비를 한 단계 더 진행한 판이 결국 더 좋은 연습이 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

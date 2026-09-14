@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 무료 웹호스팅은 사이트 하나 얹어두기에는 매력적입니다. 도메인 비용만 내면 서버를 통째로 빌려주는 서비스니까요. 그런데 실제로는 "무료"라는 문구 아래 복잡한 조건이 숨어 있는 경우가 많습니다.
 
 무료 호스팅으로 블로그를 운영하시려는 분들이라면 가입하기 전에 **트래픽 한도, 강제 광고, 데이터 삭제 조건** 세 가지가 어떻게 되어 있는지 꼭 확인하시기 바랍니다. 이 글에서 그 조건들을 하나씩 풀어드리죠.
@@ -48,17 +44,6 @@ hideDescription: true
 - 사이트가 잠시 끊기는 것보다 **검색 노출과 방문자 이탈**이 더 아픕니다.
 
 트래픽 한도 수치는 잘 보이지 않는 곳에 적혀 있는 경우가 많습니다. 가입 화면이 아니라 **서비스 소개서나 이용약관**에서 꼭 확인해 보십시오.
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 강제 광고는 데이터 소유권과도 연결
 
 강제 배너 광고가 붙는 호스팅은 게시물마다 업체 광고가 삽입됩니다. 방문자 입장에서는 사이트의 신뢰도가 떨어지고, 애드센스 같은 본인 광고 수익과 겹치면 정산에 문제가 생길 수도 있습니다.
@@ -76,17 +61,6 @@ hideDescription: true
 - 블로그 글과 DB는 사라진 뒤에는 사실상 되돌릴 수 없으니, 무료 호스팅을 쓰더라도 **주기적 백업**은 필수입니다.
 
 이용약관의 "계정 정지", "데이터 폐기", "휴면 계정" 조항을 꼭 읽어보시기 바랍니다. 문구가 모호하면 문의하기 전에는 알 수 없는 조건이니 주의하십시오.
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 무료로 시작할 수 있는 안전한 대안
 
 돈을 내지 않고도 안정적으로 시작할 수 있는 방법은 충분합니다. 특히 **정적 사이트(Static Site)** 구조라면 GitHub Pages, Cloudflare Pages 같은 배포 서비스가 무료 호스팅보다 훨씬 안정적이고 광고도 붙지 않습니다.
@@ -108,13 +82,3 @@ hideDescription: true
 
 무료 호스팅은 가입이 쉽다는 장점 하나만 보고 결정하기에는 위험 요소가 많습니다. 위 체크리스트를 차례로 확인하시면 나중에 되돌리기 어려운 문제를 피할 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

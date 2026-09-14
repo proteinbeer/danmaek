@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 호스팅을 옮겨야 하는 순간이 언젠가는 옵니다. 요금이 오르거나, 속도가 답답해지거나, 지원이 좁아지는 상황이 그렇죠. 그런데 이전을 막연하게 어렵게 느껴서 계속 미루는 분들이 정말 많습니다.
 
 실상은 파일과 데이터베이스를 옮기고 도메인 주소만 바꾸면 되는데, 순서만 지키면 사이트가 죽지 않은 채 1시간 안에 끝납니다. 이 글에서 그 순서를 차례대로 정리했으니 천천히 따라오시면 됩니다.
@@ -51,17 +47,6 @@ hideDescription: true
 
 데이터베이스 비밀번호는 백업 파일에 들어가지 않지만, **설정 파일 안의 접속 정보**는 이전 후 반드시 새 호스팅 값으로 바꾸어야 합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 새 호스팅에 업로드하고 DB 연결 바꾸기
 
 이제 옮긴 데이터를 새 서버에 풀어놓고 연결 정보만 새 것으로 교체합니다.
@@ -82,17 +67,6 @@ hideDescription: true
 - 새 서버로 바뀌기 전까지 기존 호스팅은 유지해 두어야 사이트가 빈 화면이 되지 않습니다.
 
 네임서버 변경 후 주소가 남아있는지 확인하려면 커맨드에서 `nslookup` 명령으로 검사해볼 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 이전 후 확인할 것
 
@@ -115,13 +89,3 @@ hideDescription: true
 
 이전 전 백업 파일은 복귀가 완전히 끝난 뒤에도 한 번 더 보관해두세요. 호스팅을 옮기면 같은 실수를 반복하지 않도록, 다음 이전을 위해 백업 절차를 메모로 남겨두면 더 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

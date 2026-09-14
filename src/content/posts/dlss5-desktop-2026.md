@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 DLSS 5 신경 렌더링을 게임 안이 아니라 윈도우 데스크톱 전체에 적용하는 무료 도구가 나왔습니다.
 
 영상과 사진, 웹 화면까지 AI 렌더링 효과를 덮을 수 있고 RTX 30 시리즈에서도 작동하도록 만들어졌습니다.
@@ -30,7 +26,6 @@ DLSS 5 신경 렌더링을 게임 안이 아니라 윈도우 데스크톱 전체
 엔비디아가 의도한 공식 사용법은 아닙니다.
 
 그런데 오히려 그래서 DLSS가 게임 성능 기술에서 화면 자체를 바꾸는 필터로 확장될 수 있다는 가능성이 더 잘 보입니다.
-
 
 <img class="post-landscape-image post-landscape-image--high" src="/assets/posts/news-images/dlss5-desktop-2026-01.jpg" alt="DLSS 5를 윈도우 화면 전체에 적용했다, RTX 30도 돌아간다" width="1600" height="900" loading="lazy" decoding="async" />
 
@@ -54,17 +49,6 @@ DLSS 5의 신경 렌더링은 화면 스타일과 디테일까지 AI가 더 적�
 
 프레임 손실과 호환성 문제가 있을 수 있고 업데이트 한 번으로 동작 방식이 달라질 가능성도 큽니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 사진과 영상까지 바뀐다
 
 게임 화면만이 아니라 동영상과 사진에도 효과를 적용할 수 있다는 점이 흥미롭습니다.
@@ -85,17 +69,6 @@ DLSS 5 신경 렌더링은 이름만 보면 기존 DLSS처럼 성능을 올리�
 
 효과 강도와 해상도를 조절하며 사용 목적을 분명히 해야 합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. AI 화면 보정의 미래
 
 스마트폰 카메라는 이미 촬영 순간 AI가 사진을 적극적으로 보정합니다.
@@ -115,17 +88,6 @@ PC 화면도 비슷한 방향으로 가면 운영체제나 그래픽카드가 �
 그래도 의미는 분명합니다.
 
 DLSS가 더 이상 게임 프레임 숫자만 올리는 기능이 아니라 PC에서 보는 이미지 전체를 AI가 다시 그리는 방향으로 확장되고 있다는 점입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 원본과 보정본의 경계
 
@@ -151,13 +113,3 @@ AI가 화면을 실시간으로 다시 그리기 시작하면 무엇이 원본�
 
 대신 모든 화면을 AI가 바꾸는 기능을 기본으로 켤지 선택으로 둘지에 대한 논쟁은 더 커질 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

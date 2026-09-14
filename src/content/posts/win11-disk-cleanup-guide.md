@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 노트북이나 PC를 쓰다 보면 '디스크 공간 부족' 알림이 뜨는 경우가 많습니다. 업데이트 임시파일과 불필요한 파일들이 차곡차곡 쌓이기 때문이죠. 윈도우 11 내장 기능만으로도 디스크 공간을 꽤 확보할 수 있습니다. 정리 방법을 단계별로 정리했습니다.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/hero-bloom.jpg" alt="윈도우 11 디스크 공간을 정리하는 저장 설정" width="1280" height="720" loading="lazy" decoding="async" />
@@ -39,17 +35,6 @@ hideDescription: true
 
 임시 파일은 필요하지 않을 때 삭제해도 시스템 동작에는 문제가 없습니다. 다만 삭제 전에 항목 아래 표시된 설명을 확인해 어떤 파일인지 알아보는 것이 안전합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 저장소 센스 자동 정리 활용
 
 **저장소 센스**를 켜 두면 불필요한 파일을 자동으로 정리해 줍니다. **설정 → 시스템 → 저장 공간 → 저장소 센스**에서 임시 파일, 휴지통, 다운로드 폴더의 정리 주기를 설정할 수 있죠. 저장소 센스를 실행하면 삭제 대상 파일의 총 용량이 미리 표시됩니다.
@@ -61,17 +46,6 @@ hideDescription: true
 고전적인 방식으로는 **디스크 정리** 도구가 있습니다. 파일 탐색기에서 드라이브를 우클릭하고 **속성 → 디스크 정리**를 선택하면 시스템 파일과 임시 파일을 오래된 방식으로 정리할 수 있습니다. 특히 **시스템 파일 정리**를 누르면 Windows 업데이트 이전 버전 등 대용량 항목을 제거해 공간을 크게 확보할 수 있습니다.
 
 이 도구는 하드디스크(HDD)뿐 아니라 SSD에서도 유용하며, 저장소 센스를 켜기 전에 한 번 정리해 두면 효과적입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 클라우드와 앱으로 추가 확보
 

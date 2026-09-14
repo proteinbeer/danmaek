@@ -18,11 +18,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
-
 인터넷 속도는 정상인데 스팀에서만 다운로드가 느린 경우가 있습니다. 이때 회선부터 의심하기 전에 스팀 설정에서 먼저 확인하면 원인이 보이죠. 다운로드 지역, 속도 제한, 캐시가 생각보다 큰 역할을 합니다.
 
 인터넷 속도는 정상인데 스팀에서만 게임 다운로드가 느리다면, 통신사 회선이나 공유기를 먼저 의심하기 전에 **스팀 자체 설정**을 확인해보는 것이 효율적입니다. 스팀은 다운로드 지역과 속도 제한, 캐시 같은 요소가 속도에 크게 영향을 미칩니다. 게임을 오래 기다리기 전에 아래 항목을 순서대로 확인해보시기 바랍니다.
@@ -49,17 +44,6 @@ hideDescription: true
 
 **스팀 설정 → 다운로드**에서 다운로드 속도 제한이 켜져 있다면 **제한 없음**으로 변경하시면 됩니다. 만약 기본값이 제한으로 되어 있는 환경이라면 이 항목을 반드시 확인해야 합니다. 대부분의 경우 이 설정만 바꿔도 속도가 크게 개선됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 다운로드 캐시 삭제
 
 다운로드가 멈추거나 속도가 비정상적으로 떨어지는 문제가 반복되면 캐시 삭제를 시도해보시면 됩니다. 설치된 게임은 지워지지 않지만, 캐시를 지운 뒤에는 스팀에 다시 로그인해야 하죠.
@@ -77,17 +61,6 @@ hideDescription: true
 스팀은 데이터를 내려받는 동시에 **압축을 풀고 저장장치에 기록**합니다. 따라서 네트워크가 빨라도 디스크 쓰기 속도가 느리면 전체 다운로드가 느리게 진행됩니다. 특히 대용량 게임 업데이트에서는 저장장치(특히 하드디스크)가 병목이 되는 순간이 생깁니다.
 
 다운로드 그래프는 높게 나오는데 실제 진행이 멈칫멈칫한다면, **작업 관리자에서 디스크 사용량**이 100%에 가까운지 확인해보시면 됩니다. 하드디스크(HDD)를 사용한다면 SSD로 게임을 설치하면 다운로드와 설치 속도가 크게 개선될 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 게임 실행 중 다운로드
 

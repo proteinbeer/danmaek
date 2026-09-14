@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 할로윈 더 게임은 1대4 멀티플레이만 있는 게임이 아니라 마이클 마이어스 시점의 독립적인 싱글플레이 스토리 모드도 제공합니다. 1978년 원작 영화의 사건을 확장해 마이클이 스미스 그로브에서 빠져나온 뒤 하돈필드로 돌아오는 과정을 직접 체험하는 방식입니다.
 
 싱글은 단순 팬 서비스가 아니라 마이클의 이동과 스토킹, 처형을 배우는 연습장 역할도 합니다. 멀티에서 처음 마이클을 잡고 조작법을 익히느라 시간을 쓰기 싫다면 스토리부터 시작하는 편이 좋습니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 특히 멀티에서는 상대가 사람이라 실험할 시간이 짧습니다. 싱글에서 어둠과 시야 조건을 충분히 확인해 두면 멀티에서 셰이프 점프가 왜 안 되는지 당황하는 일이 줄어듭니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 원작 장면과 새로운 공간
 
 개발진은 원작 영화의 특정 장면과 음악, 공간의 분위기를 살리면서 단순히 영화 장면을 그대로 따라가는 방식은 피하려 했습니다. 플레이어가 마이클의 행동을 직접 결정하면서 자신만의 공포 장면을 만들도록 설계한 것이 특징입니다.
@@ -64,17 +49,6 @@ hideDescription: true
 스토리 모드에는 여러 난이도 선택지가 있어 처음에는 조작과 동선을 익히고 이후 더 어려운 조건으로 다시 도전할 수 있습니다. 마이클의 능력을 어느 정도 익힌 뒤 난도를 올리면 같은 챕터도 접근 방식이 달라집니다.
 
 처음부터 높은 난도로 시작해 반복 실패하는 것보다 기본 조작과 스토킹 타이밍을 익힌 뒤 도전 과제와 함께 난도를 올리는 편이 효율적입니다. 싱글의 목표는 한 번의 클리어보다 멀티에서도 쓸 수 있는 감각을 만드는 데 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 도전 과제와 수집 요소
 
@@ -90,17 +64,6 @@ hideDescription: true
 
 스토리 모드는 원작 팬을 위한 캠페인이면서 마이클 튜토리얼 역할도 동시에 합니다. 멀티에서 살인마 역할이 부담스럽다면 먼저 스토리에서 몇 챕터를 진행해 보시는 것이 가장 자연스러운 입문 방법입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 7. 싱글에서 배운 습관을 그대로 쓰지 않기
 
 스토리에서는 목표와 NPC의 행동을 반복해서 익힐 수 있지만 멀티의 민간인은 실제 플레이어라 같은 패턴으로 움직이지 않습니다. 싱글에서 배워야 할 것은 정확한 처치 순서가 아니라 셰이프 점프 조건과 스토킹 타이밍, 시야를 끊는 방법 같은 기본 원리입니다.
@@ -109,13 +72,3 @@ hideDescription: true
 
 1978년 영화를 보셨다면 장소와 인물의 의미가 더 잘 보이지만 게임 진행에 원작 지식이 필수인 것은 아닙니다. 오히려 스토리를 먼저 플레이한 뒤 영화를 보면 게임이 어떤 장면과 분위기를 가져왔는지 비교하는 재미도 생깁니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

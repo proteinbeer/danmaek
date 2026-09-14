@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 낚시 방법 멀티플레이에서 막히는 분이라면 시스템 하나만 따로 보지 말고 진행과 장비를 함께 보시는 편이 좋습니다. 낚시 방법은 낚시, 전투, 판매, 퀘스트가 연결되어 있어 한 부분만 놓쳐도 다음 단계가 늦어질 수 있습니다.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/how-to-fish-2026-01.jpg" alt="낚시 방법(HOW TO FISH) 스팀 생존 낚시 게임 대표 이미지" width="460" height="215" loading="lazy" decoding="async" />
@@ -40,17 +36,6 @@ hideDescription: true
 
 세션 유형도 게임 안 설정에서 바꿀 수 있지만 변경 후 재시작이 필요할 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 큰 로비는 보스전이 쉬워진다
 
 인원이 늘어나면 보스에 넣을 수 있는 화력과 부활 여유가 늘어납니다. 거미게부터 후반 북극고래까지 역할을 나누면 혼자 할 때보다 실수 복구가 쉬워집니다.
@@ -63,17 +48,6 @@ hideDescription: true
 
 보스 주변에서 모두 폭발물을 던지면 본인부터 쓰러질 수 있으니 위치를 나눠 쓰시는 편이 안전합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 음성 채팅 문제는 최신 버전을 확인한다
 
 1점0점12에서는 메타보이스가 새 버전으로 업데이트되어 음성 채팅 관련 문제 개선을 노렸습니다. 마이크가 이상하거나 소리가 끊긴다면 스팀을 재시작해 최신 패치를 받은 뒤 다시 확인해 보시면 됩니다.
@@ -85,17 +59,6 @@ hideDescription: true
 출시 직후에는 로비 참여 시 검은 화면이나 시작 시 회색 화면 문제가 보고됐고 1점0점4에서 수정이 들어갔습니다. 여전히 문제가 있다면 게임 버전, 스팀 재시작, 파일 검사부터 확인하는 편이 좋습니다.
 
 호스트와 참가자가 서로 다른 버전이라면 접속 문제가 생길 수 있으니 모두 업데이트 상태를 맞추셔야 합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 8명이라고 항상 8명이 좋은 것은 아니다
 
@@ -119,13 +82,3 @@ hideDescription: true
 
 처음부터 모든 기능을 완벽하게 이해하려 하기보다 현재 목표에 필요한 것만 익히시면 됩니다. 낚시 방법은 새 섬으로 갈수록 앞에서 배운 시스템을 반복해서 쓰는 구조라 한두 지역만 지나도 장비와 퀘스트 판단이 훨씬 빨라집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

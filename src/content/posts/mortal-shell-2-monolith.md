@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 모놀리스는 언파운드 패스 두 번째 메인 보스로 거대한 움직이는 벽처럼 생겼습니다. 두 덩어리 사이 중앙에 매달린 부분이 주요 공격 지점이며 세 페이즈에 걸쳐 내려찍기와 레이저, 회전 공격이 늘어납니다.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/mortal-shell-2-2026-01.jpg" alt="모탈 셸 2(Mortal Shell 2) 소울라이크 액션 게임 대표 이미지" width="686" height="386" loading="lazy" decoding="async" />
@@ -42,17 +38,6 @@ hideDescription: true
 
 보스전에서는 첫 시도부터 처치를 노리기보다 위험한 공격 두세 개만 먼저 구분해 두시는 편이 좋습니다. 큰 패턴의 전조를 익힌 뒤 공격 횟수를 늘리면 회복 소비가 눈에 띄게 줄어듭니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 몸 전체 내려찍기
 
 보스가 닫힌 뒤 평평하게 내려찍는 공격은 뒤로 회피해 거리를 확보하셔야 합니다. 후반에는 횟수가 늘어날 수 있습니다.
@@ -69,17 +54,6 @@ hideDescription: true
 
 페이즈가 바뀌는 순간에는 피해를 더 넣으려 하기보다 새 패턴을 한 번 관찰하는 편이 안전합니다. 특히 처음 보는 범위 공격은 카메라를 넓게 두고 움직임 전체를 확인하시면 대응하기 쉽습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 3페이즈 회전
 
 바닥에 펼쳐진 뒤 회전하거나 크게 뛰어 착지하는 패턴이 나옵니다. 회전 중에는 추격하지 말고 공간을 확보하는 편이 안전합니다.
@@ -93,17 +67,6 @@ hideDescription: true
 아레나 전체를 가르는 네 개의 레이저를 회전하며 쏘는 패턴에서는 가능한 멀리 떨어진 뒤 레이저 회전 방향과 같은 방향으로 움직이며 회피하시면 됩니다.
 
 업적이나 모든 수집 요소를 목표로 하지 않으신다면 첫 회차부터 모든 길을 확인할 필요는 없습니다. 엔딩 이후에도 자유 탐험이 가능하므로 스토리 흐름을 먼저 보고, 필요한 셸과 무기만 챙긴 뒤 나머지를 정리하는 방식도 충분히 좋은 선택입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 티엘 활용
 

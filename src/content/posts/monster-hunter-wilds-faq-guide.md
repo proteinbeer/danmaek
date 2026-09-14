@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 몬스터헌터 와일즈를 처음 시작하면 궁금한 점이 한두 가지가 아닙니다. 회정보구는 없는데 맞으면 왜 이리 아픈지, 무기는 어떻게 바꾸는지, 헌터랭크 상한은 몇인지, 옆에 있는 사람과는 어떻게 같이 사냥하는지. 처음 보는 시스템이 많아 길을 놓치기 쉽습니다.
 
 이 글은 입문자가 자주 묻는 질문을 주제별로 묶어 하나씩 정리합니다. 자세한 내용을 보고 싶다면 각 항목에 연결된 전용 가이드를 함께 참고하십시오.
@@ -47,17 +43,6 @@ hideDescription: true
 **Q. 기절(스턴)은 어떻게 걸리나요?**
 머리 부위에 충격을 반복해서 주면 몬스터가 쓰러지며 기절합니다. 해머 같은 둔기류가 가장 잘 걸고, 상처가 열린 머리를 노리면 더 쉽습니다. 기절 중에는 파티 전체가 딜링을 넣을 수 있는 기회입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 성장과 파밍이 궁금한 것
 
 **Q. 헌터랭크(HR) 상한은 몇인가요?**
@@ -79,17 +64,6 @@ hideDescription: true
 
 **Q. 혼자서만 해야 하나요?**
 아닙니다. 스토리 퀘스트 대부분은 솔로로도, 다른 헌터와 함께 진행해도 됩니다. 몬스터는 인원수에 맞춰 체력이 조정되므로, 초보라면 SOS로 도움을 받아도 어떤 불이익이 없습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 준비물과 편의 기능이 궁금한 것
 
@@ -113,13 +87,3 @@ hideDescription: true
 **Q. 마지막으로 꼭 해야 할 것이 있나요?**
 자신의 무기에 맞는 조작을 트레이닝장에서 익히고, 사냥 전에는 반드시 식사를 해 보너스를 받는 습관을 들이세요. 상처와 포커스 스트라이크만 제대로 쓰기 시작해도 사냥 시간이 확연히 줄어듭니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

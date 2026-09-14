@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 워드프레스 관리자 화면과 메인 페이지는 정상인데 글이나 카테고리만 404 오류가 뜨는 경우가 있습니다.
 
 이럴 때 게시물이 지워졌다고 생각하기 쉽지만 여러 글이 동시에 같은 증상을 보인다면 주소 규칙과 서버의 재작성 설정을 먼저 보는 편이 맞죠.
@@ -47,17 +43,6 @@ hideDescription: true
 
 문제를 해결하려고 주소 형식을 곧바로 다른 구조로 바꾸는 것은 추천하지 않습니다. 이미 검색엔진과 외부 링크에 등록된 주소가 있다면 새 문제를 만들 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 서버 재작성 기능 확인
 
 보기 좋은 고유주소는 웹서버의 주소 재작성 기능과 연결됩니다.
@@ -73,17 +58,6 @@ hideDescription: true
 파일과 데이터베이스를 모두 옮겼는데 글만 404가 된다면 이전 자체가 실패했다고 보기보다 새 서버의 재작성 설정을 확인할 필요가 있습니다.
 
 도메인까지 함께 바꿨다면 내부 링크가 예전 주소를 가리키는지도 보시면 됩니다. 이 경우 고유주소 문제와 오래된 링크 문제가 같이 보일 수 있어 하나씩 나눠서 확인하는 편이 좋죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 리디렉션과 보안 플러그인 확인
 
@@ -101,17 +75,6 @@ hideDescription: true
 
 주소를 바꾸는 순간 기존 즐겨찾기와 외부 링크가 끊길 수 있습니다. 검색엔진도 새 주소를 다시 이해해야 하므로 단순 디자인 선택처럼 가볍게 바꿀 설정은 아닙니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 7. 새 글만 정상일 때는 범위를 더 좁힌다
 
 새로 만든 글은 열리는데 오래된 글만 404라면 과거에 사용한 카테고리 주소, 커스텀 글 유형, 예전 리디렉션 규칙을 확인할 필요가 있습니다.
@@ -128,13 +91,3 @@ hideDescription: true
 
 글 존재 확인, 고유주소 다시 저장, 서버 재작성, 최근 플러그인 변경, 캐시 순서로 보시면 됩니다. 삭제와 재작성부터 시작하지 않는 것이 가장 안전한 해결 순서입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

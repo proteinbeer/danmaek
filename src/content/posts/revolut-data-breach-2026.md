@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 핀테크 기업 레볼루트가 가짜 정부 정보 요청을 이용한 고객 데이터 유출을 확인했습니다.
 
 공격자는 실제 정부 기관 도메인의 이메일을 악용해 정상적인 요청처럼 꾸몄습니다.
@@ -48,17 +44,6 @@ hideDescription: true
 문제를 발견한 뒤 해당 주소를 차단하고 기관과 규제당국에 알렸습니다.
 
 기술 발표는 기능표보다 실제 사용 환경에서 의미가 갈립니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 보안과 가격, 개인정보, 전력 같은 보이지 않는 조건이 따라오지 않으면 편리함만으로 오래 쓰기 어렵습니다.
 
@@ -89,17 +74,6 @@ hideDescription: true
 사건 번호와 담당자, 별도 연락 채널을 통한 재확인이 필요한 이유입니다.
 
 초기 발표만으로 장기 영향을 단정하기는 어렵습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 실제 제품과 정책이 공개된 방향을 꾸준히 유지하는지 확인하는 과정이 필요합니다.
 

@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 키보드가 안 쳐질 때 가장 당황스러운 이유는 **원인이 하나가 아니라 여러 곳에 흩어져 있기 때문**입니다. 무선이면 연결이, 노트북이면 윈도우 설정이, 오래된 키보드면 접점 문제가 각각 원인이 될 수 있죠.
 
 이 글에서는 고장인지 설정인지 판단하기 좋은 순서대로 정리했습니다. 대부분의 입력 문제는 다음 4단계 안에서 해결됩니다.
@@ -50,17 +46,6 @@ hideDescription: true
 
 설정 창이 어디 있는지 모르겠다면 시작 메뉴 통합 검색에서 "키보드"라고만 쳐도 관련 설정이 바로 나옵니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 드라이버와 입력 장치 상태 확인
 
 한 번도 한 번에 몇 개의 키가 동시에 눌렸다 뗐다 되는 것처럼 보이는데, 실제로는 **드라이버 오류**로 입력이 지연되는 경우가 있습니다.
@@ -82,17 +67,6 @@ hideDescription: true
 - 키보드 전체가 아닌 특정 줄만 안 되면 스위치나 케이블 단선일 가능성이 있어야, 이 경우는 교체가 현실적입니다.
 
 이물질이 원인이라면 청소만으로 해결됩니다. 청소 후에도 동일하다면 해당 스위치의 수명이 다했다고 보시면 됩니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 아무것도 안 눌리는 그 순간, 긴급 확인
 

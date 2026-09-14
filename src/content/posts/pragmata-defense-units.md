@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 프라그마타의 방어 유닛은 단순히 피해를 줄이는 장비가 아닙니다. 휴가 적 공격을 피하면서 다이애나 해킹에 집중할 시간을 만들고, 복잡한 전투에서 시선을 분산시키는 역할을 합니다.
 
 공격 유닛만 챙기면 보스 화력은 좋아 보여도 해킹 중 자꾸 맞아 실제 공격 기회를 놓칠 수 있습니다. 방어 슬롯 하나만 잘 쓰면 전투 리듬이 훨씬 안정됩니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 반대로 계속 이동해야 하는 보스에서는 답답할 수 있습니다. 장비가 약해서가 아니라 전투 성격과 맞지 않는 경우가 있으므로 고정형 전투에서 우선 고려하시는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 드론 하이브는 공격형 방어
 
 드론 하이브는 단순히 공격을 막기보다 주변 적에게 압박을 주며 휴가 다른 행동을 할 수 있게 만들어주는 성격이 강합니다. 후반과 엔드게임에서 공격과 방어를 동시에 챙기고 싶을 때 매력적입니다.
@@ -65,17 +50,6 @@ hideDescription: true
 
 체력이 낮아진 뒤 급하게 쓰면 이미 전투 흐름이 무너진 상태일 수 있습니다. 위험 구간이 보이는 순간 먼저 사용하시는 편이 효율적입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 공격 유닛과 역할을 나눈다
 
 차지 피어서처럼 충전이 필요한 공격 유닛은 방어 장비와 궁합이 좋습니다. 적 시선을 분산시키거나 투사체를 막아주면 충전 시간을 안전하게 확보할 수 있기 때문입니다.
@@ -87,17 +61,6 @@ hideDescription: true
 미사일과 투사체가 많다면 배리어, 빠르게 쫓아오는 적이 많다면 디코이, 다수전 압박이 크다면 드론 하이브처럼 바꾸는 방식이 좋습니다.
 
 한 번 편했다고 모든 보스에 같은 장비를 고집하면 후반 체감이 떨어질 수 있습니다. 쉴터에서 다음 보스 특성을 보고 교체하시면 됩니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 방어는 공격 시간을 늘린다
 

@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 게이밍 마우스 설정에서 폴링레이트를 높이면 무조건 반응이 빨라진다고 생각하기 쉽습니다.
 
 하지만 4000Hz나 8000Hz처럼 높은 값에서는 오히려 일부 게임의 프레임이 흔들리거나 마우스를 움직일 때만 미세한 끊김이 생기는 경우가 있죠.
@@ -61,17 +57,6 @@ CPU 사용률이 100%가 아니더라도 특정 코어에 입력 처리가 몰�
 
 그래서 전체 CPU 사용률만 보고 폴링레이트 문제를 배제하시면 안 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 8000Hz가 효과적인 환경
 
 고주사율 모니터, 높은 평균 프레임, 낮은 입력 지연을 중요하게 보는 경쟁 게임에서는 4000Hz와 8000Hz가 의미를 가질 수 있습니다.
@@ -100,17 +85,6 @@ CPU 사용률이 100%가 아니더라도 특정 코어에 입력 처리가 몰�
 
 체감 반응성은 유지하면서 시스템 부담과 배터리 소모를 줄이는 절충점이 될 수 있죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 게임마다 설정을 다르게 쓰는 방법
 
 일부 마우스 프로그램은 게임 프로필마다 폴링레이트와 DPI를 따로 저장할 수 있습니다.
@@ -131,13 +105,3 @@ CPU 사용률이 100%가 아니더라도 특정 코어에 입력 처리가 몰�
 
 8000Hz에서 분명한 장점을 느끼고 끊김도 없다면 그대로 쓰면 되지만, 차이가 없는데 프레임만 흔들린다면 낮추는 편이 훨씬 합리적입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 모탈 셸 2는 오픈월드 구조라 메인 보스 순서가 완전히 고정되지 않습니다. 권장 진행 흐름은 있지만 어느 지역을 먼저 가느냐에 따라 순서를 바꿀 수 있고, 여섯 지역 보스 가운데 다섯을 쓰러뜨리면 최종 지역으로 향할 수 있습니다.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/mortal-shell-2-2026-01.jpg" alt="모탈 셸 2(Mortal Shell 2) 소울라이크 액션 게임 대표 이미지" width="686" height="386" loading="lazy" decoding="async" />
@@ -42,17 +38,6 @@ hideDescription: true
 
 탐험에서는 목적지보다 귀환 경로를 먼저 만들어 두는 편이 좋습니다. 비컨을 활성화하고 주변 지형을 한 번 확인한 뒤 깊게 들어가면 사망했을 때 반복 이동하는 시간을 크게 줄일 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 다섯 보스 조건
 
 여섯 주요 지역 보스 가운데 최소 다섯을 쓰러뜨리면 마로우 킵의 오바 방을 통해 최종 지역 언파운드 패스로 갈 수 있습니다. 모든 지역을 100% 완료해야 엔딩을 볼 수 있는 구조는 아닙니다.
@@ -67,17 +52,6 @@ hideDescription: true
 
 수집 요소를 한 번에 전부 찾으려 하기보다 지역별로 나누어 정리하면 놓친 위치를 확인하기 쉽습니다. 메인 진행과 수집을 완전히 섞으면 어느 길을 이미 확인했는지 헷갈리기 쉽습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 막히면 지역 변경
 
 한 보스에서 계속 막히면 실력 문제로만 생각하지 않는 편이 좋습니다. 다른 던전에서 무기나 보조 무기, 타르스톤, 회복 강화를 얻으면 같은 보스의 체감 난도가 크게 달라질 수 있습니다.
@@ -89,17 +63,6 @@ hideDescription: true
 보스에 따라 티엘의 회피, 제네사의 분신, 에레드림의 저항처럼 특정 셸이 유리합니다. 한 셸만 끝까지 고집하기보다 어려운 패턴의 성격에 맞춰 바꾸는 것이 오픈월드 구조와 잘 맞습니다.
 
 업적이나 모든 수집 요소를 목표로 하지 않으신다면 첫 회차부터 모든 길을 확인할 필요는 없습니다. 엔딩 이후에도 자유 탐험이 가능하므로 스토리 흐름을 먼저 보고, 필요한 셸과 무기만 챙긴 뒤 나머지를 정리하는 방식도 충분히 좋은 선택입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 엔딩 전 수집 선택
 

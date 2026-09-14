@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 워드프레스에 사진을 올리는데 업로드 실패나 처리 오류가 뜨면 이미지 파일이 깨졌다고 생각하기 쉽습니다.
 
 하지만 같은 사진이 PC에서는 정상으로 열리고 작은 이미지는 올라간다면 서버의 업로드 제한과 이미지 처리 환경을 먼저 확인하는 편이 맞습니다.
@@ -47,17 +43,6 @@ hideDescription: true
 
 이미지 처리에 필요한 라이브러리가 없거나 정상적으로 불러와지지 않는다면 업로드는 되더라도 썸네일 생성 단계에서 문제가 날 수 있습니다. 이런 경우는 워드프레스 설정만 바꾸기보다 호스팅 환경을 확인하는 편이 빠릅니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 저장 공간이 가득 찼는지 확인
 
 호스팅 저장 공간이 거의 꽉 차면 새 파일을 저장하지 못해 업로드 오류가 생길 수 있죠.
@@ -73,17 +58,6 @@ hideDescription: true
 테스트할 때는 영문과 숫자 위주의 짧은 이름으로 바꿔 다시 올려보시면 원인을 하나 더 제외할 수 있습니다.
 
 확장자를 억지로 바꾸는 것은 도움이 되지 않습니다. 실제 파일 형식과 확장자가 다르면 워드프레스가 파일을 거부하거나 나중에 브라우저에서 제대로 표시되지 않을 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 고해상도 사진만 실패할 때
 
@@ -101,17 +75,6 @@ hideDescription: true
 
 한꺼번에 여러 플러그인을 지우지는 않는 편이 좋습니다. 같은 파일로 조건 하나씩 바꿔가며 비교해야 어디서 실패하는지 명확하게 알 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 7. 권한 문제는 서버에서 확인
 
 워드프레스는 업로드 폴더에 파일을 쓸 수 있어야 하죠.
@@ -128,13 +91,3 @@ hideDescription: true
 
 워드프레스 미디어 문제는 저장과 변환이 한 번에 일어나기 때문에 원인이 여러 곳에 있을 수 있습니다. 실패 메시지 하나만 보고 파일이 깨졌다고 판단하지 않는 것이 가장 중요한 출발점입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

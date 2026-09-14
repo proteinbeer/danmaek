@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 문명 7이 2027년 무료 업데이트 아크 오브 투모로우를 통해 원자 시대를 추가합니다. 현재 1950년 무렵 끝나는 역사 범위를 2050년까지 늘리고 핵무기와 냉전, 현대 도시를 별도의 네 번째 시대로 다루게 됩니다.
 
 파이락시스는 이번 업데이트 규모가 지난해 테스트 오브 타임보다 더 크다고 설명했습니다. 출시 뒤 계속 지적된 현대 시대의 부족한 깊이를 무료 업데이트로 보완하려는 움직임입니다.
@@ -41,17 +37,6 @@ hideDescription: true
 
 지금까지는 핵무기가 강한 최종 무기처럼 작동했다면 앞으로는 쏘지 않는 상태 자체를 전략으로 관리하게 될 수 있습니다. 냉전 분위기를 문명식 시스템으로 옮기는 부분입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 도시국가 독립과 대리전
 
 자신의 정착지를 독립시켜 도시국가로 만들고 직접 전쟁에 들어가지 않은 채 대리전을 벌이는 기능도 예고됐습니다. 큰 제국을 무조건 계속 보유하는 것보다 일부 지역을 영향권으로 남겨두는 선택이 생깁니다.
@@ -63,17 +48,6 @@ hideDescription: true
 같은 2027년에는 첫 대형 유료 확장 어스라이즈도 나옵니다. 고대부터 하늘을 관측하고 시대가 발전하면 우주 기관을 세워 태양계 임무까지 이어가는 장기 우주 탐사 시스템이 핵심입니다.
 
 무료 업데이트와 유료 확장을 같은 시기에 배치하면 기본 게임 이용자도 현대 시대 개선을 받고 더 깊은 우주 콘텐츠를 원하는 사람만 확장을 구매할 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 복합적 평가를 뒤집을 수 있을까
 
@@ -88,17 +62,6 @@ hideDescription: true
 원자 시대를 별도 유료 확장으로 떼지 않고 모든 문명 7 이용자에게 제공한다는 점은 꽤 중요합니다. 후반 시대의 부족함이 기본 게임 구조의 약점으로 지적돼 왔기 때문에 이 부분을 돈을 더 내야 해결되는 문제로 만들지 않겠다는 의미로도 볼 수 있습니다.
 
 다만 새 시대가 추가되면 전체 한 판의 길이도 길어질 수 있습니다. 기존에도 후반부가 늘어진다고 느낀 이용자에게는 콘텐츠 증가가 오히려 피로가 될 수 있어 턴 속도와 승리 조건, 자동화 기능까지 함께 손보는지가 중요합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 영화 제작까지 문명 시스템이 된다
 

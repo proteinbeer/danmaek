@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 발하임 1.0으로 완성된 딥노스는 마지막 바이옴답게 일회성 진입으로 끝나는 곳이 아닙니다. 지표면의 몬스터를 처리하는 것에서 그치지 않고, 던전 두 종류와 신금속 수급 체인이 얽혀 있어 재료 확보 순서를 알지 못하면 계속 같은 지역을 맴돌게 됩니다. 이 글은 출시 정보와 진입 준비를 다룬 이전 가이드의 후속편으로, 실제로 바이옴 안에서 부딪치는 문제들을 중심으로 정리했습니다.
 
 진행 흐름은 크게 세 갈래로 나뉩니다. 갬멜트롤을 잡아 블러드골드라는 신금속을 만드는 채집 루트, 마을 집 아래로 들어가는 윈딩 터널에서 제작 몰드를 모으는 던전 루트, 그리고 이 둘을 지나 게이츠 오브 묘크할라와 최종 보스로 이어지는 확장 루트입니다. 순서를 맞추면 무기와 방어구가 다음 단계의 문을 여는 자연스러운 연결이 만들어집니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 부숴진 잔해에서 페트리파이드 티슈라는 원료가 나오며, 이것을 딥노스의 새 제련 시설에서 녹이면 블러드골드 금속으로 바뀝니다. 블러드골드는 딥노스 대응 장비 전반에 들어가는 기본 재료입니다. 엠버 차지는 갬멜트롤 사냥 외에도 해안을 따라 떠다니는 얼음 판을 깨는 용도로 쓰이므로, 진입 시점에 일정량을 항상 챙겨 두는 것이 좋습니다. 갬멜트롤을 만날 때마다 엠버 차지를 아낌없이 사용해 재료를 쌓아 두면 던전 진행이 한결 수월해집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 윈딩 터널: 몰드와 인트리케이트 키 파밍
 
 딥노스의 첫 던전은 버려진 마을 집 뒤편 바닥의 구멍으로 들어가는 윈딩 터널입니다. 이름처럼 통로가 지저분하게 꼬여 있어 들어가자마자 길을 잃기 쉽습니다. 터널 안쪽은 어둡고 좁아 전투 반경이 작아지므로, 광역 공격보다는 한 번에 한 대상씩 처리하는 근접 무기와 조명이 필요합니다. 주된 적은 지하를 뚫고 다니는 엘라킹이며, 통로 곳곳에 자체적으로 빛나는 루미너스 라바가 있어 이 재료로 후드형 랜턴을 만들면 이후 탐사가 편해집니다.
@@ -64,17 +49,6 @@ hideDescription: true
 터널에서 모은 재료로 인트리케이트 키를 만들면, 지표면의 큰 요새 건물 안쪽에 자리한 게이츠 오브 묘크할라 던전을 열 수 있습니다. 윈딩 터널이 좁은 복도의 미로라면, 묘크할라는 요새 구조를 가진 단계식 던전으로 내부 방마다 적이 배치되어 있습니다. 여기서 확보하는 루팅과 전용 몬스터가 최종 보스 대비의 실질적인 던전 전투를 구성합니다.
 
 최종 보스는 딥노스를 지나는 줄거리의 마지막에 위치하며, 보스전에는 바이킹 유령 수호자가 등장해 다중 페이즈 전투를 만들어 냅니다. 보스의 정체는 출시 전까지 개발진이 밝히지 않았고, 크리에이티브 디렉터는 로키가 아닌 별개의 존재라고 밝혔습니다. 직접 겪기 전에 스포일러를 피하고 싶다면 소환 과정을 공략 사이트에서 미리 찾아보지 않는 것이 좋습니다. 보스전 직전에는 블러드골드 계열 장비와 상위 음식, 힐링 미드와 스태미나 미드를 충분히 비축하는 것이 기본이고, 유령 수호자가 호출되면 추가 물량부터 먼저 정리하는 공략이 안정적입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 노드 무기와 보석 업그레이드 빌드
 
@@ -88,13 +62,3 @@ hideDescription: true
 
 탐색 순서를 한 번에 정리하면, 빙판 상륙과 삽으로 거점 확보부터 시작해 갬멜트롤 사냥으로 블러드골드를 쌓고, 윈딩 터널에서 몰드와 키 재료를 모아 노드 무기를 확보한 뒤, 묘크할라 던전에서 전투 감각을 올려 최종 보스로 가는 흐름입니다. 각 단계를 한 바퀴 돌 때마다 다음 단계의 무기와 방어구가 자연스럽게 정비되므로, 딥노스를 처음 밟는 유저라면 이 순서를 기준으로 잡아두면 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

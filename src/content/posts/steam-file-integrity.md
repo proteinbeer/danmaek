@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 게임이 갑자기 튕기거나 텍스처가 깨지고 실행 파일을 찾지 못한다는 오류가 나오면 가장 먼저 재설치를 떠올리기 쉽습니다.
 
 하지만 수십 기가바이트를 다시 받기 전에 스팀의 게임 파일 무결성 검사를 먼저 돌리는 편이 훨씬 효율적이죠.
@@ -53,17 +49,6 @@ hideDescription: true
 
 검사 중에는 같은 저장장치에서 대용량 복사나 다른 게임 검사를 동시에 하지 않는 편이 안정적이죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 한두 개 파일이 실패해도 이상하지 않은 경우
 
 검사가 끝난 뒤 한 개 또는 몇 개 파일을 확인하지 못했다는 메시지가 나오는 경우가 있습니다.
@@ -84,17 +69,6 @@ hideDescription: true
 
 후자의 경우에는 수정 파일을 따로 백업한 뒤 검사를 진행하는 편이 안전합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 검사 뒤에도 실행이 안 될 때
 
 무결성 검사를 마쳤는데도 같은 문제가 반복된다면 파일 손상만이 원인이 아닐 가능성이 큽니다.
@@ -114,17 +88,6 @@ hideDescription: true
 저는 스팀 게임 문제가 생기면 재부팅, 무결성 검사, 드라이버와 업데이트 확인 순서로 보는 편이 합리적이라고 봅니다.
 
 게임 하나가 안 된다고 수백 기가바이트 라이브러리부터 건드리는 것보다 작은 범위부터 확인하는 편이 결국 가장 빠르죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 실제 점검은 증상 하나를 기준으로
 

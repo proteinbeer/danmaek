@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 막달레나는 글러티드 마이어 끝에서 만나는 메인 보스입니다. 가시 롤러가 달린 의자를 타고 움직이며 정면 공격 대부분이 위험하고 화염 지대를 계속 만들어 정면 힘싸움보다 뒤를 잡는 운영이 중요합니다.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/mortal-shell-2-2026-01.jpg" alt="모탈 셸 2(Mortal Shell 2) 소울라이크 액션 게임 대표 이미지" width="686" height="386" loading="lazy" decoding="async" />
@@ -42,17 +38,6 @@ hideDescription: true
 
 보스전에서는 첫 시도부터 처치를 노리기보다 위험한 공격 두세 개만 먼저 구분해 두시는 편이 좋습니다. 큰 패턴의 전조를 익힌 뒤 공격 횟수를 늘리면 회복 소비가 눈에 띄게 줄어듭니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 번트 에피지
 
 화염 피해가 부담스럽다면 번트 에피지를 패시브에 장착하는 방법이 있습니다. 라즐로를 사용하신다면 셸 스킬의 화염 저항도 도움이 됩니다.
@@ -67,17 +52,6 @@ hideDescription: true
 
 페이즈가 바뀌는 순간에는 피해를 더 넣으려 하기보다 새 패턴을 한 번 관찰하는 편이 안전합니다. 특히 처음 보는 범위 공격은 카메라를 넓게 두고 움직임 전체를 확인하시면 대응하기 쉽습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 말벌 구름
 
 후반에는 몸 주변에 큰 말벌 구름을 만들어 지속 피해를 줍니다. 구름이 보이면 욕심내지 말고 범위 밖으로 나갔다가 사라진 뒤 다시 들어가셔야 합니다.
@@ -91,17 +65,6 @@ hideDescription: true
 업적이나 모든 수집 요소를 목표로 하지 않으신다면 첫 회차부터 모든 길을 확인할 필요는 없습니다. 엔딩 이후에도 자유 탐험이 가능하므로 스토리 흐름을 먼저 보고, 필요한 셸과 무기만 챙긴 뒤 나머지를 정리하는 방식도 충분히 좋은 선택입니다.
 
 회복을 많이 쓰는 구간이 항상 가장 어려운 패턴인 것은 아닙니다. 공격 욕심 때문에 맞는 경우가 많으므로 두 번 칠 수 있어 보여도 한 번만 치고 빠지는 방식부터 시험해 보시는 편이 좋습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 핵심은 위치
 

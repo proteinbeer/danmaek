@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 봄바나나에서 퍼즐을 많이 외우는 것보다 먼저 해야 할 일이 있습니다. 세 명이 같은 단어를 같은 뜻으로 쓰도록 만드는 것입니다. 이 게임은 정보가 세 역할에 나뉘어 있기 때문에, 말 한마디가 다르게 해석되면 정답을 알고도 폭발할 수 있습니다.
 
 첫 세션 전에 몇 분만 규칙을 정해두면 캠페인 진행 속도가 크게 달라집니다. 거창한 작전표가 아니라 짧은 약속 몇 개면 충분합니다.
@@ -46,17 +42,6 @@ hideDescription: true
 
 예와 아니오를 매번 다른 몸짓으로 표현하면 해석이 늦어집니다. 고개, 손가락, 특정 손동작 중 하나를 골라 항상 같은 의미로 쓰는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 정지 신호를 만든다
 
 정보가 꼬였을 때 모든 행동을 멈추는 단어 하나가 필요합니다. 멈춰, 홀드 같은 짧은 표현이면 충분합니다.
@@ -72,17 +57,6 @@ hideDescription: true
 다시라는 신호를 부끄러워하지 않는 팀이 오래 살아남습니다. 봄바나나는 빨리 아는 척하는 게임이 아닙니다.
 
 다시 보여달라는 신호도 별도로 정해 두시면 좋습니다. 손짓을 못 봤거나 말이 끊겼을 때 애매하게 추측하지 않고 같은 정보를 다시 받을 수 있어 실수가 줄어듭니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 한 명만 최종 명령을 한다
 
@@ -100,17 +74,6 @@ hideDescription: true
 
 숫자와 색은 긴 설명보다 짧고 고정된 표현이 좋습니다. 비슷하게 들리는 단어는 피하고, 팀에서 자주 헷갈리는 표현이 나오면 바로 다른 단어로 바꾸시면 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 7. 완료 신호를 만든다
 
 모듈 하나가 끝났을 때 끝, 완료 같은 표현을 정해두면 다음 모듈로 넘어가는 시점이 명확해집니다. 아무 말 없이 다음 문제로 넘어가면 한 사람은 이전 문제를 계속 보고 있을 수 있습니다.
@@ -127,13 +90,3 @@ hideDescription: true
 
 규칙은 많을수록 좋은 것이 아닙니다. 실제로 자주 쓰는 표현만 남기고 잘 안 쓰는 신호는 버려야 긴 세션에서도 헷갈리지 않습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

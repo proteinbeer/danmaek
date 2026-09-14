@@ -21,10 +21,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 오니 아머먼트는 무사시가 오니 장갑으로 소환하는 특수 무기로, 전투 중 파란 소울로 채운 오니 파워 게이지를 소비해 짧은 폭딜 창을 만들어냅니다. 평소 주무기가 아닌 한정 버프처럼 쓰는 구조라, 언제 어떤 무기를 꺼내느냐가 후반 보스전의 난이도를 좌우합니다. 이 글은 해외 공략에 정리된 7종 전부의 위치와 효과, 그리고 오니 파워 능력을 종합했습니다.
 
 이 게임의 아머먼트는 전부 합치면 일곱 개입니다. 두 개는 스토리 보상으로 반드시 받게 되고, 나머지 다섯 개는 상자에 숨어 있어 탐색이 필요합니다. 전부 모으면 아머먼트 수집 트로피가 열리며, 최종 미션 직전까지 재방문으로 회수할 수 있습니다.
@@ -47,17 +43,6 @@ hideDescription: true
 
 윈드휘퍼의 회오리는 광역 판정이 넓어 약한 겐마 여러 마리를 거의 순식간에 쓸어내고, 투사체를 튕겨내며 근처 불꽃의 속성을 흡수해 화염 피해로 바꾸기도 합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 초중반 상자 천상의 쌍·어스셰이커스
 
 천상의 쌍(투 셀레스티얼)은 쌍검 형태의 첫 아머먼트로, 타격마다 노란 소울을 뽑아내며 공격하는 동안 체력을 회복시킵니다. 기요미즈데라 사원의 오니 문을 붙잡고 있는 두 번째 실 겐마를 처치하면 떨어지는 상자에서 얻습니다.
@@ -73,17 +58,6 @@ hideDescription: true
 플래싱 보이드(Flashing Void)는 단일 대상의 체력을 직접 깎는 최고 화력 아머먼트입니다. 충전 시작 시 시간이 느려지고 안전한 거리에서 차지할 수 있어 어스셰이커스보다 리스크가 낮으며, '산 위의 악귀' 미션에서 오에 산 성 안뜰로 향하는 오른쪽 곁길 막다른 동굴에 숨어 있습니다.
 
 스틸 워터(Still Water)는 마지막 아머먼트로 아라시야마 늪지대 북동쪽 구석의 상자에서 얻습니다. 최종 미션 직전까지 아무 때나 회수할 수 있으니 늪지를 빠져나가기 전에 구석을 반드시 확인합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 오니 파워 4종과 게이지 운영
 
@@ -101,13 +75,3 @@ hideDescription: true
 
 보스 직전에 게이지 한 칸을 아껴 두는 습관이 전투 전체를 바꿉니다. 무리 견제는 윈드휘퍼와 파이어버드 플루트, 보스는 어스셰이커스와 플래싱 보이드, 회복이 급할 때는 천상의 쌍으로 상황에 맞게 골라 쓰는 것이 완성형 운영입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

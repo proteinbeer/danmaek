@@ -21,10 +21,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 게임스컴 2026은 8월 26일 독일 쾰른에서 시작됩니다. 올해 엔씨는 프로젝트 본파이어를 처음 공개하고, 크래프톤은 펍지스튜디오의 미공개 신작을 포함해 여러 작품을 현장에서 선보이죠.
 
 단순히 해외 게임쇼 하나에 참가한다는 뉴스로 보면 평범합니다. 그런데 최근 한국 게임사의 신작 공개 방식을 보면 게임스컴은 제품을 보여주는 장소를 넘어 처음부터 글로벌 시장을 기준으로 반응을 시험하는 무대가 되고 있죠.
@@ -55,17 +51,6 @@ hideDescription: true
 
 한 작품의 판매량뿐 아니라 회사 자체가 글로벌 이용자에게 어떤 제작사로 기억되는지가 중요해진 거죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 시연이 있는 게임과 영상만 있는 게임
 
 게임쇼에서 가장 강한 홍보는 화려한 예고 영상보다 실제 플레이입니다. 영상은 편집할 수 있지만 현장 시연은 조작감, 화면 흐름, 완성도 같은 부분이 바로 드러납니다.
@@ -85,17 +70,6 @@ hideDescription: true
 현장 대기열, 시연 후기, 해외 방송 반응, 찜 목록 증가 같은 신호를 함께 보면 어느 시장에서 관심이 생기는지 비교할 수 있죠. 개발사 입장에서는 마케팅 전 실제 이용자의 행동 자료를 확인하는 겁니다.
 
 그래서 게임스컴 출품을 단순히 해외 홍보라고 보기보다 출시 전략을 검증하는 과정으로 보는 편이 더 정확합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 이후가 더 중요
 

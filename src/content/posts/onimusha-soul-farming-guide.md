@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 귀무자 웨이 오브 더 소드의 성장은 전부 소울로 돌아갑니다. 스킬 해금, 무기·의복 강화, 수호 부적 업그레이드까지 한 몸의 성장 곡선이 붉은 소울과 페이버라는 두 재화에 종속되어 있다 보니, 얼마나 효율적으로 모으느냐가 후반 보스전의 체감 난이도를 가르는 변수입니다. 그런데 이 게임은 전투가 깨끗할수록 소울도 많이 떨어지는 상승 구조라 파밍과 실력이 별개가 아닙니다.
 
 이 글은 해외 공략에서 공개된 파밍 수치와 루트를 종합해 색별 소울의 역할, 획득량을 올리는 장비와 스킬, 시점별 최적 파밍 지점, 페이버 공물 회로, 뉴게임 플러스 직전의 재화 정리를 순서대로 정리했습니다. 강화에 필요한 총량부터 미리 알고 출발하는 것이 핵심입니다.
@@ -46,17 +42,6 @@ hideDescription: true
 
 보너스 소스를 더 쌓으려면 플래싱 보이드 아머먼트로 마무리 타격을 넣는 방법이 유효합니다. 약화시킨 무리를 마무리하는 용도로 아끼는 것이 좋고, 큰 무리를 상대하기 직전에는 호즈키 주머니 슬롯에 넣은 소울 서커 소모품을 발동해 드랍량을 끌어올릴 수 있습니다. 보스에서 브레이크 잇센 후 보라 소울 선택지를 고르면 노랑·파랑·보라 드랍이 함께 나와 회복과 게이지를 동시에 챙깁니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 초중반 최적 파밍 루트
 
 초반 최고의 파밍 지점은 스피릿 미러 근처의 대나무 숲 길입니다. 큰 무리의 겐마가 빠르게 리스폰된다는 점을 활용해, 잇센 카운터로 무리를 정리하고 소울을 흡수한 뒤 미러에서 휴식해 적을 다시 소환하는 루프를 반복합니다. 한 바퀴당 수백 개의 붉은 소울이 모이며 리퍼 찬트와 잇센 보너스가 더해지면 수익이 눈에 띄게 늘어납니다.
@@ -72,17 +57,6 @@ hideDescription: true
 소울 어브소션 스킬 트리는 반드시 순서대로 투자가 필요합니다. 첫 번째 오니 포탈 이후 공격 중 흡수 스킬이 열리고, 두 번째 포탈 이후 수확량 증가, 세 번째 포탈 이후 보너스 증가와 추가 수확량이 이어집니다. 세 단계가 모두 쌓이면 파밍 루프마다 눈에 띄는 차이가 발생합니다.
 
 난이도도 파밍 속도에 영향을 줍니다. 스토리 모드는 적 데미지가 낮아진 대신 루프를 빠르게 돌 수 있고, 액션 모드는 잇센 보상 질이 올라 같은 시간에 경쟁력 있는 수익을 냅니다. 순수 파밍 속도만 보면 스토리 모드가 조금 더 유리하지만, 카니지 준비를 목표로 하면 액션 모드에서 잇센을 연습하는 쪽이 실용적입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 페이버 획득 루트와 공물 교환
 
@@ -100,13 +74,3 @@ hideDescription: true
 
 효율적인 정리는 세이브 스컴으로 완성됩니다. 붉은 소울 135,000과 페이버 150,000을 모은 시점에 수동 세이브를 하나 만들어 두고, 부적과 장비를 전부 강화한 뒤 재료가 부족하면 그 세이브를 다시 불러와 부족분만 파밍하는 방식입니다. 수동 세이브는 20개까지 유지되므로, 최종 미션 직전에 전용 체크포인트 슬롯을 확보해 두는 것이 플래티넘 작업의 시작입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

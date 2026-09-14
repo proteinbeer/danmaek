@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 미국 법무부가 엔비디아의 규모가 큰 AI 라이선스 계약에 대해 조사를 시작했습니다. 상대는 엔비디아의 인공지능 칩을 다루는 것으로 유명해진 AI 스타트업 그록입니다.
 
 거래 규모는 170억달러, 한화로 17조원이 넘습니다. 그록이 미래에 사용할 엔비디아 칩과 관련된 라이선스 계약의 조건이 시장 경쟁을 억누르는 쪽으로 스며들고 있는지가 조사 포인트입니다.
@@ -47,17 +43,6 @@ hideDescription: true
 
 특히 엔비디아가 자체 가속 라이선스를 마다하면 경쟁 회사가 끼어들 수 없다는 구도가 형성되었을 때, 조사가 본격화되죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. AI 칩 시장의 독점 논란은 계속되고 있다
 
 엔비디아는 AI 서버와 데이터센터 부문에서 오랫동안 두드러진 점유율을 가져왔습니다. 이런 지배력이 계약까지 이어지면, 시장에 남은 경쟁사가 경계하게 되는 상황이 되죠.
@@ -73,17 +58,6 @@ hideDescription: true
 이런 계약이 문제가 되면 그록 스스로도 칩 선택의 폭이 좁아졌다고 인정하는 셈이 되니, 그록 입장에서는 조사 결과에 따라서 전략적 유연성이 오히려 문제가 될 수 있습니다.
 
 물론 그록이 계약 위반을 저질렀다는 뜻은 아닙니다. 규제 검토가 진행되는 동안 양사가 어떤 조건을 공개할지, 그리고 규제 기관이 요구하는 조정이 무엇인지가 실제 변화를 만들지 결정합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 한국 시장에도 영향을 주는 배경
 
@@ -101,13 +75,3 @@ hideDescription: true
 
 엔비디아 입장에서는 법적 결과를 기다리는 동안에도 시장 조사가 이어지기 때문에, 지금부터 양사의 의사결정 방식이 시장을 움직이는 신호로 읽힙니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

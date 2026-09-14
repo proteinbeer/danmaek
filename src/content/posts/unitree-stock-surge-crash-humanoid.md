@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 중국 로봇업체 유니트리는 상하이 증시 상장 첫날 주가가 공모가 대비 460% 넘게 뛰었습니다. 이후 고점에서 약 45퍼센트 떨어지며 불과 며칠 사이에 천국과 지옥을 오갔죠.
 
 이런 움직임을 보면 휴머노이드 로봇이 거품이라는 결론을 내리기 쉽습니다.
@@ -54,17 +50,6 @@ hideDescription: true
 
 이는 성장주에서 가장 흔한 충돌이죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 전기차 초기와 닮았지만
 
 휴머노이드 로봇 열풍은 과거 전기차 투자 열풍과 자주 비교됩니다. 당시에도 수많은 회사가 미래 자동차 시장을 바꿀 것이라는 기대를 받았고 일부 기업의 가치는 실제 판매량보다 훨씬 빠르게 커졌습니다.
@@ -84,17 +69,6 @@ hideDescription: true
 상장 첫날 엄청난 상승이 반드시 기업 가치가 하루 만에 다섯 배 좋아졌다는 의미는 아닙니다. 매수하려는 사람에 비해 시장에서 거래되는 주식이 적으면 가격이 과도하게 움직일 수 있기 때문입니다.
 
 그래서 유니트리의 첫날 상승률만 보고 로봇 시장의 실제 성장 속도를 판단하시면 위험합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 거품과 혁신은 동시에 존재
 

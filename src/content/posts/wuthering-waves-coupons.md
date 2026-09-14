@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 명조: 웨이브(Wuthering Waves)는 쿠로 게임즈가 만든 오픈월드 액션 RPG입니다. 기억을 잃고 눈을 뜬 방랑자가 되어 태양계 세 번째 행성 솔라리스를 여행하며, 비명이라 불리는 재해를 극복하는 모험이 핵심이죠.
 
 리딤코드를 입력하면 가챠 재화인 별의 소리와 육성 재료를 받을 수 있습니다. 특히 상시 코드 WUTHERINGGIFT는 신규·복귀 유저라면 가장 먼저 입력해야 할 코드입니다.
@@ -53,17 +49,6 @@ hideDescription: true
 WUTHERINGGIFT 같은 상시 코드는 만료일 없이 계정당 1회만 사용할 수 있습니다. 반면 방송(특별 프로그램) 코드는 공개 시점부터 계산해 며칠 안에 끝나는 경우가 대부분입니다.
 
 따라서 전략은 단순합니다. **상시 코드는 언제든, 방송 코드는 공개 직후** 입력하면 됩니다. 코드가 나왔다는 소식이 들리면 미루지 말고 바로 교환해두는 편이 좋죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 4. 코드가 안 될 때 확인할 사항
 

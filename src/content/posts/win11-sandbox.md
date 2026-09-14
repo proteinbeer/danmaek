@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 인터넷에서 받은 프로그램을 한번 실행해보고 싶지만 본체 윈도우에 바로 설치하기는 찝찝할 때가 있습니다.
 
 윈도우 샌드박스는 이런 상황에서 임시로 분리된 윈도우 환경을 열어 프로그램을 테스트할 수 있게 해주는 기능입니다.
@@ -61,17 +57,6 @@ PC의 가상화 지원 상태와 윈도우 에디션을 먼저 확인해야 기�
 
 여러 유틸리티를 비교하거나 설치 뒤 남는 파일이 걱정될 때도 활용하기 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 샌드박스가 완벽한 보안 금고는 아니다
 
 분리된 환경이라고 해서 인터넷에서 받은 모든 파일을 아무 생각 없이 실행해도 된다는 뜻은 아닙니다.
@@ -99,17 +84,6 @@ PC의 가상화 지원 상태와 윈도우 에디션을 먼저 확인해야 기�
 반대로 필요 없는 파일은 일부러 정리할 필요가 없습니다.
 
 샌드박스 자체를 닫는 것으로 환경을 버릴 수 있어 테스트용 PC처럼 관리할 부담이 적습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 어떤 상황에서 가장 유용한가
 
@@ -139,13 +113,3 @@ PC의 가상화 지원 상태와 윈도우 에디션을 먼저 확인해야 기�
 
 이 단순한 흐름을 지키면 프로그램을 많이 시험하는 PC에서도 본체 환경을 비교적 깔끔하게 유지할 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

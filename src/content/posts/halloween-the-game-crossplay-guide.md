@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 할로윈 더 게임은 PS5, Xbox 시리즈 X와 S, PC 스팀, 에픽게임즈 스토어로 출시됐으며 크로스플레이를 지원합니다. 출시 직전 얼리 액세스에서는 다른 플랫폼 친구와 파티를 맺었을 때 매칭 과정에서 파티원이 메인 메뉴로 튕기거나 파티에서 빠지는 문제가 있었지만 1.0.1 패치에서 핵심 문제가 수정됐습니다.
 
 친구와 시작하신다면 단순히 같은 시간에 접속하는 것보다 모두 최신 버전인지 먼저 확인하는 편이 좋습니다. 출시 초반에는 핫픽스가 빠르게 적용되고 있어 버전 차이가 있으면 매칭과 파티 문제를 게임 자체 오류로 착각하기 쉽습니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 비슷한 문제가 계속된다면 게임을 재시작하기 전에 모든 파티원이 같은 최신 버전을 사용 중인지 확인하시는 것이 좋습니다. 한 명만 업데이트가 늦으면 파티 동작이 다르게 보일 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 비공개 매치와 AI
 
 게임은 온라인 공개 매치 외에도 AI를 상대로 하는 비공개 매치를 지원합니다. 친구끼리 새로운 맵과 역할을 연습하거나 공개 매치 전에 마이클의 능력을 시험하고 싶을 때 활용하기 좋습니다.
@@ -64,17 +49,6 @@ hideDescription: true
 싱글플레이 스토리는 마이클 마이어스 전용 경험입니다. 여섯 개의 플레이 챕터를 통해 스토킹과 셰이프 점프, 처형, 잠입 흐름을 배울 수 있어 친구들과 멀티를 시작하기 전 마이클 담당이 연습하기 좋습니다.
 
 민간인 역할은 싱글 스토리보다 비공개 AI 매치에서 익히는 편이 직접적입니다. 주민과 경찰, 탈출 시스템은 멀티플레이의 핵심이라 실제 맵에서 목표를 확인해 봐야 감이 잡힙니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 파티에서 역할을 나누기
 
@@ -90,17 +64,6 @@ hideDescription: true
 
 친구와 시작할 때 가장 중요한 것은 완벽한 조합보다 모두 같은 규칙을 이해하는 것입니다. 먼저 최신 버전을 맞추고 비공개 매치에서 역할과 맵을 한 번 익힌 뒤 공개 매치로 넘어가시면 크로스플레이 환경에서도 훨씬 편하게 시작할 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 7. 첫 세션은 역할 교대
 
 친구 다섯 명이 모였다면 한 사람이 계속 마이클만 하기보다 몇 판마다 역할을 바꿔 보시는 것도 좋습니다. 민간인으로 직접 탈출 준비를 해본 마이클 플레이어는 어떤 순간에 팀이 가장 취약한지 알게 되고, 마이클을 해본 민간인은 왜 밝은 공간과 시야 공유가 중요한지 이해하기 쉬워집니다.
@@ -109,13 +72,3 @@ hideDescription: true
 
 파티가 풀리거나 매칭이 이상하면 먼저 모든 사람의 게임 버전과 크로스플레이 설정, 파티 리더 상태를 확인하시면 됩니다. 1.0.1에서 대표적인 파티 이탈 문제는 수정됐지만 출시 초반에는 추가 업데이트가 이어질 수 있으므로 최신 패치 적용 여부를 가장 먼저 확인하는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

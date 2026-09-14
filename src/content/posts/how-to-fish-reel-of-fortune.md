@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 낚시 방법 릴 오브 포춘에서 막히는 분이라면 시스템 하나만 따로 보지 말고 진행과 장비를 함께 보시는 편이 좋습니다. 낚시 방법은 낚시, 전투, 판매, 퀘스트가 연결되어 있어 한 부분만 놓쳐도 다음 단계가 늦어질 수 있습니다.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/how-to-fish-2026-01.jpg" alt="낚시 방법(HOW TO FISH) 스팀 생존 낚시 게임 대표 이미지" width="460" height="215" loading="lazy" decoding="async" />
@@ -40,17 +36,6 @@ hideDescription: true
 
 희귀 드립을 들고 긴 거리를 이동하다 물리 효과로 잃지 않도록 가까운 기계를 쓰는 편이 안전합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 보상은 성능이 아니라 외형이다
 
 릴에서 나온 보상은 특정 무기, 낚싯대, 지원 장비의 코스메틱 외형입니다. 공격력이나 낚시 성능이 상승하는 강화 장비가 아닙니다.
@@ -63,17 +48,6 @@ hideDescription: true
 
 키보드 기준으로 외형을 순환하는 조작이 있으니 설정 메뉴에서도 확인해 보시는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 전설 외형은 업적과 연결된다
 
 전설 등급 외형을 뽑으면 골드 골드 골드 도전 과제를 노릴 수 있습니다. 다만 공식적으로 정확한 확률이나 몇 번 안에 나온다는 보장은 공개되지 않았습니다.
@@ -85,17 +59,6 @@ hideDescription: true
 릴 오브 포춘은 드립을 소비해 외형을 받고, 룰렛은 가치가 있는 아이템을 걸어 도박하는 시스템입니다. 둘을 혼동하면 희귀 개체를 엉뚱한 곳에 쓰거나 원하는 보상을 못 찾을 수 있습니다.
 
 외형 수집은 릴, 돈을 거는 도박은 룰렛이라고 기억하시면 됩니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 메인 진행 뒤 몰아서 하는 게 편하다
 
@@ -121,13 +84,3 @@ hideDescription: true
 
 메인 진행이 끝난 뒤 다시 돌아오면 장비와 이동 수단이 좋아져 같은 작업도 훨씬 짧게 끝납니다. 처음부터 완성하려 하기보다 진행과 수집을 나누시면 반복 피로도도 줄고 필요한 아이템을 잘못 소비하는 실수도 줄어듭니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 NAS, 프린터, 게임 서버 때문에 PC에 고정 IP를 넣었다가 인터넷이 끊기는 경우가 있습니다. IP 한 칸만 맞추면 된다고 생각하기 쉽지만, 서브넷, 게이트웨이, DNS까지 네트워크 구조와 맞아야 정상적으로 외부에 나갈 수 있습니다.
 
 설정 화면에 비슷한 용어가 많아서 어려워 보이지만 핵심은 단순합니다. 연결이 어디까지 정상이고 어느 지점부터 달라지는지 확인하면 불필요한 초기화를 줄일 수 있습니다.
@@ -43,17 +39,6 @@ NAS, 프린터, 게임 서버 때문에 PC에 고정 IP를 넣었다가 인터�
 
 이 원인들은 서로 비슷한 증상을 만들 수 있습니다. 그래서 인터넷 속도 측정 결과나 오류 문구 하나만 보고 바로 결론을 내리기보다 물리 연결, 주소 설정, 공유기 역할을 차례로 나눠보는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. PC와 공유기에서 볼 부분
 
 자동 할당 상태에서 받던 IP와 게이트웨이 값을 먼저 기록합니다. 공유기의 DHCP 범위를 확인해 충돌 가능성을 줄입니다. 고정 설정 뒤 게이트웨이와 외부 IP에 각각 연결 가능한지 확인합니다.
@@ -65,17 +50,6 @@ NAS, 프린터, 게임 서버 때문에 PC에 고정 IP를 넣었다가 인터�
 PC 직접 고정보다 공유기 DHCP 예약을 우선 고려합니다. 직접 설정한다면 같은 서브넷 안의 사용하지 않는 주소를 선택합니다. 게이트웨이와 DNS를 정확히 입력한 뒤 다른 기기와 중복되지 않는지 확인합니다.
 
 적용 뒤에는 바로 다음 설정으로 넘어가지 말고 같은 조건에서 다시 확인하시는 편이 좋습니다. 한 단계씩 바꿔야 어떤 조치가 실제로 문제를 해결했는지 알 수 있고, 나중에 같은 증상이 생겼을 때도 훨씬 빠르게 대응할 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 그래도 해결되지 않을 때
 
@@ -89,17 +63,6 @@ PC 직접 고정보다 공유기 DHCP 예약을 우선 고려합니다. 직접 �
 
 네트워크 설정은 서로 연결돼 있어서 문제를 빨리 고치겠다고 초기화, 수동 IP, DNS 변경, 포트 설정을 한꺼번에 적용하면 오히려 원인을 잃을 수 있습니다. 바꾸기 전 값을 기록하고 한 번에 한 항목만 수정하는 습관이 중요합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 7. 마지막 판단 기준
 
 주소를 고정하는 목적은 편리함인데, 설정을 잘못하면 오히려 네트워크를 불편하게 만듭니다. 개인 환경에서는 PC에 직접 값을 박는 방식보다 공유기가 같은 주소를 계속 주게 만드는 방식이 관리하기 쉽습니다.
@@ -112,13 +75,3 @@ PC 직접 고정보다 공유기 DHCP 예약을 우선 고려합니다. 직접 �
 
 문제가 다시 생기면 처음 해결했던 설정을 그대로 반복하기보다 현재 링크 속도, IP 주소, 게이트웨이, 무선 대역처럼 기본 상태부터 다시 확인하시면 됩니다. 네트워크는 장비 하나가 아니라 연결된 전체 구조가 함께 움직이기 때문에 작은 변화가 다른 구간에 영향을 줄 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

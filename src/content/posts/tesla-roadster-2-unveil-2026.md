@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 테슬라가 2세대 로드스터를 10월 1일 공개하겠다고 밝혔습니다.
 
 이 차는 2017년 처음 발표된 뒤 일정이 수차례 밀려 이번에는 실제 생산 계획이 더 중요합니다.
@@ -50,17 +46,6 @@ hideDescription: true
 거의 9년이 흐른 만큼 당시 파격적이던 성능 목표도 현재 경쟁차와 다시 비교해야 합니다.
 
 새 기술이 빠르게 확산될수록 표준과 책임의 문제도 함께 커집니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 한 회사의 기능으로 시작해도 다른 서비스와 연결되는 순간 호환성과 검증 방식이 중요해집니다.
 
@@ -91,17 +76,6 @@ hideDescription: true
 가속 수치뿐 아니라 배터리 무게와 주행거리, 반복 가속 때의 열 관리가 중요해졌습니다.
 
 기술 발표는 기능표보다 실제 사용 환경에서 의미가 갈립니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 보안과 가격, 개인정보, 전력 같은 보이지 않는 조건이 따라오지 않으면 편리함만으로 오래 쓰기 어렵습니다.
 

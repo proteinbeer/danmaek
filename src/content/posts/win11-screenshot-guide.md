@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 에러 메시지를 물어보거나 게임 기록을 남길 때, 스크린샷은 가장 확실한 방법입니다. 윈도우 11에는 별도 프로그램 없이 바로 쓸 수 있는 캡처 기능이 내장되어 있죠.
 
 부분 캡처부터 전체 화면 저장까지, 단축키 몇 개만 알아두면 어떤 상황에서도 화면을 바로 남길 수 있습니다. 윈도우 11 스크린샷 방법을 정리했습니다.
@@ -49,17 +45,6 @@ hideDescription: true
 
 저장 위치를 자주 쓰는 곳이 있다면 탐색기에서 스크린샷 폴더를 즐겨찾기에 추가해 두면 편리합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 캡처 도구 앱 활용하기
 
 캡처 후 편집과 공유까지 한 번에 처리하려면 **캡처 도구(Snipping Tool)** 앱을 엽니다.
@@ -79,17 +64,6 @@ PrintScreen 키의 기본 동작(클립보드 복사)을 캡처 도구가 열리
 - 이후 **Print Screen** 키를 누르면 캡처 도구가 바로 열립니다.
 
 이 설정을 켜두면 특정 영역 캡처를 자주 하는 분에게 훨씬 편리합니다. Win+Shift+S와 동일한 동작을 PrintScreen 하나로 처리할 수 있죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 캡처 파일 찾기와 관리
 
@@ -111,13 +85,3 @@ PrintScreen 키의 기본 동작(클립보드 복사)을 캡처 도구가 열리
 
 게임 바 캡처 화질은 **설정 → 게임 → 캡처**에서 조절할 수 있습니다. 스크린샷을 자주 찍는 게임이라면 저장 형식과 화질을 미리 정해두면 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 스토어에서 마음에 들지 않는 게임을 사버렸다면 환불을 고민하게 됩니다. 플레이스테이션 스토어의 디지털 게임은 물리 판매와 달리, 실행 여부에 따라 환불 가능 여부가 크게 갈리죠.
 
 게임을 받았는지 여부에 따라 절차가 다르고, 환불 요청은 콘솔이나 웹에서 간단히 신청할 수 있습니다. 환불 원칙과 요청 순서를 아래에 정리했습니다.
@@ -49,17 +45,6 @@ PS5 본체에서 바로 요청할 수 있습니다.
 
 환불 요청이 접수되지 않는 항목도 있습니다. 게임 실행 여부에 따라 선택지가 아예 안 나올 수 있으므로, 1번에서 확인한 기준과 비교해보시기 바랍니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 웹에서 환불 신청하기
 
 PC나 스마트폰의 브라우저로도 환불을 신청할 수 있습니다.
@@ -79,17 +64,6 @@ PC나 스마트폰의 브라우저로도 환불을 신청할 수 있습니다.
 - 실물 기프트 카드를 개봉한 경우나 이미 코드가 사용된 경우는 복잡해질 수 있습니다.
 
 결제 전 화면에서 언제 어떤 방식으로 환불되는지 확인할 수 있습니다. 신용카드로 산 게임도 잔액으로 돌려주는 정책인지 확인해보시는 것이 좋겠죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 물리 디스크 게임의 반품과 교환
 
@@ -111,13 +85,3 @@ PC나 스마트폰의 브라우저로도 환불을 신청할 수 있습니다.
 
 반복적으로 사고 취소를 하면 스토어 정책상 계정에 제한이 걸릴 수 있습니다. 환불은 긴급한 상황에서 쓰는 편이 안전합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

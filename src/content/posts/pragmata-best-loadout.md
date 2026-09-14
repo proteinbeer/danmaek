@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 프라그마타 로드아웃은 최고 등급 무기만 모은다고 완성되지 않습니다. 주무기와 공격 유닛, 전술 유닛, 방어 유닛이 서로 다른 문제를 해결해야 실제 전투가 편해집니다.
 
 첫 회차에서는 특정 보스에 특화된 극단적인 조합보다 일반 구역과 보스 양쪽에서 쓸 수 있는 균형형 구성이 좋습니다. 막힐 때 한 슬롯씩 바꾸는 방식이 가장 안정적입니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 해킹 매트릭스가 복잡하다면 스테이시스 대신 스티키 밤이나 코드 제너레이터를 넣어도 됩니다. 보스에서는 해킹 성공률이 곧 공격력입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 다수전 대응 조합
 
 여러 적이 동시에 압박하는 구역에서는 단일 대상 공격만으로는 정신이 없습니다. 라이엇 블라스터나 범위형 공격 유닛을 섞어 적을 밀어내고 공간을 확보하시면 됩니다.
@@ -65,17 +50,6 @@ hideDescription: true
 
 근거리 폭딜, 원거리 관통, 해킹 단순화, 방어 분산을 각각 하나씩 준비해 두면 어떤 상황에서도 대응이 쉽습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 주무기는 취향에 맞춘다
 
 그립 건은 안정적이고 펄스 카빈은 빠른 연사와 오픈 시간 압박이 좋습니다. 기본 화력이 충분하면 주무기 선택은 손에 맞는 쪽으로 가셔도 됩니다.
@@ -87,17 +61,6 @@ hideDescription: true
 딜을 더 올리겠다고 방어 슬롯을 가볍게 보면 해킹 중 피격이 늘어 실제 공격 기회가 줄 수 있습니다. 특히 보스 후반에는 한 번의 해킹 실패가 큰 손해로 이어집니다.
 
 공격 장비 하나보다 안전한 해킹 한 번이 더 큰 피해를 만들 수 있습니다. 첫 회차에서는 방어 수단을 꾸준히 챙기는 편이 좋습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 추천 로드아웃은 시작점
 
@@ -119,13 +82,3 @@ hideDescription: true
 
 막히는 구간이 생기면 같은 장비로 계속 반복하기보다 쉴터에 돌아가 한 번 구성부터 다시 보시는 편이 좋습니다. 프라그마타는 장비 하나와 해킹 노드 하나만 바꿔도 같은 전투의 난도가 크게 달라지는 게임입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

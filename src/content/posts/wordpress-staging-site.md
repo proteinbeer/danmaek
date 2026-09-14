@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 워드프레스는 플러그인과 테마를 클릭 몇 번으로 바꿀 수 있어 운영 사이트에서 바로 시험하고 싶은 유혹이 큽니다.
 
 하지만 방문자가 보는 사이트에서 업데이트와 디자인 변경을 바로 적용하면 작은 충돌 하나가 전체 장애로 이어질 수 있죠.
@@ -47,17 +43,6 @@ hideDescription: true
 
 작은 보안 패치까지 매번 복잡하게 시험할 필요는 없죠. 사이트 규모와 변경 위험에 따라 큰 업데이트 위주로 사용하는 것이 현실적이죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 스테이징은 자동으로 최신 상태가 되지 않을 수 있다
 
 스테이징은 보통 만든 시점의 운영 사이트를 복사한 상태입니다.
@@ -73,17 +58,6 @@ hideDescription: true
 호스팅이 제공하는 비공개 기능이나 접근 제한을 사용하고 검색엔진이 테스트 사이트를 색인하지 않도록 설정하는 편이 좋습니다.
 
 단순히 메뉴에서 숨겼다고 외부 접근이 막히는 것은 아닙니다. 스테이징 주소를 아는 사람이 들어올 수 있으므로 비밀번호 보호 같은 추가 제한이 있으면 더 안전하죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 결제와 메일은 더 조심
 
@@ -101,17 +75,6 @@ hideDescription: true
 
 어떤 변경을 운영 사이트에 반영할지 범위를 명확히 정하시면 되죠. 테마 파일만 필요한지, 플러그인 설정까지 필요한지에 따라 이동 방식이 달라집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 7. 호스팅 기능이 있으면 먼저 활용
 
 관리형 워드프레스 호스팅은 원클릭 스테이징 기능을 제공하는 경우가 있습니다.
@@ -128,13 +91,3 @@ hideDescription: true
 
 큰 변경 전 스테이징 복제, 핵심 기능 테스트, 운영 백업, 필요한 변경만 반영 순서로 가시면 되죠. 운영 사이트를 실험실로 쓰지 않는 것만으로도 워드프레스 관리가 훨씬 편해집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 운빨존많겜(글로벌명 럭키 디펜스)은 111퍼센트가 만든 랜덤 협동 타워 디펜스 게임입니다. 소환한 영웅이 스테이지마다 랜덤으로 등장해 전략과 운이 겹치는 재미로 출시 이후 꾸준히 인기를 얻고 있으며, 2024년 5월 출시 후 2026년 5월 2주년을 맞이했습니다.
 
 2주년 이벤트와 함께 기념 쿠폰이 공개됐고, 무과금 유저를 위한 상시 쿠폰도 꾸준히 정리되고 있습니다. 숫자 조합 코드가 많아 오타 없이 그대로 입력하는 것이 중요합니다.
@@ -54,17 +50,6 @@ hideDescription: true
 - THANKS2YEARS
 - LUCKY2026
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 코드 입력 방법
 
 운빨존많겜은 게임 내 로비에서 설정으로 들어가 코드를 입력합니다.
@@ -80,17 +65,6 @@ hideDescription: true
 운빨존많겜 쿠폰은 계정당 1회만 사용할 수 있으며 대소문자를 구분합니다. 숫자 조합 코드는 오타가 잦으니 그대로 복사해서 붙여넣는 편이 좋습니다.
 
 일부 코드는 선착순 수량이 소진되면 조기 종료되기도 합니다. 오류가 나면 만료됐을 가능성이 높으니 목록의 다른 코드로 진행하시기 바랍니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 신규 코드 받는 법
 

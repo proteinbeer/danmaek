@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 2026년 2분기 전 세계 VR 헤드셋 출하량이 전년 같은 기간보다 18% 줄었다는 조사 결과가 나왔습니다.
 
 그런데 밸브는 바로 이런 시기에 새 VR 기기 스팀 프레임 출시를 준비하고 있습니다.
@@ -30,7 +26,6 @@ hideDescription: true
 시장이 성장할 때 들어가는 건 이해하기 쉽습니다.
 
 반대로 줄어드는 시장에 새 제품을 내는 건 제품 하나보다 밸브가 VR을 어떻게 보고 있는지 더 궁금하게 만듭니다.
-
 
 <img class="post-landscape-image post-landscape-image--high" src="/assets/posts/news-images/vr-shipments-down-2026-01.jpg" alt="VR 출하량 18퍼센트 줄었다, 밸브는 왜 지금 새 기기를 내나" width="1920" height="1080" loading="lazy" decoding="async" />
 
@@ -54,17 +49,6 @@ VR 시장은 메타 퀘스트 계열이 대중화를 크게 밀었습니다.
 
 출하량이 줄었다고 VR 자체가 사라진다고 보기는 어렵지만 폭발적인 성장 기대가 낮아진 것은 분명해 보입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 밸브는 왜 지금 들어오나
 
 밸브는 하드웨어를 단순 판매량 하나로만 보는 회사가 아닙니다.
@@ -85,17 +69,6 @@ VR 시장이 뜨거울 때는 메타와 소니, 여러 하드웨어 회사가 �
 
 무조건 수천만대를 팔아야 성공이라고 볼 필요는 없습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 문제는 콘텐츠
 
 좋은 VR 기기를 내도 할 게임이 부족하면 오래 쓰기 어렵습니다.
@@ -115,17 +88,6 @@ VR 시장이 뜨거울 때는 메타와 소니, 여러 하드웨어 회사가 �
 VR이 스마트폰처럼 모두가 쓰는 기기가 되지 못하더라도 PC 게임의 강한 틈새 시장으로 남을 수는 있습니다.
 
 스팀 프레임은 바로 그 틈새가 얼마나 큰지 시험하는 제품이 될 것 같습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. VR이 살아남는 방식
 
@@ -151,13 +113,3 @@ PC까지 필요한 제품은 전체 비용이 커지고 독립형 기기도 스�
 
 반대로 합리적인 가격에 PC 게임 라이브러리와 연결된다면 줄어든 시장 안에서도 새로운 수요를 만들 가능성이 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

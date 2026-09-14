@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 헤드셋에서 소리는 잘 나는데 마이크만 안 되는 경우가 많습니다. 스피커로는 안 쓰고 마이크로만 안 되는 이유는, 대부분 **마이크가 기본 입력 장치로 잡히지 않았거나 권한이 꺼져 있다는 것**입니다.
 
 이 글에서는 연결 방식에 상관없이 적용되는 확인 순서를 4단계로 정리했습니다. 순서대로 따라오면 하드웨어가 고장나서가 아니라면 대부분 바로 해결됩니다.
@@ -48,17 +44,6 @@ hideDescription: true
 - 노트북은 내장 마이크가 자동으로 잡혀서 헤드셋 마이크가 무시되는 경우가 많습니다. 기본 장치를 헤드셋으로 바꿔주십시오.
 작업 표시줄 우측 하단의 스피커 아이콘을 우클릭하고 "소리 설정"으로 들어가면 입력 장치 목록을 한 번에 볼 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 앱별 마이크 권한 확인
 
 기본 장치가 맞는데도 특정 앱에서만 안 된다면 **앱 권한 설정**이 원인입니다. 윈도우는 앱마다 마이크 접근 허용을 별도로 관리합니다.
@@ -80,13 +65,3 @@ hideDescription: true
 
 위 순서를 전부 통과했는데도 마이크가 안 된다면, 다른 컴퓨터에 꽂아 정상 작동하는지로 **하드웨어 고장 여부**를 판가름하면 됩니다. 다른 기기에서도 안 된다면 교체를 고려해보시기 바랍니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

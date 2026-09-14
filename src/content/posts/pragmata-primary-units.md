@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 프라그마타의 주무기는 일반 전투에서 가장 오래 손에 쥐는 장비입니다. 기본 그립 건은 안정적이고, 이후 얻는 펄스 카빈은 빠른 연사 감각이 있어 어느 쪽이 더 좋은지 고민하기 쉽습니다.
 
 두 무기는 단순 상위와 하위 관계로 보기보다 전투 리듬이 다릅니다. 보스 한 번의 폭딜보다 구역 전체를 어떤 감각으로 돌고 싶은지 기준으로 고르시는 편이 좋습니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 대신 빠른 사격은 열 관리와 약점 명중을 더 의식하게 만듭니다. 단순히 버튼을 오래 누르는 것보다 오픈 시간과 거리, 적 움직임을 맞춰 쓰는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 초반에는 그립 건이 편하다
 
 첫 회차 초반은 해킹 자체를 배우는 시간이므로 그립 건의 안정성이 좋습니다. 장갑을 열고 한 발씩 확실히 넣는 구조가 전투 원리를 이해하기 쉽습니다.
@@ -65,17 +50,6 @@ hideDescription: true
 
 반대로 회피 때문에 조준을 오래 유지하기 어렵다면 그립 건의 안정적인 한 발이 더 편할 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 주무기 업그레이드는 낭비가 적다
 
 어느 쪽을 쓰더라도 주무기 계열 강화는 일반 적과 보스 모두에서 계속 체감됩니다. 보조 공격 유닛처럼 탄약을 아껴야 하는 부담이 적기 때문입니다.
@@ -87,17 +61,6 @@ hideDescription: true
 강한 공격 유닛으로 마무리를 자주 한다면 주무기는 안정적인 그립 건으로 두는 조합도 좋습니다. 반대로 전술과 방어 유닛 위주로 안전하게 해킹한다면 펄스 카빈을 이용해 오픈 시간 화력을 높이는 방식도 가능합니다.
 
 주무기 하나만 따로 평가하지 말고 나머지 세 슬롯과 함께 보셔야 실제 체감이 맞습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 결론은 손에 맞는 쪽
 
@@ -119,13 +82,3 @@ hideDescription: true
 
 막히는 구간이 생기면 같은 장비로 계속 반복하기보다 쉴터에 돌아가 한 번 구성부터 다시 보시는 편이 좋습니다. 프라그마타는 장비 하나와 해킹 노드 하나만 바꿔도 같은 전투의 난도가 크게 달라지는 게임입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

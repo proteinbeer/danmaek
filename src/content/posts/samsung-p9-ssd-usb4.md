@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 삼성전자가 게임스컴 2026에서 휴대용 SSD P9과 P7을 공개했습니다. 최상위 P9은 최대 초당 4000메가바이트 읽기 속도와 초당 3800메가바이트 쓰기 속도를 가지고 있습니다.
 
 기존 T9의 최대 속도가 초당 2000메가바이트 수준이었다는 점을 생각하면 숫자상 약 두 배입니다. 단순히 파일 복사가 빨라진 제품이라기보다 외장 저장장치가 백업용에서 실제 작업 공간으로 바뀌는 흐름을 보여주는 제품에 가깝죠.
@@ -46,17 +42,6 @@ P9은 1테라바이트, 2테라바이트, 4테라바이트, 8테라바이트 용
 
 8테라바이트가 일반 사람들에게 당장 필요한 용량은 아닐 수 있습니다. 다만 휴대용 저장장치가 데스크톱 내부 저장장치에 가까운 용량까지 올라왔다는 점은 꽤 상징적이죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 12K 영상을 바로 기록하는 SSD
 
 삼성은 P9이 12K 영상 직접 기록을 지원한다고 합니다. 카메라에서 촬영한 거대한 원본 데이터를 다른 장치로 옮기기 전에 SSD에 바로 기록할 수 있다는 의미이죠.
@@ -72,17 +57,6 @@ P9은 1테라바이트, 2테라바이트, 4테라바이트, 8테라바이트 용
 노트북 저장 공간이 부족하면 게임을 지웠다가 다시 설치하는 일이 흔합니다. 외장 SSD 속도가 충분히 빨라지면 보관용이 아니라 게임을 설치하고 직접 실행하는 공간으로 쓰기가 쉬워집니다.
 
 휴대용 게임기와 게이밍 노트북 사용자가 늘어나는 흐름까지 생각하면 왜 독일까지 갔는지 이해가 됩니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. P7도 같은 USB4
 
@@ -100,17 +74,6 @@ P9과 함께 공개된 P7도 USB4를 사용합니다. P7을 일상적인 사용�
 
 일단 초기에는 영상 제작자와 전문 작업자, 대용량 데이터를 자주 다루는 분들에게 더 맞는 제품으로 보입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 7. 최대 속도
 
 초당 4000메가바이트라는 속도를 사용하려면 연결하는 기기도 USB4 환경을 제대로 지원해야 합니다. 오래된 USB 단자에 연결하면 SSD가 아무리 빨라도 연결 규격의 속도에서 막힙니다.
@@ -127,13 +90,3 @@ USB4 제품의 성능이 계속 올라가면 이 구분이 점점 약해집니�
 
 그래서 P9의 진짜 의미는 초당 4000메가바이트라는 숫자보다 외장 SSD를 단순한 보관함이 아니라 이동 가능한 작업 공간으로 만드는 데 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

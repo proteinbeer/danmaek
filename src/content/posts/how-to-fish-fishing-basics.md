@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 낚시 방법 낚시가 어렵다면에서 막히는 분이라면 시스템 하나만 따로 보지 말고 진행과 장비를 함께 보시는 편이 좋습니다. 낚시 방법은 낚시, 전투, 판매, 퀘스트가 연결되어 있어 한 부분만 놓쳐도 다음 단계가 늦어질 수 있습니다.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/how-to-fish-2026-01.jpg" alt="낚시 방법(HOW TO FISH) 스팀 생존 낚시 게임 대표 이미지" width="460" height="215" loading="lazy" decoding="async" />
@@ -40,17 +36,6 @@ hideDescription: true
 
 가능하면 넓은 공간을 등지고 낚으시면 후속 전투와 판매 준비가 편해집니다. 특히 큰 생물일수록 이 차이가 크게 느껴집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 섬마다 미끼가 달라진다
 
 진행할수록 낚는 생물과 필요한 미끼 단계가 바뀝니다. 숲섬 이후에는 초급 미끼, 표준 미끼, 전문 미끼, 과학 미끼처럼 단계가 올라가며 일반 어종 풀이 달라집니다.
@@ -63,17 +48,6 @@ hideDescription: true
 
 따라서 낚시 전에 전투 장비가 준비되어 있는지도 확인하셔야 합니다. 큰 생물을 끌어올리고 무기가 없다면 오히려 위험해질 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 트릭샷을 노리면 낚시가 돈벌이가 된다
 
 물고기를 공중으로 띄운 뒤 처치하거나 헤드샷과 회전 사격 같은 스타일 조건을 섞으면 킬 점수 배수가 붙습니다. 단순히 비싼 생물을 잡는 것만이 돈벌이의 전부가 아닙니다.
@@ -85,17 +59,6 @@ hideDescription: true
 일반 어종 중에는 무지개처럼 보이는 희귀 드립 변종이 등장합니다. 이런 대상은 일반 판매보다 도감과 릴 오브 포춘에 활용할 가치가 있어서 바로 팔기 전에 확인하시는 편이 좋습니다.
 
 희귀 개체는 다시 찾는 데 시간이 걸릴 수 있습니다. 처음 발견했을 때 용도를 알고 있으면 불필요한 재파밍을 줄일 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 낚시 실력보다 진행 준비가 더 중요하다
 
@@ -117,13 +80,3 @@ hideDescription: true
 
 보스전에서는 한 번의 화려한 트릭샷보다 안정적으로 피해를 이어가는 것이 중요합니다. 일반 물고기로 트릭샷을 연습하고 보스에서는 생존과 전리품 확보를 우선하면 돈벌이와 진행을 분리해서 관리하기 쉬워집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

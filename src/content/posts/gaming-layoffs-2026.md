@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 게임 산업의 침체기가 예상보다 더 깊어지고 있습니다. 업계 구조조정 현황을 집계하는 아미르 사트바트(Amir Satvat) 트래커에 따르면, 2026년 확정 해고 인원이 지난 8월 11일 기준 10,140명을 기록했습니다. 이는 지난해 전체(9,175명)를 이미 뛰어넘은 수치입니다.
 
 연말 전망은 더 어둡습니다. 같은 트래커가 밝힌 올해 최종 해고 예상치는 14,666명으로, 전년 대비 약 60% 늘어납니다. 지난 4년을 통틀어 가장 많은 인원이 일자리를 잃은 기록(2024년 15,631명)에 근접하는 '역대 최악' 수준입니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 2022년부터 올해까지 5년 누적 해고 인원은 58,494명으로 추산됩니다. 이 기간 게임 유저는 늘어났지만, 팬데믹 시절 부풀었던 개발 스튜디오 규모가 수익화 실패와 함께 자금력이 크게 줄어든 상황이 반영된 결과로 풀이됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 북미가 절대적인 중심
 
 지역별로 보면 해고의 중심은 명확히 북미입니다. 전체 해고 이벤트의 66%, 피해 인원의 약 79%가 북미에서 발생했으며, 미국이 전체의 48%, 캐나다가 17%를 차지했습니다. 유럽은 이벤트 기준 약 30% 수준입니다.
@@ -65,13 +50,3 @@ hideDescription: true
 
 전 세계적 추이를 집계하는 다른 트래커(게임스인더스트리.biz 등)도 8월 11일 확정 수치보다 수백 명을 더 확인할 가능성이 있다고 경고했습니다. GTA 6가 연말 시장의 관심을 모두 흡수하면서 접근하는 기간, 소규모 개발사는 특히 힘이 빠지는 구간이 될 전망입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

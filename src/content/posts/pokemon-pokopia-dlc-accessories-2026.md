@@ -17,11 +17,8 @@ imageWidth: 1200
 imageHeight: 675
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
-
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
 
 포켓몬 포코피아의 두 번째 확장 콘텐츠가 올해 안에 추가됩니다.
 
@@ -51,17 +48,6 @@ hideDescription: true
 
 두두와 테르나, 에나비 합류은 포켓몬 포코피아의 재미가 어디에서 나오는지를 보여주는 부분입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 시스템 하나가 추가됐다는 사실보다 기존 플레이 흐름과 자연스럽게 이어지는지가 중요하고, 억지로 넣은 기능처럼 느껴지면 반복 플레이에서 금방 피로해질 수 있습니다.
 
 저는 이런 변화는 처음 몇 분보다 몇 시간 뒤 평가가 더 중요하다고 봅니다.
@@ -89,17 +75,6 @@ hideDescription: true
 생활형 게임에서 작은 외형 아이템이 오래 남는 이유입니다.
 
 기존 이용자와 처음 들어오는 이용자는 같은 변화를 다르게 받아들일 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 오래 플레이한 사람은 익숙한 방식의 변화에 민감하고 신규 이용자는 진입 장벽이 낮아졌는지를 먼저 봅니다.
 

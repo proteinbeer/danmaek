@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 2026년 2분기 세계 스마트폰 출하량은 전년 같은 기간보다 11퍼센트 줄었습니다. 메모리 부족과 부품 가격 상승, 소비 심리 둔화가 겹치면서 2분기 기준 2013년 이후 가장 낮은 수준까지 내려갔습니다.
 
 그런 상황에서 삼성전자는 점유율 24%로 세계 1위를 차지했습니다. 갤럭시 S26 시리즈가 힘을 보탰지만 삼성의 세계 1위는 고급형 하나만 잘 팔아서 나온 결과로 보기는 어렵죠.
@@ -46,17 +42,6 @@ hideDescription: true
 
 그리고 이게 삼성이 세계 출하량 1위를 지키는 데 A 시리즈가 중요한 이유입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 메모리 가격 상승과 저가폰
 
 2026년 스마트폰 시장을 흔드는 핵심 변수 가운데 하나는 디램과 낸드플래시 부족입니다. 같은 메모리 가격 상승이라도 고가 제품보다 저가 제품이 받는 충격이 더 큽니다.
@@ -73,17 +58,6 @@ hideDescription: true
 
 2분기처럼 전체 시장이 줄어든 상황에서 삼성의 점유율이 올라간 배경도 이런 구조와 연결해서 볼 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 애플은 다른 방식
 
 애플은 같은 2분기에 세계 출하량 점유율 20퍼센트를 기록했습니다. 2분기 기준 처음으로 20퍼센트에 도달했고 출하량도 전년보다 늘었습니다.
@@ -99,17 +73,6 @@ hideDescription: true
 그러면 소비자는 가능한 한 저렴한 제품을 오래 쓰거나 한번 살 때 가장 좋은 제품을 사서 오래 쓰는 방향으로 갑니다. 중간 가격대가 애매해지는 이유도 여기에 있습니다.
 
 그런데 삼성은 A 시리즈와 S 시리즈를 모두 가지고 있어 이런 양극화에 동시에 대응할 수 있죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 세계 1위보다 더 중요한 숫자
 

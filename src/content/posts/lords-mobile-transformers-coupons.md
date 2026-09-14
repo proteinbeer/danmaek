@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 로드모바일은 IGG가 개발·서비스하는 실시간 전략 모바일 SLG로, 2016년 글로벌 출시 후 6천만 명 이상이 즐긴 장수 게임입니다. 성 건설과 영웅 수집, 연맹 간 실시간 전투가 핵심이고, 2026년 8월에는 해스브로·타카라토미의 트랜스포머와 대규모 콜라보레이션이 열려 옵티머스 프라임, 범블비, 메가트론 등이 등장했습니다.
 
 트랜스포머 콜라보와 맞물려 지금 입력할 수 있는 코드가 많습니다. 콜라보 기념 코드와 월드컵 시즌 코드가 겹쳐 있어, 만료 날짜를 확인하고 빠른 것부터 입력하는 편이 좋습니다.
@@ -54,17 +50,6 @@ hideDescription: true
 - LMROLLOUT
 - WELCOMEDEFENDER
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 코드 입력 방법
 
 로드모바일은 게임 내 설정에서 입력하거나, 공식 교환 센터 웹 페이지에서 입력할 수 있습니다.
@@ -81,17 +66,6 @@ hideDescription: true
 로드모바일 코드는 계정당 1회만 사용할 수 있고 대소문자를 구분합니다. 코드 앞뒤에 공백이 들어가지 않도록 그대로 복사해 붙여넣는 편이 좋습니다.
 
 유효 기간이 정확히 안내되지 않는 코드가 많고, 잔여 수량이 소진되면 조기 종료되기도 합니다. 특히 KINGSWORLDS는 9월 9일까지이니 최대한 빨리 입력하시기 바랍니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 신규 코드 받는 법
 

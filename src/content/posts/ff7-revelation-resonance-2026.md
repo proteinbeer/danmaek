@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 9월 3일 스테이트 오브 플레이 무대에서 스퀘어 에닉스는 파이널 판타지 뉴스를 두 가지나 쏟아냈습니다. 지난 7년 동안 이어온 리메이크 3부작의 완결편 리벨레이션의 발매일을 정했고, 시리즈 최초의 HD-2D 작품인 리조넌스의 데모와 세피로스 등장을 알렸죠.
 
 둘은 표면적으로 많이 다릅니다. 하나는 최신 하드웨어의 위력을 극한까지 끌어올린 대형 실기 그래픽이고, 다른 하나는 픽셀아트의 한계를 파고드는 복고 스타일이죠. 하지만 그 안을 들여다보면 두 작품 모두 결국 같은 문제를 붙들고 있습니다. 바로 30년을 넘은 파이널 판타지라는 브랜드가 과거 팬과 새로운 세대를 어떻게 동시에 붙잡느냐는 것이죠.
@@ -46,17 +42,6 @@ hideDescription: true
 
 퀘스트도 재구성됩니다. 어떤 캐릭터가 리드를 맡을지 플레이어가 고를 수 있어, 같은 퀘스트라도 진행자가 누구냐에 따라 완전히 다른 경험이 됩니다. 출시 시점에는 스토리 확장 패스가 별도 판매되고, 이어서 스토리 DLC 두 개가 2027년 겨울에서 2028년 봄 사이에 나옵니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 다음 파이널 판타지의 실험, 리조넌스
 
 리메이크 3부작과 별개로, 스퀘어 에닉스는 같은 무대에서 완전히 다른 결의 파이널 판타지를 내놨습니다. 리조넌스는 시리즈 최초의 HD-2D 작품입니다. "파이널 판타지가 픽셀아트의 한계를 계속 밀어붙였다면 어땠을까"라는 질문에서 시작한 게임이죠.
@@ -72,17 +57,6 @@ hideDescription: true
 데모는 오늘 바로 내려받을 수 있고 본편 첫 장 전체를 포함합니다. 분량은 약 3～5시간이며, 세이브 데이터를 그대로 본편으로 이어갈 수 있습니다. 본편은 2026년 10월 22일 PS5, 닌텐도 스위치 2, 스위치, 엑스박스 시리즈 X|S, PC에서 출시됩니다.
 
 전투는 턴제를 발전시킨 것으로, 적의 약점을 공략해 스태거 상태로 만들면 추가 턴과 강력한 레조넌스 공격을 쓸 수 있습니다. 여기에 클라우드나 티더스, 빛의 전사 같은 시리즈 캐릭터의 에코인 '비전'을 소환해 함께 싸우는 시스템도 더해져, 초보에게는 턴제 RPG의 맛을, 팬에게는 향수를 제공합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 파이널 판타지라는 브랜드의 두 갈래
 

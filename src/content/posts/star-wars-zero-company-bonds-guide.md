@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 스타워즈 제로 컴퍼니를 다른 전술 게임과 구분하는 요소 중 하나가 유대 시스템입니다. 단순히 캐릭터 친밀도를 올리는 장식이 아니라, 실제 전투 효율과 빌드 폭을 넓혀 주는 핵심 성장 장치에 가깝습니다.
 
 공식 소개에서도 오퍼레이터들이 함께 싸우며 깊은 유대를 만들고, 이를 통해 전투 시너지와 새로운 능력을 얻는다고 설명합니다. 그래서 분대를 짤 때 강한 캐릭터만 모으는 것보다 누가 누구와 함께 다니는지가 중요해집니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 그래서 유대는 후반으로 갈수록 더 강해집니다. 개별 성능이 올라갈수록 관계 시너지까지 붙어 전투 선택지가 많아지기 때문입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 누가 누구와 어울리는가
 
 정답 조합이 하나로 정해진 것은 아니지만, 전방과 후방, 공격과 지원이 잘 맞물리는 조합은 체감이 좋습니다. 예를 들어 앞에서 받아 주는 캐릭터와 후방 정리 캐릭터, 혹은 취약 상태를 만들고 마무리하는 캐릭터는 자연스럽게 시너지가 납니다.
@@ -65,17 +50,6 @@ hideDescription: true
 
 먼저 주전 네 명 안에서 핵심 연결을 만들고, 이후 서브 조합을 넓혀 가시면 부담이 덜합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 전투 성향도 유대 운영에 영향을 준다
 
 같이 자주 움직이고 서로 지원 기회를 많이 만드는 조합이 유대 체감이 더 좋습니다. 반대로 각자 멀리 떨어져 자기 역할만 하는 조합은 성능은 나와도 관계 시너지를 체감하기가 어렵습니다.
@@ -87,17 +61,6 @@ hideDescription: true
 제로 컴퍼니는 전투만이 아니라 캐릭터와 영화적인 분위기를 강조하는 게임입니다. 유대 시스템은 이런 서사 감각을 게임 플레이와 연결해 주는 장치이기도 합니다.
 
 즉 효율만 챙기는 시스템이 아니라, 내가 만든 분대가 정말 팀처럼 느껴지게 하는 장점도 있습니다. 그래서 한 번 애착 조합이 생기면 몰입감이 더 커집니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 후반으로 갈수록 중요도가 올라간다
 

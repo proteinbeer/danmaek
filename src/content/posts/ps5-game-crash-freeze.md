@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 PS5에서 특정 게임이 갑자기 종료되거나 화면이 멈추면 본체 고장인지 게임 버그인지 판단하기 어렵습니다. 한 게임에서만 반복되는지, 여러 게임에서 동시에 발생하는지를 나누면 원인을 훨씬 빠르게 좁힐 수 있습니다.
 
 재설치부터 하기보다 업데이트와 저장 데이터 상태를 먼저 확인하는 편이 좋습니다.
@@ -41,17 +37,6 @@ PS5에서 특정 게임이 갑자기 종료되거나 화면이 멈추면 본체 
 
 업데이트 직후 문제가 시작됐다면 개발사 공지에서 알려진 오류가 있는지도 확인할 가치가 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 저장 데이터 문제 확인
 
 같은 지점에서만 반복해서 튕기면 특정 세이브 데이터가 손상됐을 가능성도 있습니다. 가능하다면 새 게임이나 다른 저장 슬롯으로 같은 구간을 테스트해봅니다.
@@ -64,17 +49,6 @@ PS5에서 특정 게임이 갑자기 종료되거나 화면이 멈추면 본체 
 
 용량이 큰 게임은 재다운로드 시간이 길기 때문에 앞 단계부터 확인하는 편이 효율적입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 발열과 통풍 확인
 
 여러 고사양 게임에서 장시간 플레이 후 튕김이 반복된다면 통풍 상태도 확인합니다. PS5 주변 공간이 막혀 있거나 먼지가 많이 쌓이면 내부 온도가 올라갈 수 있습니다.
@@ -86,17 +60,6 @@ PS5에서 특정 게임이 갑자기 종료되거나 화면이 멈추면 본체 
 시스템 업데이트, 캐시, 데이터베이스, 설치 파일을 확인했는데도 다양한 게임에서 계속 같은 증상이 난다면 하드웨어 문제 가능성이 높아집니다.
 
 오류 코드와 발생 조건을 기록해두면 공식 지원을 받을 때 원인을 설명하기 훨씬 쉽습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 설정 변경 뒤 확인할 부분
 
@@ -112,13 +75,3 @@ PS5 문제 해결은 무작정 초기화하는 것보다 재현 조건을 찾는
 
 PS5는 같은 증상이라도 계정, 게임 버전, 연결 장비에 따라 원인이 달라질 수 있습니다. 그래서 가장 최근에 바꾼 설정과 문제가 시작된 시점을 기준으로 하나씩 되돌려 확인하시면 불필요한 재설치와 초기화를 줄일 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

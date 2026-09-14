@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 더 블러드 오브 던워커에서 선택은 강력하지만 모든 대화가 동일한 무게를 가지는 것은 아닙니다. 어떤 장면을 바꾸는지, 어떤 보상이 바뀌는지, 아니면 아무것도 바뀌지 않는지가 선택지마다 다릅니다. 핵심은 결말을 가르는 몇 개의 결정과, 퀘스트 라인을 닫는 NPC 생존을 구분해서 저장하는 일입니다.
 
 이 글에서는 선택지가 실제로 손대는 네 가지 축(시간, 폭력, 생존, 보상과 동맹)을 기준으로 정리하고, 확인된 대표 사례와 함께 세이브를 남겨야 할 시점을 설명합니다.
@@ -46,17 +42,6 @@ hideDescription: true
 
 밤의 흡혈 상태도 일종의 선택입니다. 피가 한 칸 미만으로 낮아진 밤에 인간과 대화하면 억제를 잃고 상대를 죽이게 되며, 이름있는 NPC는 각본 보호를 받지 않습니다. 밤 대화 전에는 반드시 체력을 채워 둡니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. NPC 생존이 바꾸는 것
 
 이 게임에서 적대하지 않는 NPC의 죽음은 퀘스트 라인을 닫습니다. 마을 주민 하나로 시작되는 퀘스트가 없는 사람이 되어버리는 식이 아니라, 그 캐릭터를 매개로 열리던 후속 단계가 통째로 사라집니다. 전투 중 휘말리거나 밤의 굶주림으로 의도하지 않게 죽였다면, 저장을 되돌리는 것을 우선 고려합니다.
@@ -75,17 +60,6 @@ NPC를 굳이 제거해야 하는 경우도 있습니다. 잔테는 동맹 제�
 - 잔테의 동맹: '사이클 오브 러브'에서 동맹 제안을 받아들이면 성 최종전이 쉬워지고, 처단하면 코트 블러드의 즉시 회수가 열립니다.
 
 이 사례들이 시사하는 점은 결과가 '즉시' 오는 것과 '나중에 도착하는 것'이 섞여 있다는 사실입니다. 후자가 많으므로 분기 지점에서 파일을 남겨두고 지켜보는 방식이 확실합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 결말의 경계선
 
@@ -106,13 +80,3 @@ NPC를 굳이 제거해야 하는 경우도 있습니다. 잔테는 동맹 제�
 
 이 저장들을 퀘스트가 확인될 때까지 지우지 않고 유지하면 대부분의 실수를 되돌릴 수 있습니다. 선택의 무게가 무겁게 느껴지는 게 정상이며, 게임의 의도도 그 무거움을 맛보라는 것입니다. 다만 그중 핵심만 꿰면 며칠 전의 결정이 후회로 다가오는 일은 크게 줄어듭니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

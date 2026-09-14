@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 스타워즈 제로 컴퍼니 무기는 숫자만 보면 단순해 보이지만 실제 전투에서는 느낌 차이가 꽤 큽니다. 같은 공격이라도 행동 포인트 부담, 사거리, 치명타 기대값이 달라서 분대 운영 방식까지 바뀝니다.
 
 공식 무기 가이드를 기준으로 보면 핵심은 피해량보다 사용 방식입니다. 어떤 무기가 더 센가보다, 어떤 무기가 지금 내 특화와 전투 리듬에 맞는가를 먼저 보셔야 합니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 어설트나 건슬링어처럼 빠르게 굴리는 특화와 특히 잘 맞습니다. 화력 한 방은 약해도 턴 전체 유연성이 올라가는 장점이 분명합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 롱암 블라스터는 명확한 장거리 선택
 
 롱암 블라스터는 장거리 정밀 공격에 맞춘 무기입니다. 기본 피해와 치명 보너스가 높아 잘 들어가면 체감이 확실합니다.
@@ -65,17 +50,6 @@ hideDescription: true
 
 다만 공격에 몰빵하는 만큼 이동과 스킬 여유가 줄어듭니다. 그래서 안전한 자리 확보가 끝난 뒤, 확실히 밀어붙이는 턴에 빛을 봅니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 무기와 특화는 같이 봐야 한다
 
 공식 가이드에서도 초보자에게는 솔저나 어설트와 블라스터 라이플, 장거리 선호라면 샤프슈터와 롱암 블라스터, 기동전 선호라면 어설트나 건슬링어와 블라스터 피스톨을 추천합니다.
@@ -87,17 +61,6 @@ hideDescription: true
 처음 플레이에서는 높은 피해량보다 행동 여유가 체감상 더 강합니다. 한 턴 실수를 수습할 수 있느냐가 진행 속도에 더 큰 영향을 주기 때문입니다.
 
 그래서 무기 추천을 하나만 고르라면 초반은 블라스터 라이플 계열이 가장 무난합니다. 손에 익은 뒤에 기동형이나 저격형으로 취향을 넓혀 가시는 편이 좋습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 좋은 무기는 내 턴을 길게 만든다
 

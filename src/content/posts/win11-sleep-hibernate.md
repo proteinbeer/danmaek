@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 노트북 덮개를 닫았는데 다음 날 배터리가 줄어 있거나 가방 안에서 따뜻해져 있으면 절전 설정을 의심하게 됩니다.
 
 윈도우의 절전과 최대 절전은 비슷해 보이지만 전원을 사용하는 방식이 달라 사용 시간에 따라 선택도 달라집니다.
@@ -61,17 +57,6 @@ hideDescription: true
 
 기기 전원 구조에 따라 지원 방식이 다를 수 있어 메뉴에 없다면 먼저 사용할 수 있는 상태인지 확인해야 합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 전원 메뉴에 최대 절전 표시하기
 
 제어판의 전원 옵션에서 전원 단추의 작동 설정을 열면 종료 설정에 최대 절전 항목을 표시할 수 있습니다.
@@ -99,17 +84,6 @@ hideDescription: true
 노트북 제조사의 펌웨어 업데이트로 전원 문제가 개선되는 경우도 있습니다.
 
 윈도우 설정만 계속 바꾸기보다 같은 모델에서 알려진 전원 문제가 있는지 제조사 안내를 확인하는 것도 필요합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 종료와도 역할이 다르다
 
@@ -139,13 +113,3 @@ hideDescription: true
 
 전원 모드를 이해하면 배터리뿐 아니라 이동 중 발열 문제도 함께 줄일 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

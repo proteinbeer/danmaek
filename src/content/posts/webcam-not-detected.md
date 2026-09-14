@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 외장 웹캠을 연결했는데 줌이나 디스코드에서 카메라를 찾지 못하면 USB 고장부터 의심하기 쉽습니다.
 
 하지만 윈도우 11에서는 카메라 장치가 정상 인식돼도 개인정보 권한이 꺼져 있으면 앱에서 사용할 수 없죠.
@@ -57,17 +53,6 @@ hideDescription: true
 
 윈도우에서 허용했더라도 브라우저가 특정 사이트의 카메라 사용을 차단하면 화면이 나오지 않습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 다른 앱이 카메라를 잡고 있는지 확인
 
 일부 웹캠과 프로그램 조합에서는 한 앱이 카메라를 사용 중일 때 다른 앱이 접근하지 못할 수 있습니다.
@@ -88,17 +73,6 @@ hideDescription: true
 
 제품 설명에서 권장 포트를 확인하고, 같은 허브에 외장 SSD나 캡처보드를 동시에 연결한 경우에는 잠시 분리해보시는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 장치 관리자와 드라이버
 
 장치 관리자에서 카메라 항목이나 이미징 장치에 웹캠이 표시되는지 확인할 수 있습니다.
@@ -118,17 +92,6 @@ hideDescription: true
 제가 권하는 순서는 카메라 설정에서 장치 확인, 개인정보 권한 확인, 다른 앱 종료, USB 직접 연결, 다른 PC 테스트입니다.
 
 이 순서대로 보시면 소프트웨어 문제와 하드웨어 문제를 꽤 빠르게 나눌 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 회사 PC라면 관리자 정책도 확인
 

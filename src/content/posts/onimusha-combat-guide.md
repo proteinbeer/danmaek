@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 귀무자 웨이 오브 더 소드는 버튼 연타로 이겨주지 않는 게임입니다. 적의 공격 하나하나를 읽고 밀려오는 위협에 맞는 방어기를 골라 쓰는 구조라서, 어떤 기술을 언제 쓰느냐가 실력 차이를 만듭니다. 미야모토 무사시가 가진 여덟 가지 대응책을 상황에 맞게 꺼내는 순간, 막 막는 플레이에서 읽고 반격하는 플레이로 전환이 일어납니다.
 
 이 글에서는 방어 4종과 잇센 계열의 판정, 소울 경제와 오니 아머먼트, 게이지 운영까지 이 게임의 전투 골격을 순서대로 정리했습니다. 일본어 가이드와 영어 공략을 종합해 혼자 헤매기 쉬운 타이밍 감각을 다듬는 데 초점을 맞췄습니다.
@@ -46,17 +42,6 @@ hideDescription: true
 
 브레이크 잇센은 적의 스태미나를 완전히 고갈시켜 경직 상태로 만든 뒤 발동하는 확정 처형입니다. 스태미나를 깎는 주력은 디플렉트와 지속 압박이며, 보스전에서는 몸 부위를 골라 때리는 방식이라 어느 부위를 공략할지 상황에 따라 달라집니다. 일반 적이라면 즉사급, 강적이라면 큰 피해와 부위 보너스를 함께 노리는 것이 핵심입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 느린 적을 노리는 연습법과 타이밍 감각
 
 잇센의 타이밍은 감각보다 분해가 먼저입니다. 적의 공격은 대체로 무기를 뒤로 빼는 준비 동작, 가장 멀리 당겨지는 순간, 그리고 앞으로 휘두르는 진행 동작으로 나뉩니다. 공격 버튼은 적이 막 공격을 시작했을 때가 아니라 무기가 뒤로 빠졌다가 앞으로 나아가는 전환 지점에 누르는 것이 정답입니다.
@@ -72,17 +57,6 @@ hideDescription: true
 소울 회수를 잊으면 빈사 상태로 다음 전초에 들어가게 됩니다. 흡수 중에는 무방비 상태이므로, 근처 위협을 먼저 정리하거나 공간을 벌린 뒤 안전한 지점에서 회수하는 것이 원칙입니다. 이동하며 흡수가 되는 기술을 일찍 열어두면 정지 상태의 리스크를 줄일 수 있습니다.
 
 두개의 천검(투 셀레스티얼스) 같은 무기는 맞힐 때마다 노란 소울을 끌고 와서 공격과 회복을 동시에 해결합니다. 깨끗한 처형일수록 더 많은 소울이 나오므로, 잇센과 브레이크 잇센을 자주 성공시킬수록 자원 회전이 빨라지는 상승 구조입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 무기 여섯 종과 오니 아머먼트
 
@@ -100,13 +74,3 @@ hideDescription: true
 
 의약 주머니 용량 확장을 초반에 늘리고, 스태미나 강화에 빨간 소울을 우선 투자하며, 보스 앞에서는 길게 몰아치기보다 짧게 치고 빠지는 전술을 고르십시오. 방어 연출을 먼저 익히면 잇센의 성공률은 따라옵니다. 몰라서 지는 것이 아니라 타이밍을 읽지 못해 지는 게임이므로, 연습장에서의 반복 학습이 가장 확실한 성장 경로입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

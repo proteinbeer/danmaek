@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 초대 툼레이더가 약 1와트 전력을 쓰는 소형 마이크로컨트롤러 보드에서 플레이 가능한 수준으로 구동됐습니다.
 
 25달러 아래 개발 보드에서 1024 곱하기 600 해상도까지 구현했습니다.
@@ -50,17 +46,6 @@ hideDescription: true
 수백 와트 GPU가 흔한 시대에 게임을 돌리는 최소 자원을 생각하게 만드는 실험입니다.
 
 초기 발표만으로 장기 영향을 단정하기는 어렵습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 실제 제품과 정책이 공개된 방향을 꾸준히 유지하는지 확인하는 과정이 필요합니다.
 
@@ -93,17 +78,6 @@ AI 모델과 데이터가 커질수록 한 칩 안에서 끝낼 수 없고 여�
 화면과 입력 장치를 붙이면 소형 휴대 게임기 제작도 가능합니다.
 
 새 기술이 빠르게 확산될수록 표준과 책임의 문제도 함께 커집니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 한 회사의 기능으로 시작해도 다른 서비스와 연결되는 순간 호환성과 검증 방식이 중요해집니다.
 

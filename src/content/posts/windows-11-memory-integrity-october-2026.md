@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 마이크로소프트가 10월부터 더 많은 윈도우 11 PC에서 메모리 무결성 기능을 자동으로 활성화합니다.
 
 커널 공격을 막는 보안 기능이지만 일부 시스템에서는 게임 성능이 줄어들 수 있습니다.
@@ -50,17 +46,6 @@ hideDescription: true
 일반 백신과 다른 깊은 보호 계층입니다.
 
 기술 발표는 기능표보다 실제 사용 환경에서 의미가 갈립니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 보안과 가격, 개인정보, 전력 같은 보이지 않는 조건이 따라오지 않으면 편리함만으로 오래 쓰기 어렵습니다.
 
@@ -93,17 +78,6 @@ hideDescription: true
 기존 선택을 유지합니다.
 
 초기 발표만으로 장기 영향을 단정하기는 어렵습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 실제 제품과 정책이 공개된 방향을 꾸준히 유지하는지 확인하는 과정이 필요합니다.
 

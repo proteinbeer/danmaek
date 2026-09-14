@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 몬스터헌터 와일즈의 무기는 방어구와 달리 '레벨 업'이 아니라 무기 트리를 따라 한 단계씩 업그레이드하는 방식입니다. 어느 몬스터의 재료로 어떤 라인이 열리는지, 원하는 분기를 타려면 어떤 순서로 강화해야 하는지 미리 알면 재료를 낭비하지 않습니다. 처음 무기 트리를 열면 분기가 많아 보이지만, 원리는 단순합니다.
 
 이 글은 제니아 정비소에서 무기를 만들고 업그레이드하는 흐름부터 뼈/금속 두 기본 라인의 차이, 레시피 해금 조건, 위시리스트 활용법, 분기 선택 요령, 그리고 엔드게임 아르티안 전환까지를 차례로 정리합니다.
@@ -41,17 +37,6 @@ hideDescription: true
 
 입문 시점에는 뼈 라인 무기가 재료 수급이 쉬워 가장 빠르게 공격력을 끌어올리는 선택입니다. 두 기본 무기 모두 견문만으로 재제작이 가능하므로, 지금 무기를 강화해도 나중에 기본 무기를 다시 사서 다른 분기를 탈 수 있습니다. 어느 쪽을 먼저 타도 손해볼 일이 없다는 뜻입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 무기 트리 읽는 법과 레시피 해금 조건
 
 무기 트리의 각 분기는 특정 몬스터의 재료와 연결되어 있습니다. 새 몬스터를 처음 쓰러뜨리면 그 재료를 쓰는 무기 레시피가 자동으로 열리고, 아직 보지 못한 무기는 '????'로 표시됩니다. '????'는 핵심 재료를 하나라도 손에 넣는 순간 이름과 요구 재료가 드러납니다.
@@ -62,17 +47,6 @@ hideDescription: true
 트리 중간에 있는 무기를 처음부터 '단조(직접 제작)'하면 재료를 더 많이 요구합니다. 반면 앞쪽 노드를 순서대로 업그레이드하면 같은 무기를 최소 재료로 만들 수 있어, 초중반에는 업그레이드가 단조보다 경제적입니다. 목표가 결정되면 '업그레이드 경로'로 가는 것이 정석입니다.
 
 다음 업그레이드가 정해졌다면 서브메뉴에서 해당 무기를 위시리스트에 추가해 두세요. 재료가 전부 모이면 게임이 알림을 띄워 주므로, 다른 사냥에 집중하다가도 순간을 놓치지 않습니다. 재료 파밍은 갈무리와 포획 보상만이 아니라 부위 파괴와 상처 파괴 보상으로도 나오므로, 상처 시스템을 활용하면 특정 소재를 훨씬 빨리 모을 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 무기 분기 선택과 재제작으로 라인 변경
 
@@ -86,13 +60,3 @@ hideDescription: true
 
 아르티안은 강력하지만 재료가 하이랭크 후반 전용입니다. 따라서 스토리 퀘스트에서 아르티안이 열리더라도, 표준 트리 무기가 아직 R7이 안 됐다면 표준 강화를 이어가는 것이 가성비가 좋습니다. 표준 무기가 R7에 도달했다면 메인 무기를 아르티안으로 전환하고, 원소 대응용으로 표준 트리를 나란히 유지하는 구성이 엔드게임의 정석입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

@@ -18,10 +18,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 VPS 가상 서버는 같은 사양이라도 업체에 따라 월 요금이 두세 배까지 차이납니다. 단순히 RAM과 코어 숫자만 비교하면 왜 그런 차이가 나는지 알 수 없죠. 가격표에 안 보이는 트래픽과 백업, 리전 정책이 실사용 비용을 좌우합니다.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/network-guide-common.jpg" alt="VPS 서버와 데이터센터 네트워크 환경" width="1200" height="675" loading="lazy" decoding="async" />
@@ -37,17 +33,6 @@ VPS는 한 대의 물리 서버를 여러 가상 서버로 나눠 쓰는 구조�
 같은 2코어 4GB 구성이라도 트래픽 제공량, 백업 포함 여부, 공인 IP 개수, 데이터센터 위치에 따라 금액이 크게 갈립니다.
 
 예를 들어 기본 트래픽이 1TB인 요금제와 20TB인 요금제는 실사용 비용이 완전히 다릅니다. 트래픽을 초과하면 GB당 과금이 발생하는 업체가 있는가 하면, 초과분은 속도만 제한하는 업체도 있죠. 가격표의 숫자만 보면 안 되는 이유입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 3. 비교할 때 꼭 봐야 할 네 가지
 
@@ -69,17 +54,6 @@ VPS는 한 대의 물리 서버를 여러 가상 서버로 나눠 쓰는 구조�
 
 한국 사용자만 상대하고 결제나 문자의 국내 연동이 필요하다면 국내 업체가 맞고, 취미 서버나 비용 절감이 중요하다면 해외 업체가 훨씬 유리합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 가격만 보고 타면 안 되는 이유
 
 VPS는 계약 후 옮기기 어렵습니다. 데이터를 백업하고 새 서버에 복원하는 과정이 필요하고, 도메인 연결까지 바꿔야 하죠. 가격이 싼 요금제라고 해서 해지 조건이나 자동 갱신 정책까지 좋은 것은 아닙니다.
@@ -90,13 +64,3 @@ VPS는 계약 후 옮기기 어렵습니다. 데이터를 백업하고 새 서�
 
 VPS 선택은 RAM 숫자가 아니라 **트래픽, 백업, 리전, 관리형 여부**로 결정하시면 됩니다. 취미 서버라면 월 5천 원 안팎의 해외 저가형으로 충분하고, 비즈니스라면 백업과 지원이 확실한 상품을 고르는 편이 안전합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

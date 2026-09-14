@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 프라그마타를 오래 진행했거나 100퍼센트 수집과 루나틱까지 노리신다면 세이브 파일을 한 번 따로 백업해 두는 편이 좋습니다. 스팀 클라우드를 지원하지만 수동 백업까지 하나 만들어 두면 재설치와 저장 손상, PC 이동 상황에서 훨씬 마음이 편합니다.
 
 PC 스팀판은 세이브가 게임 설치 폴더가 아니라 스팀 사용자 데이터 안쪽에 들어갑니다. 경로만 알고 있으면 전체 폴더를 복사하는 방식으로 간단히 보관할 수 있습니다.
@@ -42,17 +38,6 @@ PC에서 여러 스팀 계정을 사용했다면 유저데이터 안에 숫자 �
 
 무작정 파일을 열거나 편집하기보다 폴더 단위로 확인하는 편이 안전합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 백업은 전체 폴더 복사
 
 세이브 파일 하나만 골라 복사하기보다 3357650 폴더 또는 win64 save 폴더 전체를 별도 위치에 복사하는 방식을 추천합니다. 여러 데이터가 함께 관리될 수 있어 일부만 빼면 복구가 꼬일 수 있습니다.
@@ -65,17 +50,6 @@ PC에서 여러 스팀 계정을 사용했다면 유저데이터 안에 숫자 �
 
 중요한 보스 전이나 100퍼센트 정리 직전에는 클라우드만 믿기보다 수동 백업을 하나 더 만드는 편이 안전합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 복구 전 원본부터 보관
 
 세이브를 되돌릴 일이 생겼다면 현재 파일을 바로 덮어쓰지 마십시오. 먼저 현재 저장을 다른 폴더에 복사한 뒤 백업본을 넣어 테스트하는 편이 좋습니다.
@@ -87,17 +61,6 @@ PC에서 여러 스팀 계정을 사용했다면 유저데이터 안에 숫자 �
 본편을 끝내고 뉴 게임 플러스나 루나틱으로 넘어가기 전에는 클리어 저장을 따로 보관해 두면 편합니다. 언노운 시그널 수집 정리를 나중에 다시 하고 싶을 때 돌아갈 수 있기 때문입니다.
 
 엔드게임과 새 회차를 동시에 진행할 계획이라면 저장 백업 가치가 특히 큽니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 세이브 편집은 추천하지 않는다
 
@@ -117,13 +80,3 @@ PC와 콘솔 모두 업데이트 이후 동작이 달라질 수 있으므로 예
 
 문제가 해결됐을 때는 바꾼 설정을 하나씩 되돌려 어느 항목이 원인이었는지 확인해 두시면 좋습니다. 다음 패치에서 비슷한 문제가 생겨도 바로 비교할 기준이 생겨 불필요한 재설치나 설정 초기화를 줄일 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

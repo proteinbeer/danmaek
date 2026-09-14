@@ -18,10 +18,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 거실에서는 잘 되던 와이파이가 안방에서 자꾸 끊긴다면 메시 와이파이가 해결책일 수 있습니다. 여러 기기를 하나의 네트워크처럼 묶어 집안 구석까지 덮는 원리와 설치 요령을 정리했습니다.
 
 와이파이는 거리가 멀어질수록 약해지고 벽이나 문이 있으면 속도가 떨어집니다. 평수가 크거나 벽이 많은 집은 하나의 공유기로는 끝까지 덮기 어려운데, 이때 확장기가 자주 해결책으로 언급됩니다. 다만 확장기는 네트워크 이름이 갈리거나 느려지는 단점이 있습니다. 메시 와이파이는 기기들이 서로 연결되어 하나의 네트워크처럼 동작해서, 방을 이동해도 끊김 없이 이어지는 것이 핵심입니다.
@@ -44,17 +40,6 @@ hideDescription: true
 
 메시 와이파이는 노드들이 전용 무선 또는 유선 경로로 서로 연결되기 때문에, 확장기와 달리 한 노드가 병목이 되어도 다른 경로로 우회합니다. 그래서 넓은 공간에서도 속도 저하가 상대적으로 적은 것입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 설치 위치 잡는 요령
 
 노드는 한 집의 가운데 방향에 골고루 배치해야 합니다. 벽 속이나 금속 가구 옆은 피하는 것이 기본입니다.
@@ -69,17 +54,6 @@ hideDescription: true
 메시 와이파이에서 노드 간 연결을 **백홀**이라고 하는데, 무선에 비해 유선이 빠르고 안정적입니다. 방마다 랜 포트가 있거나, 홈 네트워킹이 되어 있는 집이라면 노드를 유선으로 연결해보세요. 유선 백홀을 쓰면 무선 채널이 온전히 기기 연결에만 쓰여 대역폭이 늘어납니다.
 
 유선이 여의치 않다면 최신 Wi-Fi 표준(예: Wi-Fi 6/6E, 7) 지원 제품을 고르는 것이 좋습니다. 무선 백홀 전용 대역을 지원하는 제품은 유선 없이도 속도가 준수합니다. 구매 전에 **무선 백홀 전용 주파수** 지원 여부를 확인하면 도움이 됩니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 속도가 기대보다 안 나올 때
 

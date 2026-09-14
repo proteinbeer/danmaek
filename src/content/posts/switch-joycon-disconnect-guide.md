@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 조이콘은 스위치를 쓰면서 가장 흔하게 문제가 생기는 부품입니다. "아무것도 안 눌렀는데 캐릭터가 혼자 움직인다"(드리프트)거나, "앞에 있는데 연결이 자꾸 끊긴다"는 증상이 대표적이죠.
 
 그런데 이런 증상들 중 상당수는 설정만으로 해결됩니다. 새 조이콘을 사기 전에 아래 순서대로 확인해보시기 바랍니다.
@@ -50,17 +46,6 @@ hideDescription: true
 
 청소는 본체를 열 필요 없이 스틱 주변만으로 시도할 수 있습니다. 그래도 떨림이 계속된다면 스틱 부품의 수명 문제로 보고 교체를 검토합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 연결 끊김의 처음 확인 대상
 
 연결이 자주 끊기는 문제는 조이콘보다 **본체의 연결 상태**가 먼저 원인인 경우가 많습니다.
@@ -80,17 +65,6 @@ hideDescription: true
 - 조이콘도 본체 업데이트 때 함께 펌웨어가 갱신되는 구조입니다.
 - 게임마다 컨트롤러를 다르게 인식하는 경우가 있으니, 특정 게임에서만 끊기면 그 게임의 설정(진동, 모션)을 확인합니다.
 - 모션(자이로) 사용 게임에서 끊기면 센서 교정(설정 → 컨트롤러와 센서 → 자이로 보정)을 실행합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 교체를 결정하기 전에
 
@@ -113,13 +87,3 @@ hideDescription: true
 
 조이콘은 기본적으로 소모품입니다. 보정과 청소로 수명을 연장하고, 교체 시점을 결정하는 기준을 알아두시면 불필요한 지출을 막을 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

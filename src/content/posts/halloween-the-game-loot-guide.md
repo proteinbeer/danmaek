@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 할로윈 더 게임의 민간인은 맵 곳곳의 상자를 수색해 무기, 방해 도구, 탈출에 필요한 핵심 아이템을 확보합니다. 하지만 아이템과 탈출 위치가 매치마다 달라질 수 있기 때문에 정해진 상자 동선만 외우는 방식은 오래 통하지 않습니다.
 
 중요한 것은 무엇을 얻었는지보다 그 물건이 현재 판에서 어떤 목표를 열어 주는지 판단하는 것입니다. 가방을 꽉 채우는 것과 탈출 준비를 실제로 진행하는 것은 전혀 다른 일입니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 마이클은 완전히 죽일 수 없는 존재이고 반복적인 방해 효과에도 감소 효과가 적용됩니다. 전투 아이템은 처치보다 위험한 순간을 한 번 넘기는 자원이라고 생각하시면 낭비가 줄어듭니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 방해 도구는 위치를 바꾸기 위해
 
 소리를 내거나 시선을 흔드는 도구는 마이클을 영구적으로 막지 못하지만 짧은 시간 동안 다른 방향을 보게 만들 수 있습니다. 그 사이 주민을 이동시키거나 탈출 작업을 마치고, 붙잡힌 팀원을 구하는 식으로 목표와 연결하는 것이 좋습니다.
@@ -64,17 +49,6 @@ hideDescription: true
 탈출에 필요한 주요 물건을 찾았다면 혼자 들고 맵 반대편으로 이동하기보다 팀이 알고 있는 탈출 후보와 연결해야 합니다. 다른 플레이어가 이미 필요한 작업을 진행하고 있을 수도 있고, 더 안전한 탈출 루트가 발견됐을 수도 있습니다.
 
 아이템 위치가 고정되지 않는 게임에서는 정보 공유 자체가 공략입니다. 무엇을 찾았는지와 어디로 가져갈지 정한 뒤 움직이면 같은 지역을 여러 번 왕복하는 일을 줄일 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 임기응변 능력치 활용
 
@@ -89,17 +63,6 @@ hideDescription: true
 그렇다고 모든 수리 키트를 발견할 때까지 맵을 비울 필요는 없습니다. 필요한 만큼 확보됐다면 탈출 준비로 넘어가고 남은 시간은 주민과 경찰, 마이클 위치 파악에 쓰는 편이 좋습니다.
 
 루팅은 할로윈 더 게임에서 중요한 행동이지만 목표가 없는 수색은 시간을 많이 먹습니다. 상자 하나를 열 때마다 지금 필요한 것이 전투인지 탈출인지 주민 구조인지 판단하면 아이템 운용이 훨씬 명확해집니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 필요 없는 아이템을 오래 들지 않기
 

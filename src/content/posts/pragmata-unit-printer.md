@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 유닛 프린터는 프라그마타에서 발견한 장비를 실제 빌드로 바꾸는 설비입니다. 필드에서 무기나 청사진을 한 번 주웠다고 해서 모든 것이 자동으로 영구 장비가 되는 것이 아니라, 쉴터에서 프린트하고 강화해야 다음 출격에서도 안정적으로 활용할 수 있습니다.
 
 펌웨어 업데이터가 휴와 다이애나의 기본 능력치를 올리는 곳이라면, 유닛 프린터는 선택지를 넓히는 곳입니다. 여기서 무엇을 먼저 찍느냐에 따라 전투 스타일이 확 달라집니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 이 차이를 모르고 지나가면 분명 전에 썼던 무기가 로드아웃에 없어서 당황할 수 있습니다. 새 장비를 발견했다면 쉴터 복귀 후 프린터부터 확인하시면 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 공격 유닛 우선순위
 
 초반에는 쇼크웨이브 건처럼 가까운 거리에서 확실한 피해와 경직을 주는 장비가 쓰기 편합니다. 보스와 원거리 전투가 늘어나면 차지 피어서 같은 단일 대상 공격 유닛 가치가 올라갑니다.
@@ -65,17 +50,6 @@ hideDescription: true
 
 해킹이 어렵다면 공격 유닛보다 전술 유닛에 먼저 재료를 쓰는 선택도 충분히 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 방어 유닛도 하나는 챙긴다
 
 디코이 제너레이터, 임팩트 배리어, 드론 하이브 같은 방어 유닛은 휴가 해킹 화면을 보는 동안 시간을 벌어줍니다. 특히 다수전에서는 공격 하나를 더 넣는 것보다 적 시선을 분산시키는 편이 훨씬 안전할 수 있습니다.
@@ -87,17 +61,6 @@ hideDescription: true
 후반 장비와 고급 옵션 중에는 루나필라멘트 외에 순수 루넘 같은 희귀 자원을 요구하는 경우가 있습니다. 이런 장비는 강하지만 무작정 전부 찍기 어렵습니다.
 
 한정 자원은 내가 실제로 쓰는 빌드에 맞춰 투자하시는 편이 좋습니다. 전투 스타일이 정해지기 전에는 조금 아껴 두는 것도 방법입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 유닛 프린터는 빌드 저장소다
 
@@ -117,13 +80,3 @@ hideDescription: true
 
 강화 결과는 메뉴 숫자보다 실제 전투에서 판단하시면 됩니다. 같은 적을 상대로 해킹 시간과 오픈 후 처치 속도, 피격 여유가 얼마나 달라졌는지 보면 다음 투자 방향도 자연스럽게 잡힙니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

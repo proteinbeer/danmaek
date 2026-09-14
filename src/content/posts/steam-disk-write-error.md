@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 게임을 다운로드하는 중 디스크 쓰기 오류가 뜨면 네트워크가 끊긴 것으로 생각하기 쉽습니다.
 
 하지만 이 오류는 스팀이 받은 데이터를 저장장치에 기록하지 못할 때 나타나는 경우가 많아 인터넷보다 디스크 공간과 폴더 권한을 먼저 확인해야 하죠.
@@ -53,17 +49,6 @@ hideDescription: true
 
 게임은 다시 받을 수 있지만 저장장치가 실제로 고장나는 상황에서는 개인 파일 복구가 더 어려워질 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 보안 프로그램과 격리 확인
 
 백신이나 랜섬웨어 보호 기능이 새 실행 파일을 의심해 기록을 막는 경우도 있습니다.
@@ -84,17 +69,6 @@ hideDescription: true
 
 무작정 스팀을 항상 관리자 권한으로 실행하기 전에 폴더 자체가 정상적으로 쓰기 가능한 상태인지 보는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 다운로드 캐시와 라이브러리 복구
 
 저장장치에 특별한 이상이 없는데 다운로드가 같은 위치에서 계속 실패한다면 스팀 다운로드 캐시를 정리하고 다시 시도할 수 있습니다.
@@ -114,17 +88,6 @@ PC에 다른 SSD가 있다면 같은 게임을 다른 라이브러리에 설치�
 저는 디스크 쓰기 오류를 다운로드 오류라는 이름만 보고 인터넷 문제로 보는 것이 가장 흔한 헛걸음이라고 생각합니다.
 
 공간, 디스크 상태, 보안 프로그램, 권한 순서로 확인하면 원인을 훨씬 빠르게 좁힐 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 오류가 반복되면 중요한 파일부터 백업
 

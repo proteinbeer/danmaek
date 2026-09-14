@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 소울 나이트는 중국 인디 개발사 칠리룸(ChillyRoom)이 만든 로그라이트 런앤건 게임입니다. 2017년 2월 출시 후 꾸준히 사랑받아 온 작품으로, 다양한 무기와 랜덤 던전이 특징이죠.
 
 소울 나이트 쿠폰은 보석(젬)을 비롯해 씨앗과 비료 같은 육성 재료를 줍니다. 특히 발매 후 오랫동안 유지됐던 코드가 많아서, 코드 몇 개만 입력해도 흔들림 없이 시작할 수 있는 게임이죠.
@@ -70,17 +66,6 @@ hideDescription: true
 
 입력했는데 반응이 없다면 이미 사용한 코드이거나 오타가 난 경우가 많습니다. 다른 코드로 다시 시도해 주시기 바랍니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 오래된 코드도 찾아보면
 
 소울 나이트는 오프라인에서도 동작하는 게임이기 때문에 스마트폰 시간 설정을 활용하면 만료된 코드를 다시 입력할 수 있다는 팁이 있습니다.
@@ -97,13 +82,3 @@ hideDescription: true
 
 새 쿠폰은 칠리룸 공식 커뮤니티와 소셜 채널에서 공개됩니다. 기간이 제한된 코드가 있으니 공개 소식을 자주 확인하면 놓치지 않습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

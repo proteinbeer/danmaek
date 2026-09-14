@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 복사와 붙여넣기를 많이 하다 보면 방금 전에 복사했던 내용을 다시 찾느라 원래 문서로 돌아갈 때가 있습니다.
 
 윈도우 11의 클립보드 기록을 켜두면 가장 최근 항목 하나가 아니라 여러 개의 복사 기록을 다시 불러올 수 있습니다.
@@ -61,17 +57,6 @@ hideDescription: true
 
 계속 남겨두고 싶은 문구는 고정 기능을 사용하는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 자주 쓰는 문장은 고정
 
 클립보드 기록 창에서 자주 쓰는 항목을 고정하면 다른 기록이 밀려나도 남겨둘 수 있습니다.
@@ -99,17 +84,6 @@ hideDescription: true
 기능이 있다고 전부 켜야 하는 것은 아닙니다.
 
 한 PC에서 기록만 쓰는 것과 여러 기기 동기화를 사용하는 것은 별개의 선택입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 단순하지만 체감이 큰 기능
 
@@ -139,13 +113,3 @@ hideDescription: true
 
 복사한 주소와 문장 안에 개인정보가 섞일 수 있기 때문에 편의 기능을 켜는 것과 사용 뒤 정리하는 것은 함께 가야 합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

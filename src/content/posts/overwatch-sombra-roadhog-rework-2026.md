@@ -17,11 +17,8 @@ imageWidth: 1200
 imageHeight: 675
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
-
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
 
 오버워치 시즌 5에서 솜브라와 로드호그가 다시 크게 바뀝니다. 신규 맵 워치포인트 그림스보튼도 추가되지만 장기간 밸런스 논쟁의 중심이었던 두 영웅의 개편이 실제 게임 흐름에는 더 큰 영향을 줄 수 있습니다.
 
@@ -41,17 +38,6 @@ hideDescription: true
 
 새로운 결정은 갑자기 나온 것처럼 보여도 이전 작품의 반응과 시장 변화가 쌓인 결과인 경우가 많습니다. 과거 방식을 그대로 반복하기 어려워진 지점에서 어떤 문제를 해결하려는지 보면 선택의 이유가 더 선명해집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 신규 맵 워치포인트 그림스보튼
 
 이번 개편이 단순한 피해량 조정이 아니라 플레이 패턴 자체를 바꾸는 방향이라면 영웅 선택률과 조합이 크게 움직일 수 있습니다. 신규 맵도 이런 변화와 동시에 들어오기 때문에 초반에는 기존 상성이 그대로 통하지 않을 가능성이 있습니다.
@@ -67,17 +53,6 @@ hideDescription: true
 밸런스 문제는 숫자를 낮추는 것만으로 해결되지 않을 때가 많습니다. 상대가 대응할 여지가 있는지, 사용자가 재미를 느끼는지까지 함께 손봐야 해서 리워크가 성공하면 영웅의 평가가 완전히 바뀔 수 있습니다.
 
 개인적으로는 이 지점이 가장 흥미롭습니다. 눈에 띄는 발표 하나보다 이런 방향 변화가 다른 작품과 서비스에도 반복될 때 회사 전체의 전략으로 굳어지는 경우가 많기 때문입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 기술 수치와 상성은 시즌 5에서 확인
 

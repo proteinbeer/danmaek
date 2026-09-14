@@ -1,4 +1,4 @@
-﻿---
+---
 title: "마블 울버린 평가가 갈린다, PS5 독점 기대만큼 강하지 않았던 부분"
 description: "인섬니악의 마블 울버린 리뷰가 공개되면서 기대와 다른 반응도 나오고 있습니다."
 date: 2026-09-12T12:00:00
@@ -17,11 +17,8 @@ imageWidth: 1200
 imageHeight: 675
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
-
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
 
 인섬니악의 마블 울버린 리뷰가 공개되면서 기대와 다른 반응도 나오고 있습니다.
 
@@ -61,17 +58,6 @@ hideDescription: true
 
 아직 폭력 수위 자체가 재미를 보장하는 것은 아니라 전투 반복성도 함께 봐야 합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 독점작에 높아진 기준
 
 PS5 독점 대작은 그래픽과 연출뿐 아니라 새로운 시스템까지 기대받습니다.
@@ -100,17 +86,6 @@ PS5 독점 대작은 그래픽과 연출뿐 아니라 새로운 시스템까지 
 
 기대가 큰 작품일수록 작은 단점도 더 크게 보일 수 있습니다라는 점은 함께 보셔야 합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. PC 이용자는 더 기다려야 한다
 
 현재 울버린은 플레이스테이션 5 중심의 독점작으로 주목받고 있습니다.
@@ -138,14 +113,24 @@ PS5 독점 대작은 그래픽과 연출뿐 아니라 새로운 시스템까지 
 특히 관련 회사가 어떤 부분을 계속 유지하고 어떤 부분을 수정하는지가 중요합니다.
 
 결국 지금 단계에서는 화제성보다 실제 제품과 서비스가 어떻게 달라지는지 확인하는 것이 가장 현실적인 접근입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
+---
+title: "마블 울버린 평가가 갈린다, PS5 독점 기대만큼 강하지 않았던 부분"
+description: "인섬니악의 마블 울버린 리뷰가 공개되면서 기대와 다른 반응도 나오고 있습니다."
+date: 2026-09-12T12:00:00
+updated: 2026-09-12T12:00:00
+category: "뉴스"
+subcategory: "게임"
+tags:
+  - "마블 울버린"
+  - "PS5"
+  - "리뷰"
+  - "인서모니악"
+  - "독점작"
+image: "/assets/posts/news-images/wolverine-review-2026-01.jpg"
+imageAlt: "마블 울버린 평가가 갈린다, PS5 독점 기대만큼 강하지 않았던 부분"
+imageWidth: 1200
+imageHeight: 675
+hideHeroImage: true
+hideDescription: true
+draft: true
+---

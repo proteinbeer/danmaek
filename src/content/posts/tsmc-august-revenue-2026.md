@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 TSMC의 2026년 8월 매출이 약 5148억 대만달러로 집계됐습니다.
 
 전년 같은 달보다 53.3% 증가했고 7월보다도 10.1% 늘었습니다.
@@ -30,7 +26,6 @@ TSMC의 2026년 8월 매출이 약 5148억 대만달러로 집계됐습니다.
 엔비디아와 AMD, 애플이 어떤 칩으로 경쟁하느냐에 관심이 몰리지만 그 칩을 실제로 찍어내는 TSMC는 여러 승자에게 동시에 돈을 받습니다.
 
 AI 경쟁에서 가장 안정적인 위치가 어디인지 보여주는 숫자입니다.
-
 
 <img class="post-landscape-image post-landscape-image--high" src="/assets/posts/news-images/tsmc-august-revenue-2026-01.jpg" alt="TSMC 한 달 매출 53퍼센트 늘었다, AI칩 승자는 따로 있다" width="1920" height="1080" loading="lazy" decoding="async" />
 
@@ -54,17 +49,6 @@ AI 가속기와 스마트폰용 첨단 칩 수요가 함께 고급 공정 생산
 
 TSMC는 특정 브랜드 하나가 아니라 전체 기술 경쟁의 생산 기반에 돈을 받는 셈입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. AI칩이 공장을 바꾼다
 
 과거 반도체 공정 경쟁의 중심은 스마트폰과 PC CPU였습니다.
@@ -85,17 +69,6 @@ AI 투자도 경기와 수요 전망에 따라 조정될 수 있습니다.
 
 그래서 한 달 기록보다 여러 분기 동안 고급 공정 수요가 유지되는지 보는 편이 더 중요합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 삼성과 인텔에도 의미가 크다
 
 TSMC 매출이 커진다는 건 경쟁 파운드리 입장에서는 시장이 크다는 긍정적 신호이면서 격차가 커진다는 부담이기도 합니다.
@@ -115,17 +88,6 @@ AI 모델 이야기를 보면 소프트웨어가 세상을 바꾸는 것처럼 �
 저는 TSMC 매출 기록이 AI 붐을 가장 현실적으로 보여주는 숫자 중 하나라고 봅니다.
 
 누가 최고의 모델을 만들었는지보다 공장이 얼마나 꽉 차 있는지가 산업의 실제 열기를 더 솔직하게 보여줄 때가 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 공장 증설이 다음 변수
 
@@ -153,13 +115,3 @@ AI 기업의 자본지출과 스마트폰 신제품 주기가 동시에 움직�
 
 특히 첨단 공정은 새 공장을 세운 뒤 바로 최고 수율이 나오는 산업이 아닙니다. 시간이 곧 경쟁력입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

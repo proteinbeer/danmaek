@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 귀무자 웨이 오브 더 소드의 강화는 스피릿 미러라는 단일 허브에서 이뤄집니다. 세이브와 패스트 트래블, 장비 강화, 스킬 해금, 난이도 변경까지 안 하는 것이 없는 메뉴인데, 어디에 어떤 재료가 드는지 모르고 눌러대면 오니 스톤을 이상한 곳에 써 버리기 쉽습니다. 특히 스킬 재료는 눌러쓰면 그대로 사라지는 일회성 자원이라 우선순위가 실력 차이를 만듭니다.
 
 이 글은 해외 공략의 스킬·장비 데이터를 종합해 스피릿 미러 구성, 베이직과 스페셜 스킬 투자 순서, 장비별 재료, 부적과 호즈키 주머니 정비, 파밍과 강화의 연계를 순서대로 정리했습니다. 뉴게임 플러스를 염두에 둔 소비를 미리 설계하는 데 초점을 맞춥니다.
@@ -46,17 +42,6 @@ hideDescription: true
 
 전투 계열은 잇센·리플렉스 콤보 강화와 디플렉션 파워로 이어집니다. 첫 포탈 이후 잇센 파워 1과 얼티밋 리플렉스 콤보가 열리고, 두 번째 포탈 이후 체인 잇센 체인 길이, 세 번째 포탈 이후 데들리 디플렉션과 브레이크 잇센 붉은 소울 수확량이 등장합니다. 보스전과 파밍을 함께 여는 효율 순서로 투자하는 것이 정석입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 스페셜 스킬과 오니 비전 투자
 
 스페셜 스킬은 오니 스톤을 주재료로 씁니다. 이 재료는 수급량이 정해져 있어 가장 가치 높은 곳부터 써야 하며, 최우선은 오니 비전 계열입니다. 파괴물 지각부터 시작해 트레져스, 트레져스 2, 서치 레인지 순으로 열면 수집품과 공물 재료를 벽 너머까지 감지합니다.
@@ -72,17 +57,6 @@ hideDescription: true
 건틀릿은 보스 드랍 재료로 승부를 겁니다. 말리사이트를 기본으로 비쿠 탈리스만과 도하츠텐의 뿔이 섞이며, 숙련 레벨이 오를수록 말리사이트 덩어리까지 필요해집니다. 상자에서 한 번만 나오는 재료와 세계에 흩어져 리스폰되는 재료가 섞여 있어 수급 계획이 필요합니다.
 
 후반 재료는 리프트 파밍이 정답입니다. 엔딩 후 교토에 랜덤으로 나타나는 두 리프트에서 말리사이트와 비쿠 탈리스만, 도하츠텐의 뿔을 안정적으로 모을 수 있습니다. 여기에 요리마사의 비석 상점이 붉은 소울로 강화 재료를 팔기 시작하므로, 스토리 임무를 끝낼 때마다 방문해 신규 재고를 확인하는 것이 장비 완성의 지름길입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 수호 부적과 호즈키 주머니 정비
 
@@ -100,13 +74,3 @@ hideDescription: true
 
 마지막으로 붉은 소울은 뉴게임 플러스로 전승되지 않는다는 규칙을 기억해야 합니다. 최종 미션 직전에 수동 세이브를 만들고 남은 붉은 소울을 스킬·장비·부적으로 전환한 뒤, 재료가 부족하면 세이브를 되돌려 채우는 세이브 스컴으로 1회차 강화를 완성하는 것이 최고 효율의 정리입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

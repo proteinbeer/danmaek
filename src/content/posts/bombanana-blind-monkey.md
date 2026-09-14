@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 장님 원숭이는 봄바나나에서 실제 폭탄을 조작하는 손입니다. 화면 정보를 제대로 볼 수 없기 때문에 팀의 지시를 듣고 버튼을 누르고 장치를 만져야 하죠. 그래서 가장 단순해 보이면서도 실수 한 번이 바로 폭발로 이어지는 역할입니다.
 
 장님 역할을 잘하려면 퍼즐 천재가 될 필요는 없습니다. 오히려 기다리고, 확인하고, 정확하게 한 번만 움직이는 습관이 더 중요합니다.
@@ -46,17 +42,6 @@ hideDescription: true
 
 현재 커서나 선택 위치, 방금 누른 버튼을 짧게 보고하면 다른 두 사람이 상황을 따라가기 쉬워집니다. 특히 여러 입력이 연속되는 모듈에서는 행동 결과를 매번 확인해 주는 것이 안전합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 위치 표현을 통일한다
 
 왼쪽 위, 오른쪽 아래, 가운데처럼 위치 표현을 항상 같은 방식으로 쓰시면 좋습니다. 첫 번째, 두 번째 같은 숫자를 쓸 때도 왼쪽부터 세는지 위에서부터 세는지 미리 정해야 합니다.
@@ -73,17 +58,6 @@ hideDescription: true
 
 지시를 들은 뒤 짧게 되읽는 습관은 시간을 조금 쓰지만 실수를 크게 줄입니다. 중요한 입력일수록 바로 누르기보다 한 번 확인하고 실행하는 편이 전체 클리어 시간은 오히려 짧아집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 당황해도 속도를 갑자기 올리지 않는다
 
 타이머가 줄어들면 장님 역할이 가장 급해지기 쉽습니다. 하지만 마지막 20초라고 손을 두 배로 빠르게 움직이면 실수율도 같이 올라갑니다.
@@ -99,17 +73,6 @@ hideDescription: true
 팀에서 한 사람만 최종 명령을 내리게 만들고, 장님은 그 목소리만 따라가는 방식이 안정적입니다.
 
 카오스 모듈은 평소보다 정보가 복잡해지기 때문에 장님이 독단적으로 판단하면 위험합니다. 화면에서 보이는 것만 믿지 말고 팀이 정한 확인 절차를 그대로 유지하시는 편이 좋습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 장님 역할의 핵심은 신뢰다
 

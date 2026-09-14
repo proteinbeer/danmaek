@@ -17,11 +17,8 @@ imageWidth: 1200
 imageHeight: 675
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
-
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
 
 아이폰 18 프로와 아이폰 18 프로 맥스 예약 판매가 시작됐습니다. 정식 출시는 9월 18일이지만 일부 색상과 용량은 예약 첫날부터 배송 예정일이 10월로 밀리기 시작했습니다.
 
@@ -41,17 +38,6 @@ hideDescription: true
 
 기술 변화는 제품 하나에서 끝나지 않고 기업 전략과 규제, 이용 습관까지 이어집니다. 왜 지금 이런 결정이 나왔는지 보면 단순한 기능 추가보다 더 큰 흐름이 보입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 예약 첫날 배송 지연이 뜻하는 것
 
 출시일 수령이 중요하시면 저장 용량과 색상을 유연하게 바꾸는 것이 가장 현실적인 방법입니다. 반대로 원하는 구성이 명확하다면 며칠 늦게 받더라도 재고가 안정될 때까지 기다리는 편이 불필요한 타협을 줄일 수 있습니다.
@@ -67,17 +53,6 @@ hideDescription: true
 예약 초기 배송일은 인기의 힌트가 될 수 있지만 정확한 판매량과 같지는 않습니다. 특정 색상과 용량을 얼마나 생산했는지 알 수 없기 때문에 배송 지연만으로 흥행을 단정하는 것은 조심해야 하죠.
 
 개인적으로는 이 지점이 가장 중요해 보이죠. 기술은 빠르게 바뀌지만 사람과 제도가 적응하는 속도는 느리기 때문에 작은 설계 차이가 시간이 지나면 큰 신뢰 차이로 이어질 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 출시일 픽업 재고를 다시 볼 필요
 

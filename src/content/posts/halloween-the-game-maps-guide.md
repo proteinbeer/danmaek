@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 할로윈 더 게임은 출시 기준으로 하돈필드 하이츠, 하돈필드 타운 센터, 오렌지 그로브 에스테이츠, 이스트 하돈필드까지 네 개의 멀티플레이 맵을 제공합니다. 네 지역은 단순히 배경만 바뀌는 것이 아니라 건물 밀도와 시야, 실내외 이동 비중이 달라 같은 습관으로 움직이면 위험해질 수 있습니다.
 
 탈출 위치와 주요 아이템은 매치마다 달라질 수 있으므로 고정 스폰을 외우는 것보다 지형의 성격과 대표 건물을 기억하는 편이 좋습니다. 맵을 이해한다는 것은 상자 하나의 위치보다 어디서 시야가 열리고 어디서 마이클이 사라질 수 있는지를 아는 데 가깝습니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 민간인은 상점 하나를 끝까지 털기보다 건물 사이를 연결하며 전화기와 주민, 탈출 후보를 함께 확인하는 편이 좋습니다. 마이클은 코너와 골목, 건물 뒤편처럼 시야가 자주 끊기는 지점을 이용해 동선을 가로막는 방식이 잘 맞습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 오렌지 그로브 에스테이츠
 
 오렌지 그로브 에스테이츠는 여러 층의 큰 주택과 분리된 차고, 발코니, 놀이터가 있는 고급 주거 지역입니다. 원작의 도일 하우스와 월리스 하우스도 이 지역에 포함되어 있습니다.
@@ -64,17 +49,6 @@ hideDescription: true
 이스트 하돈필드는 도심과 떨어진 농업 지역으로, 래빗 인 레드 라운지, 펠프스 차고, 미드웨스트 피드 컴퍼니 같은 시설이 있습니다. 넓은 외곽 공간과 개별 시설이 떨어져 있어 다른 맵보다 이동 거리를 크게 느낄 수 있습니다.
 
 민간인은 한 명이 멀리 떨어져 고립되지 않도록 합류 지점을 미리 정하는 편이 좋습니다. 마이클은 넓은 공간에서 정면 추격을 하기보다 목표가 들어갈 만한 시설과 연결 도로를 예상해 먼저 이동하는 운영이 유리합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 맵 공통으로 외울 것
 
@@ -90,17 +64,6 @@ hideDescription: true
 
 네 맵의 차이는 결국 실내와 실외, 시야와 어둠, 이동 거리에서 생깁니다. 고정 스폰 공략보다 각 지역의 성격을 이해하시면 패치로 아이템 위치가 바뀌어도 훨씬 오래 써먹을 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 7. 첫날 맵 공부 순서
 
 네 맵을 한꺼번에 외우려 하지 말고 매 판 대표 장소 두 곳, 밝은 이동로 한 곳, 위험한 막다른 공간 한 곳만 기억해 보시면 좋습니다. 다음에 같은 맵이 나왔을 때 이 네 지점을 연결하면 자연스럽게 자신의 지도가 만들어집니다.
@@ -109,13 +72,3 @@ hideDescription: true
 
 민간인은 전화기와 주민, 탈출 후보를 기준으로 지도를 보고 마이클은 어둠과 시야 차단, 특수 목표를 기준으로 봅니다. 같은 지역을 역할에 따라 다시 배워야 하는 이유가 여기 있으며, 한쪽을 이해하면 상대가 어디로 움직일지도 훨씬 예측하기 쉬워집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

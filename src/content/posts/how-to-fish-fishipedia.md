@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 낚시 방법 피시피디아 채우기에서 막히는 분이라면 시스템 하나만 따로 보지 말고 진행과 장비를 함께 보시는 편이 좋습니다. 낚시 방법은 낚시, 전투, 판매, 퀘스트가 연결되어 있어 한 부분만 놓쳐도 다음 단계가 늦어질 수 있습니다.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/how-to-fish-2026-01.jpg" alt="낚시 방법(HOW TO FISH) 스팀 생존 낚시 게임 대표 이미지" width="460" height="215" loading="lazy" decoding="async" />
@@ -40,17 +36,6 @@ hideDescription: true
 
 특히 숲섬 이후에는 미끼 단계도 달라지므로 위치와 미끼를 한 세트로 확인하시는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 상위 미끼만 쓰지 않는다
 
 도감 작업에서 흔한 실수는 가장 비싼 미끼만 계속 쓰는 것입니다. 낚시 방법은 현재 지역의 어종 풀이 특정 미끼 단계와 연결되어 있어 상위 미끼가 무조건 만능이 아닙니다.
@@ -63,17 +48,6 @@ hideDescription: true
 
 퀘스트를 한 번 끝냈더라도 수집 기록이 제대로 반영됐는지 체크하는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 드립 변종은 별도 목표로 둔다
 
 일반 어종 완성과 드립 변종 수집을 동시에 하려고 하면 진행 상황이 헷갈리기 쉽습니다. 먼저 일반 피시피디아를 정리하고, 이후 드립이 필요한 대상만 별도 파밍하는 편이 효율적입니다.
@@ -85,17 +59,6 @@ hideDescription: true
 수집 작업에서 진짜 중요한 업그레이드는 화력보다 이동입니다. 상위 엔진과 보트 레이더가 있으면 섬과 낚시 지점을 오가는 시간이 크게 줄어듭니다.
 
 도감 완성 전에 돈이 남는다면 수집용 이동 장비를 먼저 맞추시는 편이 전체 시간을 아껴 줍니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 한 섬씩 닫고 넘어간다
 
@@ -119,13 +82,3 @@ hideDescription: true
 
 처음부터 모든 기능을 완벽하게 이해하려 하기보다 현재 목표에 필요한 것만 익히시면 됩니다. 낚시 방법은 새 섬으로 갈수록 앞에서 배운 시스템을 반복해서 쓰는 구조라 한두 지역만 지나도 장비와 퀘스트 판단이 훨씬 빨라집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

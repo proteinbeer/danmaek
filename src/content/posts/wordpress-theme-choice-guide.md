@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 워드프레스 테마는 사이트의 겉모습을 결정하지만, 사실 **속도와 유지보수까지 좌우하는 핵심 요소**입니다. 디자인만 보고 무료 테마에 여러 개를 설치했다가 나중에 속도가 느려진 경험을 하신 분도 많죠.
 
 이 글에서는 무료 테마와 유료 테마가 실제로 무엇이 다른지, 어떤 기준으로 고르면 좋을지를 정리했습니다. 테마의 수명과 비용을 함께 보시기 바랍니다.
@@ -50,17 +46,6 @@ hideDescription: true
 
 유료 테마는 통상 결제 전에 데모 사이트를 제공합니다. 실제 데모에서 속도와 동작을 미리 확인해보면 가성비를 정확히 알 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 테마가 아니라 플러그인이 느리게 만든다
 
 사이트 속도가 느려지는 것은 "테마 자체의 결함"보다 **테마가 끌어오는 스크립트** 때문인 경우가 많습니다.
@@ -79,17 +64,6 @@ hideDescription: true
 - 지원이 만료된 테마는 새 워드프레스 버전에서 호환성 문제가 생길 수 있습니다.
 - 상업용 사이트라면 단일 사이트 라이선스인지, 무제한 라이선스인지도 판매 상세에 따라 다르니 확인합니다.
 - 무료 테마의 경우 라이선스가 꼬여 배포가 중단되는 경우도 있으니, 다운로드 페이지의 라이선스 표기를 읽어봅니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 선택 기준 간단 정리
 
@@ -113,13 +87,3 @@ hideDescription: true
 
 무료든 유료든 "테마는 시작점"이라는 것을 기억하시기 바랍니다. 테마를 바꾸면 페이지 편집이 흔들리는 경우가 많아, 바꿀수록 유지보수 비용은 올라갑니다. 처음부터 한 번 잘 고른 것이 장기적으로 가장 싼 선택입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

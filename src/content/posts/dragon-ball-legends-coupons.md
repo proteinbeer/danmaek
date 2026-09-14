@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 드래곤볼 레전즈(Dragon Ball Legends)는 밴다이남코 엔터테인먼트가 서비스하는 드래곤볼 모바일 대전 액션 RPG입니다. 원작 캐릭터를 수집·육성하며 실시간 대결을 즐기는 장르로, 크로노 크리스탈을 쌓아 가챠를 돌리는 것이 주된 재미입니다.
 
 코드 보상은 크로노 크리스탈이 대부분이며, 이벤트와 방송(Legends Information)에서 주기적으로 공개됩니다. 기한이 며칠에 불과한 코드도 많으니 보자마자 등록하는 편이 좋죠.
@@ -56,17 +52,6 @@ SUMMER7893는 유효 기간이 9월 7일까지로 얼마 남지 않았습니다.
 웹스토어 코드는 계정당 1회만 사용할 수 있습니다. 대소문자와 공백이 틀리면 코드가 거부되니 복사 붙여넣기를 권장합니다.
 
 로그인 후 보상 수령까지는 앱 재시작이 필요한 경우도 있습니다. 안 보이면 게임을 한 번 껐다 켜보시기 바랍니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 4. 코드 공개 채널과 주간 웹 기프트
 

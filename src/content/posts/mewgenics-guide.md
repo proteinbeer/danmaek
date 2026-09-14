@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 '아이작의 번제'를 만든 에드먼드 맥밀런과 '슈퍼 미트 보이' 정신적 후속작의 개발자 타일러 글라이엘이 함께 만든 뮤제닉스가 지난 9월 8일 콘솔판 출시와 함께 한국어 정식 지원을 시작했습니다. 턴제 전략과 고양이 번식을 버무린 로그라이크 SRPG로, 메타크리틱 88점과 스팀 '매우 긍정적' 평가를 받고 있죠.
 
 겉보기에는 귀여운 고양이 게임이지만 번식, 유전, 클래스, 전투가 얽힌 구조는 상당히 깊습니다. 개발자가 공개한 예상 플레이 시간이 200시간이 넘을 정도니, 콘솔과 한국어로 새로 들어온 이용자일수록 초반 시스템을 미리 파악하는 편이 게임을 훨씬 편하게 즐길 수 있습니다.
@@ -46,17 +42,6 @@ hideDescription: true
 
 방을 여러 개 두고 목적별로 나누는 방식도 유용합니다. 번식방은 편안함과 자극을 최대로, 격투방은 반대로 편안함을 낮춰 고양이끼리 싸우게 해 이긴 개체의 능력치를 강화시키는 식이죠. 초반에는 길고양이를 데려와 혈통을 섞는 것이 근친교배로 인한 기형을 막는 가장 확실한 방법입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 팅크가 열어주는 정보와 가계도 관리
 
 게임 초반에는 고양이의 정보가 거의 보이지 않아 번식 판단이 어렵습니다. 이때 집 안의 NPC 팅크에게 고양이를 기부하면 정보가 조금씩 열립니다. 새끼 고양이를 10마리씩 기부할 때마다 성욕, 공격성, 근친 상태, 가계도, 능력치 구분 같은 추가 정보가 해금되죠.
@@ -72,17 +57,6 @@ hideDescription: true
 클래스는 캐릭터가 주로 표시하는 능력치를 정해줍니다. 예를 들어 레벨당 활력이 늘어나는 직업은 낮은 체력을 보완하는 탱커로, 행운 기반 플레이에는 도살자 같은 직업이 어울립니다. 초반 안정적인 빌드를 원한다면 한 가지 능력치를 확실히 보완해주는 전사, 탱커, 성직자, 초능력자 계열이 추천되죠.
 
 능력치 선택 시에는 활력, 지능, 속도, 행운 위주로 잡고 나머지는 부가 요소로 두는 편이 좋습니다. 목걸이를 무시하고 스킬만으로 빌드를 짜려는 시도는 패시브 확보가 어려워 실패하기 쉽습니다. 클래스는 스포일러가 없는 기존 직업만으로도 어렵지 않게 강한 조합을 만들 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 전투 속도와 전술 시점 활용
 
@@ -100,13 +74,3 @@ hideDescription: true
 
 뮤제닉스는 겉모습과 달리 전투의 숙련도와 번식 설계의 깊이를 동시에 요구하는 게임입니다. 콘솔과 한국어로 편하게 즐길 수 있게 된 지금, 위 팁들을 먼저 살펴두면 200시간이 넘는 여정을 훨씬 수월하게 시작할 수 있을 것입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

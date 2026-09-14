@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 더 블러드 오브 던워커의 새 핫픽스에는 안정성 개선과 진행 막힘 수정 같은 중요한 내용이 들어갔습니다. 그런데 이용자들이 더 기억하는 건 빨간 파이프 하나입니다.
 
 개발 과정에서 사용하면 안 되는 임시 자산이 실제 출시 버전에 남았고, 리벨 울브스는 이번 수정으로 그 빨간 파이프를 더 이상 사용하지 않는다고 밝혔습니다. 죽은 NPC가 말을 이어가던 문제까지 함께 고쳐지면서 꽤 인간적인 패치 노트가 됐죠.
@@ -46,17 +42,6 @@ hideDescription: true
 
 빨간 파이프가 흥미로운 이유도 완벽하지 않아서입니다. 수백 명이 만든 거대한 게임도 결국 사람이 체크리스트를 보고 하나씩 지우며 완성한다는 사실이 한 물체에 그대로 드러났습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 죽은 NPC가 말하는 버그도 함께 수정
 
 이번 핫픽스에는 빨간 파이프보다 실제 플레이에 중요한 수정이 많습니다. 안정성 개선, 진행을 막는 문제, 컨트롤러 사용 시 프레임 저하 같은 부분이 포함됐습니다.
@@ -70,17 +55,6 @@ hideDescription: true
 게임이 복잡해질수록 모든 상황을 출시 전에 확인하기 어려워집니다. 오픈월드나 자유도가 높은 역할수행게임은 플레이 순서, 장비, 퀘스트 상태, NPC 위치가 서로 얽히면서 경우의 수가 급격히 늘어납니다.
 
 그래서 작은 자산 하나가 잘못 들어간 실수와 시스템 전체를 흔드는 버그를 같은 무게로 볼 필요는 없습니다. 다만 이런 실수가 반복되면 이용자는 전체 마감 품질을 의심하게 되기 때문에 개발사도 빨리 고칠 수밖에 없죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 빨간 파이프가 더 오래 기억될 가능성
 
@@ -98,13 +72,3 @@ hideDescription: true
 
 물론 치명적인 버그까지 웃음으로 넘길 수는 없습니다. 다만 영향이 작은 실수라면 숨기기보다 투명하게 말하는 편이 브랜드에 더 도움이 될 때도 있습니다. 빨간 파이프는 게임에서 사라졌지만, 이야기로는 오히려 더 오래 남게 됐습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

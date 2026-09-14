@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 PS4에서 오래 플레이한 게임을 PS5로 옮겼는데 새 게임처럼 시작되면 당황스럽습니다. 게임 본체를 설치했다고 세이브까지 자동으로 따라오는 것은 아니기 때문입니다.
 
 세이브 이동 방식은 네트워크 전송, USB 저장장치, 클라우드 저장, 게임 자체 이전 기능으로 나뉩니다.
@@ -41,17 +37,6 @@ PS4와 PS5를 같은 네트워크에 연결하면 데이터 전송 기능으로 
 
 전송 중에는 전원을 끄지 않고 화면 안내를 끝까지 따릅니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. USB 저장장치 이용
 
 PS4 저장 데이터를 USB 저장장치에 복사한 뒤 PS5로 가져오는 방법도 있습니다. 인터넷이 느리거나 두 콘솔을 동시에 연결하기 어렵다면 단순하고 확실한 방식입니다.
@@ -64,17 +49,6 @@ PS Plus를 이용 중이라면 PS4 세이브를 클라우드에 올리고 PS5에
 
 자동 업로드가 꺼져 있었다면 최신 세이브가 올라가 있지 않을 수 있으므로 날짜를 확인합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. PS5 전용 버전은 별도 확인
 
 PS4 세이브를 PS5 본체로 옮겼다고 해서 PS5 전용 버전에서 바로 읽히는 것은 아닙니다. 게임에 따라 PS4 버전에서 세이브를 업로드하고 PS5 버전에서 가져오는 절차가 따로 필요합니다.
@@ -86,17 +60,6 @@ PS4 세이브를 PS5 본체로 옮겼다고 해서 PS5 전용 버전에서 바�
 새 버전에서 세이브가 안 보인다고 기존 PS4 저장 데이터를 지우면 복구가 어려워집니다. 먼저 계정, 버전, 클라우드 날짜, 게임 안의 이전 메뉴를 확인합니다.
 
 세이브 이전은 한 번 성공하면 간단하지만 첫 단계에서 버전을 잘못 잡으면 가장 헷갈리는 부분입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 설정 변경 뒤 확인할 부분
 
@@ -112,13 +75,3 @@ PS5 문제 해결은 무작정 초기화하는 것보다 재현 조건을 찾는
 
 PS5는 같은 증상이라도 계정, 게임 버전, 연결 장비에 따라 원인이 달라질 수 있습니다. 그래서 가장 최근에 바꾼 설정과 문제가 시작된 시점을 기준으로 하나씩 되돌려 확인하시면 불필요한 재설치와 초기화를 줄일 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

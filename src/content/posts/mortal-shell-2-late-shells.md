@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 초반 셸만 사용하다 보면 후반에 해금되는 스메르트, 그라구, 라즐로, 사리엘을 놓치기 쉽습니다. 네 셸 모두 단순한 지도 표시만 따라가는 방식이 아니라 공물, 퀘스트 아이템, 보스 처치처럼 서로 다른 조건을 요구합니다.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/mortal-shell-2-2026-01.jpg" alt="모탈 셸 2(Mortal Shell 2) 소울라이크 액션 게임 대표 이미지" width="686" height="386" loading="lazy" decoding="async" />
@@ -42,17 +38,6 @@ hideDescription: true
 
 특히 보스나 던전에서 반복해서 죽는다면 한 번의 실수를 줄이는 쪽이 가장 큰 개선이 됩니다. 패링과 경화, 회피 가운데 자신에게 맞는 두 가지를 확실히 익혀 두시면 후반 난도가 훨씬 안정적으로 느껴집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 그라구 대화 마무리
 
 선술집에서 그라구와 대화를 반복하면 아이템을 건넬 선택지가 생깁니다. 하트 오브 바트라를 건네고 이후 몸을 차지해야 셸이 추가됩니다.
@@ -69,17 +54,6 @@ hideDescription: true
 
 셸은 능력 설명보다 실제 조작감 차이가 더 크게 느껴지는 요소입니다. 같은 무기를 들고 가까운 적을 상대해 보면 회피 거리와 생존 방식, 공격 기회가 어떻게 달라지는지 바로 비교할 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 사리엘 두 번 상대
 
 더 사일런트 스텝 남동쪽에서 사리엘을 처음 쓰러뜨리면 벽을 통과해 체임버 오브 비커밍으로 이동합니다. 뒤따라가 다시 전투를 진행해야 합니다.
@@ -93,17 +67,6 @@ hideDescription: true
 사리엘의 마지막 전투에서는 네 개의 무덤을 파괴해 부활을 막아야 합니다. 전투에서 이겼다고 생각했는데 계속 살아난다면 보스 체력보다 주변 구조물을 먼저 확인하셔야 합니다.
 
 업적이나 모든 수집 요소를 목표로 하지 않으신다면 첫 회차부터 모든 길을 확인할 필요는 없습니다. 엔딩 이후에도 자유 탐험이 가능하므로 스토리 흐름을 먼저 보고, 필요한 셸과 무기만 챙긴 뒤 나머지를 정리하는 방식도 충분히 좋은 선택입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 최종 보스 뒤에도 가능
 

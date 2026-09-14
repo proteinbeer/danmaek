@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 장시간 게임을 하다 보면 PC가 뜨거워지고 팬 소리가 커지는 경우가 많습니다. 온도가 너무 높아지면 성능까지 떨어지기 때문에, 발열과 소음 관리는 PC 관리의 기본입니다. 오래된 부품이라 해도 순서대로 점검하면 생각보다 큰 개선이 됩니다.
 
 온도와 소음의 원인은 쌓인 먼지, 말라버린 서멀, 통풍 문제 등으로 갈립니다. 어떤 증상이든 확인 순서를 지키면 원인을 빠르게 찾을 수 있죠.
@@ -48,17 +44,6 @@ hideDescription: true
 - 케이블을 정리해 팬 회전을 방해하지 않게 합니다.
 - 먼지 필터가 막히면 공기 흐름이 확 줄어들므로 주기적으로 청소가 필요하죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 먼지 청소
 
 발열과 소음의 가장 흔한 원인은 내부에 쌓인 먼지입니다. 전원을 완전히 끄고 케이스를 열어 진행하시면 됩니다.
@@ -79,17 +64,6 @@ hideDescription: true
 
 쿨러를 분리할 때는 힘을 세게 주지 말고 **살짝 비틀어** 들어올려야 CPU가 함께 뽑히는 것을 막을 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 팬 속도와 성능 옵션 조정
 
 온도는 괜찮은데 소음만 문제라면 팬이 항상 최대 속도로 도는 게 원인입니다. 팬 커브를 조정하면 온도와 소음의 균형을 맞출 수 있죠.
@@ -108,13 +82,3 @@ hideDescription: true
 
 부품 교체는 파워 서플라이 용량과 케이스 내부 공간을 확인한 뒤 진행하시기 바랍니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

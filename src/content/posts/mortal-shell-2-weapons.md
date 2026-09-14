@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 모탈 셸 2에는 획득 가능한 근접 무기가 8개 있습니다. 아이코노클라스트, 도끼와 단검, 베테랑의 전투 도끼, 대순교자의 검, 흑요석 망치, 검은 바늘, 액사타나, 시계태엽 낫이며 모든 무기를 얻으면 관련 업적도 진행됩니다.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/mortal-shell-2-2026-01.jpg" alt="모탈 셸 2(Mortal Shell 2) 소울라이크 액션 게임 대표 이미지" width="686" height="386" loading="lazy" decoding="async" />
@@ -44,17 +40,6 @@ hideDescription: true
 
 초반 강화 재료가 넉넉하지 않을 때는 여러 장비를 동시에 올리기보다 주력 하나를 확실히 키우는 편이 효율적입니다. 새 장비는 기본 상태에서 몇 번 시험한 뒤 투자 여부를 결정하시면 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 베테랑의 전투 도끼
 
 셰터드 비컨 북서쪽 동굴의 킹스 크립트에서 찾습니다. 달리기 뒤 강공격이 두 번 회전하는 식으로 보스전 리졸브 회복에 활용하기 좋아 후반에도 자주 거론됩니다.
@@ -69,17 +54,6 @@ hideDescription: true
 
 장비는 표기 공격력 하나만 보고 판단하면 손에 맞지 않을 수 있습니다. 공격 후 빠지는 속도와 사거리, 리졸브 회복처럼 실제 전투 흐름에 영향을 주는 요소도 함께 비교하시는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 흑요석 망치
 
 아웃스커츠 오브 마몬 남서쪽 데저티드 슬럼에서 옵시디아나이트 마인으로 들어갑니다. 마지막의 예언자 미니보스를 쓰러뜨리면 자동으로 획득합니다.
@@ -93,17 +67,6 @@ hideDescription: true
 검은 바늘은 세스터스 게이트 내부의 쌍둥이 세스터 전투 뒤 보상입니다. 액사타나는 더 사일런트 스텝 북동쪽 탑의 문을 연 뒤 안쪽에서 찾을 수 있습니다.
 
 업적이나 모든 수집 요소를 목표로 하지 않으신다면 첫 회차부터 모든 길을 확인할 필요는 없습니다. 엔딩 이후에도 자유 탐험이 가능하므로 스토리 흐름을 먼저 보고, 필요한 셸과 무기만 챙긴 뒤 나머지를 정리하는 방식도 충분히 좋은 선택입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 시계태엽 낫
 

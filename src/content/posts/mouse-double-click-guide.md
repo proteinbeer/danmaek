@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 한 번 클릭했는데 폴더가 열렸다 닫혔다 하거나, 텍스트가 두 글자씩 선택되는 경험을 해보셨을 겁니다. 대부분 마우스가 노화하면서 생기는 **더블클릭(디바운스) 증상**이죠.
 
 그런데 이 증상이 반드시 부품 문제는 아닙니다. 윈도우 설정이나 소프트웨어가 원인인 경우도 있어서, 순서대로 확인하면 고장난 마우스를 새로 살 때까지 소프트웨어로 버틸 수 있습니다.
@@ -50,17 +46,6 @@ hideDescription: true
 
 유선 마우스도 USB 단자를 한 번 뽑았다 다시 꽂고, 꽂는 곳을 바꿔보시면 가끔 단자 접촉 문제가 그대로 드러납니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 윈도우 설정으로 오진 여부 확인
 
 더블클릭이 하드웨어 문제인지 소프트웨어 문제인지는 **마우스 속성에서 두 번 눌림 속도를 조절**해보면 판단할 수 있습니다.
@@ -82,17 +67,6 @@ hideDescription: true
 
 철저하게 고치는 것이 목표라면 스위치 교체나 새 마우스 구매가 현실적입니다. 다행히 마우스는 비교적 저렴한 주변기기라, 오래된 제품이라면 교체가 낫습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 더블클릭 오류로 보이는 다른 원인
 
 더블클릭처럼 느껴지는 증상 중에는 마우스 자체의 문제가 아닌 경우도 있습니다.
@@ -113,13 +87,3 @@ hideDescription: true
 
 위 테스트로 하드웨어 문제가 확실해지면 교체를 결정하면 됩니다. 게이밍 마우스는 스위치 수명이 긴 제품을 선택하는 것이 재발을 줄이는 방법이죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

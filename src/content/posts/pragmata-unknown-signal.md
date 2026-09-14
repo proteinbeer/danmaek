@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 언노운 시그널은 프라그마타 메인 스토리를 끝낸 뒤 열리는 핵심 엔드게임 콘텐츠입니다. 단순히 보스 한 번 더 잡는 모드가 아니라 각 구역 100퍼센트 완료와 강화 보스, 시뮬레이션 도전을 묶어 진엔딩까지 이어지는 구조입니다.
 
 첫 엔딩을 봤는데 뭔가 더 남은 느낌이 들었다면 정상입니다. 프라그마타를 완전히 끝냈다고 보려면 언노운 시그널까지 확인하시는 편이 좋습니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 안전 상자와 REM, 순수 루넘, 모드, 저장 확장 장치, 카트리지 홀더, 훈련 데이터처럼 진행률에 들어가는 항목을 빠짐없이 정리해야 합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 강화 보스 다시 상대
 
 언노운 시그널에서는 본편 보스의 강화 버전을 다시 상대하게 됩니다. 이미 패턴을 아는 보스라도 공격과 매트릭스 압박이 커져 첫 회차와 같은 감각으로 밀기 어렵습니다.
@@ -65,17 +50,6 @@ hideDescription: true
 
 단순 수집 정리만 하는 모드가 아니라 전투 도전도 꽤 비중이 큽니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 오브젝트 스캔 적극 활용
 
 100퍼센트 정리에서 가장 귀찮은 것은 마지막 한두 개 수집품입니다. 오브젝트 스캔 관련 기능을 활용하면 놓친 상자와 업그레이드 자원을 찾는 시간을 크게 줄일 수 있습니다.
@@ -87,17 +61,6 @@ hideDescription: true
 언노운 시그널을 진행하는 동안 미니 캐빈, 탈출 해치, 각종 전투 업적도 같이 정리하면 효율적입니다. 구역을 다시 돌아다니는 김에 별도 도전 요소까지 체크하시면 됩니다.
 
 다만 미니 캐빈과 탈출 해치는 구역 100퍼센트 수치와 별도일 수 있으니 체크리스트를 분리하는 편이 좋습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 진엔딩을 위한 진짜 후반부
 

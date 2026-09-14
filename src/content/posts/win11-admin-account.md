@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 가족이 같은 PC를 함께 쓰거나 업무와 개인 환경을 나누고 싶다면 사용자 계정을 따로 만드는 편이 좋습니다.
 
 한 계정을 모두가 같이 쓰면 바탕화면과 브라우저 기록, 프로그램 설정이 섞이고 관리자 권한까지 공유될 수 있기 때문입니다.
@@ -61,17 +57,6 @@ hideDescription: true
 
 하지만 공용 PC의 단순 사용자처럼 클라우드 동기화가 필요하지 않은 경우에는 로컬 계정이 더 단순할 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 관리자와 표준 사용자의 차이
 
 관리자는 시스템 설정을 바꾸고 프로그램을 설치하며 PC 전체에 큰 영향을 주는 작업을 할 수 있습니다.
@@ -99,17 +84,6 @@ hideDescription: true
 어린 자녀가 사용하는 PC라면 일반 사용자 계정으로 분리하는 것이 특히 좋습니다.
 
 설정 변경과 프로그램 설치를 제한하기 쉬워지고 개인 파일도 서로 덜 섞입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 계정 삭제 전 파일부터 확인
 
@@ -139,13 +113,3 @@ hideDescription: true
 
 한 PC를 같이 쓴다는 이유로 로그인 정보까지 공유할 필요는 없습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

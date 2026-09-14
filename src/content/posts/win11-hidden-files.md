@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 프로그램 설정 파일을 찾거나 문제를 해결하다 보면 설명에는 분명 폴더가 있다고 나오는데 파일 탐색기에서는 보이지 않을 때가 있습니다.
 
 윈도우가 중요한 시스템 파일이나 일반 이용자가 자주 건드릴 필요가 없는 항목을 숨겨서 보여주기 때문입니다.
@@ -61,17 +57,6 @@ hideDescription: true
 
 단순히 탐색기에서 표시 범위를 넓히는 설정이라 자료가 지워지거나 시스템이 느려지는 일은 없습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 숨김 파일과 보호된 시스템 파일은 다르다
 
 여기서 많이 헷갈리는 부분이 있습니다.
@@ -99,17 +84,6 @@ hideDescription: true
 문제가 해결되지 않으면 되돌릴 수 있어야 합니다.
 
 숨김 폴더를 찾았다는 사실보다 그 안의 파일이 정확히 어떤 역할을 하는지 확인하는 과정이 더 중요하죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 보이는 것과 지워도 되는 것은 다르다
 
@@ -139,13 +113,3 @@ hideDescription: true
 
 중요한 것은 숨김 상태가 아니라 그 파일을 왜 열었고 무엇을 바꿨는지 알고 있는 상태입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

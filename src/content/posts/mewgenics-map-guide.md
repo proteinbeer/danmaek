@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 뮤제닉스의 모험은 골목에서 시작해 달까지 총 일곱 개 지역을 순서대로 공략하는 구조입니다. 지역을 하나씩 클리어할 때마다 새로운 목걸이가 해금되고, 목걸이가 곧 클래스이므로 지역 진행 = 클래스 확장으로 이어집니다. 초반에 어떤 지역을 어떤 팀으로 가는지에 따라 난이도가 크게 달라집니다.
 
 이 글에서는 지역별 특성과 유리한 클래스를 정리하고, 지난 글에서 다룬 클래스 티어와 번식 조건을 바탕으로 하드 스테이지 진입 전 준비 사항까지 정리했습니다. 목걸이 해금 기준만 알아도 파티 설계의 방향이 잡히니 순서대로 확인하는 편이 좋습니다.
@@ -46,17 +42,6 @@ hideDescription: true
 
 하수구는 골목보다 다소 강한 적 구성과 좁은 통로가 등장합니다. 근접 캐릭터가 몰리지 않도록 한 칸씩 띄워서 배치하고, 사냥꾼처럼 기동성이 좋은 원거리 클래스로 측면을 치는 것이 안정적입니다. 하수구를 끝내면 도적이 열리는데, 백스탭 시너지가 있는 도적은 이후 전투 전술에서 효율이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 고물상과 대피소, 중반 지역에서 열리는 클래스
 
 고물상은 중반 지역의 시작점으로, 방어력이 높은 적과 원거리 공격수가 함께 등장하기 시작합니다. 이 시점부터는 순수 딜 중심보다 상태 이상과 속도 관리가 중요해지며, 고물상을 클리어하면 강령술사가 해금됩니다. 강령술사의 소환 운용은 적의 공격을 나눠받는 데 매우 유용합니다.
@@ -72,17 +57,6 @@ hideDescription: true
 핵심 지역은 근접 캐릭터에게 위협적인 범위 공격이 잦습니다. 앞줄에 서는 개체는 방어 목걸이를, 뒤줄은 속도를 확보한 유리 몸 클래스로 구성하는 방식이 안정적입니다. 핵심 클리어 시 해금되는 도살자는 높은 근접 딜을 바탕으로 후반 보스전에서 핵심 딜러 역할을 합니다.
 
 마지막 달 지역은 방어력과 저항이 모두 높아 단순 사냥으로는 오래 끌기 어렵습니다. 심령사 해금이 여기서 이뤄지는데, 심령사 계열의 마인드 기반 공격은 높은 방어를 우회하는 데 효과적입니다. 최종 지역답게 파티 전체 능력치와 장비 세트를 앞 단계에서 갖춘 상태로 진입하는 편이 좋습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 지역별 유리한 클래스 요약
 
@@ -104,13 +78,3 @@ hideDescription: true
 
 특히 하드에서는 적이 같은 조건에서 수치가 더 붙기 때문에, 근친교배로 인한 기형이 그대로 약점이 됩니다. 길고양이를 꾸준히 받아 혈통을 섞고 가계도를 확인하는 습관이 중요하며, 해금한 목걸이 중 티어가 높은 성직자, 사냥꾼, 전사를 중심으로 파티를 꾸리면 하드 진입이 한결 수월해집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

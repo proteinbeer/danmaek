@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 쉴터의 펌웨어 업데이터는 프라그마타 성장 시스템의 중심입니다. 일반적인 경험치 레벨 대신 탐색으로 얻은 업그레이드 컴포넌트를 사용해 휴의 슈트, 주무기, 다이애나의 해킹 능력을 직접 강화합니다.
 
 처음에는 세 항목 중 무엇이 중요한지 헷갈릴 수 있지만 역할은 명확합니다. 생존, 기본 화력, 해킹이라는 전투의 세 축을 올리는 장치라고 생각하시면 됩니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 오픈 상태는 잘 만들지만 적 체력이 늘 남는다면 주무기 투자가 좋습니다. 기본 화력이 올라가면 보조 무기를 덜 쓰게 되고 전체 자원 관리도 편해집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 다이애나 해킹 강화
 
 해킹 강화는 프라그마타 특유의 전투 구조를 가장 직접적으로 바꿉니다. 해킹 성능과 약점 노출 관련 효율이 좋아지면 장갑을 열고 공격할 수 있는 시간이 안정됩니다.
@@ -65,17 +50,6 @@ hideDescription: true
 
 모든 수집품을 찾을 필요는 없지만, 눈에 보이는 옆길과 잠긴 공간 정도는 확인하시는 편이 좋습니다. 탐색을 조금만 해도 다음 보스 난도가 확실히 달라집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 쉴터 레벨에 따라 한계가 열린다
 
 모든 업그레이드를 초반부터 끝까지 올릴 수 있는 구조는 아닙니다. 주요 구역과 보스를 진행하며 쉴터 단계가 올라가고, 이에 맞춰 강화 한계도 넓어지는 식으로 성장합니다.
@@ -87,17 +61,6 @@ hideDescription: true
 휴 슈트만 강하면 오래 버티지만 전투가 길고, 주무기만 강하면 해킹이 느려 공격 기회를 못 만들 수 있습니다. 다이애나만 올리면 장갑은 잘 열지만 오픈 상태를 끝내지 못할 수 있습니다.
 
 결국 세 항목이 함께 올라가야 전투 루프가 매끄러워집니다. 한 가지를 지나치게 높이기보다 현재 구역에서 가장 약한 부분을 보완하는 방식이 좋습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 펌웨어 업데이터는 정답표보다 진단표
 

@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 레벨5가 최근 레이튼 교수와 요괴워치 발표 영상에 생성형 AI를 사용했다고 인정하고 사과했습니다. 팬들이 배경과 캐릭터 표현에서 이상한 흔적을 찾아낸 뒤 회사가 직접 대응에 나선 것이죠.
 
 레벨5는 시나리오와 캐릭터 디자인, 기본 설정 같은 작품의 핵심은 사람이 만든다고 설명했습니다. 하지만 발표를 더 화려하게 보이게 하려는 과정에서 AI를 너무 넓게 사용했다는 점은 인정했습니다.
@@ -41,17 +37,6 @@ hideDescription: true
 
 단순히 AI를 사용하지 않았다고 부인한 것이 아니라 어디까지 사용했는지 설명했다는 점은 중요합니다. 다만 팬들이 이미 눈으로 확인한 뒤에야 설명이 나왔다는 점은 신뢰 측면에서 아쉬움이 남습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 게임 본편에는 단순 생성 결과물을 넣지 않는다는 설명
 
 레벨5는 시나리오와 캐릭터 디자인, 기본 설정 같은 작품의 개성과 직접 연결되는 부분은 사람이 만든다고 강조했습니다. 사람의 작업물을 디지털 자산이나 폴리곤으로 옮기는 과정에서 AI를 활용하지만 단순 생성 결과물을 그대로 출시 게임에 넣지는 않는다는 설명입니다.
@@ -63,17 +48,6 @@ hideDescription: true
 레벨5는 대형 게임의 개발 기간을 현재 약 5년에서 2년 수준으로 줄이는 계획을 시험 중이라고 밝혔습니다. 생성형 AI를 도입하는 가장 현실적인 이유도 제작 시간을 줄이고 사람이 핵심 창작에 더 오래 집중하도록 만들겠다는 것입니다.
 
 게임 제작비와 인력이 계속 커지는 상황에서 이런 실험 자체는 이해할 수 있습니다. 다만 시간을 줄이려다 결과물의 일관성과 미술적 개성이 흔들리면 레벨5가 가진 가장 큰 장점을 스스로 약하게 만들 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. AI 사용보다 투명성이 더 중요해진다
 
@@ -88,17 +62,6 @@ hideDescription: true
 레벨5가 다음 쇼케이스에서 생성형 AI 사용 범위를 먼저 밝히는지도 중요합니다. 이번처럼 결과물이 공개된 뒤 팬들이 흔적을 찾고 회사가 뒤늦게 설명하는 방식이 반복되면 작품 내용과 관계없이 발표 자체가 의심부터 받게 됩니다.
 
 레이튼 교수와 요괴워치는 미술 스타일과 캐릭터 표정이 작품 정체성에 직접 연결되는 시리즈입니다. 제작 효율을 높이는 도구를 쓰더라도 팬이 사람의 손맛이라고 느끼는 부분까지 달라지지 않는다는 것을 실제 게임 화면으로 보여줘야 이번 사과가 의미를 가질 겁니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 레벨5가 다시 증명해야 할 것은 미술
 

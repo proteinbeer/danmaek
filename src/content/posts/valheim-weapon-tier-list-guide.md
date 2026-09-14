@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 발하임의 무기는 단순히 티어 번호가 높다고 좋은 것이 아닙니다. 적마다 저항과 약점이 달라서, 데미지 타입을 맞추지 못한 고티어 무기는 한두 등급 아래 무기보다 못한 결과를 냅니다. 대부분의 바이옴 보스는 특정 타입에 강하거나 약한 약점 표를 들고 있고, 어떤 바이옴을 건너는지에 따라 달려야 할 무기가 정해집니다. 이 글에서는 무기 선택의 기준이 되는 데미지 타입부터 1.0 딥노스의 노드 무기까지, 최신 패치 기준으로 정리했습니다.
 
 무기를 고를 때는 데미지 타입 매칭이 우선이고, 그다음이 숙련도 계획입니다. 발하임의 스킬 시스템은 무기 카테고리별로 독립되어 있어 초반부터 쓰는 무기 종류를 정해 숙련도를 쌓는 편이 유리합니다. 검과 활, 둔기 가운데 한 갈래를 메인으로 잡고, 광역이 필요한 순간에는 무기를 교체하는 식으로 운영하면 재료 낭비 없이 진행할 수 있습니다.
@@ -53,17 +49,6 @@ hideDescription: true
 
 미스트워커는 미스트랜즈에서 75 베기와 40 냉기를 갖춘 한손검으로, 베는 위치 주변의 안개를 걷어내는 효과가 있어 시야가 최우선인 지역 특성상 성능표 이상으로 가치가 높습니다. 크롬은 양손검으로 단일 공격 150 베기를 내는 최상위 한방을 보여주며, 긴 도달 거리의 찌르기 보조 공격도 쓸 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 상위 무기 티어 정리
 
 무기 카테고리 전체에서 자주 언급되는 서열을 정리하면 아래와 같습니다. 2025년 말 패치에서 추가된 트링킷과 애드레날린 시스템이 반영된 최신 기준입니다.
@@ -78,17 +63,6 @@ A급은 해당 티어까지 확실하게 굴리는 무기입니다. 프로스트
 
 보석 선택은 순위가 아니라 가용량이 결정합니다. 번개 변형이 화력이 좋다는 평가가 있지만, 실제로는 지금 소지한 보석의 종류에 따라 어느 변형이든 현재 최선이 됩니다. 보석은 애쉬랜즈의 차르드 요새 공성에서 주로 얻으며, 야외의 반짝이는 광맥 노드에서도 채굴할 수 있습니다. 마법 빌드는 뿌리를 소환해 적을 속박하는 스태프 오브 더 와일드와, 화염구 120을 뿌리는 스태프 오브 엠버스를 조합해 광역을 확보하는 정석이 정착되어 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 1.0 딥노스 노드 무기와 보석 재련
 
 1.0 업데이트는 노드 무기 카테고리를 추가했습니다. 도끼와 검, 대검, 단검, 아트게이르, 활, 석궁, 메이스, 창, 너클 체인의 열 개 클래스가 전부 준비되며, 제작에는 윈딩 터널에서 얻는 몰드와 딥노스의 신금속 블러드골드가 들어갑니다. 기존 무기군을 대체하는 개념이 아니라 상위 티어로 이어붙는 형태라, 딥노스 첫 진입 단계에서는 미스트랜즈와 애쉬랜즈 무기를 쓰다가 재료를 모은 뒤 교체하는 흐름입니다.
@@ -101,13 +75,3 @@ A급은 해당 티어까지 확실하게 굴리는 무기입니다. 프로스트
 
 마법 빌드는 미스트랜즈부터 본격적으로 열립니다. 에이트르 음식을 먹고 스태프 오브 프로스트로 단일 대상을, 스태프 오브 엠버스로 광역을 처리하며, 위험한 구간은 스태프 오브 프로텍션 방어막으로 버티는 흐름이 표준입니다. 원거리는 드라우거 팡으로 진행하다 애쉬랜즈에서 애쉬 팡과 리퍼로 넘어가는 것이 가장 매끄럽고, 솔로 유저는 방패 효율이 떨어지는 쌍수 도끼보다 한손 무기에 방패를 끼워 생존력을 먼저 확보하는 편이 권장됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

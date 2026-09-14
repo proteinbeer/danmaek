@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 파이널 판타지 7 리메이크 프로젝트의 마지막 작품인 파이널 판타지 7 리벨레이션이 2027년 4월 8일 출시됩니다. 마지막 편이면 자연스럽게 결말이 먼저 궁금하지만, 새로 공개된 내용은 오히려 플레이어의 선택과 이동 자유를 더 크게 늘리는 쪽에 집중돼 있습니다.
 
 하이윈드로 세계를 날아다니고, 탐험 중 캐릭터를 즉시 바꾸고, 특정 임무를 누구와 진행할지도 고를 수 있습니다. 원작의 결말에 가까워질수록 게임 구조는 오히려 원작보다 더 자유로워지는 셈입니다.
@@ -46,17 +42,6 @@ hideDescription: true
 
 리버스에서 넓어진 지역 탐험을 마지막 편에서 다시 접어버리지 않고 오히려 공중까지 넓힌 셈입니다. 마지막으로 갈수록 이야기는 좁아지는데 세계는 더 넓어지는 묘한 구조죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 네 가지 피츠 시스템
 
 새 전투 요소로 피츠 시스템이 들어갑니다. 전사, 기사, 흑마도사, 소환사의 네 유형을 장착해 캐릭터의 기술과 전투 역할을 바꿀 수 있습니다.
@@ -73,17 +58,6 @@ hideDescription: true
 
 리버스에서 초코보 종류에 따라 이동 방식이 달랐다면 마지막 편에서는 캐릭터와 도구 자체가 이동 퍼즐에 더 깊게 들어가는 모습입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 누가 임무에 가느냐도 선택
 
 일부 임무에서는 어떤 파티원이 참여할지 이용자가 선택할 수 있습니다. 선택한 인물에 따라 특정 사건과 대화, 플레이 상황이 달라질 수 있다고 스퀘어 에닉스가 설명했습니다.
@@ -99,17 +73,6 @@ hideDescription: true
 상대가 경기 흐름을 크게 바꾸는 새로운 규칙도 사용하며, 기존 카드를 모으는 부가 활동보다 독립된 작은 캠페인에 가까워집니다.
 
 마지막 편에서 이런 미니게임을 줄이지 않고 오히려 별도 이야기를 붙인 것도 흥미롭습니다. 스퀘어 에닉스가 리벨레이션을 엔딩만 보러 달리는 직선형 게임으로 만들 생각은 없다는 뜻에 가깝습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 원작과 같은 곳에 도착할까
 

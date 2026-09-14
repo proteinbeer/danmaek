@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 더 블러드 오브 던워커의 전투는 단순한 버튼 난타가 통하지 않는 방향성 전투입니다. 공격 방향과 방어 타이밍을 읽어야 하고, 같은 적이라도 낮에 인간으로 대면할지 밤에 뱀파이어로 대면할지에 따라 난이도가 크게 달라집니다. 출시 직후 국내외에서 호평받은 부분이 바로 이 검술과 타이밍 설계입니다.
 
 이 글에서는 완벽 방어의 정확한 판정 기준, 자세 붕괴를 노리는 공격 설계, 낮과 밤을 오가는 전투 전환, 그리고 회복과 이동을 아우르는 실전 팁을 정리했습니다. 적의 공격 애니메이션을 읽는 방법부터 시작해 보겠습니다.
@@ -46,17 +42,6 @@ hideDescription: true
 
 방어가 어려운 상황에서는 화면의 방향 표시를 끝까지 보는 습관이 중요합니다. 공격이 들어오는 방향이 표시된 후 실패 없이 막아낼 수 있는 시간이 있고, 이 타이밍을 놓치지 않는 것이 완벽 방어의 핵심입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 자세 붕괴와 데미지 설계
 
 표면 데미지를 높이기보다 적의 자세를 먼저 붕괴시키는 플레이가 실전에서 효율적입니다. 자세가 무너진 적은 행동이 멈추고 추가 피해를 받기 쉬운 상태가 되므로, 단순 연타보다 공격 우선순위를 둘 가치가 있습니다.
@@ -72,17 +57,6 @@ hideDescription: true
 밤에는 이동기인 쉐도우스텝으로 적의 뒤나 측면을 잡고 발톱 공격을 넣는 접근이 강력합니다. 체력이 부족하면 전투 중 탐욕스러운 물기로 회복할 수 있으니, 흡혈 기술을 하나쯤 확보하면 지속력이 크게 올라갑니다.
 
 다만 시간대 전환에 주의가 필요합니다. 밤에 쉐도우스텝으로 폐탑에 들어가 건 안에 머무는 사이 해가 뜨면, 뱀파이어 능력을 쓸 수 없어 나가지 못하는 상황이 생깁니다. 이동과 공략을 시작하기 전에 현재 시간과 예상 경과를 확인하는 습관이 필요합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 회복과 흡혈 관리
 
@@ -100,13 +74,3 @@ hideDescription: true
 
 마지막으로 난이도 설정도 전투의 재미에 영향을 줍니다. 방어에 익숙해졌다면 도전 난이도 이상에서 플레이하는 편이 파티와 탐험의 무게감을 살려줍니다. 쉬운 난이도로는 브렌시스를 이르게 쓰러뜨려 30일이라는 시한 자체가 사라질 수 있으므로, 재미를 보전하고 싶다면 난이도를 올리는 것을 추천합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

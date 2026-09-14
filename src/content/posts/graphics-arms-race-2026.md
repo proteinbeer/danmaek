@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 시프와 시스템 쇼크 2에 참여했던 개발자 랜디 스미스가 게임 그래픽 경쟁은 2010년 앨런 웨이크 정도에서 멈췄어도 됐다고 말했습니다.
 
 사진처럼 보이는 화면을 더 사진처럼 만들기 위해 들어가는 비용이 너무 커졌다는 지적입니다.
@@ -30,7 +26,6 @@ hideDescription: true
 처음 들으면 옛날 개발자의 추억 이야기처럼 보입니다.
 
 하지만 지금 게임 개발비와 설치 용량, 업스케일링 의존도를 보면 생각보다 현재적인 질문입니다.
-
 
 <img class="post-landscape-image post-landscape-image--high" src="/assets/posts/news-images/graphics-arms-race-2026-01.jpg" alt="게임 그래픽은 2010년에 충분했다, 개발자가 멈추자 한 이유" width="2560" height="1440" loading="lazy" decoding="async" />
 
@@ -54,17 +49,6 @@ hideDescription: true
 
 그래픽 경쟁이 단순 기술 자랑이 아니라 사업 위험까지 키운다는 지적이 나오는 이유입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 업스케일링이 기본이 된 역설
 
 재미있는 건 그래픽카드가 빨라졌는데도 최신 게임이 네이티브 해상도를 당연하게 보장하지 않는다는 점입니다.
@@ -85,17 +69,6 @@ DLSS와 FSR 같은 업스케일링을 시스템 요구사항에 포함하는 게
 
 최신 광원 기술이 없어도 강한 미술 방향과 재미있는 시스템이 있으면 기억에 남는 작품이 될 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 그래도 경쟁은 멈추기 어렵다
 
 콘솔과 그래픽카드 회사는 새로운 하드웨어를 팔 이유가 필요하고 대형 퍼블리셔는 신작이 전작보다 좋아 보이기를 원합니다.
@@ -115,17 +88,6 @@ DLSS와 FSR 같은 업스케일링을 시스템 요구사항에 포함하는 게
 앨런 웨이크에서 멈췄어야 했다는 말은 과장처럼 들리지만 질문은 유효합니다.
 
 우리가 다음 세대 게임에서 정말 원하는 게 더 많은 픽셀인지부터 다시 물어볼 시점은 온 것 같습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 비용은 결국 이용자에게 돌아온다
 

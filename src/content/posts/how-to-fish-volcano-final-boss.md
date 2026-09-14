@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 낚시 방법 최종 보스 공략에서 막히는 분이라면 시스템 하나만 따로 보지 말고 진행과 장비를 함께 보시는 편이 좋습니다. 낚시 방법은 낚시, 전투, 판매, 퀘스트가 연결되어 있어 한 부분만 놓쳐도 다음 단계가 늦어질 수 있습니다.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/how-to-fish-2026-01.jpg" alt="낚시 방법(HOW TO FISH) 스팀 생존 낚시 게임 대표 이미지" width="460" height="215" loading="lazy" decoding="async" />
@@ -40,17 +36,6 @@ hideDescription: true
 
 화산섬은 전투가 길어질 수 있으니 원거리 무기와 충분한 자금을 준비하시는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 변이 북극고래로 이어진다
 
 일반 북극고래를 처리한 뒤에는 변이 형태로 이어지는 최종 전투가 있습니다. 중간에 잡은 보스 결과물이 다음 단계 조건으로 쓰이므로 퀘스트가 끝날 때까지 유지하시는 편이 안전합니다.
@@ -63,17 +48,6 @@ hideDescription: true
 
 스팀을 재시작해 최신 패치를 적용한 상태인지 먼저 확인하시면 불필요한 재시도를 줄일 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 협동에서는 역할을 나눈다
 
 여러 명이 함께한다면 한 명이 보스 움직임을 유도하고 나머지가 안전거리에서 공격하는 방식이 편합니다. 모두 같은 자리에 몰리면 큰 몸집과 물리 충돌 때문에 오히려 전투가 혼란스러워질 수 있습니다.
@@ -85,17 +59,6 @@ hideDescription: true
 최종 보스를 맨손으로 마무리하는 핸디맨 도전 과제가 있습니다. 처음 클리어에서는 굳이 이 조건까지 노리지 않고 안전하게 엔딩을 본 뒤 별도 도전으로 분리하시는 편이 좋습니다.
 
 1점0점4에서는 이 도전 과제 판정도 수정됐으니 최신 버전에서 시도하시는 편이 안전합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 엔딩 전 수집을 마칠 필요는 없다
 
@@ -119,13 +82,3 @@ hideDescription: true
 
 처음부터 모든 기능을 완벽하게 이해하려 하기보다 현재 목표에 필요한 것만 익히시면 됩니다. 낚시 방법은 새 섬으로 갈수록 앞에서 배운 시스템을 반복해서 쓰는 구조라 한두 지역만 지나도 장비와 퀘스트 판단이 훨씬 빨라집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

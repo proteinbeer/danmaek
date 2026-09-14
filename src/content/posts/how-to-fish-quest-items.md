@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 낚시 방법 퀘스트 아이템에서 막히는 분이라면 시스템 하나만 따로 보지 말고 진행과 장비를 함께 보시는 편이 좋습니다. 낚시 방법은 낚시, 전투, 판매, 퀘스트가 연결되어 있어 한 부분만 놓쳐도 다음 단계가 늦어질 수 있습니다.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/how-to-fish-2026-01.jpg" alt="낚시 방법(HOW TO FISH) 스팀 생존 낚시 게임 대표 이미지" width="460" height="215" loading="lazy" decoding="async" />
@@ -40,17 +36,6 @@ hideDescription: true
 
 이 첫 경험이 이후 섬에서도 반복됩니다. 보스를 잡았다면 바로 판매소로 가지 말고 퀘스트 인물부터 찾는 습관을 들이시면 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 바위섬은 특히 주의한다
 
 참치와 알바트로스가 이어지는 바위섬에서는 중간에 잡은 참치 자체가 다음 전투 조건으로 사용됩니다. 값이 좋아 보인다고 바로 팔면 진행이 꼬였다고 느낄 수 있습니다.
@@ -63,17 +48,6 @@ hideDescription: true
 
 현재 퀘스트 목적이 무엇인지 확인하고 다음 소환 조건까지 보신 뒤 아이템을 정리하시면 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 바닥에 둔 아이템은 최신 패치에서 저장된다
 
 1점0점10 이후에는 바닥에 떨어뜨린 아이템도 최대 64개까지 세션 저장에 포함되며 무기, 도구, 퀘스트 아이템, 생물 등이 우선됩니다. 이전보다 고유 아이템 관리가 편해진 셈입니다.
@@ -85,17 +59,6 @@ hideDescription: true
 최근 패치에서는 아이템이 판매되기 전에 한 번 손에 들린 상태여야 하도록 수정된 부분도 있습니다. 인벤토리와 판매 동작이 이상하다면 최신 버전 적용 여부를 먼저 확인해 보시면 됩니다.
 
 게임이 빠르게 패치된 만큼 예전 영상과 현재 아이템 처리 방식이 조금 다를 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 퀘스트 막힘은 대부분 아이템에서 찾는다
 
@@ -119,13 +82,3 @@ hideDescription: true
 
 처음부터 모든 기능을 완벽하게 이해하려 하기보다 현재 목표에 필요한 것만 익히시면 됩니다. 낚시 방법은 새 섬으로 갈수록 앞에서 배운 시스템을 반복해서 쓰는 구조라 한두 지역만 지나도 장비와 퀘스트 판단이 훨씬 빨라집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

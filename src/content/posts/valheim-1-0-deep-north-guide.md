@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 발하임이 2021년 2월 얼리 액세스로 공개된 지 5년 반 만에 1.0으로 정식 출시됐습니다. 2026년 9월 9일자로 PC와 콘솔을 통틀어 모든 플랫폼에 동시에 1.0 업데이트가 적용되었고, 개발진이 마지막 계획 바이옴으로 예고한 딥노스가 지도 최북단에 완성됐습니다. 오랜 기간 비어 있던 얼음 지역이 정식 콘텐츠로 채워지면서, 5년간 이어지던 미지의 영역이 마무리되는 셈입니다.
 
 이 글은 출시 당일에 바로 써먹을 수 있는 내용 위주로 정리했습니다. 딥노스에 들어가기 전에 갖춰야 할 장비와 아이템, 새로 등장한 몬스터와 던전의 구조, 노드 무기와 신소재의 수급 흐름, 기존 세이브를 이어갈지 새로 시작할지 정하는 기준, 그리고 이번에 처음 합류한 PS5와 스위치 2 유저를 위한 크로스플레이 설정까지 순서대로 다룹니다.
@@ -44,17 +40,6 @@ hideDescription: true
 
 냉기 디버프 대비도 미리 해두어야 합니다. 딥노스 지역 전반에 서릿발 같은 추위 디버프가 걸리므로, 울프 케이프나 록스 케이프 같은 한기 저항 장비를 입고 들어가는 것을 기본으로 합니다. 최초 진입은 얼음을 깨고 상륙하는 구간부터 시작되며, 눈이 쌓인 지면을 정리하는 삽이 있어야 캠프를 세울 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 신규 몬스터와 던전 구조
 
 가장 눈에 띄는 신규 몬스터는 갬멜트롤입니다. 거대한 나무를 던지며 공격하는 고대 트롤로, 쓰러지면 몸이 돌로 굳는 특징이 있습니다. 이렇게 석화된 몸은 일반 공격으로는 채집할 수 없고 엠버 차지로 한 번에 부숴야 하며, 여기서 얻는 페트리파이드 티슈를 제련하면 딥노스 대응 금속인 블러드골드가 만들어집니다.
@@ -70,17 +55,6 @@ hideDescription: true
 별도의 이름을 가진 장비도 추가됐습니다. 냉기 충격파를 쏘는 에코 스파이크, 지정 지점에 낙뢰를 떨어뜨리는 라이트닝 스트라이크, 공격을 받은 적에게 그대로 피해를 돌려주는 노던 벤전스, 유령 늑대와 곰, 무스를 소환하는 스피릿 콜러가 대표적입니다. 방어구는 경갑과 중갑, 마법 갑옷 세 가지 티어로 나뉘며, 북부 스타일의 원형 방패와 대형 방패도 함께 추가됐습니다.
 
 생존 측면에서는 링곤베리와 케일 씨앗 같은 신규 식재료가 등장하며, 링곤베리를 활용한 미트볼 요리가 상위 스태미나 음식 자리를 차지합니다. 건축 재료로는 딥노스 지역의 상위 우드인 팀버우드가 추가됐고, 눈덩이를 모아 얼음 블록을 만드는 아이스 메이커 방식과 무거운 도개교 같은 신규 건축물도 함께 들어왔습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 기존 세이브 이어가기와 새 게임 시작
 
@@ -98,13 +72,3 @@ hideDescription: true
 
 PS5판은 로컬 1인, 온라인 최대 10인을 지원하며 온라인 플레이에는 PS 플러스가 필요합니다. 듀얼센스의 햅틱 반응과 적응형 트리거도 지원되어 낚시와 패링 같은 조작이 플랫폼 특유의 감각으로 체감됩니다. 새 콘솔 유저는 편한 여명의 초원에서 기초 장비를 갖춘 뒤 순서대로 바이옴을 밟는 것을 권장하며, 여러 인원이 함께한다면 전용 서버를 크로스플레이 모드로 켜 두는 것이 가장 깔끔한 운영 방식입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

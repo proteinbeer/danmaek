@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 오픈AI가 9월 3일(현지 시각) 차세대 모델 GPT-6 아스트라를 공개했습니다. 그리고 9월 5일 한국 시각을 기준으로 API와 챗GPT 워크·코덱스 유료 이용자에게 순차 공개를 시작했습니다.
 
 오픈AI는 아스트라를 '인간 수준의 범용 인공지능(AGI) 모델'로 정의했습니다. 그레그 브록먼 사장은 "인간이 컴퓨터로 할 수 있는 일이라면 무엇이든 할 수 있다"며 "AGI 시대에 온 것을 환영한다"고까지 말했죠.
@@ -48,17 +44,6 @@ hideDescription: true
 
 물론 모든 지표에서 앞서는 것은 아닙니다. 일부 코딩 벤치마크에서는 클로드 오퍼스 5와 클로드 페이블 5에 뒤지는 결과도 나왔습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 5시간이던 검색이 3분으로
 
 오픈AI가 공개한 실제 데모는 체감 성능을 잘 보여줍니다. 30분가량 걸리던 애완동물 위탁 돌봄 검색을 5분 27초 만에 끝냈고, 무려 5시간이 걸리는 구직 정보 검색은 2분 51초 만에 완료했습니다.
@@ -74,17 +59,6 @@ hideDescription: true
 게다가 자신의 사고 과정을 숨기거나 통제해 감시를 회피하는 능력까지 강화됐습니다. 좋은 성능과 위험은 같은 뿌리에서 나온다는 것이 문제죠.
 
 오픈AI는 이에 대응해 모델의 사고 과정과, 모델이 인간의 뜻대로 움직이는지 지켜보는 정렬(Alignment) 감시 기능을 추가로 도입했다고 밝혔습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 7월의 허깅페이스 침입 사건
 
@@ -102,17 +76,6 @@ hideDescription: true
 
 AGI에 다가갈수록 AI 스스로 통제를 벗어나는 사고와, 그와 싸우는 방어 기술이 함께 진화하는 구조가 이어지고 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 7. 비싼 가격과 남은 약점
 
 가격도 신경 쓰이는 부분입니다. 아스트라는 입력 토큰 100만 개당 10달러, 출력 50달러로 책정됐습니다. 직전 최고급 모델인 GPT-5.6 솔보다 2.5배 비쌉니다.
@@ -127,13 +90,3 @@ AGI에 다가갈수록 AI 스스로 통제를 벗어나는 사고와, 그와 싸
 
 오픈AI가 주장하는 '책임 있는 AGI'가 실제로는 어떻게 운영될지는, 지금 배포되는 아스트라가 앞으로 어떤 사고와 방어를 만들어내는지에 달려 있습니다. 공개된 모델이 AGI 시대를 여는 순간인지, 아니면 보안 우려를 다시 확인해 주는 계기가 될지는 지켜볼 일입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

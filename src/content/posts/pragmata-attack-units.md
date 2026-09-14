@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 공격 유닛은 프라그마타에서 오픈 상태를 가장 강하게 활용하는 장비입니다. 주무기가 꾸준한 기본 화력이라면 공격 유닛은 짧은 공격 기회에 큰 피해를 몰아 넣는 도구에 가깝습니다.
 
 여러 종류가 있지만 한 번에 모두 최고로 키울 필요는 없습니다. 근거리, 원거리, 다수전처럼 역할이 뚜렷해서 자신의 플레이에서 부족한 한두 가지를 먼저 강화하는 편이 효율적입니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 다만 충전 시간이 있어 안전한 공격 기회를 만들어야 합니다. 스테이시스 넷이나 디코이 제너레이터와 함께 쓰면 훨씬 안정적으로 최대 효율을 낼 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 포톤 레이저는 지속 화력
 
 포톤 레이저는 목표를 안정적으로 잡아 둘 수 있을 때 강한 지속 피해를 노리기 좋은 공격 유닛입니다. 움직임이 큰 적보다는 해킹 후 약점이 열리고 움직임을 제한한 상대에게 쓰는 편이 좋습니다.
@@ -65,17 +50,6 @@ hideDescription: true
 
 보스만 보고 로드아웃을 만들면 일반 구역 진행이 답답해질 수 있습니다. 한 슬롯 정도는 다수전 대응 장비로 두는 것도 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 후반 장비는 목적이 분명하다
 
 후반과 엔드게임에서 얻는 공격 유닛은 강력하지만 모든 상황에서 무조건 최고는 아닙니다. 짧은 사거리, 소모량, 해금 조건처럼 대가가 붙는 경우가 있습니다.
@@ -87,17 +61,6 @@ hideDescription: true
 주무기와 달리 공격 유닛은 제한된 사용 횟수를 신경 써야 합니다. 일반 적을 빨리 잡겠다고 계속 쓰면 보스 문 앞에서 선택지가 줄어듭니다.
 
 해킹과 주무기로 처리 가능한 적은 기본 루프로 넘기고, 위험한 적과 보스 오픈 시간에 집중해 쓰는 편이 좋습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 첫 회차 추천 조합
 

@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 모탈 셸 2 오픈월드에는 36개의 던전이 있습니다. 대부분 승강기나 별도 입구를 통해 들어가며 근접 무기, 보조 무기, 타르스톤, 회복 강화처럼 실제 전투력을 높이는 보상이 들어 있어 메인 길만 따라가면 성장 격차가 생기기 쉽습니다.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/mortal-shell-2-2026-01.jpg" alt="모탈 셸 2(Mortal Shell 2) 소울라이크 액션 게임 대표 이미지" width="686" height="386" loading="lazy" decoding="async" />
@@ -42,17 +38,6 @@ hideDescription: true
 
 탐험에서는 목적지보다 귀환 경로를 먼저 만들어 두는 편이 좋습니다. 비컨을 활성화하고 주변 지형을 한 번 확인한 뒤 깊게 들어가면 사망했을 때 반복 이동하는 시간을 크게 줄일 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 완료 표시는 수동
 
 게임이 모든 던전 완료 상태를 자동으로 정리해 주지는 않습니다. 지도에서 해당 던전을 선택해 완료 표시를 수동으로 바꾸는 기능을 활용하면 후반 수집 정리가 훨씬 편해집니다.
@@ -67,17 +52,6 @@ hideDescription: true
 
 수집 요소를 한 번에 전부 찾으려 하기보다 지역별로 나누어 정리하면 놓친 위치를 확인하기 쉽습니다. 메인 진행과 수집을 완전히 섞으면 어느 길을 이미 확인했는지 헷갈리기 쉽습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 보조 무기도 다수
 
 잊힌 석궁, 트라이악 리피터, 발리스타주카 같은 보조 무기도 던전 탐험과 연결됩니다. 원거리 운영을 선호한다면 메인 보스만 쫓는 것보다 던전 탐험 우선순위를 높이는 것이 좋습니다.
@@ -89,17 +63,6 @@ hideDescription: true
 마몬과 사일런트 스텝 주변에는 후반 장비와 셸 획득에 연결되는 던전이 있습니다. 특히 체임버 오브 비커밍은 사리엘 셸과 시계태엽 낫, 보조 무기까지 한 흐름에서 정리할 수 있어 중요합니다.
 
 업적이나 모든 수집 요소를 목표로 하지 않으신다면 첫 회차부터 모든 길을 확인할 필요는 없습니다. 엔딩 이후에도 자유 탐험이 가능하므로 스토리 흐름을 먼저 보고, 필요한 셸과 무기만 챙긴 뒤 나머지를 정리하는 방식도 충분히 좋은 선택입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 엔딩 뒤에도 가능
 

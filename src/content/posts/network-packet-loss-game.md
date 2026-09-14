@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 핑 숫자는 낮은데 캐릭터가 순간이동하거나 음성이 끊기는 경우 패킷 손실을 확인할 필요가 있습니다. 네트워크에서 보낸 데이터 일부가 목적지까지 도착하지 않으면 다시 보내야 하거나 게임이 해당 정보를 건너뛰면서 체감 끊김이 생깁니다.
 
 이 문제는 겉으로 보이는 증상과 실제 원인이 다른 경우가 많습니다. 그래서 처음부터 설정을 크게 바꾸기보다 어느 구간에서 문제가 생겼는지 범위를 좁히는 것이 중요합니다.
@@ -43,17 +39,6 @@ hideDescription: true
 
 이 원인들은 서로 비슷한 증상을 만들 수 있습니다. 그래서 인터넷 속도 측정 결과나 오류 문구 하나만 보고 바로 결론을 내리기보다 물리 연결, 주소 설정, 공유기 역할을 차례로 나눠보는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. PC와 공유기에서 볼 부분
 
 공유기 게이트웨이와 외부 서버에 각각 ping을 보내 손실 위치를 비교합니다. 유선 연결로 바꿨을 때 손실이 사라지는지 봅니다. 게임 중 다른 기기의 업로드와 클라우드 동기화를 멈춰 비교합니다.
@@ -65,17 +50,6 @@ hideDescription: true
 무선 손실이면 공유기 위치와 대역을 조정하거나 유선을 사용합니다. 로컬에서도 손실이 있으면 케이블과 공유기 포트를 점검합니다. 외부 구간에서만 반복되면 시간대별 기록을 남겨 통신사에 문의합니다.
 
 적용 뒤에는 바로 다음 설정으로 넘어가지 말고 같은 조건에서 다시 확인하시는 편이 좋습니다. 한 단계씩 바꿔야 어떤 조치가 실제로 문제를 해결했는지 알 수 있고, 나중에 같은 증상이 생겼을 때도 훨씬 빠르게 대응할 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 그래도 해결되지 않을 때
 
@@ -89,17 +63,6 @@ hideDescription: true
 
 네트워크 설정은 서로 연결돼 있어서 문제를 빨리 고치겠다고 초기화, 수동 IP, DNS 변경, 포트 설정을 한꺼번에 적용하면 오히려 원인을 잃을 수 있습니다. 바꾸기 전 값을 기록하고 한 번에 한 항목만 수정하는 습관이 중요합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 7. 마지막 판단 기준
 
 게임에서 평균 핑이 20ms여도 데이터가 중간중간 사라지면 체감은 나쁠 수 있습니다. 평균값이 좋아 보여도 순간적인 손실이 경험을 망칠 수 있다는 점이 네트워크 문제의 까다로운 부분입니다.
@@ -112,13 +75,3 @@ hideDescription: true
 
 문제가 다시 생기면 처음 해결했던 설정을 그대로 반복하기보다 현재 링크 속도, IP 주소, 게이트웨이, 무선 대역처럼 기본 상태부터 다시 확인하시면 됩니다. 네트워크는 장비 하나가 아니라 연결된 전체 구조가 함께 움직이기 때문에 작은 변화가 다른 구간에 영향을 줄 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

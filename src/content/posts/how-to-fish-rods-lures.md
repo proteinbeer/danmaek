@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 낚시 방법 낚싯대와 미끼에서 막히는 분이라면 시스템 하나만 따로 보지 말고 진행과 장비를 함께 보시는 편이 좋습니다. 낚시 방법은 낚시, 전투, 판매, 퀘스트가 연결되어 있어 한 부분만 놓쳐도 다음 단계가 늦어질 수 있습니다.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/how-to-fish-2026-01.jpg" alt="낚시 방법(HOW TO FISH) 스팀 생존 낚시 게임 대표 이미지" width="460" height="215" loading="lazy" decoding="async" />
@@ -40,17 +36,6 @@ hideDescription: true
 
 도감 작업을 할 때도 마찬가지입니다. 누락된 어종이 있다면 무작정 최고 미끼를 쓰기보다 그 어종이 속한 섬과 미끼 단계를 다시 확인하시는 편이 빠릅니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 보스는 전용 미끼가 따로 있다
 
 스토리 보스는 일반 미끼와 다른 조건을 사용합니다. 첫 거미게는 빈 맥주캔, 숲섬 거대 피라냐는 변형 거머리처럼 퀘스트에서 얻는 전용 미끼가 핵심입니다.
@@ -63,17 +48,6 @@ hideDescription: true
 
 낚싯대만 먼저 최고로 올리기보다 현재 섬에서 필요한 만큼 맞추고 남는 돈을 무기와 이동 장비에 나누는 편이 진행이 안정적입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 보스 미끼는 실수로 쓰지 않는다
 
 특수 미끼는 일반 낚시에 던지는 순간 귀찮은 상황이 생길 수 있습니다. 특히 보스 소환용 아이템은 퀘스트 진행과 연결되어 있으니 사용 전에 현재 임무를 확인하시는 편이 좋습니다.
@@ -85,17 +59,6 @@ hideDescription: true
 피시피디아를 채우려면 섬별로 빠진 어종을 보고 미끼 단계를 맞춰서 돌아다니는 방식이 효율적입니다. 잡히는 대로 기록하기보다 섬 하나를 정리하고 넘어가는 쪽이 누락을 찾기 쉽습니다.
 
 드립 변종까지 노린다면 일반 어종을 먼저 정리한 뒤 희귀 파밍을 분리하시는 편이 좋습니다. 일반 수집과 희귀 수집을 동시에 하면 무엇이 남았는지 헷갈리기 쉽습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 낚시 장비는 목적별로 고른다
 
@@ -117,13 +80,3 @@ hideDescription: true
 
 초반과 후반의 좋은 소비도 다릅니다. 초반은 미끼와 기본 무기, 레이더가 중요하고, 후반은 엔진과 수집 효율이 중요해지므로 한 가지 구매 순서를 끝까지 고집하지 않는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

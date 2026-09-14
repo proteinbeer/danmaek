@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 글을 쓰고 얼마 지나지 않아 "재밌게 봤습니다"와 함께 **외부 링크가 심어져 있는 댓글**이 달리기 시작하면 그게 스팸 댓글입니다. 처음에는 하나둘이지만 승인을 건너뛰고 노출되기 시작하면 사이트 신뢰도가 떨어집니다.
 
 스팸 댓글은 설정 몇 가지와 플러그인 하나로 대부분 자동 차단됩니다. 이 글에서는 설정 → 금칙어 → 캡차 → 플러그인 순서로 정리했습니다.
@@ -49,17 +45,6 @@ hideDescription: true
 
 금칙어는 완벽하지 않지만 확실한 단어 몇 개 목록으로 대량 도배를 막는 데 효율적입니다. 봇이 단어를 바꿔가며 우회하는 경우가 있으니 플러그인과 조합해서 쓰는 것이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 캡차나 간단 질문으로 봇 막기
 
 자동 프로그램은 폼을 채우는 데 강하지만, 인간만 알 수 있는 질문에는 약합니다.
@@ -79,17 +64,6 @@ hideDescription: true
 - Akismet 외 국내 서비스 기반 스팸 필터 플러그인도 있으니 스팸 유형에 맞는 것을 골라 쓸 수 있습니다.
 
 악성 봇은 계속 진화하기 때문에 텍스트 규칙만으로는 한계가 있습니다. Akismet처럼 **패턴을 실시간으로 학습하는 서비스**를 켜두면 거의 손이 가지 않습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 기존 스팸 한 번에 정리하기
 
@@ -113,13 +87,3 @@ hideDescription: true
 
 스팸 댓글은 "몰라서 피해를 보는 문제"에 가깝습니다. 기본 설정과 플러그인 하나만 제대로 해두어도 하루 수십 건의 도배가 거의 0으로 줄어듭니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

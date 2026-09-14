@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 PS5에 게임 디스크를 넣었는데 인식하지 못하거나 설치 중 오류가 나면 디스크 드라이브 고장을 걱정하게 됩니다. 하지만 디스크 방향, 표면 오염, 특정 타이틀 문제처럼 간단한 원인도 많습니다.
 
 한 장만 안 되는지 모든 디스크가 안 되는지를 구분하는 것이 첫 단계입니다.
@@ -41,17 +37,6 @@ PS5를 세워 쓰는지 눕혀 쓰는지에 따라 디스크가 들어가는 방
 
 강한 세정제나 거친 휴지는 오히려 표면을 손상시킬 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 다른 디스크로 비교
 
 한 게임만 안 읽히면 해당 디스크 문제일 가능성이 높습니다. 영화 디스크나 다른 게임을 넣어 정상 인식되는지 비교하면 드라이브 문제와 빠르게 구분할 수 있습니다.
@@ -64,17 +49,6 @@ PS5를 세워 쓰는지 눕혀 쓰는지에 따라 디스크가 들어가는 방
 
 디스크는 읽혔는데 설치만 멈춘다면 드라이브보다 저장이나 시스템 문제일 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 분리형 디스크 드라이브 확인
 
 분리형 디스크 드라이브를 사용하는 PS5 모델이라면 드라이브가 본체에 제대로 장착되고 등록됐는지 확인해야 합니다. 본체 이동 뒤 연결 상태가 달라졌다면 다시 점검합니다.
@@ -86,17 +60,6 @@ PS5를 세워 쓰는지 눕혀 쓰는지에 따라 디스크가 들어가는 방
 깨끗한 정상 디스크 여러 장이 모두 인식되지 않고 재시작과 업데이트도 효과가 없다면 하드웨어 점검이 필요할 수 있습니다.
 
 이때는 오류 메시지와 디스크 종류를 기록해 공식 지원에 전달하면 진단이 더 빠릅니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 설정 변경 뒤 확인할 부분
 
@@ -112,13 +75,3 @@ PS5 문제 해결은 무작정 초기화하는 것보다 재현 조건을 찾는
 
 PS5는 같은 증상이라도 계정, 게임 버전, 연결 장비에 따라 원인이 달라질 수 있습니다. 그래서 가장 최근에 바꾼 설정과 문제가 시작된 시점을 기준으로 하나씩 되돌려 확인하시면 불필요한 재설치와 초기화를 줄일 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

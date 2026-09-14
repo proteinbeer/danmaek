@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 봄바나나는 세 명이 같은 정보를 보는 협동 게임이 아닙니다. 장님 원숭이, 벙어리 원숭이, 귀머거리 원숭이가 서로 다른 정보만 가진 상태에서 폭탄을 해체해야 하죠. 그래서 퍼즐 실력보다 먼저 필요한 것은 역할 이해와 말의 순서를 맞추는 일입니다.
 
 처음 하시면 폭탄보다 친구 말이 더 어려울 수 있습니다. 누가 무엇을 보고, 누가 누구에게 전달해야 하는지부터 정리하면 첫판부터 실패 횟수를 꽤 줄일 수 있습니다.
@@ -46,17 +42,6 @@ hideDescription: true
 
 장님은 실행, 벙어리는 설명서 확인, 귀머거리는 중계를 맡는다는 큰 틀만 알아도 혼란이 크게 줄어듭니다. 각 역할이 못 듣거나 못 보는 정보가 다르다는 점을 이해하시면 남의 실수를 오해하는 일도 줄어듭니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 첫판은 역할을 고정한다
 
 처음부터 매판 랜덤 역할을 돌리기보다 서너 판 정도는 같은 역할을 유지하시는 편이 좋습니다. 그래야 내가 어떤 정보를 먼저 말해야 하는지 몸에 익습니다.
@@ -73,17 +58,6 @@ hideDescription: true
 
 왼쪽, 오른쪽, 위, 아래, 정지, 다시 같은 기본 표현은 시작 전에 통일하시는 편이 좋습니다. 긴 문장보다 짧은 단어 하나가 타이머가 줄어드는 상황에서는 훨씬 정확하게 전달됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 한 번에 하나만 처리한다
 
 폭탄에 여러 모듈이 보여도 동시에 여러 문제를 풀려고 하면 통신이 꼬입니다. 초반에는 하나를 완전히 해결한 뒤 다음 모듈로 넘어가는 편이 훨씬 안정적입니다.
@@ -99,17 +73,6 @@ hideDescription: true
 같은 실수를 두 번 하지 않는 팀이 금방 늘어납니다. 매판 끝나고 한 문장만이라도 문제를 짚으면 캠페인 진행 속도가 확 달라집니다.
 
 폭발한 뒤에는 누구 탓인지 따지기보다 어떤 단계에서 정보가 끊겼는지만 확인하시면 됩니다. 관찰, 설명서 확인, 중계, 실행 중 어느 단계가 문제였는지 찾으면 다음 판에서 바로 고칠 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 캠페인부터 시작한다
 

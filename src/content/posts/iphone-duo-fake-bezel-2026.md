@@ -17,11 +17,8 @@ imageWidth: 1200
 imageHeight: 675
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
-
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
 
 아이폰 듀오에는 외부 화면의 일부를 소프트웨어로 줄여 케이스와 간섭을 줄이는 기능이 들어갑니다. 실제 베젤을 두껍게 만드는 대신 화면 표시 영역을 옮겨 케이스 구조에 맞추는 방식입니다.
 
@@ -41,17 +38,6 @@ hideDescription: true
 
 기술 변화는 제품 하나에서 끝나지 않고 기업 전략과 규제, 이용 습관까지 이어집니다. 왜 지금 이런 결정이 나왔는지 보면 단순한 기능 추가보다 더 큰 흐름이 보이죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 폴더블에서 케이스가 더 까다로운 이유
 
 두꺼운 보호 케이스를 사용하는 사람에게는 작은 화면 손실보다 터치 영역이 가려지는 문제가 더 불편할 수 있습니다. 설정으로 위치를 바꿀 수 있다면 케이스 제조사가 과도하게 얇은 테두리를 강요받지 않아도 됩니다.
@@ -67,17 +53,6 @@ hideDescription: true
 이 기능은 화면을 크게 만드는 경쟁과 반대 방향이라 더 흥미롭습니다. 실제 사용에서 몇 밀리미터의 표시 영역보다 터치 오작동과 케이스 간섭을 줄이는 편이 중요할 수 있다는 현실적인 선택입니다.
 
 개인적으로는 이 지점이 가장 중요해 보입니다. 기술은 빠르게 바뀌지만 사람과 제도가 적응하는 속도는 느리기 때문에 작은 설계 차이가 시간이 지나면 큰 신뢰 차이로 이어질 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 앱과 영상에서 화면 비율이 관건
 

@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 더 블러드 오브 던워커는 프로로그가 끝나면 아무 데나 갈 수 있는 열린 지도가 펼쳐집니다. 문제는 오픈월드의 자유로움이 곧 길 잃음으로 이어진다는 점입니다. 어떤 퀘스트부터 받느냐에 따라 빠른 이동과 연맹, 최종전 동료 확보까지 타이밍이 크게 달라지므로, 초반의 활동 순서는 계획의 일부로 다뤄야 합니다.
 
 이 글에서는 프로로그 마무리 조건, 첫 밤에 반드시 하는 탐색, 이후 퀘스트 라인의 권장 순서, 궁정 활동 우선순위, 그리고 최종전 준비까지 한 흐름으로 정리했습니다. 시간 비용이 적은 순서대로 정렬했으므로 그대로 따라가도 예산이 넉넉합니다.
@@ -46,17 +42,6 @@ hideDescription: true
 
 마을 인근의 성소도 미리 밟아두는 편이 좋습니다. 성소는 빠른 이동 거점이자 스킬 해금 장소인데, 지도가 닫혀 있는 동안 성소를 열어두면 다음 날부터 활동 반경이 크게 넓어집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 기점 퀘스트와 라인의 순서
 
 프로로그 직후 우선 수락하는 퀘스트는 세 가지입니다. 첫째는 라슬레아 글렌 북쪽의 폐가에서 시작하는 '더 파이어브랜드'로, 머트 밀을 거쳐 마뉴밋 접촉으로 이어지는 대형 라인의 기점입니다. 둘째는 '베어 트러블'로, 이후 '필그리미지 포 파워' 라인과 주술 능력 레이버너스 플록의 교본을 얻을 수 있습니다. 셋째는 동쪽 십자로 인의 '에코즈 오브 실런드 벨'로, 안카의 이야기와 여러 후속 퀘스트로 갈라집니다.
@@ -72,17 +57,6 @@ hideDescription: true
 초반에는 암브루스를 가장 먼저 노리는 편이 좋습니다. 그의 활동은 레벨 1 이상의 가장 낮은 난이도대에서 시작하고, 북부 지역이라 세계 진입도 수월합니다. 특히 '씨잉 레드', '언인바이티드', '트러블 브루잉'이라는 블러드 셀라 세 개는 각각 1단위짜리로 악명 상승 효율이 높습니다. 본부 활동과 대면은 악명치가 갖추어지면 하나씩 열립니다.
 
 암브루스 대면으로 악명봉 일부를 확보한 뒤 바키르, 마지막으로 잔테 순으로 내려가는 것이 보고된 난이도 대역(레벨 20 이상, 25 이상)과도 맞물립니다. 공격을 분산하지 않고 한 명씩 밀어붙이면 같은 시간으로 완성된 분기점 하나를 확실히 얻게 됩니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 연맹 퀘스트 시점
 
@@ -100,13 +74,3 @@ hideDescription: true
 
 이 순서를 밟으면 30일 예산은 480단위 중 절반도 쓰지 않은 채 모든 연맹과 장비, 엔딩 분기 세이브가 준비됩니다. 남은 시간은 자유롭게 탐험을 즐기며 채워도 되고, 조기 결말 확인에 써도 됩니다. 순서만 맞추면 이 게임의 30일은 결코 모자라지 않습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

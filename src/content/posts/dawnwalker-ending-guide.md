@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 더 블러드 오브 던워커의 결말은 하나가 아닙니다. 확인된 엔딩만 일곱 개이며, 그중 둘은 대부분의 스토리를 건너뛰고 초반에 바로 도달할 수 있습니다. 커다란 장점은 이 일곱 결말이 한 번의 플레이로 전부 볼 수 있다는 점인데, 그 대가로 최종 퀘스트 직전의 분기 세이브와 연맹 체인 정리가 필요합니다.
 
 이 글에서는 각 엔딩의 조건과 도달 경로, 결말을 바꾸는 핵심 선택지, 그리고 모든 결말을 효율적으로 보는 세이브 플랜을 정리했습니다. 스포일러가 많으므로 첫 플레이를 막 끝낸 뒤 돌아보기 좋은 내용입니다.
@@ -56,17 +52,6 @@ hideDescription: true
 
 세 보스 처치 후 악명이 최대가 되면, 하루를 넘기면 악명 칙령이 내려지는 컷신이 뜨고 브렌시스가 회담을 제안합니다. 이때 최종 퀘스트 '악마와의 거래'가 일지에 추가되며, 이 시점이 모든 일반 엔딩의 분기점입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 최종 퀘스트의 셋업과 전제 조건
 
 최종 퀘스트를 열기 전에 반드시 챙겨야 할 전제가 있습니다. 첫 번째는 프롤로그에서 어머니 에스메를 살려두는 일입니다. 프로로그 시한 안에 올바른 약을 지어줘야 하며, 약을 잘못 만들면 저녁 미사에서 참사가 벌어집니다. 가족 상태는 턴코트 경로의 속성인 '기어이 제시간에' 달성 여부를 가릅니다.
@@ -82,17 +67,6 @@ hideDescription: true
 라크라와 함께 가는 패트리사이드는 라크라의 퀘스트 체인 완료가 선결 조건입니다. 체인의 마지막인 '미드나잇 레커닝' 목표가 대화를 유도하면 이것이 그녀 경로의 시작입니다. 라크라가 최종전에서 살아남으려면 반드시 '나이트 오브 호러스'를 먼저 끝내고 만드레이크를 함께 먹어야 하며, 이때 흡혈 트리의 만드레이크 와드가 열립니다.
 
 크레이크의 크냐즈메이커는 요구치가 더 깁니다. '라이즈 앳 던'에서 그와 대화하는 순간 종결 시퀀스가 시작되고 이어 '폴 비포 더스트'에서 그레이프버그 성을 침공합니다. 브렌시스가 카탈린을 덮칠 때 그를 살리면 크레이크와 함께 싸우고, 무시하면 크레이크가 대신 죽습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 거래와 초반 탈출 엔딩
 
@@ -116,13 +90,3 @@ hideDescription: true
 
 타임아웃 엔딩은 트로피가 없지만 유일하게 엔딩 이후에도 자유 이동이 가능합니다. 가족이 죽고 목표가 복수로 바뀌는 형태라 브렌시스 처치를 계속할 수 있습니다. 에필로그에 800드나리 이상을 갖추면 교회 헌금과 누이 얀나의 혼수금에 쓸 수 있으니, 최종전 전에 돈을 넉넉히 챙겨두면 좋습니다. 어느 결말이든 만족스럽게 마쳤다면 분기 세이브를 남겨두고 다음 결말을 바라보는 것이 이 게임의 올바른 마무리입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 이스트 하돈필드는 하돈필드 중심부에서 떨어진 농업 지역으로 설계된 맵입니다. 래빗 인 레드 라운지, 펠프스 차고, 미드웨스트 피드 컴퍼니 같은 시설이 흩어져 있고 주거지 중심 맵보다 건물 사이의 거리와 열린 공간이 크게 느껴집니다.
 
 이 지역에서는 좁은 집 안에서 마이클을 피하는 것보다 어디까지 이동할지 판단하는 능력이 중요합니다. 한 번 잘못 갈라지면 팀과 다시 합류하는 데 시간이 오래 걸릴 수 있습니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 민간인은 이런 큰 건물을 단순 루팅 장소가 아니라 팀 위치를 맞추는 표식으로 활용하시면 좋습니다. 맵에서 길을 잃었을 때 서로 같은 건물 이름을 알고 있으면 불필요한 왕복이 줄어듭니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 펠프스 차고와 차량 동선
 
 펠프스 차고는 외곽의 자동차 정비 시설로 지역의 분위기와 잘 맞는 장소입니다. 이스트 하돈필드처럼 거리가 넓은 맵에서는 차량 관련 아이템과 탈출 후보를 발견했을 때 이동 계획을 빠르게 세우는 것이 중요합니다.
@@ -64,17 +49,6 @@ hideDescription: true
 넓은 들판과 도로는 마이클이 멀리서 스토킹하기 좋은 공간이기도 합니다. 시야가 넓다고 무조건 안전한 것은 아니며 한곳에서 오래 작업하면 멀리서 관찰당할 수 있습니다.
 
 대신 여러 민간인이 서로 다른 방향을 확인하며 이동하면 셰이프 점프의 진입과 이탈 조건을 제한할 수 있습니다. 넓은 공간의 장점은 도망 거리가 아니라 마이클의 위치를 더 빨리 확인할 수 있다는 데 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 마이클은 길목을 선점
 
@@ -89,17 +63,6 @@ hideDescription: true
 탈출을 작동하기 전에 동료가 같은 지역에 있는지, 주민을 데려올 준비가 됐는지, 마이클을 잠시 막을 수단이 있는지 확인하시는 것이 좋습니다. 넓은 공간에서 각자 떨어져 있으면 구조에 시간이 오래 걸립니다.
 
 이스트 하돈필드는 공간이 넓어서 자유로워 보이지만 고립의 위험도 큰 맵입니다. 큰 시설을 기준점으로 삼고 합류 지점을 정하는 것만으로도 민간인 운영이 안정되며, 마이클은 바로 그 이동 경로를 읽는 것이 핵심입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 이동 시간도 자원으로 계산
 

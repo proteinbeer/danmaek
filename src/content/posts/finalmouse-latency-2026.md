@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 파이널마우스가 새 마우스 스타라이트 X의 클릭 입력 지연이 2밀리초 수준이라고 주장했습니다.
 
 자체 테스트에서는 레이저 바이퍼 V4 프로와 다른 고성능 마우스보다 훨씬 빠른 결과를 제시했습니다.
@@ -30,7 +26,6 @@ hideDescription: true
 숫자만 보면 엄청난 차이처럼 보이지만 마우스 클릭은 스위치 신호 하나로 끝나지 않습니다.
 
 손가락이 버튼을 누르는 시간과 USB 전송, 게임 엔진 처리까지 합쳐지기 때문에 2밀리초라는 숫자를 어떻게 읽어야 하는지가 더 중요합니다.
-
 
 <img class="post-landscape-image post-landscape-image--high" src="/assets/posts/news-images/finalmouse-latency-2026-01.jpg" alt="파이널마우스 클릭 2밀리초 주장, 이제 사람이 느낄 차이인가" width="1624" height="914" loading="lazy" decoding="async" />
 
@@ -54,17 +49,6 @@ hideDescription: true
 
 같은 전자 지연이라도 버튼 구조가 무겁고 길면 실제 클릭 체감은 다를 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 2밀리초를 사람이 느끼나
 
 일반적인 사용에서 2밀리초와 5밀리초 차이를 명확히 구분하는 사람은 많지 않을 수 있습니다.
@@ -85,17 +69,6 @@ hideDescription: true
 
 가장 빠른 숫자를 샀다고 게임 실력이 자동으로 올라가는 게 아니라 전체 환경 안에서 의미가 생깁니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 손에 맞는 마우스가 먼저
 
 마우스는 하루 종일 손으로 잡는 장치라 무게와 모양, 버튼 위치가 성능만큼 중요합니다.
@@ -115,17 +88,6 @@ hideDescription: true
 결국 소비자에게 중요한 건 세계에서 가장 빠르다는 문구보다 내 게임 환경에서 차이가 있는가입니다.
 
 2밀리초는 기술적으로 대단한 숫자지만 모두에게 필요한 숫자는 아닐 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 측정 방식이 더 중요해진다
 
@@ -151,13 +113,3 @@ hideDescription: true
 
 소비자는 최고 기록보다 그 기술이 어느 가격대까지 내려오는지를 보는 편이 더 실용적입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

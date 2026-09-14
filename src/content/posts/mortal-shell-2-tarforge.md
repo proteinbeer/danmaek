@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 타르포지는 무기와 보조 무기, 타르스톤 성장의 중심입니다. 관련 핵심 업그레이드는 다섯 종류이며 무기 강화, 보조 무기 강화, 타르스톤 강화, 강화 제거, 최대 단계 확장 기능을 차례로 열어 줍니다.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/mortal-shell-2-2026-01.jpg" alt="모탈 셸 2(Mortal Shell 2) 소울라이크 액션 게임 대표 이미지" width="686" height="386" loading="lazy" decoding="async" />
@@ -42,17 +38,6 @@ hideDescription: true
 
 장비는 표기 공격력 하나만 보고 판단하면 손에 맞지 않을 수 있습니다. 공격 후 빠지는 속도와 사거리, 리졸브 회복처럼 실제 전투 흐름에 영향을 주는 요소도 함께 비교하시는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 에칭 니들
 
 선큰 빌리지 이후 글러티드 마이어에서 얻으며 타르스톤 강화를 열어 줍니다. 빌드 효과를 더 밀어붙이고 싶을 때 필요한 기능이라 중반부터 가치가 커집니다.
@@ -67,17 +52,6 @@ hideDescription: true
 
 새 무기를 얻으면 가까운 일반 적을 상대로 약공격과 강공격의 후딜부터 확인해 보시는 편이 좋습니다. 피해량이 높아도 공격 뒤 빠져나오기 어렵다면 보스전 체감은 오히려 나쁠 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 엔들리스 코어
 
 언파운드 패스의 히든 네이브에서 안개 구간을 통과한 뒤 획득합니다. 무기와 보조 무기 강화 한도를 17 이상으로 올리는 후반 핵심 업그레이드입니다.
@@ -91,17 +65,6 @@ hideDescription: true
 파운드리 스톤을 얻기 전에는 재료를 여러 무기에 분산하면 성장 체감이 약합니다. 초반에는 주력 근접 하나와 자주 쓰는 보조 무기 하나 정도를 정해 집중 투자하시는 편이 좋습니다.
 
 업적이나 모든 수집 요소를 목표로 하지 않으신다면 첫 회차부터 모든 길을 확인할 필요는 없습니다. 엔딩 이후에도 자유 탐험이 가능하므로 스토리 흐름을 먼저 보고, 필요한 셸과 무기만 챙긴 뒤 나머지를 정리하는 방식도 충분히 좋은 선택입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 후반에는 실험 가능
 

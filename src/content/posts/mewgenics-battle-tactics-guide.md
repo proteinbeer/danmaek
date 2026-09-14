@@ -21,10 +21,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 뮤제닉스는 귀여운 외형과 달리 턴 기반 전투의 위치와 타이밍을 꼼꼼히 따지는 게임입니다. 같은 고양이라도 어디에 서서 어떤 방향으로 공격하느냐에 따라 데미지가 크게 갈리며, 적의 어그로를 누가 받느냐에 따라 파티 생존이 결정됩니다.
 
 이 글에서는 전투 속도와 턴 순서, 백스탭·측면 공격의 위치 보너스, 탱커 중심 어그로 설계, 함정 회피를 위한 전술 시점 활용을 차례로 정리합니다. 지난 글에서 다룬 클래스 조합과 장비 세트를 실전에서 최대로 끌어내는 방법을 중점적으로 다룹니다.
@@ -47,17 +43,6 @@ hideDescription: true
 
 다만 위치 보너스를 노리다가 적의 공격 범위에 들어가는 실수도 잦습니다. 뒤를 잡는 순간 반격 범위를 미리 확인하고, 한 번의 이동으로 공격까지 끝내는 간격을 유지하는 편이 안정적으로 화력을 뽑는 길입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 어그로와 탱커 위치 설계
 
 이런 게임에서 가장 흔한 실수가 딜러를 앞세우는 것입니다. 적은 가까운 개체나 어그로가 높은 개체를 우선 공격하므로, 전위에 탱커를 세우고 그 뒤에서 딜러와 힐러가 한 칸씩 띄어 서는 기본 배치가 안정적입니다.
@@ -73,17 +58,6 @@ hideDescription: true
 쿼터뷰 시점에서는 장애물이 뒤를 가려 함정이 잘 보이지 않을 수 있습니다. 이때 전술 시점 모드로 전환하면 장애물이 투명해지고 캐릭터가 단순해지므로, 칸 단위로 위치를 확인하고 이동 경로를 설계하기 좋습니다. 컨트롤러 기준 기본 조작은 Y키이며 조작 설정에서 바꿀 수 있습니다.
 
 함정 회피와 위치 보너스를 함께 챙기려면 이동력을 아끼는 것이 핵심입니다. 매 턴 최대 거리를 쓰기보다, 적의 다음 움직임을 예상해 한 칸씩 조정하는 플레이가 결국 더 많은 백스탭 기회를 만들어냅니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 스탠스와 액션 운용
 
@@ -101,13 +75,3 @@ hideDescription: true
 
 전투 속도와 조작 선택을 병행하면 한 판의 소요 시간이 눈에 띄게 줄어듭니다. 공략 템포가 빨라질수록 번식 단계에서 좋은 개체를 다시 뽑는 시간도 함께 확보되므로, 전투 전술과 육성의 순환이 전체 게임 속도를 높여줍니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

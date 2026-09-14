@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 모탈 셸 2의 핵심은 셸입니다. 플레이 가능한 셸은 티엘, 프록시마, 에레드림, 스메르트, 그라구, 제네사, 라즐로, 사리엘까지 8개이며 프롤로그의 하로스는 별도로 보시는 편이 정확합니다. 각 셸은 위치뿐 아니라 전투 감각 자체가 달라집니다.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/mortal-shell-2-2026-01.jpg" alt="모탈 셸 2(Mortal Shell 2) 소울라이크 액션 게임 대표 이미지" width="686" height="386" loading="lazy" decoding="async" />
@@ -42,17 +38,6 @@ hideDescription: true
 
 셸은 능력 설명보다 실제 조작감 차이가 더 크게 느껴지는 요소입니다. 같은 무기를 들고 가까운 적을 상대해 보면 회피 거리와 생존 방식, 공격 기회가 어떻게 달라지는지 바로 비교할 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 스메르트는 피의 공물
 
 스메르트는 아웃스커츠 오브 녹테 남서쪽에서 적을 석진 위에 쓰러뜨려 세 번의 피의 공물을 완성한 뒤 얻습니다. 단순히 시체를 찾는 방식이 아니라 주변 전투와 상호작용을 이해해야 합니다.
@@ -67,17 +52,6 @@ hideDescription: true
 
 탐험 중에는 새 지역을 끝까지 한 번에 밀려고 하기보다 비컨을 기준으로 짧게 왕복하는 방식이 효율적입니다. 회복을 다 쓰기 전에 허브로 돌아가 강화하고 다시 들어가면 수집품도 놓치기 어렵고 사망으로 잃는 진행 시간도 줄어듭니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 제네사는 별도 의식
 
 제네사는 레버넌트 그레이브에서 세스터 세컨더스를 쓰러뜨리고 세스터의 향로를 얻은 뒤 마로우 킵으로 돌아가야 합니다. 단순 위치 수집이 아니라 보스와 허브 상호작용이 이어지는 셸입니다.
@@ -89,17 +63,6 @@ hideDescription: true
 라즐로는 하이 로드 코트야드 지하에서 벨렌을 쓰러뜨린 뒤 얻고, 사리엘은 체임버 오브 비커밍에서 사리엘을 반복해서 상대하며 무덤을 파괴해야 최종적으로 해금됩니다. 둘 다 초반부터 노리기보다 후반 탐험 목표로 두시는 편이 좋습니다.
 
 업적이나 모든 수집 요소를 목표로 하지 않으신다면 첫 회차부터 모든 길을 확인할 필요는 없습니다. 엔딩 이후에도 자유 탐험이 가능하므로 스토리 흐름을 먼저 보고, 필요한 셸과 무기만 챙긴 뒤 나머지를 정리하는 방식도 충분히 좋은 선택입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 전부 놓치지 않아도 된다
 

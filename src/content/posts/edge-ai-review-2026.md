@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 AI 코딩 도구 덕분에 프로그래밍 경험이 적은 사람도 브라우저 확장 프로그램을 빠르게 만들 수 있게 됐습니다.
 
 문제는 만들어지는 프로그램 수가 급격히 늘면서 마이크로소프트가 엣지 확장 프로그램을 검수하는 부담도 함께 커졌다는 점입니다.
@@ -30,7 +26,6 @@ AI 코딩 도구 덕분에 프로그래밍 경험이 적은 사람도 브라우�
 결국 마이크로소프트는 AI가 만든 코드가 몰려오자 검수 과정에도 AI와 자동화를 더 적극적으로 쓰기 시작했습니다.
 
 AI가 생산량을 늘리고 그 생산량을 감당하기 위해 다시 AI가 필요한 묘한 순환입니다.
-
 
 <img class="post-landscape-image post-landscape-image--high" src="/assets/posts/news-images/edge-ai-review-2026-01.jpg" alt="AI가 만든 엣지 확장 프로그램, 검사도 AI가 맡는다" width="2000" height="1333" loading="lazy" decoding="async" />
 
@@ -54,17 +49,6 @@ AI가 생산량을 늘리고 그 생산량을 감당하기 위해 다시 AI가 �
 
 자동 검사와 위험 패턴 탐지가 더 중요해지는 이유입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. AI가 만든 버그도 AI가 찾는다
 
 AI 코딩은 빠르지만 존재하지 않는 API를 만들거나 보안상 위험한 코드를 섞을 수 있습니다.
@@ -85,17 +69,6 @@ AI 코딩은 빠르지만 존재하지 않는 API를 만들거나 보안상 위�
 
 AI를 이용해 검수 우선순위를 정하고 사람이 봐야 할 부분을 더 효율적으로 찾는 구조가 현실적입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 바이브 코딩의 두 번째 비용
 
 AI 코딩 이야기는 보통 개발 시간이 줄었다는 장점에 집중합니다.
@@ -115,17 +88,6 @@ AI 코딩 이야기는 보통 개발 시간이 줄었다는 장점에 집중합�
 저는 AI 시대에 플랫폼 심사가 줄어들기보다 더 중요해질 가능성이 크다고 봅니다.
 
 만드는 사람보다 만드는 속도가 빨라진 만큼 안전한지 확인하는 시스템도 같은 속도로 진화해야 합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 개발자 책임은 사라지지 않는다
 
@@ -151,13 +113,3 @@ AI가 개발자 수를 늘린 만큼 플랫폼은 심사 속도와 안전을 동
 
 앞으로 브라우저 경쟁에서 확장 프로그램 개수보다 얼마나 안전하게 관리되는지가 더 중요한 차별점이 될 가능성이 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

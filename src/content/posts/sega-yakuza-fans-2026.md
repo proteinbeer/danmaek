@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 게임 팬이라고 하면 당연히 그 게임을 해본 사람을 떠올립니다. 그런데 세가는 이제 그 기준 자체를 넓게 보고 있습니다.
 
 세가 사장 겸 최고운영책임자 우츠미 슈지는 용과 같이 굿즈 구매자의 60%에서 70%가 여성이라고 설명했습니다. 이들 가운데 유튜브 공식 채널이나 스트리머 영상을 통해 세계관과 캐릭터를 좋아하게 됐지만 실제 게임은 플레이하지 않은 팬도 많다고 밝혔죠.
@@ -47,17 +43,6 @@ hideDescription: true
 
 저는 이게 게임의 실패가 아니라 지식재산의 성공에 가깝다고 봅니다. 원작을 구매하지 않아도 돈을 쓰고 이야기를 따라오는 사람이 생겼다는 건 캐릭터가 게임 바깥으로 나왔다는 뜻이기 때문입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 게임 회사가 왜 굿즈를 더 중요하게 보나
 
 게임 판매는 한 번 크게 일어나는 경우가 많습니다. 반면 캐릭터 상품, 행사, 영상, 협업은 작품 출시 이후에도 계속 수익을 만들 수 있죠.
@@ -74,17 +59,6 @@ hideDescription: true
 
 다만 게임 자체를 만들던 회사가 플레이보다 캐릭터 소비에 지나치게 기대기 시작하면 다른 문제도 생길 수 있습니다. 원작의 재미보다 상품화하기 좋은 캐릭터가 우선되는 순간 팬들이 느끼는 방향은 또 달라질 겁니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 앞으로 게임 성공의 기준이 달라질 수 있다
 
 이전에는 동시 접속자, 판매량, 플레이 시간이 성공의 대표 숫자였습니다. 앞으로는 영상 시청, 캐릭터 상품, 공연, 협업 같은 게임 바깥 소비까지 함께 봐야 할 가능성이 큽니다.
@@ -99,13 +73,3 @@ hideDescription: true
 
 개발자는 게임을 만들지만 회사는 세계관 전체를 운영하는 구조입니다. 앞으로 신작 발표에서 게임 시스템만큼 캐릭터와 굿즈 전개 가능성이 중요하게 보이는 이유도 여기에 있다고 생각합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

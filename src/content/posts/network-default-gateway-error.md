@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 윈도우 문제 해결사에서 기본 게이트웨이를 사용할 수 없다는 메시지가 반복될 때가 있습니다. 기본 게이트웨이는 보통 집 안 공유기의 주소이므로, PC가 공유기까지 안정적으로 닿지 못하고 있다는 뜻으로 이해하면 됩니다.
 
 이 문제는 겉으로 보이는 증상과 실제 원인이 다른 경우가 많습니다. 그래서 처음부터 설정을 크게 바꾸기보다 어느 구간에서 문제가 생겼는지 범위를 좁히는 것이 중요합니다.
@@ -43,17 +39,6 @@ IP 설정이 수동으로 꼬여 게이트웨이가 잘못 입력된 경우. 공
 
 이 원인들은 서로 비슷한 증상을 만들 수 있습니다. 그래서 인터넷 속도 측정 결과나 오류 문구 하나만 보고 바로 결론을 내리기보다 물리 연결, 주소 설정, 공유기 역할을 차례로 나눠보는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. PC와 공유기에서 볼 부분
 
 게이트웨이 주소로 지속적인 ping을 보내 손실이 있는지 봅니다. 다른 기기에서 같은 공유기가 안정적인지 비교합니다. 랜카드 전원 관리에서 절전을 위해 장치를 끌 수 있는 설정을 확인합니다.
@@ -65,17 +50,6 @@ IP 설정이 수동으로 꼬여 게이트웨이가 잘못 입력된 경우. 공
 유선이면 케이블과 포트를 먼저 바꾸고 무선이면 공유기 가까이에서 테스트합니다. IP 자동 할당 상태를 확인하고 랜카드 드라이버를 최신 상태로 맞춥니다. 공유기 펌웨어와 DHCP 범위를 확인합니다.
 
 적용 뒤에는 바로 다음 설정으로 넘어가지 말고 같은 조건에서 다시 확인하시는 편이 좋습니다. 한 단계씩 바꿔야 어떤 조치가 실제로 문제를 해결했는지 알 수 있고, 나중에 같은 증상이 생겼을 때도 훨씬 빠르게 대응할 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 그래도 해결되지 않을 때
 
@@ -89,17 +63,6 @@ IP 설정이 수동으로 꼬여 게이트웨이가 잘못 입력된 경우. 공
 
 네트워크 설정은 서로 연결돼 있어서 문제를 빨리 고치겠다고 초기화, 수동 IP, DNS 변경, 포트 설정을 한꺼번에 적용하면 오히려 원인을 잃을 수 있습니다. 바꾸기 전 값을 기록하고 한 번에 한 항목만 수정하는 습관이 중요합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 7. 마지막 판단 기준
 
 게이트웨이 오류는 인터넷이 멀리서 끊긴 문제가 아니라 내 PC 바로 앞 첫 관문에서 막힌 경우가 많습니다. 가까운 곳부터 검사한다는 네트워크 troubleshooting의 기본이 가장 잘 통하는 사례죠.
@@ -112,13 +75,3 @@ IP 설정이 수동으로 꼬여 게이트웨이가 잘못 입력된 경우. 공
 
 문제가 다시 생기면 처음 해결했던 설정을 그대로 반복하기보다 현재 링크 속도, IP 주소, 게이트웨이, 무선 대역처럼 기본 상태부터 다시 확인하시면 됩니다. 네트워크는 장비 하나가 아니라 연결된 전체 구조가 함께 움직이기 때문에 작은 변화가 다른 구간에 영향을 줄 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

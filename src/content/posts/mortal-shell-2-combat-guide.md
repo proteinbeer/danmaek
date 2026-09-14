@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 모탈 셸 2 전투의 가장 큰 차이는 스태미나가 없다는 점입니다. 그래서 처음에는 공격과 회피를 계속 이어 갈 수 있어 쉬워 보이지만 실제로는 자세, 패링, 경화, 적의 막을 수 없는 공격을 동시에 봐야 해서 리듬을 잡기 전까지 더 혼란스러울 수 있습니다.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/mortal-shell-2-2026-01.jpg" alt="모탈 셸 2(Mortal Shell 2) 소울라이크 액션 게임 대표 이미지" width="686" height="386" loading="lazy" decoding="async" />
@@ -44,17 +40,6 @@ hideDescription: true
 
 이 항목은 설명만 읽고 넘어가기보다 가까운 비컨을 기준으로 직접 한 번 시험해 보시는 편이 좋습니다. 실패하더라도 이동 거리와 적 배치를 같이 익힐 수 있어 다음 시도부터 훨씬 수월해집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 경화는 보험
 
 경화는 공격을 이어 가다가 위험한 순간을 버티는 데 특히 강합니다. 패턴을 완전히 외우지 못한 적에게는 패링보다 경화가 안전할 때가 많습니다.
@@ -71,17 +56,6 @@ hideDescription: true
 
 탐험 중에는 새 지역을 끝까지 한 번에 밀려고 하기보다 비컨을 기준으로 짧게 왕복하는 방식이 효율적입니다. 회복을 다 쓰기 전에 허브로 돌아가 강화하고 다시 들어가면 수집품도 놓치기 어렵고 사망으로 잃는 진행 시간도 줄어듭니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 경직을 만든 뒤 몰아치기
 
 보스전은 체력보다 자세와 경직 기회를 보는 편이 좋습니다. 경직이 발생한 순간에는 평소보다 긴 공격 시간을 확보할 수 있어 큰 피해를 넣기 좋습니다.
@@ -95,17 +69,6 @@ hideDescription: true
 보조 무기는 총 8개이며 단순 보조 수단 이상으로 특정 보스의 안전한 딜 구간을 늘려 줍니다. 헥사포드처럼 정면 근접이 까다로운 상대에서는 강화된 트라이악 리피터 같은 원거리 수단이 훨씬 편할 수 있습니다.
 
 업적이나 모든 수집 요소를 목표로 하지 않으신다면 첫 회차부터 모든 길을 확인할 필요는 없습니다. 엔딩 이후에도 자유 탐험이 가능하므로 스토리 흐름을 먼저 보고, 필요한 셸과 무기만 챙긴 뒤 나머지를 정리하는 방식도 충분히 좋은 선택입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 적응형 난이도 선택
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "안드로이드 비밀번호 관리자 갈아타기 쉬워졌다, 패스키까지 직접 옮기는 방법"
 description: "안드로이드가 비밀번호 관리자 사이에서 로그인 정보와 패스키를 직접 옮길 수 있는 새 이전 기능을 도입했습니다."
 date: 2026-09-12T12:00:00
@@ -18,10 +18,6 @@ imageHeight: 675
 hideHeroImage: true
 hideDescription: true
 ---
-
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
 
 안드로이드가 비밀번호 관리자 사이에서 로그인 정보와 패스키를 직접 옮길 수 있는 새 이전 기능을 도입했습니다.
 
@@ -61,17 +57,6 @@ hideDescription: true
 
 다만 지원 범위는 앱과 안드로이드 버전에 따라 달라질 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 지원 앱부터 시작
 
 구글 비밀번호 관리자와 원패스워드, 비트워든, 대시레인 같은 주요 서비스가 새 이전 기능을 지원하는 방향으로 움직이고 있습니다.
@@ -99,17 +84,6 @@ hideDescription: true
 반면 지금은 로그인 정보는 보안 위험 때문에 이동성이 상대적으로 늦게 발전했습니다.
 
 아직 이번 변화는 보안과 선택권을 동시에 높이려는 시도입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 패스키 확산에도 도움
 

@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 크리에이터는 섹터가드보다 전장 관리와 해킹 타이밍을 더 강하게 요구하는 보스입니다. 첫 보스에서 기본 루프를 익혔다면 여기서는 그 루프를 압박 속에서도 유지할 수 있는지를 시험합니다.
 
 많은 가이드에서 크리에이터를 초반 첫 난도 상승 구간으로 보는 이유도 여기에 있습니다. 단순 화력보다 위치, 해킹 안전 시간, 강한 공격 유닛 사용 순서를 제대로 맞춰야 합니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 한 번에 끝낼 수 없다면 두 번에 나눠도 됩니다. 중요한 것은 매번 안전하게 진행하는 것입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 차지 피어서가 잘 맞는다
 
 크리에이터처럼 한 번의 공격 기회가 중요한 보스에서는 차지 피어서 같은 단일 대상 고화력 장비가 좋습니다. 해킹 후 약점이 열린 순간에 충전 공격을 넣으면 짧은 시간에도 체력 차이를 만들 수 있습니다.
@@ -65,17 +50,6 @@ hideDescription: true
 
 보스에서 막힐 때 공격력을 더 올리는 것만이 답은 아닙니다. 해킹 시간을 줄이는 것이 사실상 딜 상승인 경우가 많습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 오버드라이브는 후반에
 
 전투 초반 패턴이 단순할 때 오버드라이브를 바로 써버리면 후반 압박 구간이 더 힘들 수 있습니다. 체력이 줄고 공격이 거칠어지는 시점에 사용해 확실한 오픈 기회를 만드는 편이 좋습니다.
@@ -87,17 +61,6 @@ hideDescription: true
 보스 체력이 조금 남았다고 무리해서 공격 유닛을 쏘다 죽는 일이 자주 나옵니다. 프라그마타 보스는 오픈 시간 밖에서 억지로 딜을 넣는 효율이 낮기 때문에, 다음 해킹 사이클을 기다리는 편이 안전합니다.
 
 한 번 더 회피하고 한 번 더 해킹해도 됩니다. 안정적인 루프가 결국 가장 빠른 공략입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 크리에이터 이후부터 빌드가 중요하다
 
@@ -119,13 +82,3 @@ hideDescription: true
 
 막히는 구간이 생기면 같은 장비로 계속 반복하기보다 쉴터에 돌아가 한 번 구성부터 다시 보시는 편이 좋습니다. 프라그마타는 장비 하나와 해킹 노드 하나만 바꿔도 같은 전투의 난도가 크게 달라지는 게임입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

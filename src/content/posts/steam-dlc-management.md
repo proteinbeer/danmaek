@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 DLC를 결제했는데 게임 안에서 새 콘텐츠가 보이지 않으면 구매가 실패했다고 생각하기 쉽습니다.
 
 하지만 계정에는 등록됐고 설치만 빠졌거나 게임 안에서 별도 조건을 충족해야 하는 경우도 많아 먼저 소유 상태와 설치 상태를 나눠 확인해야 하죠.
@@ -53,17 +49,6 @@ DLC를 구매하면 계정에 사용 권한이 등록됩니다.
 
 게임과 스팀을 한 번 완전히 종료하고 다시 실행한 뒤 확인하는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 게임 안에서 해금 조건이 있을 수 있다
 
 DLC를 설치했다고 시작 화면에 바로 새 메뉴가 생기는 것은 아닙니다.
@@ -84,17 +69,6 @@ DLC를 설치했다고 시작 화면에 바로 새 메뉴가 생기는 것은 �
 
 가족 공유 문제처럼 보일 때는 어떤 구성원의 게임 버전을 실행하고 있는지도 함께 확인해야 합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 무결성 검사와 재시작
 
 설치 체크가 정상인데 콘텐츠가 로딩되지 않는다면 게임 파일 무결성 검사를 진행해볼 수 있습니다.
@@ -114,17 +88,6 @@ DLC 파일 일부가 빠졌거나 업데이트 과정에서 손상된 경우 필
 저는 DLC 문제를 볼 때 구매 내역, 스팀 소유 상태, 설치 체크, 게임 내부 해금 조건 순서로 확인하는 편이 가장 빠르다고 봅니다.
 
 돈을 다시 쓰기 전에 이미 가진 권한이 어디에서 막혔는지 찾는 것이 우선입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. DLC가 많을수록 이름을 정확히 확인
 

@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 발하임의 방어구는 단순히 방어도만 올리는 장비가 아니라 세트 보너스와 상태이상 저항까지 결정하는 핵심 시스템입니다. 같은 바이옴이라도 경갑을 입느냐 중갑을 입느냐에 따라 이동속도가 갈리고, 루트 세트처럼 독 저항을 가진 세트는 늪지 전용 방어구로 급부상합니다. 이 글에서는 바이옴 진행 순서에 따라 세트별 최대 방어도와 세트 보너스를 정리해 어떤 방어구를 언제 만들어야 하는지 판단 기준을 제시합니다.
 
 방어구의 방어도는 품질 상승에 따라 결정됩니다. 각 부품은 품질 4까지 강화할 수 있고, 강화할수록 방어도가 오르므로 최종 성능은 재료를 적절히 투자한 상태 기준으로 훨씬 높아집니다. 아래 수치는 품질 4 기준이며, 작업대와 대장간 레벨을 올린 뒤 강화하는 것을 전제로 합니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 검은 숲에 들어서면 선택이 갈립니다. 트롤 가죽 세트는 부위당 방어도 12로 가볍고, 세트 보너스로 은신 스킬이 크게 오릅니다. 은신 사냥과 원거리 플레이를 좋아한다면 첫 중갑을 건너뛰고 트롤 세트를 유지하는 것이 효율적입니다. 반면 근접전 중심이라면 청동 세트를 착용해 부위당 방어도 14와 방패 블록을 함께 사용합니다. 청동 세트는 이동속도 5% 페널티가 있지만, 상회한 늪지 진입 전 완벽한 준비물입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 중반 세트: 루트, 철, 펜리스, 늑대
 
 늪지에서는 루트 세트가 같은 티어인 철 세트보다 특수한 가치를 지닙니다. 루트 세트는 부위당 방어도 14로 철 세트보다 낮지만 독 저항과 활 스킬 보너스를 세트 효과로 제공합니다. 늪지의 독 공격과 플레인즈 초입까지 대응할 수 있어 근접 중갑을 아직 못 만들었다면 루트 세트로 독 던전을 먼저 돌파하는 것도 현실적입니다.
@@ -64,17 +49,6 @@ hideDescription: true
 플레인즈의 패딩 세트는 부위당 방어도 32로 미스트랜즈 진입 전 최고의 중갑입니다. 패딩을 풀로 만들고 강화하면 야그루스와 마주할 수 있는 수준이며, 미스트랜즈에 들어가기 위한 최소 방어도가 됩니다. 미스트랜즈에서는 갑각(캐러페이스) 세트가 부위당 38로 다시 한 단계 올라갑니다.
 
 애쉬랜즈의 플라메탈 세트는 부위당 방어도 44로 현재 게임에서 최고 방어도를 자랑합니다. 추가로 화염 저항을 제공해 애쉬랜즈의 시든 비와 불 공격에 생존성을 크게 올려줍니다. 반면 무게가 무거운 대신, 뒤에서 설명할 마법 세트와 함께 상황에 따라 갈아 입는 것이 정석입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 마법 세트와 보그위치 신규: 에이트르 웨이브, 엠블라, 아스크
 
@@ -105,13 +79,3 @@ hideDescription: true
 
 최종 선택 기준은 단순합니다. 근접 탱커는 캐러페이스나 플라메탈, 마법 유저는 에이트르 웨이브나 엠블라, 기동성 근접은 펜리스나 아스크를 목표로 잡으면 됩니다. 방어구는 바이옴 커트라인의 최소 방어도를 넘기면서 보스 보너스를 확보하는 것이 핵심이며, 무기 강화와 함께 순서대로 업그레이드하면 최종 보스까지 무리 없이 진행할 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

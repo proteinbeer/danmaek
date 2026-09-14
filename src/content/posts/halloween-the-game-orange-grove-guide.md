@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 오렌지 그로브 에스테이츠는 넓은 다층 주택과 분리된 차고, 발코니, 놀이터, 넓은 도로가 섞인 고급 주거 지역입니다. 원작의 도일 하우스와 월리스 하우스도 포함되어 있어 영화 팬에게 익숙한 공간을 직접 돌아다닐 수 있습니다.
 
 이 맵의 가장 큰 특징은 실내와 실외의 감각이 크게 다르다는 점입니다. 집 안에서는 복도와 계단 때문에 시야가 짧고, 밖으로 나오면 넓은 도로와 열린 공간 때문에 멀리서도 서로를 볼 수 있습니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 민간인은 위층으로 이동하기 전에 다른 내려가는 길이 있는지 확인하고, 마이클은 직접 쫓아 올라가기보다 밖으로 돌아 다음 출구를 노리는 선택을 할 수 있습니다. 셰이프 점프로 시야를 끊어 재배치하기 좋은 이유도 여기에 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 넓은 도로는 민간인의 기회
 
 집 밖의 넓은 도로와 열린 공간은 마이클의 기습 각도를 줄여 줍니다. 여러 민간인이 서로 다른 방향을 바라보며 이동하면 마이클이 시야 밖에서 셰이프 점프를 쓰기 어려워질 수 있습니다.
@@ -64,17 +49,6 @@ hideDescription: true
 오렌지 그로브는 넓은 거리 덕분에 수리한 차량과 자전거를 활용할 기회가 많은 지역으로 설계됐습니다. 운동 능력과 임기응변이 좋은 민간인이 각각 이동과 차량 관련 역할을 맡으면 넓은 맵을 효율적으로 사용할 수 있습니다.
 
 차량을 준비할 때는 작업 자체에만 집중하지 말고 마이클이 접근할 도로와 집 사이의 어두운 구간을 확인해야 합니다. 탈출 시퀀스는 큰 소음을 발생시키므로 작동 전에 팀이 모일 준비를 끝내는 편이 좋습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 도일과 월리스 주택
 
@@ -96,13 +70,3 @@ hideDescription: true
 
 이 맵에서는 층을 오르내리는 것 자체가 안전을 보장하지 않습니다. 위층으로 도망가기 전에 밖으로 빠질 두 번째 경로가 있는지 확인하는 습관을 들이면 막다른 추격을 크게 줄일 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

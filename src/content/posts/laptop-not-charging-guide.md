@@ -18,11 +18,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
-
 충전기를 꽂았는데 배터리 잔량이 늘지 않는다면 충전기 고장이 유일한 원인은 아닙니다. 배터리 보호 기능이나 전원 부족 때문에 일정 수준에서 충전이 멈추기도 합니다.
 
 노트북을 충전기에 꽂았는데 배터리 퍼센트가 늘지 않는 경우는 생각보다 흔합니다. 충전기나 케이블이 고장난 것처럼 느껴지지만, 실제로는 노트북이 의도적으로 충전을 멈춘 경우가 많습니다. 배터리 보호 설정, 전원 부족, 콘센트 문제 등 다양한 원인이 있으므로, 장비를 새로 사기 전에 아래 항목을 순서대로 확인해보시기 바랍니다.
@@ -47,17 +42,6 @@ hideDescription: true
 
 가능하면 노트북에 번들로 제공된 정품 충전기를 사용하는 것이 좋습니다. 정품은 노트북이 요구하는 전압(V)과 전류(A)에 맞춰 설계되어 있으며, USB-C 충전기를 쓰는 경우에도 노트북이 지원하는 전력 규격(예: PD 65W, PD 100W)을 확인하시면 됩니다. 지원보다 낮은 출력의 충전기는 충전 속도가 느리거나 아예 충전되지 않을 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 다른 콘센트에서 확인
 
 멀티탭 대신 벽면 콘센트에 직접 연결해보고 충전 단자도 다시 꽂아보시면 됩니다.
@@ -76,13 +60,3 @@ hideDescription: true
 
 마지막으로 특정 노트북에서는 케이스(하판) 분해나 배터리 센서 리셋이 필요한 경우도 있습니다. 위의 방법으로 해결되지 않고 충전이 전혀 감지되지 않는다면 제조사 서비스센터나 전문 수리점의 점검을 받는 것이 안전합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

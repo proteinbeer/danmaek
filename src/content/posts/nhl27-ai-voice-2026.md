@@ -1,4 +1,4 @@
-﻿---
+---
 title: "NHL 27에 AI 음성이 들어갔다, EA가 직접 인정한 제작 방식의 변화"
 description: "EA가 NHL 27 일부 음성 제작 과정에 AI를 사용했다고 밝혔습니다."
 date: 2026-09-12T12:00:00
@@ -18,10 +18,6 @@ imageHeight: 675
 hideHeroImage: true
 hideDescription: true
 ---
-
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
 
 EA가 NHL 27 일부 음성 제작 과정에 AI를 사용했다고 밝혔습니다.
 
@@ -61,17 +57,6 @@ EA는 AI가 게임 안에 더 많은 음성 변화를 넣는 데 도움이 된�
 
 다양성이 실제로 체감되는지는 플레이 중 반복 빈도를 봐야 합니다라는 점은 함께 보셔야 합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 성우 동의가 핵심
 
 AI 음성은 실제 사람의 목소리를 학습하거나 변형할 수 있어 계약이 중요합니다.
@@ -100,17 +85,6 @@ AI 음성은 실제 사람의 목소리를 학습하거나 변형할 수 있어 
 
 다만 비용 절감이 사람의 검수까지 줄이는 방향으로 가면 품질은 오히려 떨어질 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 게임 제작의 새 협상 대상
 
 AI 사용은 개발자가 마음대로 도입하는 도구가 아니라 노조와 배우, 회사가 계약으로 정해야 하는 문제가 되고 있습니다.
@@ -134,17 +108,6 @@ AI 음성의 기술력보다 성우 권리와 현지화 비용 구조가 어떻�
 처음 공개된 숫자와 설명은 방향을 보여주지만 실제 이용 환경에서는 예상하지 못한 문제가 나올 수 있습니다.
 
 후속 발표와 이용자 반응을 함께 보시면 처음 기사만 읽었을 때보다 변화의 크기를 더 정확하게 판단할 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 실제 적용에서 볼 부분
 

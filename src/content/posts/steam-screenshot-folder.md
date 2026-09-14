@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 게임에서 F12를 눌러 스크린샷을 찍었는데 윈도우 사진 폴더를 아무리 찾아도 이미지가 보이지 않는 경우가 있습니다.
 
 스팀 기본 스크린샷은 게임별로 관리되는 별도 폴더와 스크린샷 관리 화면을 사용하므로 일반 캡처와 저장 위치가 다르기 때문입니다.
@@ -53,17 +49,6 @@ hideDescription: true
 
 게임 자체가 F12를 중요한 기능에 사용한다면 겹치지 않는 키로 바꾸는 편이 편합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 오버레이가 꺼지면 캡처도 막힐 수 있다
 
 스팀 기본 스크린샷은 오버레이 기능을 이용합니다.
@@ -84,17 +69,6 @@ hideDescription: true
 
 필요한 파일이 사진인지 영상인지 먼저 구분하면 경로를 찾기 훨씬 쉽습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 커뮤니티 업로드 전 확인
 
 스팀 스크린샷 관리 화면에서는 촬영한 이미지를 커뮤니티에 공유할 수 있습니다.
@@ -114,17 +88,6 @@ hideDescription: true
 저는 스크린샷 위치를 외우기보다 스팀 관리 화면에서 해당 게임을 선택하고 파일 위치를 여는 방식을 추천합니다.
 
 게임마다 번호가 다른 복잡한 경로를 외우는 것보다 기능이 제공하는 길을 이용하는 편이 실수도 적습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 여러 PC를 쓰면 사진도 따로 관리
 

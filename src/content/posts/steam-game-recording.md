@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 게임에서 좋은 장면이 나왔는데 녹화를 켜지 않아 놓친 경험이 있다면 스팀 게임 녹화의 백그라운드 방식이 꽤 유용합니다.
 
 게임을 하는 동안 일정 분량을 계속 기록해두고 필요한 순간만 잘라낼 수 있어서 매번 녹화 버튼을 누를 필요가 없죠.
@@ -53,17 +49,6 @@ SSD 공간이 빠듯한 PC라면 무조건 큰 용량을 잡기보다 실제로 
 
 용량과 쓰기 속도를 함께 보고 충분한 여유 공간이 있는 저장장치를 고르는 것이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 좋은 장면은 마커부터 남기기
 
 긴 세션을 통째로 저장하면 나중에 원하는 장면을 찾는 시간이 더 오래 걸립니다.
@@ -84,17 +69,6 @@ SSD 공간이 빠듯한 PC라면 무조건 큰 용량을 잡기보다 실제로 
 
 스팀에서 완성 편집을 하려 하기보다 좋은 장면을 놓치지 않는 기록 도구로 쓰는 편이 기능 성격에 잘 맞습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 오디오 설정도 먼저 확인
 
 영상을 저장했는데 게임 소리는 있고 마이크가 없거나 반대로 원하지 않는 음성이 같이 들어가면 다시 녹화할 수 없는 장면도 있습니다.
@@ -114,17 +88,6 @@ SSD 공간이 빠듯한 PC라면 무조건 큰 용량을 잡기보다 실제로 
 저는 둘 중 하나만 고를 필요는 없다고 봅니다.
 
 평소에는 스팀 백그라운드 녹화로 순간을 잡고, 방송이나 긴 영상 제작이 필요한 날에는 전문 프로그램을 쓰는 식으로 역할을 나누면 가장 편합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 녹화 성능 부담도 직접 확인
 

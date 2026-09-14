@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 귀무자 웨이 오브 더 소드의 플래티넘은 100% 완주가 전제입니다. 수집품과 강화를 전부 마쳐야 열리는 트로피가 절반 이상이라, 스토리 클리어만으로는 모자랍니다. 여기에 카니지 난이도가 처음 플레이에는 잠겨 있고 2회차 뉴게임 플러스에서만 등장하므로, 회차 구성부터 짜지 않으면 같은 시간을 두 배로 쓸 위험이 있습니다.
 
 이 글은 해외 트로피 가이드의 로드맵을 바탕으로 트로피 구성, 회차별 진행 순서, 최종 미션 전 정리, 카니지 공략 방향, 보스 리매치까지 플래티넘 여정을 어떤 순서로 끌고 가야 하는지 정리했습니다. 어려운 트로피가 아니라 정리 타이밍이 어려운 트로피입니다.
@@ -46,17 +42,6 @@ hideDescription: true
 
 탐색 효율은 오니 비전 스킬이 결정합니다. 트레져스, 트레져스 2, 서치 레인지 세 가지를 최우선으로 사면 벽 너머까지 스캔이 가능해져 이후 모든 수집품 회수가 빨라집니다. 스캔 버튼을 계속 눌러 가며 걷는 습관을 들이면 주의 마커를 놓치는 일이 줄어듭니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 최종 미션 전 컬렉션과 강화 정리
 
 자유 이동이 끝나는 지점은 최종 미션 '렌다이노 충돌'입니다. 이 미션을 시작하는 순간 포인트 오브 노 리턴 경고가 뜨며, 그러기 전까지는 모든 수집품과 사이드 콘텐츠에 접근할 수 있습니다. 이 시점에 수동 세이브를 하나 만들면 이후 클린업의 기준점이 됩니다.
@@ -72,17 +57,6 @@ hideDescription: true
 전승되지 않는 항목 중 특히 미러 네트워크가 문제입니다. 카니지 회차에서는 미러를 전부 다시 해금해야 해서 초반 이동이 답답해지지만, 스킬과 부적이 강화된 상태로 시작하므로 전투 자체는 압도적으로 수월합니다. 막히는 구간 없이 스토리를 밀 수 있다면 2회차는 첫 회차보다 훨씬 빠르게 끝납니다.
 
 카니지 클리어 보상은 이후에 큰 힘이 됩니다. 전용 무기가 지급되어 플래티넘의 마지막 관문인 보스 리매치를 대폭 부드럽게 만들어 주므로, 리매치를 시작하기 전에 반드시 카니지 엔딩을 먼저 확보하는 순서를 지킵니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 보스 리매치 아레나와 최종 단계
 
@@ -100,13 +74,3 @@ hideDescription: true
 
 강화 계열은 자원 총량이 관건입니다. 웰-라운디드는 기본·특수 스킬 전부, 드레스드 투 킬은 장비 전부를 최대까지 올리는 조건으로, 각각 파워 스톤·오니 스톤과 파인 실크·다마하기네가 필요합니다. 이 트로피들은 최종 미션 직전 세이브 스컴과 엮어 한 번의 소비로 끝내는 것이 효율적입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 회복 강화는 직접적인 공격력 상승보다 눈에 덜 띄지만 보스전 체감 난도를 크게 바꿉니다. 모탈 셸 2에는 총 23개의 회복 강화가 있고 존경받는 샘과 시냅틱 베슬 두 종류로 나뉩니다.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/mortal-shell-2-2026-01.jpg" alt="모탈 셸 2(Mortal Shell 2) 소울라이크 액션 게임 대표 이미지" width="686" height="386" loading="lazy" decoding="async" />
@@ -42,17 +38,6 @@ hideDescription: true
 
 장비는 표기 공격력 하나만 보고 판단하면 손에 맞지 않을 수 있습니다. 공격 후 빠지는 속도와 사거리, 리졸브 회복처럼 실제 전투 흐름에 영향을 주는 요소도 함께 비교하시는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 초반 투자 효과
 
 공격력만 올리면 실수를 했을 때 그대로 죽지만 회복 수와 회복량이 늘면 패턴을 더 오래 관찰할 수 있습니다. 새로운 보스에서 연습 횟수를 늘려 준다는 점에서 초보자에게 특히 가치가 큽니다.
@@ -64,17 +49,6 @@ hideDescription: true
 마로우 킵에서는 상인 메릭에게 코인을 지불해 존경받는 샘 하나를 구매할 수 있습니다. 탐험만 생각하다가 상점 강화 요소를 놓치기 쉬우니 허브에 돌아오실 때 판매 목록도 확인하시는 편이 좋습니다.
 
 탐험 중에는 새 지역을 끝까지 한 번에 밀려고 하기보다 비컨을 기준으로 짧게 왕복하는 방식이 효율적입니다. 회복을 다 쓰기 전에 허브로 돌아가 강화하고 다시 들어가면 수집품도 놓치기 어렵고 사망으로 잃는 진행 시간도 줄어듭니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 지도 추적 한계
 
@@ -89,17 +63,6 @@ hideDescription: true
 회복 강화 역시 최종 보스 이후 자유 탐험에서 다시 회수할 수 있습니다. 첫 회차에 모든 위치를 외우기보다 진행 중 지나가는 경로의 것부터 챙기고 마지막에 남은 지역을 확인하셔도 됩니다.
 
 업적이나 모든 수집 요소를 목표로 하지 않으신다면 첫 회차부터 모든 길을 확인할 필요는 없습니다. 엔딩 이후에도 자유 탐험이 가능하므로 스토리 흐름을 먼저 보고, 필요한 셸과 무기만 챙긴 뒤 나머지를 정리하는 방식도 충분히 좋은 선택입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 공격보다 생존 우선 구간
 

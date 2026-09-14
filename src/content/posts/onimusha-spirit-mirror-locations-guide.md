@@ -21,10 +21,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 귀무자 웨이 오브 더 소드의 이동과 세이브는 전부 스피릿 미러에서 이뤄집니다. 어두운 밤의 교토에서 방향을 잡는 기준도, 강화와 난이도 변경을 하는 공간도 모두 이 거울 하나로 통하는 구조입니다. 이 글은 해외 공략의 지역별 배치를 모아 동부 교토부터 오에 산까지 빠른 이동 지점을 정리했습니다.
 
 스피릿 미러는 일곱 개의 주요 지역에 분산되어 있으며, 동부 교토에 가장 밀집되어 있고 오에 산에는 네 층에 걸쳐 아홉 개가 있습니다. 미러 하나는 세이브, 패스트 트래블, 강화, 외형 변경, 난이도 변경을 모두 담당하므로 지나는 길에 반드시 활성화하는 것이 기본 습관입니다.
@@ -47,17 +43,6 @@ hideDescription: true
 
 뉴게임 플러스(카니지)에서는 미러 해금 상태가 초기화됩니다. 두 번째 회차에서 다시 하나씩 활성화해야 하므로 초반에는 도보 이동이 많지만, 스킬과 부적 강화 등 캐릭터 성장은 그대로 유지되어 전투 난도는 미러 접근성과 별개입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 동부 교토가 곧 허브
 
 동부 교토는 일곱 개 지역 중 가장 많은 미러를 가진 중심지입니다. 대부분의 사이드 콘텐츠와 히든 트레저 지도가 이 구역을 기준으로 돌아가므로, 수집품 정리를 목표로 한다면 여기의 미러를 전부 여는 것을 권장합니다.
@@ -73,17 +58,6 @@ hideDescription: true
 오니 피난처에는 북쪽과 남쪽에 각각 미러 하나씩 두 개가 있습니다. 피난처는 게임에서 가장 긴 이동을 강요하는 지역 중 하나라, 돌아올 일이 있다면 이 두 지점은 반드시 열어야 합니다.
 
 니조성에도 미러 2개가 있어 라이온독 구출 사이드의 왕복을 덜어줍니다. 비교적 짧은 구역이지만 보스 재도전과 재방문을 고려하면 둘 다 유용합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 지하 연구소·황실·오에 산
 
@@ -101,13 +75,3 @@ hideDescription: true
 
 큰 지출 직전에는 언제나 수동 세이브를 하나 만들고, 최종 미션 직전에는 전용 슬롯까지 확보해 두는 것이 좋습니다. 요리마사의 비석(야스이 곤피라 신사)도 스토리 진행마다 재료 판매가 늘어나므로 미러에 들를 때마다 함께 확인하는 습관을 추천합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

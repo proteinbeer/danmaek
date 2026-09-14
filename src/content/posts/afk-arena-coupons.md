@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 AFK 아레나는 리리스게임즈가 만든 방치형 수집 RPG입니다. 영웅을 모으고 던전을 자동으로 진행하면서 성장하는 구조라 무과금 유저에게 인기 있는 게임이죠.
 
 AFK 아레나 쿠폰은 다이아 같은 필수 재화를 줍니다. 다이아는 소환에 쓰이는 핵심 재화라 코드 하나가 초반 진행을 크게 바꿔줍니다. 새 코드가 나오면 기한이 표시된 편이라 미리 확인해두는 것이 좋습니다.
@@ -60,17 +56,6 @@ AFK 아레나 쿠폰은 공식 교환 사이트에서 입력합니다. 주소는
 AFK 아레나에 접속한 뒤 화면 좌측 상단의 **프로필 아이콘**을 누르면 계정 정보가 표시됩니다. 거기에서 UID 숫자를 확인해 복사할 수 있습니다.
 
 UID를 잘못 입력하면 인증번호를 받을 수 없으므로, 화면에 표시된 숫자를 그대로 복사 붙여넣기 하는 편이 안전합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 4. 계정당 1회, 만료 날짜를 확인
 

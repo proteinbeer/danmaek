@@ -18,11 +18,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
-
 팬이 돌고 불도 들어오는데 화면만 나오지 않는다면 바로 고장이라기보다 모니터, 케이블, 그래픽카드, 메모리처럼 원인이 여럿일 수 있습니다.
 
 컴퓨터 전원을 켰는데 팬이 돌고 LED가 켜지는데도 화면에 아무것도 나오지 않는 경우가 있습니다. 이때 "컴퓨터가 고장났다"고 단정하기 전에 확인할 것이 많습니다. 모니터와 케이블, 입력 선택부터 그래픽카드와 메모리 장착 상태까지 원인을 하나씩 좁혀나가면, 예상보다 간단한 문제로 해결되는 경우가 많습니다.
@@ -45,17 +40,6 @@ hideDescription: true
 
 키보드와 마우스를 제외한 모든 USB 장치, 외부 저장장치, 프린터, 웹캠 등을 분리한 상태에서 다시 켜보시면 됩니다. 그래도 화면이 나온다면, 문제가 되는 장치를 하나씩 다시 연결해 원인을 찾을 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 그래픽 연결 확인
 
 별도 그래픽카드를 사용한다면 모니터 케이블이 그래픽카드에 연결돼 있는지 확인하셔야 합니다.
@@ -71,17 +55,6 @@ hideDescription: true
 케이블, 모니터, 입력이 모두 정상인데도 화면이 나오지 않는다면 본체 내부 하드웨어를 점검해야 합니다. 가장 흔한 원인 중 하나가 **메모리(RAM) 접촉 불량**입니다. 컴퓨터 전원을 완전히 차단한 뒤 메모리 모듈을 분리해 접촉부를 지우개나 마른 천으로 닦고 다시 꽂아보시면 됩니다.
 
 또한 그래픽카드를 분리했다가 다시 장착해보고, 가능하다면 다른 메모리 슬롯에 장착해 비교해보시면 됩니다. 메모리나 그래픽카드를 다시 장착한 뒤에도 화면이 안 나온다면, 다른 부품(파워서플라이, 메인보드) 문제를 전문가에게 점검받아야 할 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 부팅음과 표시등 확인
 

@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 하돈필드 타운 센터는 할로윈 더 게임의 출시 맵 가운데 가장 도시적인 공간입니다. 니콜스 철물점, 음반점, 정원 상점, 술집, 우체국, 묘지 같은 여러 시설이 모여 있어 주민과 아이템을 찾을 장소가 많지만 그만큼 시야가 자주 끊깁니다.
 
 처음에는 상점이 많은 것이 민간인에게 유리해 보이지만 마이클 역시 건물 모서리와 뒷길을 이용해 접근하기 좋습니다. 한 건물만 깊게 수색하기보다 거리 전체의 흐름을 읽는 것이 중요합니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 마이클이 근처에 있다는 신호가 있다면 상점 깊숙한 곳으로 들어가기보다 출입구가 두 개 이상 있는 장소를 선택하시는 편이 좋습니다. 막다른 실내에서 발견되면 셰이프 점프보다 단순한 길막만으로도 탈출이 어려워질 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 도심 코너를 주의
 
 타운 센터의 강점과 위험은 모두 코너에서 나옵니다. 민간인은 건물 모서리로 마이클의 시야를 끊을 수 있지만, 마이클도 같은 순간 셰이프 점프로 위치를 바꾸거나 다음 길목을 선점할 수 있습니다.
@@ -64,17 +49,6 @@ hideDescription: true
 타운 센터에는 상점뿐 아니라 묘지와 우체국 같은 시설도 있습니다. 상업 지역 중심부만 반복해서 돌면 외곽의 주민과 목표를 놓칠 수 있으므로 맵이 조용해졌을 때 한 번씩 바깥쪽을 확인하시는 것이 좋습니다.
 
 마이클 입장에서는 민간인들이 상점가에 집중할 때 외곽의 특수 목표를 먼저 처리하는 선택도 가능합니다. 모든 플레이어가 눈에 보이는 중심 지역에 몰리는 순간 오히려 다른 목표가 비게 됩니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 전화기와 주민을 함께 보기
 
@@ -89,17 +63,6 @@ hideDescription: true
 타운 센터는 길이 많기 때문에 민간인을 완전히 추적하려는 집착이 손해로 이어지기 쉽습니다. 킬러 센스와 스토킹, 디텍션 펄스 같은 정보 도구를 활용해 어느 지역의 활동량이 높은지 파악하시는 것이 좋습니다.
 
 하돈필드 타운 센터는 아이템이 많아 보이는 맵이지만 실제 핵심은 이동 선택지입니다. 상점 하나보다 상점 사이의 길과 코너, 외곽 시설을 연결해서 익히시면 복잡한 맵이 오히려 읽기 쉬워집니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 중심가가 조용하면 외곽을 의심
 

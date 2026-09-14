@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 게임이 끊길 때 FPS 숫자만 보면 그래픽카드가 문제인지 CPU가 문제인지 알기 어렵습니다.
 
 스팀은 기존의 단순 FPS 표시보다 더 많은 정보를 보여주는 게임 중 성능 모니터를 제공하고 있어 별도 프로그램 없이 기본 진단이 가능하죠.
@@ -53,17 +49,6 @@ hideDescription: true
 
 특히 대규모 전투나 도시 구간에서만 프레임이 떨어진다면 CPU와 게임 엔진 부하가 원인일 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 프레임 생성 숫자를 그대로 믿으면 안 된다
 
 DLSS나 FSR의 프레임 생성 기능은 실제 렌더링 사이에 새로운 프레임을 만들어 화면의 표시 프레임을 높입니다.
@@ -84,17 +69,6 @@ GPU와 CPU 사용률이 이상하지 않은데 장시간 플레이 뒤 끊김이
 
 고해상도 텍스처를 과하게 사용하면 평균 FPS는 괜찮아 보여도 이동할 때 순간적인 끊김이 늘어날 수 있죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 숫자를 띄우는 것보다 비교가 중요
 
 성능 모니터를 켰다고 바로 답이 나오는 것은 아닙니다.
@@ -114,17 +88,6 @@ GPU와 CPU 사용률이 이상하지 않은데 장시간 플레이 뒤 끊김이
 다만 게임 하나가 왜 느린지 처음 확인하는 단계라면 스팀 기본 기능만으로도 충분한 정보가 나옵니다.
 
 저는 FPS 숫자 하나만 보는 습관보다 CPU, GPU, 메모리를 같이 보는 습관이 게임 최적화에서 훨씬 도움이 된다고 봅니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 같은 장소에서 전후 차이를 기록
 

@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 오픈AI와 삼성전자의 관계가 단순히 메모리를 사고파는 수준에서 더 넓어지고 있습니다. 오픈AI 코리아는 차세대 칩을 개발하는 과정에서 삼성전자와 공동 생산, 연구 협력이 진전되고 있다고 설명했습니다.
 
 다만 여기서 삼성전자가 오픈AI의 차세대 AI칩 전체를 생산하기로 확정됐다고 읽기는 어렵습니다. 오픈AI는 다음 날 기존 협력 관계의 맥락에서 나온 설명이며 새로 발표할 계약은 없다고 선을 그었죠.
@@ -44,17 +40,6 @@ HBM 같은 고대역폭 메모리, 패키징, 전력, 네트워크, 서버 설�
 
 이번 소식을 삼성 파운드리가 TSMC 물량을 뺏느냐는 단순 대결로만 보는 건 다소 아쉽습니다. 오픈AI가 필요한 반도체 종류와 물량 자체가 커지고 있다는 쪽이 더 중요한 변화입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 자체 칩을 만드는 회사가 늘어나는 이유
 
 오픈AI뿐 아니라 아마존, 구글, 메타 같은 대형 기술 기업도 자체 AI칩을 강화하고 있습니다. 엔비디아 GPU를 안 쓰겠다는 선언이라기보다 하나의 공급사와 하나의 칩에 모든 계산을 맡기는 구조에서 벗어나려는 움직임입니다.
@@ -66,17 +51,6 @@ AI 서비스가 커질수록 작은 효율 차이도 엄청난 비용 차이로 
 삼성전자 입장에서 오픈AI와 협력은 특정 칩 몇 개를 생산하는 문제보다 더 큽니다. 메모리, 파운드리, 패키징까지 한 회사 안에서 연결할 수 있다는 점이 장점으로 작동할 수 있기 때문입니다.
 
 물론 실제 대규모 생산 계약으로 이어질지는 별도 확인이 필요합니다. 하지만 AI 회사들이 점점 자체 반도체를 만들기 시작하는 상황에서 설계 초기부터 관계를 만들어두는 건 향후 공급망에서 중요한 위치를 차지할 가능성을 높입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. TSMC 대 삼성보다 공급망 분산
 
@@ -92,13 +66,3 @@ AI 시장이 커질수록 모든 물량을 한 회사에 몰아주는 방식은 
 
 삼성전자가 실제로 어느 범위까지 참여할지는 아직 공개되지 않았습니다. 그래서 지금은 기대를 확정으로 바꾸기보다, 오픈AI가 한국 반도체 기업을 단순 부품 공급사가 아닌 장기 협력 대상으로 보고 있다는 흐름에 주목하는 편이 맞습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

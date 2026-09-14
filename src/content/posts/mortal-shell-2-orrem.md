@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 오렘은 언파운드 패스 세 번째 메인 보스입니다. 1페이즈는 게임 초반 타르 골렘과 거의 같은 움직임을 보여 익숙하지만 체력이 끝난 뒤 완전히 다른 네발 형태로 변하면서 전투 방식이 바뀝니다.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/mortal-shell-2-2026-01.jpg" alt="모탈 셸 2(Mortal Shell 2) 소울라이크 액션 게임 대표 이미지" width="686" height="386" loading="lazy" decoding="async" />
@@ -44,17 +40,6 @@ hideDescription: true
 
 보스전에서는 첫 시도부터 처치를 노리기보다 위험한 공격 두세 개만 먼저 구분해 두시는 편이 좋습니다. 큰 패턴의 전조를 익힌 뒤 공격 횟수를 늘리면 회복 소비가 눈에 띄게 줄어듭니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 2페이즈 변형
 
 첫 체력 막대가 끝나면 네발로 움직이며 등에 지네 같은 부분이 나온 형태로 바뀝니다. 시각적으로 크게 달라져 처음에는 패턴이 낯설 수 있습니다.
@@ -66,17 +51,6 @@ hideDescription: true
 플레이어가 있는 쪽 팔로 내려찍는 공격이 자주 나옵니다. 해당 팔 아래를 통과하듯 피한 뒤 다리를 짧게 공격하면 다시 반대쪽으로 돌며 같은 흐름이 반복되기 쉽습니다.
 
 탐험 중에는 새 지역을 끝까지 한 번에 밀려고 하기보다 비컨을 기준으로 짧게 왕복하는 방식이 효율적입니다. 회복을 다 쓰기 전에 허브로 돌아가 강화하고 다시 들어가면 수집품도 놓치기 어렵고 사망으로 잃는 진행 시간도 줄어듭니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 돌진 주의
 
@@ -91,17 +65,6 @@ hideDescription: true
 업적이나 모든 수집 요소를 목표로 하지 않으신다면 첫 회차부터 모든 길을 확인할 필요는 없습니다. 엔딩 이후에도 자유 탐험이 가능하므로 스토리 흐름을 먼저 보고, 필요한 셸과 무기만 챙긴 뒤 나머지를 정리하는 방식도 충분히 좋은 선택입니다.
 
 회복을 많이 쓰는 구간이 항상 가장 어려운 패턴인 것은 아닙니다. 공격 욕심 때문에 맞는 경우가 많으므로 두 번 칠 수 있어 보여도 한 번만 치고 빠지는 방식부터 시험해 보시는 편이 좋습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 첫 형태에 자원 아끼기
 

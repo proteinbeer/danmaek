@@ -20,10 +20,15 @@ async function* walk(dir) {
 
 const getPostSlugs = async () => {
   const entries = await fs.readdir(postsDir, { withFileTypes: true });
-  return entries
-    .filter((entry) => entry.isFile() && /\.mdx?$/.test(entry.name))
-    .map((entry) => entry.name.replace(/\.mdx?$/, ''))
-    .sort();
+  const slugs = [];
+  for (const entry of entries) {
+    if (!entry.isFile() || !/\.mdx?$/.test(entry.name)) continue;
+    const source = await read(path.join(postsDir, entry.name));
+    const frontmatter = source.replace(/^\uFEFF/, '').match(/^---\r?\n([\s\S]*?)\r?\n---/)?.[1] ?? '';
+    if (/^draft:\s*true\s*$/m.test(frontmatter)) continue;
+    slugs.push(entry.name.replace(/\.mdx?$/, ''));
+  }
+  return slugs.sort();
 };
 
 const pagePathForUrl = (url) => {

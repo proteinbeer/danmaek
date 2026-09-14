@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 샌프란시스코에서 웨이모 로보택시를 타던 미성년자 두 명이 불법 총기 소지 혐의로 체포됐습니다. 웨이모가 차량 안에서 총기 관련 이용약관 위반을 감지해 긴급 서비스에 알렸고 경찰이 차량을 멈춰 세운 사건입니다.
 
 운전자가 없는 로보택시는 승객이 완전히 혼자 있는 공간처럼 느껴지기 쉽습니다. 하지만 안전을 위해 실내 센서와 카메라가 계속 상황을 확인하기 때문에 택시보다 감시가 강한 이동 수단이 될 수도 있습니다.
@@ -41,17 +37,6 @@ hideDescription: true
 
 센서가 이상 행동을 표시하면 사람이 영상을 검토하는 과정이 들어갈 수 있습니다. 완전 자동 운전이라고 해서 모든 판단이 AI만으로 이뤄지는 것은 아닙니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 차량을 멈춘 뒤 경찰이 접근
 
 웨이모는 위험 상황을 감지한 뒤 계속 목적지까지 이동시키지 않고 차량을 세웠습니다. 경찰은 고위험 차량 정지 절차를 진행해 탑승자를 밖으로 나오게 한 뒤 수색했습니다.
@@ -63,17 +48,6 @@ hideDescription: true
 실내 카메라는 운전자가 없는 차량에서 폭력과 기물 파손, 응급상황을 확인하는 데 필요할 수 있습니다. 반대로 이용자는 택시 안의 사적인 대화와 행동이 언제 사람에게 검토되는지 궁금할 수밖에 없습니다.
 
 문제는 카메라 존재 자체보다 어떤 상황에 자동 경고가 발생하고 영상이 얼마나 오래 저장되며 누구에게 전달되는지입니다. 서비스가 커질수록 이런 기준을 더 명확하게 공개해야 합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 로보택시는 이동하는 센서 공간
 
@@ -88,17 +62,6 @@ hideDescription: true
 로보택시를 이용하시면 차량 안이 개인 승용차와 같은 사적 공간은 아니라는 점을 알고 계시는 편이 좋습니다. 안전과 서비스 운영을 위한 실내 카메라와 센서가 존재하고 특정 상황에서는 원격 직원이 기록을 검토할 수 있습니다.
 
 그렇다고 모든 대화를 사람이 실시간으로 보고 있다는 뜻은 아닙니다. 이용자는 어떤 데이터가 자동 처리되고 어떤 조건에서 사람이 확인하며 수사기관에 어떤 절차로 제공되는지 서비스의 개인정보 정책을 확인할 권리가 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 로보택시 회사가 사실상 운송 관리자도 된다
 

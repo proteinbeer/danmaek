@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 예전 PC 게임에서는 성능을 원하면 무조건 전체 화면으로 실행하라는 말이 흔했습니다.
 
 윈도우 11에서는 창 모드와 테두리 없는 창 모드의 표시 방식이 개선되면서 오래된 공식이 항상 그대로 맞지는 않습니다.
@@ -61,17 +57,6 @@ hideDescription: true
 
 윈도우는 앱별로 그래픽 설정을 다르게 지정할 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 테두리 없는 창 모드가 편한 이유
 
 전체 화면은 게임에 집중하기 좋지만 다른 프로그램으로 전환할 때 화면이 깜빡이거나 전환이 느린 게임도 있습니다.
@@ -99,17 +84,6 @@ hideDescription: true
 다만 모든 문제를 고성능 GPU 지정으로 해결하려고 하면 배터리 사용과 발열이 늘 수 있습니다.
 
 게임과 고성능 앱에만 필요한 설정을 적용하는 편이 좋습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 전체 화면이 무조건 빠르다는 생각
 
@@ -139,13 +113,3 @@ hideDescription: true
 
 같은 장면에서 프레임과 입력 반응을 확인해야 실제로 최적화가 도움이 되는지 판단하기 쉽습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

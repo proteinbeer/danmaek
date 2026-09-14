@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 몬스터헌터 와일즈가 닌텐도 스위치 2로 갑니다. 닌텐도와 캡콤은 12월 4일 출시를 공식 발표했고, 기존 플랫폼에 배포된 타이틀 업데이트 내용도 함께 담습니다.
 
 온라인에서는 다른 플랫폼과 크로스 플레이를 지원하고, 스위치 2끼리는 최대 4명이 로컬 통신으로 사냥할 수도 있습니다. 그런데 저는 출시 자체보다 이 게임이 스위치 2에서 어떤 모습으로 돌아갈지가 훨씬 궁금합니다.
@@ -42,17 +38,6 @@ hideDescription: true
 특히 몬스터헌터는 액션 타이밍이 중요한 게임입니다. 화면이 조금 덜 화려한 것은 받아들일 수 있어도 사냥 중 프레임이 크게 흔들리면 체감이 바로 옵니다.
 
 그래서 출시 전 체험판이 예고됐다는 것도 반갑습니다. 실제 기기에서 어느 정도인지 직접 확인하고 구매할 수 있는 기회가 생기기 때문입니다.
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 모든 업데이트를 넣고 시작한다는 장점
 
 스위치 2판은 늦게 나오는 대신 지금까지 다른 플랫폼에 배포된 업데이트 콘텐츠를 포함합니다. 타마미츠네, 라기아크루스 같은 추가 몬스터와 파이널판타지14 협업 콘텐츠도 들어가죠.
@@ -67,17 +52,6 @@ hideDescription: true
 스위치 2가 와일즈 같은 최신 대형 게임을 자연스럽게 받아내기 시작하면 이야기가 달라집니다. 닌텐도 게임을 하는 기기에 더해, 다른 콘솔에서 하던 게임을 들고 다니는 기기라는 두 번째 정체성이 강해질 수 있습니다.
 
 이 변화가 쌓이면 이용자가 콘솔을 고르는 방식도 조금 달라질 겁니다. 성능이 가장 높은 기기와, 충분한 성능에 휴대성을 더한 기기 사이에서 선택하게 되기 때문입니다.
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 12월 4일보다 체험판을 먼저 봐야 한다
 
 몬스터헌터 와일즈 스위치 2판은 12월 4일 출시되고, 2027년에는 대형 확장 콘텐츠 아센던스도 나올 예정입니다. 콘텐츠 지원까지 이어진다는 점에서는 단발성 이식으로 보이지 않습니다.
@@ -96,13 +70,3 @@ hideDescription: true
 
 스위치 2가 대형 멀티플랫폼 게임의 진짜 구성원으로 인정받는 순간은 출시 로고가 붙을 때가 아니라, 같은 서버 안에서 기기 차이를 잊고 놀 수 있을 때일 겁니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

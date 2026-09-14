@@ -1,4 +1,4 @@
-﻿---
+---
 title: "발하임 치트를 쓰고 업적도 받는다, 개발사가 넣은 긴 명령어의 정체"
 description: "발하임 1.0에는 개발사의 유머가 그대로 드러나는 콘솔 명령어가 들어갔습니다."
 date: 2026-09-12T12:00:00
@@ -18,10 +18,6 @@ imageHeight: 675
 hideHeroImage: true
 hideDescription: true
 ---
-
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
 
 발하임 1.0에는 개발사의 유머가 그대로 드러나는 콘솔 명령어가 들어갔습니다.
 
@@ -61,17 +57,6 @@ hideDescription: true
 
 정확한 철자는 업데이트 버전에 따라 확인하고 입력하는 편이 좋습니다라는 점은 함께 보셔야 합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 왜 업적이 중요할까
 
 생존 게임에서는 수백 시간을 투자한 월드 하나에 건축과 탐험 기록이 모두 쌓입니다.
@@ -100,17 +85,6 @@ hideDescription: true
 
 다만 앞으로 밸런스 패치에서 치트와 업적 정책이 다시 바뀔 가능성도 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 정답보다 선택권
 
 치트를 쓰면 업적을 받을 자격이 있는지에 대한 정답은 없습니다.
@@ -134,17 +108,6 @@ hideDescription: true
 처음 공개된 숫자와 설명은 방향을 보여주지만 실제 이용 환경에서는 예상하지 못한 문제가 나올 수 있습니다.
 
 후속 발표와 이용자 반응을 함께 보시면 처음 기사만 읽었을 때보다 변화의 크기를 더 정확하게 판단할 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 실제 적용에서 볼 부분
 

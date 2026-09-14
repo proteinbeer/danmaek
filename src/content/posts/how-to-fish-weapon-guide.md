@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 낚시 방법 무기 추천에서 막히는 분이라면 시스템 하나만 따로 보지 말고 진행과 장비를 함께 보시는 편이 좋습니다. 낚시 방법은 낚시, 전투, 판매, 퀘스트가 연결되어 있어 한 부분만 놓쳐도 다음 단계가 늦어질 수 있습니다.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/how-to-fish-2026-01.jpg" alt="낚시 방법(HOW TO FISH) 스팀 생존 낚시 게임 대표 이미지" width="460" height="215" loading="lazy" decoding="async" />
@@ -40,17 +36,6 @@ hideDescription: true
 
 일반 개체는 저비용으로 정리하고 보스나 큰 어종에 좋은 무기를 쓰는 식으로 나누시면 효율이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 총기는 트릭샷과 궁합이 좋다
 
 원거리 무기는 단순히 안전해서 좋은 것이 아닙니다. 공중 처치, 헤드샷, 노스코프 같은 트릭샷을 만들기 쉬워 킬 점수와 판매 수익까지 끌어올릴 수 있습니다.
@@ -63,17 +48,6 @@ hideDescription: true
 
 보스전에서는 사거리와 안정성을 먼저 보고, 폭발물은 자기 피해까지 고려해 사용하셔야 합니다. 최근 패치에서는 아군 피해를 꺼도 자기 폭발물에는 죽을 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 부착물은 실수 구매를 줄인다
 
 패치 과정에서 실수 구매가 많았던 일부 부착물 판매가 조정됐고, 특정 부착물은 더 낮은 단계로 되돌릴 수 없게 변경됐습니다. 무기를 업그레이드할 때는 가격만 보고 연속 구매하지 않는 편이 좋습니다.
@@ -85,17 +59,6 @@ hideDescription: true
 드립 변종을 릴 오브 포춘에 넣으면 무기와 낚싯대 등의 코스메틱 외형을 얻을 수 있습니다. 멋있어 보이지만 이 보상은 외형 변화이지 공격력 상승 장비가 아닙니다.
 
 성능이 필요하면 상점 업그레이드와 실제 무기 선택을 보셔야 하고, 외형 수집은 별도 목표로 생각하시는 편이 좋습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 좋은 무기는 진행 시간을 줄인다
 
@@ -117,13 +80,3 @@ hideDescription: true
 
 보스전에서는 한 번의 화려한 트릭샷보다 안정적으로 피해를 이어가는 것이 중요합니다. 일반 물고기로 트릭샷을 연습하고 보스에서는 생존과 전리품 확보를 우선하면 돈벌이와 진행을 분리해서 관리하기 쉬워집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

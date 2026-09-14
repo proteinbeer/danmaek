@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 한 대의 스위치 2를 가족 여러 명이 같이 사용하면서 유저를 하나만 만들지 고민하는 상황은 처음 겪으면 본체 고장부터 의심하기 쉽습니다. 하지만 스위치 2는 기존 스위치와 달라진 규격과 계정 관리 방식이 많아서, 실제로는 설정이나 사용 조건을 잘못 이해해 생기는 경우가 적지 않습니다.
 
 핵심부터 보면 스위치 2의 세이브 데이터는 기본적으로 유저별로 저장됩니다. 여러 사람이 같은 유저로 플레이하면 각자의 진행 상황을 분리하기 어려워지고, 한 유저에는 하나의 닌텐도 어카운트만 연결할 수 있습니다. 이 차이를 먼저 알고 계시면 불필요한 삭제나 초기화, 주변기기 교체를 피할 수 있습니다.
@@ -41,17 +37,6 @@ hideDescription: true
 
 개인적으로는 콘솔 문제를 해결할 때 초기화를 너무 빨리 권하지 않는 편입니다. 계정, 세이브, 다운로드 데이터가 얽혀 있기 때문에 작은 설정 문제를 큰 작업으로 해결하면 오히려 확인해야 할 것이 늘어나기 때문입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 데이터와 계정은 따로 확인
 
 다음으로 온라인 기능이나 e숍을 쓸 유저는 각자 맞는 닌텐도 어카운트로 로그인합니다. 이어서 게임을 실행할 때 어느 유저로 시작하는지 확인하는 습관을 들입니다. 순서를 지키면 어느 단계에서 문제가 생기는지 확인하기 쉬워집니다.
@@ -64,17 +49,6 @@ hideDescription: true
 
 가족 콘솔에서 계정을 나누는 건 귀찮은 설정이 아니라 세이브를 지키는 기본 구조입니다. 처음 5분을 아끼려고 하나로 시작하면 나중에 수십 시간짜리 진행 데이터를 분리하지 못하는 상황이 생길 수 있습니다
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 이렇게 정리하면 편합니다
 
 여기까지 해도 같은 증상이 계속된다면 한 번에 여러 설정을 바꾸지 않는 것이 좋습니다. 어린 사용자는 연령에 맞는 어린이 어카운트와 자녀 보호 설정을 함께 고려해야 합니다. 다른 게임이나 다른 네트워크, 다른 케이블처럼 비교할 수 있는 조건이 있다면 하나씩 바꿔보는 편이 원인을 찾기 쉽습니다.
@@ -86,17 +60,6 @@ hideDescription: true
 게임 데이터, 세이브 데이터, 계정 이용 권한은 스위치에서 서로 다른 항목으로 관리되는 경우가 많습니다. 화면에 게임 아이콘이 보인다고 세이브와 이용 권한까지 모두 같은 위치에 있다는 뜻은 아닙니다.
 
 중요한 게임을 오래 플레이하셨다면 문제를 해결하기 전에 세이브가 어디에 있는지 먼저 확인하시는 편이 안전합니다. 특히 사용자 삭제와 본체 초기화는 일반적인 게임 데이터 삭제보다 영향 범위가 훨씬 크죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 설정과 해결 순서
 

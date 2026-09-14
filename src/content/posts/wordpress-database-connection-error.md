@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 워드프레스에서 데이터베이스 연결 오류가 뜨면 글, 관리자 화면, 카테고리까지 한꺼번에 열리지 않을 수 있죠.
 
 사이트 전체가 사라진 것처럼 보이지만 실제로는 워드프레스가 저장된 데이터를 읽는 통로를 찾지 못한 상태일 가능성이 높습니다.
@@ -47,17 +43,6 @@ hideDescription: true
 
 직접 값을 바꾸기 전에 기존 설정 파일을 복사해두시는 편이 좋습니다. 오타 하나를 고치다가 다른 값을 건드리면 원래 문제보다 범위가 커질 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 호스팅 장애와 용량 확인
 
 설정이 바뀐 적이 없다면 호스팅 상태를 확인하시면 되죠.
@@ -73,17 +58,6 @@ hideDescription: true
 계정 정보가 틀린 상황에서 복구를 시도해도 도움이 되지 않고, 실제 손상이 아닌데 직접 테이블을 수정하면 위험만 커질 수 있죠.
 
 먼저 연결 정보와 서버 상태를 확인한 뒤에 데이터베이스 자체 문제를 보시는 편이 안전합니다. 백업이 있다면 복구 작업 전에 현재 상태도 별도로 보존하는 것이 좋습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 갑자기 반복된다면 서버 자원도 본다
 
@@ -101,17 +75,6 @@ hideDescription: true
 
 최근 변경, 연결 정보, 호스팅 상태, 저장 공간, 서버 자원 순서로 확인하시면 불필요한 데이터베이스 수정부터 시작하는 일을 피할 수 있습니다. 사이트 전체가 멈췄을수록 오히려 한 단계씩 범위를 나누는 편이 안전합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 7. 백업 복원 직후라면 데이터베이스 주소를 다시 본다
 
 다른 호스팅에서 가져온 백업을 복원한 직후 오류가 뜬다면 파일은 잘 옮겨졌어도 새 서버의 데이터베이스 정보가 반영되지 않았을 수 있죠.
@@ -128,13 +91,3 @@ hideDescription: true
 
 반복되는 데이터베이스 연결 오류는 단순한 워드프레스 설정 문제가 아닐 가능성이 큽니다. 같은 조건에서 계속 재현된다면 호스팅 업체에 시간대와 오류 상황을 함께 전달하는 편이 훨씬 빠릅니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

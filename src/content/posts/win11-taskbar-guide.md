@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 윈도우 11 작업표시줄은 윈도우 10과 달라서 처음 쓰는 분은 낯설게 느낄 수 있습니다. 시작 버튼 아이콘이 중앙에 있고, 우측 알림 영역의 아이콘 표시도 기본값이 정해져 있죠.
 
 설정 몇 가지만 바꾸면 윈도우 10처럼 왼쪽 정렬로 되돌리거나, 자주 쓰는 프로그램을 미리 고정해 일을 더 편하게 만들 수 있습니다. 아래에서 주요 설정을 정리했습니다.
@@ -49,17 +45,6 @@ hideDescription: true
 
 조금이라도 익숙한 배치를 원하면 왼쪽 정렬은 꽤 큰 차이를 만들어줍니다. 마우스 이동 거리가 줄어드는 부수 효과도 있죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 자주 쓰는 앱 작업표시줄에 고정하기
 
 자주 여는 프로그램은 아이콘을 우클릭해서 영구 고정해둘 수 있습니다.
@@ -79,17 +64,6 @@ hideDescription: true
 - 개별 아이콘은 알림 영역의 **∧(숨겨진 아이콘 표시) 버튼**을 눌러 관리할 수도 있습니다.
 
 항상 표시하고 싶은 아이콘(예: 음악 재생 앱)은 숨김 목록에서 끌어서 트레이로 옮길 수 있습니다. 반대로 공간이 부족하면 자주 안 쓰는 아이콘은 숨겨두면 깔끔하죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 검색·위젯·작업 보기 버튼 정리
 
@@ -111,13 +85,3 @@ hideDescription: true
 
 작업표시줄 위치를 세로로 바꾸고 싶은 분도 많지만, 윈도우 11은 작업표시줄을 화면 아래쪽으로 고정합니다. 배치에 익숙해지면 가로 방향도 큰 불편이 없죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

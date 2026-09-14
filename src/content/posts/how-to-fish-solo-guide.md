@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 낚시 방법 혼자 해도 된다에서 막히는 분이라면 시스템 하나만 따로 보지 말고 진행과 장비를 함께 보시는 편이 좋습니다. 낚시 방법은 낚시, 전투, 판매, 퀘스트가 연결되어 있어 한 부분만 놓쳐도 다음 단계가 늦어질 수 있습니다.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/how-to-fish-2026-01.jpg" alt="낚시 방법(HOW TO FISH) 스팀 생존 낚시 게임 대표 이미지" width="460" height="215" loading="lazy" decoding="async" />
@@ -40,17 +36,6 @@ hideDescription: true
 
 초반 레이더, 미끼, 무기 순서를 정리하며 게임 구조를 배우기에 특히 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 보스에서는 거리 관리가 중요하다
 
 혼자 할 때 가장 큰 차이는 쓰러졌을 때 바로 도와줄 사람이 없다는 점입니다. 보스에게 가까이 붙어 화력을 욕심내기보다 넓은 공간에서 원거리 공격을 유지하는 편이 안정적입니다.
@@ -63,17 +48,6 @@ hideDescription: true
 
 한 번 손에 익힌 뒤 협동으로 넘어가면 돈벌이 역할을 맡기도 쉬워집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 도감 수집도 혼자가 깔끔하다
 
 피시피디아와 드립 변종을 채울 때는 누가 어떤 희귀 개체를 가져갔는지 신경 쓸 필요가 없어 관리가 단순합니다. 섬별로 하나씩 정리하는 수집 플레이와 1인 모드는 잘 맞습니다.
@@ -85,17 +59,6 @@ hideDescription: true
 한 시간 안에 게임을 끝내는 빈 도전이나 최종 보스를 맨손으로 마무리하는 핸디맨처럼 조건이 까다로운 업적은 통제가 쉬운 1인 세션에서 도전하는 편이 편할 수 있습니다.
 
 협동에서는 다른 플레이어의 마지막 공격이나 장난 때문에 조건이 꼬일 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 협동과 싱글을 나눠 즐긴다
 
@@ -121,13 +84,3 @@ hideDescription: true
 
 메인 진행이 끝난 뒤 다시 돌아오면 장비와 이동 수단이 좋아져 같은 작업도 훨씬 짧게 끝납니다. 처음부터 완성하려 하기보다 진행과 수집을 나누시면 반복 피로도도 줄고 필요한 아이템을 잘못 소비하는 실수도 줄어듭니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

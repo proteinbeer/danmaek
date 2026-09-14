@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 엔비디아가 오픈소스 AI 모델과 데이터셋 플랫폼 허깅페이스를 약 129억달러에 인수하기로 합의했습니다. GPU를 파는 회사가 개발자들이 모델을 찾고 공유하는 핵심 플랫폼까지 확보한다는 점에서 의미가 큽니다.
 
 이번 소식은 기능이나 숫자 하나보다 기술을 쓰는 방식과 책임 구조가 어떻게 바뀌는지 보여주는 사례에 가깝습니다. 확인된 사실과 해석이 필요한 부분을 나눠서 보면 의미가 더 선명합니다.
@@ -41,17 +37,6 @@ AI 시장은 칩만 잘 만드는 것으로 끝나지 않습니다. 개발자가
 
 기술 변화는 제품 하나에서 끝나지 않고 기업 전략과 규제, 이용 습관까지 이어집니다. 왜 지금 이런 결정이 나왔는지 보면 단순한 기능 추가보다 더 큰 흐름이 보입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. GPU 밖으로 넓어지는 AI 생태계
 
 이용자 입장에서는 엔비디아 최적화 도구와 허깅페이스 모델의 연결이 더 쉬워질 수 있습니다. 반대로 특정 하드웨어 회사가 중립적으로 쓰이던 플랫폼을 소유하면 경쟁사 모델과 장비가 같은 수준으로 노출될지 우려도 생길 수 있습니다.
@@ -67,17 +52,6 @@ AI 시장은 칩만 잘 만드는 것으로 끝나지 않습니다. 개발자가
 허깅페이스의 가치는 파일 저장소가 아니라 다양한 연구자와 기업이 같은 공간을 쓰는 중립적인 생태계에 있습니다. 엔비디아가 소유권을 가져간 뒤에도 그 중립성을 유지할 수 있느냐가 거래 금액보다 더 오래 남는 문제일 수 있습니다.
 
 개인적으로는 이 지점이 가장 중요해 보이죠. 기술은 빠르게 바뀌지만 사람과 제도가 적응하는 속도는 느리기 때문에 작은 설계 차이가 시간이 지나면 큰 신뢰 차이로 이어질 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 독립 운영과 경쟁 GPU 지원이 관건
 

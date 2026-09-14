@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 인터넷이 아예 안 되는 것도 답답하지만, **잠깐 되다가 몇 초～몇 분 만에 자꾸 끊기는 것**이 더 곤란할 때가 많습니다. 게임이나 화상 회의 중에 주기적으로 연결이 끊기면 원인 찾기도 쉽지 않죠.
 
 끊김의 원인은 크게 공유기 문제, 무선 간섭, 컴퓨터 설정, 회선 문제로 나뉩니다. 어디서부터 손댈지 막막할 때 아래 순서대로 점검하면 대부분의 끊김 원인을 좁힐 수 있습니다.
@@ -49,17 +45,6 @@ hideDescription: true
 
 재부팅만으로 몇 시간 버티다 다시 끊긴다면 소프트웨어 문제보다 **하드웨어 과부하나 발열**을 의심해볼 수 있습니다. 공유기 배치를 통풍이 잘 되는 곳으로 바꾸는 것도 도움이 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 무선 간섭과 주파수 확인
 
 무선으로만 끊긴다면 **2.4GHz와 5GHz 주파수**를 확인합니다.
@@ -79,17 +64,6 @@ hideDescription: true
 - 윈도우의 전원 옵션에서 USB 절전 모드가 켜져 있으면 무선 랜카드가 잠들어 끊길 수 있습니다. 절전 기능을 끄는 것이 좋습니다.
 
 랜카드 드라이버가 오래되어 끊기는 경우도 많습니다. 제조사 사이트에서 최신 드라이버를 받아 설치해보시기 바랍니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 회선과 통신사 측 장애 확인
 

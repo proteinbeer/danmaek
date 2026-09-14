@@ -17,11 +17,8 @@ imageWidth: 1200
 imageHeight: 675
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
-
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
 
 파이어 엠블렘 포춘스 위브의 스위치 2 예상 설치 용량이 29.5GB로 확인됐습니다.
 
@@ -55,17 +52,6 @@ hideDescription: true
 
 풍화설월 11.5GB와 큰 차이은 파이어 엠블렘 포춘스 위브의 재미가 어디에서 나오는지를 보여주는 부분입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 시스템 하나가 추가됐다는 사실보다 기존 플레이 흐름과 자연스럽게 이어지는지가 중요하고, 억지로 넣은 기능처럼 느껴지면 반복 플레이에서 금방 피로해질 수 있습니다.
 
 저는 이런 변화는 처음 몇 분보다 몇 시간 뒤 평가가 더 중요하다고 봅니다.
@@ -93,17 +79,6 @@ hideDescription: true
 구형 스위치를 동시에 고려하지 않아도 되는 만큼 더 높은 품질의 자산을 기본으로 설계할 수 있습니다.
 
 파이어 엠블렘 포춘스 위브이 흥미로운 이유는 9월 17일 스위치 2 독점이 과거 시리즈의 익숙한 부분과 새 방향 사이에 놓여 있기 때문입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 팬에게 익숙한 요소를 그대로 되살리는 것만으로는 짧은 향수에 그칠 수 있고, 반대로 너무 많이 바꾸면 이름만 같은 작품처럼 느껴질 수 있습니다.
 

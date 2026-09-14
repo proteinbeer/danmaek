@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 구글 스토어에서 픽셀 태블릿이 사라지고 태블릿 카테고리 자체도 없어졌습니다.
 
 구글이 공식적으로 태블릿 사업 종료를 선언한 것은 아니지만 후속 픽셀 태블릿 개발이 멈춘 상황과 겹치며 사실상 다시 물러나는 것 아니냐는 해석이 나옵니다.
@@ -30,7 +26,6 @@ hideDescription: true
 이 장면이 익숙한 이유는 구글이 태블릿에 도전했다가 방향을 바꾼 일이 한 번이 아니기 때문입니다.
 
 안드로이드를 만든 회사가 정작 안드로이드 태블릿 하드웨어에서는 계속 확신을 보여주지 못한다는 점이 묘합니다.
-
 
 <img class="post-landscape-image post-landscape-image--high" src="/assets/posts/news-images/google-tablet-again-2026-01.jpg" alt="구글 태블릿 또 사라지나, 픽셀 태블릿이 스토어에서 빠졌다" width="3840" height="2891" loading="lazy" decoding="async" />
 
@@ -54,17 +49,6 @@ hideDescription: true
 
 개발자 입장에서는 구글이 어디에 장기 투자할지 확신하기 어려웠고 앱 최적화도 함께 늦어졌습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 아이패드와 다른 생태계
 
 애플은 아이패드용 앱과 액세서리, 칩을 오랫동안 한 방향으로 밀었습니다.
@@ -85,17 +69,6 @@ hideDescription: true
 
 구글이 다시 멈춘다면 제품 실패보다 장기 투자 부족이 더 큰 원인으로 남을 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 안드로이드 태블릿은 사라지지 않는다
 
 구글이 직접 제품을 줄인다고 안드로이드 태블릿 시장이 끝나는 것은 아닙니다.
@@ -115,17 +88,6 @@ hideDescription: true
 픽셀 태블릿이 정말 마지막이 될지는 아직 확정되지 않았습니다.
 
 다만 구글이 다시 태블릿을 꺼낸다면 다음에는 제품보다 먼저 오래 하겠다는 신호를 보여줘야 할 것 같습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 구글이 돌아올 가능성
 
@@ -151,13 +113,3 @@ hideDescription: true
 
 다만 기준 기기가 없는 상태에서도 개발자에게 꾸준한 신호를 줄 수 있느냐가 앞으로의 숙제입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

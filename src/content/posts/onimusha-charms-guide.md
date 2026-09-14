@@ -21,10 +21,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 수호 부적(오마모리)은 장착만으로 스탯과 효과를 올려 주는 상시 아이템입니다. 보스전의 생존, 파밍 효율, 오니 어웨이크닝의 빈도까지 부적 하나로 바뀌는 만큼 어떤 부적을 언제 켜내느냐가 후반 운영의 중심이 됩니다. 이 글은 해외 공략의 15종 전체 효과와 위치, 강화 비용, 상황별 조합을 종합했습니다.
 
 부적은 대부분 기회 조우(챈스 인카운터)와 교토의 신비 보상으로 얻습니다. 본편의 15종에 더해 예약 특전과 데모 연동으로 받을 수 있는 보너스 부적도 따로 존재합니다.
@@ -47,17 +43,6 @@ hideDescription: true
 
 이 중 펜서 스트렝스는 일반 검격 피해를 올리는 범용 부적이고, 프로텍션은 받는 피해를 줄여 카니지 생존의 핵심입니다. 정화 부적은 말리스 안개 지역의 환경 피해와 상태 이상 감소에 쓰입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 기회 조우로 얻는 부적 8종
 
 기회 조우는 시민 구출류 사이드 미션으로, 퀘스트당 하나씩 부적을 줍니다. 열의 부적은 밤하늘의 창백한 빛, 새디스트 스트렝스는 마음을 비우면, 리퍼 찬트는 지저분한 일, 스태미나 부적은 으르렁거리는 유령에서 얻습니다.
@@ -73,17 +58,6 @@ hideDescription: true
 15종 전체를 만렙까지 올리는 총량은 붉은 소울 135,000과 페이버 150,000입니다. 부적 강화는 뉴게임 플러스로 이월되므로 최종 미션 전에 쓰는 재화가 카니지에서 그대로 돌아옵니다.
 
 공물에 필요한 페이버는 교토 곳곳의 반짝이는 아이템, 상자, 시민 구출 보상을 제물로 바쳐 모입니다. 부적 강화가 열린 직후에는 우선순위를 정해 놓고 재화를 분배해야 합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 상황별 최적 조합 정리
 
@@ -101,13 +75,3 @@ hideDescription: true
 
 마지막은 카니지 준비용으로 프로텍션과 힐러, 그리고 트로피용으로 나머지 전부입니다. 재화를 전부 소모하기 전에 수동 세이브를 하나 만들어 두면 세이브 스컴으로 부족분만 다시 파밍할 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

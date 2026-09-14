@@ -17,11 +17,8 @@ imageWidth: 1200
 imageHeight: 675
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
-
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
 
 소닉 레이싱 크로스월드의 이어 원 에디션으로 보이는 상품 등록이 포착됐습니다. 아직 세가의 공식 발표는 아니지만 1년 차 유료 DLC를 한 번에 묶은 버전이 나올 가능성을 보여주는 정황입니다.
 
@@ -41,17 +38,6 @@ hideDescription: true
 
 새 결정은 이전 콘텐츠의 반응과 시장 변화가 쌓인 결과인 경우가 많습니다. 과거 방식에서 무엇이 부족했는지 보면 이번 선택이 해결하려는 문제가 더 선명하게 보입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 18명 추가 레이서와 여섯 협업 팩
 
 기존 시즌 패스 구매자에게는 큰 변화가 없지만 처음 들어오는 이용자에게는 가격이 핵심입니다. 본편과 모든 DLC를 개별 구매하는 것보다 충분히 저렴해야 묶음판의 의미가 생깁니다.
@@ -67,17 +53,6 @@ hideDescription: true
 상품 등록은 실제 발표 전에 나타나는 경우가 많지만 내용이 바뀌거나 취소될 수도 있습니다. 지금은 출시 확정이 아니라 가능성이 높아진 단계로 보는 것이 맞고 공식 가격이 나와야 구매 가치도 판단할 수 있습니다.
 
 개인적으로는 이 부분이 가장 흥미롭습니다. 작은 방향 변화가 다른 작품과 서비스에도 반복될 때 일회성 실험이 아니라 회사 전체 전략으로 굳어지는 경우가 많기 때문입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 세가 공식 발표와 가격은 아직
 

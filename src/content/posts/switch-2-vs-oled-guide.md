@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 스위치 2가 출시된 뒤 가장 많은 질문이 바로 "스위치 OLED에서 넘어가도 되나요"입니다. OLED 모델을 최근에 산 분이라면 특히 고민이 크죠. 화면만 보면 OLED가 유리한 부분도 있어서 단순 비교가 어렵습니다.
 
 이 글에서는 스위치 1(OLED 포함)과 스위치 2의 실제 차이를 정리하고, 어떤 분들에게 바꾸는 게 맞는지 기준을 나눠봤습니다.
@@ -49,17 +45,6 @@ hideDescription: true
 
 즉 "기존 OLED로 신작까지 충분하다"는 판단이 서면 당장 바꿀 이유는 줄어듭니다. 반대로 신작을 가장 좋은 화질로 즐기고 싶다면 스위치 2가 답이 되죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 하위 호환과 데이터 이전
 
 스위치 1 게임과 세이브 데이터가 스위치 2에서 어떻게 되는지는 멀티 보유자에게 가장 큰 질문입니다.
@@ -81,17 +66,6 @@ hideDescription: true
 
 이미 사용 중인 액세서리가 많다면 그 호환성 비용까지 계산에 넣어야 합니다. 휴대용 세팅을 새로 갖추는 비용은 생각보다 큽니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 가격과 시점
 
 가격은 두 모델의 선택을 결정하는 중요한 기준입니다.
@@ -112,13 +86,3 @@ hideDescription: true
 
 스위치 2는 확실한 업그레이드지만, 모든 분에게 필요한 업그레이드는 아닙니다. 본인의 이용 패턴을 위 기준에 대입해보시면 결정에 도움이 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

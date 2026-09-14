@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 일하는 동안 알림을 전부 꺼두면 조용하지만 중요한 메시지까지 놓칠 수 있습니다.
 
 윈도우 11의 집중 기능과 방해 금지를 이용하면 알림 기능 자체를 없애지 않고 필요한 시간 동안만 방해를 줄일 수 있습니다.
@@ -61,17 +57,6 @@ hideDescription: true
 
 집중 기능은 오래 버티는 경쟁보다 방해받지 않는 구간을 만드는 데 의미가 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 중요한 알림은 예외로 남기기
 
 방해 금지를 켜도 모든 알림을 똑같이 막을 필요는 없습니다.
@@ -99,17 +84,6 @@ hideDescription: true
 알림이 갑자기 사라졌다는 문제도 실제로는 방해 금지 자동 조건 때문일 수 있습니다.
 
 문제가 생겼다고 보기 전에 현재 방해 금지가 켜져 있는지부터 확인하면 됩니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 집중 모드가 효과 있는 사람
 
@@ -143,13 +117,3 @@ hideDescription: true
 
 하루 종일 방해 금지를 켜두기보다 필요한 구간만 정해 사용하는 편이 부담도 적습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

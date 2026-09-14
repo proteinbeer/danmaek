@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 메이플 키우기에서 캐릭터 스펙을 가장 직접적으로 끌어올리는 시스템은 무기 소환입니다. 던전에서 파밍하는 재화와 달리, 소환으로 얻은 무기는 합성을 통해 등급을 넘길 수 있어 성장의 중심축이 됩니다.
 
 2026년 9월 업데이트로 확정 소환 기능이 추가되면서, 무기 소환은 이전보다 계획적으로 접근할 수 있게 되었습니다. 이 글에서는 소환권을 어디에 우선 쓰는지, 합성으로 등급을 올리는 규칙, 그리고 새 천장 시스템을 활용하는 방법을 정리합니다.
@@ -41,17 +37,6 @@ hideDescription: true
 
 한정된 재화라면 무기 소환을 메인으로 두고, 동료는 소환권 보상으로 틀을 잡는 편이 딜 성장에 유리합니다. 유물 소환은 무기·동료 소환이 어느 정도 갖춰진 뒤에 시작하는 것이 일반적입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 무기 합성 규칙
 
 무기 합성은 같은 종류의 무기를 여러 개 모아 다음 등급의 무기로 승급시키는 시스템입니다. 같은 종류라 함은 동일 무기 품목을 의미하므로, 사냥에서 나온 무기 조각을 모으는 것이 기본이 됩니다.
@@ -63,17 +48,6 @@ hideDescription: true
 이번 업데이트로 무기·동료·유물 확정 소환이 추가되었습니다. 일정 횟수를 소진하면 원하는 대상을 확정으로 받을 수 있어, 도박성 수집 부담이 줄었습니다.
 
 확정 소환은 어떤 대상을 노리느냐가 성장 방향을 정합니다. 현재 막힌 콘텐츠를 고려해 목표 무기를 정한 뒤 확정 카운트를 모으는 것이 효율적입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 과거 소환 기록의 소급 적용
 
@@ -87,13 +61,3 @@ hideDescription: true
 
 재화가 부족할 때는 강제로 소환을 반복하지 말고, 성장 던전과 일일 보상으로 재화를 쌓은 뒤 확정 소환 지점을 노리는 것이 손해를 줄이는 방법입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

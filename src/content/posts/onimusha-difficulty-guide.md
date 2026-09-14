@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받합니다.
-</p>
-
 귀무자 웨이 오브 더 소드는 세 가지 난이도 모드를 제공합니다. 스토리, 액션, 카나지는 이름만 다르고 실제로는 적의 공격력과 패턴, 공격 프롬프트 유무까지 실질적으로 게임이 달라지는 구조입니다. 어떤 모드로 시작하느냐가 이 게임을 얼마나 즐길 수 있느냐를 결정합니다.
 
 이 글은 각 난이도의 구체적인 차이, 추천 플레이 순서, 카나지 난이도 공략 준비 방법까지 정리했합니다. 첫 플레이어와 도전형 플레이어 모두에게 맞는 선택 기준을 담았합니다.
@@ -46,17 +42,6 @@ hideDescription: true
 
 카나지 모드에서는 프롬프트가 없을 뿐 아니라 적의 공격 속도와 패턴 복잡도도 올라갑니다. 이 모드는 프롬프트 없이도 패리와 디플렉트를 성공시킬 수 있는 실력이 전제되어야 합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 적 밸런스와 전투 리듬의 변화
 
 난이도가 올라가면 적의 체력과 공격력만 변하는 것이 아닙니다. 적의 공격 패턴 자체가 달라지고, 복수 적이 동시에 공격하는 상황이 빈번해지며, 보스전에서의 패턴 전환 속도도 빨라집니다.
@@ -73,17 +58,6 @@ hideDescription: true
 
 카나지 모드는 액션 모드를 클리어한 뒤 도전하는 것이 기본입니다. 뉴게임 플러스에서 장비가 유지되므로, 첫 플레이에서 강화를 충분히 해두면 카나지 시작이 수월합니다. 엔딩 후 스피릿 미러에서 난이도를 변경할 수 있으므로, 중간에 바꾸는 것도 가능합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 카나지 난이도 공략 준비
 
 카나지 모드를 앞두고 준비할 것이 몇 가지 있합니다. 먼저 장비를 최대한 강화해야 합니다. 오니 가틀릿과 검은 4단계 이상, 의복은 3단계 이상이 권장됩니다. 호즈키 주머니도 최대 확보하여 회복 용량을 늘리합니다.
@@ -99,13 +73,3 @@ hideDescription: true
 
 最終적으로 난이도 선택은 이 게임을 얼마나 깊이 즐기느냐의 문제입니다. 스토리 모드로 세계관을 감상할 수도 있고, 카나지 모드로 전투의 깊이를 체험할 수도 있합니다. 어떤 선택이든 전투 메커니즘을 이해하는 것이 귀무자의 진짜 재미를 여는 열쇠입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

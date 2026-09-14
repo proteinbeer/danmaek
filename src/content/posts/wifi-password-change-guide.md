@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 한 번 정한 와이파이 비밀번호를 몇 년째 그대로 쓰고 있다면, 비밀번호를 바꿔볼 시점입니다. 주변에서 몰래 연결해 쓰는 경우도 있고, 비밀번호가 노출됐다면 내 네트워크 전체가 위험해질 수 있죠.
 
 공유기 관리자 페이지에서 비밀번호를 바꾸는 과정은 몇 분이면 끝납니다. 와이파이 이름(SSID) 변경과 보안 팁까지 함께 정리했으니, 하나씩 따라 하시면 됩니다.
@@ -49,17 +45,6 @@ hideDescription: true
 
 관리자 비밀번호를 잊어버렸다면 공유기의 **리셋(초기화) 버튼**을 눌러 초기화해야 합니다. 초기화하면 와이파이 설정 전체가 기본값으로 돌아가므로, 가능하면 초기화 전에 관리자 비밀번호를 찾아보시기 바랍니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 비밀번호 변경하기
 
 무선 설정 화면에서 암호(비밀 키) 항목을 수정합니다.
@@ -78,17 +63,6 @@ hideDescription: true
 - 이웃과 이름이 겹치면 혼동이 생기므로 겹치지 않는 이름을 쓰는 것이 좋습니다.
 
 비밀번호 변경과 이름 변경을 동시에 하면 기기 재연결이 한 번으로 끝나므로, 한 번에 진행하시는 것도 방법입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 비밀번호 변경 후 기기 재연결
 
@@ -109,13 +83,3 @@ hideDescription: true
 - WPA2만 지원하는 오래된 공유기를 쓰고 있다면, **WPA3 지원 공유기로 교체**를 고려해보시기 바랍니다.
 
 공유기 펌웨어가 최신일수록 보안 취약점이 줄어듭니다. 관리자 페이지의 **펌웨어 업데이트** 항목도 주기적으로 확인해주십시오.
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

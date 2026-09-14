@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 할로윈 더 게임의 싱글플레이는 스토리만 끝내면 모든 콘텐츠가 정리되는 구조가 아닙니다. 여섯 개의 플레이 챕터마다 별도의 선택 도전 과제가 있고 수집 요소와 추가 처형, 꾸미기 보상이 연결되어 있어 반복 플레이를 전제로 만들어졌습니다.
 
 첫 플레이에서 모든 조건을 동시에 맞추려고 하면 오히려 어렵습니다. 기본 클리어와 도전 과제 정리를 두 단계로 나누시면 진행이 훨씬 편해집니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 도전 과제는 순수하게 난도를 높이는 장치라기보다 마이클의 여러 능력과 처형 방식을 사용하게 만드는 역할도 합니다. 잘 쓰지 않던 능력을 연습하는 기회라고 생각하시면 실패해도 얻는 것이 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 수집 요소는 두 번째 회차에
 
 스토리에는 추가 설정을 보여 주는 수집 요소가 포함되어 있습니다. 첫 회차부터 구석구석 찾으면 긴장감과 진행 흐름이 끊길 수 있으므로 기본 동선을 익힌 뒤 다시 들어가 정리하는 편이 좋습니다.
@@ -64,17 +49,6 @@ hideDescription: true
 싱글 도전 과제를 완료하면 대체 의상과 고유 꾸미기 아이템을 얻을 수 있으며 일부 보상은 멀티플레이에서 마이클과 민간인 외형에 사용할 수 있습니다. 원작 인물들의 상징적인 모습과 연결된 보상도 있어 팬이라면 챙길 가치가 큽니다.
 
 모든 싱글플레이 도전 과제를 완료한 이용자를 위한 특별한 마이클 외형도 존재합니다. 단순 업적 숫자보다 실제로 사용할 수 있는 꾸미기 보상이 있다는 점이 반복 플레이의 가장 큰 동기입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 난이도와 과제를 분리
 
@@ -96,13 +70,3 @@ hideDescription: true
 
 챕터 하나를 완벽하게 정리하려고 지치기보다 보상 단위로 끊어 진행하시는 편이 좋습니다. 원하는 의상이나 외형을 먼저 목표로 삼으면 반복 플레이의 목적도 분명해집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

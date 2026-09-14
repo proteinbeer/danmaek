@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 노 맨즈 스카이가 출시 10주년을 넘겼습니다. 보통 이 정도 된 게임이면 서버 유지나 기념 이벤트 정도를 떠올리기 쉬운데, 헬로 게임즈는 코스모스라는 7.0 대형 업데이트를 무료로 내놨습니다.
 
 이번에는 우주 공간 자체를 거의 다시 손보는 수준입니다. 우주정거장을 직접 소유하고 꾸밀 수 있고, 자유롭게 우주 기지를 세우며 다른 이용자와 은하 동맹도 만들 수 있죠.
@@ -47,17 +43,6 @@ hideDescription: true
 
 가장 재미있는 변화는 우주를 지나가는 장소에서 머무는 장소로 바꾼다는 점입니다. 탐험 게임이 점점 자기 공간을 만드는 생활형 게임에 가까워지고 있죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 40번 업데이트가 만든 신뢰
 
 출시 때 약속을 지키지 못한 게임이 다시 신뢰를 얻는 방법은 사실 단순합니다. 말을 더 하는 게 아니라 오랫동안 결과를 보여주는 겁니다.
@@ -73,17 +58,6 @@ hideDescription: true
 노 맨즈 스카이는 업데이트가 나올 때마다 다시 화제가 되고 신규 이용자가 들어오는 구조를 만들었습니다. 업데이트 자체가 광고 역할을 하고, 오래된 게임이 계속 새 게임처럼 판매되는 선순환이 생긴 것이죠.
 
 유료 확장팩을 안 판다고 돈을 포기한 게 아닙니다. 무료 업데이트를 장기 판매 전략으로 만든 셈입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 실패한 출시가 게임의 끝은 아니다
 
@@ -103,13 +77,3 @@ hideDescription: true
 
 결국 10년이라는 시간보다 더 인상적인 건 개발사가 아직도 현재형으로 게임을 다룬다는 점입니다. 오래된 게임을 추억으로 남기지 않고 계속 다음 버전으로 밀어붙이고 있죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

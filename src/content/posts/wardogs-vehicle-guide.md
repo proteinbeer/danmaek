@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 워독스에서 차량은 단순히 킬을 많이 만드는 무기가 아닙니다. 팀원을 컨트롤 존까지 운송하는 행동에도 현금 보상이 있어 사람과 장비를 필요한 위치에 빨리 옮기는 능력 자체가 전투력입니다.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/wardogs-2026-01.jpg" alt="워독스(WARDOGS) 100인 3팀 전쟁 게임 대표 이미지" width="1280" height="720" loading="lazy" decoding="async" />
@@ -39,17 +35,6 @@ hideDescription: true
 
 총격이 약한 초보자에게도 좋은 역할입니다. 길과 위험 지역을 익히면 다른 방식으로 팀 가치가 생깁니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 탱크 생존
 
 중장갑 차량은 강력하지만 여러 적의 집중 공격을 받기 쉽습니다. 혼자 적진 깊숙이 들어가면 비싼 자산을 빠르게 잃을 수 있습니다.
@@ -61,17 +46,6 @@ hideDescription: true
 넓은 맵에서 공중 이동은 지상 이동 시간을 크게 줄일 수 있습니다. 개발사도 헬리콥터로 보급을 나르는 플레이를 하나의 선택지로 제시합니다.
 
 조작에 익숙하지 않다면 사람을 태우기 전에 안전한 상황에서 연습하는 편이 좋습니다. 비싼 장비로 첫 연습부터 하는 것은 부담이 큽니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 퇴로 확보
 
@@ -85,13 +59,3 @@ hideDescription: true
 
 저라면 차량을 개인 장비보다 팀 자산으로 보겠습니다. 비싼 차량은 오래 살아서 여러 사람에게 도움을 줄수록 투자 가치가 커집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 랜덤 다이스 2 협동전에서 딜러의 화력을 끌어올리고 싶다면 공명덱을 고려할 수 있습니다. 공명은 같은 눈금의 주사위 공격 속도를 높여주는 주사위인데, 이 효과가 여러 개 중첩되는 구조라 서포터 입장에서 딜러의 처리 속도를 크게 끌어올립니다.
 
 공명덱은 자체적으로 높은 피해를 넣는 조합이 아닙니다. 대신 포식처럼 후반까지 주력 주사위를 유지하며 화력을 내는 딜러와 궁합이 좋습니다. 구성부터 제어 수단, 필드 운영 순서까지 협동 서포터의 기본을 정리합니다.
@@ -41,17 +37,6 @@ hideDescription: true
 
 공명 효과는 중첩되므로 같은 눈금의 공명이 여러 개 남을수록 공격 속도 보조가 커집니다. 초반부터 공명을 보이는 대로 합쳐버리기보다, 성장과 적응으로 필드를 전개하면서 필요한 눈금의 공명을 최대한 남기는 방향으로 운용합니다. 딜러의 주력이 7성까지 오르는 후반에는 7성 공명을 여러 개 확보하는 것이 최종 목표입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 얼음·봉인 제어 활용
 
 공명 필드가 완성되기 전에는 서폿 쪽 자체 화력이 부족해 몬스터가 밀릴 수 있습니다. 이때 얼음은 공격한 몬스터의 이동 속도를 낮춰 진행을 늦추고, 봉인은 합성을 통해 몬스터를 잠시 멈춰 시간을 벌어줍니다.
@@ -63,17 +48,6 @@ hideDescription: true
 에코는 협동에서 일반 몬스터를 정리할 수 있는 캐릭터로, 공명 필드를 만드는 과정에서 서폿 라인이 크게 밀렸을 때 활용합니다. 평소 쿨마다 쓰기보다 얼음과 봉인만으로 라인을 버티기 어려운 상황에서 쓰는 비상수단에 가깝습니다.
 
 공명을 만들다 필드 화력이 크게 떨어졌거나, 봉인된 몬스터가 남아 진행이 꼬였다면 에코로 한 번 정리한 뒤 다시 공명 필드를 만드는 식으로 운영합니다. 에코는 처리 능력이 있지만 딜러 냅두고 자주 쓰면 필드 유지력이 떨어지므로 타이밍 조절이 중요합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 필드 운영 순서
 
@@ -87,13 +61,3 @@ hideDescription: true
 
 랜덤 매칭에서 딜러가 어떤 구성인지 모르는 경우에는, 공명과 얼음 중심의 범용 서폿 구성이 무난합니다. 고정 파티라면 딜러의 포식 눈금에 맞출 수 있어 공명덱의 힘을 온전히 발휘할 수 있습니다. 서포터 역할에 관심 있는 유저라면 한 번 준비해볼 만한 조합입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

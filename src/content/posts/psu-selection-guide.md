@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 조립 PC에서 가장 얕보이다가 문제가 생기기 쉬운 부품이 파워서플라이입니다. 용량이 부족하면 게임 중 재부팅이 일어나고, 규격이 안 맞으면 장착 자체가 불가능하죠.
 
 파워는 와트 수만 크다고 좋은 것이 아닙니다. 실제 사용 부품의 소비 전력을 계산하고, 등급과 규격까지 맞춰야 합니다. 선택 기준을 하나씩 정리했습니다.
@@ -49,17 +45,6 @@ hideDescription: true
 
 무조건 최상위 등급이 필요한 것은 아닙니다. 브론즈～골드 구간에서 안정성을 갖춘 제품을 고르는 것이 가성비가 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 규격과 크기 확인
 
 파워는 케이스와 메인보드에 맞는 규격으로 골라야 합니다.
@@ -79,17 +64,6 @@ hideDescription: true
 - 케이블 정리가 편한 **풀모듈러** 제품은 쓸 케이블만 연결합니다. 세미모듈러는 필수 케이블만 고정입니다.
 
 커넥터 종류는 그래픽카드 제조사 스펙표에서 확인할 수 있습니다. 파워 사양에 해당 커넥터가 몇 개 포함되는지도 상세표에 나오죠. 부족하면 젠더를 쓰기보다 여유 있는 파워를 권장합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 보호 기능과 브랜드 신뢰도
 
@@ -111,13 +85,3 @@ hideDescription: true
 
 파워는 PC에서 오래 쓰는 부품 중 하나입니다. 한번 잘 고르면 몇 세대 업그레이드 동안 함께 쓸 수 있으므로, 용량과 규격에 여유를 두고 선택하시기 바랍니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

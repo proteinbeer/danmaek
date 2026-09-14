@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 프라그마타는 휴로 이동하고 사격하면서 동시에 다이애나로 적을 해킹하는 액션 게임입니다. 총만 잘 쏘는 게임도 아니고 퍼즐만 빠르게 푸는 게임도 아니라서, 처음에는 두 행동을 한꺼번에 처리하는 감각부터 익히는 것이 중요합니다.
 
 초반이 어렵게 느껴지는 가장 큰 이유는 공격력이 부족해서가 아니라 해킹과 사격을 따로 하기 때문입니다. 적의 장갑을 열고 짧은 공격 기회를 만드는 흐름만 익혀도 체감 난도가 크게 내려갑니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 처음에는 해킹 퍼즐에 집중하느라 피격되는 일이 많습니다. 경로를 짧게 보고 한두 칸 움직인 뒤 다시 전장을 확인하는 식으로 시선을 나누시면 실수가 줄어듭니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 주무기는 아끼지 않아도 된다
 
 그립 건 같은 주무기는 일반적인 탄약 소모형 무기와 다르게 다시 사용할 수 있는 기본 화력입니다. 반면 공격, 전술, 방어 유닛은 소모와 내구를 더 신경 써야 합니다.
@@ -65,17 +50,6 @@ hideDescription: true
 
 해킹이 느려서 맞는다면 다이애나를 먼저 올리고, 오픈 후 화력이 부족하면 주무기를 올립니다. 패턴은 아는데 자꾸 죽는다면 체력과 방어를 챙기는 식이 가장 효율적입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 쉴터를 자주 활용한다
 
 쉴터는 단순한 로비가 아니라 성장의 중심입니다. 펌웨어 업데이터, 유닛 프린터, 트램 터미널을 통해 능력치와 장비를 정리하고 다음 구역을 준비할 수 있습니다.
@@ -87,17 +61,6 @@ hideDescription: true
 구역 곳곳의 탈출 해치를 활성화하면 쉴터와 연결되는 이동 지점으로 활용할 수 있습니다. 다만 해치를 이용해 돌아오면 구역 적이 다시 생길 수 있어 무조건 편한 저장 지점처럼 생각하시면 안 됩니다.
 
 자원을 충분히 모았거나 장비를 새로 찍어야 할 때 돌아오는 식으로 쓰는 편이 좋습니다. 전투 흐름을 끊는 대신 성장과 안전을 확보하는 선택이라고 보시면 됩니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 처음부터 100%를 노리지 않는다
 
@@ -117,13 +80,3 @@ hideDescription: true
 
 보스 전에 일반 적을 상대로 새 노드와 전술 유닛을 시험해 두시면 좋습니다. 실전에서 처음 써보다가 조작이 꼬이는 것보다 안전한 구역에서 효과와 사용 타이밍을 미리 익히는 편이 훨씬 낫습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

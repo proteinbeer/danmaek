@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 게임스컴 2026은 1600개가 넘는 업체가 참가하고 전시장 전체가 처음으로 예약 완료될 정도로 엄청 커졌습니다. 참가 업체는 67개국에서 오고, 전시장 규모도 23만3000제곱미터에 달하죠.
 
 반면 한때 세계 게임 발표의 중심이었던 E3는 2023년 공식적으로 종료됐습니다.
@@ -56,17 +52,6 @@ E3가 사라진 원인도 코로나19 하나로 설명하기는 어렵죠. 주�
 
 결국 게임스컴은 이 변화와 싸우기보다 온라인 발표를 행사 안으로 끌어들였습니다. 그리고 그 유명한 오프닝 나이트 라이브가 대표적인 예죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 발표회보다 체험장
 
 예고 영상은 이제 집에서도 실시간으로 볼 수 있습니다. 그래서 게임쇼에 직접 가야 하는 이유는 영상보다 실제 플레이, 개발자 만남, 대형 전시, 커뮤니티 경험 쪽으로 이동했습니다.
@@ -86,17 +71,6 @@ E3가 사라진 원인도 코로나19 하나로 설명하기는 어렵죠. 주�
 2026년 참가 업체의 70퍼센트가 독일 밖에서 오고, 40개국이 국가관 형태로 참여합니다. 이미 독일 국내 행사라기보다 전 세계 게임 산업이 유럽에서 만나는 모임에 가까워졌죠.
 
 사실 게임스컴이 성장한 핵심은 유럽이라는 위치보다 이용자 행사와 기업 행사를 동시에 놓치지 않은 구조에 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 게임쇼가 사라지지 않는 이유
 

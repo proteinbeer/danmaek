@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 오래 쓰던 PC가 갑자기 느려지거나 문제가 생겼을 때, 윈도우 11 설치 USB 하나면 언제든 깨끗한 상태로 되돌릴 수 있습니다. 저장 공간을 완전히 정리하고 싶은 분, 중고 PC에 윈도우를 다시 설치하려는 분께 유용하죠.
 
 설치 USB는 마이크로소프트 공식 미디어 제작 도구만으로도 충분히 만들 수 있고, ISO 파일을 활용해 Rufus로 만들 수도 있습니다. 준비물부터 설치 완료까지 순서대로 정리했습니다.
@@ -51,17 +47,6 @@ hideDescription: true
 
 주의할 점은 대상 USB의 데이터가 전부 지워진다는 것입니다. 도구 실행 전에 꼭 백업을 하시기 바랍니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. Rufus로 설치 USB 만들기
 
 ISO 파일을 보관해두고 필요할 때마다 부팅 USB를 만들고 싶은 분은 Rufus를 사용합니다. 무료 프로그램이므로 공식 사이트에서 내려받아 쓰시면 됩니다.
@@ -83,17 +68,6 @@ Rufus는 ISO를 사용해도 되고, 이미 만들어둔 설치 디스크 이미
 
 USB가 인식되지 않는다면 **USB 3.0 포트 대신 USB 2.0 포트**에 연결하거나, 보안 부팅(Secure Boot) 설정을 확인해보시기 바랍니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 클린 설치 진행
 
 설치 화면까지 진입했다면 이후 과정은 간단합니다.
@@ -112,13 +86,3 @@ USB가 인식되지 않는다면 **USB 3.0 포트 대신 USB 2.0 포트**에 연
 
 초기 설정 단계에서 지침이 저절로 따라지면서 일부 데이터(바탕화면, 문서)가 윈도우 복원 기능을 통해 다시 돌아오기도 합니다. 그동안 쓰던 프로그램은 남아 있지 않으므로 필요한 프로그램을 다시 설치하시면 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

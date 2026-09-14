@@ -21,10 +21,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 교토의 신비와 히든 트레저는 수집 그 자체보다 특전과 보상을 노리는 사이드 콘텐츠입니다. 신비는 주로 수호 부적을, 히든 트레저는 강화 재료와 골격 호즈키를 주고, 일부는 전용 트로피로 연결됩니다. 이 글은 해외 공략의 8종 신비와 5종 트레저를 해금 조건과 위치, 보상까지 정리했습니다.
 
 두 콘텐츠 모두 스토리 중반 이후에 해금되고 최종 미션 직전까지 자유롭게 돌아다닐 수 있습니다. 지도 표시와 오니 비전 스캔을 병행하면 놓치지 않고 전부 정리할 수 있습니다.
@@ -47,17 +43,6 @@ hideDescription: true
 
 상세 위치는 지도의 나비 표시를 따라가면 되고, 해결 뒤에는 관련 NPC와의 대화까지 마쳐야 보상이 들어옵니다. 사원 경계에 있는 스피릿 미러를 출발점으로 삼으면 빠르게 이어집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 동부 교토의 신비 5종
 
 동부 교토에는 나머지 다섯 개가 있습니다. '축복받은 남자'는 해금 즉시 조사할 수 있고 정화 부적을 주며, '얼굴 없는 자'와 '벌레의 길(워름리 웨이즈)'은 '오쿠니의 가부키 춤' 이후에 열립니다.
@@ -73,17 +58,6 @@ hideDescription: true
 공통 보상은 파인 실크 원단과 오니 스톤이며, 일부는 파워 스톤과 다마하기네, 마지막 한 장은 골격 호즈키까지 포함합니다. 골격 호즈키 컬렉션의 마지막 한 개가 여기에 묶여 있어 빠뜨리면 채울 수 없습니다.
 
 지도를 주는 NPC는 지도마다 따로 있고, 대부분 스피릿 미러 근처에 서 있습니다. 미러 이름을 출발점으로 삼으면 그림 속 랜드마크와 바로 이어집니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 트레저 위치와 보상 상세
 
@@ -101,13 +75,3 @@ hideDescription: true
 
 오니 비전 트레져스 계열 스킬을 먼저 사 두면 벽 너머의 트레저 표시까지 볼 수 있어 두 콘텐츠의 정리 속도가 크게 올라갑니다. 수집품 가이드와 지도 가이드를 함께 보면 순서가 더 명확해집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

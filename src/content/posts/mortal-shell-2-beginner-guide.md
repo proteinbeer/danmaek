@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 모탈 셸 2는 전작의 셸 시스템을 유지하면서 오픈월드 탐험과 무기 성장 폭을 크게 늘린 작품입니다. 처음에는 소울라이크처럼 보이지만 스태미나가 없고 자세와 경화, 패링을 중심으로 전투를 풀기 때문에 다른 게임 습관을 그대로 가져오시면 오히려 더 어렵게 느껴질 수 있습니다.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/mortal-shell-2-2026-01.jpg" alt="모탈 셸 2(Mortal Shell 2) 소울라이크 액션 게임 대표 이미지" width="686" height="386" loading="lazy" decoding="async" />
@@ -44,17 +40,6 @@ hideDescription: true
 
 특히 보스나 던전에서 반복해서 죽는다면 한 번의 실수를 줄이는 쪽이 가장 큰 개선이 됩니다. 패링과 경화, 회피 가운데 자신에게 맞는 두 가지를 확실히 익혀 두시면 후반 난도가 훨씬 안정적으로 느껴집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 주력 무기 하나 집중
 
 근접 무기는 총 8개이며 첫 무기 아이코노클라스트 이후 탐험으로 나머지를 찾게 됩니다. 초반에는 여러 무기를 조금씩 강화하기보다 손에 맞는 한 무기를 정해 타르포지 강화 효율을 높이시는 편이 좋습니다.
@@ -71,17 +56,6 @@ hideDescription: true
 
 탐험 중에는 새 지역을 끝까지 한 번에 밀려고 하기보다 비컨을 기준으로 짧게 왕복하는 방식이 효율적입니다. 회복을 다 쓰기 전에 허브로 돌아가 강화하고 다시 들어가면 수집품도 놓치기 어렵고 사망으로 잃는 진행 시간도 줄어듭니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 던전은 선택이 아니라 성장
 
 오픈월드에는 36개의 던전이 있고 무기, 보조 무기, 타르스톤, 회복 강화가 들어 있습니다. 메인 길만 따라가도 진행은 가능하지만 보스가 갑자기 어렵게 느껴진다면 주변 던전을 몇 곳 정리한 뒤 다시 도전하시는 편이 훨씬 효율적입니다.
@@ -95,17 +69,6 @@ hideDescription: true
 특히 초반에는 지도 표시를 전부 돈으로 사기보다 직접 탐험하면서 필요한 곳에만 쓰는 편이 좋습니다.
 
 업적이나 모든 수집 요소를 목표로 하지 않으신다면 첫 회차부터 모든 길을 확인할 필요는 없습니다. 엔딩 이후에도 자유 탐험이 가능하므로 스토리 흐름을 먼저 보고, 필요한 셸과 무기만 챙긴 뒤 나머지를 정리하는 방식도 충분히 좋은 선택입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 첫 보스는 연습장
 

@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 로컬 협동 게임은 한 화면에서 같이 하면 재미있지만 친구가 멀리 있으면 그 장점이 사라집니다.
 
 스팀 리모트 플레이 투게더는 호스트가 게임을 실행한 뒤 친구를 원격으로 같은 로컬 멀티 세션에 초대하는 기능입니다.
@@ -53,17 +49,6 @@ hideDescription: true
 
 대신 스팀에 로그인되어 있어야 하고 네트워크 상태가 원활해야 합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 한 화면 게임을 온라인처럼 바꾸는 원리
 
 이 기능은 게임에 새로운 온라인 멀티 서버를 만드는 방식이 아닙니다.
@@ -84,17 +69,6 @@ hideDescription: true
 
 연결은 됐는데 둘 다 같은 캐릭터를 움직인다면 게임의 로컬 멀티 입력 설정과 스팀 오버레이의 플레이어 배치를 확인해보셔야 합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 화질보다 호스트 업로드가 중요
 
 친구에게 화면을 보내야 하므로 호스트 네트워크의 업로드 상태가 좋지 않으면 끊김이 생길 수 있습니다.
@@ -114,17 +88,6 @@ hideDescription: true
 저는 이 기능이 온라인 멀티의 대체재라기보다 오래된 로컬 협동 게임을 다시 꺼내게 만드는 기능이라고 봅니다.
 
 친구가 게임을 구매했는지보다 먼저 지원 여부와 입력 구성을 확인하시면 훨씬 쉽게 시작할 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 처음에는 두 명으로 테스트
 

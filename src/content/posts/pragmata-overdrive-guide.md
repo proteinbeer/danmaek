@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 프라그마타의 오버드라이브는 다이애나의 해킹을 한 단계 위로 끌어올리는 강력한 수단입니다. 일반 적 하나를 잡는 데 습관처럼 쓰기보다, 복잡한 해킹과 강한 적이 겹치는 순간에 사용해야 체감 가치가 큽니다.
 
 이 게임은 해킹이 끝난 뒤 공격 시간이 열리는 구조라서 오버드라이브를 잘 쓰면 단순 퍼즐 편의가 아니라 보스 공격 기회 자체가 늘어납니다. 반대로 타이밍이 애매하면 강한 자원을 쓰고도 평범한 전투와 크게 다르지 않을 수 있습니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 특히 공격 기회가 짧은 보스는 해킹 성공 자체가 딜 기회입니다. 오버드라이브로 퍼즐 부담을 줄이면 강한 공격 유닛을 안정적으로 넣을 시간이 생깁니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 다수전에서도 가치가 있다
 
 여러 장갑 적이 동시에 몰리면 휴의 회피와 다이애나의 해킹을 함께 처리하기가 어려워집니다. 이런 상황에서 오버드라이브를 쓰면 해킹에 쓰는 시선과 시간을 줄여 생존을 안정시킬 수 있습니다.
@@ -65,17 +50,6 @@ hideDescription: true
 
 무작정 버튼부터 누르는 것보다 전장을 정리한 뒤 사용하는 편이 좋습니다. 해킹 강화와 생존 장비를 같이 쓰면 공격 기회까지 자연스럽게 이어집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 강한 공격 유닛을 미리 준비
 
 오버드라이브로 장갑을 열었는데 공격 장비를 찾느라 시간을 쓰면 효율이 떨어집니다. 보스에서는 차지 피어서나 포톤 레이저 같은 집중 화력 장비를 미리 선택해 두는 습관이 좋습니다.
@@ -87,17 +61,6 @@ hideDescription: true
 오버드라이브가 강하다고 해서 기본 해킹을 대충 익혀도 되는 것은 아닙니다. 후반과 고난도에서는 일반 전투에서도 매트릭스를 빠르게 읽어야 하고, 모든 상황을 강한 기능 하나로 넘길 수 없습니다.
 
 첫 회차에서는 기본 해킹을 충분히 연습하고, 오버드라이브는 위기 탈출용과 보스 압박용으로 쓰는 편이 좋습니다. 그래야 루나틱에서도 적응하기 쉽습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 가장 좋은 타이밍은 실패 직전이 아니다
 

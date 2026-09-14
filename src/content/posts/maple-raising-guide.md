@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 메이플 키우기는 넥슨과 에이블게임즈가 손잡고 만든 메이플스토리 IP의 방치형 RPG입니다. 출시 첫날부터 매출 상위권에 오르며, 도트 그래픽과 익숙한 세계관을 그대로 살리면서도 조작을 최소화한 설계로 주목받았죠.
 
 다만 겉모습과 달리 이 게임은 '켜두기만 하면 되는 게임'이 아닙니다. 매일 조금씩 쌓이는 일일 보상, 성장 던전 티켓, 오프라인 수령 같은 재화 루틴이 실제 성장의 절반을 차지합니다. 처음 들어가는 유저라면 어떤 직업을 고르고 다이아를 어떻게 쓰느냐에 따라 첫 주부터 수십 레벨 차이가 나는 구조라, 시작 전에 방향만 정해두면 시간 대비 효율이 훨씬 좋아집니다.
@@ -45,17 +41,6 @@ hideDescription: true
 
 레벨 100 언저리에서 장비와 도감으로 기초 공격력을 어느 정도 확보했다면, 그때부턴 치명타 확률을 70～80%까지 채우는 것이 목표입니다. 확률이 어느 선을 넘었다고 판단되면 이후부터는 치명타 피해량과 보스 대상 피해를 올리는 방향으로 전환합니다. 생존 능력은 스테이지 보스를 겨우 버틸 정도로만 얇게 투자하는 것이 좋습니다. 공격이 늦어져 몬스터에게 맞는 게 원인이면 방어력을 높여도 해결되지 않는 경우가 많습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 사냥·보스별 스킬 세트 분리
 
 스킬 슬롯에 모든 스킬을 채워 넣으면 자동 전투가 효율적인 조합을 고르기 어려워집니다. 목적에 맞게 스킬 세트를 분리해두는 것이 성장 던전과 스테이지 돌파 모두에서 유리합니다.
@@ -71,17 +56,6 @@ hideDescription: true
 레벨이 막혔다고 느껴진다면 경험치 던전이 정답입니다. 한 번에 많은 성장량을 주는 대신 주간 이용 횟수 제한이 있어서, 초기화되는 시점에 맞춰 바로 소모하는 게 중요합니다. 중반부터는 동료를 키우는 재료를 주는 수련장 성격의 던전으로 옮겨가고, 후반에는 강화 던전에서 스킬·성장 재료를 모아 막힌 부분을 푸는 식입니다.
 
 입장 티켓은 매일 사용할 수 있는 만큼 소진하는 것을 기본 루틴으로 잡는 것이 좋습니다. 버려지는 티켓은 곧 손실입니다. 던전에서 자꾸 실패한다면 같은 던전을 반복하기보다 동료 구성이나 스킬 세팅을 먼저 점검하는 편이 낫습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 동료 구성과 패시브 활용
 
@@ -99,13 +73,3 @@ hideDescription: true
 
 매일 챙길 재화 루틴으로는 일일 퀘스트와 광고 보상을 빼먹지 않는 것이 가장 중요합니다. 방치형 게임에서는 광고·미션 보상이 전체 재화 수급에서 꽤 큰 비중을 차지합니다. 오프라인 성장 보상도 일정 시간까지만 쌓이므로 늦어도 하루 두 번은 접속해서 수령해주고, 가이드 퀘스트는 새 콘텐츠를 여는 단초가 되니 항상 우선 진행하는 것을 잊지 않는 것이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

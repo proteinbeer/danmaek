@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 프라그마타의 전술 유닛은 직접 피해량만 보면 공격 유닛보다 약해 보일 수 있습니다. 하지만 실제 전투에서는 적을 멈추고, 밀어내고, 해킹 매트릭스를 단순하게 만드는 식으로 휴와 다이애나가 일할 시간을 벌어주는 핵심 장비입니다.
 
 특히 해킹 중 자꾸 맞거나 보스 매트릭스가 복잡해서 실패한다면 공격력을 더 올리기보다 전술 유닛을 바꾸는 편이 훨씬 효과적일 수 있습니다. 전투를 편하게 만드는 장비가 결국 더 많은 피해를 넣게 해줍니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 다수전에서 해킹 화면을 볼 여유가 없을 때 특히 도움이 됩니다. 공격 유닛으로 억지로 적을 줄이기 전에 라이엇 블라스터로 한 번 정리하고 해킹을 시작하시면 훨씬 안전합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 스티키 밤은 해킹 보조
 
 스티키 밤은 보스처럼 해킹 매트릭스가 복잡해지는 상대에서 가치가 올라갑니다. 해킹 경로 부담을 줄이고 빠르게 실행 노드에 도달할 수 있게 도와주는 방향으로 활용됩니다.
@@ -65,17 +50,6 @@ hideDescription: true
 
 직접 화력이 없다는 이유로 무시하기 쉽지만, 해킹이 막히는 순간에는 가장 공격적인 장비보다 더 큰 도움이 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 해킹 마인은 준비형 장비
 
 해킹 마인은 적이 들어올 위치를 예상할 수 있을 때 강합니다. 즉석 대응보다 미리 전장을 준비하고 적을 유도하는 플레이에 어울립니다.
@@ -87,17 +61,6 @@ hideDescription: true
 모든 보스에 같은 전술 유닛을 고집할 필요는 없습니다. 움직임이 빠르면 스테이시스 넷, 매트릭스가 복잡하면 스티키 밤이나 코드 제너레이터, 소환 적이 많으면 라이엇 블라스터처럼 역할을 나누시면 됩니다.
 
 보스에서 막혔을 때 공격력만 올리지 마시고 전술 슬롯부터 바꿔보시면 의외로 쉽게 풀리는 경우가 많습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 전술 유닛은 시간을 사는 장비
 
@@ -117,13 +80,3 @@ hideDescription: true
 
 결국 좋은 로드아웃은 모든 수치가 높은 조합보다 내가 가장 많이 실패하는 상황을 지워주는 조합입니다. 장비 하나로 해킹 시간이 줄거나 회피 부담이 줄었다면 피해량이 조금 낮아도 실제 진행에서는 더 좋은 선택일 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

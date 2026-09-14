@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 중국이 엔비디아 의존도를 줄이기 위해 자체 AI 가속기 개발을 빠르게 밀고 있지만 예상 밖의 병목이 커지고 있습니다. 로이터 보도에 따르면 화웨이, 캠브리콘을 비롯한 중국 AI칩 업체들이 HBM 부족 때문에 제품 가격을 크게 올리고 있습니다.
 
 화웨이의 어센드 950DT 가속기 카드 견적은 25만위안을 넘어섰고, 두 달 전과 비교하면 약 20%에서 50% 높은 수준으로 전해졌습니다. 캠브리콘의 차기 690 칩 역시 20%에서 30%가량 높은 가격이 제시되고 있습니다.
@@ -45,17 +41,6 @@ AI 반도체를 이야기할 때 사람들은 보통 엔비디아 GPU나 연산 
 
 한국 입장에서 흥미로운 건 AI 경쟁의 중심에 GPU만 있는 게 아니라는 점입니다. 모델이 커질수록 메모리는 보조 부품이 아니라 전체 시스템 가격을 움직이는 핵심 부품으로 올라오고 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 엔비디아를 대체해도 비용 문제는 남는다
 
 중국 업체들이 화웨이 어센드 같은 자국산 가속기를 사용하는 이유 중 하나는 미국의 수출 규제로 엔비디아 최신 제품 접근이 제한되기 때문입니다. 자체 칩이 늘어나면 겉으로는 대체가 진행되는 것처럼 보입니다.
@@ -69,17 +54,6 @@ AI 반도체를 이야기할 때 사람들은 보통 엔비디아 GPU나 연산 
 가격이 50% 올랐다는 숫자는 강하지만 기업 입장에서 더 무서운 건 필요할 때 물량을 못 구하는 상황일 수 있습니다. AI 데이터센터는 수천 개 가속기를 한꺼번에 배치해야 하기 때문에 일부 부품만 부족해도 전체 구축 일정이 밀릴 수 있죠.
 
 화웨이, 캠브리콘뿐 아니라 메타엑스, 일루바타 코어엑스 등 다른 중국 업체들도 비슷한 가격 압박을 받고 있다는 보도가 나왔습니다. 특정 기업 한 곳의 문제가 아니라 시장 전체 병목으로 번질 가능성이 있다는 뜻입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. AI 경쟁의 진짜 병목은 계속 옮겨간다
 
@@ -99,13 +73,3 @@ AI 산업이 커질수록 가장 부족한 부품이 왕이 되는 구조가 반
 
 저는 앞으로 AI 서비스를 비교할 때 모델 성능만큼 공급망도 중요해질 거라고 봅니다. 가장 똑똑한 모델을 만든 회사가 이기는 것이 아니라, 그 모델을 수백만 명에게 감당 가능한 가격으로 계속 돌릴 수 있는 회사가 결국 오래 남을 가능성이 큽니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

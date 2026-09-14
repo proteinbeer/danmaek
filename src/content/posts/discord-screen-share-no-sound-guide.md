@@ -18,11 +18,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
-
 디스코드 화면 공유 시 영상은 잘 나오는데 게임이나 영상 소리만 상대방에게 안 들리는 경우가 있습니다. 이때 볼륨부터 만지기보다 어떤 방식으로 화면을 공유했는지 확인해보시는 편이 빠르죠.
 
 디스코드에서 화면 공유를 하면 영상은 상대방에게 잘 보이는데, 그 화면의 소리(게임 배경음, 영상 소리 등)만 안 들리는 경우가 있습니다. 이는 화면 공유 방식이 애플리케이션 소리를 캡처하지 못하기 때문인 경우가 많습니다. 볼륨을 올리기 전에 공유 방식과 디스코드 설정을 순서대로 확인해보시면 대부분 해결할 수 있습니다.
@@ -45,17 +40,6 @@ hideDescription: true
 
 공유 중에 소리가 안 들린다면 화면 공유를 한 번 종료하고, 공유할 프로그램 창을 다시 선택해서 새로 시작하시면 됩니다. 공유 대상이 바뀌면서 사운드 캡처가 다시 활성화될 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 디스코드 음성 설정 초기화
 
 사용자 설정의 음성 및 비디오에서 입력, 출력 장치가 실제 사용 중인 장치로 되어 있는지 확인해보시기 바랍니다. 문제가 계속된다면 음성 설정 초기화를 해 보시기 바랍니다.
@@ -71,17 +55,6 @@ hideDescription: true
 디스코드는 그래픽카드의 하드웨어 가속을 이용해 화면 캡처와 인코딩을 처리합니다. 그래픽 드라이버와의 호환성 문제로 화면 공유 영상이나 소리가 불안정할 때는 **사용자 설정 → 고급 → 하드웨어 가속**을 끈 뒤 디스코드를 재시작하시면 됩니다.
 
 하드웨어 가속을 끄면 화면 공유 시 CPU가 처리 부담을 더 지기 때문에 성능이 다소 달라질 수 있지만, 안정성 문제를 해결하는 데 도움이 됩니다. 이 설정을 바꾼 뒤 화면 공유 소리가 정상적으로 전달되는지 확인하시면 됩니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 윈도우와 드라이버 확인
 

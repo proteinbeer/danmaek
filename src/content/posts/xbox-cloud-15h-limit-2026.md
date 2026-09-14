@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 엑스박스가 클라우드 게임 이용 방식에 큰 변화를 예고했습니다. 11월부터 게임패스 얼티밋은 월 15시간, 프리미엄은 10시간, 에센셜은 5시간의 기본 클라우드 플레이 시간이 제공됩니다.
 
 현재는 대상 구독자가 이런 월간 시간 제한 없이 스트리밍을 사용할 수 있습니다. 마이크로소프트는 전체 게임패스 구독자 가운데 약 4%가 이번 변경의 직접적인 영향을 받을 것으로 예상하고 있죠.
@@ -46,17 +42,6 @@ hideDescription: true
 
 시간을 모두 사용한 뒤에는 엑스박스 스토어에서 추가 플레이 시간을 구매할 수 있습니다. 구체적인 가격은 시행 전에 추가 공개될 예정입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 구독 없이 클라우드만 사는 길도 열린다
 
 이번 변경이 전부 나쁜 소식만 있는 것은 아닙니다. 11월부터는 게임패스에 가입하지 않아도 별도로 클라우드 플레이 시간을 구매해 지원되는 보유 게임을 스트리밍할 수 있게 됩니다.
@@ -72,17 +57,6 @@ hideDescription: true
 하지만 월간 시간이 제한되면 이야기가 달라집니다. 매일 오래 게임하는 사람에게는 여전히 로컬 콘솔이나 PC가 비용과 품질 면에서 더 편할 수 있습니다.
 
 클라우드는 콘솔의 대체재라기보다 설치 없이 잠깐 이어서 하고, 낮은 사양 기기에서 특정 게임을 실행하는 보조 수단에 더 가까워질 가능성이 있습니다. 기술의 실패라기보다 역할이 현실적으로 정리되는 과정이라고 봅니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 진짜 평가는 추가 시간 가격에서 갈린다
 
@@ -101,13 +75,3 @@ hideDescription: true
 그래서 회사 입장에서는 소수의 장시간 이용자가 만드는 서버 비용을 전체 구독자가 함께 부담하는 구조를 손보려는 계산이 나왔을 수 있습니다. 다만 바로 그 4%가 클라우드를 가장 적극적으로 쓰는 핵심 이용자라는 점도 무시하기 어렵습니다.
 저는 추가 시간 가격이 너무 높으면 이 핵심층을 잃을 가능성이 있다고 봅니다. 기술을 가장 많이 쓰는 사람에게 가장 큰 제한이 걸리는 구조는 비용 면에서는 합리적이어도 서비스 성장에는 역설적인 선택이 될 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

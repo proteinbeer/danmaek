@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 가든 키퍼는 크고 느린 보스보다 빠른 반응과 거리 유지가 중요한 상대입니다. 움직임이 크고 공격 템포가 빨라서 해킹 화면에 오래 집중하면 휴가 순식간에 위험해질 수 있습니다.
 
 핵심은 해킹을 빨리 하는 것보다 가든 키퍼를 잠깐이라도 멈추고 안전한 오픈 시간을 만드는 것입니다. 전술 유닛과 방어 유닛의 가치가 특히 크게 느껴지는 보스입니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 가든 키퍼에서 자꾸 해킹이 끊긴다면 무기 업그레이드보다 스테이시스 활용부터 점검하시는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 꼬리와 약점 각도 확인
 
 가든 키퍼는 몸 전체를 무작정 때리기보다 약점과 공격 가능한 각도를 보는 것이 중요합니다. 빠르게 움직이는 만큼 한 번의 좋은 각을 놓치면 오픈 시간이 그대로 끝날 수 있습니다.
@@ -65,17 +50,6 @@ hideDescription: true
 
 둘 다 이동이 큰 상대에게 그냥 쓰면 효율이 떨어집니다. 전술 유닛과 함께 쓰는 것이 중요합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 후반 패턴에 오버드라이브
 
 가든 키퍼가 빨라질수록 해킹과 회피를 동시에 처리하기 어려워집니다. 오버드라이브는 이 시점에 써서 복잡한 해킹 부담을 줄이는 편이 좋습니다.
@@ -87,17 +61,6 @@ hideDescription: true
 오픈 상태가 끝났는데도 마지막 한두 발을 더 넣겠다고 보스 가까이에 남아 있으면 다음 패턴을 맞기 쉽습니다. 공격 시간이 끝나면 즉시 거리를 다시 벌리고 해킹 준비 위치로 돌아오시는 편이 좋습니다.
 
 프라그마타 보스전은 공격과 복구가 반복되는 구조입니다. 공격이 끝난 순간 다음 해킹을 위한 위치 싸움이 시작됩니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 빠른 보스일수록 전술 장비가 답
 

@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 프라그마타는 캡콤의 SF 액션 게임이지만 최소 사양과 권장 사양이 아주 과격한 편은 아닙니다. 다만 윈도우 11을 요구하고 16GB 메모리를 기본으로 잡고 있어 오래된 PC라면 운영체제와 그래픽카드부터 확인하셔야 합니다.
 
 공식 스팀 사양에는 단순 부품 이름뿐 아니라 목표 해상도와 프레임까지 함께 적혀 있어 내 PC가 어느 정도 옵션을 노릴 수 있는지 판단하기 좋습니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 권장 기준은 균형 프리셋에서 1080p 60FPS입니다. 최고 옵션 기준이 아니라는 점을 기억하셔야 합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 윈도우 11 필수
 
 공식 PC 요구 사항은 윈도우 11 64비트를 기준으로 합니다. 윈도우 10을 오래 유지하고 있는 PC라면 그래픽카드보다 운영체제에서 먼저 걸릴 수 있습니다.
@@ -65,17 +50,6 @@ hideDescription: true
 
 여유 공간을 딱 40GB만 남기기보다 패치와 임시 파일을 고려해 더 넉넉하게 확보하시는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 레이 트레이싱 요구 조건
 
 공식 사양 안내에서는 레이 트레이싱을 사용하려면 라데온 RX 6700 XT 12GB 또는 지포스 RTX 3060 12GB 수준이 필요하다고 적혀 있습니다.
@@ -87,17 +61,6 @@ hideDescription: true
 프라그마타는 사격과 해킹을 동시에 처리하는 액션 게임이라 안정적인 프레임이 조작감에 영향을 줍니다. 최소 사양 가까운 환경에서는 그래픽 옵션을 높이기보다 45FPS에서 60FPS 사이를 안정적으로 유지하는 편이 더 좋습니다.
 
 특히 보스전과 효과가 많은 구간에서 순간 하락이 생길 수 있으니 평균 프레임만 보지 마시고 최저 프레임도 확인하십시오.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 1080p 기준이면 진입 장벽은 높지 않다
 
@@ -117,13 +80,3 @@ PC와 콘솔 모두 업데이트 이후 동작이 달라질 수 있으므로 예
 
 문제가 해결됐을 때는 바꾼 설정을 하나씩 되돌려 어느 항목이 원인이었는지 확인해 두시면 좋습니다. 다음 패치에서 비슷한 문제가 생겨도 바로 비교할 기준이 생겨 불필요한 재설치나 설정 초기화를 줄일 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

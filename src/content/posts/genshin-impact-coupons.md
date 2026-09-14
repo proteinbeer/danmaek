@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 원신(Genshin Impact)은 호요버스가 만든 오픈월드 액션 RPG입니다. 티바트 대륙을 배경으로 6주마다 대형 업데이트가 진행되며, 업데이트 전 특별 방송과 이벤트 때마다 원석과 육성 재료를 주는 리딤코드가 공개됩니다.
 
 원신 코드는 대부분 유효 기간이 짧아서 공개 직후 입력해야 합니다. 특히 특별 방송 코드는 방송 후 며칠 안에 만료되는 경우가 많으므로, 새 코드를 보면 바로 등록하는 편이 좋죠.
@@ -60,17 +56,6 @@ hideDescription: true
 원신 리딤코드는 대부분 계정당 1회만 사용할 수 있습니다. 같은 코드를 다시 입력하면 이미 사용한 코드라는 안내가 나옵니다.
 
 특별 방송에서 공개되는 코드는 방송 후 48시간 정도 안에 만료되기도 합니다. 새 버전 소식은 공식 유튜브 방송과 커뮤니티에서 확인하고, 코드가 나오면 바로 입력하는 습관이 중요하죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 4. 코드가 안 될 때 확인할 사항
 

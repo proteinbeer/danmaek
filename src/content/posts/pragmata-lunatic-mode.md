@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 루나틱은 프라그마타를 한 번 클리어한 뒤 도전할 수 있는 최고 난도입니다. 적이 강해지고 실수 여유가 줄어들어 첫 회차에서 통하던 무리한 공격과 대충 넘기던 해킹이 바로 벌을 받습니다.
 
 중요한 점은 뉴 게임 플러스 장비를 그대로 들고 들어가는 모드가 아니라는 것입니다. 루나틱은 새 게임으로 시작해야 하므로 첫 회차에서 쌓은 플레이어 경험 자체가 가장 큰 자산이 됩니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 그래서 첫 회차에 강한 장비 하나에만 의존했다면 두 번째 회차가 힘들 수 있습니다. 기본 회피와 해킹 루프를 확실히 익혀두셔야 합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 난도 변경이 어렵다
 
 루나틱을 선택했다면 중간에 편하게 낮춰 진행하는 방식으로 생각하시면 안 됩니다. 처음부터 끝까지 높은 압박을 감수하는 도전 모드에 가깝습니다.
@@ -65,17 +50,6 @@ hideDescription: true
 
 적을 빨리 죽이는 것도 중요하지만 해킹 중 한두 번 맞고 죽지 않는 여유가 더 큰 차이를 만들 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 전술과 방어 유닛을 아끼지 않는다
 
 스테이시스 넷과 디코이 제너레이터 같은 장비는 일반 난도보다 훨씬 가치가 큽니다. 적을 멈추고 시선을 돌리는 몇 초가 해킹 성공과 실패를 가르기 때문입니다.
@@ -87,17 +61,6 @@ hideDescription: true
 강한 공격 유닛과 오버드라이브를 초반에 다 쓰면 후반 페이즈가 힘들어집니다. 보스 체력과 패턴 변화를 기억하고 가장 어려운 구간용 자원을 남겨두시는 편이 좋습니다.
 
 첫 회차에서 보스가 어느 시점에 빨라지는지 기억해 두면 루나틱에서 큰 도움이 됩니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 루나틱은 실력 확인용 회차
 
@@ -119,13 +82,3 @@ hideDescription: true
 
 막히는 구간이 생기면 같은 장비로 계속 반복하기보다 쉴터에 돌아가 한 번 구성부터 다시 보시는 편이 좋습니다. 프라그마타는 장비 하나와 해킹 노드 하나만 바꿔도 같은 전투의 난도가 크게 달라지는 게임입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

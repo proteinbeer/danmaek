@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 즈메이는 언파운드 패스 마지막의 최종 보스로 거대한 용과 긴 검을 상대하는 장기전입니다. 체력이 매우 많고 후반에는 우주 피해와 우주 질병이 전투의 핵심이 되기 때문에 단순 공격력보다 전용 저항 준비가 중요합니다.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/mortal-shell-2-2026-01.jpg" alt="모탈 셸 2(Mortal Shell 2) 소울라이크 액션 게임 대표 이미지" width="686" height="386" loading="lazy" decoding="async" />
@@ -44,17 +40,6 @@ hideDescription: true
 
 보스전에서는 첫 시도부터 처치를 노리기보다 위험한 공격 두세 개만 먼저 구분해 두시는 편이 좋습니다. 큰 패턴의 전조를 익힌 뒤 공격 횟수를 늘리면 회복 소비가 눈에 띄게 줄어듭니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 1페이즈 검과 브레스
 
 내려찍는 검에서 상태 이상 지대가 뻗어나오고 우주 피해 브레스로 바닥을 덮습니다. 브레스는 앞쪽 대각선으로 빠르게 달리며 범위를 벗어나는 편이 좋습니다.
@@ -69,17 +54,6 @@ hideDescription: true
 
 보스가 막히면 같은 셸과 무기를 계속 고집하지 않으셔도 됩니다. 패링이 불편한 보스는 경화나 회피 중심 셸로 바꾸고, 접근 자체가 위험하다면 보조 무기를 적극적으로 활용하시면 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 꼬리 잡기
 
 짧게 옆으로 움직인 뒤 꼬리로 찌르는 잡기 공격은 매우 위험합니다. 가벼운 셸에서는 사실상 즉사로 이어질 수 있어 전조를 보면 앞이나 오른쪽으로 피하시는 편이 좋습니다.
@@ -91,17 +65,6 @@ hideDescription: true
 2페이즈 시작 직후 네 번의 우주 피해 파동을 방출합니다. 첫 세트는 보스가 준비하는 시간이 길어 멀리 달아나 피할 수 있고 이후에는 파동을 통과해 회피해야 할 수 있습니다.
 
 업적이나 모든 수집 요소를 목표로 하지 않으신다면 첫 회차부터 모든 길을 확인할 필요는 없습니다. 엔딩 이후에도 자유 탐험이 가능하므로 스토리 흐름을 먼저 보고, 필요한 셸과 무기만 챙긴 뒤 나머지를 정리하는 방식도 충분히 좋은 선택입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 티엘 분신
 

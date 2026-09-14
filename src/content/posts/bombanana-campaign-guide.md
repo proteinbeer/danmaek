@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 봄바나나 정식판 캠페인은 30개의 수제 레벨로 구성되어 있습니다. 단순히 같은 폭탄의 시간만 줄어드는 것이 아니라 새로운 퍼즐과 상황이 더해지면서 세 사람의 소통을 점점 더 강하게 요구합니다.
 
 처음에는 몇 판이면 끝나는 파티 게임처럼 보일 수 있지만 캠페인을 밀기 시작하면 역할 숙련도가 실제 진행 요소가 됩니다. 초반부터 기록 경쟁을 하기보다 팀 규칙을 만드는 과정으로 보시는 편이 좋습니다.
@@ -46,17 +42,6 @@ hideDescription: true
 
 캠페인이 진행될수록 퍼즐과 타이머 압박, 환경 방해가 겹치면서 난도가 올라갑니다. 중반부터는 말을 더 많이 하기보다 표현을 줄이고 역할별 우선순위를 다시 맞추셔야 합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 모든 퍼즐을 외울 필요는 없다
 
 여러 번 하다 보면 규칙이 익숙해지지만 처음부터 답을 외우려고 할 필요는 없습니다. 봄바나나 핵심은 설명서와 관찰 정보를 이어주는 과정입니다.
@@ -73,17 +58,6 @@ hideDescription: true
 
 정전이나 소음 같은 방해가 생기면 퍼즐을 그대로 밀지 말고 어떤 정보가 끊겼는지 먼저 확인하셔야 합니다. 환경 변화가 끝난 뒤 현재 버튼 상태와 진행 단계도 다시 맞추는 편이 안전합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 막히는 스테이지는 역할을 바꿔본다
 
 같은 구간에서 계속 터진다면 특정 역할이 어려운 사람에게 몰려 있을 수 있습니다. 이럴 때는 한 번 역할을 바꿔보면 문제 원인이 바로 보이기도 합니다.
@@ -99,17 +73,6 @@ hideDescription: true
 한 모듈을 확실하게 끝내고 다음으로 넘어가는 팀이 결국 후반에서 더 빠릅니다.
 
 첫 클리어에서는 남은 시간보다 안정성을 우선하시는 편이 좋습니다. 한 모듈을 확실하게 끝내고 다음으로 넘어가는 팀이 결국 후반 스테이지에서 재도전 횟수도 줄어듭니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 캠페인을 끝내면 다른 모드가 재밌어진다
 

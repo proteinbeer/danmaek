@@ -18,11 +18,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
-
 모니터 두 대를 연결했는데 한쪽만 나오지 않는다면 케이블을 바꾸기 전에 윈도우가 두 번째 화면을 인식하고 있는지부터 확인하시면 됩니다.
 
 듀얼 모니터를 구성했는데 한쪽 화면만 나오고 다른 한쪽이 까맣거나 "신호 없음"으로 남는 경우가 많습니다. 이때 모니터나 케이블부터 의심하기 쉽지만, 실제로는 윈도우가 두 번째 화면을 인식하지 못해 꺼진 것처럼 보이는 경우가 흔합니다. 윈도우 설정부터 확인하고, 필요하면 케이블·단자·드라이버 순서로 점검해보시기 바랍니다.
@@ -45,17 +40,6 @@ hideDescription: true
 
 화면이 감지되었는데도 확장 모드에서 까만 화면이 나온다면, 디스플레이 설정에서 두 번째 모니터가 비활성화(꺼짐) 상태이거나, 모니터 번호 선택과 배치가 어긋나 있을 수 있습니다. 화면이 두 개 표시되는 경우 각 모니터를 클릭해 **여러 디스플레이**의 "이 화면 확장" 항목이 선택된 것을 확인하시면 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 케이블과 입력 확인
 
 두 번째 모니터의 입력 단자가 실제 연결된 케이블과 맞는지 확인하고 케이블을 다시 연결해보시면 됩니다.
@@ -71,17 +55,6 @@ hideDescription: true
 혹시 몰라서 원인을 좁히려면, 잘 나오는 첫 번째 모니터의 케이블을 두 번째 모니터에 연결하시면 됩니다. 같은 케이블로 두 번째 모니터가 나온다면 케이블 문제가 아니라 두 번째 케이블이나 연결 문제입니다. 반대로 여전히 안 나온다면 두 번째 모니터 자체나 그 연결 경로에 문제가 있을 수 있습니다.
 
 데스크톱이라면 그래픽카드의 **다른 출력 단자**로 옮겨 확인하시면 됩니다. 특정 출력 단자만 인식이 불안정할 수도 있습니다. 노트북이라면 다른 USB-C(DP) 단자나 HDMI 단자를 시도해볼 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 드라이버 확인
 

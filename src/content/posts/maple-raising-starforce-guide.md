@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 메이플 키우기의 장비 강화는 스타포스 시스템이 중심입니다. 강화 던전에서 얻는 주문서로 장비의 별을 올리면 능력치가 크게 증폭되는데, 어느 부위를 먼저 강화하느냐에 따라 전체 성장 속도가 달라집니다.
 
 9월 업데이트로 스타포스 상한이 30성까지 확장되고 강화 하락이 완화되면서, 강화 설계가 이전보다 중요해졌습니다. 이 글에서는 주문서 수급처와 부위별 강화 순서, 새로 추가된 확정 강화 시스템을 정리합니다.
@@ -41,17 +37,6 @@ hideDescription: true
 
 주문서가 가장 부족한 구간은 강화를 본격적으로 시작하는 시점입니다. 던전과 아레나 상점 수급을 함께 병행해야 강화를 끊김 없이 진행할 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 부위별 강화 순서
 
 강화 우선순위는 장비가 전투력에 미치는 기여도를 기준으로 정합니다. 커뮤니티 공략에서는 특정 부위를 먼저 강화하는 흐름이 권장되는데, 대개 공격 관련 옵션을 주는 부위가 앞섭니다.
@@ -63,17 +48,6 @@ hideDescription: true
 초반에는 전체 장비의 별 수치를 일정 수준까지 통일시키는 것이 성장의 기본입니다. 이후에는 강화 난이도가 높은 부위를 하나씩 높이면서 다음 구간의 권장 전투력을 확보합니다.
 
 구간 목표는 캐릭터 레벨과 함께 올라가므로, 레벨에 맞춰 강화 수치를 맞추는 것이 막힘을 줄이는 방법입니다. 눈에 띄는 성장이 없을 때는 강화 수치가 기대치에 못 미친 경우가 많습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 30성 확장과 확정 강화
 
@@ -87,13 +61,3 @@ hideDescription: true
 
 강화가 막히면 처음부터 다시 시도하기보다, 동료·유물처럼 다른 성장 수단과 병행하면서 전투력 상단을 함께 올리는 것이 전체 성장에 유리합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

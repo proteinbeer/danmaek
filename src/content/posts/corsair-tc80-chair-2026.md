@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 코르세어가 새 게이밍 의자 TC80을 200달러 안팎 가격으로 내놨습니다.
 
 최근 게이밍 의자가 500달러를 넘기고 자동차 버킷 시트처럼 화려해지는 흐름과 달리 TC80은 평평하고 단순한 사무용 의자에 가까운 모습입니다.
@@ -30,7 +26,6 @@ hideDescription: true
 저는 이 디자인 변화가 꽤 흥미롭습니다.
 
 게이밍 제품이 오랫동안 RGB와 각진 디자인으로 차별화했다면 이제는 오히려 게임 티가 덜 나는 것이 새로운 차별점이 되고 있기 때문입니다.
-
 
 <img class="post-landscape-image post-landscape-image--high" src="/assets/posts/news-images/corsair-tc80-chair-2026-01.jpg" alt="게이밍 의자인데 게이밍처럼 안 생겼다, 코르세어가 방향을 바꿨다" width="1000" height="563" loading="lazy" decoding="async" />
 
@@ -54,17 +49,6 @@ TC80은 약 200달러로 이 흐름보다 낮은 위치를 노립니다.
 
 모든 조절 기능을 넣기보다 필요한 기능을 줄여 가격을 낮춘 제품에 가깝습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 조절 기능은 적다
 
 저렴해진 만큼 팔걸이 조절 범위와 등받이 기울기 같은 기능은 고급 제품보다 제한적입니다.
@@ -85,17 +69,6 @@ TC80은 약 200달러로 이 흐름보다 낮은 위치를 노립니다.
 
 RGB보다 프레임과 쿠션 내구성이 훨씬 중요한 제품이라는 걸 다시 보여줍니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 게이밍 디자인이 늙었다
 
 PC 케이스와 키보드에서도 최근 검은색과 RGB 일변도에서 벗어나 차분한 디자인이 늘고 있습니다.
@@ -115,17 +88,6 @@ PC 케이스와 키보드에서도 최근 검은색과 RGB 일변도에서 벗�
 결국 좋은 게이밍 의자는 게임할 때만 좋은 의자가 아니라 오래 앉아 있을 때 편한 의자입니다.
 
 브랜드들이 이 당연한 기준으로 돌아오는 흐름이라면 개인적으로는 반갑습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 의자는 스펙보다 몸이 먼저다
 
@@ -151,13 +113,3 @@ TC80처럼 조절 기능을 줄인 제품은 특히 자신의 책상 높이와 �
 
 TC80이 저렴한 선택이라도 현재 책상과 잘 맞지 않으면 다른 조절형 의자가 장기적으로 더 나은 선택일 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

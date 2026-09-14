@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 파일을 더블클릭했는데 원하지 않는 프로그램이 계속 열리면 프로그램을 다시 설치할 필요는 없습니다.
 
 윈도우 11의 기본 앱 연결만 바꾸면 브라우저, 사진, 영상, 문서 파일을 원하는 프로그램으로 열 수 있죠.
@@ -61,17 +57,6 @@ hideDescription: true
 
 모든 파일을 하나의 프로그램에 몰아주는 것보다 실제로 자주 쓰는 형식부터 연결하면 문제가 생겨도 되돌리기 쉽습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 파일에서 바로 바꾸는 방법
 
 특정 파일만 다른 앱으로 열고 싶다면 파일을 우클릭하고 연결 프로그램을 선택하는 방법이 빠릅니다.
@@ -99,17 +84,6 @@ hideDescription: true
 무조건 레지스트리를 수정하는 방법부터 찾는 것은 추천하지 않습니다.
 
 윈도우 11은 기본 앱 관리 화면에서 대부분 해결할 수 있고, 시스템 업데이트에 덜 영향을 받는 방법도 이쪽입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 기본 앱을 정리해두면 편한 이유
 
@@ -139,13 +113,3 @@ PC를 오래 쓰면 비슷한 기능의 프로그램이 여러 개 쌓입니다.
 
 전체 설정을 다시 바꾸기보다 예외처럼 남은 파일 형식만 찾아 고치는 편이 더 빠릅니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

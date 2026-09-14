@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 워드프레스가 느려진다고 하면 단순히 "고성능 호스팅으로 옮기면 되겠지"라고 생각하기 쉽습니다. 그런데 실제로는 대부분의 속도 저하 원인이 **이미지 크기와 캐시 설정, 쌓인 데이터**에 있습니다.
 
 이 글에서는 플러그인을 마구 추가하지 않고도 효과를 확실히 볼 수 있는 순서를 정리했습니다. 측정 → 이미지 → 캐시 → DB 정리 순서로 따라가면 체감 속도가 달라집니다.
@@ -50,17 +46,6 @@ hideDescription: true
 
 이미지 최적화는 페이지의 다운로드 용량을 절반 이하로 만들 수 있습니다. 어떤 호스팅 속도보다 직접적인 효과죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 캐시 플러그인 하나로 시작하기
 
 캐시는 "만들어진 화면을 그대로 재사용"하는 기능입니다. 페이지마다 PHP를 처음부터 실행하지 않으므로 응답이 훨씬 빨라집니다.
@@ -83,17 +68,6 @@ hideDescription: true
 
 DB 정리는 눈에 보이는 변화보다 크지는 않지만, 관리자 화면과 글쓰기 반응이 확실히 가벼워집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. CDN과 호스팅을 다시 볼 때
 
 위 방법으로도 충분하지 않은 상황은 방문자가 멀리 있거나, 남아있는 병목이 서버 자체일 때입니다.
@@ -113,13 +87,3 @@ DB 정리는 눈에 보이는 변화보다 크지는 않지만, 관리자 화면
 
 측정 기록을 남겨두면 어떤 변화가 효과가 있었는지 한눈에 보입니다. 이 과정을 반복하면 사이트는 늘 가벼운 상태를 유지합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

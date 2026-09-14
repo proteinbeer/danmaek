@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 블록 테마를 사용하는 워드프레스에서는 외모, 편집기에서 헤더와 푸터, 템플릿, 전체 스타일을 한곳에서 수정할 수 있습니다.
 
 문제는 페이지 하나만 바꾼다고 생각하고 저장했는데 사이트 전체가 달라지는 일이 생길 수 있다는 점입니다.
@@ -47,17 +43,6 @@ hideDescription: true
 
 사이트 편집기에서 페이지를 열었을 때 지금 본문을 수정하는지 템플릿을 수정하는지 구분하시면 됩니다. 전체가 갑자기 바뀌는 실수는 이 둘을 혼동할 때 많이 생깁니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 헤더와 푸터는 반복 구조
 
 헤더와 푸터는 보통 템플릿 파트로 관리되며 여러 페이지에서 반복해서 사용됩니다.
@@ -73,17 +58,6 @@ hideDescription: true
 특정 버튼 하나를 수정하다가 같은 종류의 모든 버튼에 적용하는 기능을 사용하면 다른 페이지까지 디자인이 변할 수 있죠.
 
 저장 전에는 변경 대상 목록을 확인하시는 편이 좋습니다. 사이트 편집기는 한 번의 저장에 템플릿과 패턴, 내비게이션 변경이 함께 포함될 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 저장 화면을 그냥 넘기지 않는다
 
@@ -101,17 +75,6 @@ hideDescription: true
 
 최근 사이트 편집기에는 명령 팔레트도 있어 템플릿과 페이지, 설정으로 빠르게 이동할 수 있습니다. 익숙해지면 관리자 메뉴를 계속 돌아다니는 것보다 훨씬 빠르게 원하는 편집 위치를 찾을 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 7. 큰 변경 전에는 스테이징에서 확인
 
 사이트 전체 스타일과 공통 템플릿을 바꾸는 작업은 작은 글 수정과 영향 범위가 다릅니다.
@@ -128,13 +91,3 @@ hideDescription: true
 
 페이지, 템플릿, 템플릿 파트, 스타일을 구분하고 저장 전 변경 대상을 확인하시면 됩니다. 헤더 하나를 바꿨는데 전체가 달라진 것은 오류가 아니라 공통 구조를 수정했기 때문일 수 있죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

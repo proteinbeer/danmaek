@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 거실에서 공유기에 붙어 있으면 빠른데, 멀리 떨어진 방에서는 와이파이가 잘 안 잡히는 경험을 한 번쯤 해보셨을 겁니다. 그러한 **음영지역**은 공유기 하나로 다 커버하기 어려운 집 구조에서 자주 생기죠.
 
 와이파이 사각지대를 해결하는 방법은 크게 증폭기, 메시 공유기, 파워라인 어댑터로 나뉩니다. 각 방식의 장단점을 알고 상황에 맞게 고르시면 됩니다.
@@ -50,17 +46,6 @@ hideDescription: true
 
 증폭기가 원치 않는 속도 저하 없이 신호만 넓히는 데는 한계가 있습니다. 대역폭보다 **말단 도달 여부**가 더 중요할 때(요금제 속도가 여유인 고객) 적합합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 메시 와이파이로 전체를 고르게
 
 집이 크거나 벽이 많은 구조라면 **메시 와이파이**가 적합합니다.
@@ -80,17 +65,6 @@ hideDescription: true
 - 추가로 전원이 필요한 노드에 **백홀용**으로 물리게 하는 방식과 조합할 때 효과가 큽니다.
 
 전기 배선 상태에 따라 성능이 달라질 수 있고, 같은 회로에 있어야 원활합니다. 다만 와이파이 간섭과 무관해서 안정적이라는 장점이 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 구성 순서와 방식 선택
 
@@ -113,13 +87,3 @@ hideDescription: true
 
 설치 후 한 방이라도 여전히 약하다면 노드 위치를 조금씩 이동해가며 최적 지점을 찾으시기 바랍니다. 노드 사이 거리와 벽 개수가 가장 큰 변수죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 세이크레트는 몬스터헌터 와일즈에서 필드 이동을 책임지는 탈것입니다. 단순한 이동 수단이 아니라 목적지까지 자동 주행해 주고, 두 번째 무기를 보관해 전투 중 무기를 갈아끼울 수 있으며, 탑승한 채로 공격하거나 마운트를 노릴 수도 있습니다. 어디까지 할 수 있는지 정리해 두면 필드에서의 시간이 크게 줄어듭니다.
 
 이 글은 세이크레트의 소환과 조작, 자동 이동 활용법, 보관 기능과 무기 교체, 전투에서의 쓰임새, 커스텀 해금 조건과 항목별 변경법, 그리고 장식·팬던트를 모으는 방법까지를 순서대로 설명합니다.
@@ -41,17 +37,6 @@ hideDescription: true
 
 자동 이동 중에는 다른 조작도 가능합니다. 인벤토리를 정리하거나, 칼을 갈고, 다음 행동을 계획하는 등 멀티태스킹을 하면 필드 이동 시간이 사냥 준비 시간으로 바뀝니다. 수집형 플레이를 한다면 자원 아이콘마다 웨이포인트를 잡아 순회하는 것이 가장 편한 채집 루트가 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 두 번째 무기 보관과 전투 중 무기 교체
 
 세이크레트는 하나의 보관 공간을 갖고 있어 두 번째 무기를 넣어 둘 수 있습니다. 무기 교체용 장비는 베이스 캠프나 포프업 텐트에서 사전에 설정하며, 전투 중 세이크레트를 호출해 보관함 접근 조작을 하면 바로 무기를 교체할 수 있습니다. 속성을 갈아끼워야 하는 몬스터 상대에서 빛을 발합니다.
@@ -64,17 +49,6 @@ hideDescription: true
 
 점프를 활용하면 마운트(등 올라타기)도 노릴 수 있습니다. 마운트에 성공하면 몬스터의 등에서 상처를 한 번에 여러 개 열 수 있으므로, 팔로우 중인 몬스터에게 세이크레트로 추월하다 하차하지 말고 점프 공격으로 마운트를 시도해 보세요. 마운트는 상처 시스템과 맞물려 사냥 속도를 크게 높이는 요소입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 커스텀 해금 조건과 변경 항목
 
 세이크레트 커스텀은 스토리 초반에 해금됩니다. 인도 바람초원에서 알파 도슈구마를 쓰러뜨리고 구나파 마을을 구하는 1성 임무를 마치면, 마을의 노나가 세이크레트 커스터마이징을 열어 줍니다. 노나는 밤에는 만날 수 없으니 낮에 찾는 것이 좋고, 이후에는 어느 캠프 텐트의 어피어런스 메뉴에서도 동일하게 변경할 수 있습니다.
@@ -86,13 +60,3 @@ hideDescription: true
 세이크레트 장식과 팬던트는 몇 가지 루트로 얻습니다. 디럭스/프리미엄 디럭스 에디션 보상에는 솔저즈 카프리손, 제너럴즈 카프리손 장식과 에비언 윈드 차임 팬던트가 포함되어 있고, 본편 3장을 완료하면 드래곤토치 윙스, 호프 스카프 같은 팬던트를 지급합니다.
 
 이외에 사이드 퀘스트(하이랭크 구나파의 하이퀄리티 머티리얼, A Leviathan's Temper 등)를 완료하면 추가 장식이 열리고, 베타 테스트 보상이나 트위치 드롭을 통해서도 팬던트를 얻을 수 있습니다. 커스텀을 먼저 해금해 두면 퀘스트 보상으로 받은 장식을 바로 적용할 수 있으니, 1성 임무 클리어 후 노나를 꼭 찾아가십시오.
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

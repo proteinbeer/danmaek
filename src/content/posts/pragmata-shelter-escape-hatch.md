@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 프라그마타의 쉴터는 단순한 안전 지대가 아니라 성장과 장비 변경, 빠른 이동의 중심입니다. 구역에서 탈출 해치를 활성화하면 쉴터의 트램 터미널과 연결되어 다시 돌아갈 수 있어 탐색과 성장 루프가 완성됩니다.
 
 문제는 탈출 해치를 일반적인 체크포인트처럼 생각하면 예상과 다른 일이 생길 수 있다는 점입니다. 적 재생과 필드 장비 처리까지 함께 생각해야 효율적으로 사용할 수 있습니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 현재 체력과 자원, 새 장비 획득 여부를 보고 돌아갈지 결정하시면 됩니다. 쉴터가 필요하지 않다면 탐색을 계속 이어가도 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 돌아오면 적이 다시 생길 수 있다
 
 탈출 해치를 이용해 쉴터로 복귀하면 해당 구역 적이 다시 배치되는 구조를 염두에 두셔야 합니다. 방금 어렵게 정리한 길을 다시 지나야 할 수 있습니다.
@@ -65,17 +50,6 @@ hideDescription: true
 
 새 무기를 주웠다고 안심하고 계속 쓰기보다 청사진과 프린트 여부를 확인하는 습관이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 트램 터미널로 탐색 효율을 높인다
 
 활성화한 이동 지점이 늘어나면 지나간 구역을 다시 돌아보기 쉬워집니다. 놓친 업그레이드 컴포넌트와 수집품을 찾을 때 큰 도움이 됩니다.
@@ -87,17 +61,6 @@ hideDescription: true
 가이드 기준으로 메인 구역 곳곳에 여러 탈출 해치가 배치되어 있고, 이를 모두 찾는 수집 목표도 있습니다. 100% 완료를 노리신다면 지나가며 활성화하는 습관이 좋습니다.
 
 다만 첫 플레이에서 위치 공략만 보며 달리면 탐색 재미가 줄 수 있습니다. 엔딩 이후 정리 루트를 이용하는 것도 괜찮습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 복귀 시점이 중요한 이유
 
@@ -117,13 +80,3 @@ hideDescription: true
 
 또 엔드게임에서 얻는 장비와 보상은 다음 회차 빌드 실험에도 도움이 됩니다. 수집을 단순 숙제로만 보지 마시고 새로운 장비와 해킹 옵션을 여는 과정으로 생각하면 훨씬 덜 지루하게 진행할 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

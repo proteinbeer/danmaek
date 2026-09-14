@@ -18,11 +18,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
-
 갑자기 한영키가 먹지 않는다면 키보드 자체보다 윈도우 입력 언어 설정이 바뀐 경우가 흔합니다.
 
 한영 전환은 대부분 한/영 키 하나로 해결되지만, 가끔 갑자기 먹지 않게 되어 당황하는 경우가 있습니다. 키보드를 새로 바꾸거나, 윈도우를 업데이트하거나, 특정 프로그램을 설치한 뒤에 생기는 경우가 많습니다. 대부분 키보드 고장이 아니라 설정 문제이므로, 아래 순서대로 확인하면 빠르게 해결할 수 있습니다. 키보드를 바꾸거나 고친다고 판단하기 전에 먼저 설정부터 살펴보시는 것이 좋습니다.
@@ -45,17 +40,6 @@ hideDescription: true
 
 또한 **윈도우 키 + '.'(마침표)** 또는 **윈도우 키 + ';'** 를 누르면 이모지와 입력 도구 패널이 열리는데, 여기서도 입력 언어를 바꿀 수 있습니다. 이 단축키들로 전환이 된다면 키보드 문제보다는 설정 문제일 가능성이 더 높습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 한국어 입력기 다시 확인
 
 설정, 시간 및 언어, 언어 및 지역에서 한국어가 정상적으로 설치돼 있는지 확인하시면 됩니다.
@@ -73,17 +57,6 @@ hideDescription: true
 게임이나 특정 편집 프로그램에서는 자체적인 입력 방식 때문에 한영 전환이 안 되는 경우가 있습니다. 예를 들어 전체 화면 게임에서는 윈도우 입력기가 제대로 동작하지 않을 수 있는데, 창 모드(윈도우 모드)로 변경하거나 게임 내에서 입력 언어 설정을 바꾸면 해결되기도 합니다.
 
 또한 일부 프로그램은 관리자 권한으로 실행될 때 입력기가 정상 동작하지 않는 경우가 있습니다. 관리자 권한을 해제해서 실행해보거나, 반대로 관리자 권한으로 실행해서 비교해보시기 바랍니다. 입력기 관련 오류가 있는 프로그램은 알트 탭으로 다른 창에 갔다가 돌아오면 임시로 해결되는 경우도 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 키보드 뻗음과 재부팅
 

@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 몬스터헌터 와일즈에서 아이템 세팅은 단순한 잔부품이 아니라 전투의 절반입니다. 25칸의 아이템 파우치를 어떻게 채우느냐에 따라 회복 여유, 상태 이상 대응, 포획 여부까지 달라지고, 로드아웃을 등록해 두면 눈치 채지 못한 사이 준비 시간이 크게 줄어듭니다.
 
 이 글은 아이템 파우치의 기본 구성법, 회복과 버프 아이템의 우선순위, 함정과 보조 아이템, 레이더 메뉴의 단축 조합 활용, 그리고 몬스터별 맞춤 로드아웃을 순서대로 정리합니다.
@@ -41,17 +37,6 @@ hideDescription: true
 
 최대 포션은 촉매와 만드라고라로 만들 수 있고, 고대 포션은 이뮤니저와 노리싱 엑스트랙트로 만듭니다. 이 두 아이템은 체력과 스테미너를 한 번에 회복시켜 준비가 허술했을 때의 구세주이므로, 재료를 비축해 두면 사냥 중간에 보충이 가능합니다. 파티에서는 라이프파우더처럼 아군 전체를 회복시키는 아이템도 함께 준비하는 것이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 버프 아이템과 노리싱 엑스트랙트
 
 장기 버프 아이템은 데몬드러그(공격력 상승)와 아머스킨(방어력 상승)이 대표적입니다. 둘 다 30분 동안 지속되어 헌트당 한 번씩만 복용하면 충분하므로, 출격 직전에 먹는 것이 정석입니다. 빌드 전투에서는 이러한 버프유지가 DPS에 직접 도움이 됩니다.
@@ -64,17 +49,6 @@ hideDescription: true
 
 보조 아이템으로는 더럽혀진 것(똥) 포드로 몬스터 서로를 떼어놓거나, 플래시 포드로 비행 몬스터를 떨어뜨리는 등 상황별 유틸이 장만되어 있습니다. 은신 망토(길리 맨틀)와 대량 폭탄은 수면 상태 몬스터에 큰 피해를 넣는 콤보로 자주 사용됩니다. 기본 로드아웃에 함정과 수면탄, 폭탄을 넣어 두면 어떤 퀘스트든 대비가 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 레이더 메뉴와 단축 조합
 
 레이더 메뉴는 전투 중 아이템을 빠르게 쓰는 핵심 수단입니다. 라우터 패드로 레이더 메뉴를 열어 자주 쓰는 아이템을 골라 사용할 수 있고, 메뉴를 커스터마이즈하면 회복·회복 스킬·포획 아이템·버프 등을 그룹별로 배치할 수 있습니다. 전투 중 파우치 스크롤을 헤매는 것보다 훨씬 빠릅니다.
@@ -86,13 +60,3 @@ hideDescription: true
 
 독이나 수면, 기절 등 상태 이상을 쓰는 몬스터에는 해독제와 해제 열매(널베리)를 넣고, 비행 몬스터에는 플래시 포드, 수중처럼 좁은 공간이 많은 몬스터에게는 이동 버프를 준비하는 식으로 구성합니다. 25칸을 전부 채우기보다 목표 몬스터에 맞는 아이템만 골라 담는 것이 효율적이며, 상황별 로드아웃 3～4개를 돌려 쓰면 모든 몬스터에 대응할 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

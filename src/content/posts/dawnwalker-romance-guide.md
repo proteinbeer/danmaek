@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 더 블러드 오브 던워커에는 연애가 가능한 캐릭터가 셋 있습니다. 라슬레아의 허브 상 안카, 스바트라우의 운명을 쫓는 뱀파이어 라크라, 반란이 마뉴밋의 지도자 크레이크(본명 마라트)입니다. 다행히 세 사람을 한 번의 플레이에서 동시에 진행해도 아무 불이익이 없으며, 대부분은 캐릭터의 퀘스트 라인을 따라가기만 하면 되는 구조입니다.
 
 주의해야 할 점은 선택지 몇 개가 영구적으로 연애를 막는다는 사실입니다. 특히 라크라와 크레이크는 특정 퀘스트 순서를 어기면 훅 닫히므로, 각 캐릭터의 기점과 마지막 선택지를 미리 알아두는 것이 안전합니다.
@@ -48,17 +44,6 @@ hideDescription: true
 
 마무리는 '스트롱거 댄 아킬레스' 퀘스트 이후 인마이막에 패스할 수 있습니다. '신경 쓰이는 것이 있니' → '네가 소중해' → '너를 위해 뭐든 할 거야' → '사랑해' 순서로 다가가면 에필로그 직전에 안카와의 연애 씬이 열립니다. 상인과의 대화 시간도 연애 준비의 일종이므로, 마을에 들를 때마다 그녀의 안부를 묻는 습관이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 라크라와의 밤: 우리 뿌리와 나이트 오브 호러스
 
 라크라는 스바트라우 대성당 동북쪽 골목에서 '에이 프렌드 라이크 디스' 퀘스트로 처음 만납니다. 암브루스를 처치한 뒤 그의 시신에서 메모를 읽어도 경로가 열립니다. 첫 만남에서는 그녀와 싸우게 되며 체력을 모두 깎으면 대화로 전환되므로, 그냥 방어하며 시간만 벌어도 됩니다.
@@ -81,17 +66,6 @@ hideDescription: true
 
 반드시 '라이즈 앳 던'을 시작하기 전에 '디스턴트 섀도우즈'를 끝내야 합니다. 순서가 바뀌면 크레이크 연애는 영구적으로 닫힙니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 연애를 막는 결정과 예방책
 
 세 캐릭터 모두 돌이킬 수 없는 실수가 몇 가지씩 있습니다. 라크라는 마지막 대화에서 '브렌시스와 맞서러 갈 준비가 됐어'를 고르는 순간 연애 기회가 사라지므로 다른 선택지를 골라야 합니다. 크레이크는 앞서 말한 순서 함정이 대표적이며, 안카는 폰트를 코엔이 마시는 순간 분위기가 식습니다.
@@ -108,13 +82,3 @@ hideDescription: true
 
 즉 이 게임의 연애는 스토리 전체를 뒤바꾸기보다 캐릭터 개인과의 장면과 여운을 더해주는 구조입니다. 결말의 대분기는 최종전 동료 여부에 달렸으므로, 연애는 그 대분기를 여는 과정에서 자연스럽게 얽혀 들어갑니다. 누구와 어떤 여운을 남길지는 플레이어의 몫이며, 세 사람 모두와의 이야기를 채우는 것도 이 30일의 멋진 사용법입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

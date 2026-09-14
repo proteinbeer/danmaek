@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 모탈 셸 2 PC판 최소 사양은 윈도우 10 또는 11, 인텔 코어 i7 10700K 또는 라이젠 5 3600급 프로세서, 16GB 메모리, 지포스 RTX 2060 슈퍼 또는 라데온 RX 6600급 그래픽카드, 30GB 저장 공간이며 SSD가 필수입니다. 출시 후에는 충돌과 성능 문제를 줄이기 위한 패치도 계속 적용됐습니다.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/mortal-shell-2-2026-01.jpg" alt="모탈 셸 2(Mortal Shell 2) 소울라이크 액션 게임 대표 이미지" width="686" height="386" loading="lazy" decoding="async" />
@@ -42,17 +38,6 @@ hideDescription: true
 
 성능 문제를 확인할 때는 여러 옵션을 한꺼번에 바꾸지 않는 편이 좋습니다. 한 항목씩 조정해야 어떤 설정이 실제 프레임이나 끊김에 영향을 줬는지 판단하기 쉽습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 충돌 수정
 
 같은 업데이트에서 적 생성, 오디오, 능력치 변화, 인터페이스 로딩, 저장 불러오기, 종료 과정과 관련된 다수의 충돌 문제가 수정됐습니다. 실행 오류가 있으시면 우선 게임이 최신 버전인지 확인하셔야 합니다.
@@ -67,17 +52,6 @@ VRAM이 부족하다면 굳이 활성화하지 않는 편이 좋습니다.
 
 탐험 중에는 새 지역을 끝까지 한 번에 밀려고 하기보다 비컨을 기준으로 짧게 왕복하는 방식이 효율적입니다. 회복을 다 쓰기 전에 허브로 돌아가 강화하고 다시 들어가면 수집품도 놓치기 어렵고 사망으로 잃는 진행 시간도 줄어듭니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 프레임 생성 재작업
 
 프레임 생성 기능도 재작업됐습니다. 패치 직후 일부 사용자 환경에서는 끊김 보고가 있었으므로 무조건 켜기보다 현재 그래픽카드와 드라이버에서 직접 비교해 보시는 편이 안전합니다.
@@ -91,17 +65,6 @@ VRAM이 부족하다면 굳이 활성화하지 않는 편이 좋습니다.
 프레임 문제 해결용으로 착각하시면 안 됩니다.
 
 업적이나 모든 수집 요소를 목표로 하지 않으신다면 첫 회차부터 모든 길을 확인할 필요는 없습니다. 엔딩 이후에도 자유 탐험이 가능하므로 스토리 흐름을 먼저 보고, 필요한 셸과 무기만 챙긴 뒤 나머지를 정리하는 방식도 충분히 좋은 선택입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 문제 해결 순서
 

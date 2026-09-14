@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 뮤제닉스에서 고양이는 전투 유닛이자 동시에 재화입니다. 파이프로 보내거나 오른쪽 집으로 돌려보내지 않은 고양이를 적절한 NPC에게 기부하면 영구 확장이 쌓이고, 이 확장이 다음 룬의 시점을 단축시킵니다. 기부를 게으르게 하면 아무리 전투를 잘해도 항상 4x4 인벤토리와 방 하나짜리 집에서 맴돌게 됩니다.
 
 이 글에서는 누구에게 어떤 고양이를, 어떤 순서로 기부해야 하는지를 정리했습니다. 버치와 프랭크의 확장 단계, 지역 첫 클리어로 받는 목걸이 9종, 그리고 룬 초중후반의 기부 타임라인까지 메타 진행의 전체 그림을 담았습니다.
@@ -45,17 +41,6 @@ NPC 기부는 룬이 진행되며 1～4마리의 고양이를 문 파이프로 �
 확장을 빠르게 하려면 새 룬을 시작할 때 막 클리어한 지역을 떠난 고양이를 최우선으로 챙겨야 합니다. 버치 기부는 인벤토리 공간 자체를 늘리므로 전투 준비와 아이템 파밍의 효율이 이 단계에 비례합니다.
 
 인벤토리가 좁은 초반에는 아이템을 쌓아두는 것보다 필요할 때 갈아 쓰는 플레이 위주로 진행하는 것이 낫습니다. 4x4에서 물건을 우겨넣다 보면 도시 아이콘 정리만으로 룬 시간이 증발합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 3. 프랭크의 룸 확장
 
@@ -81,17 +66,6 @@ NPC 기부는 룬이 진행되며 1～4마리의 고양이를 문 파이프로 �
 
 해금 순서상 최우선은 골목의 클레릭입니다. 치유가 가능해지면 전투 난도와 회복 비용이 동시에 내려가며, 이후 어떤 지역을 가도 조합의 한 축으로 남습니다. 목걸이는 성장이 멈춘 고양이에게 재장착해도 되므로, 클래스 고민보다 '지역 클리어 → 목걸이 수령 → 클레릭 만들기'의 루프를 먼저 굴리는 것이 정석입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 팅크와 트레이시의 정보·자원 계열
 
 팅크는 굳이 고양이 수를 요구하지 않고, 특정 정보가 필요합니다. 키튼을 기부하면 유전자 정보 화면과 게이 탐지, 혈통 아이콘 정리 같은 편의 기능이 열립니다. 번식 설계를 한다면 팅크의 정보 기능은 뒤로 미룰 이유가 없습니다.
@@ -108,13 +82,3 @@ NPC 기부는 룬이 진행되며 1～4마리의 고양이를 문 파이프로 �
 
 룬 30 이후의 후반에는 버치 확장이 끝나고 프랭크의 방 5칸도 거의 완성되므로, 남는 고양이는 틈틈이 닥터 비니스와 베이비잭, 트레이시에게 나눠 보냅니다. 기부 포인트는 룬마다 초기화되지만 확장은 영구 유지되므로, '이번 룬에 어디까지 뚫었는가'가 다음 룬의 편의 그대로 이어지는 구조입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

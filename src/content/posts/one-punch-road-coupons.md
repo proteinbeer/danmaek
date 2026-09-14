@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 원펀맨: 영웅의 길은 인기 애니메이션 '원펀맨' IP를 활용한 공식 라이선스 RPG입니다. 원펀맨 제작 위원회가 정식 허가하고 집영사가 검수한 작품으로, 사이타마와 히어로들을 모아 육성하는 게임이죠.
 
 원펀맨 쿠폰은 다이아와 소환권, 상점 리셋권 같은 보상을 줍니다. 다른 게임에 비해 코드 배포가 드문 편이지만, 새 코드가 나올 때마다 바로 입력해두면 무과금 성장에 도움이 됩니다.
@@ -60,17 +56,6 @@ hideDescription: true
 쿠폰 코드 입력창에 코드를 정확히 넣고 확인을 누르면 보상을 수령할 수 있습니다. 코드는 대소문자와 숫자를 그대로 입력해야 합니다.
 
 입력한 코드가 동작하지 않으면 만료됐거나 이미 사용한 코드일 가능성이 높습니다. 다른 코드로 하나씩 시도해 주시기 바랍니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 3. 계정당 1회, 만료 확인이 어려운 편
 

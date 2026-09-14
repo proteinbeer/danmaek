@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 로스트 차일드는 생귀인 캐번 끝에서 만나는 거대한 괴물입니다. 큰 입과 두 팔을 이용한 물기와 휘두르기가 중심이라 화려한 기믹보다 공격 전조를 차분히 읽는 것이 중요합니다.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/mortal-shell-2-2026-01.jpg" alt="모탈 셸 2(Mortal Shell 2) 소울라이크 액션 게임 대표 이미지" width="686" height="386" loading="lazy" decoding="async" />
@@ -44,17 +40,6 @@ hideDescription: true
 
 회복을 많이 쓰는 구간이 항상 가장 어려운 패턴인 것은 아닙니다. 공격 욕심 때문에 맞는 경우가 많으므로 두 번 칠 수 있어 보여도 한 번만 치고 빠지는 방식부터 시험해 보시는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 긴 팔 휘두르기
 
 팔을 크게 휘두르는 공격은 준비 동작이 길어 회피하거나 경화로 받아내기 좋습니다. 전조가 확실한 공격부터 반격 타이밍으로 정하시면 됩니다.
@@ -69,17 +54,6 @@ hideDescription: true
 
 보스가 막히면 같은 셸과 무기를 계속 고집하지 않으셔도 됩니다. 패링이 불편한 보스는 경화나 회피 중심 셸로 바꾸고, 접근 자체가 위험하다면 보조 무기를 적극적으로 활용하시면 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 오물 분사
 
 뒤로 점프한 뒤 몸 뒤쪽에서 오물을 계속 뿜는 패턴이 있습니다. 한 방향으로 계속 이동하며 옆으로 피하면 비교적 쉽게 벗어날 수 있습니다.
@@ -91,17 +65,6 @@ hideDescription: true
 후반에 완전히 새로운 기믹이 늘어나지는 않지만 팔 공격이 빨라지고 이동이 활발해집니다. 초반에 익힌 패턴을 같은 방식으로 보되 반격 횟수를 줄이시는 편이 좋습니다.
 
 업적이나 모든 수집 요소를 목표로 하지 않으신다면 첫 회차부터 모든 길을 확인할 필요는 없습니다. 엔딩 이후에도 자유 탐험이 가능하므로 스토리 흐름을 먼저 보고, 필요한 셸과 무기만 챙긴 뒤 나머지를 정리하는 방식도 충분히 좋은 선택입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 짧게 치고 빠지기
 

@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 나 혼자만 레벨업: 어라이즈는 웹툰 '나 혼자만 레벨업'을 원작으로 한 액션 RPG입니다. 넷마블이 서비스하며, 성진우가 되어 던전을 돌고 헌터를 육성하는 재미로 전 세계에서 큰 인기를 얻고 있죠.
 
 이 게임은 나혼렙 알짜 쿠폰이 꾸준히 배포되는 게임입니다. 업데이트와 방송, 기념일마다 골드와 추첨권, 성장 재료를 주는 코드가 나오므로, 새 코드가 뜨면 빨리 입력해두는 편이 좋습니다.
@@ -64,17 +60,6 @@ hideDescription: true
 먼저 게임 내 **계정 설정**에서 회원 번호를 확인해 복사합니다. 그리고 넷마블 쿠폰 등록 페이지(coupon.netmarble.com/sololv)에 접속해 회원 번호와 쿠폰 코드를 각각 입력하면 됩니다.
 
 웹 등록도 인게임 등록과 동일하게 계정당 1회 사용이 원칙입니다. 어느 쪽이든 입력 후에는 우편함에서 보상을 받아야 하죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 4. 계정당 1회, 기한이 짧은 코드 주의
 

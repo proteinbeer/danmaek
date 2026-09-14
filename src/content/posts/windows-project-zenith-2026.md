@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 새 윈도우 PC를 사면 가장 먼저 브라우저를 열고 개발 도구부터 설치하는 사람들이 있습니다. 마이크로소프트가 공개한 프로젝트 제니스는 이 과정을 아예 반대로 바꿔, 처음 켰을 때부터 코딩과 로컬 AI 작업을 시작할 수 있는 개발자 전용 윈도우 환경을 만들겠다는 계획입니다.
 
 흥미로운 건 소프트웨어보다 하드웨어 기준입니다. 통합 메모리 64GB 이상, 메모리 대역폭 초당 250GB 이상을 출발선으로 잡고 300억 매개변수 이상의 AI 모델을 로컬에서 실행하는 것을 주요 목표로 내세웠습니다.
@@ -46,17 +42,6 @@ hideDescription: true
 
 반대로 최근 사용 파일, 동기화 제공자 안내, 시작 메뉴의 계정 알림처럼 개발 흐름을 끊을 수 있는 요소는 줄입니다. 작은 설정이지만 새 PC마다 반복해서 바꾸던 사람에게는 시간을 꽤 아껴주는 부분입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 64GB 메모리가 기본선이 된 이유
 
 가장 눈에 띄는 조건은 64GB 이상의 통합 메모리입니다. 일반 사무용 PC 기준으로는 여전히 큰 용량이지만 로컬 AI 모델을 돌리는 개발 환경에서는 이야기가 달라집니다.
@@ -72,17 +57,6 @@ hideDescription: true
 프로젝트 제니스가 노리는 부분은 이 중 일부를 로컬 모델로 옮기는 것입니다. 큰 판단은 클라우드가 하고 반복 작업은 PC 안에서 처리하는 혼합 구조죠.
 
 마이크로소프트가 로컬 실행을 사용량 제한 없는 방식이라고 강조한 이유도 여기에 있습니다. PC를 산 뒤 모델 실행 횟수가 늘어난다고 별도의 토큰 요금이 붙지는 않기 때문입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 개발자 PC가 다시 별도 시장이 될까
 

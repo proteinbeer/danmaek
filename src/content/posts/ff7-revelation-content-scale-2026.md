@@ -1,4 +1,4 @@
-﻿---
+---
 title: "파이널 판타지 7 레벌레이션은 더 커진다, 리버스의 피로감은 어떻게 줄일까?"
 description: "파이널 판타지 7 레벌레이션은 리버스보다 적어도 비슷하거나 더 많은 콘텐츠를 담을 예정입니다."
 date: 2026-09-12T12:00:00
@@ -18,10 +18,6 @@ imageHeight: 675
 hideHeroImage: true
 hideDescription: true
 ---
-
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
 
 파이널 판타지 7 레벌레이션은 리버스보다 적어도 비슷하거나 더 많은 콘텐츠를 담을 예정입니다.
 
@@ -61,17 +57,6 @@ hideDescription: true
 
 다만 개발진도 이 피드백을 직접 인식했다고 밝혔습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 보상 구조를 분리
 
 레벌레이션은 전투 중심 콘텐츠에는 캐릭터 성장 보상을 두고 미니게임 보상은 해당 활동의 꾸미기 요소처럼 분리하는 방향을 제시했습니다.
@@ -99,17 +84,6 @@ hideDescription: true
 반면 지금은 최근에는 표시가 너무 많으면 숙제 목록처럼 느껴진다는 반응도 강합니다.
 
 아직 레벌레이션은 크기를 유지하면서 정보 설계를 개선해야 합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 큰 게임의 새로운 기준
 

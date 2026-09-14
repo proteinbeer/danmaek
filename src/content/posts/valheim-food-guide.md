@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 발하임에서는 음식이 곧 전투력의 가장 중요한 축입니다. 장비보다 우선해서 체력과 스태미나 최대치를 끌어올려 주기 때문에, 어떤 음식을 조합하느냐에 따라 같은 몬스터도 체감 난이도가 달라집니다. 이 글은 바이옴 진행 순서에 따라 만들 수 있는 요리를 정리하고, 탱커와 원거리, 마법 빌드별로 좋은 음식 조합을 나열합니다.
 
 음식 시스템의 기본은 한 번에 최대 3개를 섭취한다는 점입니다. 각각 체력 또는 스태미나(이후 미스트랜즈부터는 에이트르)를 올려 주며, 같은 종류의 음식은 재충전 전까지 다시 먹을 수 없습니다. 포크 아이콘의 색이 핵심을 가리킵니다. 붉은 포크는 체력형, 노란 포크는 스태미나형, 흰색 포크는 균형형이며 파란 포크는 에이트르 중심입니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 또한 늪지 늪 속의 오즈를 잡아 얻는 오즈재료로 넉셰이크를 만들 수 있고, 뱀고기는 스네이크 스튜로 만들어 체력 80을 채워 주는 고급 요리가 됩니다. 뱀 스튜는 바다에서 서펀트를 잡았을 때 가장 가치 있는 레시피이며, 보트 탐사 전 미리 만들어 두면 유사시 체력 우위를 점할 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 산맥 음식과 옻밭 대비
 
 산맥 바이옴에서는 양파 농사가 열립니다. 양파 수프는 스태미나 60으로 순무 스튜보다 높으며, 늑대 고기 요리가 체력형 한 축을 담당합니다. 늑대 저키는 체력과 스태미나 동시 상승이 가능한 균형형이고, 늑대 꼬치는 체력 65까지 올려 주는 산맥 최고의 단일 요리입니다.
@@ -64,17 +49,6 @@ hideDescription: true
 플레인즈 바이옴에서는 보리와 아마가 열리고, 보리 가루를 활용한 요리가 본격적으로 나옵니다. 빵은 스태미나형, 록스 미트 파이는 체력형 대표 요리로 체력 75를 제공하며, 블러드 푸딩은 스태미나 75로 플레인즈 최고의 스태미나 요리입니다. 플레인즈는 야그루스 보스전이 포함된 만큼 체력 2종과 스태미나 1종의 3중첩이 기본입니다.
 
 록스는 사막에서 큰 몸집의 초식동물로, 잡아 얻는 록스 고기는 구워서 즉시 먹거나 록스 미트 파이 재료가 됩니다. 구름베리로 만든 클라우드베리 잼 같은 간단 요리도 스태미나 회복을 책임지는 보조 음식으로 좋습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 미스트랜즈 음식과 에이트르 마법
 
@@ -97,13 +71,3 @@ hideDescription: true
 
 핵심 원칙은 전투 상황에 따라 체력과 스태미나 비율을 바꾸는 것입니다. 보스전에서는 체력 요리 2개와 스태미나 1개, 채집과 탐사에서는 스태미나를 2개로 늘리고, 마법 빌드는 에이트르 요리를 한 칸 유지하면 됩니다. 음식은 매복 리스크가 큰 바이옴 탐사 전에 항상 준비해 두는 것이 사망 확률을 줄이는 가장 확실한 방법입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

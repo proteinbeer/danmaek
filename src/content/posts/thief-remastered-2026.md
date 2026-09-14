@@ -1,4 +1,4 @@
-﻿---
+---
 title: "시프 리마스터 공식 발표, 새 캠페인까지 넣은 이유가 눈에 띈다"
 description: "나이트다이브가 고전 잠입 게임 시프의 리마스터를 공식 확인했습니다."
 date: 2026-09-12T12:00:00
@@ -17,11 +17,8 @@ imageWidth: 1200
 imageHeight: 675
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
-
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
 
 나이트다이브가 고전 잠입 게임 시프의 리마스터를 공식 확인했습니다.
 
@@ -61,17 +58,6 @@ hideDescription: true
 
 새 캠페인의 분량과 제작진 구성은 더 공개될 필요가 있습니다라는 점은 함께 보셔야 합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 잠입 게임의 원형
 
 시프는 적을 쓰러뜨리는 것보다 빛과 소리, 경로를 이용해 들키지 않는 플레이를 강조한 작품입니다.
@@ -100,17 +86,6 @@ hideDescription: true
 
 다만 최종 그래픽 옵션이 어느 수준까지 바뀌는지는 확인이 필요합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 리마스터가 필요한 이유
 
 오래된 PC 게임은 운영체제와 화면 비율, 입력 장치 문제 때문에 원본을 그대로 즐기기 어려울 때가 많습니다.
@@ -134,17 +109,6 @@ hideDescription: true
 처음 공개된 숫자와 설명은 방향을 보여주지만 실제 이용 환경에서는 예상하지 못한 문제가 나올 수 있습니다.
 
 후속 발표와 이용자 반응을 함께 보시면 처음 기사만 읽었을 때보다 변화의 크기를 더 정확하게 판단할 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 실제 적용에서 볼 부분
 

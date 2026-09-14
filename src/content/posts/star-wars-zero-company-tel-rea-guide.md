@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 스타워즈 제로 컴퍼니에서 텔 레아 보코스는 눈에 띄는 캐릭터입니다. 스타워즈라는 이름이 붙은 만큼 광선검과 포스를 쓰는 존재는 자연스럽게 시선을 끌 수밖에 없고, 실제로도 분대 안에서 꽤 특별한 위치를 차지합니다.
 
 중요한 점은 텔 레아를 단순한 멋있는 제다이 캐릭터로만 보면 아쉽다는 것입니다. 이 캐릭터는 전투 성능뿐 아니라 분대 구성과 세계관 몰입감 양쪽에서 역할이 분명합니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 즉 일반 블라스터 오퍼레이터와 같은 기준으로만 보면 강점을 놓치기 쉽습니다. 독특한 역할과 기술 타이밍을 함께 보셔야 합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 분대 안에서 존재감이 큰 이유
 
 제로 컴퍼니는 네 명 안팎의 소규모 분대 중심 게임입니다. 이런 구조에서는 고유 역할을 가진 캐릭터 한 명이 전체 체감에 큰 영향을 줍니다.
@@ -65,17 +50,6 @@ hideDescription: true
 
 따라서 영구 사망을 켜고 플레이하신다면 텔 레아는 특히 조심해서 운용하시는 편이 좋습니다. 멋있다고 무리하게 앞세우기보다, 위험 부담과 보상을 같이 따져야 합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 시너지 중심으로 생각하면 좋다
 
 텔 레아 혼자 다 해결하게 두기보다, 분대가 텔 레아의 강점을 살려 주는 방향으로 보시는 편이 좋습니다. 앞에서 버텨 주는 캐릭터, 지원해 주는 캐릭터, 후방 정리 캐릭터와 함께 묶으면 훨씬 안정적으로 굴러갑니다.
@@ -87,17 +61,6 @@ hideDescription: true
 1점1 패치만 봐도 텔 레아 관련 수치 표기와 포스 공격 판정 문제, 특정 영웅 미션 관련 수정이 여러 항목에 등장합니다. 이는 그만큼 시스템적으로 비중 있는 캐릭터라는 뜻으로 읽을 수 있습니다.
 
 단순 인기 캐릭터가 아니라 실제 게임 내 중요도가 높은 캐릭터라고 보셔도 됩니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 텔 레아는 상징과 실전성이 같이 있다
 

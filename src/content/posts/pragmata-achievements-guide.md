@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 프라그마타는 스팀과 엑스박스 기준으로 도전 과제 35개가 있습니다. 플레이스테이션에서는 플래티넘 트로피가 추가되어 총수 차이가 있지만, 기본적으로 스토리와 수집, 전투, 고난도, 엔드게임을 모두 건드리는 구성입니다.
 
 한 번의 플레이로 전부 자연스럽게 끝나는 구조는 아니고, 루나틱 난도와 언노운 시그널까지 생각하면 최소 두 번의 흐름을 계획하는 편이 좋습니다. 처음부터 업적만 따라가기보다 회차를 나눠 정리하면 훨씬 편합니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 특히 100퍼센트 숫자만 보고 미니 캐빈과 탈출 해치를 놓치기 쉽습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 한 번 놓치기 쉬운 업적 주의
 
 일부 공략에서는 스위퍼 봇 관련 도전 과제를 놓치기 쉬운 항목으로 지적합니다. 등장 기회가 제한적이고 무작위성이 있어 보이면 가능한 한 처리해 두는 편이 안전합니다.
@@ -65,17 +50,6 @@ hideDescription: true
 
 첫 엔딩을 봤다고 바로 새 게임으로 넘어가지 마시고 현재 저장에서 언노운 시그널을 먼저 확인하시는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 루나틱은 별도 새 게임
 
 최고 난도인 루나틱은 첫 클리어 뒤 열리며 뉴 게임 플러스가 아니라 새 게임에서 시작해야 합니다. 장비와 업그레이드를 그대로 가져가서 쉽게 처리하는 방식이 아닙니다.
@@ -87,17 +61,6 @@ hideDescription: true
 뉴 게임 플러스에서는 장비와 여러 진행 요소를 유지하며 다시 시작할 수 있어 빌드 실험과 빠른 재플레이에 좋습니다. 다만 루나틱 업적을 노린다면 뉴 게임 플러스와 목적이 다릅니다.
 
 업적 100퍼센트가 목표라면 현재 저장 언노운 시그널, 별도 루나틱 새 게임 순서가 더 중요합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 두 회차 계획이 가장 깔끔하다
 
@@ -117,13 +80,3 @@ hideDescription: true
 
 또 엔드게임에서 얻는 장비와 보상은 다음 회차 빌드 실험에도 도움이 됩니다. 수집을 단순 숙제로만 보지 마시고 새로운 장비와 해킹 옵션을 여는 과정으로 생각하면 훨씬 덜 지루하게 진행할 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

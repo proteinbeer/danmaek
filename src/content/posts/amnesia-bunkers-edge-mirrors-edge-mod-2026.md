@@ -17,11 +17,8 @@ imageWidth: 1200
 imageHeight: 675
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
-
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
 
 지하 벙커에서 괴물에게 쫓기던 암네시아 더 벙커가 밝은 옥상 위를 달리는 파쿠르 게임으로 바뀌었습니다. 이용자 제작 모드 벙커스 엣지는 미러스 엣지의 달리기와 벽타기, 슬라이딩까지 암네시아 엔진 안에 구현했습니다.
 
@@ -41,17 +38,6 @@ hideDescription: true
 
 암네시아의 HPL 엔진은 어둠과 좁은 실내 공포를 위해 만들어진 이미지가 강합니다. 같은 엔진으로 밝고 넓은 옥상을 빠르게 이동하는 장면이 나온다는 것 자체가 모딩의 재미입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 괴물도 옥상까지 따라온다
 
 배경이 밝아졌다고 게임이 안전해지는 것은 아닙니다. 더 벙커의 괴물은 주인공 앙리를 따라 포털을 통과하고 옥상에서도 계속 추격합니다.
@@ -63,17 +49,6 @@ hideDescription: true
 실제 미러스 엣지처럼 매끄럽지는 않습니다. 슬라이딩이 어색하거나 벽을 뚫고 지형 안에 갇히는 문제도 있으며 제작 목적 자체가 상용 게임 수준의 완성품은 아닙니다.
 
 대신 원래 엔진으로 어디까지 다른 게임을 만들 수 있는지 보여주는 데 의미가 있습니다. 모드가 새로운 맵 추가를 넘어 장르까지 바꿀 수 있다는 사례입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 전체 플레이는 약 15분
 
@@ -88,17 +63,6 @@ hideDescription: true
 팬 모드는 개발사가 생각하지 않았던 방식으로 엔진의 가능성을 시험합니다. 벙커스 엣지처럼 완전히 다른 이동 시스템이 돌아가는 사례는 앞으로 프릭셔널이 자체 게임에서 더 넓은 공간과 빠른 움직임을 시도할 수 있다는 기술적 힌트가 되기도 합니다.
 
 물론 공식 게임이 미러스 엣지처럼 변할 가능성이 있다는 뜻은 아닙니다. 다만 모딩 도구를 공개하고 잼을 운영하면 이용자가 게임 수명을 늘리는 동시에 개발사에게 예상하지 못한 실험 결과를 돌려준다는 점에서 이런 작은 프로젝트도 의미가 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 공포게임은 밝아져도 무서울 수 있다
 

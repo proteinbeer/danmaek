@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 닌텐도가 네덜란드에서 스위치 보안 조치를 우회하도록 설계된 장치 판매를 둘러싼 소송에서 승리했습니다.
 
 법원은 해당 장치의 판매를 불법으로 판단했습니다.
@@ -51,17 +47,6 @@ hideDescription: true
 
 개조와 불법 복제는 같은 말이 아니다을 볼 때는 모든 개조를 같은 범주로 묶지 않는 것이 중요합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 연구와 보존, 접근성을 위한 사용과 상업적 불법 복제를 돕는 제품은 목적과 결과가 다르기 때문에 법과 정책에서도 구분이 필요합니다.
 
 제조사 역시 보안을 지켜야 하지만 오래된 게임과 기기를 보존할 합법적인 방법을 충분히 제공하지 않으면 반대쪽 논쟁은 계속 남습니다.
@@ -87,17 +72,6 @@ hideDescription: true
 다만 유럽에서 유사한 장치를 파는 업체는 이번 사례를 법적 위험 신호로 볼 수밖에 없습니다.
 
 기존 이용자와 처음 들어오는 이용자는 같은 변화를 다르게 받아들일 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 오래 플레이한 사람은 익숙한 방식의 변화에 민감하고 신규 이용자는 진입 장벽이 낮아졌는지를 먼저 봅니다.
 

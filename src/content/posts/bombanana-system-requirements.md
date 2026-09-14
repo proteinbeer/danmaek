@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 봄바나나는 화려한 그래픽을 앞세운 게임이 아니라서 PC 사양 부담이 비교적 낮은 편입니다. 저장 공간도 작고 내장 그래픽 수준을 최소 기준으로 제시해 오래된 노트북에서도 관심을 가지기 좋습니다.
 
 다만 온라인 협동과 음성 채팅이 핵심인 만큼 단순히 실행만 되는 것보다 네트워크와 마이크 환경까지 함께 보셔야 합니다.
@@ -46,17 +42,6 @@ hideDescription: true
 
 권장 기준은 인텔 코어 i5 8400이나 라이젠 5 2600, 메모리 16기가 수준입니다. 그래픽은 인텔 아이리스 Xe, 지포스 GTX 1050, 라데온 RX 560 정도라 최근 대형 게임과 비교하면 부담이 낮습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 저장 공간이 매우 작다
 
 윈도우 기준 필요한 저장 공간은 300메가 수준입니다. 대용량 게임처럼 설치 공간을 크게 비울 필요가 없습니다.
@@ -73,17 +58,6 @@ hideDescription: true
 
 공식 페이지에는 맥OS 사양도 따로 안내되어 있습니다. 애플 M1이나 비교적 오래된 인텔 맥도 최소 기준에 포함돼 친구들이 서로 다른 PC 환경을 쓰는 경우에도 접근하기 편합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 스팀 덱 지원도 안내됐다
 
 정식 출시 공지에서는 컨트롤러 지원과 함께 스팀 덱 지원을 출시 기능으로 소개했습니다. 휴대용으로 플레이하고 싶다면 반가운 부분입니다.
@@ -99,17 +73,6 @@ hideDescription: true
 버전이 오래되면 이미 수정된 문제를 그대로 겪을 수 있습니다.
 
 1점0점2 패치에서는 컨트롤러를 사용할 때 UI가 보이지 않던 문제가 수정됐습니다. 컨트롤러나 스팀 덱에서 이상한 화면 문제가 생기면 먼저 최신 버전인지 확인하시는 편이 좋습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 사양보다 네트워크가 더 중요하다
 

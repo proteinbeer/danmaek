@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 워드프레스 관리자 비밀번호를 잊어버리면 글을 수정하고 플러그인을 관리하는 모든 작업이 멈춥니다. 다행히 워드프레스는 비밀번호를 되찾을 수 있는 경로가 여러 개 있습니다.
 
 안 되는 방법 하나에 매달리지 말고, 이메일 재설정부터 데이터베이스 직접 수정까지 **순서대로** 시도하면 대부분 해결할 수 있습니다.
@@ -49,17 +45,6 @@ hideDescription: true
 
 로그인 화면이 열리는데 비밀번호만 틀리다고 나온다면 1번 또는 3번 방법으로 넘어가면 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. phpMyAdmin에서 비밀번호 직접 수정
 
 이메일이 오지 않을 때 가장 확실한 방법은 호스팅의 데이터베이스 화면(phpMyAdmin)에서 비밀번호를 바꾸는 것입니다.
@@ -81,13 +66,3 @@ hideDescription: true
 
 코드 삽입 방식은 실수가 나면 사이트가 깨질 수 있어 주의가 필요합니다. 확실하지 않다면 호스팅 고객센터가 비밀번호 초기화를 도와주는지 먼저 문의하는 것이 안전합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

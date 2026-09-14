@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 Wake on LAN을 설정하면 같은 네트워크에서 매직 패킷을 보내 꺼져 있거나 절전 중인 PC를 깨울 수 있습니다. 하지만 메인보드, 랜카드, 윈도우 전원 설정이 모두 맞아야 해서 한 군데만 빠져도 전혀 반응하지 않습니다.
 
 네트워크 문제는 한 번 꼬이면 공유기, PC, 통신사 가운데 어디가 원인인지 헷갈리기 쉽습니다. 반대로 확인 순서만 정해두면 같은 증상도 생각보다 빠르게 원인을 찾을 수 있습니다.
@@ -43,17 +39,6 @@ Wake on LAN을 설정하면 같은 네트워크에서 매직 패킷을 보내 �
 
 이 원인들은 서로 비슷한 증상을 만들 수 있습니다. 그래서 인터넷 속도 측정 결과나 오류 문구 하나만 보고 바로 결론을 내리기보다 물리 연결, 주소 설정, 공유기 역할을 차례로 나눠보는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. PC와 공유기에서 볼 부분
 
 PC를 끈 뒤에도 유선 LAN 포트 표시등이 살아 있는지 봅니다. 바이오스의 전원 관리와 Wake on LAN 관련 항목을 확인합니다. 장치 관리자에서 랜카드 전원 관리와 매직 패킷 설정을 봅니다.
@@ -65,17 +50,6 @@ PC를 끈 뒤에도 유선 LAN 포트 표시등이 살아 있는지 봅니다. �
 가능하면 유선 이더넷으로 구성합니다. 바이오스와 랜카드 양쪽에서 깨우기 기능을 활성화합니다. 먼저 같은 내부 네트워크에서 동작을 확인한 뒤 외부 접속 구성을 추가합니다.
 
 적용 뒤에는 바로 다음 설정으로 넘어가지 말고 같은 조건에서 다시 확인하시는 편이 좋습니다. 한 단계씩 바꿔야 어떤 조치가 실제로 문제를 해결했는지 알 수 있고, 나중에 같은 증상이 생겼을 때도 훨씬 빠르게 대응할 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 그래도 해결되지 않을 때
 
@@ -89,17 +63,6 @@ PC를 끈 뒤에도 유선 LAN 포트 표시등이 살아 있는지 봅니다. �
 
 네트워크 설정은 서로 연결돼 있어서 문제를 빨리 고치겠다고 초기화, 수동 IP, DNS 변경, 포트 설정을 한꺼번에 적용하면 오히려 원인을 잃을 수 있습니다. 바꾸기 전 값을 기록하고 한 번에 한 항목만 수정하는 습관이 중요합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 7. 마지막 판단 기준
 
 Wake on LAN은 버튼 하나를 켜는 기능이 아니라 전원이 꺼진 상태에서도 네트워크 일부를 살아 있게 만드는 협업 기능입니다. 그래서 운영체제만 설정해서는 부족하고 하드웨어 전원 상태까지 봐야 합니다.
@@ -112,13 +75,3 @@ Wake on LAN 안됨 설정은 한 번 맞춰두면 끝나는 것처럼 보여도 
 
 문제가 다시 생기면 처음 해결했던 설정을 그대로 반복하기보다 현재 링크 속도, IP 주소, 게이트웨이, 무선 대역처럼 기본 상태부터 다시 확인하시면 됩니다. 네트워크는 장비 하나가 아니라 연결된 전체 구조가 함께 움직이기 때문에 작은 변화가 다른 구간에 영향을 줄 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

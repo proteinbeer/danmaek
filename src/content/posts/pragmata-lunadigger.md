@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 루나디거는 프라그마타 후반부에서 이동 감각과 해킹 타이밍을 동시에 흔드는 보스입니다. 저중력 환경과 짧은 공격 기회가 겹치면서 평소 익숙했던 회피 거리와 공격 타이밍이 달라져 처음에는 상당히 어색할 수 있습니다.
 
 핵심은 새로운 환경에 맞춰 욕심을 줄이는 것입니다. 해킹과 공격을 빠르게 끝내려 하기보다 루나디거가 확실히 드러나는 순간을 기다리고, 한 번의 오픈 시간에 안정적으로 피해를 넣는 편이 좋습니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 억지로 공격 기회를 만들려고 추격하면 오히려 다음 패턴에 걸리기 쉽습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 원거리 공격 유닛이 편하다
 
 차지 피어서처럼 거리 영향을 덜 받고 강한 한 발을 넣는 장비는 루나디거와 잘 맞습니다. 움직임과 거리 변화가 커도 오픈 순간에 안정적으로 피해를 넣을 수 있기 때문입니다.
@@ -65,17 +50,6 @@ hideDescription: true
 
 저중력에서는 이동 실수가 더 위험하므로 해킹 자체를 단순하게 만드는 선택이 특히 유효합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 방어 유닛으로 공격 타이밍 확보
 
 보스가 공격을 몰아칠 때 디코이 제너레이터나 상황에 맞는 방어 유닛을 사용하면 해킹과 충전 사격 시간을 확보하기 쉽습니다. 후반 보스일수록 방어 장비가 공격력 역할을 합니다.
@@ -87,17 +61,6 @@ hideDescription: true
 루나디거 전투는 후반으로 갈수록 실수 여유가 줄어들 수 있습니다. 첫 오픈에서 모든 강한 장비를 써버리기보다 후반 페이즈용 자원을 남겨두는 편이 좋습니다.
 
 오버드라이브도 어려워지는 구간에 맞춰 쓰면 해킹 부담을 크게 줄일 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 환경에 적응하면 급격히 쉬워진다
 
@@ -119,13 +82,3 @@ hideDescription: true
 
 막히는 구간이 생기면 같은 장비로 계속 반복하기보다 쉴터에 돌아가 한 번 구성부터 다시 보시는 편이 좋습니다. 프라그마타는 장비 하나와 해킹 노드 하나만 바꿔도 같은 전투의 난도가 크게 달라지는 게임입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

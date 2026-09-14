@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 몬스터헌터 와일즈에서 방어구는 단순한 방어력 수치가 아니라 원거리·근거리 대응력을 결정하는 스킬의 집합입니다. 같은 공격력이라도 스킬 구성이 좋은 세트와 아닌 세트는 실질 DPS가 크게 달라지므로, 단계마다 필요한 스킬을 먼저 확인하고 소재를 모으는 것이 효율적입니다.
 
 이 글은 로우랭크 초반의 시작 세트부터 하이랭크 진입, 엔드게임의 부위 조합까지를 진행 순서에 맞춰 정리했습니다. 각 단계에서 어느 세트를 만들고 언제 버려야 하는지가 핵심입니다.
@@ -41,17 +37,6 @@ hideDescription: true
 
 도슈구마 세트는 공격 2와 체력이 붙어 초반 딜링에도 도움이 되고, 발라하라 세트는 회피거리 확장과 빠른 납도로 기동성 위주 플레이에 맞습니다. 흔히 3발라하라 + 2알로이 조합으로 회피거리 확장과 퀵 시스(빠른 납도)를 함께 챙기는 구성이 초반 정석으로 쓰입니다. 로우랭크 방어구는 딱 한 두 단계만 쓰고 넘어가므로 소재를 과투자하지 않는 것이 요령입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 로우랭크 후반 추천 방어구
 
 로우랭크 후반부터는 공격 스킬이 본격적으로 등장합니다. 아자라칸 세트는 파트브레이커 3과 폭발병 2를 갖춰 부위 파괴와 폭발 데미지에 특화되어 있고, 레이 도 세트는 잠복 파워 3과 내진 3으로 스태미너 관리와 회심에 강합니다. 잦은 콤보를 쓰는 쌍검·활 유저에게 레이 도 세트가 특히 잘 맞습니다.
@@ -63,17 +48,6 @@ hideDescription: true
 하이랭크는 챕터 3 보스 조 시아를 물리친 뒤 시작됩니다. 하이랭크부터 모든 세트가 알파와 베타 두 버전으로 갈립니다. 알파는 미리 붙어 있는 스킬이 많고 장식주 슬롯이 적으며, 베타는 기본 스킬을 일부 포기하는 대신 크고 많은 장식주 슬롯을 제공합니다.
 
 장식주를 어느 정도 모은 뒤에는 베타가 압도적으로 유리합니다. 빈 슬롯에 필요한 스킬을 직접 채워 넣을 수 있기 때문에, 알파는 관련 장식주가 전혀 없을 때만 고려하는 것이 좋습니다. 같은 세트라도 알파·베타의 방어력은 동일하므로 스킬 vs 슬롯의 선택지로 보면 됩니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 하이랭크 추천 세트
 
@@ -87,13 +61,3 @@ hideDescription: true
 
 하이랭크 후반 스킬 우선순위는 약점 특효 3 → 회심격 → 회심 눈 → 아기테이터 → 공격 순서입니다. 회심 확률 80% 이상을 먼저 확보한 뒤 회심격 스킬을 투자하는 것이 효율적이며, 안정성이 필요한 빌드는 체력 3이나 방어 4를 슬롯에 넣습니다. 엔드게임 소재는 템퍼드 몬스터와 조사 퀘스트에서 나오므로, 파츠 조합을 지향할수록 소재 활용이 좋아집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

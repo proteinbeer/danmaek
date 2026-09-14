@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 더 블러드 오브 던워커의 핵심은 보스가 아니라 달력입니다. 코엔에게는 여동생을 찾을 30일, 즉 총 480시간 단위의 예산이 주어지고, 하루는 낮 단계와 밤 단계로 나뉩니다. 이 예산을 어떻게 쓰느냐에 따라 같은 게임이라도 보는 콘텐츠가 완전히 달라집니다.
 
 이 게임에서 "퀘스트를 어떤 순서로 돌까"는 취향이 아니라 예산 문제입니다. 전체 퀘스트를 가장 싼 쪽으로 잡으면 약 418시간 단위로, 이론상 100% 완주에도 완충이 겨우 남습니다. 이 글에서는 그 완충을 지키는 순서와 판단 기준을 정리했습니다.
@@ -46,17 +42,6 @@ hideDescription: true
 
 다만 캠페인 막턱까지 내달르는 것은 피하세요. 그 경우 예산 대부분을 쓰지 않은 채 엔딩으로 끝나므로, 메인이 빠른 만큼 남은 시간이 바로 부가 콘텐츠 예산임을 기억해야 합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 고정 시간대 퀘스트부터 소진
 
 낮 전용 퀘스트는 25개, 밤 전용 퀘스트는 13개뿐이고 나머지는 어느 단계에서든 진행할 수 있습니다. 유연한 퀘스트가 많다는 것이 바로 이 게임에서 실제로 관리하는 자원입니다.
@@ -72,17 +57,6 @@ hideDescription: true
 이런 비싼 퀘스트는 예산에 여유가 있을 때 수락 여부를 결정하는 편이 좋습니다. 사실을 확인한 뒤 "지금 이거까지 감당할 수 있나"를 시점에 맞춰 다시 판단해야 하며, 버린다고 해서 억울할 필요는 없습니다.
 
 무엇을 하지 않을지 정하는 것도 일정의 일부입니다. 선택과 집중의 무게는 이 게임의 가장 큰 재미이자, 여러 엔딩을 보기 위한 다회차의 이유이기도 합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 무료 활동을 이동과 묶기
 
@@ -100,13 +74,3 @@ hideDescription: true
 
 마지막으로 결말 분기를 노린다면 최종 퀘스트 직전의 세이브를 남겨두세요. 시간이 다 되기 전의 지점에서 저장해 두면 같은 30일을 기준으로 다른 선택을 시도할 수 있어, 한 회차 정보를 다른 엔딩에 재활용할 수 있습니다. 여유는 실력이고, 계획은 곧 즐거움입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

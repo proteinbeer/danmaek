@@ -18,11 +18,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
-
 어제까지 괜찮았던 컴퓨터가 갑자기 느려졌다면 윈도우를 다시 설치하기 전에 작업 관리자부터 확인해보시는 것이 좋습니다.
 
 컴퓨터가 갑자기 느려지면 포맷하고 윈도우를 다시 설치하고 싶은 생각이 들기 쉽습니다. 하지만 대부분의 경우 원인은 소프트웨어적인 문제로, 포맷 없이도 해결할 수 있습니다. 작업 관리자를 열어 어떤 부품이 과부하 상태인지부터 확인하면 원인을 빠르게 찾을 수 있습니다. 이 글에서는 포맷 전에 반드시 확인해야 할 항목을 정리했습니다.
@@ -45,17 +40,6 @@ CPU, 메모리, 디스크 사용량이 계속 90% 이상인 프로그램이 있�
 
 메신저, 업데이트 확인 프로그램, 클라우드 동기화 도구 등이 시작 시 자동 실행되는 항목 중 흔합니다. 당장 필요한 것만 남겨두고 나머지는 비활성화하면 부팅 속도와 초기 반응 속도가 크게 개선될 수 있습니다. 시작 앱을 정리한 뒤에는 컴퓨터를 다시 시작해보시면 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 저장 공간 확인
 
 C드라이브 여유 공간이 거의 없다면 윈도우와 프로그램이 느려질 수 있습니다. 저장소 설정에서 큰 파일과 임시 파일을 확인해보시면 됩니다.
@@ -71,17 +55,6 @@ SSD(솔리드 스테이트 드라이브)는 빈 공간이 적을수록 성능이
 윈도우 업데이트나 게임, 백신 프로그램의 업데이트가 백그라운드에서 진행 중이면 디스크 사용량과 인터넷 사용량이 순간적으로 크게 올라가면서 컴퓨터가 느려질 수 있습니다. 특히 업데이트 직후에는 인덱싱이나 정리 작업으로 잠시 느려지기도 합니다.
 
 작업 관리자의 **프로세스**에서 "Windows 업데이트", 게임 플랫폼(스팀, 에픽 등) 업데이트, 백신 검사 항목이 높은 사용량을 보이고 있다면, 업데이트가 끝날 때까지 잠시 기다리거나 불필요한 자동 업데이트를 끄는 방법을 고려해보시면 됩니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 재부팅 후에도 느리다면
 

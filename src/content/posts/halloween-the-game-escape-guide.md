@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 할로윈 더 게임에서 민간인의 탈출은 출구 위치 하나를 외우는 방식으로 해결되지 않습니다. 탈출 후보와 필요한 아이템 위치가 매치마다 달라질 수 있고, 탈출을 실제로 가동하는 순간 큰 소음이 발생해 마이클에게 위치가 노출되기 때문입니다.
 
 그래서 탈출은 마지막 버튼을 누르는 순간보다 그 전 준비가 더 중요합니다. 어떤 루트를 발견했는지, 무엇이 필요한지, 주민과 동료가 어디에 있는지를 하나씩 연결해야 합니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 누가 어떤 물건을 들고 있는지 공유하지 않으면 같은 지역을 여러 명이 반복해서 찾게 됩니다. 한 명은 탈출 지점을 확인하고, 다른 한 명은 주변 상자를 수색하고, 나머지는 주민과 경찰을 관리하는 식으로 역할을 나누면 준비 시간이 크게 줄어듭니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 소음이 마이클을 부른다
 
 탈출 시퀀스를 시작하면 큰 소음이 발생하며 마이클에게 정확한 위치가 알려집니다. 이 때문에 탈출 수단은 발견 즉시 작동시키는 목표가 아니라 팀이 모일 준비가 끝난 뒤 열어야 하는 마지막 단계에 가깝습니다.
@@ -64,17 +49,6 @@ hideDescription: true
 마이클은 어둠과 시야 밖에서 셰이프 점프를 사용해 빠르게 접근할 수 있습니다. 탈출 지점 주변이 어둡고 골목이 많다면 준비 전에 조명과 진입 방향을 확인하시는 것이 좋습니다.
 
 반대로 넓고 밝은 공간에서는 민간인 여러 명이 서로 다른 방향을 바라보는 것만으로도 마이클의 위치 변경을 제한할 수 있습니다. 한 명이 작업하는 동안 다른 사람이 주변을 살피는 이유가 바로 여기에 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 주민을 데리고 나갈 준비
 
@@ -89,17 +63,6 @@ hideDescription: true
 이미 탈출 준비가 끝났고 팀 상태가 좋지 않다면 굳이 싸움을 늘리기보다 빠져나가는 편이 낫습니다. 반대로 탈출 루트가 마이클에게 완전히 장악됐고 경찰이 충분히 모였다면 체포 압박으로 판을 뒤집는 선택을 고려할 수 있습니다.
 
 탈출은 하나의 고정 공략보다 상황 판단 게임에 가깝습니다. 출구, 아이템, 주민, 경찰, 마이클의 위치를 따로 보지 말고 하나의 준비 단계로 묶어서 생각하시면 매 판 바뀌는 구조에도 훨씬 쉽게 적응할 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 출구 하나에 집착하지 않기
 

@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 HDR 모니터를 샀는데 윈도우에서 기능을 켜자 바탕화면이 회색처럼 뜨거나 색이 이상해졌다고 느끼는 경우가 있습니다.
 
 HDR은 켜기만 하면 무조건 좋아지는 설정이 아니라 모니터, 케이블, 콘텐츠, 윈도우 설정이 함께 맞아야 차이가 제대로 보입니다.
@@ -61,17 +57,6 @@ HDR 설정에는 SDR 콘텐츠 밝기를 조정할 수 있는 항목이 제공�
 
 윈도우 설정과 모니터 자체 영상 모드를 동시에 크게 바꾸면 무엇이 원인인지 찾기 어려워집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 자동 HDR은 모든 게임용 기능이 아니다
 
 윈도우 11의 자동 HDR은 원래 SDR로 제작된 일부 게임의 색 범위와 밝기를 HDR 방식으로 확장해 보여주는 기능입니다.
@@ -99,17 +84,6 @@ HDR 설정에는 SDR 콘텐츠 밝기를 조정할 수 있는 항목이 제공�
 설정에서 고급 디스플레이를 확인하면 현재 해상도와 주사율을 함께 볼 수 있습니다.
 
 HDR 문제처럼 보여도 실제로는 연결 방식 때문에 다른 표시 설정이 내려가 있는 경우가 있죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. HDR은 콘텐츠에 맞춰 판단
 
@@ -139,13 +113,3 @@ HDR은 다른 사람의 추천 수치를 그대로 복사하는 것보다 본인
 
 같은 모델이라도 사용 환경과 밝기 설정에 따라 보기 좋은 지점이 달라질 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

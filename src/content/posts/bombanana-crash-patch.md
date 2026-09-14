@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 봄바나나는 출시 직후 빠르게 패치가 이어지고 있습니다. 9월 3일 1점0점1 핫픽스에서 음성 채팅 문제를 수정했고, 9월 10일 1점0점2에서는 매치메이킹과 난도 조정, 컨트롤러 UI, 로비 코드, 음성 시스템 개선이 들어갔습니다.
 
 출시 초기에는 무작위 충돌이 알려진 문제로 안내되기도 했기 때문에 실행 오류나 튕김이 있다면 오래된 해결법을 무작정 따라가기보다 현재 버전부터 확인하시는 편이 좋습니다.
@@ -46,17 +42,6 @@ hideDescription: true
 
 업데이트가 끝났는데도 이상하면 스팀을 완전히 종료한 뒤 다시 실행해 보시면 됩니다. 클라이언트가 오래 켜져 있으면 새 파일이나 온라인 상태가 제대로 반영되지 않는 경우가 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 파일 무결성을 검사한다
 
 실행 직후 튕기거나 특정 구간에서 반복적으로 종료된다면 스팀 파일 검사를 먼저 해볼 만합니다. 손상되거나 빠진 파일이 있으면 자동으로 다시 받아줍니다.
@@ -72,17 +57,6 @@ hideDescription: true
 특히 음성 채팅 문제와 튕김이 함께 있다면 오디오 관련 프로그램을 먼저 확인하시면 됩니다.
 
 스팀 오버레이, 녹화 프로그램, 각종 모니터링 도구를 많이 켜두었다면 잠시 줄여보시는 편이 좋습니다. 저사양 PC에서는 메모리 여유가 줄면서 멀티플레이 중 끊김이나 튕김이 더 쉽게 나타날 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 컨트롤러 문제는 1점0점2 확인
 
@@ -100,17 +74,6 @@ hideDescription: true
 
 마이크가 안 되는 문제와 게임 자체가 튕기는 문제는 따로 보셔야 합니다. 음성만 문제라면 입력 장치와 스팀 음성 설정부터 보고, 프로그램 전체가 종료된다면 파일과 백그라운드 앱 쪽을 먼저 확인하는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 7. 문제를 재현할 조건을 확인한다
 
 특정 모드에서만 튕기는지, 특정 사람과 로비를 만들 때만 문제가 생기는지, 게임 시작 직후인지 몇 판 뒤인지 기록해두시면 원인 파악이 쉬워집니다.
@@ -125,13 +88,3 @@ hideDescription: true
 
 출시 초기 게임은 커뮤니티 해결법보다 공식 패치 흐름을 먼저 보는 것이 안전합니다. 큰 시스템 변경이나 보안 기능 해제처럼 위험한 방법을 따라 하기 전에 최신 수정 내역과 알려진 문제부터 확인하시는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

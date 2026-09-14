@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 봄바나나 정식판은 폭탄 퍼즐만 어려워지는 게임이 아닙니다. 정전, 시야를 가리는 물체, 큰 소음 같은 환경 방해가 발생해 세 역할의 통신 자체를 흔듭니다. 익숙한 퍼즐도 환경이 바뀌면 갑자기 어렵게 느껴지는 이유입니다.
 
 이런 상황에서는 퍼즐 답을 더 빨리 찾으려고 하기보다 통신 채널을 복구하는 것이 먼저입니다. 정보가 틀린 상태에서 속도만 올리면 오히려 폭발 가능성이 커집니다.
@@ -46,17 +42,6 @@ hideDescription: true
 
 큰 소음이 생기면 긴 설명을 포기하고 핵심 단어만 사용하시는 편이 좋습니다. 평소보다 더 크게 말하는 것보다 정지 신호를 보내고 한 문장씩 전달하는 방식이 정확합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 장애물이 생기면 시선부터 확보한다
 
 벙어리 원숭이의 손짓은 귀머거리에게 보여야 의미가 있습니다. 환경 요소가 시선을 막는다면 퍼즐을 계속 풀기보다 서로 볼 수 있는 위치를 먼저 확보해야 합니다.
@@ -73,17 +58,6 @@ hideDescription: true
 
 환경 방해가 나왔을 때 누가 먼저 대응할지 시작 전에 정해 두시면 좋습니다. 모두가 동시에 방해 요소에 신경 쓰면 원래 풀던 모듈 상태를 아무도 기억하지 못하는 상황이 생깁니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 방해가 끝난 뒤 상태를 다시 맞춘다
 
 정전이나 장애물 문제를 해결했다고 곧바로 이전 지시를 이어가면 안 됩니다. 방해 중에 폭탄 상태가 바뀌었거나 누군가 행동했을 수 있습니다.
@@ -99,17 +73,6 @@ hideDescription: true
 캠페인 후반이나 엔들리스 기록 도전에 들어가기 전에 해볼 만합니다.
 
 환경 요소가 특히 어렵다면 커스텀에서 일부러 반복해 보시는 편이 좋습니다. 퍼즐 난도를 낮추고 정전이나 소음만 연습하면 방해가 생겼을 때 팀이 어떤 순서로 움직일지 쉽게 정할 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 환경 방해는 퍼즐이 아니라 팀워크 시험이다
 

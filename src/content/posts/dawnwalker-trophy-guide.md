@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 더 블러드 오브 던워커의 트로피는 플레이스테이션 기준 47개입니다. 플래티넘 1, 골드 3, 실버 5, 브론즈 38로 구성되며, 스팀과 엑스박스는 플래티넘 없는 46개입니다. 목록 자체는 위처 3의 유산답게 완료율이 낮은 편이 아니라, 저장 관리만 잘하면 한 번의 플레이로 대부분을 채울 수 있습니다.
 
 다만 19개가 조건에 따라 놓치는 유실 위험 요소이며, 최고 난이도 클리어 트로피는 별도 플레이를 요구합니다. 이 글에서는 전체 구조, 놓치기 쉬운 트로피, 엔딩 실버의 백업법, 그리고 플래티넘을 여는 순서를 정리했습니다.
@@ -46,17 +42,6 @@ hideDescription: true
 
 선택지형은 특정 단계를 지나면 영구히 막힙니다. '페럴 헝거'(전투 밖에서 통제를 잃고 사람을 흡혈하기)는 평범한 플레이에선 자동으로 나오지 않으므로 의도적으로 낮은 체력으로 밤 대화를 하는 설정이 필요합니다. '더 마뉴밋'(크레이크의 비밀 전부 알기)과 '미저리 러브스 컴퍼니'(라크라와 만드레이크)는 연애 퀘스트 라인의 마지막 단계까지 진행해야 합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 엔딩 실버 네 개의 수집 순서
 
 엔딩 트로피 넷은 같은 저장에서 순서대로 보면 됩니다. 핵심은 세 보스 대면 후 하루를 넘겨 최종 퀘스트가 뜬 시점에 저장 C를 남기는 것입니다. 이 저장에서 포크 히어로(홀로 싸우기)와 턴코트(거래 선택)를 확인합니다.
@@ -72,17 +57,6 @@ hideDescription: true
 '인 더 닉 오브 타임'은 스토리를 밀면 자연히 따라옵니다. 궁정 활동만 추려도 대면이 10일 안에 끝나므로, 초반에 멀리에만 머물지 않으면 30일 전 예약에 여유가 있습니다. '더 블러드 오브 던워커' 골드는 아무 엔딩이나 하나 보고 끝나는 스토리 트로피라 신경 쓸 필요가 없습니다.
 
 레벨 50의 '글라스 실링'은 실버이고, 스토리를 성급하게 달렸다면 경험치가 부족할 수 있습니다. 무료 야수 사냥과 관심 지점 탐색을 습관화하면 자연스럽게 도달하며, 마지막이 아쉬우면 최종전 직전에 남은 활동을 정리하는 것이 좋습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 경제와 스킬 트리 트로피
 
@@ -100,13 +74,3 @@ hideDescription: true
 
 '밸런스드 다이어트'는 동물·인간·몬스터 합쳐 10회 흡혈을 요구하므로, 평소 야수 앞에서 흡혈을 습관화하면 해결됩니다. 마지막으로 '앱솔루틀리 인세이셔블'은 패시브 능력 3개 동시 장착 조건으로, 스킬 창을 확인만 하면 됩니다. 어떤 트로피든 완료 조건을 보고 소모한 자원을 아끼려 하기보다, 트로피가 요구하는 행동을 반복하는 것만으로 채워지도록 설계하는 편이 빠릅니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

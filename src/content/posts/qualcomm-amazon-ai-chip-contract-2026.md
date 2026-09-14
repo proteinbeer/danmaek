@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 퀄컴과 아마존이 AI 데이터센터용 맞춤형 칩과 연결 기술을 함께 개발하는 장기 계약을 맺었습니다.
 
 아마존은 조건에 따라 최대 600억달러 규모의 제품을 구매할 수 있습니다.
@@ -50,17 +46,6 @@ hideDescription: true
 AI 인프라 계약이 칩 판매와 금융 관계까지 얽히는 구조입니다.
 
 새 기술이 빠르게 확산될수록 표준과 책임의 문제도 함께 커집니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 한 회사의 기능으로 시작해도 다른 서비스와 연결되는 순간 호환성과 검증 방식이 중요해집니다.
 
@@ -93,17 +78,6 @@ AI 모델과 데이터가 커질수록 한 칩 안에서 끝낼 수 없고 여�
 AI 서버에서는 여러 칩 사이 데이터를 얼마나 빠르게 보내는지가 성능을 좌우합니다.
 
 기술 발표는 기능표보다 실제 사용 환경에서 의미가 갈립니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 보안과 가격, 개인정보, 전력 같은 보이지 않는 조건이 따라오지 않으면 편리함만으로 오래 쓰기 어렵습니다.
 

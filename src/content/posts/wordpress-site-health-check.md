@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 워드프레스 도구 메뉴의 사이트 건강도를 열면 사이트 상태와 개선 항목이 표시됩니다.
 
 점수를 높이는 기능처럼 보이지만 실제 가치는 서버와 워드프레스 환경을 한곳에서 확인하고 문제가 커지기 전에 단서를 찾는 데 있습니다.
@@ -47,17 +43,6 @@ hideDescription: true
 
 오래된 PHP 버전, 백그라운드 요청 실패, 업데이트 문제처럼 핵심 기능과 연결된 경고는 이유를 확인하셔야 합니다. 경고를 없애기 위해 기능을 무작정 끄는 방식은 추천하지 않습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 서버 정보는 오류 해결의 지도
 
 정보 화면에서는 PHP 버전, 메모리, 최대 업로드 크기, 데이터베이스 버전과 같은 값을 확인할 수 있죠.
@@ -73,17 +58,6 @@ hideDescription: true
 사이트 건강도에서 관련 경고가 보인다면 실제로 필요한 백업용 테마를 제외하고 사용하지 않는 항목을 정리할 수 있습니다.
 
 비활성화됐다고 파일이 사라진 것은 아닙니다. 취약한 오래된 플러그인이 서버에 그대로 남아 있는 상황을 줄이는 차원에서도 필요 없는 항목은 삭제하는 편이 깔끔합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 자동 업데이트 관련 경고
 
@@ -101,17 +75,6 @@ hideDescription: true
 
 사이트 건강도는 속도 점수판이 아니라 워드프레스 환경 진단 도구에 가깝습니다. 성능은 페이지 속도 측정과 서버 사용량을 별도로 확인하시는 편이 맞죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 7. 고객센터 문의 전에 복사해둘 정보
 
 호스팅이나 플러그인 개발사에 오류를 문의할 때 워드프레스 버전, PHP 버전, 활성 테마와 플러그인 정보를 요구하는 경우가 많습니다.
@@ -128,13 +91,3 @@ hideDescription: true
 
 치명적 문제, 권장 개선, 서버 정보 순으로 확인하시면 됩니다. 모든 항목을 억지로 없애기보다 내 사이트에 실제 영향을 주는 경고부터 처리하는 것이 더 현실적인 운영 방식입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

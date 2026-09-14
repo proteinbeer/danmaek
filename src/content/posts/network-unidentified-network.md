@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 랜선을 꽂았는데 윈도우가 식별되지 않은 네트워크라고 표시하면 케이블은 연결됐어도 정상적인 네트워크 정보를 받지 못했을 가능성이 큽니다. 이때 공유기 재부팅만 반복하기보다 IP 주소가 어떻게 잡혔는지부터 보는 편이 좋습니다.
 
 설정 화면에 비슷한 용어가 많아서 어려워 보이지만 핵심은 단순합니다. 연결이 어디까지 정상이고 어느 지점부터 달라지는지 확인하면 불필요한 초기화를 줄일 수 있습니다.
@@ -43,17 +39,6 @@ DHCP에서 IP 주소를 받지 못한 경우. 수동 IP가 현재 공유기 대�
 
 이 원인들은 서로 비슷한 증상을 만들 수 있습니다. 그래서 인터넷 속도 측정 결과나 오류 문구 하나만 보고 바로 결론을 내리기보다 물리 연결, 주소 설정, 공유기 역할을 차례로 나눠보는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. PC와 공유기에서 볼 부분
 
 ipconfig에서 IPv4 주소와 기본 게이트웨이를 확인합니다. 169.254 주소가 잡혔다면 DHCP 실패 가능성을 우선 봅니다. 공유기 관리자 화면에서 해당 PC가 연결 기기로 보이는지 확인합니다.
@@ -65,17 +50,6 @@ ipconfig에서 IPv4 주소와 기본 게이트웨이를 확인합니다. 169.254
 IP와 DNS를 자동 할당으로 바꿉니다. 랜카드를 비활성화했다 다시 켜서 DHCP 요청을 새로 보냅니다. 그래도 안 되면 네트워크 초기화보다 공유기 DHCP 설정을 먼저 확인합니다.
 
 적용 뒤에는 바로 다음 설정으로 넘어가지 말고 같은 조건에서 다시 확인하시는 편이 좋습니다. 한 단계씩 바꿔야 어떤 조치가 실제로 문제를 해결했는지 알 수 있고, 나중에 같은 증상이 생겼을 때도 훨씬 빠르게 대응할 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 그래도 해결되지 않을 때
 
@@ -89,17 +63,6 @@ IP와 DNS를 자동 할당으로 바꿉니다. 랜카드를 비활성화했다 �
 
 네트워크 설정은 서로 연결돼 있어서 문제를 빨리 고치겠다고 초기화, 수동 IP, DNS 변경, 포트 설정을 한꺼번에 적용하면 오히려 원인을 잃을 수 있습니다. 바꾸기 전 값을 기록하고 한 번에 한 항목만 수정하는 습관이 중요합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 7. 마지막 판단 기준
 
 이 문구는 원인명이 아니라 윈도우가 네트워크 정체를 아직 파악하지 못했다는 결과에 가깝습니다. 이름에 매달리기보다 IP, 게이트웨이, DHCP 세 가지를 보면 훨씬 빨리 좁혀집니다.
@@ -112,13 +75,3 @@ IP와 DNS를 자동 할당으로 바꿉니다. 랜카드를 비활성화했다 �
 
 문제가 다시 생기면 처음 해결했던 설정을 그대로 반복하기보다 현재 링크 속도, IP 주소, 게이트웨이, 무선 대역처럼 기본 상태부터 다시 확인하시면 됩니다. 네트워크는 장비 하나가 아니라 연결된 전체 구조가 함께 움직이기 때문에 작은 변화가 다른 구간에 영향을 줄 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 워드프레스 사용법을 검색해 외모, 메뉴로 들어가라는 설명을 따라갔는데 내 관리자 화면에는 메뉴 항목 자체가 없는 경우가 있습니다.
 
 최근 블록 테마에서는 내비게이션을 사이트 편집기와 내비게이션 블록에서 관리하기 때문에 예전 클래식 테마와 화면이 다를 수 있죠.
@@ -47,17 +43,6 @@ hideDescription: true
 
 메뉴를 만들었다고 화면에 자동으로 나타나는 것은 아닐 수 있죠. 실제 헤더에 내비게이션 블록이 있고 그 블록이 원하는 메뉴를 사용하도록 연결돼 있어야 합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 메뉴를 만들었는데 안 보이는 이유
 
 새 내비게이션을 저장했는데 사이트 헤더에는 예전 메뉴가 그대로 보인다면 헤더의 내비게이션 블록이 다른 메뉴를 선택하고 있을 수 있습니다.
@@ -73,17 +58,6 @@ hideDescription: true
 특정 항목 아래에 하위 메뉴를 넣을 때도 원하는 링크를 하위 구조로 배치하는 방식으로 관리합니다.
 
 구조가 복잡해지면 화면에서 드래그하는 것보다 목록 보기를 사용하는 편이 정확합니다. 어떤 링크가 어느 상위 메뉴 안에 들어갔는지 계층을 한눈에 보기 쉽죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 페이지를 만들었다고 메뉴에 자동 추가되지는 않는다
 
@@ -101,17 +75,6 @@ hideDescription: true
 
 최근 내비게이션 블록은 사용 중인 메뉴 이름을 확인하기 쉬워졌지만 처음부터 용도 중심으로 이름을 정해두는 것이 관리에 유리합니다. 메뉴 복사본을 만들 때도 테스트인지 운영용인지 표시하시면 좋죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 7. 헤더 수정은 전체 페이지에 영향을 준다
 
 헤더의 내비게이션은 여러 페이지가 공통으로 사용하는 템플릿 파트에 들어가는 경우가 많습니다.
@@ -128,13 +91,3 @@ hideDescription: true
 
 사이트 편집기 확인, 내비게이션 목록 확인, 헤더 블록 연결, 저장과 캐시 확인 순서로 보시면 됩니다. 예전 설명에서 외모, 메뉴를 찾지 못했다고 플러그인을 설치할 필요는 없습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

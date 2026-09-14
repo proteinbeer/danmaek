@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 메이플 키우기는 접속을 끊어도 성장이 이어지는 방치형 게임입니다. 다만 오프라인 보상이 무한정 쌓이는 것이 아니라 상한이 있어서, 상한을 넘기면 그 시간만큼 손해가 발생합니다.
 
 이 글에서는 오프라인 보상의 누적 규칙과, 이를 기준으로 설계하면 좋은 하루 접속 루틴을 정리합니다.
@@ -41,17 +37,6 @@ hideDescription: true
 
 아침과 저녁으로 나누어 접속하는 루틴이 가장 흔합니다. 하루 1번만 접속하면 나머지 시간의 보상 손해가 생길 수 있어, 최소 아침·저녁 2회 접속을 추천합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 자동 사냥과 오프라인의 차이
 
 접속 중 자동 사냥은 그 순간의 사냥 속도로 재화를 쌓습니다. 오프라인 보상은 접속하지 않은 시간 동안 상한 안에서 지급되는 것으로, 두 방식은 별도로 돌아갑니다.
@@ -63,17 +48,6 @@ hideDescription: true
 오프라인 보상과 함께 광고 보상을 챙기면 재화 수급이 크게 늘어납니다. 광고 보상은 하루 제한이 있지만 모두 사용하지 않아도 일정 횟수는 채우는 것을 권장합니다.
 
 보상을 비우러 접속한 김에 광고 보상을 한 번에 몰아 받는 것도 효율적입니다. 접속 횟수를 줄이고 보상 밀도를 높이는 방식이라 바쁜 날에도 적용하기 좋습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 주간 단위 보상의 구조
 
@@ -87,13 +61,3 @@ hideDescription: true
 
 마지막으로 연속 접속 보상과 일일 퀘스트를 함께 마무리하면 하루 재화 수급이 완성됩니다. 같은 접속이라도 회수 순서를 정리해두면 시간 대비 보상이 달라집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

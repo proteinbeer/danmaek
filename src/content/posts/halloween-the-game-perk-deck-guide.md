@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 할로윈 더 게임의 민간인은 단순 레벨업 외에 특전 카드와 특전 덱을 이용해 플레이 성향을 바꿀 수 있습니다. 매치를 완료하면 특전 포인트를 얻고, 이 포인트를 사용해 카드를 뽑은 뒤 자신이 원하는 덱을 구성하는 방식입니다.
 
 처음에는 높은 희귀도 카드를 빨리 얻는 데만 집중하기 쉽지만, 이 시스템은 뽑기와 덱 구성, 일시 강화가 모두 같은 포인트를 사용합니다. 초반에는 한 번에 몰아 쓰기보다 자신의 캐릭터 역할을 확인하면서 카드 풀을 넓히는 편이 안정적입니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 그렇다고 첫날부터 비싼 뽑기만 반복할 필요는 없습니다. 어떤 캐릭터를 주로 사용할지 정해지지 않았다면 여러 역할에 쓸 수 있는 카드 종류를 확보한 뒤 원하는 방향이 보였을 때 투자하는 편이 낫습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 특전 덱을 만들어 장착
 
 보유한 카드는 특전 덱으로 묶어 민간인 장비 설정에 적용할 수 있습니다. 단순히 가장 희귀한 카드를 넣는 것보다 이동, 주민 설득, 수리, 전투 같은 자신의 역할을 기준으로 조합하는 것이 좋습니다.
@@ -64,17 +49,6 @@ hideDescription: true
 특전 포인트는 새 카드를 뽑는 데만 쓰이지 않습니다. 이미 가진 카드를 일정 매치 동안 더 높은 수준으로 일시 강화하는 데도 사용할 수 있습니다.
 
 장기적으로 항상 유지되는 강화가 아니라 정해진 횟수 동안 쓰는 방식이므로 모든 카드에 계속 포인트를 넣는 것은 효율이 떨어질 수 있습니다. 자주 쓰는 덱과 중요한 플레이 세션에 맞춰 선택적으로 강화하는 편이 좋습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 캐릭터 능력치와 조합
 
@@ -90,17 +64,6 @@ hideDescription: true
 
 특전 시스템은 가장 강한 카드 몇 장을 외우는 것보다 캐릭터와 플레이 스타일을 연결하는 시스템에 가깝습니다. 패치로 카드 밸런스가 바뀔 수 있는 출시 초기에는 특히 역할 중심으로 덱을 맞추는 방식이 오래 갑니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 7. 덱은 세 판 정도 써보고 판단
 
 특전 덱은 한 판의 결과만 보고 바로 갈아엎기보다 같은 캐릭터와 역할로 몇 판 반복해 보시는 것이 좋습니다. 맵과 마이클 플레이어의 성향이 매번 달라 한 번의 성공이나 실패만으로 카드 효율을 판단하기 어렵기 때문입니다.
@@ -109,13 +72,3 @@ hideDescription: true
 
 새 카드를 뽑는 것과 보유 카드를 일시 강화하는 데 같은 특전 포인트가 들어가므로 항상 전부 소진할 필요는 없습니다. 자주 쓰는 덱이 어느 정도 갖춰졌다면 다음 패치와 새로운 캐릭터 세팅을 위해 일부를 남겨 두는 편이 선택지가 넓습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

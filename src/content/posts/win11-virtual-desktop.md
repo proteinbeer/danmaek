@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 브라우저, 메신저, 문서, 게임까지 한 화면에 쌓이면 프로그램보다 창을 찾는 데 시간이 더 걸릴 때가 있습니다.
 
 윈도우 11의 가상 데스크톱을 사용하면 프로그램을 종료하지 않고 작업 공간 자체를 여러 개로 나눌 수 있습니다.
@@ -61,17 +57,6 @@ hideDescription: true
 
 정리가 목적이었는데 데스크톱 자체가 너무 많아지면 다시 찾는 일이 생기기 때문입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 열린 창을 다른 데스크톱으로 이동
 
 작업 보기에서 열린 창을 원하는 데스크톱으로 옮길 수 있습니다.
@@ -99,17 +84,6 @@ hideDescription: true
 처음에는 낯설지만 하루 정도만 의식해서 사용하면 익숙해집니다.
 
 특히 노트북 한 화면으로 여러 종류의 일을 동시에 하실 때 효과가 더 큽니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 멀티태스킹보다 정리 기능에 가깝다
 
@@ -139,13 +113,3 @@ hideDescription: true
 
 가상 공간은 많을수록 좋은 것이 아니라 현재 작업을 빠르게 구분할 수 있을 정도가 가장 효율적입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 아이폰 18 프로에 사진이 AI로 만들어지거나 수정되지 않았음을 확인하는 레퍼런스 이미지 기능이 들어갑니다.
 
 촬영 순간 센서 데이터에 서명해 편집본과 비교할 수 있게 만듭니다.
@@ -50,17 +46,6 @@ hideDescription: true
 보험과 언론, 증거 사진처럼 원본성이 중요한 분야에서 활용 가능성이 큽니다.
 
 새 기술이 빠르게 확산될수록 표준과 책임의 문제도 함께 커집니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 한 회사의 기능으로 시작해도 다른 서비스와 연결되는 순간 호환성과 검증 방식이 중요해집니다.
 
@@ -93,17 +78,6 @@ AI 생성물을 분석해 가짜 확률을 추정하는 대신 실제 촬영 순
 사진 앱 밖에서도 검증할 수 있어야 표준으로 자리 잡을 수 있습니다.
 
 기술 발표는 기능표보다 실제 사용 환경에서 의미가 갈립니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 보안과 가격, 개인정보, 전력 같은 보이지 않는 조건이 따라오지 않으면 편리함만으로 오래 쓰기 어렵습니다.
 

@@ -18,10 +18,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 홈페이지 제작 비용은 검색해보면 100만 원부터 수천만 원까지 천차만별입니다. 그런데 정작 많이 오해하는 부분은 "직접 만들면 거의 무료"라는 생각입니다. 직접 만드는 쪽도 호스팅과 테마, 무엇보다 시간 비용이 들어갑니다.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/network-guide-common.jpg" alt="재택 근무 중 노트북으로 작업하는 모습" width="1200" height="675" loading="lazy" decoding="async" />
@@ -44,17 +40,6 @@ hideDescription: true
 
 문제는 비용이 아니라 **시간**입니다. 워드프레스나 빌더를 처음 배우는 데만 2～4주가 걸리고, 디자인과 콘텐츠까지 완성하려면 2～3개월이 걸리는 일이 흔합니다. 사업 초기에 홈페이지가 늦게 열릴수록 기회 손실이 생깁니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 숨은 비용이 갈리는 지점
 
 직접 제작이든 대행이든 예산을 넘기는 항목은 비슷합니다.
@@ -72,17 +57,6 @@ hideDescription: true
 반대로 예약이나 결제 기능이 필요한 사이트라면 외주가 안전합니다. 오류가 발생하면 매출에 바로 영향을 주기 때문입니다. 시간이 곧 돈인 사업자라면 초기 비용을 줄이기보다, 제대로 만들어진 사이트를 빨리 여는 것이 낫습니다.
 
 실용적인 절충안은 **검증된 프리미엄 테마(5～10만 원)를 기반으로 소규모 개인 프리랜서에게 마무리를 맡기는 방법**입니다. 풀커스텀 디자인 대비 비용은 절반에도 안 들면서 완성도는 크게 올라갑니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 정리
 

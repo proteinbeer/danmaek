@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 더 블러드 오브 던워커의 장비는 양날의 검입니다. 시간 제한이 다급하다고 장비를 건너뛰기 쉬운데, 정작 탐험과 약탈, 쇼핑은 시간을 전혀 쓰지 않는 무료 영역이라 초반 장비 하나를 확보하는 일이 예산을 깎지 않습니다. 즉 장비는 시간 대비 효율이 가장 좋은 강화 수단입니다.
 
 특히 무기의 핵심 스탯이 데미지만이 아니라는 사실을 아는 플레이어가 많지 않습니다. 이 글에서는 무기와 방어구, 악세서리를 고르는 기준, 초반에 손에 넣는 최고의 장비 목록, 그리고 낮과 밤을 오가는 프리셋 운영법까지 정리했습니다.
@@ -46,17 +42,6 @@ hideDescription: true
 
 세 번째는 야간의 대답인 성자의 검 스티히 미하이입니다. 뱀파이어와 초자연 적을 상대로 1,000 이상의 데미지를 뽑아내는 무기로, 브렌시스 궁정과 싸우는 후반부의 상징적인 스펙입니다. 완벽 방어 습관이 선행돼야 효율이 나오므로 초반보다는 중후반 획득이 적당합니다. 이 셋 중 둘을 낮 무기와 밤 무기로 나눠 쓰는 것이 이상적입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 클로 빌드의 팔 무구와 울펜 브레이서
 
 밤에는 검 대신 손톱 클로를 주 전투 수단으로 쓰게 됩니다. 이때 활약하는 것이 울펜 브레이서입니다. 클로 데미지, 야수 상대 데미지, 클로 치명타 확률과 치명타 데미지를 모두 올려주며, 장착만으로 클로 아트 하나를 열어줍니다. 프로로그 직후 비교적 쉽게 얻을 수 있어 뱀파이어 밀착형 빌드의 첫 장비로 추천됩니다.
@@ -72,17 +57,6 @@ hideDescription: true
 방어구 중 갑옷 무게와 방어 성능의 균형도 형태별로 다릅니다. 중갑은 방어가 높지만 움직임과 스태미나 패널티가 있고, 능력 사용이 많은 빌드에서는 회피와 재배치 자체가 생명이므로 경갑이 더 실질적인 생존력을 줍니다. '세컨드 스킨' 계열 검술 특성으로 중갑 패널티를 줄이면 그때부터 중갑 효율이 오릅니다.
 
 장비 프리셋 전환은 UI로 즉시 되므로, 밤이 다가오면 클로 팔 무구와 흡혈 관련 악세서리로 바꿔끼는 루틴만 잡아도 체감 전투력 차이가 큽니다. 전투 직전에 프리셋을 바꾸는 일이 없도록, 해 질 무렵에 미리 다음 밤용 세팅을 준비해두는 편이 좋습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 악세서리 조합의 우선순위
 
@@ -104,13 +78,3 @@ hideDescription: true
 
 마지막으로 메인 스토리를 밀어 빠른 이동을 여는 순간 상점과 성소에 다시 가기 쉽습니다. 장비 윤곽을 대충 잡아두고 메인 진행으로 지역을 넓힌 뒤, 여유가 생기면 초반 지역의 상점에 다시 들러 재고를 훑는 순서가 시간 대비 효율이 가장 좋습니다. 장비는 30일이라는 칼과 싸우는 게임에서 건드릴수록 이득인 영역이므로, 낮과 밤의 세트를 갖추면 어느 결말로 향하든 전투가 확실히 편해집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

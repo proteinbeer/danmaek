@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 봄바나나는 역할마다 하는 일이 완전히 다릅니다. 그래서 누가 어떤 역할을 맡느냐에 따라 같은 세 명으로도 난도가 크게 달라질 수 있습니다. 특히 첫판에는 성격과 말하는 습관에 맞춰 역할을 배정하는 편이 좋습니다.
 
 세 역할 중 절대적으로 쉬운 역할 하나가 있는 것은 아닙니다. 대신 어떤 사람이 맡았을 때 실수가 덜 나는 역할은 분명히 있습니다.
@@ -46,17 +42,6 @@ hideDescription: true
 
 벙어리는 설명서를 빨리 찾고 필요한 조건만 골라내는 능력이 중요합니다. 퍼즐 규칙을 읽는 것을 좋아하고 화면 정보를 정리하는 데 익숙한 사람이 맡으면 팀 전체 속도가 안정됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 귀머거리 원숭이는 중계 담당
 
 귀머거리 원숭이는 폭탄을 볼 수 있고 벙어리의 손짓도 볼 수 있지만 소리를 들을 수 없습니다. 대신 말은 할 수 있어 장님 원숭이에게 최종 지시를 전달하는 역할을 맡습니다.
@@ -73,17 +58,6 @@ hideDescription: true
 
 말이 많은 사람은 귀머거리 역할이 잘 맞을 수 있지만 무조건 그렇지는 않습니다. 중요한 것은 많이 말하는 것이 아니라 필요한 순간에 짧게 정리해서 말할 수 있는지입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 퍼즐 잘하는 사람은 벙어리가 편하다
 
 규칙을 읽고 패턴을 찾는 것을 좋아한다면 벙어리 원숭이가 잘 맞습니다. 설명서를 보고 필요한 답을 찾아야 하므로 퍼즐 해석력이 직접적으로 도움이 됩니다.
@@ -99,17 +73,6 @@ hideDescription: true
 이후 역할을 돌려 보면 내가 전달한 말이 상대에게 어떻게 들렸는지 알 수 있어 팀 실력이 빠르게 늘어납니다.
 
 세 명 모두 처음이라면 침착한 사람을 장님, 규칙 읽기를 좋아하는 사람을 벙어리, 말이 분명한 사람을 귀머거리로 두는 편이 무난합니다. 몇 판 뒤 특정 역할에서만 계속 터진다면 그때 교대하시면 됩니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 결국 잘하는 역할은 팀마다 다르다
 

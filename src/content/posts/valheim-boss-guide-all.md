@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 발하임의 진행은 전적으로 보스, 즉 포세이큰을 중심으로 돌아갑니다. 게임은 워낙 자유도가 높지만, 실제로는 보스 하나를 잡아야 다음 바이옴의 장비 재료가 열리는 계단 구조로 설계되어 있습니다. 에이크쉬르의 모뿔이 없으면 구리와 주석을 캘 수 없고, 엘더의 늪지 키 없이는 철이 없다는 식입니다. 그래서 순서를 지키는 것이 우회로처럼 보이지만 정답이 됩니다.
 
 이 글은 일곱 포세이큰과 1.0으로 추가된 딥노스 최종 보스까지, 소환 재료와 위치 찾기, 약점과 공략 포인트, 격파 보상을 한 권의 표로 정리했습니다. 어디까지 진행했는지 체크하며 중간 중간 장비와 음식 준비 상태를 점검하는 용도로 쓰면 됩니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 두 번째 엘더는 검은숲에 있습니다. 매장실 내부의 룬스톤이 제단을 안내하며, 그레이드워프 브루트와 샤먼, 스포너에서 나오는 고대 씨앗 3개를 바쳐 소환합니다. 체력은 2,500으로 뿌리를 솟아오르게 하는 근접 공격을 쓰므로 멀리서 불화살로 꾸준히 딜을 넣는 것이 정석입니다. 격파 시 늪지 키를 드랍해 늪지의 침몰 묘실을 열 수 있고, 엘더의 힘은 나무 베기와 곡괭이 채굴을 60퍼센트, 체력 회복을 30퍼센트 올려 줍니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 보네매스와 모더: 중반의 벽
 
 세 번째 보스 보네매스는 늪지의 두개골 무덤에 있습니다. 침몰 묘실 내부 룬스톤이 제단을 가리키고, 늪에서 파는 약해진 뼈 10개로 소환합니다. 체력은 5,000으로 타격에 약하고 찌르기와 화염에는 매우 강한 내성, 독에는 면역입니다. 따라서 철 메이스와 독 저항 포션이 필수이고, 소환하는 쫄부터 처리한 뒤 치고 빠지는 전략으로 상대해야 합니다. 보네매스는 보고 성배를 드랍하는데, 이를 착용하면 설산에서 은광맥을 찾는 신호음이 울립니다. 보네매스의 힘은 물리 피해 감소와 방패 스태미나 부담을 없애 주어 방패 플레이와 궁합이 좋습니다.
@@ -64,17 +49,6 @@ hideDescription: true
 다섯 번째 야글루스는 평원의 거대한 돌손 제단에서 소환합니다. 풀링 마을을 무너뜨려 토템 5개를 모아 바치면 되며, 제단 위치를 알려 주는 룬스톤은 드물게 등장해 마을을 털다가 먼저 제단을 발견하는 경우가 많습니다. 체력은 10,000으로 화염 계열 공격과 메테오, 쓸리는 화염 장판을 구사합니다. 화염 저항 포션과 흑철 무기, 포큐파인의 혼합 타입이 유리하며, 격파 시 토른 스피릿으로 미스트랜즈의 시야를 여는 위스프 분수를 만들 수 있습니다. 야글루스의 힘은 번개 피해 감소와 공격 데미지 10퍼센트 증가입니다.
 
 여섯 번째 퀸은 미스트랜즈의 감염된 성채 안에 있습니다. 지상 소환 제단이 없고, 감염 광산에서 실브레이커 조각 9개를 모아 실브레이커를 만들어 문을 여는 방식입니다. 체력은 12,500으로 빠른 근접전과 기절 외침, 시커 소환으로 유명합니다. 위스프 라이트로 시야를 확보하고, 수직으로 움직이는 아레나 특성상 캐러페이스 장비나 페더 케이프 같은 기동 장비를 갖추는 것이 좋습니다. 퀸의 힘은 에이트르 회복을 100퍼센트 올려 주어 마법 빌드의 핵심 버프입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 페이더: 애쉬랜즈 최종전
 
@@ -99,13 +73,3 @@ hideDescription: true
 
 이 표를 따라 보스 순서를 밟아 가면 바이옴별 장비 수급과 자연스럽게 연결됩니다. 각 단계에서 이전 보스의 힘을 상황에 맞춰 켜고 끄는 것만으로도 난이도가 크게 완화되며, 미리 준비한 보스의 미리 잡은 트로피는 언제든 다시 소환해 되돌릴 수 있습니다. 장비와 음식 상태가 다음 바이옴의 권장 수준에 도달했는지 확인하면서 진행하면, 어디서 막혔는지 헤매는 시간을 줄일 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

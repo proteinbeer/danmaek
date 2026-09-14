@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 할로윈 더 게임은 언리얼 엔진 5로 제작된 최신 공포 게임이라 PC 요구 사양이 가볍지 않습니다. 최소 사양은 16GB 메모리를 요구하지만 저장 장치와 운영체제, 그래픽카드 조건까지 함께 봐야 안정적으로 실행할 수 있습니다.
 
 특히 SSD 또는 NVMe 저장 장치가 필수 조건으로 적혀 있어 용량만 남아 있는 오래된 하드디스크에 설치하는 방식은 권장되지 않습니다. 구매 전에는 그래픽카드 이름보다 전체 구성과 저장 장치를 먼저 확인하시는 것이 좋습니다.
@@ -42,17 +38,6 @@ PC 버전의 최소 요구 운영체제는 64비트 윈도우 11입니다. 저�
 
 16GB PC를 사용하신다면 플레이 전에 메모리를 많이 쓰는 프로그램을 정리하는 편이 좋습니다. 끊김이 생길 때 그래픽 옵션만 낮추기보다 백그라운드 메모리 사용량도 같이 확인하시면 원인을 찾기 쉽습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 최소 그래픽카드 기준
 
 최소 그래픽카드는 지포스 GTX 1660 이상, 라데온 RX 590 이상, 인텔 아크 A770 이상으로 안내되어 있으며 목표는 1080p에서 30프레임 수준입니다. 다이렉트엑스 12도 요구됩니다.
@@ -64,17 +49,6 @@ PC 버전의 최소 요구 운영체제는 64비트 윈도우 11입니다. 저�
 권장 사양은 RTX 3000 시리즈와 라데온 RX 7000 시리즈, 32GB 메모리를 제시하며 4K에서 30프레임을 목표로 합니다. CPU 역시 최소보다 최신 플랫폼을 권장합니다.
 
 해상도를 높일수록 그림자와 조명, 거리 표현 부담이 커집니다. 할로윈 더 게임은 어둠과 조명이 실제 게임플레이에도 중요한 만큼 지나치게 옵션을 낮춰 시인성이 나빠지는 것보다 해상도와 무거운 효과를 단계적으로 조절하는 편이 좋습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 옵션은 한 번에 내리지 않기
 
@@ -90,17 +64,6 @@ PC 버전의 최소 요구 운영체제는 64비트 윈도우 11입니다. 저�
 
 할로윈 더 게임은 최소 사양만 보면 GTX 1660과 16GB 메모리로 시작할 수 있지만 권장 구성과 차이가 큰 게임입니다. 구매 전에는 윈도우 11, SSD, 45GB 여유 공간, 메모리와 그래픽카드를 함께 확인하시고 목표 해상도에 맞춰 기대치를 잡으시는 것이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 7. 프레임보다 시인성도 확인
 
 공포 게임이라 화면을 어둡게 두고 싶더라도 마이클과 민간인 모두 조명 상태를 읽어야 하는 게임이라 세부가 전혀 보이지 않을 정도로 밝기를 낮추는 것은 좋지 않습니다. 그래픽 옵션을 조정한 뒤에는 밝은 거리와 어두운 집 안을 모두 돌아보면서 목표물과 출입구가 구분되는지 확인하시는 것이 좋습니다.
@@ -109,13 +72,3 @@ PC 버전의 최소 요구 운영체제는 64비트 윈도우 11입니다. 저�
 
 출시 초반에는 충돌 수정과 성능 관련 개선이 이어질 수 있습니다. 큰 패치 이후 프레임이나 화면 표현이 달라졌다면 예전에 맞춘 설정을 그대로 고집하지 말고 같은 맵에서 다시 테스트해 자신에게 맞는 균형을 잡으시는 것을 추천합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

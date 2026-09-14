@@ -17,11 +17,8 @@ imageWidth: 1200
 imageHeight: 675
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
-
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
 
 피크민 4 스위치 2 에디션이 11월 12일 출시됩니다.
 
@@ -51,17 +48,6 @@ hideDescription: true
 
 오치에게 음성 명령은 피크민 4의 재미가 어디에서 나오는지를 보여주는 부분입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 시스템 하나가 추가됐다는 사실보다 기존 플레이 흐름과 자연스럽게 이어지는지가 중요하고, 억지로 넣은 기능처럼 느껴지면 반복 플레이에서 금방 피로해질 수 있습니다.
 
 저는 이런 변화는 처음 몇 분보다 몇 시간 뒤 평가가 더 중요하다고 봅니다.
@@ -89,17 +75,6 @@ hideDescription: true
 기록 경쟁은 완전히 새로운 장르보다 기존 재미를 더 날카롭게 만듭니다.
 
 피크민 4이 흥미로운 이유는 시간 제한이 피크민의 본질과 맞는다이 과거 시리즈의 익숙한 부분과 새 방향 사이에 놓여 있기 때문입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 팬에게 익숙한 요소를 그대로 되살리는 것만으로는 짧은 향수에 그칠 수 있고, 반대로 너무 많이 바꾸면 이름만 같은 작품처럼 느껴질 수 있습니다.
 

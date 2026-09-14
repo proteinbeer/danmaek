@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 새로운 시리 AI의 한국어 지원은 10월로 예정돼 있습니다. iOS 27은 9월 14일 출시되지만 초기 시리 AI는 영어 중심으로 시작하고 한국어, 일본어, 프랑스어, 포르투갈어, 스페인어가 다음 달 추가됩니다.
 
 이번 소식은 기능이나 숫자 하나보다 기술을 쓰는 방식과 책임 구조가 어떻게 바뀌는지 보여주는 사례에 가깝습니다. 확인된 사실과 해석이 필요한 부분을 나눠서 보면 의미가 더 선명합니다.
@@ -41,17 +37,6 @@ hideDescription: true
 
 기술 변화는 제품 하나에서 끝나지 않고 기업 전략과 규제, 이용 습관까지 이어집니다. 왜 지금 이런 결정이 나왔는지 보면 단순한 기능 추가보다 더 큰 흐름이 보입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 단순 번역으로 끝나지 않는 한국어 처리
 
 한국어 이용자는 iOS 27을 설치해도 시리 AI의 전체 체감을 바로 얻지 못할 수 있습니다. 영어 설정으로 먼저 써볼 수 있는 기능과 한국어 정식 지원에서만 편해지는 기능을 구분해서 보는 편이 좋습니다.
@@ -67,17 +52,6 @@ hideDescription: true
 한국어 지원은 단순히 말을 알아듣는 수준을 넘어 연락처와 일정, 메시지 문맥을 자연스럽게 해석해야 의미가 있습니다. 실제 평가는 번역 품질보다 평소 말투로 부탁했을 때 얼마나 정확하게 행동하는지에서 갈릴 가능성이 큽니다.
 
 개인적으로는 이 지점이 가장 중요해 보입니다. 기술은 빠르게 바뀌지만 사람과 제도가 적응하는 속도는 느리기 때문에 작은 설계 차이가 시간이 지나면 큰 신뢰 차이로 이어질 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 한국어에서 모든 기능이 열리는지 확인
 

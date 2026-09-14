@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 엔비디아는 8월 26일 분기 실적을 발표했습니다. 시장에서는 분기 매출이 920억 달러를 넘을 것으로 예상하고 있고, 옵션 시장은 실적 발표 뒤 엔비디아 시가총액이 약 2800억 달러 움직일 가능성까지 가격에 반영하고 있죠.
 
 한 회사의 실적 발표치고는 움직이는 돈의 크기가 비정상적으로 커 보입니다.
@@ -54,17 +50,6 @@ hideDescription: true
 
 실적 발표의 질문이 돈을 많이 벌었느냐가 아니라 시장의 기대를 계속 뛰어넘을 수 있느냐로 바뀐 겁니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 2800억 달러
 
 옵션 시장은 실적 이후 엔비디아의 시가총액이 약 2800억 달러가 움직일 수 있는 수준의 변동성을 예상하고 있습니다. 다만 이 수치가 실제로 반드시 그만큼 움직인다는 예측은 아닙니다.
@@ -84,17 +69,6 @@ hideDescription: true
 인공지능 모델을 학습하는 단계에서는 엔비디아의 지배력이 매우 강했지만 실제 서비스를 운영하는 추론 시장이 커질수록 비용 효율이 더 중요해집니다. 그래서 특정 작업에 맞춘 자체 반도체가 충분히 싸고 효율적이라면 모든 연산을 엔비디아 제품으로 처리할 이유가 줄어들 수 있죠.
 
 그래서 이번 실적에서는 현재 판매량만큼 다음 세대 제품과 추론 시장에서의 위치도 중요합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 인공지능 거품 논쟁이 실적마다 반복되는 이유
 

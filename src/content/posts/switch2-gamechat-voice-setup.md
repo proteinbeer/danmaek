@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 스위치 2 게임챗에 들어갔는데 상대 목소리는 들리거나 화면은 공유되는데 내 목소리가 전달되지 않는 상황은 처음 겪으면 본체 고장부터 의심하기 쉽습니다. 하지만 스위치 2는 기존 스위치와 달라진 규격과 계정 관리 방식이 많아서, 실제로는 설정이나 사용 조건을 잘못 이해해 생기는 경우가 적지 않습니다.
 
 핵심부터 보면 스위치 2 게임챗은 본체에 내장된 마이크를 이용해 음성 통화를 할 수 있습니다. 별도 헤드셋 마이크가 반드시 필요한 구조는 아니며, 블루투스 오디오의 마이크 입력은 지원되지 않기 때문에 무선 이어폰 마이크를 기대하면 헷갈릴 수 있습니다. 이 차이를 먼저 알고 계시면 불필요한 삭제나 초기화, 주변기기 교체를 피할 수 있습니다.
@@ -41,17 +37,6 @@ hideDescription: true
 
 스위치와 스위치 2는 이름과 메뉴가 비슷해도 저장 장치, 주변기기, 다운로드 게임 관리 방식에서 차이가 있습니다. 예전 스위치에서 익숙했던 방법을 그대로 적용하기 전에 스위치 2 기준인지 먼저 확인하는 습관이 필요하죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 이렇게 정리하면 편합니다
 
 다음으로 본체를 너무 멀리 두거나 마이크 부분을 케이스가 가리고 있지 않은지 봅니다. 이어서 블루투스 이어폰을 사용 중이라면 출력은 이어폰으로 듣더라도 입력은 본체 마이크 기준으로 확인합니다. 순서를 지키면 어느 단계에서 문제가 생기는지 확인하기 쉬워집니다.
@@ -64,17 +49,6 @@ hideDescription: true
 
 PC 음성 채팅에 익숙하면 이어폰 마이크가 당연히 쓰일 것 같지만 스위치 2는 출발점이 다릅니다. 문제가 생기면 헤드셋보다 본체 마이크를 먼저 확인하는 것이 빠릅니다
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 데이터와 계정은 따로 확인
 
 여기까지 해도 같은 증상이 계속된다면 한 번에 여러 설정을 바꾸지 않는 것이 좋습니다. 자녀 계정은 보호자 승인이나 제한 설정에 따라 게임챗 이용 범위가 달라질 수 있습니다. 다른 게임이나 다른 네트워크, 다른 케이블처럼 비교할 수 있는 조건이 있다면 하나씩 바꿔보는 편이 원인을 찾기 쉽습니다.
@@ -86,17 +60,6 @@ PC 음성 채팅에 익숙하면 이어폰 마이크가 당연히 쓰일 것 같
 게임 데이터, 세이브 데이터, 계정 이용 권한은 스위치에서 서로 다른 항목으로 관리되는 경우가 많습니다. 화면에 게임 아이콘이 보인다고 세이브와 이용 권한까지 모두 같은 위치에 있다는 뜻은 아닙니다.
 
 중요한 게임을 오래 플레이하셨다면 문제를 해결하기 전에 세이브가 어디에 있는지 먼저 확인하시는 편이 안전합니다. 특히 사용자 삭제와 본체 초기화는 일반적인 게임 데이터 삭제보다 영향 범위가 훨씬 크죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 안 될 때 추가로 볼 부분
 

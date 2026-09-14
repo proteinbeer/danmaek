@@ -1,4 +1,4 @@
-﻿---
+---
 title: "챗GPT로 만든 룬스케이프 복제 게임이 내려갔다, 저작권 경고가 빨랐던 이유"
 description: "오픈AI 직원이 챗GPT 코딩을 활용해 만든 룬스케이프 복제 프로젝트가 제이지엑스의 중단 요구를 받은 뒤 내려갔습니다."
 date: 2026-09-12T12:00:00
@@ -18,10 +18,6 @@ imageHeight: 675
 hideHeroImage: true
 hideDescription: true
 ---
-
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
 
 오픈AI 직원이 챗GPT 코딩을 활용해 만든 룬스케이프 복제 프로젝트가 제이지엑스의 중단 요구를 받은 뒤 내려갔습니다.
 
@@ -61,17 +57,6 @@ AI 개발 도구가 널리 퍼질수록 이런 충돌은 더 자주 나타날 �
 
 다만 허용 범위는 회사와 사용 방식마다 달라 사전에 확인해야 합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 코드는 새로 만들어도 문제가 남는다
 
 AI가 코드를 처음부터 생성했다고 해도 게임의 표현과 이름, 캐릭터가 원작과 비슷하면 별도 권리 문제가 생길 수 있습니다.
@@ -99,17 +84,6 @@ AI 개발 도구의 강점은 다른 사람의 게임을 빠르게 복제하는 
 반면 지금은 하지만 공개와 수익화 단계에서 기존 IP 의존도가 발목을 잡을 수 있습니다.
 
 아직 AI를 쓸수록 오히려 기획 단계에서 독창성을 더 의식할 필요가 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 앞으로 더 많아질 분쟁
 

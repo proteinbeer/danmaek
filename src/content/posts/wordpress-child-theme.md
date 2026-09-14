@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 워드프레스 테마 파일을 직접 수정해 원하는 디자인을 만들었는데 테마 업데이트 뒤 변경 내용이 사라지는 경우가 있습니다.
 
 원본 테마 파일을 바꿨다면 업데이트가 새 파일로 덮어쓰면서 직접 수정한 내용도 함께 없어질 수 있기 때문입니다.
@@ -47,17 +43,6 @@ hideDescription: true
 
 모든 파일을 복사할 필요는 없죠. 실제로 수정할 부분만 자식 테마에 두고 나머지는 부모 테마를 그대로 사용하는 방식이 관리하기 쉽습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 작은 스타일 수정만 있다면 다른 선택도 있다
 
 색상과 여백처럼 간단한 스타일 몇 줄만 바꾸는 경우에는 테마가 제공하는 추가 스타일 기능이나 사이트 편집기의 스타일 설정으로 충분할 수 있습니다.
@@ -74,17 +59,6 @@ hideDescription: true
 
 그래도 테마 파일 수준의 사용자 정의 코드와 템플릿을 유지해야 한다면 자식 테마를 사용할 수 있습니다. 현재 사용하는 테마가 블록 테마인지 클래식 테마인지 먼저 확인하시면 되죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 부모 테마는 계속 필요하다
 
 자식 테마만 설치했다고 독립적으로 동작하는 것은 아닙니다.
@@ -100,17 +74,6 @@ hideDescription: true
 부모 테마의 구조가 크게 바뀌면 자식 테마가 덮어쓰던 오래된 템플릿과 맞지 않을 수 있습니다.
 
 큰 업데이트 뒤에는 자식 테마 수정 부분이 정상으로 보이는지 확인하시면 됩니다. 오랫동안 복사해둔 템플릿은 부모 테마의 개선을 못 따라갈 수도 있어 가끔 정리가 필요하죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 수정 내용을 기록해둔다
 
@@ -130,13 +93,3 @@ hideDescription: true
 
 테마를 오래 사용할 생각이라면 처음부터 사용자 수정과 원본을 분리해두는 편이 결국 시간을 아낍니다. 업데이트 때마다 내가 바꾼 부분을 다시 붙여넣는 방식은 처음에는 쉬워 보여도 변경이 쌓일수록 놓치는 부분이 늘어납니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

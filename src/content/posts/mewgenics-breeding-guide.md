@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 뮤제닉스에서 강한 고양이를 만드는 일은 전투보다 번식에서 결정됩니다. 고양이는 한 번의 룬으로 퇴역하고 새끼로 대를 잇기 때문에, 어떤 유전자가 어떻게 물려오는지를 아는 사람만이 세대가 지날수록 강해지는 혈통을 설계할 수 있습니다. 튜토리얼이 알려주지 않는 상속 원리를 이해하면 같은 시간으로 훨씬 강한 대를 만들 수 있습니다.
 
 이 글에서는 베이스 스탯 상속의 정확한 규칙, 방의 다섯 스탯이 번식에 미치는 영향, 근친결합의 리스크 관리, 그리고 머리형을 이용한 세대 설계까지 번식에 필요한 핵심을 순서대로 정리했습니다.
@@ -50,17 +46,6 @@ hideDescription: true
 
 번식을 목적으로 하는 방이라면 스티뮬레이션과 콤포트를 함께 높이는 것이 답입니다. 나머지 스탯은 방의 용도에 따라 우선순위를 나눕니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 베이스 스탯 상속의 원리
 
 새끼의 스탯은 부모의 출생 당시 베이스 스탯만 참조합니다. 장비, 목걸이 보정, 훈련으로 올린 수치는 절대 유전되지 않습니다. 스탯이 좋은 부모를 만들었다면 그 이유가 베이스인지 보정인지 먼저 확인해야 합니다.
@@ -77,17 +62,6 @@ hideDescription: true
 
 팅크에게 새끼를 기부하면 유전 정보 화면이 열리며, 근친 여부와 상속 패턴, 보인자 상태까지 확인됩니다. 근친 관리는 두 눈으로 보는 것보다 정보 화면을 켜두는 것이 훨씬 정확합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 머리형과 세대 파이프라인
 
 머리형은 단순한 외형이 아닙니다. 삼각 머리는 지능과 마나 중심, 사각 머리는 방어와 체력 중심, 원형 머리는 밸런스형으로, 이 형상이 어떤 클래스에 잘 맞는지를 미리 알려줍니다. 머리형은 스탯과 함께 유전되므로 같은 머리형 부모를 세대에 걸쳐 붙이면 해당 방향의 스탯 분포가 안정됩니다.
@@ -102,13 +76,3 @@ hideDescription: true
 
 물러나 퇴역한 최고 스탯의 부모는 예비 브리더로 남기는 편이 좋습니다. 어떤 NPC 기부도 결국 새끼를 만든 뒤 진행할 수 있으므로, 혈통의 근간이 되는 부모는 확실한 후계가 나올 때까지 보관해야 합니다. 강한 고양이는 강한 부모의 반복에서 나오며, 그 반복을 설계하는 것이 이 게임의 종장입니다. 같은 부모 조합을 두 번 다시 볼 수 없다는 사실을 잊지 않고, 저장 관리와 번식실 컨디션을 함께 지키면 대를 거듭할수록 한 단계씩 강한 혈통을 완성할 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

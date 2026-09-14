@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 사우디아라비아 국부펀드가 EA와 세비 게임즈 그룹을 합치는 방안을 검토 중이라는 보도가 나왔습니다.
 
 아직 결정된 거래는 아니지만 규모만 보면 게임 업계 지형을 크게 바꿀 수 있는 이야기입니다.
@@ -30,7 +26,6 @@ hideDescription: true
 EA 스포츠 FC, 배틀필드, 심즈 같은 초대형 지식재산과 세비가 이미 확보한 모바일, e스포츠 자산이 한 그룹 안에 들어갈 수 있기 때문입니다.
 
 저는 이걸 단순 인수 뉴스보다 사우디가 게임을 하나의 국가 산업으로 얼마나 크게 보고 있는지 보여주는 장면으로 봅니다.
-
 
 <img class="post-landscape-image post-landscape-image--high" src="/assets/posts/news-images/ea-savvy-merger-2026-01.jpg" alt="EA와 세비 게임즈 합병 검토, 사우디 게임 제국이 커진다" width="1200" height="675" loading="lazy" decoding="async" />
 
@@ -54,17 +49,6 @@ EA 스포츠 FC, 배틀필드, 심즈 같은 초대형 지식재산과 세비가
 
 게임 한두 개를 잘 만드는 회사가 아니라 이용자가 게임을 사고 보고 경쟁하는 전 과정을 잡으려는 구조에 가까워집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 왜 게임에 이렇게 큰돈을 쓰나
 
 사우디는 석유 중심 경제에서 벗어나기 위한 장기 전략에서 게임과 엔터테인먼트를 중요한 산업으로 보고 있습니다.
@@ -85,17 +69,6 @@ EA 스포츠 FC처럼 매년 반복 매출이 나오는 브랜드는 국가 투�
 
 저는 소비자 입장에서 가격보다 다양성이 줄어드는 쪽이 더 장기적인 문제라고 봅니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 아직 확정된 합병은 아니다
 
 현재 단계는 검토입니다.
@@ -115,17 +88,6 @@ EA 스포츠 FC처럼 매년 반복 매출이 나오는 브랜드는 국가 투�
 저는 이번 이야기가 EA 하나의 운명보다 더 큽니다.
 
 앞으로 게임 업계 경쟁이 회사 대 회사가 아니라 국가 자본과 글로벌 플랫폼이 섞인 싸움으로 변할 가능성을 보여주기 때문입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 한 회사가 너무 커질 때 생기는 문제
 
@@ -151,13 +113,3 @@ EA처럼 직원과 스튜디오가 많은 회사를 다른 그룹과 묶는 작�
 
 그래서 발표가 나오더라도 진짜 변화는 이후 몇 년 동안 천천히 나타날 가능성이 큽니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

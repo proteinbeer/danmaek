@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 프라그마타 무기는 일반적인 액션 게임처럼 주무기와 보조무기 정도로만 나뉘지 않습니다. 주무기 유닛, 공격 유닛, 전술 유닛, 방어 유닛으로 역할이 구분되어 있고, 각 슬롯을 어떻게 채우느냐가 해킹 이후 공격 루프를 크게 바꿉니다.
 
 특히 주무기와 나머지 유닛의 자원 구조가 다르기 때문에 모든 무기를 같은 감각으로 쓰면 후반에 장비가 부족해질 수 있습니다. 기본 구조부터 이해해 두시면 로드아웃을 짜기가 훨씬 쉬워집니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 다만 주무기처럼 무한히 쓸 수 있는 감각은 아닙니다. 제한된 사용 횟수와 소모를 의식해 중요한 구간에 집중하는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 전술 유닛
 
 스테이시스 넷, 라이엇 블라스터, 스티키 밤, 코드 제너레이터 같은 전술 유닛은 적을 멈추거나 해킹 부담을 줄이는 역할을 합니다. 직접 피해량보다 해킹 성공률과 안전성을 높이는 장비라고 보시면 됩니다.
@@ -65,17 +50,6 @@ hideDescription: true
 
 프라그마타에서 방어는 공격과 분리된 개념이 아닙니다. 안전하게 해킹을 끝내면 그만큼 더 많은 공격 기회를 얻기 때문입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 소모 장비는 아껴 쓴다
 
 주무기를 제외한 여러 유닛은 사용 횟수와 내구를 신경 써야 합니다. 일반 적에게 강한 보조 무기를 계속 쓰면 다음 보스 전에 자원 압박을 받을 수 있습니다.
@@ -87,17 +61,6 @@ hideDescription: true
 구역에서 새 무기를 발견하면 즉시 활용할 수 있지만, 장기적으로 쓰려면 유닛 프린터에서 영구 장비로 등록하는 과정이 중요합니다. 필드에서 한 번 쓴 무기가 자동으로 내 기본 장비가 되는 것은 아닙니다.
 
 마음에 든 무기를 발견했다면 쉴터에 돌아가 프린트 가능 여부를 먼저 확인하시면 됩니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 좋은 로드아웃은 역할이 겹치지 않는다
 

@@ -21,10 +21,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 테슬라가 중국에서 약 298만 대 규모의 리콜에 들어갑니다. 모델 3, 모델 Y, 모델 S, 모델 X가 대상에 포함됐고 문제는 사고 뒤 전원이 끊겼을 때 문을 여는 방식이었습니다.
 
 평소에는 세련돼 보이던 전자식 문손잡이가 비상 상황에서는 오히려 직관적이지 않을 수 있다는 점이었죠.
@@ -55,17 +51,6 @@ hideDescription: true
 
 안전 장치는 예뻐 보이는 것보다 처음 보는 사람도 즉시 이해할 수 있는지가 더 중요하기 때문입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 중국 규제가 다른 나라에도 영향을 줄까?
 
 중국은 2027년부터 숨겨진 형태의 문손잡이를 제한하는 방향으로 규제를 강화하고 있습니다. 미국, 유럽에서도 전자식 문 개방 장치의 안전성을 들여다보고 있습니다.
@@ -85,17 +70,6 @@ hideDescription: true
 문손잡이 문제는 이런 논쟁의 가장 극단적인 사례입니다. 평소 자주 쓰는 기능뿐 아니라 비상시에 반드시 작동해야 하는 기능까지 전자식으로 만들면 전원이 끊겼을 때 대체 수단이 필요하기 때문입니다.
 
 앞으로 자동차 디자인은 얼마나 많은 기능을 화면에 넣을 수 있느냐보다 어떤 기능만큼은 물리적으로 남겨야 하느냐가 더 중요한 기준이 될 수도 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 미래적인 디자인보다 중요한 것
 

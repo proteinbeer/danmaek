@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 모탈 셸 2에서 업적과 직접 연결되는 주요 수집 요소는 총 154개입니다. 셸 8개, 근접 무기 8개, 보조 무기 8개, 정화 비컨 46개, 타르스톤 75개, 지도 조각 11개가 핵심입니다. 숫자가 많지만 대부분 엔딩 뒤에도 정리할 수 있습니다.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/mortal-shell-2-2026-01.jpg" alt="모탈 셸 2(Mortal Shell 2) 소울라이크 액션 게임 대표 이미지" width="686" height="386" loading="lazy" decoding="async" />
@@ -42,17 +38,6 @@ hideDescription: true
 
 탐험에서는 목적지보다 귀환 경로를 먼저 만들어 두는 편이 좋습니다. 비컨을 활성화하고 주변 지형을 한 번 확인한 뒤 깊게 들어가면 사망했을 때 반복 이동하는 시간을 크게 줄일 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 비컨 46개
 
 전체 위치는 49곳이지만 정화 대상으로 집계되는 비컨은 46개입니다. 처음부터 정화된 세 곳 때문에 지도 숫자와 업적 숫자가 다르게 느껴질 수 있습니다.
@@ -69,17 +54,6 @@ hideDescription: true
 
 수집 요소를 한 번에 전부 찾으려 하기보다 지역별로 나누어 정리하면 놓친 위치를 확인하기 쉽습니다. 메인 진행과 수집을 완전히 섞으면 어느 길을 이미 확인했는지 헷갈리기 쉽습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 지도 조각 11개
 
 지도 조각도 주요 수집 목록에 포함됩니다. 오픈월드 길 찾기와 수집 정리에 도움이 되므로 후반에는 비컨과 던전만 보지 말고 지도 조각 누락 여부도 함께 확인하시는 편이 좋습니다.
@@ -91,17 +65,6 @@ hideDescription: true
 수집품 대부분은 엔딩 뒤 회수할 수 있지만 업적에는 놓칠 수 있는 항목이 따로 있습니다. 특히 프롤로그 관련 업적은 새 게임 플러스에서 같은 방식으로 다시 시도할 수 없는 것이 있어 시작부터 업적을 노리신다면 미리 확인해야 합니다.
 
 업적이나 모든 수집 요소를 목표로 하지 않으신다면 첫 회차부터 모든 길을 확인할 필요는 없습니다. 엔딩 이후에도 자유 탐험이 가능하므로 스토리 흐름을 먼저 보고, 필요한 셸과 무기만 챙긴 뒤 나머지를 정리하는 방식도 충분히 좋은 선택입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 엔딩 뒤 정리 추천
 

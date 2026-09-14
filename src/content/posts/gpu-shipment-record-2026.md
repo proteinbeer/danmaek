@@ -1,4 +1,4 @@
-﻿---
+---
 title: "그래픽카드 가격은 오르는데 1250만 장 팔렸다, 엔비디아 90%가 된 시장"
 description: "데스크톱 그래픽카드 가격이 부담스러운 수준인데도 지난 분기 출하량은 1250만 장으로 4년 만에 가장 높은 수준을 기록했습니다."
 date: 2026-09-12T12:00:00
@@ -18,10 +18,6 @@ imageHeight: 675
 hideHeroImage: true
 hideDescription: true
 ---
-
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
 
 데스크톱 그래픽카드 가격이 부담스러운 수준인데도 지난 분기 출하량은 1250만 장으로 4년 만에 가장 높은 수준을 기록했습니다.
 
@@ -61,17 +57,6 @@ PC 완제품 판매가 강하지 않은 상황에서도 부품 수요가 따로 
 
 아직 지역과 가격대별 점유율은 전체 수치와 다를 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 비싸지기 전에 산다
 
 메모리와 AI용 GPU 수요가 커지면서 소비자 그래픽카드 가격이 더 오를 수 있다는 전망이 이어졌습니다.
@@ -99,17 +84,6 @@ PC 완제품 판매가 강하지 않은 상황에서도 부품 수요가 따로 
 현재는 데이터센터와 AI가 비슷한 공급 압력을 만드는 역할을 하고 있습니다.
 
 생산량이 늘어도 고성능 메모리 공급이 병목이 될 수 있습니다라는 점은 함께 보셔야 합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 경쟁이 더 필요한 시장
 
@@ -139,13 +113,3 @@ AMD와 인텔이 어느 가격대에서 점유율을 되찾는지가 앞으로 �
 
 결국 지금 단계에서는 화제성보다 실제 제품과 서비스가 어떻게 달라지는지 확인하는 것이 가장 현실적인 접근입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받합니다.
-</p>
-
 귀무자 웨이 오브 더 소드의 강화는 스피릿 미러라는 단일 허브에서 이뤄집니다. 검, 의복, 오니 가틀릿 세 장비를 강화하고, 빨간 소울과 파워 스톤으로 스킬을 해금하며, 호즈키 주머니로 회복 용량을 늘리는 구조입니다. 하지만 재료가 한정되어 있어 어디에 먼저 투자하느냐가 생존과 클리어 속도를 직접적으로 결정합니다.
 
 이 글은 해외 공략의 강화 데이터와 실전 경험을 종합해 초반부터 후반까지의 효율적인 업그레이드 순서를 정리했합니다. 소울 파밍 효율과 보스 난이도를 함께 고려한 투자 가이드입니다.
@@ -45,17 +41,6 @@ hideDescription: true
 초반에는 소울이 부족하여 강화 선택지가 좁합니다. 이때 가틀릿을 먼저 올리면 패리와 디플렉트의 성공률이 자연스럽게 높아지며, 블레이즈 게이지 충전 속도도 개선됩니다. 검 강화보다 체감이 빠른 이유입니다.
 
 가틀릿 2단계까지는 비교적 재료가 적게 듭니다. 첫 보스전 전에 반드시 1단계 이상을 확보하합니다.
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 두 번째 투자: 호즈키 주머니
 
 호즈키 주머니는 의약품 보관 용량을 결정합니다. 초반 보스전에서 회복 아이템이 하나 더 있는 것은 생존 시간과 직결됩니다. 주머니 확장은 오니 포탈이나 스토리 진행 중에 해금되며, 빨간 소울과 별도 재료가 필요합니다.
@@ -71,17 +56,6 @@ hideDescription: true
 
 刃의 히트(블레이드 히트)도 함께 고려합니다. 검을 강화하면 블레이즈 게이지 충전이 빨라져 패리 후 반격이 더 강력해집니다. 이 상승 효과는 보스전에서 특히 크게 느껴집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 네 번째 투자: 의복과 오니 아머먼트
 
 의복은 체력과 스태미나에 영향을 주지만, 방어력 자체는 패리와 디플렉트로 보완할 수 있합니다. 따라서 의복 강화는 네 번째로 미루는 것이 효율적입니다. 다만 후반 보스의 공격 데미지가 올라가면 의복 없이는 한 방에 끝나는 상황이 생기므로, 3단계 이상은 확보하합니다.
@@ -96,13 +70,3 @@ hideDescription: true
 
 뉴게임 플러스에서는 스킬 트리가 초기화되어 다시 투자해야 합니다. 하지만 장비와 주머니는 유지되므로, 첫 플레이에서 장비를 충분히 올려두면 카나지 난이도도 수월하게 시작할 수 있합니다. 빨간 소울은 NG+ 직전에 검과 의복에 투자하는 것이 가장 효율적입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

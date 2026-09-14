@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 할로윈 더 게임에서 마이클 마이어스가 느리게 걷다가 갑자기 다른 곳에서 나타나는 핵심에는 셰이프 점프가 있습니다. 마이클은 전력 질주로 추격하는 대신 어둠과 시야를 이용해 모습을 감추고, 훨씬 빠르게 위치를 바꾸는 방식으로 압박합니다.
 
 셰이프 점프를 단순 이동기처럼 쓰면 진입과 이탈 조건 때문에 자주 막히게 됩니다. 실제로는 어둠을 만드는 과정까지 포함해서 하나의 능력으로 이해하시는 편이 좋습니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 민간인이 밝은 길 한가운데서 마이클을 계속 바라보고 있다면 원하는 위치에서 바로 나타날 수 없습니다. 이 때문에 문 뒤, 건물 옆, 골목, 조명이 꺼진 방처럼 시야가 끊기는 장소를 미리 기억해 두는 것이 중요합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 전등을 끄면 길이 생김
 
 마이클은 조명을 끄고 전력을 차단하며 일시적인 블랙아웃을 만들어 주변을 어둡게 할 수 있습니다. 이것은 민간인을 무섭게 만드는 연출에 그치지 않고 셰이프 점프의 진입과 이탈 지점을 늘리는 행동입니다.
@@ -64,17 +49,6 @@ hideDescription: true
 상대가 눈앞에서 자신을 바라보는 상태에서는 셰이프 점프가 원하는 방식으로 작동하기 어렵습니다. 이때 무리해서 능력을 쓰기보다 잠시 건물 뒤로 빠져 시야를 끊고 다시 접근하시는 편이 좋습니다.
 
 마이클은 한 번 놓쳤다고 손해가 확정되는 캐릭터가 아닙니다. 상대가 자신이 따라오고 있다고 생각하게 만든 뒤 다른 길로 이동해 앞에서 나타나는 순간이 셰이프 점프의 가장 강한 장면입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 민간인이 막는 방법
 
@@ -89,17 +63,6 @@ hideDescription: true
 셰이프 점프를 잘 쓰는 방법은 쿨타임을 외우는 것보다 맵의 어두운 연결 구간을 외우는 데 가깝습니다. 마이클을 자주 플레이하신다면 처치 위치보다 어디서 시야가 끊기고 어디서 다시 나타날 수 있는지를 먼저 기억해 두시는 편이 훨씬 도움이 됩니다.
 
 결국 셰이프 점프는 빠른 이동기가 아니라 마이클의 존재 자체를 예측하기 어렵게 만드는 시스템입니다. 걷는 속도가 느리다는 약점을 억지로 보완하기보다 보이지 않는 동안 위치를 바꾸는 캐릭터라고 생각하시면 운용이 훨씬 쉬워집니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 실패한 진입도 정보가 됨
 

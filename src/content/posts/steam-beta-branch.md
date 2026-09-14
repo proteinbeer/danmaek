@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 게임 개발사가 테스트 버전이나 이전 패치를 따로 제공할 때 스팀의 베타 브랜치를 사용하는 경우가 많습니다.
 
 신기능을 먼저 써볼 수 있지만 일반 버전보다 오류가 많을 수 있어 무엇을 선택했는지 기억하는 것이 중요하죠.
@@ -53,17 +49,6 @@ hideDescription: true
 
 비공개 테스트에는 별도 비밀 유지 조건이 붙는 경우도 있으므로 참여 조건을 먼저 확인하셔야 합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 이전 버전으로 돌아가는 용도
 
 베타라는 이름 때문에 항상 새 버전만 떠올리기 쉽지만 개발사가 이전 버전을 보존용으로 제공하기도 합니다.
@@ -84,17 +69,6 @@ hideDescription: true
 
 특히 수십 시간 진행한 RPG와 전략 게임이라면 테스트 기능 하나 때문에 본 세이브를 위험에 놓을 이유는 없습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 일반 버전으로 돌아오기
 
 테스트가 끝났다면 베타 항목에서 참여하지 않음을 선택해 기본 브랜치로 돌아갈 수 있습니다.
@@ -114,17 +88,6 @@ hideDescription: true
 저는 베타를 정식 버전보다 좋은 버전이라고 생각하지 않는 편이 맞다고 봅니다.
 
 목적이 테스트인 만큼 오류를 감수할 준비가 있을 때만 들어가고, 평소에는 일반 브랜치를 유지하는 것이 가장 편합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 멀티플레이는 버전부터 맞추기
 

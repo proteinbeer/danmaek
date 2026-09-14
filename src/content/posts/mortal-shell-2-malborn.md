@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 말본 오프스프링은 언파운드 패스 첫 보스이자 후반 난도가 크게 뛰는 지점입니다. 다른 보스처럼 한 체력 막대 안에서 페이즈가 바뀌는 것이 아니라 두 개의 체력 막대를 사용해 긴 전투를 요구합니다.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/mortal-shell-2-2026-01.jpg" alt="모탈 셸 2(Mortal Shell 2) 소울라이크 액션 게임 대표 이미지" width="686" height="386" loading="lazy" decoding="async" />
@@ -42,17 +38,6 @@ hideDescription: true
 
 보스전에서는 첫 시도부터 처치를 노리기보다 위험한 공격 두세 개만 먼저 구분해 두시는 편이 좋습니다. 큰 패턴의 전조를 익힌 뒤 공격 횟수를 늘리면 회복 소비가 눈에 띄게 줄어듭니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 제네사 추천
 
 제네사의 충실한 분신을 충분히 강화하면 보스의 시선을 분산시키고 경직까지 만들 수 있어 난도가 크게 낮아집니다.
@@ -69,17 +54,6 @@ hideDescription: true
 
 회복을 많이 쓰는 구간이 항상 가장 어려운 패턴인 것은 아닙니다. 공격 욕심 때문에 맞는 경우가 많으므로 두 번 칠 수 있어 보여도 한 번만 치고 빠지는 방식부터 시험해 보시는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 전투 도끼 리졸브
 
 베테랑의 전투 도끼 달리기 강공격은 두 번 회전해 리졸브 회복에 도움이 됩니다. 분신을 사용한 뒤 짧게 접근해 자원을 회복하고 다시 빠지는 흐름과 잘 맞습니다.
@@ -93,17 +67,6 @@ hideDescription: true
 업적이나 모든 수집 요소를 목표로 하지 않으신다면 첫 회차부터 모든 길을 확인할 필요는 없습니다. 엔딩 이후에도 자유 탐험이 가능하므로 스토리 흐름을 먼저 보고, 필요한 셸과 무기만 챙긴 뒤 나머지를 정리하는 방식도 충분히 좋은 선택입니다.
 
 페이즈가 바뀌는 순간에는 피해를 더 넣으려 하기보다 새 패턴을 한 번 관찰하는 편이 안전합니다. 특히 처음 보는 범위 공격은 카메라를 넓게 두고 움직임 전체를 확인하시면 대응하기 쉽습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 긴 전투 준비
 

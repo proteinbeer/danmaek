@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 발하임은 섬으로 이루어진 세계라 항해가 필수적입니다. 초반의 뗏목으로 시작해 전용 배를 만들고 나면 탐사 범위가 크게 넓어지며, 바다를 이해하는 만큼 보스 사냥과 자원 수집이 빨라집니다. 이 글에서는 배의 종류와 항해 조작, 바람 시스템, 무역과 보물 탐사까지 바다에서 필요한 내용을 순서대로 정리했습니다.
 
 항해의 핵심은 바람입니다. 화면 우측 상단의 방위 아이콘으로 바람이 부는 방향을 확인할 수 있는데, 바람을 등지고 나가면 빠르게, 맞바람을 받으면 천천히 이동합니다. 깃발이 뻗쳐 있는 방향이 이동 방향이며, 활대를 최대로 펴도 맞바람에서는 속도가 거의 나지 않으므로 태킹(지그재그)으로 진행 방향을 조금씩 꺾어 목적지를 향하는 것이 기본입니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 태킹을 할 때는 돛을 내린 상태로 방향을 돌린 뒤 다시 풀 돛을 펴는 방식이 공식입니다. 배는 바람 방향에 따라 최적 경로가 다르므로, 지도에 목적지 마커를 찍어 두고 항로가 크게 벗어나지 않게 꾸준히 수정합니다. 바다로 나갈 때는 날씨 변경에 대비해 육지 가까이에서 항해 동선을 잡는 편이 안전합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 배의 내구도와 파손 규칙
 
 배는 충돌, 몬스터 공격, 파도에 의해 손상됩니다. 암초나 해안선에 빠른 속도로 들이받으면 충격 피해를 받고, 파도가 높아 물에 가라앉으면 잠시 뒤집힐 위험이 있습니다. 배의 내구도가 소진되면 부서지면서 저장 공간에 있던 재료의 상당량이 물속으로 가라앉으므로, 귀중한 자원을 실을 때는 사전에 배를 안전한 해안에 정박해 두는 것이 중요합니다.
@@ -64,17 +49,6 @@ hideDescription: true
 바다에는 해상 몬스터가 나타납니다. 대표적인 것은 서펀트로, 밀림과 늪지 바다의 밤에 나타나는 뱀형 괴물입니다. 서펀트는 배를 노리고 돌진과 공격을 반복하며, 처치하면 서펀트 고기와 비늘을 드랍합니다. 서펀트 고기는 고급 요리인 서펀트 스튜의 재료가 되고, 비늘은 방어구와 무기의 재료입니다.
 
 서펀트는 체력이 높고 배를 움직이면서 싸우기 때문에 근접전보다 활과 크로스보우로 상대하는 것이 효과적입니다. 배에 올려둔 화로나 조명 근처에서는 서펀트가 접근을 꺼리니 야간 항해 시 배에 불을 켜 두면 위험을 줄일 수 있습니다. 드문 확률로 보물을 지키는 보스급 해상 몬스터가 나타날 때도 있는데, 이때는 배의 방향을 끊임없이 바꿔 타격을 흘리는 것이 핵심입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 상인과 무역 시스템 이해
 
@@ -88,13 +62,3 @@ hideDescription: true
 
 보물을 탐사할 때는 심해 다이빙이 가능한 얕은 해안을 우선 찾는 것이 좋습니다. 해저 상자는 대부분 얕은 물가에 있어 접근이 안전하며, 손이 닿으면 자동으로 아이템을 회수해 배의 저장 공간에 담습니다. 항해 지식과 배의 효율을 갖추면 무역과 보물 탐사가 동시에 진행되어 세계 전체를 효율적으로 공략할 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

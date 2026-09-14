@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 스위스 연방 정부가 일부 업무용 PC에서 마이크로소프트 365를 오픈소스 기반 오픈데스크로 교체하는 사업에 약 900만 스위스프랑을 투입합니다.
 
 달러로는 1100만달러가 넘는 규모입니다.
@@ -30,7 +26,6 @@ hideDescription: true
 처음에는 약 3000대에서 시작하지만 향후 훨씬 넓은 범위로 확대될 가능성이 있습니다.
 
 돈을 아끼기 위해 무료 소프트웨어를 쓰는 이야기가 아니라, 오히려 돈을 들여 미국 빅테크 의존도를 낮추려는 선택이라는 점이 핵심입니다.
-
 
 <img class="post-landscape-image post-landscape-image--high" src="/assets/posts/news-images/switzerland-microsoft-exit-2026-01.jpg" alt="스위스가 마이크로소프트를 떠난다, 1100만달러를 쓰는 이유" width="2000" height="1225" loading="lazy" decoding="async" />
 
@@ -54,17 +49,6 @@ hideDescription: true
 
 이런 접근을 디지털 주권이라고 부릅니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 마이크로소프트 365가 나빠서만은 아니다
 
 아웃룩과 팀즈는 기능과 호환성이 강하고 많은 조직이 이미 익숙하게 사용합니다.
@@ -85,17 +69,6 @@ hideDescription: true
 
 장애가 생겼을 때 공급사 하나에 전화하면 끝나는 구조보다 내부 기술 역량이 더 중요해질 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 3000대가 시험대
 
 첫 단계 규모는 정부 전체를 한 번에 바꾸는 것보다 제한적입니다.
@@ -115,17 +88,6 @@ hideDescription: true
 스위스가 쓰는 1100만달러는 소프트웨어 구매 비용보다 탈출구를 만드는 비용에 가깝습니다.
 
 앞으로 다른 유럽 정부가 비슷한 계산을 할지 지켜볼 만합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 다른 유럽 국가도 보는 실험
 
@@ -153,13 +115,3 @@ hideDescription: true
 
 작게 시작한 이번 전환이 실제 업무에서 버틸 수 있는지가 앞으로 가장 중요한 시험대입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 더 블러드 오브 던워커에는 코엔 내부의 성장을 정하는 타락(Corruption)과, 세계 밖의 사정에 대한 악명(Infamy)이라는 두 개의 게이지가 있습니다. 타락은 흡혈로 높아져 뱀파이어 트리를 열고 인간성의 결말을 정하고, 악명은 궁정 활동으로 높아져 보스와 최종 회담을 엽니다. 이름만 비슷해 보여도 역할은 완전히 다릅니다.
 
 이 글에서는 두 게이지가 정확히 무엇을 여는지, 어떻게 빠르게 채우는지, 그리고 에필로그와 엔딩에 어떤 영향을 주는지 구분해서 정리했습니다.
@@ -46,17 +42,6 @@ hideDescription: true
 
 타락 레벨은 밤 전투의 강함을 좌우하므로, 인상적인 뱀파이어 전투를 원하면 흡혈을 습관화하는 것이 첫 단계입니다. 목표는 최소 에필로그 전까지 코럽션 15로 흡혈 궁극을 확보하는 것입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 타락이 결말에 미치는 영향
 
 타락은 게임 클리어 시 코엔의 인간성이 나뉘는 요소이기도 합니다. 흡혈이 적어 타락이 낮으면 코엔은 인간에 가까운 모습으로 남고, 높아지면 뱀파이어로서의 본성이 앞섭니다. 에필로그의 표현이 달라지는 정도이며 특정 엔딩을 막지는 않지만, 다회차의 분위기를 크게 바꾸는 결정 요인입니다.
@@ -72,17 +57,6 @@ hideDescription: true
 악명 레벨 1의 의미는 작지만, 레벨 4(노토리어스)부터 핵심입니다. 이 레벨은 마뉴밋 리더 크레이크가 코엔을 신뢰하는 문턱이라, 크레이크 라인과 퀘스트 몇 개가 이 조건으로 열립니다. 따라서 크레이크를 원하면 의도적으로 악명을 끌어올리는 활동부터 배치해야 합니다.
 
 최대치에 닿으면 최종장이 열립니다. 세 보스 대면 후 악명 최대 상태에서 하루를 넘기면 악명 칙령이 읽히는 컷신이 나오고, 브렌시스가 회담을 제안해 일지에 '악마와의 거래'가 추가됩니다. 이 시점부터 최종전 선택지가 활성화됩니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 악명을 빠르게 올리는 활동
 
@@ -100,13 +74,3 @@ hideDescription: true
 
 마지막으로 두 게이지 다 만렙의 역할을 기억합니다. 타락 15는 흡혈 궁극, 악명 최대는 최종 회담입니다. 둘 다 재화처럼 모으는 것이 아니라, 종료 시점을 정해두고 그 시점에 맞는 목표로 찔러가는 것이 30일 예산을 깨지 않는 요령입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 PS5에서 찍은 스크린샷과 짧은 영상은 플레이스테이션 앱을 이용하면 휴대폰으로 간편하게 가져올 수 있습니다. 하지만 자동 업로드가 꺼져 있거나 지원 조건을 넘는 영상은 앱에 나타나지 않을 수 있습니다.
 
 캡처했다고 모든 파일이 영구적으로 휴대폰에 동기화되는 기능은 아니라는 점부터 알아두는 편이 좋습니다.
@@ -41,17 +37,6 @@ PS5의 캡처와 방송 설정에서 자동 업로드 관련 기능을 활성화
 
 중요한 긴 영상은 USB 저장장치로 직접 옮기는 방식이 더 확실합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 앱에서 보관 기간 확인
 
 자동 업로드된 캡처는 클라우드에 영구 보관되는 개인 사진 저장소와 다릅니다. 일정 기간 동안 앱에서 접근할 수 있는 형태이므로 필요한 사진은 휴대폰에 별도로 저장하는 편이 좋습니다.
@@ -64,17 +49,6 @@ PS5와 앱이 서로 다른 PSN 계정으로 로그인돼 있으면 캡처가 �
 
 앱 로그아웃과 재로그인보다 계정부터 확인하는 것이 빠릅니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 네트워크 업로드 확인
 
 PS5가 인터넷에 연결되지 않았거나 업로드 중 휴식 모드 설정이 제한돼 있다면 캡처 전송이 늦어질 수 있습니다. 큰 영상은 스크린샷보다 시간이 더 걸릴 수 있습니다.
@@ -86,17 +60,6 @@ PS5가 인터넷에 연결되지 않았거나 업로드 중 휴식 모드 설정
 원본 품질의 영상이나 많은 캡처를 한꺼번에 백업하려면 USB 저장장치를 활용하는 편이 낫습니다. 미디어 갤러리에서 필요한 파일을 선택해 복사하면 PC 편집에도 바로 사용할 수 있습니다.
 
 앱은 빠른 공유에, USB는 장기 보관과 편집에 적합합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 설정 변경 뒤 확인할 부분
 
@@ -112,13 +75,3 @@ PS5 문제 해결은 무작정 초기화하는 것보다 재현 조건을 찾는
 
 PS5는 같은 증상이라도 계정, 게임 버전, 연결 장비에 따라 원인이 달라질 수 있습니다. 그래서 가장 최근에 바꾼 설정과 문제가 시작된 시점을 기준으로 하나씩 되돌려 확인하시면 불필요한 재설치와 초기화를 줄일 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

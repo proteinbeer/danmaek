@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 귀무자 웨이 오브 더 소드의 수집품은 단순한 컬렉션이 아니라 강화와 트로피의 연료입니다. 부적인 차암부터 장비 강화 재료까지 무엇 하나 빠지지 않고 성장과 연결되어 있으며, 전량 수집이 트로피 조건으로 직결되어 있습니다. 다행히 자유 이동이 끝나는 지점이 명확해서, 탐색 순서만 미리 알고 가면 헤매지 않고 100%를 채울 수 있습니다.
 
 이 글은 해외 컬렉터블 가이드를 바탕으로 수집품 전체 구성, 오니 비전 스캔의 기본기, 교토의 신비와 챈스 인카운터 해금 조건, 나머지 분류의 특징, 뉴게임 플러스 이월 규칙을 순서대로 정리했습니다. 위치 하나하나보다 구성과 타이밍을 파악하는 데 초점을 맞춥니다.
@@ -46,17 +42,6 @@ hideDescription: true
 
 오니 비전 트레져스 계열은 차암과 부적 작업에도 기여합니다. 챈스 인카운터 마커를 스캔으로 발견할 수 있어 발을 빼서 놓치는 일이 줄어들고, 탐색 루트가 자연스럽게 사이드 콘텐츠로 이어집니다. 탐색 순서를 스캔 기준으로 짜면 정리 시간이 절반으로 줄어듭니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 교토의 신비 8종 해금 조건
 
 교토의 신비는 '기이한 사건' 메뉴의 관찰 항목으로 정리되는 사이드 퀘스트입니다. '그림자 속에 도사린 것' 퀘스트를 마치면 해금되며, 지도에 나비 마커로 시작 지점이 표시됩니다. 첫 교토 지역과 동부 교토에 나뉘어 총 8종이 배치되어 있습니다.
@@ -72,17 +57,6 @@ hideDescription: true
 보상은 차암 8종을 포함해 상당합니다. 지열 차암, 새디스트 스트렝스 차암, 리퍼 찬트, 스태미나 차암, 덱스터리 차암, 엔타이스먼트 차암, 어웨이크닝 차암, 오니 파워 차암이 전부 챈스 인카운터에서 나옵니다. 리퍼 찬트는 붉은 소울 파밍의 핵심이라 가능한 한 빨리 완료하는 것이 좋습니다.
 
 챈스 인카운터의 기회는 회차마다 한 번입니다. 뉴게임 플러스에서 초기화되어 다시 나오므로 보상 아이템의 공물 전환과 함께 꼬박꼬박 챙겨야 하며, 오니 비전 스캔으로 마커를 미리 발견해 지나치는 일을 막는 것이 수집 요령입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 라이온독·겐마 노트·장비 재료
 
@@ -100,13 +74,3 @@ hideDescription: true
 
 탐색 계획은 스토리를 진행하며 길에 보이는 것만 줍고, 최종 미션 직전에 수동 세이브를 만든 뒤 남은 수집과 파밍을 통합하는 방식이 가장 효율적입니다. 수집 전용 테크닉 없이 오니 비전과 결합한 한 번의 정리 루트로 전 분류를 마무리하면 시간 낭비 없이 100%가 완성됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

@@ -21,10 +21,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 귀무자 웨이 오브 더 소드는 전투의 높이만큼 진행에서 막히는 지점도 많은 게임입니다. 리프트를 닫는 원리, 오니 비전으로 여는 통로, 오니 포탈의 해금 시점, 그리고 최종 미션 직전의 정리까지 알면 스토리를 훨씬 매끄럽게 타고 내려갈 수 있습니다. 이 글은 해외 공략의 미션 진행을 종합해 프롤로그부터 최종 미션 '렌다이노 충돌'까지의 흐름을 정리했습니다.
 
 게임 내 미션은 웨이 오브 더 소드 목록에 21개 안팎으로 표기되며, 진행 기준에 따라 22개 이름으로도 세어집니다. 완전한 선형이 아니라 재방문이 가능한 구조라, 본 공략은 미션 순서와 더불어 막힘을 피하는 포인트를 중심으로 서술합니다. 메인 스토리만 보면 20시간 안팎, 사이드 포함 평균 플레이는 25시간 정도입니다.
@@ -47,17 +43,6 @@ hideDescription: true
 
 이 구간에서 오니 아머먼트 01과 02, 힐러 부적(아뮬렛 01), 겐마 노트 1번 같은 핵심 아이템이 쌓입니다. 보스 두 명을 연달아 잡는 시점이므로 해외 공략은 이 구간부터 소울 정산을 함께 진행하도록 권장합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 교토 도심의 신비와 여덟 기둥
 
 본격적으로 교토 도심이 활짝 열리는 구간입니다. '타락한 교토(Kyoto, Corrupted)'에서는 곳곳의 리프트를 봉인하고 타카무라와 대화하며 조사를 진행하고, '오니의 제자(The Oni's Apprentice)'에서는 시즈카와 함께 종을 울리고 훈련을 거친 뒤 록쿠도 신지 사원으로 돌아옵니다.
@@ -73,17 +58,6 @@ hideDescription: true
 두 번째 리프트 근처에서는 체험판 시크릿 보스였던 뱌쿠에(백 가지 오욕)가 등장합니다. 돌진 충전은 뒤로 닷지로 피하고, 공중강하를 노려 잇센을 걸며, 거리를 벌리면 오니 보우로 체력 회복을 끊어주는 방식이 정석입니다.
 
 마지막 말리스 식물을 자르면 지역 전체의 안개가 걷히며 '챈스 인카운터(기회 조우)' 사이드 콘텐츠가 열립니다. 이어지는 '피난처의 힘(A Strength in Refuge)'에서는 타카무라의 조언대로 숨겨진 오니 파워 포탈(오니 포탈)을 찾아 능력을 획득합니다. 오니 포탈은 스킬 해금 시점을 좌우하므로 반드시 순서대로 여는 것이 좋습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 중반 지역 공략 미션 흐름
 
@@ -101,13 +75,3 @@ hideDescription: true
 
 최종 미션 '렌다이노 충돌(The Clash at Rendaino)'은 포인트 오브 노 리턴입니다. 시작 전에 수동 세이브를 만들고, 남은 사이드와 수집품을 마무리한 뒤 붉은 소울을 전부 소비하는 것이 정석입니다. 붉은 소울은 뉴게임 플러스로 이월되지 않지만 스킬과 부적 강화, 호즈키 강화는 유지됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 프라그마타는 일반적인 레벨 경험치보다 탐색으로 얻는 업그레이드 재료와 쉴터 설비가 성장의 중심입니다. 그래서 초반 재료를 아무 곳에나 쓰면 다음 구역에서 갑자기 화력이나 생존이 부족하게 느껴질 수 있습니다.
 
 정답은 무조건 공격력부터가 아닙니다. 현재 실패 원인을 기준으로 휴의 슈트, 주무기, 다이애나 해킹 중 어디를 먼저 올릴지 정하는 것이 가장 안정적입니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 해킹은 잘 되는데 오픈 시간 안에 적 체력을 못 깎는다면 주무기 강화가 좋습니다. 매 전투에 영향을 주는 투자라 낭비가 적습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 슈트는 죽는 이유가 보일 때
 
 패턴은 알고 해킹도 되는데 한두 번 맞으면 그대로 무너진다면 휴의 슈트를 올릴 차례입니다. 체력과 방어 여유가 생기면 해킹 중 실수 하나를 버틸 수 있어 체감 난도가 크게 내려갑니다.
@@ -65,17 +50,6 @@ hideDescription: true
 
 한쪽만 올리면 성장 균형이 무너질 수 있습니다. 기본 성능을 확보한 뒤 자주 쓰는 보조 유닛을 프린트하는 흐름이 가장 안정적입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 루나필라멘트는 범용 장비부터
 
 유닛 프린터에 쓰는 루나필라멘트는 여러 장비에 들어가므로 초반에는 상황이 너무 좁은 장비보다 자주 쓰는 장비를 먼저 강화하시는 편이 좋습니다. 스테이시스 넷과 디코이 제너레이터처럼 다양한 전투에서 시간을 벌어주는 장비가 대표적입니다.
@@ -87,17 +61,6 @@ hideDescription: true
 레드 존 같은 선택 도전에서 얻는 희귀 자원은 후반 능력과 부착물에 쓰일 수 있어 일반 재료처럼 소비하면 아쉽습니다. 당장 필요하지 않은 고급 옵션은 먼저 용도를 확인한 뒤 투자하시는 편이 좋습니다.
 
 희귀 자원은 강한 장비를 열어주는 대신 다시 모으기 번거로운 경우가 많습니다. 첫 회차에서는 범용성이 높은 효과를 우선하는 것이 안전합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 추천 순서는 손에 따라 달라진다
 
@@ -117,13 +80,3 @@ hideDescription: true
 
 강화 결과는 메뉴 숫자보다 실제 전투에서 판단하시면 됩니다. 같은 적을 상대로 해킹 시간과 오픈 후 처치 속도, 피격 여유가 얼마나 달라졌는지 보면 다음 투자 방향도 자연스럽게 잡힙니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

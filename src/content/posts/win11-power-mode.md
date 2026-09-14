@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 노트북이 갑자기 느려졌거나 배터리가 평소보다 빨리 줄어든다면 프로그램만 확인할 필요는 없습니다.
 
 윈도우 11의 전원 모드가 현재 사용 목적과 맞지 않게 설정돼 있어 체감 성능이나 사용 시간이 달라질 수 있죠.
@@ -61,17 +57,6 @@ hideDescription: true
 
 같은 노트북이라도 전원 상태에 따라 성능이 달라졌다고 느끼는 이유가 여기 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 화면과 절전 시간도 함께 보기
 
 전원 및 배터리 설정에는 화면 끄기와 절전 진입 시간을 조절하는 항목도 있습니다.
@@ -99,17 +84,6 @@ hideDescription: true
 OLED 화면이라면 어두운 모드가 전력 절약에 도움이 될 수 있습니다.
 
 디스플레이 종류에 따라 효과가 다르지만 전원 관리가 CPU 설정 하나로 끝나지 않는다는 예가 됩니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 최고 성능보다 맞는 설정
 
@@ -139,13 +113,3 @@ OLED 화면이라면 어두운 모드가 전력 절약에 도움이 될 수 있�
 
 하드웨어는 그대로인데 체감만 변했다면 설정 하나가 바뀐 경우도 생각보다 흔합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

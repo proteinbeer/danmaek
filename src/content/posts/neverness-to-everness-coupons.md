@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 이환(Neverness to Everness)은 호타 스튜디오가 개발하고 퍼펙트 월드가 서비스하는 어반 판타지 오픈월드 RPG입니다. 이상 헌터가 되어 도시에서 벌어지는 사건을 해결하는 세계관으로, PC와 모바일을 오가며 플레이할 수 있습니다.
 
 이환 코드는 방송과 이벤트에서 자주 나오며, 유효 기간이 몇 주 안팎으로 짧은 편입니다. 새 코드가 보이면 바로 입력해두는 습관이 좋죠.
@@ -60,17 +56,6 @@ hideDescription: true
 이환 리딤코드는 계정당 1회만 사용할 수 있습니다. 같은 계정에서 두 번째로 입력하면 이미 사용한 코드라는 안내가 나옵니다.
 
 보상은 입력 즉시 지급되지 않고 우편함으로 도착합니다. 모두 수령을 눌러 한 번에 챙기는 편이 좋죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 4. 방송 코드의 짧은 유효 기간
 

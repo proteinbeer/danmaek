@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 바로 옆 노트북으로 사진 몇 장을 옮기려고 USB를 찾거나 메신저에 자기 자신에게 파일을 보내는 경우가 많습니다.
 
 윈도우 11의 근거리 공유를 사용하면 가까운 PC끼리 블루투스와 와이파이를 이용해 파일과 링크를 보낼 수 있습니다.
@@ -61,17 +57,6 @@ PC 이름과 검색 가능 상태가 주변에 보일 수 있기 때문입니다
 
 다운로드 폴더가 복잡하다면 별도 수신 폴더를 지정해두는 것도 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 와이파이를 쓰면 더 빠를 수 있다
 
 최신 윈도우 11 환경에서는 조건이 맞으면 같은 사설 와이파이 네트워크를 이용해 더 빠르게 파일을 보낼 수 있습니다.
@@ -99,17 +84,6 @@ PC 이름과 검색 가능 상태가 주변에 보일 수 있기 때문입니다
 두 기기를 가까이 두고 블루투스와 와이파이를 한번 껐다 켜는 것도 기본적인 점검 방법입니다.
 
 방화벽이나 회사 보안 정책이 공유를 막는 환경도 있을 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 메신저보다 나은 순간
 
@@ -139,13 +113,3 @@ PC 이름과 검색 가능 상태가 주변에 보일 수 있기 때문입니다
 
 편한 기능일수록 항상 열어두기보다 필요한 순간에만 범위를 넓히는 습관이 보안에도 도움이 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 더 블러드 오브 던워커에서는 고정된 직업을 고르는 대신 검술, 주술, 흡혈이라는 세 갈래 스킬 트리에 포인트를 나눠 코엔을 성장시킵니다. 기존 액션 RPG와 달리 레벨만 올린다고 스킬이 바로 열리지 않고, 교본, 타락 수치, 성소라는 추가 조건이 붙습니다.
 
 이 글에서는 세 트리의 역할 구분과 해금 조건, 첫날 찍기 좋은 우선순위, 그리고 낮 중심과 밤 중심으로 나눈 추천 빌드를 정리했습니다. 30일의 제한 안에서 내가 언제 주로 싸우느냐를 먼저 정하면 나머지 투자가 쉬워집니다.
@@ -46,17 +42,6 @@ hideDescription: true
 
 흡혈은 교본 대신 타락 수치가 관건입니다. 인간이나 동물의 피를 흡수하면 타락이 오르고, 일정 단계에 도달하면 새 흡혈 스킬이 열립니다. 흡혈만이 포인트 하나로 바로 말려 있는 유일한 트리라, 게임 시작 직후 첫 포인트를 쓰기 좋은 대상입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 첫날 우선 투자 순서
 
 첫 우선순위는 활성화 충전과 지구력 관련 패시브입니다. 일반 공격과 방어로 충전을 빠르게 회복하면 액티브 기술을 자주 쓸 수 있고, 지구력 증가와 회피 비용 감소는 방향성 전투에서 생존력을 크게 높여줍니다. 지구력 끝없는 노력, 회피 비용을 낮추는 날렵한 발, 최대 체력을 늘리는 활력, 활성화 충전을 늘리는 지속된 집중이 대표적입니다.
@@ -72,17 +57,6 @@ hideDescription: true
 주술에서는 끓는 피로 전투 시작 직후 지속 피해를 걸고 검술로 마무리하는 흐름이 추천됩니다. 끓는 피는 자신의 체력을 쓸 수 있으므로, 체력 비용을 낮추는 검약한 주술과 회복 관련 패시브를 함께 찍는 편이 좋습니다. 여러 적을 상대할 때는 넓은 휘두르기와 돌격으로 기절을 노리면 반격의 부담이 줄어듭니다.
 
 탐험을 돕는 주술 단서와 마법 방벽 같은 기술도 유용합니다. 낮 중심이라면 늘 쓰는 시간대인 만큼, 주술 교본 수집을 우선하는 것이 효율적입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 밤 중심 빌드: 검술과 흡혈
 
@@ -100,13 +74,3 @@ hideDescription: true
 
 결국 스킬 투자의 핵심은 모든 트리를 다 채우는 것이 아니라, 내가 싸우는 시간대와 방식에 맞춰 두 갈래를 집중하는 것입니다. 검술을 기본축으로 삼고 낮에는 주술, 밤에는 흡혈을 얹는 구성이면 어떤 빌드든 두 시간대를 모두 대응할 수 있습니다. 시간이 곧 자원인 게임인 만큼, 헤매는 투자 없이 목적을 먼저 정하고 찍는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 프라그마타에서 100퍼센트 완료를 노리면 단순히 보이는 상자를 전부 여는 것만으로는 부족합니다. 안전 상자, 순수 루넘, REM, 모드, 저장 확장 장치, 카트리지 홀더, 훈련 데이터처럼 진행률에 직접 연결되는 수집 요소가 여러 종류로 나뉘어 있습니다.
 
 전체 수집품은 상당히 많지만 다행히 엔딩 뒤에도 정리할 수 있는 구조가 있습니다. 첫 회차부터 위치 공략을 보며 전부 긁기보다 어떤 것이 진행률에 들어가는지 먼저 이해하고 나중에 부족한 것만 채우는 편이 훨씬 편합니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 모든 보이는 오브젝트가 같은 비중으로 들어가는 것은 아닙니다. 진행률이 99퍼센트에서 멈췄다면 미니 캐빈보다 이 핵심 수집품부터 확인하시는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 미니 캐빈은 별도 업적
 
 미니 캐빈은 총 15개이며 다섯 메인 구역에 세 개씩 배치된 것으로 정리됩니다. 일반 아이템처럼 줍는 것이 아니라 소리를 듣고 찾아 사격해야 하는 독특한 수집 요소입니다.
@@ -65,17 +50,6 @@ hideDescription: true
 
 업적까지 노리신다면 트램 터미널에서 활성화한 지점을 확인하면서 빠진 곳을 체크하시는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 일부는 첫 방문에 못 먹는다
 
 스토리 진행으로 자동 해금되는 능력과 장비가 있어 첫 방문에는 접근하지 못하는 수집품도 있습니다. 잠긴 길을 보고 놓쳤다고 생각해 억지로 찾을 필요는 없습니다.
@@ -87,17 +61,6 @@ hideDescription: true
 수집을 본격적으로 시작할 때는 오브젝트 스캔 관련 능력이 매우 유용합니다. 눈으로만 찾으면 놓치기 쉬운 상자와 업그레이드 자원을 빠르게 확인할 수 있어 백트래킹 시간이 크게 줄어듭니다.
 
 100퍼센트를 노리신다면 전투용 능력만 챙기지 마시고 탐색 편의 기능도 투자할 가치가 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 첫 회차와 정리 회차를 나눈다
 
@@ -117,13 +80,3 @@ hideDescription: true
 
 또 엔드게임에서 얻는 장비와 보상은 다음 회차 빌드 실험에도 도움이 됩니다. 수집을 단순 숙제로만 보지 마시고 새로운 장비와 해킹 옵션을 여는 과정으로 생각하면 훨씬 덜 지루하게 진행할 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

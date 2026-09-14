@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 PS5 오류가 계속된다고 바로 초기화를 누르면 세이브와 캡처를 잃을 수 있습니다. 초기화는 강력한 해결 방법이지만 어떤 옵션을 선택하느냐에 따라 지워지는 범위가 크게 달라집니다.
 
 먼저 백업할 데이터를 정리하고 캐시나 데이터베이스 재구축 같은 낮은 단계부터 시도하는 편이 안전합니다.
@@ -41,17 +37,6 @@ PS5 오류가 계속된다고 바로 초기화를 누르면 세이브와 캡처�
 
 지원되는 별도 백업 방법이 있다면 함께 사용하고, 중요한 게임은 자동 업로드만 믿지 말고 한 번 직접 확인하는 편이 안전합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 스크린샷과 영상 백업
 
 미디어 갤러리의 캡처는 게임 세이브와 별도입니다. 오래 보관할 스크린샷과 영상은 USB 저장장치나 다른 기기로 옮겨둡니다.
@@ -64,17 +49,6 @@ PS5 오류가 계속된다고 바로 초기화를 누르면 세이브와 캡처�
 
 필요한 복구 코드도 안전한 곳에 준비합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 공장 초기화와 재설치 차이
 
 일반 초기화는 사용자 데이터와 설정을 지워 콘솔을 초기 상태로 되돌리는 작업입니다. 시스템 소프트웨어 재설치는 운영체제 파일까지 새로 설치하는 더 강한 단계로, 안전 모드에서 USB 파일이 필요할 수 있습니다.
@@ -86,17 +60,6 @@ PS5 오류가 계속된다고 바로 초기화를 누르면 세이브와 캡처�
 PS5를 다른 사람에게 판매하거나 양도할 때도 초기화가 필요합니다. 계정을 로그아웃하고 콘솔 공유 상태와 저장 데이터를 확인한 뒤 개인 정보를 지우는 순서가 좋습니다.
 
 문제 해결과 판매 준비 모두 초기화 버튼보다 백업과 계정 정리가 먼저라는 점은 같습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 설정 변경 뒤 확인할 부분
 
@@ -112,13 +75,3 @@ PS5 문제 해결은 무작정 초기화하는 것보다 재현 조건을 찾는
 
 PS5는 같은 증상이라도 계정, 게임 버전, 연결 장비에 따라 원인이 달라질 수 있습니다. 그래서 가장 최근에 바꾼 설정과 문제가 시작된 시점을 기준으로 하나씩 되돌려 확인하시면 불필요한 재설치와 초기화를 줄일 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

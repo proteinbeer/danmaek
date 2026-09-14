@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 할로윈 더 게임에서 마이클 마이어스는 일반적인 방식으로 완전히 죽일 수 없는 존재로 설정되어 있습니다. 그렇다고 민간인이 끝까지 도망만 다녀야 하는 것은 아니며, 주민과 경찰의 저항을 충분히 키우면 마이클을 제압해 스미스 그로브 정신병원으로 돌려보내는 체포 흐름을 만들 수 있습니다.
 
 체포는 초반부터 무조건 노리는 고정 목표라기보다 판이 길어졌을 때 사용할 수 있는 역전 수단입니다. 준비가 덜 된 상태에서 마이클과 정면전을 반복하면 오히려 탈출 기회만 잃을 수 있습니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 성격 수치가 높은 민간인은 주민 설득과 당국 신고에 유리하고 더 많은 동행자를 지휘하는 데도 강점을 가집니다. 체포를 노리는 팀이라면 캐릭터 능력치를 보고 주민과 경찰 담당을 정하는 것이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 죽은 민간인도 끝이 아님
 
 민간인이 마이클에게 희생됐다고 해서 무조건 관전만 하는 구조는 아닙니다. 공식 멀티플레이 설명에서는 죽은 플레이어가 친구를 돕고, 보안관 대리 또는 루미스 박사로 다시 돌아와 남은 민간인과 경찰을 지원할 수 있다고 안내합니다.
@@ -64,17 +49,6 @@ hideDescription: true
 마이클은 근접전 능력이 강하고 반복해서 공격을 받더라도 쉽게 제거되지 않습니다. 민간인 한 명이 좋은 무기를 들었다고 혼자 달려드는 것보다 경찰과 동료, 주민의 공격이 겹치는 순간에 압박해야 합니다.
 
 출시 패치에서는 짧은 시간 안에 마이클을 반복해서 눈멀게 할 때 효과가 점차 줄어들도록 조정됐습니다. 같은 방해 수단만 연속으로 쓰기보다 근접 공격, 거리 유지, 경찰 압박을 섞는 편이 중요해졌습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 체포가 유리한 판
 
@@ -94,13 +68,3 @@ hideDescription: true
 
 반대로 경찰 대응이 강하고 마이클이 한 번 넘어졌다면 그 순간에는 모두가 목적을 맞춰야 합니다. 누군가는 다시 일어나는 시간을 늦추고, 다른 사람은 체포 조건을 이어 가는 식으로 역할을 분명하게 나누면 후반의 수적 우위를 실제 결과로 바꾸기 쉬워집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

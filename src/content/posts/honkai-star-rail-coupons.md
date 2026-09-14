@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 붕괴: 스타레일(Honkai: Star Rail)은 호요버스가 만든 턴제 우주 판타지 RPG입니다. 은하 여행단 아스트랄 익스프레스에 올라 다양한 세계를 여행하며, 함선마다 새로운 동료와 이야기를 만나게 되죠.
 
 리딤코드를 입력하면 뽑기 재화인 성옥과 신용 포인트, 육성 재료를 받을 수 있습니다. 버전 업데이트 방송마다 한정 코드가 공개되므로 최신 코드를 미리 확인해두면 보상을 놓치지 않습니다.
@@ -54,17 +50,6 @@ STARRAILGIFT는 오랫동안 유효한 상시 코드로 신규·복귀 유저에
 
 아이폰(iOS)은 앱 정책상 게임 내 입력이 제한될 수 있습니다. 이 경우 아래 공식 홈페이지 방법을 이용하시기 바랍니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 공식 홈페이지에서 입력하는 방법
 
 공식 기프트 페이지(hsr.hoyoverse.com/gift)에 접속합니다. 호요버스 계정으로 로그인한 뒤 게임 서버와 캐릭터 닉네임을 확인하고, 리딤코드를 입력해 교환하면 끝입니다.
@@ -77,13 +62,3 @@ STARRAILGIFT는 오랫동안 유효한 상시 코드로 신규·복귀 유저에
 
 새 코드를 놓치지 않으려면 공식 유튜브, X(트위터), 호요랩 공지를 주기적으로 확인하는 것이 가장 확실합니다. 이 글의 목록도 새 코드가 나오면 계속 갱신하도록 하겠습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

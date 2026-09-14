@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 게임패스를 오래 구독한 사람이 가장 좋은 가격을 받을 것 같지만, 최근 나온 사례는 반대 방향입니다. 일부 이용자가 구독을 취소하거나 자주 끊은 뒤 게임패스 얼티밋을 다시 가입하려 할 때 정상가보다 최대 30% 낮은 제안을 받았다는 보고가 나왔죠.
 
 이 할인은 모든 이용자에게 공개된 공식 프로모션이 아닙니다. 특정 계정에만 나타나는 맞춤형 제안으로 보이며, 마이크로소프트가 적용 기준을 공개한 것도 아니어서 해지만 하면 무조건 할인을 받을 수 있다고는 볼 수 없습니다.
@@ -46,17 +42,6 @@ hideDescription: true
 
 그래서 할인만 노리고 지금 구독을 끊는 건 추천하기 어렵습니다. 저장된 혜택이나 이용 중인 게임 상황에 따라 손해가 더 커질 수도 있기 때문입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 구독 서비스의 가격표가 사람마다 달라지는 시대
 
 예전에는 상품 가격이 하나였습니다. 매장에 붙은 가격표를 보면 누구든 같은 금액을 냈고, 할인 행사도 대부분 공개돼 있었죠.
@@ -73,17 +58,6 @@ hideDescription: true
 
 특히 게임패스는 최근 가격, 요금제, 클라우드 이용 조건까지 계속 변하고 있습니다. 이런 상황에서 맞춤 할인까지 커지면 이용자는 게임 목록보다 내 계정에 어떤 가격이 뜨는지를 먼저 확인하게 될 수도 있겠죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 게임패스 할인에서 더 중요한 변화
 
 이번 사례에서 흥미로운 건 30%라는 숫자 하나가 아닙니다. 구독 시장에서 가격이 고정된 숫자가 아니라 이용자를 붙잡기 위한 도구로 바뀌고 있다는 점입니다.
@@ -98,13 +72,3 @@ hideDescription: true
 
 마이크로소프트가 앞으로 이런 제안을 얼마나 넓게 적용할지는 확인이 필요합니다. 다만 이번 사례만으로도 게임 구독이 단순 월정액에서 이용자별 가격 실험으로 넘어가고 있다는 신호는 충분히 읽을 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

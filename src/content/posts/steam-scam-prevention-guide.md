@@ -18,10 +18,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 스팀을 오래 쓰다 보면 계정을 노리는 메시지를 한 번쯤 받게 됩니다. 대부분 가짜 친구 추가와 위장 로그인 링크로 이루어진 스캠이라, 줄의 패턴만 알아도 피할 수 있습니다.
 
 스팀 스캠은 게임 아이템이 거래되는 환경을 노립니다. 계정 하이재킹, 아이템 사기, 결제 정보 탈취까지 시도가 다양한데, 공통적으로 방심한 플레이어의 클릭을 기다립니다. 처음 신고받은 사람이나 잘 모르는 사람이 보낸 링크라면 특히 조심해야 합니다. 스팀에서 가장 흔하게 만나는 스캠 수법과, 이미 당했을 때 대처하는 방법까지 한 번에 정리했습니다.
@@ -44,17 +40,6 @@ hideDescription: true
 
 친한 친구가 보낸 메시지라도, 링크로 로그인을 요구하면 일단 의심부터 해야 합니다. 스팀에서 공식 행사나 추첨이 있다면 공식 사이트와 뉴스에서 안내합니다. 불특정 링크를 통한 접속 요구는 전부 사기라고 봐도 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 아이템 교환 스캠과 미리보기 사기
 
 거래 화면을 위조해서 귀한 아이템이 걸려 있는 것처럼 보이게 하는 수법입니다. 실제 가치보다 낮은 아이템으로 바꿔치기합니다.
@@ -70,17 +55,6 @@ hideDescription: true
 "스팀 지갑 30% 할인 충전"이나 "러시아 저가 키 대신 결제해줄게" 같은 제안에는 거의 모두 함정이 있습니다. 스캐머는 결제를 대신 해주는 척하며 카드 정보나 계정 접근 권한을 요구합니다. 지갑 충전은 스팀 공식 경로를 통해서만 해야 합니다.
 
 또한 타인에게 스팀 지갑 코드를 보내달라는 요청도 흔합니다. 코드는 현금과 같다고 생각하면 됩니다. 누가 어떤 이유로든 지갑 코드나 결제 카드 정보를 요구하면 거래를 중단하고 신고하는 것이 맞습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 이미 당했거나 의심될 때 대처법
 

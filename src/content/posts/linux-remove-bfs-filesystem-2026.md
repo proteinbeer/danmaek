@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 리눅스 커널에서 오래된 BFS 파일시스템 지원을 제거하는 패치가 리눅스 7.4를 목표로 진행되고 있습니다. BFS는 과거 SCO 유닉스웨어의 부트 파티션에서 사용됐던 파일시스템으로 현재 메인라인 리눅스에서 실제 사용 사례를 찾기 어려운 코드입니다.
 
 운영체제는 오래된 기능을 계속 남겨두는 것이 호환성 측면에서는 좋아 보입니다. 하지만 아무도 쓰지 않는 코드를 수십 년 유지하면 새 기능을 만들 때마다 함께 검사해야 하는 기술 부채가 됩니다.
@@ -41,17 +37,6 @@ hideDescription: true
 
 리눅스는 새 기능을 계속 추가하지만 동시에 쓰이지 않는 코드를 주기적으로 걷어냅니다. 커널 크기를 줄이는 것보다 유지보수 대상과 보안 공격면을 줄이는 효과가 더 중요합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 아무도 안 쓰는 코드도 계속 관리해야 한다
 
 파일시스템 코드는 저장된 데이터를 직접 다루기 때문에 잘못된 입력에 대한 검증이 중요합니다. 이용자가 거의 없어도 커널에 포함돼 있으면 빌드가 깨지지 않는지와 보안 문제가 없는지 계속 확인해야 합니다.
@@ -63,17 +48,6 @@ hideDescription: true
 메인라인 최신 커널에서 지원이 사라진다고 기존 리눅스 버전에서 BFS가 즉시 없어지는 것은 아닙니다. 오래된 시스템을 유지해야 하는 환경은 지원이 남은 커널을 계속 사용할 수 있습니다.
 
 정말 필요한 기업이나 사용자가 있다면 제거 논의 과정에서 사례를 제시해 유지 필요성을 설명할 수도 있습니다. 이런 공개 개발 절차가 오래된 기능을 정리할 때 중요한 안전장치입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 리눅스도 영원히 모든 것을 품지는 않는다
 
@@ -88,17 +62,6 @@ BFS 삭제는 일반 데스크톱 이용자에게 체감될 변화는 거의 없
 아주 오래된 유닉스웨어 저장장치를 보존 중인 연구자라면 최신 커널에서 지원이 사라지기 전에 데이터를 일반적인 파일시스템으로 옮겨두는 편이 안전합니다. 특정 파일시스템 드라이버가 영원히 메인라인에 남아 있을 것이라고 기대하기는 어렵습니다.
 
 디지털 보존은 원본 매체만 창고에 넣어두는 것으로 끝나지 않습니다. 읽을 수 있는 하드웨어와 드라이버, 파일 포맷까지 함께 보존하거나 주기적으로 현대 포맷으로 이전해야 수십 년 뒤에도 실제 데이터를 열 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 코드 삭제는 커널 개발 속도에도 도움
 

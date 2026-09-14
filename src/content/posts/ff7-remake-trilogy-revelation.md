@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 1997년에 나온 파이널 판타지 7을 다시 만드는 프로젝트가 2027년 봄 리벨레이션으로 완결되죠. 그리고 스퀘어 에닉스는 이 프로젝트를 원작의 요소를 바탕으로 새로운 이야기를 만드는 3부작이라고 설명합니다.
 
 보통 리메이크라고 하면 그래픽을 현대화한 같은 게임을 떠올립니다.
@@ -52,17 +48,6 @@ hideDescription: true
 
 리메이크라기보다 원작에 대한 기억까지 이용하는 후속 해석에 가깝죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 세 편으로 나눈 사업
 
 대형 게임 하나를 세 작품으로 나누면 유저는 세 번 구매해야 합니다. 그래서 처음 발표됐을 때 지나치게 잘게 나누는 것 아니냐는 우려도 나왔죠.
@@ -82,17 +67,6 @@ hideDescription: true
 여기서 제작진은 원작의 수많은 지역과 사건을 현대적인 규모로 구현하면서 지난 두 작품에서 바꾼 이야기까지 마무리해야 합니다. 그래픽이 좋아지는 것보다 이야기를 하나의 결말로 수렴시키는 일이 더 어려울 수도 있죠.
 
 사실 3부작으로 늘린 장점이 마지막에는 정리해야 할 이야기의 양이라는 부담으로 돌아옵니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 리메이크의 기준을 바꾼 프로젝트
 

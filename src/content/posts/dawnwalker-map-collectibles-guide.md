@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 더 블러드 오브 던워커의 지도는 밤에 오르는 전망대를 통해서만 활짝 펼쳐집니다. 전망대는 시간을 소모하지 않는 대신 쉐도우스텝으로 벽을 타는 야간 전용 탐색이며, 정상의 조사 지점을 누르면 주변의 관심 지점이 물음표로 채워집니다. 지도를 먼저 여는 행동은 이후 모든 퀘스트 줄 이동 시간을 줄여주는 최고의 투자입니다.
 
 이 글에서는 전망대 11개의 위치와 보상, 지역별 위험도 순서, 성소와 빠른 이동, 트로피에 필요한 깃발·수송대·마을, 그리고 전설 무기 성자의 검 재건조를 위한 검 조각 위치까지 수집 요소를 한데 정리했습니다.
@@ -46,17 +42,6 @@ hideDescription: true
 
 도시 스바트라우는 넓고 경비대가 돌아다녀 하루가 걸리는 곳이 아닙니다. 상층부는 쉐도우스텝으로 옥상에 오른 뒤 잠입 탐색하면 경비와의 충돌을 피할 수 있고, 대성당은 밤에 잔테가 있는 구간이라 처음 도착 시 대면 시점을 확인해야 합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 성소와 빠른 이동 확보
 
 세상에는 총 111개의 성소가 빠른 이동 거점으로 배치되어 있습니다. 일부는 파손 상태로 시작해 수리를 요구하며, 수리 후 사용할 수 있습니다. 성소는 이동뿐 아니라 스킬 해금과 교본 사용의 장소이기도 하므로, 새 지역에 들어가면 성소부터 만지는 것이 기본 흐름입니다.
@@ -72,17 +57,6 @@ hideDescription: true
 셋째는 발레 상고라의 마을 8곳을 방문하는 '투어 가이드 트레이닝'입니다. 마을들은 지역에 따라 분포하며 지도상에서 확실히 구분되고, 방문 도중 상인과 활동이 함께 정리되므로 자연스럽게 진행됩니다. 도시 스바트라우를 포함한 방문은 어떤 경로로도 필연적으로 달성됩니다.
 
 이 세 요소는 모두 탐색 중 해금되므로, 지도를 완전히 밝힌 시점에 대부분이 이미 완료돼 있는 수준입니다. 남은 깃발만 지도 확인 후 하나씩 보러 가면 됩니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 성자의 검 조각 3개의 위치
 
@@ -106,13 +80,3 @@ hideDescription: true
 
 이 지점들은 전망대 후 물음표로 뜨며 경험치와 교본을 줍니다. 준비가 된 뒤에 지도를 밝히는 것이 아니라, 밤마다 전망대를 미리 밟아 지도를 밝힌 뒤 활동 거점을 공략하는 것이 뒤집힌 순서입니다. 지도가 커서 두려울 수 있지만, 원리는 단순합니다. 밤에는 반드시 탑 하나, 어느 순간에는 성소 하나씩 거둬가면 어느새 발레 상고라 전역이 손안에 들어옵니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

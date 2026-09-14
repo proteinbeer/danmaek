@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 프라그마타의 해킹 노드는 다이애나의 전투 성능을 결정하는 장비입니다. 처음에는 퍼즐을 조금 쉽게 해주는 보조 기능처럼 보이지만, 중반 이후에는 보스전과 다수전의 난도를 직접 낮추는 핵심 빌드 요소가 됩니다.
 
 중요한 점은 모든 상황에 하나의 정답 노드가 있는 것이 아니라는 것입니다. 일반 적을 빠르게 정리할 때와 복잡한 보스 매트릭스를 뚫을 때 필요한 효과가 다르기 때문에, 구역과 상대에 맞춰 구성을 바꾸는 편이 좋습니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 특히 보스전에서는 한 가지 효과에 의존하면 매트릭스 형태가 바뀌었을 때 대응이 어려워집니다. 최소 두 종류 이상을 익혀 두시면 상황 대응력이 크게 올라갑니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 보스용 노드는 별도로 준비
 
 일반 적은 매트릭스가 단순해 기본 노드만으로도 충분한 경우가 많습니다. 반면 보스는 짧은 오픈 시간을 최대한 활용해야 하므로 해킹 경로 단축과 방해 완화 효과가 훨씬 중요해집니다.
@@ -65,17 +50,6 @@ hideDescription: true
 
 이 조합은 특히 보스처럼 움직임이 크고 공격이 끊이지 않는 상대에서 좋습니다. 해킹 화면을 보는 시간이 짧아질수록 휴의 생존도 자연스럽게 올라갑니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 코드 제너레이터도 해킹 특화 장비
 
 코드 제너레이터는 해킹 방해를 줄이고 안정성을 높이는 방향으로 쓰기 좋은 전술 유닛입니다. 모든 전투에서 최고 화력을 만드는 장비는 아니지만, 해킹 자체가 막히는 상황에서는 가치가 크게 올라갑니다.
@@ -87,17 +61,6 @@ hideDescription: true
 필드에서 발견한 장비와 노드는 쉴터의 유닛 프린터를 통해 영구적인 로드아웃 선택지로 만드는 과정이 중요합니다. 발견만 하고 지나가면 다음 구역에서 자유롭게 쓰기 어렵습니다.
 
 새 노드를 얻었다면 루나필라멘트 여유를 확인하고 프린트 우선순위를 정하시면 됩니다. 자주 쓰는 안정형 노드를 먼저 영구화하고, 특정 상황용 노드는 나중에 챙기는 방식이 무난합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 노드 추천의 기준은 실패 원인
 
@@ -117,13 +80,3 @@ hideDescription: true
 
 보스 전에 일반 적을 상대로 새 노드와 전술 유닛을 시험해 두시면 좋습니다. 실전에서 처음 써보다가 조작이 꼬이는 것보다 안전한 구역에서 효과와 사용 타이밍을 미리 익히는 편이 훨씬 낫습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

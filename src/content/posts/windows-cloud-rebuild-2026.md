@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 윈도우가 망가져 부팅조차 되지 않을 때 가장 귀찮은 순간은 다른 PC에서 설치 USB를 만드는 과정입니다. 마이크로소프트가 이 단계를 없애려는 클라우드 리빌드 기능을 윈도우 11 인사이더 빌드에 넣었습니다.
 
 클라우드 리빌드는 복구 환경에서 윈도우 이미지와 기기 드라이버를 인터넷으로 다시 내려받아 운영체제를 새로 설치하는 방식입니다. 현재는 일반 이용자용 정식 기능이 아니라 테스트 단계라는 점은 먼저 구분하셔야 합니다.
@@ -47,17 +43,6 @@ hideDescription: true
 
 설치가 끝난 뒤 드라이버까지 함께 구성하는 방향이라면 제조사 노트북 이용자에게 특히 편할 수 있습니다. 윈도우를 다시 깐 뒤 와이파이 드라이버부터 찾는 오래된 풍경도 줄어들 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 대신 인터넷이 새로운 생명줄이 된다
 
 USB를 없앤다고 모든 문제가 사라지는 건 아닙니다. 이제는 안정적인 인터넷 연결이 복구의 전제 조건이 됩니다.
@@ -74,17 +59,6 @@ PC도 조금씩 그 방향으로 가고 있습니다. 운영체제 설치와 드
 
 예전 PC 문화에서는 직접 설치하고 설정하는 과정 자체가 기본 지식이었습니다. 앞으로는 그런 작업이 전문가나 취미 영역으로 남고 일반 사용자는 볼 일이 점점 줄어들 수도 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 정식 배포 전까지는 기다려야 한다
 
 현재 클라우드 리빌드는 윈도우 인사이더 테스트 기능입니다. 정식 윈도우 11에 언제, 어떤 형태로 들어갈지는 테스트 결과에 따라 달라질 수 있습니다.
@@ -99,13 +73,3 @@ PC도 조금씩 그 방향으로 가고 있습니다. 운영체제 설치와 드
 
 윈도우 업데이트가 운영체제와 드라이버를 직접 내려주는 구조가 안정되면 이런 제조사별 차이도 조금 줄어들 수 있습니다. PC를 바꿀 때마다 복구 방식부터 새로 배울 필요가 없어지는 건 생각보다 큰 편의입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

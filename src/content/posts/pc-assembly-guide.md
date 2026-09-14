@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 처음 조립 PC를 맞출 때 가장 어려운 것은 어느 부품을 어떤 순서로 장착하느냐입니다. 순서만 익혀두면 조립 자체는 부품을 끼우고 나사로 고정하는 차분한 작업입니다.
 
 특히 메인보드에 CPU와 메모리를 먼저 장착하느냐, 케이스에 파워를 먼저 넣느냐에 따라 난이도가 크게 달라지죠. 아래의 순서를 따라 하시면 실수를 줄일 수 있습니다.
@@ -49,17 +45,6 @@ hideDescription: true
 
 CPU를 소켓에 넣을 때 금색 접점이 위로 보이면 방향이 반대입니다. 억지로 누르는 대신 방향을 다시 확인하시기 바랍니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. CPU 쿨러와 저장장치 장착
 
 쿨러와 M.2 SSD는 조립 초반에 정리해두면 케이스 안에서 손이 닿기 어렵지 않습니다.
@@ -79,17 +64,6 @@ CPU를 소켓에 넣을 때 금색 접점이 위로 보이면 방향이 반대�
 - 메인보드를 대고 나사를 조여 고정합니다. 모든 구멍에 나사가 들어가야 안정적입니다.
 
 M-ATX 보드를 ATX 케이스에 넣을 때는 고정 구멍 위치를 잘 맞췄는지 반드시 확인합니다. 나사가 안 들어가는 자리는 잘못 끼운 것이므로 억지로 조이지 마십시오.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 그래픽카드와 배선 연결
 
@@ -111,13 +85,3 @@ M-ATX 보드를 ATX 케이스에 넣을 때는 고정 구멍 위치를 잘 맞�
 
 메인보드가 삐 소리나 점등으로 문제를 알려주는 기능이 있다면, 소리 패턴을 설명서와 비교해 원인을 확인할 수 있습니다. 부팅만 되면 이후에는 안정성을 위해 온도와 파워를 확인해보시기 바랍니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

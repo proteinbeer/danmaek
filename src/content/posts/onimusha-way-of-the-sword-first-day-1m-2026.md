@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 신작이 20년 넘게 비어 있었다는 사실만 놓고 보면 귀무자 시리즈의 복귀 자체가 위험한 선택처럼 보였습니다. 그런데 귀무자 웨이 오브 더 소드는 출시 첫날 전 세계 판매량 100만 장을 넘겼고, 시리즈 누적 판매량도 1000만 장을 돌파했습니다.
 
 숫자만 보면 화려한 복귀지만 더 흥미로운 건 과정입니다. 캡콤은 오래된 이름을 그대로 꺼내기보다 데모를 반복해서 공개하고 출시일까지 앞당기면서, 구매 전에 이용자가 직접 판단할 시간을 늘렸습니다.
@@ -46,17 +42,6 @@ hideDescription: true
 
 결과적으로 첫날 100만 장이라는 숫자가 나왔으니 일정 조정은 적어도 초반 판매에서는 불리하게 작용하지 않았습니다. 출시 시점 자체가 게임 품질만큼 중요하다는 걸 보여주는 사례이기도 하죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 데모를 한 번으로 끝내지 않은 이유
 
 캡콤은 정식 출시 전 여러 차례 체험 기회를 열었습니다. 6월에는 플레이 가능한 데모를 공개했고 행사에서도 직접 게임을 만져볼 수 있는 기회를 늘렸습니다.
@@ -72,17 +57,6 @@ hideDescription: true
 여기서 첫날 100만 장이 의미 있는 이유는 단순한 매출보다 다음 선택지를 넓혀준다는 데 있습니다. 오래 쉬었다는 이유만으로 시리즈 가치가 사라지는 건 아니라는 데이터가 생겼기 때문입니다.
 
 팬 입장에서는 자연스럽게 다른 과거 시리즈까지 기대하게 됩니다. 회사 입장에서도 완전히 새로운 브랜드를 처음부터 알리는 비용과 과거 이름을 현대적으로 되살리는 비용을 비교할 수 있게 되죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 첫날 숫자보다 봐야 할 다음 단계
 

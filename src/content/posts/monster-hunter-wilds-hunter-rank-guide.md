@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 헌터랭크(HR)는 몬스터헌터 와일즈에서 해금되는 콘텐츠를 결정하는 진행 수치입니다. 어떤 퀘스트를 열 수 있고, 어떤 몬스터와 싸울 수 있고, 어떤 소재를 만들 수 있는지가 모두 이 랭크에 묶여 있어서, 헌터랭크를 올리는 방법을 이해하면 성장 속도가 크게 달라집니다.
 
 이 글은 헌터랭크의 기본 구조와 스토리 구간의 랭크 캡, 경험치 획득원별 효율, 그리고 41부터 100까지의 핵심 마일스톤과 빠른 레벨업 루트를 정리합니다.
@@ -41,17 +37,6 @@ hideDescription: true
 
 캡이 걸린 동안에도 경험치(HRP)는 계속 쌓이며, 캡이 해제되면 쌓여 있던 경험치가 한꺼번에 반영됩니다. 따라서 캡 구간에 조사 퀘스트와 서브 퀘스트를 미리 돌아두면, 랭크 41이 풀리는 순간 크게 점프하는 것을 기대할 수 있습니다. 메인 퀘스트만 달리면 41에서 시작하지만, 캡 동안 열심히 파밍했다면 60～70까지 순식간에 오르는 경우가 많습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. HRP 획득원 효율 비교
 
 HRP를 주는 활동은 효율이 제각각입니다. 메인 스토리 퀘스트가 가장 높은 HRP를 주고, 보너스 보상이 붙은 조사 퀘스트가 그다음입니다. 이벤트 퀘스트 중에는 경험치가 강화된 로테이션이 있어 해당 기간에 집중 파밍하는 것이 좋고, 멀티파티에는 파티 보너스가 적용되어 파티원 전원이 같은 HRP를 받습니다.
@@ -63,17 +48,6 @@ HRP를 주는 활동은 효율이 제각각입니다. 메인 스토리 퀘스트
 챕터 6 최종 보스 아크벨트('뒤에 남겨진 것들' 퀘스트)를 클리어하면 헌터랭크 40 캡이 완전히 풀리고 41부터 자유롭게 올라갈 수 있습니다. 이 시점부터 멜딩 포트가 열려 1티어 장식주 멜딩을 사용하고, 헌터랭크가 더 오르면 추가 몬스터 특수 퀘스트가 해금됩니다.
 
 랭크 41 이후에는 고어 마가라·아크벨트의 템퍼드 우두머리급이 조사 풀에 들어오고, 레어리티 8 아티언 재료 파밍에 접근할 수 있게 됩니다. 여기서 주의할 점은 랭크 100만 바라보고 달리기 전에 특수 퀘스트(라기아크루스, 세레기오스 등)를 먼저 열어 두는 것입니다. 이 몬스터들이 이후 파밍의 선택지를 넓혀 줍니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. HR 50·61·100 마일스톤
 
@@ -94,13 +68,3 @@ HR 100은 엔드게임의 최대 관문입니다. 9성 템퍼드 조사와 아�
 
 정리를 하면, 로우랭크 반복은 피하고 하이랭크의 보너스 보상 조사 → 이벤트 경험치 강화 기간 활용 → 멀티 파티 보너스 순서로 진행하는 것이 정답입니다. 스토리 캡 구간에서는 남는 시간에 조사를 돌아 경험치를 저축해 두는 습관이 나중에 큰 차이를 만듭니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 뮤제닉스의 클래스는 고양이에 씌우는 목걸이로 결정됩니다. 같은 고양이여도 목걸이를 바꾸면 다른 클래스로 쓸 수 있고, 클래스마다 능력치 보정과 고유 스킬 풀이 달라 파티의 방향성 자체가 바뀌죠. 콘솔과 한국어로 새로 시작한 이용자라면 어떤 클래스를 우선 키우고 어떻게 팀을 짜야 하는지가 첫 관문입니다.
 
 게임에는 14개 가까운 클래스가 있으며, 처음부터 쓸 수 있는 것은 5개뿐입니다. 나머지는 지역을 클리어하고 NPC 부치에게 목걸이를 받아 해금하는 구조입니다. 어떤 클래스를 언제 손에 넣는지, 각각이 팀에서 맡는 역할을 파악하면 초중반 진행이 훨씬 수월해집니다.
@@ -46,17 +42,6 @@ hideDescription: true
 
 A급에는 강령술사와 수도승이 자주 이름을 올립니다. 강령술사는 시체로 언데드 부대를 소환하고 피를 빨아 회복해서 턴 이득을 보는 반면, 수도승은 원거리·근접 스탠스를 바꾸며 한 턴에 두 번 공격하는 만능형입니다. B급으로는 대장장이, 도적, 탱커가 꼽히고, 마법사와 드루이드, 심령사, 개척자 같은 C급 클래스는 조합과 아이템에 따라 성능이 크게 갈립니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 초중반 추천 파티 조합
 
 파티는 탱커, 근접 딜러, 원거리, 힐러의 균형이 중요합니다. 초반에 목걸이가 적을 때는 탱커-전사-사냥꾼-성직자 조합이 가장 안정적입니다. 탱커가 어그로를 끌고 전사가 옆에서 백스탭 보너스를 노리며, 사냥꾼은 맨 뒤에서 원거리 화력을, 성직자는 후방에서 회복을 담당하는 구조죠.
@@ -72,17 +57,6 @@ A급에는 강령술사와 수도승이 자주 이름을 올립니다. 강령술
 첫 목표는 자극 32를 맞추는 것입니다. 초반 가구로도 쉽게 확보할 수 있고, 이 임계값부터 스킬 유전이 안정되기 때문입니다. 전용 번식방을 만들어 자극과 편안함을 최대로 유지하고, 고양이가 4마리를 넘으면 편안함이 떨어지므로 한 방에 너무 몰아넣지 않는 편이 좋습니다.
 
 돌연변이는 별도의 유전 시스템이라기보다 신체 부위의 변종입니다. 변이된 팔이나 다리, 꼬리 등이 능력치 보정을 갖는 형태죠. 대부분 +2 한 스탯에 -1 다른 스탯이라 순이익이지만, 일부는 순수하게 이득만 주는 S급 변이입니다. 순이득 변이를 가진 개체는 계속 다음 세대로 이어가는 것이 기본 전략입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 질환과 근친 관리
 
@@ -100,13 +74,3 @@ A급에는 강령술사와 수도승이 자주 이름을 올립니다. 강령술
 
 번식은 레벨업으로 오른 능력치는 유전되지 않고 오직 기본 능력치만 물려받는다는 점을 기억해야 합니다. 따라서 번식용으로는 기본 능력치가 높은 개체를 남겨두고, 전투에서 얻은 보너스는 유전과 무관하다는 점을 감안해 혈통을 설계하는 편이 좋습니다. 각 세대마다 신선한 길고양이를 섞어 근친 계수를 안전하게 유지하면서 자극을 꾸준히 올리는 것이 장기적인 강함을 만드는 핵심입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

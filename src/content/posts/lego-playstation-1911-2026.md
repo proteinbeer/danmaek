@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 첫 플레이스테이션을 기억하는 사람이라면 회색 본체와 둥근 디스크 덮개만 봐도 1990년대가 바로 떠오를 수 있습니다. 소니와 레고가 이번에는 그 콘솔을 1911개 블록으로 거의 실제 크기에 가깝게 다시 만들었습니다.
 
 겉모습만 재현했다면 단순한 전시용 레고로 끝났을 겁니다. 그런데 본체 안쪽에 아예 두 게임의 작은 세계를 숨기면서, 원래 플레이스테이션을 기억하는 방식을 조금 다르게 잡았습니다.
@@ -46,17 +42,6 @@ hideDescription: true
 
 컨트롤러 연결까지 포함한 것도 같은 이유로 보입니다. 화면이 없는 레고인데도 실제 게임기를 설치하는 과정의 감각은 남겨둔 셈입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 안에 숨겨놓은 두 게임
 
 가장 재미있는 부분은 본체 안에 들어간 작은 디오라마입니다. 그란 투리스모와 삐뽀사루 겟츄를 떠올리는 두 장면이 숨어 있죠.
@@ -72,17 +57,6 @@ hideDescription: true
 소니가 정확한 선정 이유를 모두 설명한 것은 아닙니다. 다만 두 작품 모두 플레이스테이션 자체 브랜드 역사와 연결하기 쉽고, 작은 블록 장면으로 구현하기에도 형태가 명확합니다.
 
 다른 유명 게임은 저작권과 협업 주체가 추가로 얽힐 수도 있습니다. 그래서 빠진 게임을 단순히 중요하지 않아서 제외했다고 단정하기는 어렵습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 가격은 159.99유로
 
@@ -104,13 +78,3 @@ hideDescription: true
 
 1994년 기계를 모르는 어린 이용자보다 실제 플레이스테이션을 사용했던 세대가 책상이나 선반에 올려두는 장면을 더 자연스럽게 떠올리게 하죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

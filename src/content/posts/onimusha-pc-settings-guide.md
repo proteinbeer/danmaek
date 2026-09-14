@@ -21,10 +21,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 귀무자 웨이 오브 더 소드는 RE 엔진으로 만든 2026년 9월 4일 출시작으로, 최신 엔진의 프레임 관리를 기대할 수 있는 동시에 볼류메트릭 안개와 그림자가 전투 중 프레임을 끌어내리기 쉽습니다. PC 버전은 DLSS 4.5와 FSR 3.1을 처음부터 지원하고 있어 설정값만 제대로 고르면 낮은 사양에서도 60프레임을 노려볼 만합니다. 이 글은 해외 성능 분석을 종합해 옵션별 영향과 구간별 권장 설정을 정리했습니다.
 
 요구 사항 자체는 낮은 편입니다. 최소 사양은 1080p 저옵션 30프레임, 권장 사양은 1080p 중옵션 60프레임을 목표로 하며, SSD 설치는 공식 요구 조건입니다. 아래 프리셋을 기준으로 자신의 하드웨어에 맞는 조정을 시작하면 됩니다.
@@ -54,17 +50,6 @@ hideDescription: true
 
 네이티브 4K 최대 옵션은 RTX 4090·5080·5090이 60프레임 이상이고 RX 9070 XT·7900 XTX는 FreeSync 환경에서 안정적입니다. 전반적으로 스터터링이 거의 없는 편으로 평가되며, 결국 프레임을 살리는 핵심은 업스케일링과 RT·볼류메트릭 옵션을 어떻게 고르느냐로 좁혀집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 업스케일링 선택이 절반
 
 게임은 DLSS 4.5(슈퍼 레졸루션), FSR 3.1, 그리고 캡콤 자체 TAAU를 지원합니다. 엔비디아 카드는 DLSS, AMD와 기타 카드는 FSR을 쓰되 RDNA3·RDNA4에서는 FSR 4.1(ML) 업스케일이 자동 적용됩니다.
@@ -80,17 +65,6 @@ FSR은 미세 지형과 식물에서 섬머가 나기 쉬워 퀄리티 모드를
 볼류메트릭 안개는 전투 프레임에 가장 큰 영향을 주는 옵션입니다. 하이에서 미디엄으로 내리는 것만으로 최대 20%가량의 프레임을 확보했다는 측정이 있고, 60프레임이 간당간당한 PC는 로우까지 내려도 시각 피해가 작은 편입니다.
 
 섀도우는 미디엄～하이 선에서 멈추고, 스크린 스페이스 반사는 RT를 끈 뒤에도 젖은 바닥 표현을 살리므로 켜둘 것을 권장하되 저사양이면 꺼도 됩니다. 모션 블러와 심도 표현은 꺼두면 칼싸움 가시성이 좋아집니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 하드웨어 구간별 추천 설정표
 
@@ -108,13 +82,3 @@ FSR은 미세 지형과 식물에서 섬머가 나기 쉬워 퀄리티 모드를
 
 세 번째는 프레임 제한입니다. 게임 내장 프레임 캡보다 드라이버 레벨 캡이 프레임 타임을 안정적으로 유지합니다. RTX는 NVIDIA 컨트롤 패널의 최대 프레임 속도, AMD는 Radeon Chill로 60프레임을 고정합니다. 추가로 셰이더 프리컴파일 항목(PreCompileShaders=1)을 config.ini에 반영하면 첫 로딩이 길어지는 대신 전투 스터터링이 줄어듭니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

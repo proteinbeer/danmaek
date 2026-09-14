@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 할로윈 더 게임에서 마이클 마이어스를 처음 잡으면 눈앞의 민간인을 끝까지 쫓고 싶어집니다. 하지만 이 게임의 마이클은 빠른 추격보다 숨어서 위치를 바꾸고, 목표를 골라 압박하고, 하돈필드 전체의 분위기를 어둡게 만드는 쪽에 더 가깝습니다.
 
 한 명에게 시간을 너무 많이 쓰면 다른 민간인들이 주민을 설득하고 탈출 준비를 끝냅니다. 마이클은 처치 능력만큼 시간 관리가 중요한 역할입니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 눈앞에 보였다고 바로 달려드는 것보다 상대가 자신을 아직 발견하지 못한 순간을 최대한 길게 유지하는 것이 좋습니다. 스토킹이 충분하지 않은 상태에서 추격을 시작하면 마이클의 강점인 공포와 기습을 스스로 버리는 셈이 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 셰이프 점프는 이동 수단
 
 마이클은 일반적인 의미의 전력 질주가 핵심인 캐릭터가 아닙니다. 셰이프 점프에 들어가면 어둠 속에서 보이지 않게 움직이면서 기본 이동 속도가 올라가고, 셰이프 대시 같은 추가 이동 수단도 사용할 수 있습니다.
@@ -64,17 +49,6 @@ hideDescription: true
 전등과 전력은 단순한 분위기 장치가 아닙니다. 마이클이 셰이프 점프를 활용할 공간을 만들고 민간인의 시야를 제한하기 위해 조명을 끄고, 전력을 차단하고, 블랙아웃을 활용할 수 있습니다.
 
 특히 여러 민간인이 밝은 공간에서 함께 움직일 때 정면으로 들어가면 공격 기회를 만들기 어렵습니다. 먼저 주변을 어둡게 만든 뒤 시야가 갈라지는 순간에 위치를 바꾸는 편이 마이클답고 효율적인 접근입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 한 명에게 집착하지 않기
 
@@ -89,17 +63,6 @@ hideDescription: true
 따라서 후반으로 갈수록 마이클이 자동으로 강해진다고 생각하시면 안 됩니다. 초반의 조용한 시간을 이용해 특수 목표와 고립된 주민을 처리하고, 전화기와 탈출 준비 지역에 압박을 걸어 저항 세력이 커지는 속도를 늦추는 것이 좋습니다.
 
 마이클을 잘하는 플레이어는 가장 오래 추격하는 사람이 아니라 가장 필요한 순간에 나타나는 사람에 가깝습니다. 어둠, 시야, 스토킹, 목표 우선순위를 함께 보시면 느리게 걷는 캐릭터가 왜 이렇게 큰 압박을 줄 수 있는지 이해하게 됩니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 처치보다 매치 점수를 보기
 

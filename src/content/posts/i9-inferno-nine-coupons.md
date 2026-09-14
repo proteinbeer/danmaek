@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 I9: 인페르노 나인은 레니우게임즈(Leniu Technology)가 만든 중세 북유럽 판타지 하드코어 MMORPG입니다. 언리얼 엔진5 기반의 높은 그래픽 품질과 로딩 없는 오픈월드, 최대 1,000명이 한곳에서 펼치는 대규모 공성전이 특징인 게임으로 2025년 1월 한국에 정식 출시됐습니다.
 
 2026년 1월 1주년 이벤트와 함께 기념 쿠폰이 쏟아졌고, 그중 상시 유효 코드가 꾸준히 정리되고 있습니다. VVVIP9 코드는 2026년 11월 4일까지 유효해 여유 있게 입력할 수 있습니다.
@@ -57,17 +53,6 @@ I9: 인페르노 나인은 레니우게임즈(Leniu Technology)가 만든 중세
 - ALWAYSWIN
 - GIFTOFGOD
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 코드 입력 방법
 
 I9: 인페르노 나인은 게임 내 설정에서 쿠폰을 입력합니다. 서버나 버전에 따라 진입 메뉴 이름이 조금씩 다를 수 있습니다.
@@ -83,17 +68,6 @@ I9: 인페르노 나인은 게임 내 설정에서 쿠폰을 입력합니다. �
 쿠폰은 계정당 1회만 사용할 수 있고 대소문자를 구분합니다. 이미 사용한 코드를 다시 입력하면 오류 안내가 나옵니다.
 
 1주년에 공개된 코드는 시간이 지나며 서서히 만료되고 있습니다. 2026년 11월까지 유효한 VVVIP9를 우선 입력하고, 오류가 나는 코드는 만료로 보시면 됩니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 신규 코드 받는 법
 

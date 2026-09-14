@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 드뢰그는 컨커드 템플 끝에서 만나는 느리고 거대한 보스입니다. 발 구르기와 큰 뼈 몽둥이를 쓰며 냉기 피해가 중심이라 패턴뿐 아니라 저항 장비와 아레나 엄폐물을 활용하면 훨씬 쉬워집니다.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/mortal-shell-2-2026-01.jpg" alt="모탈 셸 2(Mortal Shell 2) 소울라이크 액션 게임 대표 이미지" width="686" height="386" loading="lazy" decoding="async" />
@@ -44,17 +40,6 @@ hideDescription: true
 
 회복을 많이 쓰는 구간이 항상 가장 어려운 패턴인 것은 아닙니다. 공격 욕심 때문에 맞는 경우가 많으므로 두 번 칠 수 있어 보여도 한 번만 치고 빠지는 방식부터 시험해 보시는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 세 번 내려찍기
 
 머리 위에서 세 번 연속으로 내려찍는 패턴은 뒤를 잡기 좋은 대표적인 공격입니다. 첫 동작을 피한 뒤 옆과 뒤로 빠지시면 됩니다.
@@ -69,17 +54,6 @@ hideDescription: true
 
 보스가 막히면 같은 셸과 무기를 계속 고집하지 않으셔도 됩니다. 패링이 불편한 보스는 경화나 회피 중심 셸로 바꾸고, 접근 자체가 위험하다면 보조 무기를 적극적으로 활용하시면 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 아레나 엄폐
 
 왼쪽의 큰 돌판이나 오른쪽 나무 뒤에 숨으면 추적탄을 피하기 편합니다. 다만 보스가 엄폐물에 너무 가까우면 폭발 범위에 맞을 수 있으므로 거리를 유지해야 합니다.
@@ -91,17 +65,6 @@ hideDescription: true
 대부분의 일반 공격은 패링이나 경화로 대응할 수 있습니다. 큰 모션 때문에 타이밍 연습이 쉬운 편이라 후반 보스 전 연습 대상으로도 좋습니다.
 
 업적이나 모든 수집 요소를 목표로 하지 않으신다면 첫 회차부터 모든 길을 확인할 필요는 없습니다. 엔딩 이후에도 자유 탐험이 가능하므로 스토리 흐름을 먼저 보고, 필요한 셸과 무기만 챙긴 뒤 나머지를 정리하는 방식도 충분히 좋은 선택입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 공격 욕심 줄이기
 

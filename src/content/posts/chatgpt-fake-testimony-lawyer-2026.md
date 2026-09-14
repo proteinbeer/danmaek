@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 미국 뉴멕시코주의 변호사가 챗GPT가 만들어낸 가짜 증언을 법정 서면에 포함했다가 법원 모욕 판단과 징계를 받았습니다. 존재하지 않는 증인과 잘못된 사실을 검증하지 않고 제출한 것이 핵심 문제였습니다.
 
 이번 소식은 기능이나 숫자 하나보다 기술을 쓰는 방식과 책임 구조가 어떻게 바뀌는지 보여주는 사례에 가깝습니다. 확인된 사실과 해석이 필요한 부분을 나눠서 보면 의미가 더 선명합니다.
@@ -41,17 +37,6 @@ hideDescription: true
 
 기술 변화는 제품 하나에서 끝나지 않고 기업 전략과 규제, 이용 습관까지 이어집니다. 왜 지금 이런 결정이 나왔는지 보면 단순한 기능 추가보다 더 큰 흐름이 보입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 문제는 AI 사용보다 검증 실패
 
 전문직에서 AI 사용 금지보다 검증 절차가 더 중요하다는 사례가 하나 더 쌓였습니다. 자료 요약과 초안 작성에 AI를 쓰더라도 원문, 증거, 판례를 사람이 다시 확인하지 않으면 효율이 오히려 큰 사고로 바뀔 수 있습니다.
@@ -67,17 +52,6 @@ hideDescription: true
 이번 사건은 AI가 실수했다는 이야기로 끝내기 어렵습니다. 전문가가 도구의 결과를 그대로 믿고 책임 절차를 생략했을 때 어떤 문제가 생기는지 보여줬다는 점에서 다른 업종에도 그대로 적용할 수 있는 사례입니다.
 
 개인적으로는 이 지점이 가장 중요해 보이죠. 기술은 빠르게 바뀌지만 사람과 제도가 적응하는 속도는 느리기 때문에 작은 설계 차이가 시간이 지나면 큰 신뢰 차이로 이어질 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 법원과 로펌의 AI 검증 절차 강화
 

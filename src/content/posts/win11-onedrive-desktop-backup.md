@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 윈도우를 쓰다 보면 어느 날 바탕화면이나 문서 폴더가 원드라이브 아래로 들어가 있는 것을 발견할 때가 있습니다.
 
 파일을 직접 옮긴 기억이 없어도 원드라이브의 중요 폴더 백업을 켜면 바탕화면, 문서, 사진 같은 폴더가 동기화 대상이 될 수 있습니다.
@@ -61,17 +57,6 @@ PC가 고장나도 클라우드에 동기화가 완료된 파일은 계정에서
 
 PC를 초기화하거나 원드라이브를 끄기 전에는 모든 중요한 파일이 실제로 업로드됐는지 확인하는 편이 안전합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 백업을 끌 때 선택이 중요
 
 원드라이브의 폴더 백업을 중지하면 파일을 원드라이브에만 남길지 PC에만 남길지 선택하는 과정이 나타날 수 있습니다.
@@ -99,17 +84,6 @@ PC를 초기화하거나 원드라이브를 끄기 전에는 모든 중요한 �
 정리할 때는 중요한 폴더 하나를 임시 위치에 복사한 뒤 중복 여부를 확인하는 편이 안전합니다.
 
 동기화 중인 폴더에서 대량 삭제를 하면 클라우드 쪽에도 삭제가 반영될 수 있기 때문입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 편리하지만 백업 상태를 알아야 한다
 
@@ -139,13 +113,3 @@ PC의 파일 탐색기에 있다는 사실과 클라우드 업로드가 끝났�
 
 클라우드 백업은 편리하지만 백업 위치가 하나뿐이면 계정 문제나 동기화 실수에 그대로 영향을 받을 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 젠레스 존 제로(Zenless Zone Zero)는 호요버스가 만든 도시 판타지 액션 RPG입니다. 프록시가 되어 홀로우라 불리는 위험 구역을 탐험하고, 세 명의 캐릭터를 교대하며 콤보를 이어가는 액션이 핵심인 게임이죠.
 
 리딤코드를 입력하면 가챠 재화인 폴리크롬과 게임 내 화폐인 데니, 육성 재료를 받을 수 있습니다. 업데이트와 방송, 기념일마다 코드가 꾸준히 배포되는 게임입니다.
@@ -52,17 +48,6 @@ hideDescription: true
 
 아이폰(iOS)은 앱 정책상 게임 내 입력이 제한될 수 있습니다. 이 경우 아래 공식 리딤 사이트 방법을 이용하시기 바랍니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 공식 리딤 사이트에서 입력하는 방법
 
 공식 리딤 페이지(zenless.hoyoverse.com/redemption)에 접속해 호요버스 계정으로 로그인합니다. 플레이 중인 서버(한국은 아시아 서버)를 선택한 뒤 코드를 입력하고 교환을 누르면 됩니다.
@@ -75,13 +60,3 @@ hideDescription: true
 
 예를 들어 zzzCuteness는 소문자 'zzz'로 시작하는 코드입니다. O와 0, I와 l처럼 헷갈리는 문자도 있으므로 복사해 입력하는 습관이 중요하죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

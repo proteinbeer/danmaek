@@ -18,10 +18,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 스팀 계정이 해킹되면 인벤토리, 지갑 잔액, 결제 정보까지 위험해집니다. 스팀 가드(Steam Guard)를 켜두면 새 기기에서 로그인할 때 인증 코드를 요구하기 때문에 계정을 지킬 수 있습니다.
 
 스팀은 전 세계에서 가장 많이 쓰는 PC 게임 플랫폼이라 계정 노리는 공격도 많습니다. 비밀번호만으로 지키기에는 부족한 이유가 여기에 있습니다. 스팀이 제공하는 스팀 가드, 정식 명칭은 Steam Guard를 활성화하면 새 기기나 새 브라우저에서 로그인할 때 인증 코드를 요구합니다. 예전에 로그인한 적 없는 장비로 접근한다면 어디서든 차단되는 구조라, 비밀번호가 유출되어도 계정을 빼앗기는 상황을 막아줍니다. 스팀 가드를 켜고 모바일 인증기까지 연동하는 방법을 차근차근 정리했습니다.
@@ -44,17 +40,6 @@ PC에서 스팀 클라이언트를 실행한 뒤 왼쪽 상단의 **상단 메�
 
 주의할 점은 이메일 계정 자체가 뚫리면 스팀 가드도 함께 뚫릴 수 있다는 것입니다. 이메일 비밀번호도 다른 곳에 쓰는 비밀번호와 다르게 만들고, 가능하면 이메일에도 2단계 인증을 걸어두는 것이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 모바일 인증기로 더 안전하게
 
 스팀 모바일 앱을 설치하면 핸드폰이 인증기로 변합니다. 코드가 30초마다 바뀌어 공격자가 예측할 수 없습니다.
@@ -70,17 +55,6 @@ PC에서 스팀 클라이언트를 실행한 뒤 왼쪽 상단의 **상단 메�
 새 PC에서 스팀에 로그인하면 스팀 가드 코드를 입력해야 합니다. 이때 모바일 인증기 코드를 쓰면 보안성이 높고, 거래 요청이 들어오면 앱에서 승인 또는 거절을 선택할 수 있습니다.
 
 아이템 거래를 자주 하거나 게임을 여러 기기에서 즐기는 사람이라면 이메일 협정 인증으로는 코드가 이메일로 오는 동안 기다려야 해서 불편할 수 있습니다. 이런 경우 모바일 인증기가 훨씬 빠르고 안전합니다. 설령 이메일 계정이 유출되더라도 모바일 인증 코드는 핸드폰에만 존재하기 때문입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 설정 후 잊지 말아야 할 것
 

@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 마블러스가 신작 RPG 이터널 아니마를 공개했습니다.
 
 바다에 거의 잠긴 세계에서 과거 영웅의 기억을 이어받고 적의 다음 행동을 미리 읽는 턴제 전투가 특징입니다.
@@ -51,17 +47,6 @@ hideDescription: true
 
 과거 영웅의 기억을 능력으로은 이터널 아니마의 재미가 어디에서 나오는지를 보여주는 부분입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 시스템 하나가 추가됐다는 사실보다 기존 플레이 흐름과 자연스럽게 이어지는지가 중요하고, 억지로 넣은 기능처럼 느껴지면 반복 플레이에서 금방 피로해질 수 있습니다.
 
 저는 이런 변화는 처음 몇 분보다 몇 시간 뒤 평가가 더 중요하다고 봅니다.
@@ -89,17 +74,6 @@ hideDescription: true
 과거의 사건을 이해하고 바꾸는 과정이 현재의 억압을 풀어내는 이야기로 연결됩니다.
 
 기존 이용자와 처음 들어오는 이용자는 같은 변화를 다르게 받아들일 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 오래 플레이한 사람은 익숙한 방식의 변화에 민감하고 신규 이용자는 진입 장벽이 낮아졌는지를 먼저 봅니다.
 

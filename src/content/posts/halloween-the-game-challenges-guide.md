@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 할로윈 더 게임은 일반 레벨업 외에도 수백 개의 도전 과제를 통해 외형과 추가 보상을 얻는 구조를 가지고 있습니다. 도전 과제는 패시브, 진행형, 싱글플레이 전용으로 나뉘며 각 종류가 요구하는 플레이 방식이 다릅니다.
 
 모든 과제를 한 번에 추적하려 하면 오히려 진행이 느려질 수 있습니다. 평소 플레이로 자동으로 쌓이는 것과 특정 캐릭터나 무기를 의식적으로 써야 하는 것을 구분하는 것이 먼저입니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 여러 진행형 과제를 동시에 조금씩 건드리기보다 한 캐릭터와 한 무기 목표를 정해 묶어서 처리하는 편이 효율적입니다. 특히 민간인 레벨도 캐릭터별로 나뉘기 때문에 성장과 도전 과제를 같은 대상으로 맞추면 두 가지를 동시에 진행할 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 싱글플레이 챌린지
 
 마이클 시점으로 진행되는 여섯 개의 스토리 챕터에는 별도의 선택 도전 과제가 있습니다. 이를 완료하면 대체 의상과 고유 꾸미기 아이템을 얻을 수 있고, 모든 싱글 과제를 완료한 플레이어를 위한 특별한 마이클 외형도 준비되어 있습니다.
@@ -64,17 +49,6 @@ hideDescription: true
 얼리 액세스와 출시 직후 일부 도전 과제와 업적이 제대로 추적되지 않는 문제가 있었습니다. 개발사는 핫픽스와 1.0.1 패치에서 추적 오류를 여러 차례 수정했고 앞으로도 예외 사례를 계속 확인한다고 밝혔습니다.
 
 조건을 분명히 달성했는데 진행 수치가 오르지 않는다면 같은 행동을 계속 반복하기보다 현재 패치와 알려진 문제를 확인하시는 것이 좋습니다. 출시 초반에는 공략보다 버전 차이가 원인인 경우도 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 프레스티지와 연결
 
@@ -89,17 +63,6 @@ hideDescription: true
 싱글플레이 과제는 멀티플레이와 경쟁하지 않아 원하는 장면을 반복 연습하기 좋습니다. 멀티에서 마이클 능력을 익힌 뒤 스토리 과제로 돌아가거나, 반대로 스토리에서 능력을 연습한 뒤 멀티로 넘어가는 식으로 두 모드를 연결하는 것도 좋습니다.
 
 도전 과제는 해야 할 일이 많아 보이지만 종류를 나누면 오히려 방향이 명확합니다. 자동으로 쌓이는 패시브는 놔두고, 진행형과 싱글 과제만 목표를 정해 처리하시면 성장과 꾸미기 보상을 훨씬 자연스럽게 챙길 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 보상부터 보고 목표 고르기
 

@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 게임 업계는 오랫동안 디스크를 줄이는 방향으로 움직였습니다. 그런데 엑스박스는 반대로 가지고 있는 디스크를 디지털 이용 권리와 연결하는 기능을 시험하고 있습니다.
 
 엑스박스 인사이더 대상 디스크 투 디지털 기능은 지원되는 엑스박스 원, 엑스박스 시리즈 X 게임 디스크를 넣고 실행하면 디지털 권리를 받을 수 있는 방식입니다. 최근에는 기존에 지원되지 않던 유비소프트 게임들도 추가되기 시작했다는 확인이 나왔죠.
@@ -45,17 +41,6 @@ hideDescription: true
 
 게임 보존에서 가장 어려운 건 기술보다 권리일 때가 많습니다. 서버가 있어도 계약이 안 되면 게임을 다시 팔 수 없고, 스토어에서 내려간 작품은 더욱 복잡해지죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 물리 게임의 가치가 오히려 달라질 수 있다
 
 디지털 시대에 디스크는 설치가 번거롭고 보관 공간을 차지하는 구식 매체처럼 취급되기도 했습니다. 그런데 이런 기능이 자리 잡으면 디스크의 역할이 조금 바뀝니다.
@@ -71,17 +56,6 @@ hideDescription: true
 마이크로소프트는 디스크와 연결되는 디지털 권리를 관리하는 방식으로 기능을 설계하고 있습니다. 따라서 디스크를 인증한 뒤 바로 팔아도 내 계정에 게임이 영구히 남는다고 생각하시면 안 됩니다.
 
 정확한 이용 조건은 테스트가 확대되면서 더 분명해질 겁니다. 지금은 물리 소유권을 디지털 편의성으로 확장하는 시도라는 정도로 보는 게 맞습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 콘솔 없는 미래보다 소유를 이어가는 미래
 
@@ -100,13 +74,3 @@ hideDescription: true
 
 아직 테스트 단계라 어디까지 이어질지는 알 수 없습니다. 그래도 저는 엑스박스가 이 기능을 게임 보존이라는 이름으로 소개했다는 점을 기억해둘 만하다고 봅니다. 성공 여부는 지금 얼마나 많은 게임이 되느냐보다 5년 뒤에도 그 권리를 인정해주느냐에서 결정될 겁니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

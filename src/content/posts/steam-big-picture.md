@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 PC를 TV에 연결해서 콘솔처럼 사용하려고 하면 스팀의 일반 데스크톱 화면은 글씨가 작고 마우스가 필요해서 불편합니다.
 
 빅 픽처 모드는 이런 환경을 위해 만들어진 전체 화면 인터페이스라 컨트롤러만으로 게임을 고르고 실행하기 훨씬 편하죠.
@@ -53,17 +49,6 @@ TV에서 오버스캔이 켜져 있다면 화면 테두리가 잘릴 수 있습�
 
 게임 모드와 PC 입력 모드를 함께 확인하면 입력 지연과 화면 크기 문제를 줄이는 데 도움이 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 컨트롤러 설정을 한곳에서 관리
 
 빅 픽처는 스팀 입력 설정과 궁합이 좋습니다.
@@ -84,17 +69,6 @@ TV에서 오버스캔이 켜져 있다면 화면 테두리가 잘릴 수 있습�
 
 편의성을 위해 보안을 없애는 것보다 로그인 단계를 단순하게 유지하면서 계정은 구분하는 것이 안전합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 모든 게임이 콘솔처럼 되는 것은 아니다
 
 빅 픽처 모드로 실행한다고 모든 PC 게임이 패드 전용 게임으로 바뀌는 것은 아닙니다.
@@ -114,17 +88,6 @@ TV에서 오버스캔이 켜져 있다면 화면 테두리가 잘릴 수 있습�
 그래도 게임을 고르고 실행하는 대부분의 시간에는 데스크톱보다 훨씬 자연스럽습니다.
 
 저는 TV에 PC를 상시 연결하신다면 해상도보다 먼저 빅 픽처와 컨트롤러 구성을 잡는 것이 체감 편의성을 가장 크게 올리는 방법이라고 봅니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 거실 PC는 종료 방식도 단순하게
 

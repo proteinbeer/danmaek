@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 토탈 워 워해머 40000은 PC뿐 아니라 콘솔 출시를 준비하면서 컨트롤러 조작을 핵심 과제로 다루고 있습니다. 개발진은 RTS가 패드와 맞지 않는다는 통념과 달리 현재 조작 방식이 충분히 잘 작동한다고 자신했습니다.
 
 이번 소식은 단순한 업데이트 한 줄보다 앞으로의 운영 방향과 이용 경험을 같이 보여주는 변화에 가깝습니다. 현재 확인된 사실과 아직 해석이 필요한 부분을 나눠서 보겠습니다.
@@ -41,17 +37,6 @@ RTS는 마우스로 화면의 여러 지점을 빠르게 선택하고 단축키�
 
 새 결정은 이전 콘텐츠의 반응과 시장 변화가 쌓인 결과인 경우가 많습니다. 과거 방식에서 무엇이 부족했는지 보면 이번 선택이 해결하려는 문제가 더 선명하게 보입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 대규모 부대 선택과 카메라 조작
 
 컨트롤러가 성공하면 콘솔 이용자는 소파 환경에서 대규모 전략 게임을 즐길 수 있고 PC 이용자도 휴대형 기기나 패드를 선택할 수 있습니다. 반대로 조작을 단순화하기 위해 명령 기능을 줄이면 기존 팬이 불편함을 느낄 수 있습니다.
@@ -67,17 +52,6 @@ RTS는 마우스로 화면의 여러 지점을 빠르게 선택하고 단축키�
 패드 조작의 성공은 마우스를 흉내 내는 데 있지 않습니다. 손가락으로 빠르게 접근할 수 있는 명령 체계를 새로 만들고 자주 쓰는 행동을 자동화해야 콘솔에서도 RTS다운 속도를 유지할 수 있습니다.
 
 개인적으로는 이 부분이 가장 흥미롭습니다. 작은 방향 변화가 다른 작품과 서비스에도 반복될 때 일회성 실험이 아니라 회사 전체 전략으로 굳어지는 경우가 많기 때문입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 후반 대규모 전투에서 진짜 평가
 

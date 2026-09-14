@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 프라그마타에서 평균 FPS는 괜찮은데 전투 중 순간적으로 끊기거나 보스전에서 프레임이 크게 떨어진다면 모든 옵션을 무작정 최저로 내릴 필요는 없습니다. 해상도와 레이 트레이싱, 그림자와 효과처럼 부담이 큰 항목부터 순서대로 조정하는 편이 좋습니다.
 
 공식 사양도 최소에서 1080p 45FPS, 권장에서 1080p 60FPS를 기준으로 잡고 있습니다. 최고 옵션을 기본값으로 생각하기보다 내 PC에 맞는 안정적인 프레임을 먼저 만드는 것이 중요합니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 60FPS 유지가 어렵다면 가장 먼저 끄고 비교해 보시는 편이 좋습니다. 전투 중심 게임에서는 반사 품질보다 조작 반응이 더 중요합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 해상도를 무리하지 않는다
 
 1080p 권장 사양을 가지고 1440p나 4K를 바로 노리면 프레임이 크게 떨어질 수 있습니다. 먼저 1080p에서 안정성을 확인한 뒤 여유가 있으면 해상도를 올리시면 됩니다.
@@ -65,17 +50,6 @@ hideDescription: true
 
 오버레이와 실시간 녹화 기능도 일시적으로 꺼보고 차이를 확인하면 원인을 좁히기 쉽습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. SSD 설치를 권장
 
 공식 사양에서도 SSD를 권장합니다. 평균 FPS가 직접 크게 오르지 않더라도 구역 이동과 데이터 로딩 중 순간 끊김을 줄이는 데 도움이 될 수 있습니다.
@@ -87,17 +61,6 @@ HDD에 설치되어 있고 이동 중 스터터가 반복된다면 그래픽 옵
 출시 이후 성능 패치와 그래픽 드라이버가 계속 바뀔 수 있습니다. 갑자기 프레임이 떨어졌다면 최신 게임 버전과 GPU 드라이버 상태를 먼저 확인하십시오.
 
 업데이트 직후 문제가 시작됐다면 무조건 내 설정 탓이라고 단정하지 말고 같은 증상이 있는지도 확인하는 편이 좋습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 평균보다 최저 프레임을 본다
 

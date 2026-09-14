@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 미스트랜즈는 야그루스 이후의 세 번째 후반 바이옴으로, 발하임에서 처음으로 마법 시스템이 도입되는 곳입니다. 안개가 가득하고 지형이 가파른 동시에 몬스터가 강해서, 잘못 진입하면 소유물을 잃고 되풀이해야 합니다. 이 글은 미스트랜즈 지형에 상륙하기 전 준비 단계부터 마법 빌드를 갖추고 퀸을 처치하는 순서까지 미스트랜즈 공략을 정리했습니다.
 
 미스트랜즈의 가장 큰 특징은 전체 지역이 안개로 뒤덮인다는 점입니다. 안개 속에서는 시야가 극히 제한되어 길을 잃기 쉽고, 몬스터보다 먼저 발견하기 어렵습니다. 따라서 진입 전에 위스프 파운틴을 지어 위스프를 채집하거나, 야그루스를 잡아 위스프 아래의 정제 에이트르로 위스프 토치를 만들어 두는 것이 선행 조건입니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 기알은 큰 공중 골렘형 몬스터로 미스트랜즈의 주요 위협입니다. 나무 밑둥 근처에 착지해 세포 소구체를 쏘는 공격을 하고, 파괴하면 안개에 관련된 재료를 드랍합니다. 곰팡이해초 주변에서 스폰되는 몬스터들을 먼저 정리하지 않으면 광역 피해에 노출되므로, 탐사 중에는 기알 사운드를 잘 듣고 우회하는 판단이 중요합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 마법 시스템과 에이트르 스태프
 
 미스트랜즈 업데이트로 발하임에 마법 시스템이 추가되었습니다. 에이트르는 마법 음식에서 얻는 자원으로, 마법 스태프를 쓰기 위한 연료 역할을 합니다. 요그드라실 정제 에이트르와 마법용 장비인 에이트르 웨이브 세트를 갖추면 얼음 마법, 화염 마법, 소환 마법 등 여러 스태프를 운용할 수 있습니다.
@@ -64,17 +49,6 @@ hideDescription: true
 미스트랜즈의 핵심 자원은 요그드라실 나무입니다. 이 세계수의 가지에서 이터 우드를 채집할 수 있고, 뿌리 주변에는 소프트 이터 우드를 포함한 각종 자원이 형성되어 있습니다. 이터 우드는 미스트랜즈 장비와 무기의 재료가 되며, 상위 작업대인 블랙 포지와 갈드르 테이블을 포함한 시설 업그레이드에 필수입니다.
 
 미스트랜즈의 기초 자원은 우드, 스톤, 대리석이며, 검은 하수구 같은 던전에서는 블랙 코어를 얻을 수 있습니다. 블랙 코어는 갈드르 테이블과 블랙 포지 제작에 필요하므로 던전을 반복해서 공략해야 합니다. 드버거 타워 안에는 상자와 정제 에이트르가 있어, 드버거와 교전 없이 탐사할 수 있는 지역에서는 재료를 안전하게 회수하는 것이 유리합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 드버거 상인과 중립 세력 활용
 
@@ -88,13 +62,3 @@ hideDescription: true
 
 퀸을 처치하면 블랙 코어와 함께 드라카르의 도면이 해금되어 애쉬랜즈 진입이 가능해집니다. 퀸과의 전투에서 중요한 것은 페이즈 전환 시 소환된 하수인을 먼저 정리하는 것입니다. 보스전 후 얻은 재료로 드라카르를 건조하면 남쪽 애쉬랜즈의 화염 바다까지 항해할 수 있으므로, 미스트랜즈 공략은 그 자체로 후반 콘텐츠의 관문이 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

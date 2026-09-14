@@ -21,6 +21,7 @@ export type Post = {
     hideDescription: boolean;
     featured: boolean;
     draft: boolean;
+    affiliate: string;
   };
   Content: unknown;
 };
@@ -56,7 +57,8 @@ const normalizePost = ([path, mod]: [string, PostModule]): Post => {
       hideHeroImage: toBoolean(frontmatter.hideHeroImage),
       hideDescription: toBoolean(frontmatter.hideDescription),
       featured: toBoolean(frontmatter.featured),
-      draft: toBoolean(frontmatter.draft)
+      draft: toBoolean(frontmatter.draft),
+      affiliate: String(frontmatter.affiliate ?? '')
     },
     Content: mod.Content
   };

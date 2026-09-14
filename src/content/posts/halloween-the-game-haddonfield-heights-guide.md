@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 하돈필드 하이츠는 할로윈 더 게임의 네 출시 맵 가운데 원작의 공포 분위기를 가장 직접적으로 보여 주는 주거 지역입니다. 1963년 할로윈 밤의 사건이 남아 있는 동네이며 램킨 레인, 마이어스 하우스, 하돈필드 급수탑 같은 장소가 맵의 정체성을 만듭니다.
 
 맵은 조용한 단층 주택과 울타리, 뒷마당, 어두운 도로가 이어지는 형태가 중심입니다. 화려한 랜드마크보다 비슷한 집과 골목이 반복되어 처음에는 방향을 잃기 쉽습니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 민간인 여러 명이 같은 집을 동시에 수색하면 효율도 떨어집니다. 한 명이 안을 확인하는 동안 다른 사람이 주변 주민과 전화기, 다음 이동 경로를 살피는 식으로 나누는 편이 안전합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 울타리는 양쪽 모두에게 변수
 
 울타리와 마당은 민간인이 시야를 끊는 데 도움이 되지만 마이클에게도 셰이프 점프를 준비할 시간을 줄 수 있습니다. 코너를 돌았다고 안심하지 말고 다음 밝은 공간까지 이동할 계획을 가지고 있어야 합니다.
@@ -64,17 +49,6 @@ hideDescription: true
 셰이프 점프는 어둠과 주민의 시야 밖에서 강합니다. 민간인은 밝은 현관과 가로등이 이어지는 구간을 이동 거점으로 삼고 서로 다른 방향을 확인하면 마이클의 기습 선택지를 줄일 수 있습니다.
 
 반대로 마이클은 전등을 끄거나 전력을 차단해 이런 안전 지점을 줄여야 합니다. 단순히 상대를 쫓는 것보다 민간인이 믿고 있는 밝은 이동로를 먼저 무너뜨리면 집 사이의 이동이 훨씬 위험해집니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 주민 구조는 짧게 끊기
 
@@ -96,13 +70,3 @@ hideDescription: true
 
 처음에는 집 이름보다 밝은 도로와 마당의 연결을 먼저 익히시는 것도 좋습니다. 추격이 시작되면 세부 지명보다 다음에 어디로 빠질 수 있는지가 훨씬 중요하게 느껴집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

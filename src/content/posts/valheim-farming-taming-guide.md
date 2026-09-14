@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 발하임에서 농사와 동물 길들이기는 요리와 재화 수급의 기반이 됩니다. 채집에 의존하는 초반을 지나면 재배한 작물과 길들인 동물이 안정적인 식량을 만들어 주고, 별을 가진 동물을 번식시키면 전투 보조와 고급 재료 수급까지 가능해집니다. 이 글은 농사 시스템과 길들이기 메커니즘을 바이옴 진행 순서에 맞춰 정리했습니다.
 
 농사의 시작은 경작기입니다. 경작기는 검은 숲 단계에서 청동과 코어 우드로 제작하며, 땅을 갈아 씨앗을 심을 수 있게 만드는 도구입니다. 갈아놓은 땅 위에서 씨앗을 심으면 작물이 자라고, 성장 중에는 해당 바이옴 내 토양과 빛이 적절한지를 확인해야 합니다. 땅이 비좁거나 굴곡이 있으면 작물이 성장하지 못하므로 충분한 간격을 두는 것이 중요합니다.
@@ -40,17 +36,6 @@ hideDescription: true
 
 검은 숲의 당근과 순무, 산맥의 양파는 초중반 식량의 근간입니다. 당근과 순무는 씨앗을 심어 하나를 수확하면 다음 씨앗 3개를 얻을 수 있어, 씨앗을 꾸준히 남겨 두면 무한 재배가 가능합니다. 양파는 산맥에서 씨앗을 발견한 뒤 농장에 옮겨 심으면 됩니다 플레인즈에서는 보리와 아마가 주요 작물입니다. 보리는 음식과 미드의 재료가 되는 보리 가루의 원료이고, 아마는 린넨 실을 만들어 후반 장비와 건축에 쓰입니다. 미스트랜즈의 요툰 퍼프와 매지캡은 마법용 음식의 재료가 되며, 포자:제단처럼 씨앗 대신 수확량이 그대로 씨앗 역할을 합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 동물 길들이기의 기본 원리
 
 동물은 우선 우리나 구덩이로 가둔 뒤 먹이를 줘야 길들여집니다. 멧돼지는 블루베리나 당근을, 늑대는 고기를, 록스는 보리나 구름베리를, 닭은 씨앗을, 아스크빈은 애쉬랜즈의 스모크 퍼프나 바인베리를 먹습니다. 각 동물이 좋아하는 먹이를 바닥에 던져 주고, 근처에서 기다리면 시간이 지나 머리 위에 하트가 뜨며 길들여집니다.
@@ -62,17 +47,6 @@ hideDescription: true
 동물마다 좋아하는 먹이와 길들이는 방법이 조금씩 다릅니다. 멧돼지는 불가에서 멀리 떨어뜨려 놓는 것이 중요하고, 야생 늑대는 밤에만 먹이를 먹는 특징이 있어 근처에서 기다려야 합니다. 록스는 지붕이 너무 가까우면 먹이를 먹지 않으므로 천장이 없는 넓은 우리가 필요합니다.
 
 닭은 알을 부화시켜 얻습니다. 닭 우리에 따뜻한 열원을 두면 알이 부화해 병아리가 되고, 성장하면 닭이 됩니다. 아스크빈은 애쉬랜즈 고유 동물로, 알을 부화시켜 길들일 수 있습니다. 별이 있는 동물은 별이 없는 동물보다 공격력과 아이템 드랍이 높아서, 2성 멧돼지나 2성 늑대를 찾는 것이 농장의 목표가 됩니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 번식과 새끼 관리
 
@@ -86,13 +60,3 @@ hideDescription: true
 
 동물의 인구 제한을 잘 관리하면 일정 수 이상 번식하지 않으므로, 판매 주기나 도축 주기를 정해 고기와 재료를 안정적으로 확보합니다. 별이 좋은 동물은 분리된 추가 우리에 보관해 교배를 보존하고, 목표 수준까지 번식시킨 뒤 일반 동물을 도축하는 방식이 지속 가능한 목축 운영의 정석입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

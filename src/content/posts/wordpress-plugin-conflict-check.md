@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 워드프레스에서 플러그인을 업데이트한 뒤 버튼이 사라지거나 관리자 화면이 느려지고, 사이트 일부가 깨지는 경우가 있습니다.
 
 이럴 때 새 버전 자체가 나쁘다고 단정하기보다 어떤 플러그인과 어떤 기능이 충돌하는지 먼저 나눠서 보는 편이 정확하죠.
@@ -47,17 +43,6 @@ hideDescription: true
 
 증상이 특정 플러그인을 끌 때 사라진다면 그 플러그인이 단독 원인일 수도 있고 다른 플러그인과의 조합 문제일 수도 있습니다. 다시 켜기 전에 비슷한 역할을 하는 플러그인이 함께 설치돼 있는지도 보시면 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 관리자 화면도 안 열릴 때
 
 관리자 페이지에 접속할 수 없다면 호스팅 파일 관리자나 FTP에서 플러그인 폴더 이름을 바꾸는 방법을 사용할 수 있죠.
@@ -73,17 +58,6 @@ hideDescription: true
 특히 페이지 빌더, 쇼핑몰, 헤더 편집 기능처럼 테마와 플러그인이 같은 화면을 만드는 경우에는 업데이트 조합에 따라 충돌이 생길 수 있습니다.
 
 운영 사이트에서 기본 테마로 즉시 바꾸면 방문자가 보는 화면이 크게 달라질 수 있죠. 가능하면 스테이징 사이트에서 같은 상태를 복제해 비교하는 편이 안전합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 자동 업데이트를 모두 끄는 건 답이 아니다
 
@@ -101,17 +75,6 @@ hideDescription: true
 
 저는 플러그인을 기능 목록보다 서버에 꽂는 부품에 가깝게 봅니다. 필요한 기능은 남기되 같은 일을 두 번 하는 플러그인을 줄이면 업데이트 뒤 문제가 생길 확률도 낮아지고, 문제가 나더라도 원인을 찾기 쉬워집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 7. 브라우저 문제와 플러그인 문제를 나눠본다
 
 편집기 버튼 하나만 안 눌리거나 관리자 화면에서 특정 기능만 이상하다면 다른 브라우저와 시크릿 창에서도 같은 증상이 있는지 확인하시면 됩니다.
@@ -128,13 +91,3 @@ hideDescription: true
 
 대체 플러그인을 설치할 때도 같은 기능을 겹치지 않게 구성하시면 됩니다. 문제를 해결했다고 기능을 하나 더 추가하는 방식보다 기존 역할을 정리하는 방식이 장기적으로 사이트를 단순하게 만듭니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

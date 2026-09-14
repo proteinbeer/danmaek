@@ -17,11 +17,8 @@ imageWidth: 1200
 imageHeight: 675
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
-
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
 
 하스스톤의 신규 확장팩 검은 제국의 지배가 10월 20일 출시됩니다. 고대 신이 가장 강했던 시기의 아제로스를 다루며 두 장의 카드를 하나의 강력한 카드로 합치는 신규 키워드 어셈블이 추가됩니다.
 
@@ -41,17 +38,6 @@ hideDescription: true
 
 새 결정은 이전 콘텐츠의 반응과 시장 변화가 쌓인 결과인 경우가 많습니다. 과거 방식에서 무엇이 부족했는지 보면 이번 선택이 해결하려는 문제가 더 선명하게 보입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 고대 신 전성기로 돌아가는 확장팩
 
 강력한 조합이 소수로 굳어지면 새로운 시스템도 결국 정답 덱으로 수렴합니다. 반대로 다양한 조합이 실전에서 쓰인다면 같은 카드를 들고도 선택이 달라져 반복 경기의 지루함을 줄일 수 있습니다.
@@ -67,17 +53,6 @@ hideDescription: true
 카드 게임의 신규 키워드는 설명이 화려한 것보다 실제로 많은 덱에서 선택지를 늘려주는지가 중요합니다. 어셈블이 몇 개의 정해진 조합만 쓰이는 기능이 아니라 상황 판단을 요구하는 시스템이 되면 오래 살아남을 수 있습니다.
 
 개인적으로는 이 부분이 가장 흥미롭습니다. 작은 방향 변화가 다른 작품과 서비스에도 반복될 때 일회성 실험이 아니라 회사 전체 전략으로 굳어지는 경우가 많기 때문입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 조합 카드와 비용이 메타를 결정
 

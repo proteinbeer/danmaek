@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 발하임 건축은 자유도 높은 크래프팅 시스템으로, 같은 재료로도 멋진 바이킹 요새를 만들 수 있습니다. 다만 건축물이 무너지거나 부식되는 원칙을 모르면 아무리 예쁘게 만들어도 무너집니다. 이 글에서는 건축의 기본 조작부터 구조 강도, 재료별 특성, 방어 시설까지 건축에 필요한 실전 정보를 순서대로 정리했습니다.
 
 건축의 핵심은 망치와 작업대의 조합입니다. 대부분의 부품은 작업대 근처에서만 설치할 수 있고, 금속이 들어가는 부품은 대장간, 돌 부품은 석재 절단기, 그 이상은 예술가 작업대가 필요합니다. 부품을 배치하는 화면은 오른쪽 마우스로 열며, 탭으로 종류를 전환하고 스크롤로 회전시켜 원하는 위치와 각도를 맞춥니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 안정성이 완전히 소진되는 높이는 재료에 따라 다릅니다. 나무 기둥은 지면에서 약 16미터까지 버티고, 통나무의 코어우드 기둥은 24미터까지, 철로 보강된 목재 기둥은 50미터까지 올라갈 수 있습니다. 높은 탑을 만들 때는 최단 경로로 지면에 연결되는 보강 기둥을 여러 개 세우면 꼭대기까지 안정성을 이어갈 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 재료별 건축 부품과 특성
 
 발하임 건축 재료는 목재, 통나무, 돌, 철제 목재, 대리석, 잿나무 목재 등으로 나뉩니다. 목재는 가장 기본이지만 강도가 낮고 비에 부식됩니다. 통나무는 산맥의 소나무에서 얻으며 강도가 높고 대형 건물의 뼈대로 쓰입니다. 돌은 늪지의 철로 석재 절단기를 만든 뒤 사용할 수 있으며 강도와 방어력이 높은 중세 성곽 건축에 적합합니다.
@@ -64,17 +49,6 @@ hideDescription: true
 목재 부품은 비를 맞거나 물에 잠기면 50% 내구도까지 부식되어 썩은 모습이 됩니다. 지붕을 완성해 내부가 가려지면 비를 막을 수 있으므로, 벽을 먼저 높이 세우기보다 바닥과 골조를 정하고 지붕을 신속히 올리는 순서가 효율적입니다. 갈대 지붕과 슁글 지붕, 이끼 지붕 등 바이옴별 지붕 재료도 준비되어 있습니다.
 
 부식된 부품은 망치로 수리할 수 있습니다. 수리는 재료를 소모하지 않고 스테미나만 사용하며, 해당 부품의 제작 시설 근처에서 진행합니다. 목재 부품은 작업대, 돌 부품은 석재 절단기 근처에서 수리해야 부식 상태가 복구됩니다. 방어 시설과 같은 단단한 구조물은 비에 부식되지 않으므로 일반 건물과 별도로 관리하면 됩니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 방어 구조물과 기지 보안
 
@@ -88,13 +62,3 @@ hideDescription: true
 
 건축 시작 시 마당을 넓게 평탄화하고 벽과 지붕을 빠르게 올리는 것을 최우선으로 합니다. 높은 건물을 원한다면 철 보강 목재를 중심으로 지면과 연결되는 보강 경로를 설계하고, 불필요한 부품은 중간 마우스 버튼으로 제거해 재료를 회수합니다. 간단한 창고와 베드부터 시작해 점차 요새화하면 초반 자원 소모를 줄이면서 안전한 기지를 완성할 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

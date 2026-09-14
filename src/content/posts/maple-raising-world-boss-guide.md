@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 메이플 키우기의 월드 보스는 캐릭터의 순간 딜을 측정하기 좋은 콘텐츠입니다. 사냥처럼 넓게 몹을 잡는 세팅으로는 금방 한계에 부딪히기 때문에, 단일 대상 딜을 낼 수 있는 별도 준비가 필요합니다.
 
 이 글에서는 월드 보스에 입장하기 위한 조건과, 보스전에서 실제로 딜을 뽑는 구성법을 정리합니다.
@@ -41,17 +37,6 @@ hideDescription: true
 
 자동 전투가 보스에게 위협 스킬을 아끼는 구성도 필요합니다. 스킬 창에서 범위 중심인지 단일 대상인지 확인하고, 보스전용 프리셋을 사냥용과 분리해 두는 것이 기본입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 동료와 펫의 보스전 활용
 
 보스전에서는 동료의 단일 대상 버프와 공격 지원이 중요합니다. 그동안 사냥에서 효과를 본 유틸 동료가 아닌, 보스딜에 집중된 조합으로 바꾸는 것이 클리어에 유리합니다.
@@ -63,17 +48,6 @@ hideDescription: true
 보스전 시작 전에 즉시 발동되는 버프를 켜두고 진입하면 초반 타격을 크게 더 받아 넣을 수 있습니다. 스킬 쿨타임도 조사해 시작 후 첫 폭딜 구간에 맞추는 세팅이 유효합니다.
 
 딜 측정이 중요한 콘텐츠라서, 실패해도 다시 시도하는 데 부담이 적습니다. 연습용으로 몇 번 진입해 쿨타임 구조를 확인하면 본 실전에서 딜이 더 잘 나옵니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 보상과 주간 활용
 
@@ -87,13 +61,3 @@ hideDescription: true
 
 몇 시도 후에도 클리어가 안 되면 프리셋만 바꿔보거나, 하루 시간을 두고 전투력이 올라간 뒤 다시 도전해봅니다. 무리하게 반복하기보다 전체 성장과 병행하는 것이 효율적입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

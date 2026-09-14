@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 워드프레스가 해킹당하는 이유는 대부분 복잡한 공격이 아니라 **기본 설정을 하나씩 안 했기 때문**입니다. 관리자 아이디가 그대로 노출되거나, 로그인 시도를 무제한으로 받거나, 업데이트를 미루는 경우가 그렇죠.
 
 이 글에서 해커가 실제로 노리는 5가지를 설정 순서대로 정리했습니다. 처음 워드프레스를 운영하신다면 이 순서 그대로 적용해 보십시오.
@@ -46,17 +42,6 @@ hideDescription: true
 - 사용자명이 노출되는 페이지는 보이는 대로 제거하거나, 공개 사용자 정보를 끄는 설정을 적용합니다.
 - 관리자 페이지 주소를 기본 `wp-login.php`에서 바꾸는 것도 시도를 줄이는 보조 수단이 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 자동 업데이트와 코어·플러그인 관리
 
 보안 패치는 "언제 해줬다"보다 **얼마나 오래 안 했나**가 더 중요합니다. 알려진 취약점은 공격 스크립트가 이미 돌아다니는 경우가 많기 때문입니다.
@@ -73,17 +58,6 @@ hideDescription: true
 - `wp-config.php`는 서버 설정에 따라 웹에서 접근을 차단하도록 보호합니다.
 - FTP 계정을 사용한다면 **FTP용 전용 계정**을 만들어 사이트 파일만 접근할 수 있게 제한합니다.
 - 데이터베이스 비밀번호는 무작위로 긴 값을 사용하고, 관리자 패널에서 바꿀 수 있는 곳이면 즉시 변경합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 정기 백업과 복구 절차
 
@@ -107,13 +81,3 @@ hideDescription: true
 
 여러 보안 플러그인을 동시에 쓰면 충돌이 나는 경우가 많으므로, 한 개만 선택해 제대로 설정하는 것이 좋습니다. 로그인 보호 하나면 충분한 소규모 사이트도 많죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

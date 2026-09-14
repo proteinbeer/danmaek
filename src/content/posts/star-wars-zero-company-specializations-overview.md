@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 스타워즈 제로 컴퍼니 특화는 단순히 직업 이름만 다른 것이 아니라 전투 철학이 다릅니다. 누군가는 앞으로 밀어붙이고, 누군가는 버티고, 누군가는 유대를 활용해 팀 전체 효율을 끌어올립니다.
 
 공식 특화 가이드를 기준으로 보면 현재 핵심 특화는 어설트, 건슬링어, 헤비, 메딕, 스카운드럴, 스카우트, 샤프슈터, 솔저입니다. 이름만 봐서는 비슷해 보여도 실제 감각은 꽤 다릅니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 솔저는 근접, 사격, 폭발물까지 두루 다루는 만능형입니다. 특정 상황에 치우치지 않아 첫 회차에서 가장 무난한 축으로 쓰기 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 메딕과 스카우트
 
 메딕은 생존 안정화 담당입니다. 회복, 버프, 구조 능력이 좋아 장기적으로 손실을 줄입니다.
@@ -65,17 +50,6 @@ hideDescription: true
 
 샤프슈터는 장거리 정밀 제거에 특화되어 있습니다. 좋은 자리를 잡아두면 위험한 적을 안정적으로 솎아내기 좋고, 오버워치 활용도도 높습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 초보자용과 숙련자용의 차이
 
 공식 추천에서도 초보자에게는 솔저나 어설트가 무난합니다. 이유는 행동 의도가 명확하고, 잘못 눌러도 수습이 쉽기 때문입니다.
@@ -87,17 +61,6 @@ hideDescription: true
 같은 특화라도 분대 조합에 따라 평가가 달라집니다. 예를 들어 샤프슈터는 혼자 세기보다, 앞에서 시야를 열어 주는 팀과 함께 있을 때 더 강합니다.
 
 메딕도 공격형 분대에서는 필수 복구축이 될 수 있고, 안정형 분대에서는 보험 역할이 됩니다. 결국 특화 평가는 팀 맥락에서 보셔야 정확합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 첫 회차는 역할 이해부터
 

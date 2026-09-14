@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 퍼니싱: 그레이 레이븐(Punishing: Gray Raven)은 구로 게임즈가 개발한 3D 액션 RPG입니다. 포스트 아포칼립스 세계관에서 콘스트럭트 캐릭터를 조작해 강력한 보스를 상대하는 하드코어 액션이 특징입니다.
 
 이벤트 코드를 입력하면 블랙 카드와 세럼 번들을 받을 수 있으며, 최근 공개된 코드는 만료 기한이 정해져 있지 않은 경우가 많습니다. 다만 일부 코드는 서버별 적용이 나뉘므로 목록을 잘 확인하시기 바랍니다.
@@ -55,17 +51,6 @@ hideDescription: true
 PGR2026, NEWROSETTA0203는 글로벌 버전에서 사용 가능한 코드입니다. 한국 서버와 글로벌 서버의 계정 상태에 따라 입력 결과가 다를 수 있으므로, 먼저 계정 서버를 확인해주시기 바랍니다.
 
 대만 서버 전용 코드(HAPPY6THBIRTHDAY 등)는 국내에서 입력해도 반응하지 않으니 주의하시기 바랍니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 4. 만료 코드와 방송 코드 구분
 

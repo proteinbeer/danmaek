@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 승리의 여신: 니케(NIKKE)는 시프트업이 개발한 서브컬처 슈팅 RPG입니다. 니케라고 불리는 인형 전사들을 수집·육성하며 지구를 지키는 내용으로, 성장형 전투와 가챠 모델이 특징입니다.
 
 코드는 보통 육성 재료나 모병 티켓을 주며, 영어 대문자로 이루어집니다. 다만 최근에는 공식으로 새 코드가 잘 나오지 않는 상황이니, 만료 기간을 확인하고 입력하시기 바랍니다.
@@ -56,17 +52,6 @@ hideDescription: true
 8월 기준 공식으로 확정된 신규 니케 코드는 없는 상태입니다. 8월 1일에 만료된 UNBREAKABLEMEMORIES를 마지막으로 새 코드가 추가되지 않았으며, 7월의 WAVETOYOU2026도 이미 만료됐습니다.
 
 일부 매체가 이전 코드를 사용 가능으로 소개하기도 하지만, 입력 전 만료일을 다시 확인하는 편이 안전하죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 4. 입력 전 서버·계정 확인
 

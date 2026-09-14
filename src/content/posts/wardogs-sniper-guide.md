@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 워독스 공식 소개에는 길리 슈트를 구매하고 먼 거리에서 저격하는 플레이가 가능한 선택지로 직접 언급됩니다. 저격은 무기 하나보다 현금을 투자해 역할을 만드는 방식에 가깝습니다.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/wardogs-2026-01.jpg" alt="워독스(WARDOGS) 100인 3팀 전쟁 게임 대표 이미지" width="1280" height="720" loading="lazy" decoding="async" />
@@ -39,17 +35,6 @@ hideDescription: true
 
 처음 저격을 연습할 때는 비용을 너무 높이지 않는 편이 좋습니다. 거리와 총기 감각이 익숙해진 뒤 투자를 늘려도 늦지 않습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 정보 제공
 
 저격 위치에서는 다른 플레이어보다 넓은 지역을 볼 수 있습니다. 적 차량 접근과 세 번째 팀 우회 움직임을 알려주면 한 발을 쏘지 않아도 팀에 도움을 줍니다.
@@ -61,17 +46,6 @@ hideDescription: true
 파괴 가능한 전장에서는 안전한 건물도 로켓과 차량 화력으로 무너질 수 있습니다. 한 자리에서 계속 쏘면 위치가 알려집니다.
 
 몇 번 사격한 뒤 다른 각도로 옮기는 편이 생존에 유리합니다. 세 팀 구조라 다른 팀도 전투 소리를 보고 접근할 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 거점 참여
 
@@ -85,13 +59,3 @@ hideDescription: true
 
 저라면 길리 슈트보다 위치 선정부터 연습하겠습니다. 워독스 저격은 좋은 총보다 세 팀의 흐름을 얼마나 멀리서 읽느냐가 중요합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

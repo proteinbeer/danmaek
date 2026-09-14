@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 봄바나나 정식 출시에는 새로운 퍼즐 모듈 14종이 추가됐습니다. 공식 출시 안내 기준으로 일반 퍼즐 11종과 장님 원숭이를 특히 바쁘게 만드는 카오스 모듈 3종으로 나뉩니다.
 
 처음에는 모듈 수가 많아 전부 외워야 하나 싶지만 그럴 필요는 없습니다. 중요한 것은 모듈마다 어떤 정보를 누가 먼저 보내야 하는지 분류하는 것입니다.
@@ -46,17 +42,6 @@ hideDescription: true
 
 장님이 보고 있는 화면에서 필요한 관찰 정보부터 고정해야 합니다. 모양과 위치를 한꺼번에 말하기보다 하나씩 순서대로 전달하면 벙어리가 설명서에서 조건을 찾기 쉬워집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 설명서는 조건부터 찾는다
 
 벙어리 원숭이는 모듈 규칙을 읽을 수 있지만 말을 못 합니다. 그래서 규칙을 찾은 뒤 최종 답만 손짓하는 방식이 가장 단순합니다.
@@ -73,17 +58,6 @@ hideDescription: true
 
 장님은 정답을 들었다고 바로 입력하지 말고 한 번 재확인하시는 편이 좋습니다. 모듈이 복잡할수록 전달 과정에서 숫자와 위치가 뒤바뀔 가능성이 높아 확인 한 번이 큰 실수를 막습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 카오스 모듈은 다른 방식으로 본다
 
 카오스 모듈은 단순 규칙 퍼즐보다 장님 원숭이를 바쁘게 만드는 성격이 강합니다. 이때 다른 두 사람까지 동시에 여러 지시를 주면 혼란이 커집니다.
@@ -99,17 +73,6 @@ hideDescription: true
 몇 번 반복하면 답보다 먼저 누가 무엇을 말해야 하는지가 자연스럽게 떠오릅니다.
 
 특정 모듈에서 반복해서 막히면 커스텀에서 그 모듈만 연습하시면 됩니다. 답을 외우는 것이 아니라 어떤 질문을 먼저 하고 어떤 순서로 전달할지 익히는 것이 목표입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 퍼즐 고수보다 통신 고수가 강하다
 

@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받합니다.
-</p>
-
 귀무자 웨이 오브 더 소드는 소울라이크가 아닌 근접 액션 게임입니다. 소울라이크처럼 보이지만 전투 리듬이 확실히 다르고, 방어기만 제대로 익혀도 초반 장벽이 크게 낮아집니다. 패리·디플렉트·닷지의 용도를 구분하고 소울 흡수 습관만 들이면 첫 플레이도 수월하게 즐길 수 있합니다.
 
 이 글은 귀무자를 처음 켜는 플레이어를 위해 컨트롤·전투 기본기·소울 운영·환경 활용·초반 강화 순서를 순서대로 정리했합니다. 영어 가이드와 일본어 공략의 핵심만 뽑아 혼자 헤매기 쉬운 부분을 줄이는 데 초점을 맞췄합니다.
@@ -49,17 +45,6 @@ hideDescription: true
 
 리플렉스 닷지는 B 버튼으로 적의 공격을 피하는 기술입니다. 칼로 막을 수 없는 그랩이나 발차기에 쓰며, 완벽한 타이밍에 성공하면 리플렉스 게이지가 차오릅니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 소울 흡수는 습관이다, 잊으면 진다
 
 전투에서 떨어지는 소울은 색깔별로 역할이 다릅니다. 노란 소울은 체력 회복, 빨간 소울은 장비 강화 재화, 파란 소울은 오니 아머먼트 게이지 충전에 쓰입니다.
@@ -75,17 +60,6 @@ hideDescription: true
 근처에 벽이나 장애물이 있다면 그쪽으로 유인하는 것이 효율적입니다. 특히 여러 적이 몰려올 때 벽 쪽으로 끌고 가서 디플렉트로 경직을 주면 한꺼번에 처리하기 훨씬 쉬워집니다.
 
 도깨비의 비전(온이 비전)은 진입 전 주변 탐색에 유용합니다. 새로운 방이나 지역에 들어갈 때마다 한 번 쓰면 적 위치, 함정, 숨겨진 아이템을 미리 파악할 수 있합니다. 이 비전 사용은 나중에 힘든 전투에서 큰 차이를 만듭니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 초반 강화는 호즈키 주머니부터
 
@@ -103,13 +77,3 @@ hideDescription: true
 
 아이템 소비에 대해서는 사망 시 사용한 소모품이 복구됩니다. 보스전에서 회복 아이템을 써도 실패하면 그대로 돌아오므로, 아끼지 말고 적극적으로 활용하십합니다. 자원이 부족하면 요리마사 상점에서 빨간 소울로 구매할 수 있합니다. 이 포인트를 기억해두면 초반 진입 장벽이 크게 낮아집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

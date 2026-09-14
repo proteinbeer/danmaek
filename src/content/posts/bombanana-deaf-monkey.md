@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 귀머거리 원숭이는 봄바나나에서 가장 많은 정보를 동시에 보는 역할입니다. 폭탄을 직접 볼 수 있고 벙어리 원숭이의 손짓도 확인할 수 있지만, 다른 사람의 목소리는 들을 수 없습니다. 대신 말은 할 수 있어 장님 원숭이에게 최종 지시를 전달합니다.
 
 그래서 귀머거리 역할은 중계소에 가깝습니다. 잘하면 팀 전체가 조용히 굴러가지만, 정보가 쌓이면 혼자 가장 바빠지는 역할이기도 합니다.
@@ -46,17 +42,6 @@ hideDescription: true
 
 중계할 때는 문장을 그대로 옮기기보다 행동에 필요한 단어만 남기시는 편이 좋습니다. 왼쪽 두 번째, 빨강, 두 번처럼 핵심만 전달하면 장님이 바로 행동하기 쉽습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 벙어리의 신호를 추측하지 않는다
 
 손짓이 애매하면 내가 이해한 대로 바로 말하지 마시고 다시 보여달라고 요청하시는 편이 좋습니다. 귀머거리의 추측은 장님에게 확정 명령처럼 전달되기 때문입니다.
@@ -73,17 +58,6 @@ hideDescription: true
 
 장님이 실제로 버튼을 눌렀는지 눈으로 확인한 뒤 다음 지시를 보내는 것이 중요합니다. 행동이 끝나지 않았는데 다음 명령을 겹치면 순서가 섞이면서 팀 전체가 현재 상태를 놓치게 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 정보를 필터링한다
 
 폭탄에서 보이는 모든 것을 동시에 말할 필요는 없습니다. 지금 푸는 모듈에 필요한 정보만 골라 장님과 벙어리에게 전달해야 합니다.
@@ -99,17 +73,6 @@ hideDescription: true
 정지 후 현재 상태를 처음부터 다시 맞추면 몇 초를 잃어도 전체적으로는 이득입니다.
 
 서로 다른 말이 동시에 나오면 귀머거리가 정지 신호를 내리고 한쪽부터 다시 받는 것이 좋습니다. 혼란을 그대로 밀어붙이는 것보다 몇 초 멈추는 편이 훨씬 안전합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 귀머거리 원숭이는 팀의 리듬을 만든다
 

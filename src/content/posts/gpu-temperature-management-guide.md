@@ -18,10 +18,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 게임을 하다가 프레임이 급격히 떨어지거나 화면이 끊긴다면 그래픽카드 온도가 문제일 수 있습니다. GPU 온도를 확인하고, 필요하면 써멀 페이스트 재도포로 해결하는 과정을 소개합니다.
 
 그래픽카드는 일정 온도를 넘으면 스스로 클럭을 낮춰 발열을 줄이는 보호 기능이 있습니다. 이 상태가 반복되면 게임 성능이 말도 안 되게 떨어집니다. 특히 90도 안팎을 넘나드는 고온이라면 쿨러 먼지, 써멀 페이스트 노후화, 케이스 통풍 부족 같은 원인이 있는지 점검해야 합니다. 온도를 정확히 확인하고, 원인을 찾아 단계적으로 해결하는 방법을 정리했습니다.
@@ -44,17 +40,6 @@ Windows의 작업 관리자를 켜고(GPU 섹션) 그래픽카드 온도를 실�
 
 온도가 높다고 하드웨어가 곧바로 고장 나는 것은 아니지만, 장기적으로는 수명을 줄이고 팬 소음도 커집니다. 온도가 지속적으로 높다면 관리가 필요한 상태라고 보면 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. PC 내부 먼지 청소와 통풍 개선
 
 가장 흔한 과열 원인은 팬과 방열 핀에 쌓인 먼지입니다. 케이스 통풍 구조를 함께 점검하면 효과가 큽니다.
@@ -70,17 +55,6 @@ Windows의 작업 관리자를 켜고(GPU 섹션) 그래픽카드 온도를 실�
 그래픽카드를 분해해 GPU 칩 위의 마른 써멀 페이스트를 제거하고 새로 발라주는 작업입니다. 제품에 따라 분해 난이도가 다른데, 보증기간이 끝났거나 온도가 정말 심하게 올랐다면 고려해볼 만합니다. 작업할 때는 유튜브 등에서 해당 모델의 분해 방법을 먼저 확인하고, 정전기 방지 장갑과 고품질 써멀 페이스트를 준비하십시오.
 
 써멀 재도포만으로 온도가 수십도 낮아진 사례도 흔합니다. 다만 자칫 잘못 분해하면 팬 케이블이 끊기거나 방열판 접촉이 나빠질 수 있으니, 자신이 없으면 전문 수리를 맡기는 것도 방법입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 그래도 온도가 높다면
 

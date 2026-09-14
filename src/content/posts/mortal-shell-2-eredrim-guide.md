@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 에레드림은 단순히 위치만 찾아가면 얻는 셸이 아닙니다. 시타델 오브 페넌스 중앙에서 워든과 싸워 이긴 뒤 몸을 조사해야 하며, 이 과정에서 회피와 후방 공격을 제대로 익히게 됩니다.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/mortal-shell-2-2026-01.jpg" alt="모탈 셸 2(Mortal Shell 2) 소울라이크 액션 게임 대표 이미지" width="686" height="386" loading="lazy" decoding="async" />
@@ -44,17 +40,6 @@ hideDescription: true
 
 셸은 능력 설명보다 실제 조작감 차이가 더 크게 느껴지는 요소입니다. 같은 무기를 들고 가까운 적을 상대해 보면 회피 거리와 생존 방식, 공격 기회가 어떻게 달라지는지 바로 비교할 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 티엘로 먼저 도전
 
 티엘을 이미 확보했다면 그림자 관련 능력을 올린 뒤 워든에게 도전하는 방법이 편합니다. 회피 후 보이지 않는 상태에서 뒤를 잡는 흐름이 워든의 공격 구조와 잘 맞습니다.
@@ -71,17 +56,6 @@ hideDescription: true
 
 특정 보스에서 계속 막히면 셸 교체가 단순한 취향 변경이 아니라 공략 수단이 됩니다. 저항과 회피, 분신처럼 보스 패턴과 직접 맞물리는 능력이 있는지 먼저 확인해 보시는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 냉기 저항 활용
 
 에레드림은 드뢰그전에서 냉기 저항을 올리는 선택지가 있어 상성이 좋습니다. 특정 상태 이상이나 속성 피해가 문제일 때 셸 능력에서 저항 옵션을 확인해 보시면 장비 하나를 바꾸는 것보다 체감이 클 수 있습니다.
@@ -93,17 +67,6 @@ hideDescription: true
 티엘처럼 빠른 회피 중심 셸이 손에 맞지 않는다면 에레드림을 얻은 뒤 전투 감각을 다시 비교해 볼 가치가 있습니다. 셸마다 같은 무기의 체감이 달라지기 때문에 한 셸에서 어렵던 보스가 다른 셸에서는 편해질 수 있습니다.
 
 업적이나 모든 수집 요소를 목표로 하지 않으신다면 첫 회차부터 모든 길을 확인할 필요는 없습니다. 엔딩 이후에도 자유 탐험이 가능하므로 스토리 흐름을 먼저 보고, 필요한 셸과 무기만 챙긴 뒤 나머지를 정리하는 방식도 충분히 좋은 선택입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 후반에도 교체 가치
 

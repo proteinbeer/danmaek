@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 할로윈 더 게임에서 마이클 마이어스의 사냥은 상대를 발견하는 순간 시작되는 것이 아닙니다. 킬러 센스로 먹잇감을 찾고, 들키지 않은 상태에서 스토킹을 쌓은 뒤, 가장 유리한 순간에 모습을 드러내는 과정이 핵심입니다.
 
 처음에는 민간인을 찾자마자 달려가고 싶지만 그렇게 하면 마이클의 강한 준비 단계를 스스로 포기하게 됩니다. 마이클은 보이지 않을 때 가장 많은 정보를 얻고 가장 큰 압박을 만듭니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 따라서 보이지 않는 거리에서 충분히 관찰할 수 있다면 바로 접근할 필요가 없습니다. 상대가 상자를 뒤지거나 주민과 대화하는 순간처럼 시선이 다른 곳에 고정됐을 때 스토킹을 올리는 것이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 시야가 끊기면 위치를 바꾸기
 
 스토킹을 끝낸 뒤 같은 방향에서 걸어 들어가면 상대가 쉽게 도망칠 수 있습니다. 가능하면 시야가 끊기는 순간 셰이프 점프로 옆이나 앞쪽으로 이동해 예상하지 못한 각도를 만드는 편이 좋습니다.
@@ -64,17 +49,6 @@ hideDescription: true
 출시 패치에서는 스토킹한 민간인이 시야에서 사라진 뒤에도 스토킹 표식이 더 오래 유지되도록 조정됐습니다. 한 번 놓쳤다고 즉시 정보를 잃는 상황이 줄어들어 마이클이 시야를 끊고 우회하는 플레이가 더 자연스러워졌습니다.
 
 반면 스토킹 단계가 낮은 목표는 붙잡혔을 때 더 쉽게 저항할 수 있도록 조정됐습니다. 준비 없이 바로 잡는 것보다 스토킹을 쌓고 들어가는 원래의 설계 의도가 더 중요해졌다고 볼 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 민간인의 대응
 
@@ -89,17 +63,6 @@ hideDescription: true
 반대로 준비 없이 한 명을 오래 쫓으면 다른 민간인 세 명이 주민을 설득하고 탈출 준비를 진행합니다. 마이클의 진짜 자원은 체력보다 시간이고, 스토킹은 그 시간을 적게 쓰고 확실한 공격을 만들기 위한 시스템입니다.
 
 킬러 센스와 스토킹을 따로 생각하지 않고 하나의 사냥 과정으로 묶어 보시면 마이클 운용이 크게 달라집니다. 찾고, 관찰하고, 시야를 끊고, 어둠으로 이동한 뒤 공격하는 순서를 익히는 것이 가장 중요합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 특수 목표와 스토킹을 함께 보기
 

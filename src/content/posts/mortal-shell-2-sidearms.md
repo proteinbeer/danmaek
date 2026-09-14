@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 보조 무기는 총 8개이며 나일샷, 잊힌 석궁, 회수한 트레뷰셰트 도끼, 음유시인의 류트, 트라이악 리피터, 발리스타주카, 저주받은 아이, 우리에 갇힌 하이스트릭스로 구성됩니다. 단순 원거리 견제뿐 아니라 특정 보스 난도를 크게 낮추는 역할을 합니다.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/mortal-shell-2-2026-01.jpg" alt="모탈 셸 2(Mortal Shell 2) 소울라이크 액션 게임 대표 이미지" width="686" height="386" loading="lazy" decoding="async" />
@@ -42,17 +38,6 @@ hideDescription: true
 
 장비는 표기 공격력 하나만 보고 판단하면 손에 맞지 않을 수 있습니다. 공격 후 빠지는 속도와 사거리, 리졸브 회복처럼 실제 전투 흐름에 영향을 주는 요소도 함께 비교하시는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 회수한 트레뷰셰트 도끼
 
 글룸셰이드 그로브 남쪽의 레비지드 하이드아웃을 진행하면 마지막 방의 몸에서 얻습니다. 입구 주변 보스를 먼저 쓰러뜨려야 던전 접근이 열립니다.
@@ -69,17 +54,6 @@ hideDescription: true
 
 초반 강화 재료가 넉넉하지 않을 때는 여러 장비를 동시에 올리기보다 주력 하나를 확실히 키우는 편이 효율적입니다. 새 장비는 기본 상태에서 몇 번 시험한 뒤 투자 여부를 결정하시면 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 트라이악 리피터
 
 캐스티게이터스 킵 아래쪽 블랙웰 캐번 던전에서 얻습니다. 강화해 두면 헥사포드처럼 정면 근접이 위험한 보스에게 얼굴이 열린 순간 원거리 공격을 넣기 좋습니다.
@@ -91,17 +65,6 @@ hideDescription: true
 발리스타주카는 게이트 오브 마몬 부근 센트리스 그레이브의 미니보스 보상입니다. 저주받은 아이는 레버드 비컨 던전 중앙의 추적 광선을 피하며 중심 기둥을 파괴한 뒤 회수합니다.
 
 업적이나 모든 수집 요소를 목표로 하지 않으신다면 첫 회차부터 모든 길을 확인할 필요는 없습니다. 엔딩 이후에도 자유 탐험이 가능하므로 스토리 흐름을 먼저 보고, 필요한 셸과 무기만 챙긴 뒤 나머지를 정리하는 방식도 충분히 좋은 선택입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 우리에 갇힌 하이스트릭스
 

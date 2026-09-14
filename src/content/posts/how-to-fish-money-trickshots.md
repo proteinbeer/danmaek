@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 낚시 방법 돈 벌기에서 막히는 분이라면 시스템 하나만 따로 보지 말고 진행과 장비를 함께 보시는 편이 좋습니다. 낚시 방법은 낚시, 전투, 판매, 퀘스트가 연결되어 있어 한 부분만 놓쳐도 다음 단계가 늦어질 수 있습니다.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/how-to-fish-2026-01.jpg" alt="낚시 방법(HOW TO FISH) 스팀 생존 낚시 게임 대표 이미지" width="460" height="215" loading="lazy" decoding="async" />
@@ -40,17 +36,6 @@ hideDescription: true
 
 처음부터 복잡한 회전 사격을 노리기보다 공중 처치를 안정적으로 만드는 것이 좋습니다. 성공률이 높아져야 실제 시간당 수익도 올라갑니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 헤드샷과 회전 사격을 겹친다
 
 익숙해지면 헤드샷, 노스코프, 360도 회전 같은 조건을 한 번에 묶을 수 있습니다. 여러 스타일 조건이 겹치면 킬 점수 배수가 크게 올라가 같은 물고기도 훨씬 높은 가치로 팔 수 있습니다.
@@ -63,17 +48,6 @@ hideDescription: true
 
 특히 레이더와 적절한 무기는 낚시 대상을 찾고 빠르게 처리하는 시간을 줄여 줍니다. 소비보다 회전율을 먼저 높이는 셈입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 희귀 드립은 현금보다 다른 가치가 있다
 
 드립 변종을 잡으면 바로 판매하고 싶을 수 있지만 릴 오브 포춘에 넣어 장비 외형을 노릴 수 있습니다. 희귀 개체는 돈보다 수집과 코스메틱 가치가 더 클 수 있습니다.
@@ -85,17 +59,6 @@ hideDescription: true
 룰렛과 다른 도박 요소가 있지만 안정적인 자금 파밍 방법으로 보기에는 변동성이 큽니다. 크게 따는 순간도 있지만 잃으면 다시 낚시를 돌아야 합니다.
 
 퀘스트 진행 자금과 업그레이드 비용은 먼저 따로 확보하고, 남는 자원으로 도박을 즐기시는 편이 좋습니다. 진행 자금을 전부 걸면 재미보다 복구 작업이 길어집니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 가장 좋은 돈벌이는 짧은 반복이다
 
@@ -117,13 +80,3 @@ hideDescription: true
 
 초반과 후반의 좋은 소비도 다릅니다. 초반은 미끼와 기본 무기, 레이더가 중요하고, 후반은 엔진과 수집 효율이 중요해지므로 한 가지 구매 순서를 끝까지 고집하지 않는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

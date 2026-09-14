@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 1990년대 아케이드 감성을 다시 가져오려던 네오지오 AES 플러스가 예상보다 훨씬 늦게 나오게 됐습니다. 제조와 유통을 맡은 플라이온 리플라이는 글로벌 부품 공급 문제를 이유로 출시를 2027년 9월 16일로 미뤘습니다.
 
 원래 2026년 출시를 기대했던 제품이라 거의 1년 가까운 지연입니다. 저는 이 뉴스가 단순한 복각 콘솔 연기보다, 오래된 게임기를 다시 만드는 일도 현재 반도체와 부품 시장에서 자유롭지 않다는 점 때문에 더 흥미롭습니다.
@@ -43,17 +39,6 @@ hideDescription: true
 
 그래도 최근 데이터센터, PC, 스마트폰, 자동차까지 반도체와 메모리를 놓고 경쟁하는 상황을 보면 작은 하드웨어 프로젝트가 공급망 변화에 얼마나 민감한지는 쉽게 상상할 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 1년을 기다릴 만큼 복각 콘솔 수요가 남아 있을까
 
 여기서 더 현실적인 문제도 생깁니다. 게임 소프트웨어는 연기돼도 기대감이 유지되는 경우가 많지만, 복각 하드웨어는 타이밍이 상당히 중요합니다.
@@ -68,17 +53,6 @@ hideDescription: true
 현재 안내에서는 기존 예약을 유지하고 가격 인상 없이 진행한다는 방침이 나왔습니다. 실제 2027년까지 이 조건이 유지된다면 기다리는 구매자에게 최소한의 보상은 되는 셈입니다.
 
 초기 예약자에게 별도 보너스를 제공한다는 계획도 있습니다. 이런 제품은 결국 팬과의 신뢰가 가장 중요한 자산이라, 늦더라도 약속을 얼마나 지키느냐가 제품 평가에 큰 영향을 줄 겁니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 과거를 복원하는 데 필요한 건 현재의 공급망
 
@@ -97,13 +71,3 @@ hideDescription: true
 
 특히 원형 디자인과 실제 조작감을 얼마나 충실하게 살렸는지도 기다린 시간을 평가하는 기준이 될 겁니다. 단순히 게임을 실행하는 기기라면 이미 대안이 많기 때문입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

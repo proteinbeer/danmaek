@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 RTX 5090에서 DLSS 5를 테스트하던 중 전원 커넥터가 녹았다는 사용자 사례가 나왔습니다. 공개된 기록에서는 NBA 2K27 테스트 과정에서 그래픽카드 소비전력이 610W를 넘긴 것으로 나타났습니다.
 
 강한 제목이 나오기 쉬운 사건이지만 가장 먼저 짚어야 할 점이 있습니다. 현재 공개된 정보만으로 DLSS 5가 커넥터 손상의 직접 원인이라고 확정할 수는 없습니다.
@@ -44,17 +40,6 @@ DLSS는 보통 성능을 높이거나 화질을 개선하는 기술로 알려져
 
 따라서 DLSS 5를 켜면 RTX 5090 전원 단자가 녹는다고 쓰시면 과장입니다. 한 사례가 경고 신호가 될 수는 있어도 일반적인 결함의 증거가 되지는 않습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 5090의 진짜 문제는 여유 공간이 작다는 점
 
 고성능 그래픽카드는 세대가 바뀔수록 순간적으로 처리해야 하는 전력이 커지고 있습니다. 전원 규격과 케이블은 그 전력을 작은 접점에 안정적으로 전달해야 하죠.
@@ -69,17 +54,6 @@ DLSS 같은 기술은 적은 렌더링 비용으로 더 좋은 화면을 만드�
 이 부분이 재미있습니다. 소프트웨어는 마법처럼 보이지만 마지막에는 GPU의 트랜지스터가 실제로 계산하고, 전기가 흐르고, 열이 발생합니다.
 
 AI가 그래픽카드 효율을 높이는 동시에 새로운 전력 부하를 만들 수도 있다는 뜻입니다. 앞으로 DLSS 비교에서 프레임과 화질만 볼 게 아니라 소비전력까지 같이 보는 테스트가 더 중요해질 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 지금 할 일은 공포보다 기본 점검
 
@@ -98,13 +72,3 @@ RTX 5090 이용자라면 이번 사례 하나만 보고 DLSS를 끌 필요는 �
 그래서 저는 앞으로 최고 성능보다 와트당 성능이 일반 소비자에게 더 중요한 지표가 될 수 있다고 봅니다. 벤치마크 1등을 위해 시스템 전체를 더 크고 뜨겁게 만들어야 한다면 그 성능을 모든 사람이 원하는 건 아니기 때문입니다.
 DLSS 5 같은 AI 렌더링이 발전할수록 이 논쟁은 더 흥미로워질 겁니다. 소프트웨어로 프레임을 높이는 기술이 하드웨어 전력까지 크게 끌어올린다면, 우리는 프레임 숫자 뒤에 숨어 있는 비용까지 함께 계산해야 합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 레이드: 그림자의 전설은 플라리움(Plarium)이 만든 다크 판타지 턴제 수집 RPG입니다. 수백 종의 챔피언을 모아 전투를 돌리면서 성장하는 구조라 무과금 유저에게 인기 있는 게임이죠.
 
 레이드: 그림자의 전설 프로모션 코드는 에너지, 실버, 경험치 물약 같은 필수 재화를 줍니다. 에너지는 진행의 핵심이고 실버는 장비 강화에 쓰이는 재화라 코드 하나가 초반 진행을 크게 바꿔줍니다. 코드는 대소문자를 구분하고 계정당 하루 하나만 입력할 수 있어 보상이 큰 코드부터 순서대로 쓰는 것이 좋습니다.
@@ -56,17 +52,6 @@ hideDescription: true
 
 주의할 점은 프로모션 코드 입력은 **계정당 24시간에 1개**로 제한된다는 것입니다. 전날 코드를 입력했다면 다음 코드는 24시간이 지나야 입력할 수 있습니다. 코드가 여러 개라면 보상이 큰 코드부터 순서를 정해두고 하루씩 입력하는 편이 효율적입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. iOS와 공식 홈페이지에서 입력하는 방법
 
 iOS로 플레이하는 경우 게임 안에서 프로모션 코드를 입력할 수 없습니다. 공식 교환 홈페이지에서 입력해야 합니다.
@@ -85,13 +70,3 @@ iOS는 7.10 버전 이후로 게임 내 프로모션 코드 입력 기능이 비
 - 코드가 **만료**됐거나 특정 **지역에서만** 작동할 수도 있습니다. 지역 제한이 있는 미국 코드는 아시아 계정에서 작동하지 않을 수 있습니다.
 - 유효하지 않은 코드를 연속으로 3번 입력하면 약 1시간 동안 코드 사용이 일시 제한되니, 확실한 코드만 입력하십시오.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

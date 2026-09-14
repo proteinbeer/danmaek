@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 워드프레스에서 글을 예약해두면 정해진 시각에 자동으로 공개될 것이라 생각합니다.
 
 그런데 예약 시간은 지났는데 글이 그대로 대기 상태에 남아 있거나 뒤늦게 발행되는 경우가 있습니다.
@@ -47,17 +43,6 @@ hideDescription: true
 
 그래서 예약 시간이 정확해야 하는 뉴스 사이트나 쇼핑몰에서는 서버의 예약 작업 기능과 연결해 더 안정적으로 실행하도록 구성하기도 합니다. 개인 블로그라면 먼저 실제로 지연이 반복되는지 확인하는 정도로 충분합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 캐시 문제와 발행 실패를 구분
 
 예약 글이 관리자 목록에서는 공개 상태인데 방문자 화면에서만 보이지 않는다면 실제 발행 실패가 아니라 캐시 문제일 수 있죠.
@@ -73,17 +58,6 @@ hideDescription: true
 문제가 특정 설정 변경 뒤 시작됐다면 최근 플러그인 업데이트와 최적화 설정을 확인하시는 편이 좋습니다.
 
 모든 플러그인을 한꺼번에 끄기보다 예약 발행과 백그라운드 작업에 관여하는 항목부터 비교하시면 되죠. 테스트 글을 몇 분 뒤로 예약해 반복하면 실제로 재현되는지 확인하기 쉽습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 서버 예약 작업을 쓰는 경우
 
@@ -101,17 +75,6 @@ hideDescription: true
 
 예약 발행이 몇 분 늦어도 상관없는 블로그와 정확한 시각이 중요한 사이트는 요구 수준이 다릅니다. 필요한 정확도에 맞춰 설정을 결정하시면 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 7. 실패 기록이 반복되면 시간대를 적는다
 
 항상 실패하는 것이 아니라 가끔 놓친다면 발생 시간과 사이트 방문량, 백업 작업 시간을 기록해보시면 좋죠.
@@ -128,13 +91,3 @@ hideDescription: true
 
 시간대, 관리자 상태, 캐시, 백그라운드 작업, 서버 예약 기능 순서로 확인하시면 됩니다. 중요한 글일수록 예약 버튼을 믿기 전에 사이트가 실제로 제시간에 움직이는지 한 번 검증하는 편이 안전하죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

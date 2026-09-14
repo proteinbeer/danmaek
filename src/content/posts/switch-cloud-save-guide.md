@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 스위치를 오래 쓰다 보면 수백 시간이 쌓인 게임이 생기기 마련입니다. 그런데 **세이브 데이터는 기본적으로 기기 안에만** 저장됩니다. 기기가 고장 나거나, 잃어버리거나, 초기화되면 그동안 쌓인 진행이 통째로 사라질 수 있죠.
 
 세이브를 지키는 방법은 크게 닌텐도 스위치 온라인의 클라우드 세이브와 기기 간 전체 이전 두 가지입니다. 이 글에서 각각의 설정 방법과 주의점을 정리했습니다.
@@ -49,17 +45,6 @@ hideDescription: true
 - 백업된 세이브는 설정에서 "세이브 데이터 다운로드"로 새 기기에 복원합니다.
 
 놓치기 쉬운 것은 **백업을 한 번도 안 한 상태**입니다. 가입만 하고 자동 백업을 켜지 않으면 실제 백업이 없다는 점을 반드시 확인하십시오.
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 클라우드가 안 되는 게임이 있다
 
 중요한 주의점이 하나 있습니다. **일부 게임은 클라우드 세이브가 지원되지 않습니다.**
@@ -80,17 +65,6 @@ hideDescription: true
 - 이전이 끝나기 전에는 두 기기를 분리하거나 전원을 끄지 않도록 합니다.
 
 전체 이전은 유료 가입이 없어도 가능합니다. 그러니 클라우드 미지원 게임이 많다면 이 방법으로 새 기기에 옮기시면 됩니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 기기를 보내기 전에 반드시 할 일
 
@@ -113,13 +87,3 @@ hideDescription: true
 
 백업 날짜가 "어제"가 아니라 "한 달 전"인 게임이 있다면 그 게임은 사실상 복구 불가능한 상태입니다. 이 간단한 확인을 익숙하게 만들어 두시기 바랍니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

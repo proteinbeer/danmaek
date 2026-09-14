@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 할로윈 더 게임의 멀티플레이에서 민간인이 마이클 마이어스에게 죽었다고 해서 반드시 남은 판을 관전만 하는 것은 아닙니다. 공식 멀티플레이 구조에는 희생된 플레이어가 팀을 계속 지원하고 보안관 대리 또는 루미스 박사로 다시 돌아오는 흐름이 포함되어 있습니다.
 
 이 시스템 덕분에 초반 사망이 곧바로 3대1 패배로 이어지는 것은 아닙니다. 살아 있는 민간인이 주민과 경찰을 잘 관리하면 후반에 오히려 마이클을 압박할 새로운 힘이 생길 수 있습니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 민간인처럼 루팅과 탈출을 처음부터 다시 하는 역할이라고 생각하기보다 남은 플레이어의 작업 시간을 벌고 마이클의 행동을 제한하는 지원 역할로 접근하는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 루미스 박사의 역할
 
 루미스 박사는 원작에서도 마이클을 추적하는 인물이며 게임에서도 마이클을 제압하는 후반 흐름에 참여할 수 있습니다. 마이클을 죽이는 것이 아니라 충분한 지역 저항과 장비, 인력을 모아 체포하고 스미스 그로브로 보내는 과정과 연결됩니다.
@@ -64,17 +49,6 @@ hideDescription: true
 팀원이 사망하면 당황해서 마이클에게 복수하려는 경우가 많습니다. 하지만 이 게임에서는 주민과 경찰을 유지하면 죽은 플레이어가 다시 도움을 줄 수 있으므로 남은 사람일수록 목표를 차분하게 이어 가는 편이 좋습니다.
 
 특히 주민 설득과 신고가 어느 정도 진행된 판이라면 후반 저항을 완성하는 것이 더 중요합니다. 탈출 준비가 끝났다면 빠르게 빠져나가고, 경찰이 충분하다면 체포를 노리는 식으로 남은 조건을 보고 판단하시면 됩니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 마이클이 알아야 할 변화
 
@@ -89,17 +63,6 @@ hideDescription: true
 죽은 뒤 역할이 이어지는 구조는 플레이어가 끝까지 판에 관여하도록 만든 장치입니다. 초반에 희생되더라도 팀이 하돈필드를 조직하는 데 성공했다면 후반에 다시 참여할 수 있으니 바로 손을 놓지 않는 것이 좋습니다.
 
 결국 사망 이후 시스템은 마이클에게도 중요한 압박입니다. 민간인은 죽어도 팀에서 완전히 사라지지 않을 수 있고, 마이클은 처치와 동시에 주민과 경찰의 성장까지 끊어야 하므로 판 전체를 관리해야 합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 팀원은 사망 이후까지 계산
 

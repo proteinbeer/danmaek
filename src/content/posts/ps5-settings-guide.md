@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 PS5를 처음 켜면 기본 설정만으로도 잘 작동하지만, 화질과 반응속도는 몇 가지 설정으로 더 끌어올릴 수 있습니다. TV가 지원하는 기능을 제대로 켜두지 않으면 4K와 부드러운 프레임을 다 살리지 못하죠.
 
 모니터나 TV의 성능이 좋을수록 설정의 중요성이 커집니다. 화면·성능 위주로 PS5에서 확인하고 조정하면 좋은 설정을 아래에 정리했습니다.
@@ -50,17 +46,6 @@ HDMI 포트도 TV의 **HDMI 2.1(게임 전용) 포트**에 연결하는 것이 �
 
 VRR은 설정 화면에서 **디스플레이 정보 확인**을 눌러 지원 여부를 바로 알 수 있습니다. 해당 항목이 회색이면 기기 문제보다 연결 포트를 먼저 점검해보시기 바랍니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 120Hz 출력 활용
 
 신작 게임에서 120FPS를 지원한다면 120Hz 출력을 활성화할 때입니다.
@@ -80,17 +65,6 @@ VRR은 설정 화면에서 **디스플레이 정보 확인**을 눌러 지원 �
 - 빠른 반응이 중요한 때는 성능 모드, 깊은 그래픽을 감상하고 싶을 때는 해상도 모드가 어울립니다.
 
 게임 내 옵션에서도 바로 바꿀 수 있습니다. 타격감이 중요한 액션·슈팅은 프레임 우선이 유리하고, 어드벤처는 화질 우선도 충분합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 기본 화질·컨트롤러 설정
 
@@ -112,13 +86,3 @@ VRR은 설정 화면에서 **디스플레이 정보 확인**을 눌러 지원 �
 
 휴식 모드는 대기상태보다 전력을 더 쓰므로, 장시간 안 쓸 땐 완전히 끄는 것도 좋습니다. 업데이트와 절전의 균형은 생활 패턴에 맞추면 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 프린터 전원이 켜져 있고 같은 와이파이에 연결돼 있는데 윈도우에서는 오프라인이라고 표시되는 경우가 있습니다.
 
 이때 드라이버를 바로 다시 설치하기보다 프린터 상태와 인쇄 대기열, 윈도우 서비스를 순서대로 확인하는 편이 빠릅니다.
@@ -61,17 +57,6 @@ hideDescription: true
 
 사무실이나 집에서 프린터를 여러 대 사용한다면 실제로 어느 장치로 인쇄 명령이 보내졌는지부터 확인해야 합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 프린트 스풀러 다시 시작
 
 인쇄 대기열이 지워지지 않거나 작업이 계속 멈춘다면 프린트 스풀러 서비스를 다시 시작하는 방법이 있습니다.
@@ -99,17 +84,6 @@ hideDescription: true
 ARM 기반 PC에서는 제조사 설치 프로그램보다 윈도우의 프린터 추가 기능을 사용하는 것이 권장되는 경우가 있습니다.
 
 코파일럿 플러스 PC에서 설치가 안 된다면 이 차이도 확인할 필요가 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 드라이버 재설치는 마지막 쪽
 
@@ -139,13 +113,3 @@ ARM 기반 PC에서는 제조사 설치 프로그램보다 윈도우의 프린�
 
 반대로 한 PC만 안 된다면 해당 PC의 대기열과 스풀러부터 보는 것이 순서입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

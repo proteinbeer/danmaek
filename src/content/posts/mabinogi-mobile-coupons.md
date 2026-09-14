@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 마비노기 모바일(Mabinogi Mobile)은 넥슨이 서비스하는 모바일 RPG입니다. 마비노기 특유의 평화로운 세계관과 채집·생활 콘텐츠를 계승한 것이 특징입니다.
 
 쿠폰을 입력하면 한정 의상과 아이템을 받을 수 있습니다. 기한이 있는 쿠폰이 많으니, 공개 즉시 입력해두는 편이 좋죠.
@@ -53,17 +49,6 @@ WELCOME2ERINN은 영문 대문자와 숫자로 이루어진 코드입니다. 기
 쿠폰 교환 시 서버·캐릭터를 잘못 지정하면 보상이 엉뚱한 곳으로 지급될 수 있습니다. 입력 전에 목록을 한 번 더 확인하는 습관이 좋습니다.
 
 WELCOME2CAMPFIRE, PLAYNEWSEAS0N 같은 이전 코드는 7월에 만료됐으므로 입력하실 필요가 없습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 4. 문자 입력 시 오타 주의
 

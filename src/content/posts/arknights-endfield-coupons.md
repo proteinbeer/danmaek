@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 명일방주: 엔드필드(Arknights: Endfield)는 하이퍼그리프와 GRYPHLINE이 만든 3D 실시간 전략 RPG입니다. 원작 명일방주의 세계관을 계승하면서, 탈로스II 행성에서 시설을 건설하고 6성 오퍼레이터를 이끄는 전투를 다루는 게임이죠.
 
 교환 코드를 입력하면 가챠 재화인 오로베릴과 탈로시안 화폐, 작전 기록 같은 육성 재료를 받을 수 있습니다. 초반 성장 속도를 크게 바꿔주므로 확인 즉시 입력하는 편이 좋습니다.
@@ -54,17 +50,6 @@ ENDFIELDGIFT는 웰컴 상시 코드로 오로베릴을 받을 수 있어 가장
 원작 명일방주(Arknights)도 별도로 교환 코드를 받을 수 있습니다. 이 경우 게임 내 닉네임 하단에서 **인게임 UID**를 확인한 뒤, 공식 교환 페이지(arknights.kr/gift)에서 코드와 함께 입력하시면 됩니다.
 
 엔드필드와 원작은 별개의 게임이므로 코드도 서로 통용되지 않습니다. 어느 게임에서 받은 코드인지 확인하고 입력하는 편이 좋죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 4. 코드별 입력 환경과 유효 기간 주의
 

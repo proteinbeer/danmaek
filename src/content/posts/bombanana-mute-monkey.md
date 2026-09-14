@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 벙어리 원숭이는 봄바나나에서 폭탄 해체 설명서를 읽는 역할입니다. 정답에 가장 가까운 정보를 알고 있지만 말을 할 수 없기 때문에, 그 정보를 몸짓과 이모트로 바꿔 전달해야 합니다.
 
 처음에는 설명서를 빨리 읽는 것이 중요해 보이지만 실제로는 읽은 답을 얼마나 단순한 신호로 바꾸느냐가 더 어렵습니다. 벙어리 역할은 퍼즐 풀이와 통신 설계를 동시에 해야 하는 역할입니다.
@@ -46,17 +42,6 @@ hideDescription: true
 
 숫자, 방향, 색, 예와 아니오처럼 자주 쓰는 정보는 시작 전에 손짓을 정해 두시면 됩니다. 실전에서 새로운 동작을 만들기 시작하면 상대가 뜻을 해석하느라 시간이 더 오래 걸립니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 한 동작에 한 의미만 준다
 
 같은 손짓이 상황에 따라 예도 되고 다음도 되면 중계 과정에서 반드시 꼬입니다. 한 동작은 한 의미만 갖도록 정하는 편이 좋습니다.
@@ -73,17 +58,6 @@ hideDescription: true
 
 손짓을 아무리 정확하게 해도 귀머거리가 화면을 보고 있지 않으면 전달되지 않습니다. 먼저 시선을 끈 뒤 신호를 보내고, 상대가 이해했다는 반응을 확인한 다음 다음 정보로 넘어가시면 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 답보다 조건을 먼저 전달할 때도 있다
 
 어떤 퍼즐은 단순히 하나의 답만 주는 것이 아니라 조건에 따라 선택이 달라질 수 있습니다. 이럴 때는 결론만 급하게 손짓하기보다 필요한 조건부터 확인해야 합니다.
@@ -99,17 +73,6 @@ hideDescription: true
 짧아도 확실한 신호를 유지하시는 편이 좋습니다. 이미 약속된 방식만 쓰고 새로운 손짓을 즉석에서 만들지 않는 것이 안전합니다.
 
 시간이 부족하다고 손짓을 생략하면 오히려 재확인 때문에 더 늦어질 수 있습니다. 짧더라도 항상 같은 순서로 신호를 보내는 편이 급한 상황에서 가장 강합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 벙어리 역할은 가장 조용한 지휘자다
 

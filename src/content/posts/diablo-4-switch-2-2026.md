@@ -17,11 +17,8 @@ imageWidth: 1200
 imageHeight: 675
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
-
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
 
 디아블로 4가 9월 15일 닌텐도 스위치 2로 출시됩니다. 지옥의 유산 시즌과 같은 날 등장하기 때문에 신규 이용자와 복귀 이용자가 함께 들어오는 시점을 노린 선택으로 보입니다.
 
@@ -41,17 +38,6 @@ hideDescription: true
 
 새로운 결정은 갑자기 나온 것처럼 보여도 이전 작품의 반응과 시장 변화가 쌓인 결과인 경우가 많습니다. 과거 방식을 그대로 반복하기 어려워진 지점에서 어떤 문제를 해결하려는지 보면 선택의 이유가 더 선명해집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 작은 화면에서 중요한 인터페이스
 
 화면 크기가 작아지면 인터페이스 가독성과 전투 이펙트가 중요합니다. 디아블로 4는 적과 효과가 동시에 많이 등장하는 게임이라 휴대 모드에서 글자 크기와 프레임이 실제 만족도를 좌우할 수 있습니다.
@@ -67,17 +53,6 @@ hideDescription: true
 스위치 2 버전의 성공 여부는 최고 그래픽보다 언제 어디서든 끊김 없이 파밍할 수 있느냐에 달려 있습니다. 디아블로는 반복 플레이 시간이 긴 게임이라 짧은 성능 측정보다 배터리와 발열, 온라인 안정성이 더 중요합니다.
 
 개인적으로는 이 지점이 가장 흥미롭습니다. 눈에 띄는 발표 하나보다 이런 방향 변화가 다른 작품과 서비스에도 반복될 때 회사 전체의 전략으로 굳어지는 경우가 많기 때문이죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 프레임, 배터리, 크로스 진행이 관건
 

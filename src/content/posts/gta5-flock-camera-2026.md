@@ -1,4 +1,4 @@
-﻿---
+---
 title: "GTA 5에 감시 카메라 235개가 생겼다, 모두 부술 수 있게 만든 모드"
 description: "GTA 5에 현실의 감시 기술 논쟁을 그대로 끌고 온 모드가 등장했습니다."
 date: 2026-09-12T12:00:00
@@ -17,11 +17,8 @@ imageWidth: 1200
 imageHeight: 675
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
-
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
 
 GTA 5에 현실의 감시 기술 논쟁을 그대로 끌고 온 모드가 등장했습니다.
 
@@ -61,17 +58,6 @@ GTA가 원래 현실 사회를 과장해 풍자하는 게임이라는 점과도 
 
 다만 현실 장비와 모드의 표현을 동일하게 보는 것은 피해야 합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. GTA와 잘 맞는 풍자
 
 GTA는 기업과 경찰, 광고, 소비 문화를 과장해 보여주는 시리즈입니다.
@@ -99,17 +85,6 @@ GTA는 기업과 경찰, 광고, 소비 문화를 과장해 보여주는 시리�
 반면 지금은 최근에는 실제 데이터와 기술 이슈를 빠르게 반영하는 사례가 더 많아지고 있습니다.
 
 아직 메시지의 설득력과 게임 재미가 함께 유지되는지가 이런 모드의 핵심입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. GTA 6 시대에도 이어질 문화
 

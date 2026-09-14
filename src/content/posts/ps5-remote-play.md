@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 리모트 플레이는 PS5 화면을 휴대폰이나 PC로 받아 게임할 수 있는 기능입니다. 집에서는 잘 되는데 외부에서는 연결되지 않거나 화면이 자주 깨지는 경우가 많습니다.
 
 이 기능은 단순 인터넷 속도보다 PS5의 대기 설정, 업로드 품질, 공유기 환경 영향을 함께 받습니다.
@@ -41,17 +37,6 @@ hideDescription: true
 
 외출 전에 휴식 모드로 두고 테스트 한 번 해보는 것이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 다운로드 속도보다 업로드가 중요
 
 리모트 플레이는 PS5 화면을 밖으로 보내야 하므로 집 인터넷의 업로드 품질이 중요합니다. 다운로드가 빠른 회선이라도 업로드가 불안정하면 화면이 흐려지고 입력 지연이 커질 수 있습니다.
@@ -64,17 +49,6 @@ hideDescription: true
 
 다만 벽이 많고 거리가 멀면 5GHz 신호가 약해질 수 있으므로 실제 위치에서 테스트해야 합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 해상도를 낮추는 것도 방법
 
 화면이 자꾸 깨지거나 연결이 끊긴다면 최고 화질만 고집하지 않는 편이 낫습니다. 해상도와 프레임 설정을 한 단계 낮추면 필요한 대역폭이 줄어 체감 안정성이 크게 좋아질 수 있습니다.
@@ -86,17 +60,6 @@ hideDescription: true
 회사, 호텔, 공용 와이파이는 특정 통신을 제한해 리모트 플레이가 연결되지 않을 수 있습니다. 이런 환경에서는 PS5 설정을 바꿔도 해결되지 않는 경우가 있습니다.
 
 휴대폰 데이터에서는 되는데 특정 와이파이에서만 안 된다면 외부망 정책을 의심하는 것이 맞습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 설정 변경 뒤 확인할 부분
 
@@ -112,13 +75,3 @@ PS5 문제 해결은 무작정 초기화하는 것보다 재현 조건을 찾는
 
 PS5는 같은 증상이라도 계정, 게임 버전, 연결 장비에 따라 원인이 달라질 수 있습니다. 그래서 가장 최근에 바꾼 설정과 문제가 시작된 시점을 기준으로 하나씩 되돌려 확인하시면 불필요한 재설치와 초기화를 줄일 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 워드프레스 사이트를 여러 명이 함께 운영하면 가장 쉬운 방법은 모두에게 관리자 권한을 주는 것입니다.
 
 하지만 글만 쓰는 사람에게 플러그인 삭제와 사용자 관리 권한까지 줄 필요는 없고, 계정 하나가 탈취됐을 때 피해 범위도 훨씬 커집니다.
@@ -47,17 +43,6 @@ hideDescription: true
 
 사이트 설정과 플러그인까지 건드릴 필요 없이 콘텐츠 흐름만 관리할 수 있어 실수 범위를 줄일 수 있습니다. 콘텐츠 책임자와 기술 관리자를 분리하기에도 좋죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 글쓴이와 기여자의 차이
 
 글쓴이는 자신의 글을 작성하고 발행할 수 있으며 미디어 업로드도 가능한 역할입니다.
@@ -74,17 +59,6 @@ hideDescription: true
 
 단순 방문자에게 계정을 만들 필요가 없다면 회원 가입 기능 자체를 열어둘 이유도 적습니다. 사이트 목적과 맞지 않는 회원 기능은 불필요한 계정 관리 부담을 만들 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 퇴사와 협업 종료 뒤 계정 정리
 
 외주 작업이나 단기 협업이 끝났는데 계정을 그대로 두면 몇 달 뒤에도 로그인 가능한 상태가 남을 수 있습니다.
@@ -100,17 +74,6 @@ hideDescription: true
 실수로 높은 권한이 기본값으로 지정돼 있으면 가입한 사용자에게 예상보다 많은 기능이 열릴 수 있습니다.
 
 공개 회원 가입이 필요하지 않은 사이트라면 가입 허용 자체를 꺼두는 것도 방법입니다. 필요한 사용자는 관리자가 직접 추가하는 편이 관리가 단순합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 사용자 정의 권한은 신중하게
 
@@ -132,13 +95,3 @@ hideDescription: true
 
 운영 인원이 늘어날수록 최소 권한 원칙이 관리 시간을 줄이는 효과도 커집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

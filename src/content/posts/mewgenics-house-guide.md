@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 뮤제닉스는 전투 게임이지만 실제 승부는 집에서 벌어집니다. 밤마다 각 고양이가 어떻게 지내는지, 방의 스탯이 어떤 식으로 유지되는지에 따라 다음 룬의 전력이 결정됩니다. 화려한 외출보다 집 내부의 관리가 더 큰 퍼즐이라 해도 과언이 아닙니다.
 
 이 글에서는 베이비잭 가구 상점으로 집의 다섯 스탯을 올리는 방법, 프랭크 기부로 열리는 방 5칸의 전문화 배치, 그리고 파이트 룸과 유기묘, 질병과 식량 관리까지 하우스 운영의 전체 그림을 정리했습니다.
@@ -46,17 +42,6 @@ hideDescription: true
 
 한 방에는 고양이가 많을수록 콤포트가 깎입니다. 4마리를 초과하면 마리당 -1이 적용되므로, 번식실처럼 중요한 방에는 목적 없는 고양이를 넣어두지 말아야 합니다. 방의 역할을 정하고 그 목적에 맞는 고양이만 배치하는 습관이 밤사이 참사를 막는 가장 확실한 방법입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 파이트 룸 훈련의 활용
 
 파이트 룸은 콤포트를 낮춰 밤마다 고양이끼리 싸움을 유도하는 방입니다. 싸움에서 이긴 고양이는 스탯 보상을 받고 패자는 부상을 입습니다. 그러니 사실상 '훈련 시설'로 쓰는 방이며, 추천되는 방법은 만들고 싶은 스탯 방향을 가진 두 마리를 넣어 두고 스탯 보상을 계속 굴리는 것입니다.
@@ -72,17 +57,6 @@ hideDescription: true
 애필은 집 전체에 적용되는 스탯이라 가구 배치로 쌓기 쉽습니다. 초반에는 유기묘를 받아들이는 일 자체가 핵심이며, 이 유기묘는 근친 계수 0으로 시작하므로 혈통 관리에서도 유용합니다. 몇 세대를 유지하다 보면 유기묘가 곧 최고 혈통의 씨앗이 됩니다.
 
 유기묘를 룬의 승부수로 쓰려면 애필 가구를 먼저 갖추는 것이 순서입니다. 좋은 변이 라인과 어빌리티를 가진 박물급 정수의 가치를 생각할 때, 애필 관리에 드는 방 한 칸은 결코 아깝지 않습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 대소변과 질병 관리
 
@@ -100,13 +74,3 @@ hideDescription: true
 
 결국 하우스 운영은 '밤을 안전하게 넘기는 설계'로 수렴합니다. 가구로 스탯을 맞추고, 방 역할을 정하고, 유기묘와 식량을 관리하면 밤사이 손실이 수렴하게 됩니다. 그런 뒤에는 여행에서 벌어들이는 전리품이 그대로 성장으로 이어지는, 안정적인 룬 사이클이 완성됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

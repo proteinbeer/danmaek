@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 몬스터헌터 와일즈는 시리즈 중 최대 규모의 멀티플레이를 지원합니다. 콘솔과 PC가 한 로비에서 만나는 크로스플레이, 최대 100명이 모이는 헌터 커넥트 로비, 그리고 파티 전용 보이스 채팅까지 갖춰져 있어 게임을 처음 접하는 유저도 쉽게 친구와 함께할 수 있게 설계되었습니다.
 
 이 글은 멀티플레이를 시작하는 방법부터 파티 운영 팁까지 순서대로 정리합니다. 멀티 해금 시점과 로비 시스템, 링크 파티, SOS 플레어의 동작 방식을 한 번에 확인해 보십시오.
@@ -40,17 +36,6 @@ hideDescription: true
 
 헌터 커넥트는 로비가 아닌 파티 단위의 그룹 시스템입니다. 원하는 유저끼리 전용 파티를 만들어 채팅과 보이스 채팅을 사용할 수 있고, 파티원끼리는 언제든 필드에서 서로의 위치를 보고 합류할 수 있습니다. 사냥 감각이 맞는 유저끼리 고정 파티를 맺어두면 반복 파밍이 훨씬 빨라집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 링크 파티와 4인 구성
 
 링크 파티는 최대 4명이 하나의 헌팅 파티를 이루는 시스템입니다. 호스트가 퀘스트를 포스트하면 파티원이 자동 합류하고, 각자 자신의 아이템과 장비로 싸웁니다. 파티 전용 보이스 채팅이 지원되므로 별도 통화 앱 없이도 실시간 소통이 가능합니다.
@@ -62,17 +47,6 @@ hideDescription: true
 혼자서 쉽지 않은 몬스터를 만났을 때는 SOS 플레어를 사용할 수 있습니다. SOS를 쏘면 같은 로비나 온라인 헌터들이 퀘스트에 합류할 수 있고, 파티원을 구하는 것과 별개로 도움을 요청할 수 있는 기능입니다. 멀티를 아직 켜지 않은 유저도 SOS를 통해 협력 플레이를 시도할 수 있습니다.
 
 만약 SOS를 쏜 뒤 실제 유저가 합류하지 않는 시간이 지나면, 서포트 헌터라는 CPU 동료 헌터가 자동으로 합류합니다. 서포트 헌터는 플레이어 없는 서버에서도 몬스터를 함께 상대해 주므로, 네트워크 상황이 나쁠 때도 퀘스트를 이어갈 수 있게 해 줍니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 파티 운영 팁
 
@@ -86,13 +60,3 @@ hideDescription: true
 
 스위치 2판은 출시 시점에 기존 타이틀 업데이트 콘텐츠가 모두 포함되고, 온라인 플레이 중에도 세이크레트 이동과 캐릭터 조작이 끊김 없이 이어지도록 최적화되어 있습니다. 예상 게임 용량은 약 39.1GB로, 출시 전 체험판도 예고되어 있어 다른 플랫폼 유저와 함께할 파티 구성을 미리 짜 볼 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

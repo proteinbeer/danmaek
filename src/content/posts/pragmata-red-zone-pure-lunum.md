@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 프라그마타를 진행하다 보면 일반 길에서 벗어난 고난도 전투 구역인 레드 존을 만나게 됩니다. 굳이 힘든 적을 상대해야 하나 싶을 수 있지만, 희귀 자원과 강한 장비 성장을 생각하면 무시하기 아까운 콘텐츠입니다.
 
 특히 순수 루넘은 일반적인 루나필라멘트와 달리 고급 능력과 부착물에 쓰이는 희귀 자원이라 후반 빌드를 강화하고 싶다면 레드 존 가치가 크게 올라갑니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 후반 빌드와 고난도 모드를 생각한다면 미리 조금씩 확보해 두는 편이 좋습니다. 첫 회차 엔딩만 목표라면 모든 레드 존을 즉시 끝낼 필요는 없습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 해킹 보조 장비를 챙긴다
 
 레드 존은 여러 적이 동시에 나와 해킹 시선을 뺏기기 쉽습니다. 스테이시스 넷과 라이엇 블라스터, 디코이 제너레이터처럼 전장을 통제하는 장비가 특히 좋습니다.
@@ -65,17 +50,6 @@ hideDescription: true
 
 적 숫자를 먼저 줄인 뒤 강한 장갑 적을 해킹하는 순서가 안정적입니다. 여러 적을 모두 조금씩 건드리는 방식은 위험합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 재료를 얻기 위해 재료를 쓰지 않는다
 
 레드 존 보상을 얻으려고 제한 장비를 너무 많이 소비하면 실질적인 이득이 줄어듭니다. 일반 적은 주무기와 해킹으로 최대한 처리하고, 위험한 순간에만 강한 유닛을 쓰는 편이 좋습니다.
@@ -87,17 +61,6 @@ hideDescription: true
 레드 존은 선택 콘텐츠라 당장 못 깬다고 진행이 막히는 것은 아닙니다. 펌웨어와 장비를 몇 단계 더 올린 뒤 다시 오면 난도가 크게 내려갈 수 있습니다.
 
 한 시간 동안 같은 구역을 반복하기보다 다음 섹터에서 장비를 얻고 돌아오는 편이 효율적인 경우가 많습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 엔드게임 준비용 콘텐츠
 

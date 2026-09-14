@@ -17,11 +17,8 @@ imageWidth: 1200
 imageHeight: 675
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
-
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
 
 오버워치가 블리즈컨 무대에서 처음으로 라이브 테이블톱 RPG를 진행합니다. 퀘스트워치는 9월 13일 열리며, 맷 머서가 오버워치 내러티브 팀과 함께 이야기를 만들고 게임 마스터를 맡습니다.
 
@@ -41,17 +38,6 @@ hideDescription: true
 
 새로운 결정은 갑자기 나온 것처럼 보여도 이전 작품의 반응과 시장 변화가 쌓인 결과인 경우가 많습니다. 과거 방식을 그대로 반복하기 어려워진 지점에서 어떤 문제를 해결하려는지 보면 선택의 이유가 더 선명해집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 전투 밖에서 풀리는 오버워치 세계관
 
 이 행사가 일회성 무대에 그치지 않고 반응이 좋다면 공식 테이블톱 제품이나 반복 콘텐츠로 이어질 가능성도 생각해볼 수 있습니다. 다만 현재로서는 후속 제품이 확정된 것은 아니므로 행사 자체와 향후 가능성을 구분해야 하죠.
@@ -67,17 +53,6 @@ hideDescription: true
 테이블톱 RPG는 정해진 컷신보다 캐릭터가 예상하지 못한 상황에서 어떻게 반응하는지 보여주기 좋습니다. 오버워치처럼 캐릭터 인기가 높은 작품에서는 전투 외 성격을 길게 보여주는 것만으로도 충분한 팬 콘텐츠가 될 수 있습니다.
 
 개인적으로는 이 지점이 가장 흥미롭습니다. 눈에 띄는 발표 하나보다 이런 방향 변화가 다른 작품과 서비스에도 반복될 때 회사 전체의 전략으로 굳어지는 경우가 많기 때문입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 등장 영웅과 본편 연결 여부가 관건
 

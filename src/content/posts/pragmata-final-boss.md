@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 프라그마타 최종 보스는 그동안 익힌 해킹, 회피, 공격 유닛, 자원 관리가 모두 한꺼번에 시험되는 전투입니다. 여러 페이즈와 높은 매트릭스 압박 때문에 장비가 좋아도 기본 루프가 흔들리면 쉽게 밀릴 수 있습니다.
 
 또한 최종 전투를 시작하면 엔딩으로 바로 이어지는 흐름이 있으므로 수집과 업그레이드를 정리하고 들어가는 편이 좋습니다. 엔딩 이후 정리할 수 있는 요소도 있지만 첫 회차에서 하고 싶은 일이 남았다면 먼저 확인하시면 됩니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 해킹을 한 번 실패하는 순간 페이즈가 길어질 수 있으므로 공격 유닛 하나를 줄이더라도 보조 장비를 챙길 가치가 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 공격은 단일 대상 폭딜 중심
 
 최종 보스는 오픈 상태에서 얼마나 많은 피해를 넣느냐가 중요합니다. 차지 피어서나 후반 고화력 공격 유닛처럼 단일 대상에 확실한 피해를 줄 수 있는 장비가 좋습니다.
@@ -65,17 +50,6 @@ hideDescription: true
 
 강한 자원을 초반 딜 욕심으로 쓰기보다 마지막 난도 벽을 넘기는 용도로 생각하시면 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 방어 장비도 필수에 가깝다
 
 최종전은 해킹 화면을 오래 볼수록 위험해집니다. 디코이 제너레이터나 다른 방어 수단으로 몇 초라도 안전한 시간을 만들면 해킹과 충전 공격 모두 편해집니다.
@@ -87,17 +61,6 @@ hideDescription: true
 오픈 상태가 끝났는데도 공격 유닛을 억지로 더 쓰려 하지 마십시오. 다음 해킹을 준비하며 거리와 체력을 회복하는 것이 좋습니다.
 
 최종전은 한 번의 긴 공격보다 여러 번의 안정적인 사이클로 끝내는 편이 안전합니다. 욕심 한 번이 페이즈 전체를 다시 하게 만들 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 엔딩 후 콘텐츠도 남아 있다
 

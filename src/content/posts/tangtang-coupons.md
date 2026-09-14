@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 탕탕특공대는 궁수의 전설로 유명한 Habby가 만든 생존 슈팅 모바일 게임입니다. 2022년 8월 출시 후 세계적으로 큰 인기를 끌면서 매출 1위에 오르기도 했죠.
 
 방치형보다는 조작이 필요한 게임이지만 무료 쿠폰 하나가 초반 성장 속도를 크게 바꿔줍니다. 탕탕특공대 쿠폰은 시즌마다 새 코드가 배포되는 편이라, 최신 코드를 미리 확인해두는 것이 좋죠.
@@ -57,17 +53,6 @@ hideDescription: true
 ## 3. 디스코드에서도 코드 확인 가능
 
 탕탕특공대는 공식 디스코드 커뮤니티를 운영하고 있습니다. 디스코드에 접속해 규칙에 동의한 뒤 **redeem-gift-code** 메뉴를 확인하면 최신 쿠폰 번호를 볼 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 4. 계정당 1회, 코드는 정확히
 

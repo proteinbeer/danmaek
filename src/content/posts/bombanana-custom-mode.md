@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 봄바나나 커스텀 모드는 팀 취향에 맞춰 폭탄 조건을 직접 조절하는 모드입니다. 캠페인처럼 정해진 난도를 따라가는 것이 아니라 폭탄 난도, 타이머, 모듈 종류, 환경 방해, 허용 실수 수까지 바꿀 수 있습니다.
 
 그래서 단순한 자유 모드가 아니라 연습용, 파티용, 극한 도전용으로 모두 활용할 수 있습니다. 세 명이 무엇을 연습하고 싶은지에 따라 완전히 다른 게임처럼 만들 수 있습니다.
@@ -46,17 +42,6 @@ hideDescription: true
 
 특정 모듈에서 계속 막힌다면 그 모듈을 중심으로 설정해 반복하시면 됩니다. 다른 퍼즐에 시간을 쓰지 않고 약한 부분만 연습할 수 있어 가장 효율적인 사용법입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 환경 방해만 따로 익힌다
 
 정전, 시야를 막는 물체, 큰 소음 같은 요소는 퍼즐 자체와 다른 종류의 혼란을 만듭니다. 커스텀에서 이런 환경 요소를 일부러 넣어두면 실제 캠페인 후반과 엔들리스 대비가 됩니다.
@@ -73,17 +58,6 @@ hideDescription: true
 
 허용 실수 수를 조절하면 같은 퍼즐 구성도 체감 난도가 크게 달라집니다. 처음에는 여유를 주고 익숙해지면 실수 허용을 줄여 실제 캠페인보다 더 빡빡한 연습도 가능합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 파티용으로는 극단적인 설정도 재밌다
 
 기록이나 연습이 목적이 아니라 친구들과 웃는 것이 목적이라면 타이머와 방해 요소를 과하게 조절해도 좋습니다. 봄바나나는 원래 혼란 자체가 재미인 게임이라 이런 설정과 잘 맞습니다.
@@ -99,17 +73,6 @@ hideDescription: true
 누가 중계가 빠른지, 누가 설명서를 빨리 읽는지, 누가 지시를 정확히 따르는지 확인하기 좋습니다.
 
 누가 어떤 역할에 잘 맞는지 확인할 때도 커스텀이 유용합니다. 같은 조건에서 역할만 바꿔보면 특정 사람이 어느 자리에서 덜 실수하는지 비교하기 쉽습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 커스텀은 실력 향상용으로 가치가 크다
 

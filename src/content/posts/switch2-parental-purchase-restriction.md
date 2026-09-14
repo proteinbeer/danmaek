@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 자녀의 플레이 시간을 제한해 둔 뒤 e숍 결제도 자동으로 막혔다고 생각하는 상황은 처음 겪으면 본체 고장부터 의심하기 쉽습니다. 하지만 스위치 2는 기존 스위치와 달라진 규격과 계정 관리 방식이 많아서, 실제로는 설정이나 사용 조건을 잘못 이해해 생기는 경우가 적지 않습니다.
 
 핵심부터 보면 스위치의 자녀 보호 기능과 e숍 구매 제한은 같은 설정이 아닙니다. 게임 시간과 연령 제한을 걸어도 e숍 구매와 상품 열람 제한은 닌텐도 어카운트의 보호자 설정에서 별도로 관리해야 합니다. 이 차이를 먼저 알고 계시면 불필요한 삭제나 초기화, 주변기기 교체를 피할 수 있습니다.
@@ -41,17 +37,6 @@ hideDescription: true
 
 설정을 바꾸기 전에는 현재 상태를 기억해 두는 편이 좋습니다. 여러 항목을 한꺼번에 바꾸면 무엇이 실제 원인이었는지 알기 어려워지고, 나중에 원래 상태로 되돌릴 때도 시간이 더 걸리게 되죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 가장 먼저 확인할 항목
 
 다음으로 자녀 계정의 e숍 상품 구매 제한을 켭니다. 이어서 필요하면 연령에 맞지 않는 상품의 열람 제한과 본체의 e숍 본인 확인도 함께 설정합니다. 순서를 지키면 어느 단계에서 문제가 생기는지 확인하기 쉬워집니다.
@@ -64,17 +49,6 @@ hideDescription: true
 
 부모 입장에서는 자녀 보호라는 이름 하나로 다 묶여 있을 것 같지만 닌텐도는 플레이와 구매를 나눠 관리합니다. 사고를 막으려면 시간을 제한한 뒤 결제 설정을 한 번 더 보는 것이 핵심입니다
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 안 될 때 추가로 볼 부분
 
 여기까지 해도 같은 증상이 계속된다면 한 번에 여러 설정을 바꾸지 않는 것이 좋습니다. 여러 자녀가 있으면 각 어린이 계정마다 제한을 따로 확인해야 합니다. 다른 게임이나 다른 네트워크, 다른 케이블처럼 비교할 수 있는 조건이 있다면 하나씩 바꿔보는 편이 원인을 찾기 쉽습니다.
@@ -86,17 +60,6 @@ hideDescription: true
 게임 데이터, 세이브 데이터, 계정 이용 권한은 스위치에서 서로 다른 항목으로 관리되는 경우가 많습니다. 화면에 게임 아이콘이 보인다고 세이브와 이용 권한까지 모두 같은 위치에 있다는 뜻은 아닙니다.
 
 중요한 게임을 오래 플레이하셨다면 문제를 해결하기 전에 세이브가 어디에 있는지 먼저 확인하시는 편이 안전합니다. 특히 사용자 삭제와 본체 초기화는 일반적인 게임 데이터 삭제보다 영향 범위가 훨씬 크죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 데이터와 계정은 따로 확인
 

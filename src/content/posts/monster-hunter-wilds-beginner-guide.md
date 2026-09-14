@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 몬스터헌터 시리즈가 처음이라면 와일즈는 좋은 입문작입니다. 시리즈 사상 가장 큰 오픈 필드와 함께 이어지는 지역 이동, 세이크레트 탑승, 상처와 포커스 모드라는 신규 전투 시스템 덕분에 기존 작품보다 기동성과 타격감이 한층 좋아졌습니다. 다만 해금되는 시스템이 많아서, 어떤 것을 먼저 익혀야 하는지 알기 전에는 우왕좌송하기 쉽습니다.
 
 이 글은 챕터 1～3까지의 로우랭크 구간에서 익혀야 할 기본기를 우선순위 순서대로 정리했습니다. 전투의 뼈대가 되는 상처·포커스 모드부터 무기 선택, 트레이닝장 활용, 그리고 조 시아를 격파하고 하이랭크로 넘어가는 과정까지, 초보가 헤매기 쉬운 지점을 중심으로 정리합니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 쌍검은 공격 버튼만 연타해도 화려한 콤보가 나오고 이동 중 회피가 자연스럽게 이어집니다. 태도는 기인 게이지를 채우는 흐름만 익히면 시리즈 전통의 카운터 기인베기로 큰 피해를 반사할 수 있습니다. 해머는 머리를 맞혀 기절을 만들고, 대검은 공격 버튼을 모아서 단발 큰 피해를 넣는 단순한 구조입니다. 무기 확인은 베이스캠프의 트레이닝장에서 사용해 본 뒤 결정하는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 상처와 포커스 모드, 와일즈 전투의 뼈대
 
 와일즈 전투의 중심에는 상처 시스템이 있습니다. 같은 부위를 계속 공격하면 그 부위에 찢긴 상처가 열리고, 상처는 모든 공격에 추가 대미지를 받습니다. 포커스 모드(L2/LT 홀드)를 켜면 몬스터의 약점과 상처가 붉게 빛나서 어디를 노려야 할지 바로 보입니다.
@@ -64,17 +49,6 @@ hideDescription: true
 베이스캠프에는 트레이닝장이 준비되어 있습니다. 자신이 쓰는 무기의 콤보와 포커스 스트라이크 입력을 익히고, 회피 무적 시간의 감각을 잡는 데 활용하세요. 다른 무기를 시험해 보는 용도로도 좋습니다.
 
 실제 실력은 몬스터를 반복해서 잡을 때 늘어납니다. 같은 몬스터를 몇 번 잡으면 패턴이 자연스럽게 머리에 남고, 소재도 쌓여 방어구와 무기 업그레이드가 빨라집니다. 한 번 잡고 넘어가지 말고, 재료가 필요한 만큼 반복하는 것이 로우랭크 구간의 정공법입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 로우랭크에서 하이랭크까지 진행 순서
 
@@ -88,13 +62,3 @@ hideDescription: true
 
 두 번째는 아이템 세팅을 하나로 고정하는 것입니다. 몬스터마다 필요한 아이템이 다르므로, 텐트에서 아이템 파우치 구성을 저장하는 로드아웃을 만들어 두면 낭비 없이 출격할 수 있습니다. 특히 족쇄형 몬스터처럼 함정이 필요한 대상은 포획용 로드아웃을 따로 저장해 두는 것이 실용적입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

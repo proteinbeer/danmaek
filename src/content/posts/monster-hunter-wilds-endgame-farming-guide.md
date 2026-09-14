@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 몬스터헌터 와일즈의 진짜 시작은 헌터랭크 41 이후, 하이랭크 후반의 엔드게임입니다. 이 시점부터 템퍼드 몬스터를 상대하는 조사 퀘스트가 중심이 되고, 아티언 무기와 장식주, 탈리스만으로 빌드를 완성하는 반복 파밍이 이어집니다.
 
 이 글에서는 엔드게임 파밍의 뼈대인 조사 퀘스트를 이해하는 방법부터, 아티언 무기 재료를 빠르게 모으는 조합, 장식주와 탈리스만의 획득 루트까지를 우선순위 순서로 정리했습니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 각 조사는 수행할 때마다 보너스 보상 풀에서 소재를 뽑습니다. 같은 조사를 반복하면 소진될 때까지 매번 보상을 받으므로, 좋은 보상 구성의 조사를 발견하면 횟수를 아끼지 말고 전부 소진하는 것이 효율적입니다. 출격 직전에 럭키 바우처를 사용하면 보너스 보상이 두 배가 되니, 고난이도 조사에만 아껴 쓰십시오.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 아티언 무기 재료 파밍
 
 아티언 무기는 템퍼드 몬스터가 주는 파츠를 세 개 모아 만드는 최상위 무기입니다. 같은 레어리티의 재료 세 개로 한 자루가 완성되고, 이후 강화를 반복하며 성능과 속성을 맞춥니다. 아티언 파츠는 템퍼드 몬스터의 등급에 따라 종류가 갈립니다.
@@ -64,17 +49,6 @@ hideDescription: true
 그레이트 헌트 조사는 템퍼드 몬스터 두 마리가 하나의 퀘스트에 등장하는 형태입니다. 한 번에 두 표적의 보너스 보상을 받기 때문에, 같은 몬스터를 두 번 잡는 것과 비슷한 시간으로 아티언 파츠를 두 배로 얻을 수 있습니다. 출시 당시 시간 제한이 짧아 까다로웠지만 배포 후 패치로 시간이 연장되어 부담이 줄었습니다.
 
 아티언 파밍에서 최고 효율은 럭키 바우처를 그레이트 헌트 템퍼드 조사에 쓰는 조합입니다. 두 표적의 보상이 각각 두 배가 되어 시간당 파츠 수급이 가장 높습니다. 파츠가 남으면 수자의 멜드 릴릭 기능으로 중복 소재를 필요한 재료로 전환할 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 장식주와 탈리스만 파밍
 
@@ -93,13 +67,3 @@ hideDescription: true
 
 헌터랭크 41 직후에는 라기아크루스, 세레기오스 등 특수 퀘스트를 먼저 해금하는 것이 좋습니다. 이 몬스터들은 필드 등장과 조사 풀에 추가되어 이후 파밍의 선택지가 넓어집니다. 럭키 바우처는 별 등급이 낮은 조사에 쓰면 낭비이므로, 항상 별 6성 이상이나 템퍼드 표적에만 사용하십시오.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 키보드에서 같은 글자가 두 번씩 찍히거나 한 번 누른 키가 연속 입력되는 현상은 흔히 채터링이라고 부릅니다.
 
 기계식 키보드에서 자주 이야기되지만 무조건 스위치 수명이 끝났다는 뜻은 아닙니다.
@@ -61,17 +57,6 @@ hideDescription: true
 
 제조사 프로그램에서 한 키에 두 동작이 지정돼 있으면 하드웨어 고장처럼 보일 수 있죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. USB 포트와 무선 연결 확인
 
 무선 키보드는 배터리가 부족하거나 수신 상태가 불안정할 때 입력이 지연됐다 한꺼번에 들어오는 느낌이 생길 수 있습니다.
@@ -100,17 +85,6 @@ hideDescription: true
 
 이 경우에는 보증 여부를 먼저 확인하고, 무리한 분해보다 서비스가 나을 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 핫스왑 키보드는 스위치 교체로 확인
 
 핫스왑을 지원하는 기계식 키보드라면 문제 키의 스위치를 정상 키와 서로 바꿔보시면 원인을 매우 쉽게 확인할 수 있습니다.
@@ -130,17 +104,6 @@ hideDescription: true
 문서 작업에서는 버틸 수 있어도 빠른 연타가 필요한 게임에서는 정상 입력까지 잘릴 수 있습니다.
 
 따라서 장기 해결책보다는 고장 여부를 확인한 뒤 교체 전 잠깐 쓰는 방식이 적절합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 교체를 결정할 시점
 

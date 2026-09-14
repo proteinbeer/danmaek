@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 프라그마타 메인 스토리를 끝내면 뉴 게임 플러스를 통해 다시 처음부터 플레이할 수 있습니다. 첫 회차에서 모은 장비와 업그레이드를 활용해 다른 무기와 해킹 조합을 시험하기 좋아 재플레이 가치가 꽤 있습니다.
 
 다만 모든 것이 그대로 이어지는 것은 아니고, 루나틱 난도와도 별개입니다. 무엇을 유지하고 무엇을 새로 시작하는지 알고 들어가면 회차 계획을 세우기 쉽습니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 다만 언노운 시그널 완료를 목표로 한다면 현재 클리어 저장에서 먼저 정리하는 편이 더 효율적일 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 다이애나 스토리 능력은 예외
 
 스토리 진행과 연결된 일부 능력은 뉴 게임 플러스에서도 처음부터 전부 사용할 수 있는 구조가 아닙니다. 진행 과정에서 다시 해금해야 하는 요소가 있습니다.
@@ -65,17 +50,6 @@ hideDescription: true
 
 스토리를 다시 천천히 보고 싶다면 처음부터, 빌드와 전투가 목적이라면 건너뛰는 방식이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 루나틱은 뉴 게임 플러스가 아니다
 
 가장 중요한 부분입니다. 루나틱 난도는 클리어 뒤 열리지만 뉴 게임 플러스 저장으로 선택하는 방식이 아닙니다. 새 게임에서 별도로 시작해야 합니다.
@@ -87,17 +61,6 @@ hideDescription: true
 첫 회차는 재료가 부족해 모든 공격과 전술 유닛을 충분히 시험하기 어렵습니다. 뉴 게임 플러스는 이미 갖춘 장비를 바탕으로 다른 조합을 적극적으로 써보기 좋습니다.
 
 그립 건 대신 펄스 카빈, 안정형 전술 대신 공격적인 노드 조합처럼 첫 회차와 완전히 다른 플레이를 해보시면 재미가 살아납니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 추천 순서는 엔드게임 후 뉴 게임 플러스
 

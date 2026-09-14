@@ -18,11 +18,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
-
 144Hz 모니터를 샀는데 윈도우에서 60Hz로만 작동하는 경우가 생각보다 많습니다. 모니터 불량부터 의심하기 전에 윈도우 설정, 해상도, 케이블 순서로 확인해보시면 원인이 보이죠.
 
 144Hz는 1초에 화면을 144번 갱신한다는 뜻입니다. 일반적인 60Hz 모니터에 비해 움직임이 부드럽고 잔상이 적어 게임이나 빠른 화면 전환이 많은 작업에서 체감 차이가 큽니다. 그런데 모니터 자체는 144Hz를 지원하는데도 윈도우에서 60Hz로만 나오는 경우에는 스펙이 아니라 설정 문제인 경우가 대부분입니다. 이 글에서는 불량으로 판단하기 전에 순서대로 확인해야 할 항목을 정리했습니다.
@@ -47,17 +42,6 @@ hideDescription: true
 
 이런 경우 윈도우 표시에서는 특별한 안내가 보이지 않는 경우가 많아, 본체 사양과 모니터 스펙을 같이 고려해야 합니다. 모니터 제조사 웹사이트의 사양표에서 "최대 해상도/최대 주사율"과 "권장 해상도에서의 주사율"이 어떻게 표기되어 있는지 확인해보시면 도움이 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 케이블과 단자 확인
 
 오래된 규격의 영상 케이블이나 일부 변환 젠더를 사용하면 높은 새로 고침 빈도가 제한될 수 있습니다. 모니터와 그래픽카드가 지원하는 디스플레이포트나 적절한 규격의 HDMI 연결을 쓰고 있는지 확인해보시면 되죠.
@@ -78,17 +62,6 @@ AMD 그래픽카드라면 AMD Software(아드레날린)의 게임 설정에서 �
 
 게임 실행 도중 프레임을 보여주는 기준도 참고가 됩니다. 만약 게임 내 프레임 제한이나 지연 방지 기능이 60으로 설정되어 있다면 144로 바꾸시면 됩니다. 특히 발로란트, 오버워치, 카운터스트라이크 같은 경쟁 게임은 이 설정이 프레임에 직접 영향을 줍니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 동적 새로 고침 빈도 확인
 
 윈도우 11에는 상황에 따라 새로 고침 빈도를 자동으로 바꾸는 동적 새로 고침 빈도가 있습니다. 특정 게임이나 프로그램에서 예상보다 낮게 동작한다면 이 기능을 꺼보고 비교해보시면 됩니다.
@@ -103,13 +76,3 @@ AMD 그래픽카드라면 AMD Software(아드레날린)의 게임 설정에서 �
 
 그래픽 드라이버를 최신 버전으로 업데이트해보는 것도 도움이 됩니다. 드라이버가 다소 낡은 경우 새로 고침 빈도 목록에서 최신 주사율이 누락될 수 있습니다. 마지막으로 모니터를 단독으로 연결한 상태에서 다시 테스트해보면, 다중 모니터 구성이나 케이블 문제와 구분할 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

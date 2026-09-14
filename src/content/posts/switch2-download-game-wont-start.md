@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 어제까지 되던 다운로드 게임이 다른 본체로 옮긴 뒤 실행되지 않거나 이용 권한을 확인하라는 메시지가 뜨는 상황은 처음 겪으면 본체 고장부터 의심하기 쉽습니다. 하지만 스위치 2는 기존 스위치와 달라진 규격과 계정 관리 방식이 많아서, 실제로는 설정이나 사용 조건을 잘못 이해해 생기는 경우가 적지 않습니다.
 
 핵심부터 보면 스위치 2의 다운로드 게임은 설치 데이터가 남아 있는 것과 실제 이용 권한이 세팅된 것이 별개입니다. 버추얼 게임 카드가 다른 본체에 세팅돼 있거나 온라인 라이선스 조건을 만족하지 않으면 게임 아이콘이 남아 있어도 실행되지 않을 수 있습니다. 이 차이를 먼저 알고 계시면 불필요한 삭제나 초기화, 주변기기 교체를 피할 수 있습니다.
@@ -41,17 +37,6 @@ hideDescription: true
 
 문제가 해결됐다고 바로 끝내기보다 같은 조건에서 한 번 더 재현해 보는 것이 좋습니다. 게임을 다시 실행하고, 슬립 모드에서 복귀하고, 본체를 재기동한 뒤에도 정상이라면 일시적인 오류인지 실제 해결인지 구분하기 쉽습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 안 될 때 추가로 볼 부분
 
 다음으로 필요하면 현재 본체로 버추얼 게임 카드를 다시 세팅합니다. 이어서 온라인 라이선스를 쓴다면 인터넷을 연결하고 구매한 닌텐도 어카운트로 실행합니다. 순서를 지키면 어느 단계에서 문제가 생기는지 확인하기 쉬워집니다.
@@ -64,17 +49,6 @@ hideDescription: true
 
 다운로드 게임 오류에서 가장 아까운 행동은 수십 기가바이트를 먼저 지우는 것입니다. 스위치 2는 데이터보다 권한 위치를 먼저 보는 습관이 훨씬 중요해졌습니다
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 증상부터 정확히 나누기
 
 여기까지 해도 같은 증상이 계속된다면 한 번에 여러 설정을 바꾸지 않는 것이 좋습니다. 세이브 데이터는 게임을 삭제해도 별도로 남지만 중요한 진행 데이터는 백업 상태를 확인하는 편이 좋습니다. 다른 게임이나 다른 네트워크, 다른 케이블처럼 비교할 수 있는 조건이 있다면 하나씩 바꿔보는 편이 원인을 찾기 쉽습니다.
@@ -86,17 +60,6 @@ hideDescription: true
 게임 데이터, 세이브 데이터, 계정 이용 권한은 스위치에서 서로 다른 항목으로 관리되는 경우가 많습니다. 화면에 게임 아이콘이 보인다고 세이브와 이용 권한까지 모두 같은 위치에 있다는 뜻은 아닙니다.
 
 중요한 게임을 오래 플레이하셨다면 문제를 해결하기 전에 세이브가 어디에 있는지 먼저 확인하시는 편이 안전합니다. 특히 사용자 삭제와 본체 초기화는 일반적인 게임 데이터 삭제보다 영향 범위가 훨씬 크죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 여기서 자주 생기는 착각
 

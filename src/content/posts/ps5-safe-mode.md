@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 PS5가 정상적으로 부팅되지 않거나 화면과 다운로드 오류가 반복될 때 안전 모드를 사용할 수 있습니다. 이름 때문에 공장 초기화부터 떠올리기 쉽지만 안전 모드 안에는 캐시 정리와 영상 출력 변경처럼 데이터를 지우지 않는 기능도 있습니다.
 
 문제 수준에 맞는 항목을 선택하는 것이 중요합니다.
@@ -41,17 +37,6 @@ PS5 전원을 완전히 끈 뒤 본체 전원 버튼을 길게 누릅니다. 첫
 
 처음부터 초기화를 선택할 이유는 없습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 영상 출력 변경
 
 새 TV나 모니터 연결 뒤 검은 화면이 나온다면 해상도나 HDCP 모드를 변경하는 항목을 활용할 수 있습니다. 낮은 영상 설정으로 부팅한 뒤 정상 화면에서 다시 자동 설정을 맞추는 방식입니다.
@@ -64,17 +49,6 @@ PS5 전원을 완전히 끈 뒤 본체 전원 버튼을 길게 누릅니다. 첫
 
 파일 목록을 다시 정리하는 과정이라 시간이 조금 걸릴 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 시스템 소프트웨어 업데이트
 
 일반 부팅에서 시스템 업데이트가 실패한다면 안전 모드에서 인터넷이나 USB를 이용해 업데이트를 진행할 수 있습니다. 업데이트 파일을 USB로 준비할 때는 소니가 안내하는 폴더 구조와 파일명을 정확히 따라야 합니다.
@@ -86,17 +60,6 @@ PS5 전원을 완전히 끈 뒤 본체 전원 버튼을 길게 누릅니다. 첫
 안전 모드에는 콘솔 초기화와 시스템 소프트웨어 재설치처럼 데이터를 지우는 강한 옵션도 있습니다. 이 단계는 다른 복구 방법을 모두 시도하고 백업 여부를 확인한 뒤 사용해야 합니다.
 
 안전 모드는 위험한 기능이 아니라 강도가 다른 복구 도구 모음이라고 생각하시면 이해가 쉽습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 설정 변경 뒤 확인할 부분
 
@@ -112,13 +75,3 @@ PS5 문제 해결은 무작정 초기화하는 것보다 재현 조건을 찾는
 
 PS5는 같은 증상이라도 계정, 게임 버전, 연결 장비에 따라 원인이 달라질 수 있습니다. 그래서 가장 최근에 바꾼 설정과 문제가 시작된 시점을 기준으로 하나씩 되돌려 확인하시면 불필요한 재설치와 초기화를 줄일 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

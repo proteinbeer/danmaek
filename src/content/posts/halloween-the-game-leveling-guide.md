@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 할로윈 더 게임의 성장은 하나의 레벨 숫자만 올리는 구조가 아닙니다. 경험치는 프로필, 킬러, 민간인, 무기라는 네 가지 진행 영역으로 나뉘며 무엇을 플레이했는지에 따라 동시에 다른 트랙이 올라갑니다.
 
 이 구조를 모르고 있으면 원하는 캐릭터나 마이클 능력을 해금하려고 엉뚱한 콘텐츠를 반복하게 될 수 있습니다. 먼저 어떤 레벨이 무엇을 담당하는지 구분해 두시면 성장 계획이 훨씬 단순해집니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 마이클 쪽 콘텐츠를 빠르게 열고 싶다면 민간인 플레이만 반복해서는 해결되지 않습니다. 싱글 스토리와 멀티플레이에서 마이클을 직접 다루며 킬러 시스템을 익히는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 민간인 레벨은 캐릭터별
 
 민간인 레벨은 로스터 전체가 하나로 공유하는 방식이 아니라 각 캐릭터에 연결됩니다. 한 캐릭터를 오래 플레이해도 다른 민간인의 성장도가 자동으로 같이 올라가는 것은 아닙니다.
@@ -64,17 +49,6 @@ hideDescription: true
 무기 레벨은 마이클이 특정 장착 무기로 희생자를 처리할 때 올라가는 별도 성장입니다. 단순 킬러 레벨과 분리되어 있기 때문에 자주 쓰는 무기를 꾸준히 사용하는 것이 관련 보상을 얻는 데 중요합니다.
 
 게임은 무기 진행을 통해 처형과 꾸미기 요소를 포함한 여러 보상을 제공하는 구조입니다. 새로운 무기를 얻었다면 바로 성능만 비교하지 말고 해당 무기 진행도에서 무엇이 열리는지도 함께 확인하시면 좋습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 레벨업으로 열리는 것
 
@@ -96,13 +70,3 @@ hideDescription: true
 
 원하는 보상이 보이면 먼저 어느 진행 트랙에 묶여 있는지 확인하시면 됩니다. 같은 시간을 플레이해도 역할과 무기를 맞추면 필요한 경험치를 훨씬 덜 낭비하게 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 더 블러드 오브 던워커는 '위쳐 3' 핵심 개발진이 설립한 레벨 울브즈의 데뷔작입니다. 가장 눈에 띄는 특징은 가족을 구해야 하는 30일이라는 시한으로, 게임의 모든 시스템이 이 시한을 중심으로 돌아갑니다. 출시 사흘 만에 전 세계 100만 장을 넘긴 만큼 한국에서도 한창 붐인데, 낮과 밤을 오가는 독특한 구조라 초반을 제대로 잡는 편이 중요합니다.
 
 이 글에서는 시간이 실제로 어떻게 흐르는지, 낮과 밤에 코엔이 어떤 모습으로 싸우는지, 그리고 게임을 시작해서 가장 먼저 해야 하는 순서를 정리했습니다. 오픈월드라고 해서 아무 데나 달려가면 시간에 쫓기는 꼴이 되니, 핵심 원리부터 익숙해지는 것이 좋습니다.
@@ -46,17 +42,6 @@ hideDescription: true
 
 시간대가 바뀌면 같은 퀘스트의 진행 방식도 달라집니다. 대화로 풀어가는 낮 버전이 있는가 하면, 잠입으로 넘어가는 밤 버전이 있는 것들이죠. 밤에 폐탑에 쉐도우스텝으로 들어갔다가 해가 뜨면 나올 수 없는 상황이 생길 수 있으니, 이동 전에 시간을 확인하는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 시작 순서: 프롤로그부터 메인 스토리까지
 
 여러 갈래를 최적화하기 전에 프롤로그부터 끝내는 것이 첫 단계입니다. 프롤로그의 메인 퀘스트 다섯 개는 합쳐서 약 5시간 단위밖에 들지 않습니다. 이 단계에서는 낮과 밤 중 어떤 플레이가 맞는지 감을 잡고, 그다음부터 본격적으로 시간을 세면 됩니다.
@@ -72,17 +57,6 @@ hideDescription: true
 시간이 안 드는 경험치 수급으로는 야생의 늑대, 멧돼지, 곰 보스를 사냥하는 것이 대표적입니다. 전투 자체는 시간을 쓰지 않으므로, 지나가는 길에 마주친 야수를 처리하면 손실 없이 레벨 재료가 쌓입니다.
 
 밤에는 각 지역의 탑을 오르면 주변의 관심 지점이 물음표로 표시됩니다. 랜드마크와 예상 퀘스트가 한 번에 펼쳐지므로, 새 지역에 들어가면 밤에 탑부터 확인하는 흐름이 효율적입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 흔한 초보 실수들
 
@@ -104,13 +78,3 @@ hideDescription: true
 
 이 네 원칙만 머리에 두고 시작해도 30일이라는 무게에 눌리지 않습니다. 시간은 적이 아니라 설계 도구임을 받아들이는 순간, 던워커의 맛이 완전히 달라집니다. 선택의 무게와 다회차 재미까지 즐기면서 본인만의 30일을 채워보면 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

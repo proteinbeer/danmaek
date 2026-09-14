@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 워드프레스에서 허용된 메모리를 모두 사용했다는 오류가 나오면 가장 먼저 메모리 한도를 올리는 방법을 찾게 됩니다.
 
 실제로 한도를 높이면 사이트가 바로 살아나는 경우가 있지만, 원인이 그대로라면 며칠 뒤 더 큰 숫자에서 같은 문제가 반복될 수 있죠.
@@ -47,17 +43,6 @@ PHP 메모리는 한 번의 요청에서 워드프레스와 플러그인이 사�
 
 호스팅 관리 화면에서도 PHP 설정을 제공하는 경우가 많습니다. 직접 서버 파일을 수정하기 전에 호스팅이 제공하는 공식 설정 메뉴가 있는지 확인하시는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 한도를 올려도 해결되지 않는 경우
 
 메모리 한도를 높였는데도 짧은 시간 안에 다시 꽉 찬다면 특정 플러그인이나 작업이 비정상적으로 자원을 쓰고 있을 수 있죠.
@@ -73,17 +58,6 @@ PHP 메모리는 한 번의 요청에서 워드프레스와 플러그인이 사�
 공유 호스팅에서는 요금제별로 메모리와 실행 시간 제한이 정해진 경우가 있어 설정값만 바꿔서는 해결되지 않을 수 있죠.
 
 이럴 때는 호스팅 지원에 실제 적용 가능한 PHP 메모리 한도를 문의하는 것이 정확합니다. 고사양 요금제로 올리기 전에 문제가 특정 플러그인 때문인지 먼저 확인하는 편이 비용도 줄일 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 플러그인 수만 보고 판단하지 않는다
 
@@ -101,17 +75,6 @@ PHP 메모리는 한 번의 요청에서 워드프레스와 플러그인이 사�
 
 현재 한도 확인, 오류가 나는 작업 확인, 최근 플러그인 변경 확인, 호스팅 상한선 확인 순서로 보시면 되죠. 숫자를 올리기 전에 왜 모자랐는지를 찾는 것이 장기적으로 가장 안정적인 해결입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 7. 업데이트 직후라면 버전 궁합을 확인
 
 워드프레스나 PHP를 업데이트한 직후 메모리 사용량이 크게 늘었다면 플러그인의 호환 문제도 살펴볼 필요가 있습니다.
@@ -128,13 +91,3 @@ PHP 메모리는 한 번의 요청에서 워드프레스와 플러그인이 사�
 
 사이트 운영에서는 최고 사양보다 자원을 몰아서 쓰지 않는 방식도 중요하죠. 특히 공유 호스팅이라면 무거운 작업 시간을 방문자가 적은 때로 나누는 것만으로도 오류 빈도를 줄일 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 메이플 키우기는 넥슨이 서비스하는 메이플스토리 IP 기반 방치형 RPG입니다. 이런 방치형 게임은 성장 재화가 조금씩 쌓이는 구조라 무료 쿠폰 하나가 초반 진행을 크게 바꿔주기 때문에, 기한이 지나기 전에 입력해두는 편이 좋습니다.
 
 9월 기준으로 가장 최근에 공개된 메이플 키우기 쿠폰은 **PINKBEANATTACK**입니다. 동료 소환권 300개를 받을 수 있으며 기한은 10월 14일입니다. 사용 방법과 함께 지난 쿠폰 날짜까지 정리했죠.
@@ -54,17 +50,6 @@ hideDescription: true
 먼저 게임 내 **환경 설정 > 계정**에서 본인의 **UID(회원 코드)** 를 확인해 복사합니다. 그리고 넥슨 쿠폰 등록 페이지(mcoupon.nexon.com/maplestoryidle)에 접속해 UID와 쿠폰 코드를 각각 입력하면 됩니다.
 
 코드를 입력한 뒤에는 보상을 받을 서버와 캐릭터를 정확히 선택하고 등록합니다. 게임을 다시 실행하거나 재접속하면 우편함에서 보상을 확인할 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 4. 보상은 우편함에서, 계정당 1회
 

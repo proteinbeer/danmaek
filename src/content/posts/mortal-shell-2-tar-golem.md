@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 타르 골렘은 튜토리얼 마지막의 첫 메인 보스입니다. 일반적인 소울라이크의 패배 유도형 보스처럼 쓰러져도 스토리는 진행되지만 체력을 0까지 만들면 별도 업적을 얻을 수 있어 첫 회차 업적을 노리신다면 그냥 넘기면 아쉽습니다.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/mortal-shell-2-2026-01.jpg" alt="모탈 셸 2(Mortal Shell 2) 소울라이크 액션 게임 대표 이미지" width="686" height="386" loading="lazy" decoding="async" />
@@ -44,17 +40,6 @@ hideDescription: true
 
 보스가 막히면 같은 셸과 무기를 계속 고집하지 않으셔도 됩니다. 패링이 불편한 보스는 경화나 회피 중심 셸로 바꾸고, 접근 자체가 위험하다면 보조 무기를 적극적으로 활용하시면 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 점프 내려찍기
 
 가장 위험한 것은 공중으로 뛰어오른 뒤 내려찍는 막을 수 없는 공격입니다. 직접 맞으면 전투가 바로 끝날 수 있으니 공격 욕심을 버리고 거리를 먼저 확보하셔야 합니다.
@@ -69,17 +54,6 @@ hideDescription: true
 
 회복을 많이 쓰는 구간이 항상 가장 어려운 패턴인 것은 아닙니다. 공격 욕심 때문에 맞는 경우가 많으므로 두 번 칠 수 있어 보여도 한 번만 치고 빠지는 방식부터 시험해 보시는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 화염 저항
 
 직전 지역의 오염된 베스티지를 쓰러뜨리면 화염 피해를 줄이는 번트 에피지를 얻을 수 있습니다. 업적을 확실히 노리신다면 이 아이템을 준비하는 편이 안전합니다.
@@ -93,17 +67,6 @@ hideDescription: true
 업적이나 모든 수집 요소를 목표로 하지 않으신다면 첫 회차부터 모든 길을 확인할 필요는 없습니다. 엔딩 이후에도 자유 탐험이 가능하므로 스토리 흐름을 먼저 보고, 필요한 셸과 무기만 챙긴 뒤 나머지를 정리하는 방식도 충분히 좋은 선택입니다.
 
 페이즈가 바뀌는 순간에는 피해를 더 넣으려 하기보다 새 패턴을 한 번 관찰하는 편이 안전합니다. 특히 처음 보는 범위 공격은 카메라를 넓게 두고 움직임 전체를 확인하시면 대응하기 쉽습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 실패하면 다시 도전
 

@@ -18,11 +18,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
-
 윈도우가 느려지고 오류가 반복되면 초기화를 떠올리게 되죠. 그런데 파일 유지 옵션을 골라도 설치한 프로그램과 설정이 그대로 남는 것은 아닙니다.
 
 컴퓨터가 점점 느려지고 오류가 반복되면 윈도우 초기화(리셋)가 가장 확실한 해결책으로 느껴집니다. 그런데 초기화 전에 **내 파일 유지**와 **모든 항목 제거**가 무엇이 다른지, 클라우드 다운로드와 로컬 재설치가 어떻게 다른지를 정확히 알아야 데이터 손실을 막고 원하는 결과를 얻을 수 있습니다. 초기화를 시작하기 전에 알아두면 좋은 내용을 정리했습니다.
@@ -45,17 +40,6 @@ hideDescription: true
 
 이 과정은 "내 파일 유지"보다 시간이 오래 걸리고, 데이터가 모두 지워지므로 반드시 사전에 백업이 필요합니다. 특히 드라이브 정리 옵션(파일을 복구하기 어렵게 만드는 설정)을 사용하면 시간은 더 걸리지만 삭제한 파일을 되살리는 것이 어려워집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 클라우드 다운로드와 로컬 재설치
 
 클라우드 다운로드는 마이크로소프트 서버에서 새 윈도우 설치 파일을 받아 쓰는 방식입니다. 현재 컴퓨터의 설치 파일이 손상됐다고 의심될 때 유용하죠.
@@ -73,17 +57,6 @@ hideDescription: true
 초기화를 시작하기 전에 **중요한 파일을 반드시 백업**하시면 됩니다. 외장 하드, USB 메모리, 클라우드 저장소 중 하나에라도 중요한 자료를 복사해두면 안심할 수 있습니다. "내 파일 유지"를 고를 계획이라도 백업은 해두는 것이 원칙입니다.
 
 또한 Windows의 **장치 암호화(비트로커)**를 사용 중이라면 **비트로커 복구 키**를 미리 확인해두시면 됩니다. 초기화 과정에서 복구 키를 요구할 수 있고, 복구 키를 잃어버리면 데이터에 접근하지 못할 수 있기 때문입니다. 복구 키는 마이크로소프트 계정이나 복구 키 백업 파일에서 찾을 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 초기화 진행 중 주의사항
 

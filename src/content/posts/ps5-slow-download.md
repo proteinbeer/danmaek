@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 기가인터넷을 쓰는데 PS5 다운로드가 유난히 느리면 DNS 숫자를 바꾸는 방법부터 찾게 됩니다. 하지만 실제 속도는 PSN 서버 상태, 와이파이 품질, 동시에 실행 중인 게임, 공유기 대역폭 영향을 더 크게 받습니다.
 
 DNS는 마지막 보조 수단으로 보고 기본 연결부터 정리하는 편이 효율적입니다.
@@ -41,17 +37,6 @@ PS5에서 게임이 실행 중이면 다운로드가 우선순위를 덜 받을 
 
 유선에서도 느리면 공유기 WAN 속도와 통신사 회선까지 범위를 넓힐 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 5GHz와 거리 확인
 
 공유기와 가까운 환경에서는 5GHz 와이파이가 대형 다운로드에 유리할 수 있습니다. 다만 벽이 많으면 신호가 약해져 실제 속도가 떨어질 수 있으므로 속도 숫자만 보고 대역을 고르지 않습니다.
@@ -64,17 +49,6 @@ PS5 위치에서 안정적인 대역이 더 중요합니다.
 
 가족 사용이 적은 시간대에 같은 다운로드를 비교해보면 병목을 쉽게 알 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. PSN 서버와 시간대 영향
 
 게임 출시일이나 대형 업데이트 날에는 같은 인터넷에서도 속도가 평소보다 낮을 수 있습니다. 여러 게임이 동시에 느리고 다른 인터넷 서비스는 정상이라면 서버 측 혼잡 가능성도 있습니다.
@@ -86,17 +60,6 @@ PS5 위치에서 안정적인 대역이 더 중요합니다.
 DNS는 도메인 주소를 찾는 과정에 영향을 주지만 이미 연결된 대용량 다운로드의 전송 속도를 몇 배 올리는 마법 같은 기능은 아닙니다. 특정 DNS에서 접속이 더 안정적일 수는 있어도 기본 병목을 먼저 해결해야 합니다.
 
 게임 종료, 유선 비교, 대역 확인, 트래픽 점검 순서가 더 현실적입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 설정 변경 뒤 확인할 부분
 
@@ -112,13 +75,3 @@ PS5 문제 해결은 무작정 초기화하는 것보다 재현 조건을 찾는
 
 PS5는 같은 증상이라도 계정, 게임 버전, 연결 장비에 따라 원인이 달라질 수 있습니다. 그래서 가장 최근에 바꾼 설정과 문제가 시작된 시점을 기준으로 하나씩 되돌려 확인하시면 불필요한 재설치와 초기화를 줄일 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

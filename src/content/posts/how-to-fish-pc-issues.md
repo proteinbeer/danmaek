@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 낚시 방법 실행 오류와 프레임에서 막히는 분이라면 시스템 하나만 따로 보지 말고 진행과 장비를 함께 보시는 편이 좋습니다. 낚시 방법은 낚시, 전투, 판매, 퀘스트가 연결되어 있어 한 부분만 놓쳐도 다음 단계가 늦어질 수 있습니다.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/how-to-fish-2026-01.jpg" alt="낚시 방법(HOW TO FISH) 스팀 생존 낚시 게임 대표 이미지" width="460" height="215" loading="lazy" decoding="async" />
@@ -40,17 +36,6 @@ hideDescription: true
 
 이전 문제를 계속 겪고 있다면 스팀을 완전히 재시작해 패치가 적용됐는지 먼저 보셔야 합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 검은 화면과 회색 화면 수정도 있었다
 
 1점0점4에서는 로비 참가 시 검은 화면, 게임 시작 시 회색 화면 문제에 대한 수정이 들어갔습니다. 전체 화면을 강제로 적용하던 방식도 조정됐습니다.
@@ -63,17 +48,6 @@ hideDescription: true
 
 윈도우 입력 장치와 스팀 권한도 함께 점검하면 원인을 좁히기 쉽습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 첫 라디오 구매 끊김도 수정됐다
 
 첫 라디오 구매 시 음악을 불러오며 순간적으로 끊기는 문제도 1점0점12에서 미리 음악을 로드하는 방식으로 수정됐습니다. 특정 상점 구매 순간만 끊겼다면 그래픽 카드 문제라고 단정할 필요가 없습니다.
@@ -85,17 +59,6 @@ hideDescription: true
 최신 버전에서는 스팀 클라우드 저장이 지원됩니다. 기존 저장이 있는 분은 원본 PC에서 한 번 실행 후 종료해 업로드하고, 다른 기기에서는 동기화가 끝난 뒤 시작하시는 편이 안전합니다.
 
 저장 파일 백업과 손상 검사 기능도 이전 패치에서 추가됐지만 중요한 진행 전에는 동기화 상태를 확인하시는 편이 좋습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 문제 해결은 재설치보다 순서가 중요하다
 
@@ -117,13 +80,3 @@ hideDescription: true
 
 특히 출시 직후 작성된 영상이나 글은 현재 패치와 다를 수 있습니다. 로비 인원과 스팀 덱, 저장 방식처럼 실제로 바뀐 기능이 많으므로 문제 해결과 기능 확인은 최신 버전을 기준으로 판단하시는 편이 가장 안전합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

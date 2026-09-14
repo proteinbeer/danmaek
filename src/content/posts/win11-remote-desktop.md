@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 집이나 사무실 PC에 있는 파일과 프로그램을 다른 기기에서 그대로 사용하고 싶을 때 원격 데스크톱을 떠올릴 수 있습니다.
 
 윈도우 11에는 원격 PC의 바탕화면에 접속해 직접 조작할 수 있는 기능이 있지만 모든 에디션이 같은 방식으로 호스트가 되는 것은 아닙니다.
@@ -61,17 +57,6 @@ hideDescription: true
 
 접속하는 기기보다 접속받는 PC의 에디션과 설정이 핵심입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 외부 인터넷 접속은 더 조심
 
 집 밖에서 접속하려면 같은 와이파이 안에서 연결하는 것보다 고려할 것이 많습니다.
@@ -99,17 +84,6 @@ hideDescription: true
 항상 켜두는 것이 답은 아닙니다.
 
 필요한 시간대와 전력 사용, 보안을 고려해 어떤 방식으로 대상 PC를 유지할지 정하는 편이 좋습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 계정 보안이 가장 중요
 
@@ -139,13 +113,3 @@ hideDescription: true
 
 단순 파일 전송이 목적이라면 클라우드나 파일 공유가 더 간단한 선택이 될 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

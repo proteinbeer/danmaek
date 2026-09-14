@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 몬스터헌터 와일즈의 식사는 헌트 전 최대 체력과 스테미너를 끌어올리고, 몬스터를 잡을 때 유리한 보조 스킬까지 제공하는 핵심 시스템입니다. 사용하는 식재료에 따라 버프가 달라지기 때문에, 목표 몬스터에 맞춰 먹는 음식을 바꾸는 것이 기본 운영이 됩니다.
 
 이 글에서는 식사가 주는 기본 효과와 지속 시간, 랜덤으로 발동하는 식사 스킬의 이해, 그리고 필드에서 다시 먹어야 하는 상황을 위한 휴대용 바비큐와 식권 활용법까지 정리합니다.
@@ -41,17 +37,6 @@ hideDescription: true
 
 식사 스킬의 종류는 사용한 식재료의 속성에 따라 달라집니다. 예를 들어 몬스터 고기 중심의 식사는 공격 관련, 채소나 허브 중심은 방어 관련 스킬이 붙는 경향이 있으므로, 목표 몬스터의 공격 유형에 맞춰 반찬을 바꾸는 편이 유리합니다. 발동 조건을 충족하지 못하면 낭비되므로 퀘스트 내용을 확인하고 식사하는 습관이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 식재료 확보와 조리
 
 식사 재료는 필드의 수집 포인트나 몬스터 소재를 통해 모을 수 있습니다. 고기류는 몬스터나 소형 생물로부터, 채소·과일류는 식물 수집 포인트에서 주로 얻습니다. 각 식재료가 붙어 주는 식사 스킬이 정해져 있으므로, 자주 쓰는 스킬의 재료는 상점이나 수집으로 미리 비축해 두는 것이 좋습니다.
@@ -63,17 +48,6 @@ hideDescription: true
 사냥 도중 버프가 끝났다면 휴대용 바비큐를 사용해 필드에서 바로 식사를 재개할 수 있습니다. 휴대용 바비큐는 원시 재료와 육류를 구워 간식으로 섭취하는데, 기본 비용과 달리 일반 식사만큼의 효과를 얻기 위해서는 온전한 식사 재료가 필요합니다.
 
 휴대용 바비큐로 만든 간식은 래션 기준 약 30분, 온전한 식사 재료를 구우면 약 50분의 효과를 줍니다. 다만 캠프의 정식 식사보다 스킬 발동 범위가 좁으므로, 초반 진행이나 파밍 중 버프 갱신 용도로 활용하는 것이 일반적입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 식권(바우처) 사용법
 
@@ -87,13 +61,3 @@ hideDescription: true
 
 목표 몬스터가 정해졌다면, 사냥 시작 직전에 캠프에서 식사하고 바로 출발하는 루틴을 만드세요. 식사 스킬의 발동 조건(예: 몬스터 포획 시, 특정 상태 이상 대상 등)을 확인하고 식단을 고르면, 노력 없이 상당한 보너스를 챙길 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

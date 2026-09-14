@@ -1,4 +1,4 @@
-﻿---
+---
 title: "닌텐도 스위치 2 독 모드에 VRR이 생겼다, 23.0.0 업데이트 핵심 변화"
 description: "닌텐도 스위치 2가 시스템 버전 23.0.0에서 TV 모드 VRR을 지원하기 시작했습니다."
 date: 2026-09-12T12:00:00
@@ -18,10 +18,6 @@ imageHeight: 675
 hideHeroImage: true
 hideDescription: true
 ---
-
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
 
 닌텐도 스위치 2가 시스템 버전 23.0.0에서 TV 모드 VRR을 지원하기 시작했습니다.
 
@@ -61,17 +57,6 @@ hideDescription: true
 
 다만 향후 게임별 지원 상태가 얼마나 넓어지는지가 실제 활용도를 결정합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 프레임이 흔들릴 때 더 중요
 
 VRR은 60프레임이 완벽하게 고정되는 게임보다 40에서 60 사이를 오가는 게임에서 효과가 큽니다.
@@ -99,17 +84,6 @@ VRR이 낮은 프레임까지 모두 해결하는 기술은 아니라는 점은 
 반면 지금은 이후 이용 패턴이 쌓이면 메뉴와 이전 기능처럼 일상적인 부분이 더 중요해집니다.
 
 아직 세부 항목은 지역별 닌텐도 지원 페이지에서 버전별로 달라질 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 스위치 2의 약점 보완
 

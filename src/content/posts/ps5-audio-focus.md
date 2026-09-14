@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 PS5의 오디오 포커스는 헤드폰에서 특정 주파수의 작은 소리를 더 잘 들리도록 강조하는 기능입니다. 단순 볼륨 증폭과 달리 어떤 소리를 앞으로 가져올지 선택할 수 있다는 점이 특징입니다.
 
 발소리, 대사, 높은 음이나 낮은 음이 묻힐 때 전체 음량을 올리기 전에 써볼 만합니다.
@@ -41,17 +37,6 @@ PS5의 오디오 포커스는 헤드폰에서 특정 주파수의 작은 소리�
 
 너무 강하게 설정하면 전체 밸런스가 무거워질 수 있으므로 단계적으로 올립니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 높은 소리 강조
 
 발소리나 금속성 효과음처럼 상대적으로 높은 영역의 정보가 중요할 때는 높은 주파수 쪽 설정이 유리할 수 있습니다. 경쟁 게임에서는 방향 파악에 도움이 되는 경우도 있습니다.
@@ -64,17 +49,6 @@ PS5의 오디오 포커스는 헤드폰에서 특정 주파수의 작은 소리�
 
 게임 자체 대사 음량 옵션과 함께 조절하면 더 자연스럽게 맞출 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 3D 오디오와 함께 비교
 
 3D 오디오를 사용 중이라면 오디오 포커스를 추가했을 때 공간감이 어떻게 변하는지도 확인합니다. 방향감은 좋아졌지만 소리가 지나치게 가공된 느낌이 들면 두 기능 중 하나를 낮추는 것이 낫습니다.
@@ -86,17 +60,6 @@ PS5의 오디오 포커스는 헤드폰에서 특정 주파수의 작은 소리�
 헤드셋 앱이나 USB 동글에 이미 강한 EQ가 적용돼 있다면 PS5 오디오 포커스와 겹칠 수 있습니다. 기준을 잡을 때는 헤드셋 EQ를 평평하게 두고 PS5 기능만 먼저 테스트하는 편이 좋습니다.
 
 어느 쪽이 효과를 만드는지 알아야 나중에 게임별로 조절하기도 쉽습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 설정 변경 뒤 확인할 부분
 
@@ -112,13 +75,3 @@ PS5 문제 해결은 무작정 초기화하는 것보다 재현 조건을 찾는
 
 PS5는 같은 증상이라도 계정, 게임 버전, 연결 장비에 따라 원인이 달라질 수 있습니다. 그래서 가장 최근에 바꾼 설정과 문제가 시작된 시점을 기준으로 하나씩 되돌려 확인하시면 불필요한 재설치와 초기화를 줄일 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 섹터가드는 프라그마타의 기본 전투 루프를 제대로 이해했는지 확인하는 첫 시험대에 가깝습니다. 일반 적처럼 총만 쏘면 시간이 오래 걸리고, 해킹 화면을 오래 보면 보스 공격에 맞기 쉬워 처음에는 생각보다 어렵게 느껴집니다.
 
 핵심은 패턴을 완벽하게 피하는 것보다 해킹과 공격을 짧게 나누는 것입니다. 장갑을 열고 약점에 피해를 넣는 기본 사이클만 안정화하면 난도가 크게 내려갑니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 좋은 각을 만들기 어렵다면 스테이시스 넷처럼 움직임을 제한하는 장비가 큰 도움이 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 오픈 시간에 공격 유닛 집중
 
 해킹이 성공해 장갑이 열린 순간에는 주무기만 천천히 쓰기보다 쇼크웨이브 건이나 차지 피어서 같은 공격 유닛을 섞어 큰 피해를 넣는 편이 좋습니다.
@@ -65,17 +50,6 @@ hideDescription: true
 
 프라그마타 해킹은 시간을 조금 더 쓰더라도 성공하는 것이 중요합니다. 한 번 실패하면 장갑을 여는 과정 자체를 다시 해야 해 오히려 손해가 큽니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 전술 유닛을 적극적으로 쓴다
 
 첫 보스라 장비를 아끼고 싶을 수 있지만, 섹터가드는 전술 유닛 사용법을 익히기 좋은 상대입니다. 스테이시스로 움직임을 잡고 해킹을 끝내면 전투가 훨씬 안정됩니다.
@@ -87,17 +61,6 @@ hideDescription: true
 구역 탐색을 거의 하지 않고 바로 보스까지 왔다면 업그레이드 컴포넌트가 부족할 수 있습니다. 너무 어렵다면 쉴터로 돌아가 휴 슈트와 주무기, 다이애나 해킹 중 약한 부분을 한 번 확인하시면 됩니다.
 
 첫 보스에서 몇 번 죽는다고 무조건 실력 문제는 아닙니다. 탐색과 성장 자원을 어느 정도 챙겼는지도 난도에 영향을 줍니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 첫 보스의 목적은 루프 학습
 

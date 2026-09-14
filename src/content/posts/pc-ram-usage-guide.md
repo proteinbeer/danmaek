@@ -18,10 +18,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 브라우저 탭 몇 개와 게임 하나를 겨우 켰는데 컴퓨터가 버벅인다면 메모리(RAM)가 부족한 상태일 수 있습니다. 사용량을 확인하고 당장 정리할 수 있는 방법을 알려드립니다.
 
 메모리는 컴퓨터가 지금 당장 처리하는 데이터를 담는 임시 공간입니다. 이 공간이 가득 차면 컴퓨터는 느린 저장장치를 임시 메모리처럼 쓰게 되어 전체 성능이 떨어집니다. 특히 크롬 같은 브라우저는 탭마다 메모리를 따로 쓰기 때문에 금방 채워집니다. 작업 관리자에서 어떤 프로그램이 메모리를 차지하는지 확인하고, 불필요한 항목부터 정리하는 순서를 정리했습니다.
@@ -44,17 +40,6 @@ hideDescription: true
 
 시스템 트레이(오른쪽 아래 아이콘 모음)에 상주하는 프로그램들도 점검하세요. 메신저, 클라우드 동기화, 보안 프로그램이 동시에 돌면 메모리의 상당 부분을 차지합니다. 자주 안 쓰는 것은 시작 프로그램에서 제외하면 부팅할 때부터 메모리를 아낄 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 시작 프로그램 정리로 근본적으로 해결
 
 사용하지 않는 프로그램이 부팅될 때마다 자동 실행되면 메모리가 시작부터 적게 남습니다. 시작 프로그램만 정리해도 체감이 됩니다.
@@ -70,17 +55,6 @@ hideDescription: true
 정리 후에도 여러 프로그램을 동시에 쓰면 바로 차오르는 경우는 메모리 용량 자체가 작업량에 비해 작다는 뜻입니다. 현재 시스템에서 메모리를 추가로 꽂을 수 있는지(남는 슬롯 유무), 어떤 규격(DDR4/DDR5)인지 확인해보는 것이 좋습니다.
 
 또한 64비트 윈도우라 해도 일부 메인보드는 메모리 업그레이드 한계치가 있습니다. 메인보드 제조사 사이트에서 지원 용량을 확인하면 낭비를 막을 수 있습니다. 메모리는 구매 전에 현재 장착된 제품과 같은 규격과 클럭인지 꼭 확인하십시오.
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 메모리 문제인지 다른 문제인지 구분
 
 사용량이 낮은데도 느리다면 메모리 부족이 원인이 아닐 수 있습니다. CPU 점유율, 저장장치 상태, 백신 검사 등을 함께 확인해야 합니다.

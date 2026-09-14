@@ -19,10 +19,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 원스휴먼(Once Human)은 스타리 스튜디오가 개발한 포스트 아포칼립스 오픈월드 서바이벌 게임입니다. 이상 물질과 이계인의 소재를 바탕으로 채집과 건설, 공략을 함께 하는 MMO 요소가 강한 작품입니다.
 
 게임 안내와 커뮤니티에서 공개되는 리딤코드는 스타크롬과 보급 상자 등 실용적인 보상을 주며, 대부분 만료 기간이 정해져 있지 않습니다. 다만 일부 오래된 코드는 더 이상 작동하지 않으니 목록을 꼭 확인하시기 바랍니다.
@@ -56,17 +52,6 @@ hideDescription: true
 2026SFOH와 S3STREAMER는 스타크롬과 상자를 주는 동일 계열 코드입니다. 다만 크리에이터 코드가 이미 등록된 계정이라면 중복 입력이 제한될 수 있습니다.
 
 보상이 지급되지 않으면 입력 계정에서 이미 사용한 적 있는 코드인지 먼저 확인해보시기 바랍니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 4. 만료 코드와 검증되지 않은 코드 주의
 

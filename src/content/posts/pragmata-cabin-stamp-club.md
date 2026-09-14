@@ -20,10 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">
-  이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
-</p>
-
 캐빈 스탬프 클럽은 프라그마타 쉴터에서 진행하는 빙고형 보조 성장 시스템입니다. 처음에는 장난스러운 미니게임처럼 보이지만 해킹 노드, 모드, 레드 게이트 키, 카트리지 홀더, 장비 설계도까지 중요한 보상이 섞여 있어 무시하기 아깝습니다.
 
 캐빈 코인을 모았다면 단순 수집품으로 쌓아두지 마시고 스탬프 보드 진행을 확인하시는 편이 좋습니다. 특정 줄을 완성할 때 추가 보상까지 받아 전투와 탐색 양쪽에서 도움이 됩니다.
@@ -42,17 +38,6 @@ hideDescription: true
 
 무작정 아무 칸이나 열기보다 현재 보드에서 한 줄을 만들 수 있는 위치를 확인하시는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 해킹 노드가 중요한 이유
 
 스탬프 클럽 보상에는 다이애나 해킹을 바꾸는 노드가 포함될 수 있습니다. 이런 보상은 단순 수집품이 아니라 보스전 난도를 직접 낮추는 장비가 됩니다.
@@ -65,17 +50,6 @@ hideDescription: true
 
 레드 존 앞에서 키가 없어 지나쳤다면 단순히 필드에서 못 찾았다고 생각하지 마시고 캐빈 보드 진행도 같이 확인하시면 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 카트리지 홀더와 장비 보상
 
 스탬프 보드에는 휴의 수리와 전투 지속력에 도움이 되는 카트리지 홀더 같은 보상도 있습니다. 이런 보상은 수치상 작은 것처럼 보여도 보스와 고난도 도전에서 생존 여유를 만들어 줍니다.
@@ -87,17 +61,6 @@ hideDescription: true
 스탬프 보드 보상은 진행에 직접 도움이 되는 항목이 많아서 코인을 계속 쌓아둘 이유가 적습니다. 새 보드가 열렸다면 필요한 장비와 보상을 확인하고 적극적으로 사용하시는 편이 좋습니다.
 
 모든 보드를 끝낸 뒤에는 남는 코인을 다른 자원으로 바꿀 수 있는 흐름도 있어 과하게 아낄 필요는 없습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 스탬프 클럽은 숨은 성장 트리
 
