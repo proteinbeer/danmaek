@@ -31,7 +31,7 @@ VRR은 모니터 주사율을 게임 프레임에 맞춰 움직이는 기능이�
 
 ## 1. VRR은 작동 범위가 있다
 
-모니터마다 가변 주사율이 동작하는 최소와 최대 범위가 정해져 있습니다.
+모니터마다 가변 주사율이 동작하는 최소와 최대 범위가 정해져 있죠.
 
 게임 프레임이 그 범위를 벗어나면 모니터가 더 이상 같은 방식으로 맞춰주기 어렵습니다.
 
@@ -43,7 +43,7 @@ VRR은 모니터 주사율을 게임 프레임에 맞춰 움직이는 기능이�
 
 VRR을 안정적으로 쓰기 위해 최대 주사율보다 약간 낮은 값으로 프레임 제한을 두는 설정을 사용하는 사람이 많습니다.
 
-이렇게 하면 프레임이 모니터 상한을 계속 넘나들면서 VRR 범위를 벗어나는 상황을 줄일 수 있습니다.
+이렇게 하면 프레임이 모니터 상한을 계속 넘나들면서 VRR 범위를 벗어나는 상황을 줄일 수 있죠.
 
 정확한 여유값은 게임과 시스템에 따라 달라질 수 있습니다.
 
@@ -53,9 +53,20 @@ VRR을 안정적으로 쓰기 위해 최대 주사율보다 약간 낮은 값으
 
 제한 전후로 화면 찢어짐이 줄어드는지 확인하시면 원인을 파악하기 쉽습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 모니터 메뉴에서도 켜야 한다
 
-프리싱크나 적응형 동기화는 그래픽카드 프로그램에서만 켠다고 끝나지 않는 경우가 있습니다.
+프리싱크나 적응형 동기화는 그래픽카드 프로그램에서만 켠다고 끝나지 않는 경우가 있죠.
 
 모니터 자체 메뉴에서 어댑티브 싱크 기능이 활성화돼 있어야 PC가 지원 디스플레이로 인식할 수 있죠.
 
@@ -67,17 +78,28 @@ VRR을 안정적으로 쓰기 위해 최대 주사율보다 약간 낮은 값으
 
 모니터와 그래픽카드가 가변 주사율을 지원해도 모든 포트 조합에서 같은 기능을 제공하는 것은 아닙니다.
 
-제품에 따라 디스플레이포트에서는 완전히 지원하지만 특정 HDMI 포트에서는 제한될 수 있습니다.
+제품에 따라 디스플레이포트에서는 완전히 지원하지만 특정 HDMI 포트에서는 제한될 수 있죠.
 
 모니터 설명서에서 지원 입력과 최대 주사율을 확인하시는 편이 좋습니다.
 
 변환 젠더와 도킹 장치를 사이에 넣으면 가변 주사율 정보가 제대로 전달되지 않는 경우도 있어 문제 확인 단계에서는 직접 연결이 가장 단순합니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 수직동기와의 관계
 
 VRR과 수직동기는 역할이 완전히 같은 기능은 아닙니다.
 
-프레임이 VRR 범위 안에 있을 때는 모니터가 프레임에 맞춰 움직이지만 상한을 넘어가는 상황에서는 별도 동기 설정이 영향을 줄 수 있습니다.
+프레임이 VRR 범위 안에 있을 때는 모니터가 프레임에 맞춰 움직이지만 상한을 넘어가는 상황에서는 별도 동기 설정이 영향을 줄 수 있죠.
 
 그래픽카드 제조사와 게임마다 권장 조합이 다를 수 있어 하나의 절대 설정으로 모든 게임을 맞추기 어렵습니다.
 
@@ -89,9 +111,20 @@ VRR을 켰을 때 화면 밝기가 미세하게 출렁이거나 검은 화면이
 
 이것은 화면 찢어짐과 다른 문제이며 패널 특성, 프레임 변동, 케이블 품질이 영향을 줄 수 있습니다.
 
-프레임이 급격하게 오르내리는 장면에서만 깜박인다면 프레임을 안정시키는 것이 도움이 되기도 합니다.
+프레임이 급격하게 오르내리는 장면에서만 깜박인다면 프레임을 안정시키는 것이 도움이 되기도 하죠.
 
 케이블 교체와 드라이버 업데이트도 함께 확인할 만합니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 7. VRR은 프레임 안정성과 같이 봐야 한다
 
@@ -105,10 +138,21 @@ VRR을 켰을 때 화면 밝기가 미세하게 출렁이거나 검은 화면이
 
 ## 8. 게임마다 프로필을 따로 둘 때
 
-경쟁 게임은 프레임을 매우 높게 유지하고, 싱글 게임은 그래픽 품질 때문에 프레임이 크게 움직일 수 있습니다.
+경쟁 게임은 프레임을 매우 높게 유지하고, 싱글 게임은 그래픽 품질 때문에 프레임이 크게 움직일 수 있죠.
 
 두 장르에 같은 프레임 제한과 동기 설정을 강제로 적용하면 한쪽에서는 오히려 불편해질 수 있죠.
 
 그래픽카드 프로그램이 게임별 설정을 지원한다면 VRR은 유지하되 프레임 상한과 수직동기 조합을 게임마다 나눠보시는 것도 좋습니다.
 
 하나의 정답보다 실제 프레임 범위에 맞춘 설정이 더 안정적입니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

@@ -25,7 +25,7 @@ hideDescription: true
 
 비트로커 복구 화면은 저장장치가 암호화돼 있고 윈도우가 평소와 다른 보안 상태를 감지했을 때 나타날 수 있습니다.
 
-메인보드 설정 변경, 펌웨어 업데이트, 하드웨어 변경 같은 일이 계기가 되기도 합니다.
+메인보드 설정 변경, 펌웨어 업데이트, 하드웨어 변경 같은 일이 계기가 되기도 하죠.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/hero-bloom.jpg" alt="비트로커 복구 키 입력 화면" width="1280" height="720" loading="lazy" decoding="async" />
 
@@ -37,7 +37,7 @@ hideDescription: true
 
 마이크로소프트 계정에 키가 여러 개 저장돼 있을 수도 있습니다.
 
-이럴 때는 복구 화면의 키 식별 정보와 계정에 저장된 항목을 비교해서 맞는 키를 찾아야 합니다.
+이럴 때는 복구 화면의 키 식별 정보와 계정에 저장된 항목을 비교해서 맞는 키를 찾아야 하죠.
 
 PIN을 여러 번 바꿨다고 해서 복구 키도 같이 바뀌는 것은 아닙니다.
 
@@ -47,7 +47,7 @@ PIN을 여러 번 바꿨다고 해서 복구 키도 같이 바뀌는 것은 아�
 
 개인 PC를 마이크로소프트 계정으로 설정했다면 복구 키가 해당 계정에 저장돼 있을 가능성이 큽니다.
 
-다른 휴대전화나 PC에서 마이크로소프트 계정에 로그인한 뒤 장치에 연결된 비트로커 복구 키를 확인합니다.
+다른 휴대전화나 PC에서 마이크로소프트 계정에 로그인한 뒤 장치에 연결된 비트로커 복구 키를 확인하죠.
 
 윈도우 11 24H2 이후 일부 복구 화면에서는 어떤 마이크로소프트 계정과 연결된 키인지 힌트가 표시될 수 있습니다.
 
@@ -57,9 +57,20 @@ PIN을 여러 번 바꿨다고 해서 복구 키도 같이 바뀌는 것은 아�
 
 이 경우에는 임의로 초기화하지 말고 관리 담당자에게 먼저 확인하는 편이 맞습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 계정에 없을 때 찾아볼 곳
 
-비트로커를 설정할 때 복구 키를 USB나 파일로 저장했거나 종이로 출력했을 수 있습니다.
+비트로커를 설정할 때 복구 키를 USB나 파일로 저장했거나 종이로 출력했을 수 있죠.
 
 예전에 윈도우를 설치한 사람이 따로 있다면 그 사람의 계정에 저장돼 있을 가능성도 있습니다.
 
@@ -67,7 +78,7 @@ PIN을 여러 번 바꿨다고 해서 복구 키도 같이 바뀌는 것은 아�
 
 이전 소유자의 계정에만 키가 있고 현재 사용자가 복구 키를 전달받지 못했다면 암호화된 기존 데이터에 접근하기 어려울 수 있습니다.
 
-그래서 중고 PC를 인수하실 때는 윈도우 로그인만 되는지 보는 것보다 장치 암호화 상태와 복구 키 보관 여부까지 확인하는 편이 좋습니다.
+그래서 중고 PC를 인수하실 때는 윈도우 로그인만 되는지 보는 것보다 장치 암호화 상태와 복구 키 보관 여부까지 확인하는 편이 좋죠.
 
 평소에는 보이지 않던 문제가 펌웨어 업데이트 한 번 뒤에 갑자기 드러날 수 있기 때문입니다.
 
@@ -77,7 +88,7 @@ PIN을 여러 번 바꿨다고 해서 복구 키도 같이 바뀌는 것은 아�
 
 이 점 때문에 복구 화면이 나온 뒤에야 처음 키의 존재를 알게 되면 상황이 꽤 난감해집니다.
 
-키를 찾지 못하고 원래 보안 상태로 되돌리는 것도 불가능하다면 장치를 초기화해야 할 수 있습니다.
+키를 찾지 못하고 원래 보안 상태로 되돌리는 것도 불가능하다면 장치를 초기화해야 할 수 있죠.
 
 이 경우 암호화된 기존 파일을 살리는 것과 윈도우를 다시 쓰는 것은 별개의 문제가 됩니다.
 
@@ -85,9 +96,20 @@ PIN을 여러 번 바꿨다고 해서 복구 키도 같이 바뀌는 것은 아�
 
 따라서 계정, 조직 계정, USB, 출력물, 설치를 도와준 사람 순서로 복구 키를 먼저 찾아보는 것이 우선입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 평소에 해둘 한 가지
 
-비트로커가 정상 작동 중일 때 복구 키 위치를 한번 확인해두는 것이 가장 좋습니다.
+비트로커가 정상 작동 중일 때 복구 키 위치를 한번 확인해두는 것이 가장 좋죠.
 
 복구 키 식별 정보와 저장 위치를 알아두면 실제 화면이 떴을 때 공포스러운 48자리 숫자가 아니라 찾을 수 있는 열쇠로 보이기 시작합니다.
 
@@ -95,7 +117,7 @@ PIN을 여러 번 바꿨다고 해서 복구 키도 같이 바뀌는 것은 아�
 
 장치가 고장나지 않았는데도 보안 상태가 달라졌다는 이유로 복구 확인이 필요한 경우가 있기 때문입니다.
 
-비트로커는 귀찮게 만드는 기능이 아니라 저장장치를 잃어버렸을 때 데이터를 지키는 기능입니다.
+비트로커는 귀찮게 만드는 기능이 아니라 저장장치를 잃어버렸을 때 데이터를 지키는 기능이죠.
 
 문제는 암호화 자체보다 복구 키를 어디에 뒀는지 모르는 상태에서 시작되죠.
 
@@ -109,7 +131,17 @@ PIN을 여러 번 바꿨다고 해서 복구 키도 같이 바뀌는 것은 아�
 
 보안을 끄는 것을 첫 해결책으로 삼기보다 왜 매번 복구 확인이 필요한지 원인을 찾는 방향이 안전합니다.
 
-특히 회사 PC에서는 임의로 암호화를 해제하면 정책 위반이 될 수 있습니다.
+특히 회사 PC에서는 임의로 암호화를 해제하면 정책 위반이 될 수 있죠.
 
 관리되는 장치라면 개인 판단으로 설정을 바꾸기 전에 담당 부서에 확인하는 것이 먼저입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

@@ -20,6 +20,11 @@ hideDescription: true
 draft: true
 ---
 
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>유희왕 태그포스 GX가 2027년 2월 16일 다시 출시됩니다. 유희왕 태그포스 GX 2027년 귀환, 서구 미공개 콘텐츠까지 넣는다 관건은 발표 자체보다 출시 일정, 가격, 기다릴 이유가 얼마나 분명한지이죠.</p>
+</div>
+
 유희왕 태그포스 GX가 2027년 2월 16일 다시 출시됩니다.
 
 태그포스 3을 기반으로 그래픽을 현대화하고 과거 일부 지역에서 정식 제공되지 않았던 콘텐츠까지 포함합니다.
@@ -54,6 +59,17 @@ GX 애니메이션 캐릭터와 당시 카드 환경을 다시 체험하는 목�
 
 익숙해진 뒤에도 선택지가 늘었다고 느껴지는지, 아니면 해야 할 조작만 늘어났는지가 결국 완성도를 가르게 됩니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 서구 미공개 콘텐츠 포함
 
 과거 북미 등 일부 지역에서 제공되지 않았던 내용이 포함됩니다.
@@ -81,6 +97,17 @@ GX 애니메이션 캐릭터와 당시 카드 환경을 다시 체험하는 목�
 결국 좋은 후속작과 리메이크는 기억 속 장점을 남기면서 지금 플레이하기 불편한 부분만 정확히 걷어냅니다.
 
 이번 변화도 그 균형을 얼마나 잘 잡았는지가 장기 평가에 더 중요합니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 최신 유희왕과 다른 느린 재미
 

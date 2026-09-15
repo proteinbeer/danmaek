@@ -19,9 +19,14 @@ hideHeroImage: true
 hideDescription: true
 ---
 
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>가짜 오류 해결 화면으로 사용자가 직접 악성 명령어를 복사해 실행하게 만드는 클릭픽스 공격이 빠르게 확산하고 있습니다. 처음에는 윈도우 중심으로 알려졌지만 이제 맥 이용자까지 같은 방식으로 노리는 사례가 늘고 있습니다. 겉으로는 작은 변화처럼 보여도 실제 영향은 이후 흐름을 함께 봐야 분명해지죠.</p>
+</div>
+
 가짜 오류 해결 화면으로 사용자가 직접 악성 명령어를 복사해 실행하게 만드는 클릭픽스 공격이 빠르게 확산하고 있습니다. 처음에는 윈도우 중심으로 알려졌지만 이제 맥 이용자까지 같은 방식으로 노리는 사례가 늘고 있습니다.
 
-이 공격이 무서운 이유는 보안 프로그램을 정면으로 뚫으려 하지 않는다는 점입니다. 이용자가 직접 터미널이나 실행 창을 열고 명령을 입력하기 때문에 정상적인 사용자 행동처럼 보이기 쉽습니다.
+이 공격이 무서운 이유는 보안 프로그램을 정면으로 뚫으려 하지 않는다는 점입니다. 이용자가 직접 터미널이나 실행 창을 열고 명령을 입력하기 때문에 정상적인 사용자 행동처럼 보이기 쉽죠.
 
 <img class="post-landscape-image post-landscape-image--high" src="/assets/posts/news-images/clickfix-attack-pc-mac-2026-01.jpg" alt="PC와 맥을 동시에 노리는 클릭픽스, 사용자가 직접 악성코드를 실행하게 만든다" width="1200" height="675" loading="lazy" decoding="async" />
 
@@ -33,15 +38,26 @@ hideDescription: true
 
 ## 2. 직접 실행
 
-클릭픽스는 악성 파일을 자동으로 내려받는 대신 이용자가 명령어를 실행하게 만듭니다. 윈도우에서는 실행 창이나 파워셸, 맥에서는 터미널이 이용될 수 있습니다.
+클릭픽스는 악성 파일을 자동으로 내려받는 대신 이용자가 명령어를 실행하게 만듭니다. 윈도우에서는 실행 창이나 파워셸, 맥에서는 터미널이 이용될 수 있죠.
 
 이 과정에서 이용자가 관리자 권한까지 승인하면 악성코드는 훨씬 넓은 권한을 얻을 수 있습니다. 보안 경고가 떠도 사용자가 스스로 허용하는 구조입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 맥도 안전하지 않다
 
-맥은 윈도우보다 악성코드가 적다는 인식이 있지만 클릭픽스는 운영체제 취약점보다 사람의 행동을 공격합니다. 터미널이 있는 한 비슷한 수법을 적용할 수 있습니다.
+맥은 윈도우보다 악성코드가 적다는 인식이 있지만 클릭픽스는 운영체제 취약점보다 사람의 행동을 공격하죠. 터미널이 있는 한 비슷한 수법을 적용할 수 있습니다.
 
-플랫폼이 달라져도 사용자가 낯선 명령어를 복사해 실행한다는 핵심은 같습니다. 맥이라서 괜찮다는 생각이 오히려 위험할 수 있습니다.
+플랫폼이 달라져도 사용자가 낯선 명령어를 복사해 실행한다는 핵심은 같습니다. 맥이라서 괜찮다는 생각이 오히려 위험할 수 있죠.
 
 ## 4. 왜 잘 속을까
 
@@ -49,33 +65,65 @@ hideDescription: true
 
 제가 보기에는 클릭픽스가 성공하는 이유는 공격 기술이 뛰어나서보다 인터넷 사용 경험 자체가 너무 복잡해졌기 때문입니다. 정상 사이트가 이용자에게 이상한 행동을 요구할수록 공격자도 그 행동을 흉내 내기 쉬워집니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 명령어는 멈춤
 
 웹페이지가 갑자기 터미널이나 실행 창을 열고 명령어를 붙여넣으라고 요구하면 중단하시는 것이 좋습니다. 정상적인 캡차는 운영체제 명령어를 직접 실행하라고 요구하지 않습니다.
 
-문제가 정말 있는 것 같다면 해당 사이트를 닫고 공식 지원 페이지에서 해결 방법을 다시 찾는 편이 안전합니다. 클릭픽스는 기술보다 습관 하나로 막을 수 있는 공격입니다.
+문제가 정말 있는 것 같다면 해당 사이트를 닫고 공식 지원 페이지에서 해결 방법을 다시 찾는 편이 안전하죠. 클릭픽스는 기술보다 습관 하나로 막을 수 있는 공격입니다.
 
 ## 6. 가짜 해결책
 
 클릭픽스는 문제가 생겼다는 공포와 해결하고 싶다는 욕구를 동시에 이용합니다. 화면에 기술적인 명령어가 보이면 오히려 전문적인 해결 방법처럼 느껴져 그대로 따라 하기 쉽습니다.
 
-특히 복사 버튼까지 제공하면 사용자는 명령어 내용을 읽지 않습니다. 공격자는 복잡한 악성코드 설치 과정을 한 번의 붙여넣기로 줄여 사회공학 공격의 성공률을 높입니다.
+특히 복사 버튼까지 제공하면 사용자는 명령어 내용을 읽지 않습니다. 공격자는 복잡한 악성코드 설치 과정을 한 번의 붙여넣기로 줄여 사회공학 공격의 성공률을 높이죠.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 7. 브라우저 습관
 
 웹페이지가 운영체제 수준의 작업을 요구하는 순간 경계선을 하나 정해두는 것이 좋습니다. 브라우저 안의 문제를 해결한다면서 터미널과 파워셸을 열라고 하면 거의 항상 의심해야 합니다.
 
-회사 환경에서는 직원 교육도 간단하게 만들 수 있습니다. 명령어를 복사해 실행하라는 웹 안내는 무조건 보안팀에 문의한다는 규칙 하나만 있어도 많은 클릭픽스 공격을 막을 수 있습니다.
+회사 환경에서는 직원 교육도 간단하게 만들 수 있죠. 명령어를 복사해 실행하라는 웹 안내는 무조건 보안팀에 문의한다는 규칙 하나만 있어도 많은 클릭픽스 공격을 막을 수 있습니다.
 
 ## 8. 한 줄 규칙
 
-클릭픽스를 막는 가장 쉬운 규칙은 웹사이트가 명령 프롬프트와 파워셸, 터미널을 열라고 하면 실행하지 않는 것입니다. 브라우저 인증과 캡차는 정상적으로 운영체제 명령을 직접 요구할 이유가 거의 없습니다.
+클릭픽스를 막는 가장 쉬운 규칙은 웹사이트가 명령 프롬프트와 파워셸, 터미널을 열라고 하면 실행하지 않는 것입니다. 브라우저 인증과 캡차는 정상적으로 운영체제 명령을 직접 요구할 이유가 거의 없죠.
 
 가족이나 회사 동료에게도 이 한 줄만 알려줘도 도움이 됩니다. 복잡한 악성코드 이름을 외우는 것보다 낯선 사이트가 복사한 명령어를 실행하지 않는 습관이 훨씬 오래 통하는 보안 방법입니다.
 
-특히 검색 광고나 정상 사이트가 해킹된 상태에서도 이런 화면이 나타날 수 있어 주소만 보고 안심하기 어렵습니다. 익숙한 사이트에서 보이더라도 갑자기 시스템 명령을 요구한다면 페이지 자체가 변조됐을 가능성을 생각해야 합니다.
+특히 검색 광고나 정상 사이트가 해킹된 상태에서도 이런 화면이 나타날 수 있어 주소만 보고 안심하기 어렵죠. 익숙한 사이트에서 보이더라도 갑자기 시스템 명령을 요구한다면 페이지 자체가 변조됐을 가능성을 생각해야 합니다.
 
-클릭픽스는 기술 지식이 적은 사람만 속는 공격이 아닙니다. 오히려 명령어와 개발자 도구에 익숙한 사람도 빨리 해결하려다 실행할 수 있어, 이해하지 못한 명령은 복사하지 않는 기본 원칙이 가장 중요합니다.
+클릭픽스는 기술 지식이 적은 사람만 속는 공격이 아닙니다. 오히려 명령어와 개발자 도구에 익숙한 사람도 빨리 해결하려다 실행할 수 있어, 이해하지 못한 명령은 복사하지 않는 기본 원칙이 가장 중요하죠.
 
 조금이라도 이상하면 창을 닫고 공식 사이트에서 다시 시작하는 편이 훨씬 안전합니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

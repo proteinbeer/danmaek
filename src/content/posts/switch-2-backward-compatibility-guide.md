@@ -21,7 +21,7 @@ hideDescription: true
 
 스위치 2를 사려는 분들 사이에서 가장 자주 나오는 질문은 "지금 가지고 있는 스위치 1 게임을 그대로 할 수 있나요"입니다. 지금까지 모은 게임이 많을수록 이 대답이 구매 결정을 좌우하죠.
 
-결론부터 말하면, 스위치 2는 대부분의 스위치 1 게임을 구동할 수 있도록 하위 호환을 지원합니다. 다만 모든 게임이 무조건 되는 것은 아니고, 몇 가지 예외가 있어서 확인이 필요합니다.
+결론부터 말하면, 스위치 2는 대부분의 스위치 1 게임을 구동할 수 있도록 하위 호환을 지원합니다. 다만 모든 게임이 무조건 되는 것은 아니고, 몇 가지 예외가 있어서 확인이 필요하죠.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/switch-guide.jpg" alt="닌텐도 스위치 본체와 게임 카드가 놓여 있는 이미지" width="1200" height="675" loading="lazy" decoding="async" />
 
@@ -37,7 +37,7 @@ hideDescription: true
 
 ## 2. 다운로드(디지털) 게임은 어떻게 되나
 
-디지털로 산 게임은 **닌텐도 어카운트**에 묶여 있습니다.
+디지털로 산 게임은 **닌텐도 어카운트**에 묶여 있죠.
 
 - 같은 어카운트로 스위치 2에 로그인하면, 구매한 디지털 타이틀을 다시 내려받을 수 있습니다.
 - 자녀 계정이나 패밀리 그룹으로 묶여 있다면 구매한 계정에서 로그인이 되어야 합니다.
@@ -46,9 +46,20 @@ hideDescription: true
 
 디지털 라이브러리가 크다면 데이터 이전 절차를 먼저 읽어보는 것이 좋습니다. 절차 자체는 어렵지 않습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 세이브 데이터 이전 세 가지 방법
 
-세이브 데이터를 옮기는 방법은 세 가지가 있습니다. 상황에 맞게 고르시면 됩니다.
+세이브 데이터를 옮기는 방법은 세 가지가 있습니다. 상황에 맞게 고르시면 되죠.
 
 - **클라우드 세이브**: 닌텐도 스위치 온라인(유료) 가입자는 세이브 데이터를 클라우드에 올리고 스위치 2에서 받아옵니다.
 - **기기 간 전체 이전**: 스위치 1과 스위치 2가 가까이 있는 상태에서 설정 메뉴의 "데이터 이전"으로 사용자와 세이브를 통째로 옮깁니다.
@@ -58,7 +69,7 @@ hideDescription: true
 
 ## 4. 안 되는 게임이 있을 수 있다
 
-하위 호환이라고 해서 100%는 아닙니다. 예외가 분명히 있습니다.
+하위 호환이라고 해서 100%는 아닙니다. 예외가 분명히 있죠.
 
 - 일부 외부 기기(주변기기)를 쓰는 게임은 호환이 안 되는 경우가 있습니다.
 - 링 피트 어드벤처처럼 독특한 액세서리(링콘)를 요구하는 타이틀은 액세서리 호환 여부를 확인해야 합니다.
@@ -66,6 +77,17 @@ hideDescription: true
 - 호환되지 않는 타이틀은 공식 사이트의 안내 목록에서 확인할 수 있습니다.
 
 "모든 게임 됩니다"라고 안심하기 전에, 구매할 때 가장 좋아하는 게임 몇 개가 목록에 있는지 확인하는 것이 안전합니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 게임 성능은 더 좋아질까
 
@@ -86,5 +108,15 @@ hideDescription: true
 - 카드 게임의 업데이트가 다시 내려받아지는지
 - 주기기 등록이 스위치 2로 옮겨져 있는지
 
-이 정도만 확인하면 일상 이용에 큰 문제는 없습니다. 게임과 데이터를 옮기고 나서도 문제가 생기면 닌텐도 공식 지원으로 문의하는 것이 가장 확실합니다.
+이 정도만 확인하면 일상 이용에 큰 문제는 없죠. 게임과 데이터를 옮기고 나서도 문제가 생기면 닌텐도 공식 지원으로 문의하는 것이 가장 확실합니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

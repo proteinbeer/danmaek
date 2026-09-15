@@ -188,6 +188,14 @@ const { slug } = Astro.props;
     font-weight: 900;
   }
 
+  :global(.local-post-editor__line--dan-point textarea) {
+    border-color: #cfd4dc;
+    background: linear-gradient(135deg, #fff 0%, #f5f6f8 100%);
+    color: #1f2937;
+    font-weight: 750;
+    box-shadow: inset 4px 0 0 #111827, 0 1px 2px rgba(15, 23, 42, .03);
+  }
+
   :global(.local-post-editor__line textarea:focus) {
     border-color: #050505;
     outline: 3px solid rgba(0, 0, 0, .12);
@@ -336,6 +344,21 @@ const { slug } = Astro.props;
     centerTarget(target);
   };
 
+  const collectEditorLines = () => Array.from(linesRoot?.querySelectorAll('textarea') || []).map((textarea) => {
+    const type = textarea.dataset.type || '';
+    const text = type === 'danPoint'
+      ? textarea.value
+      : textarea.value.replace(/^\s*#{1,6}\s+/, '');
+    return {
+      index: Number(textarea.dataset.index),
+      text,
+      prefix: type === 'danPoint'
+        ? ''
+        : textarea.dataset.prefix || (/^\d+\.\s+\S/.test(textarea.value.trim()) ? '## ' : ''),
+      type
+    };
+  });
+
   const loadLines = async () => {
     if (!linesRoot) return;
     linesRoot.innerHTML = '<p class="local-post-editor__status">불러오는 중...</p>';
@@ -353,7 +376,11 @@ const { slug } = Astro.props;
       textarea.value = String(line.text ?? '').replace(/^\s*#{1,6}\s+/, '');
       textarea.dataset.index = String(line.index);
       textarea.dataset.prefix = String(line.prefix ?? '');
-      if (textarea.dataset.prefix || /^\d+\.\s+\S/.test(textarea.value.trim())) {
+      textarea.dataset.type = String(line.type ?? '');
+      if (textarea.dataset.type === 'danPoint') {
+        label.classList.add('local-post-editor__line--dan-point');
+        textarea.setAttribute('aria-label', '단 포인트');
+      } else if (textarea.dataset.prefix || /^\d+\.\s+\S/.test(textarea.value.trim())) {
         label.classList.add('local-post-editor__line--heading');
       }
       textarea.addEventListener('input', () => makeTextareaHeight(textarea));
@@ -398,11 +425,7 @@ const { slug } = Astro.props;
     clearTimeout(autoSaveTimer);
     autoSaveTimer = setTimeout(async () => {
       if (!linesRoot) return;
-      const lines = Array.from(linesRoot.querySelectorAll('textarea')).map((textarea) => ({
-        index: Number(textarea.dataset.index),
-        text: textarea.value.replace(/^\s*#{1,6}\s+/, ''),
-        prefix: textarea.dataset.prefix || (/^\d+\.\s+\S/.test(textarea.value.trim()) ? '## ' : '')
-      }));
+      const lines = collectEditorLines();
       const title = titleInput?.value || '';
       try {
         const response = await fetch(`/__local-editor/post?slug=${encodeURIComponent(slug)}&silent=1`, {
@@ -427,11 +450,7 @@ const { slug } = Astro.props;
 
   saveButton?.addEventListener('click', async () => {
     if (!linesRoot) return;
-    const lines = Array.from(linesRoot.querySelectorAll('textarea')).map((textarea) => ({
-      index: Number(textarea.dataset.index),
-      text: textarea.value.replace(/^\s*#{1,6}\s+/, ''),
-      prefix: textarea.dataset.prefix || (/^\d+\.\s+\S/.test(textarea.value.trim()) ? '## ' : '')
-    }));
+    const lines = collectEditorLines();
     const title = titleInput?.value || '';
     saveButton.disabled = true;
     setMessage('저장 중...');

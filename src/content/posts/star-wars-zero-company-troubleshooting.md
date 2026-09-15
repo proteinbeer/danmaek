@@ -1,5 +1,6 @@
 ---
 title: "스타워즈 제로 컴퍼니 실행 오류 해결, 실행 안 될 때 순서"
+draft: true
 description: "스타워즈 제로 컴퍼니가 실행되지 않거나 검은 화면, 잦은 튕김, 낮은 프레임이 나타난다면 무작정 재설치부터 할 필요는 없습니다. 공식 EA 도움말에서 안내하는 기본 점검 순서를 먼저 따라가면 꽤 많은 문제가 정리됩니다."
 date: 2026-09-11
 updated: 2026-09-11
@@ -38,6 +39,17 @@ hideDescription: true
 
 게임은 오프라인 같아도 런처나 계정 검증이 꼬이면 실행이 안 될 수 있습니다. 연결 상태가 불안정하면 먼저 여기부터 점검하시는 편이 좋습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 캐시 정리
 
 공식 도움말에서는 캐시 문제로 실행 불가, 충돌, 업데이트 실패가 생길 수 있다고 안내합니다. EA 앱이나 스팀 캐시를 정리하면 임시 파일 꼬임이 풀리는 경우가 있습니다.
@@ -50,6 +62,17 @@ PC에서는 손상되거나 빠진 설치 파일 때문에 실행이 안 되는 
 
 재설치보다 훨씬 부담이 적고, 실제로 해결되는 비율도 높은 편이라 중간 단계로 꼭 해볼 만합니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 그래픽 드라이버와 백그라운드 앱 확인
 
 공식 도움말에서도 느린 프레임이나 끊김, 검은 화면 문제는 그래픽 드라이버, 백그라운드 앱, 최소 사양 미달과 관련이 있을 수 있다고 설명합니다. 드라이버를 최신으로 맞추고 불필요한 앱을 줄이는 것만으로도 체감이 좋아질 수 있습니다.
@@ -61,6 +84,17 @@ PC에서는 손상되거나 빠진 설치 파일 때문에 실행이 안 되는 
 EA 도움말에는 인텔 13세대 또는 14세대 데스크톱 CPU 사용 시 충돌이나 성능 문제가 생길 수 있다고 적혀 있습니다. 이런 경우 BIOS 업데이트가 도움이 될 수 있고, 필요하면 인텔 익스트림 튜닝 유틸리티로 성능 코어 비율을 낮추는 방법도 언급됩니다.
 
 해당 환경이라면 다른 일반적인 해결책보다 이 항목을 먼저 의심하시는 편이 좋습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 7. 그래도 안 되면 고급 점검으로 넘어가자
 

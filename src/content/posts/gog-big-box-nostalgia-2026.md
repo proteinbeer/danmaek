@@ -1,5 +1,6 @@
 ---
 title: "PC 게임 박스가 다시 돌아왔다, 정작 안에 게임은 없는 이유"
+draft: true
 description: "GOG가 고전 게임 보존 프로그램과 함께 대형 PC 게임 박스를 고해상도 파일로 제공하기 시작했습니다. 미스트와 히트맨 코드네임 47이 대표 사례로, 박스의 복귀가 뜻하는 소유감과 보존의 의미를 정리했습니다."
 date: 2026-09-09
 updated: 2026-09-09
@@ -20,6 +21,11 @@ hideHeroImage: true
 hideDescription: true
 ---
 
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>GOG가 고전 게임 보존 프로그램과 함께 대형 PC 게임 박스를 고해상도 파일로 제공하기 시작했습니다. 미스트와 히트맨 코드네임 47이 대표 사례로, 박스의 복귀가 뜻하는 소유감과 보존의 의미를 정리했습니다. 게임 뉴스는 발표 내용보다 플레이어가 무엇을 얻고 무엇을 더 기다려야 하는지가 핵심이죠.</p>
+</div>
+
 디지털 다운로드가 너무 당연해진 시대인데, GOG가 오히려 옛날 대형 PC 게임 박스를 다시 꺼내 들었습니다. 더 재미있는 것은 박스는 돌아왔지만, 정작 안에 디스크가 들어가는 시대는 아니라는 점입니다.
 
 GOG는 고전 게임 보존 프로그램과 함께 과거 패키지 박스를 3D 스캔하고, 이용자에게 직접 인쇄해서 접을 수 있는 고해상도 파일을 제공하기 시작했습니다. 미스트, 히트맨 코드네임 47 같은 작품이 대표 사례로 언급됐습니다.
@@ -38,6 +44,17 @@ GOG는 고전 게임 보존 프로그램과 함께 과거 패키지 박스를 3D
 
 대신 손에 잡히는 소유감은 줄어들었습니다. 그래서 실제 게임 데이터가 아니라 박스 이미지라도 책장에 세우고 싶은 마음이 다시 생기는 것입니다. 편리함이 커질수록 물성에 대한 그리움도 같이 커진다고 볼 수 있습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 복고가 아니라 보존의 문제
 
 GOG가 내세우는 포인트는 단순 향수 마케팅만이 아닙니다. 오래된 게임 문화를 어떻게 남길 것인가라는 질문도 들어 있습니다.
@@ -49,6 +66,17 @@ GOG가 내세우는 포인트는 단순 향수 마케팅만이 아닙니다. 오
 이 소식에서 가장 강한 부분은 바로 그 역설입니다. 게임 박스가 돌아왔는데, 정작 안에는 게임이 없다는 점이죠.
 
 하지만 이상하게도 그래서 더 지금 시대답습니다. 우리는 이미 게임을 갖고 있고, 이제 다시 갖고 싶어진 것은 그 게임을 처음 만났던 분위기 자체일지 모릅니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 처음 만났던 분위기를 소장하는 방법
 

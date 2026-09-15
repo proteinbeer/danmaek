@@ -27,7 +27,7 @@ hideDescription: true
 
 ## 1. 어디서 느린지 먼저 측정하기
 
-최적화의 시작은 추측이 아니라 측정입니다. 그래야 어느 지점이 가장 아픈지 보입니다.
+최적화의 시작은 추측이 아니라 측정이죠. 그래야 어느 지점이 가장 아픈지 보입니다.
 
 - PageSpeed Insights에 사이트 주소를 넣으면 성능 점수와 개선 목록이 나옵니다.
 - 크롬의 개발자 도구(F12) → 네트워크 탭에서 어떤 파일이 오래 걸리는지 볼 수 있습니다.
@@ -37,7 +37,7 @@ hideDescription: true
 
 ## 2. 이미지 크기와 포맷으로 줄이기
 
-사이트를 무겁게 만드는 1순위는 언제나 이미지입니다. 글마다 원본 사진을 그대로 올리면 페이지 하나가 수 MB가 됩니다.
+사이트를 무겁게 만드는 1순위는 언제나 이미지입니다. 글마다 원본 사진을 그대로 올리면 페이지 하나가 수 MB가 되죠.
 
 - 업로드 전에 **가로 1200～1600px 이하로 리사이즈**하고 품질 80% 수준으로 저장합니다.
 - WebP 포맷을 지원하는 서버라면 JPEG보다 용량이 크게 줄어듭니다.
@@ -45,6 +45,17 @@ hideDescription: true
 - 로고나 아이콘처럼 작은 파일은 SVG나 적절한 크기의 PNG로 유지하는 것이 좋습니다.
 
 이미지 최적화는 페이지의 다운로드 용량을 절반 이하로 만들 수 있습니다. 어떤 호스팅 속도보다 직접적인 효과죠.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 3. 캐시 플러그인 하나로 시작하기
 
@@ -59,7 +70,7 @@ hideDescription: true
 
 ## 4. DB 정리로 겉으로 안 보이는 무게 줄이기
 
-글을 수정할 때마다 워드프레스는 **리비전(revision)**을 쌓습니다. 오래 운영한 사이트라면 DB가 가벼운 글보다 리비전이 훨씬 많은 경우가 있습니다.
+글을 수정할 때마다 워드프레스는 **리비전(revision)**을 쌓습니다. 오래 운영한 사이트라면 DB가 가벼운 글보다 리비전이 훨씬 많은 경우가 있죠.
 
 - 글 리비전, 스팸 댓글, 임시 옵션을 정리하는 플러그인으로 주 1회 정리합니다.
 - 정리 전에 DB 백업을 하나 만들어 두는 것이 안전합니다.
@@ -67,6 +78,17 @@ hideDescription: true
 - 동영상은 DB가 아니라 **외부 플랫폼(예: YouTube)에 올리고 링크만 겁니다.**
 
 DB 정리는 눈에 보이는 변화보다 크지는 않지만, 관리자 화면과 글쓰기 반응이 확실히 가벼워집니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. CDN과 호스팅을 다시 볼 때
 
@@ -85,5 +107,15 @@ DB 정리는 눈에 보이는 변화보다 크지는 않지만, 관리자 화면
 - 이미지 최적화 설정을 업로드 시 자동 적용되게 유지합니다.
 - 캐시와 DB 정리를 일정에 넣어두고, 플러그인은 필요한 것만 유지합니다.
 
-측정 기록을 남겨두면 어떤 변화가 효과가 있었는지 한눈에 보입니다. 이 과정을 반복하면 사이트는 늘 가벼운 상태를 유지합니다.
+측정 기록을 남겨두면 어떤 변화가 효과가 있었는지 한눈에 보이죠. 이 과정을 반복하면 사이트는 늘 가벼운 상태를 유지합니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

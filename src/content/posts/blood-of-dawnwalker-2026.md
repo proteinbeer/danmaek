@@ -1,5 +1,6 @@
 ---
 title: "위쳐3 개발진의 신작 '더 블러드 오브 던워커', 한국어판 9월 3일 출시"
+draft: true
 description: "위쳐3와 사이버펑크 2077 개발자들이 설립한 레벨 울브스의 첫 작품, 오픈월드 다크 판타지 '더 블러드 오브 던워커'가 9월 3일 출시됐습니다. 낮엔 인간, 밤엔 뱀파이어인 주인공 코엔의 이야기와 한국어판 출시 구성을 정리했습니다."
 date: 2026-09-06T15:00:00
 updated: 2026-09-06T15:00:00
@@ -19,6 +20,11 @@ imageHeight: 720
 hideHeroImage: true
 hideDescription: true
 ---
+
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>위쳐3와 사이버펑크 2077 개발자들이 설립한 레벨 울브스의 첫 작품, 오픈월드 다크 판타지 '더 블러드 오브 던워커'가 9월 3일 출시됐습니다. 낮엔 인간, 밤엔 뱀파이어인 주인공 코엔의 이야기와 한국어판 출시 구성을 정리했습니다. 관건은 발표 자체보다 출시 일정, 가격, 기다릴 이유가 얼마나 분명한지이죠.</p>
+</div>
 
 오픈월드 다크 판타지 액션 RPG '더 블러드 오브 던워커' 한국어판이 지난 9월 3일 정식 출시됐습니다. PC, 플레이스테이션5, 엑스박스 시리즈 X|S와 엑스박스 PC·클라우드, 스팀 등 다양한 플랫폼으로 발매됐습니다.
 
@@ -40,6 +46,17 @@ hideDescription: true
 
 코엔이 피를 마시면 화면 하단의 '오염 레벨'이 올라갑니다. 오염 레벨이 높을수록 뱀파이어 특전을 더 많이 구입할 수 있는 구조입니다. 낮과 밤의 전환, 흡혈과 인간성 사이의 균형이 게임의 핵심이죠.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 선택이 만드는 이야기와 후속작
 
 레벨 울브스는 이용자의 선택이 서사와 플레이 전반에 직접적인 영향을 주도록 설계했다고 밝혔습니다. 같은 사건이라도 누구를 돕고 어디로 향하느냐에 따라 이야기의 결이 달라지는 구조입니다. 서사 중심 RPG를 표방하는 만큼, 대화와 결정의 비중이 큽니다.
@@ -52,3 +69,13 @@ hideDescription: true
 
 패키지 버전 초회 동봉 특전과 다운로드 예약 특전인 '산고라 나그네의 갑옷 세트'는 선행 개방 콘텐츠로, 지금 받지 않아도 게임을 진행하며 획득할 수 있습니다. '위쳐3에서 검술과 탐험, 선택의 재미를 좋아했던' 이용자에게 특히 추천할 만한 신작입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

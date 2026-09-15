@@ -20,6 +20,11 @@ hideHeroImage: true
 hideDescription: true
 ---
 
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>메트로 프랜차이즈의 네 번째 메인 작품 메트로 2039가 2027년 2월 출시를 앞두고 있습니다. 새 주인공 더 스트레인저, 노보라이히 독재와 헌터, 영웅이 없는 이야기까지 핸즈온 프리뷰를 종합했습니다. 관건은 발표 자체보다 출시 일정, 가격, 기다릴 이유가 얼마나 분명한지이죠.</p>
+</div>
+
 메트로 시리즈가 7년 만에 지하철로 돌아옵니다. 4A 게임즈가 개발하는 메트로 2039는 2027년 2월 출시를 앞두고 있고, 해외 매체들은 게임스컴에서 직접 플레이해 본 핸즈온 프리뷰를 9월 초에 잇달아 공개했습니다.
 
 이번 신작의 가장 큰 변화는 주인공입니다. 전작까지의 주인공이었던 아르티옴은 등장하지 않고, 대신 '더 스트레인저'라는 새 인물이 지하철로 회귀합니다. 시리즈 최초로 목소리가 있고 대화하는 주인공이죠. 게임스컴에서 공개된 '리니게이드' 트레일러와 매체들의 첫 플레이 소감을 바탕으로 메트로 2039를 정리해 봤습니다.
@@ -42,6 +47,17 @@ hideDescription: true
 
 프레스스타트의 프리뷰는 이 구조를 "권위주의 통치의 원인과 결과"라고 요약했습니다. 유럽 판권 계약사로 잘 알려진 시리즈의 분위기답게, 착한 영웅이 악당을 무찌르는 단순한 구도가 아니라 체제 자체를 응시하는 이야기입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 시리즈 최초의 목소리 있는 주인공
 
 더 스트레인저는 시리즈 메인 넘버링에서 처음으로 대화에서 목소리를 내는 주인공입니다. 이전까지 아르티옴은 로딩 화면의 나레이션에만 등장했지만, 스트레인저는 다른 캐릭터와 실제로 말을 주고받죠.
@@ -58,6 +74,17 @@ hideDescription: true
 
 이처럼 환경 하나하나에 깊은 정성이 담겨 있어, 지하철과 지표면을 오가는 탐험이 단순한 이동이 아니라 이야기 그 자체가 됩니다. 여러 프리뷰가 이 점에서 "엑소더스 때 잃었던 지하철의 본질을 되찾았다"고 평했죠.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 직접 느껴본 전투와 도구
 
 플레이한 매체들은 전투가 '무겁고 타격감 있다'고 입을 모았습니다. 은밀한 접근이 자주 열리고, 노출되면 전면전으로 이어지는 구조입니다. 적의 수가 많아지는 만큼 과감한 무장이 필요하다는 평가도 있었죠.
@@ -73,6 +100,17 @@ hideDescription: true
 개발에는 우크라이나 본사 팀과 몰타 팀이 함께 참여했습니다. 4A 게임즈는 러시아의 전면 침공이 이어지는 가운데에서도 게임을 완성해 가고 있으며, 그 경험이 이야기의 어두운 결을 결정했다고 밝혔습니다.
 
 게임스컴에서 공개된 '리니게이드' 트레일러는 스트레인저가 노보라이히가 장악한 모스크바에 잠입하는 흐름을 보여줬고, 이와 함께 구매자에게 스트레인저의 전투 자국이 남은 스파르탄 헬멧 실물 레플리카가 포함된 컬렉터스 에디션 계획도 처음 공개됐습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 7. 메트로가 다시 어두워지는 이유
 

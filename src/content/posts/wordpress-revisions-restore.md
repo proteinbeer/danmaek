@@ -43,6 +43,17 @@ hideDescription: true
 
 자동 저장이 있다고 모든 순간이 무한히 보관되는 것은 아닙니다. 중요한 대규모 수정 전에는 별도 백업이나 원문 복사본을 남겨두는 습관도 여전히 유용합니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 비교 화면에서 볼 것
 
 리비전 화면에서는 이전 버전과 현재 버전 사이에 추가된 내용과 삭제된 내용을 확인할 수 있습니다.
@@ -59,6 +70,17 @@ hideDescription: true
 
 그래도 긴 글이라면 복원 전에 현재 내용을 별도로 복사해두는 편이 마음 편합니다. 리비전은 강력하지만 사용자가 원하는 문단만 자동으로 골라 합쳐주는 기능은 아니기 때문입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 리비전이 너무 많을 때
 
 오래 운영한 사이트에서는 한 글에 많은 리비전이 쌓일 수 있습니다.
@@ -74,6 +96,17 @@ hideDescription: true
 리비전은 평소에는 불필요해 보여도 글을 잘못 수정한 순간 가장 필요한 데이터가 됩니다.
 
 저장 공간을 조금 줄이기 위해 최근 이력까지 전부 지우는 것은 큰 이득이 아닐 수 있습니다. 사이트 규모가 작다면 리비전 용량이 실제 병목인지부터 확인하는 편이 낫습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 7. 여러 사람이 편집할수록 가치가 커진다
 
@@ -93,3 +126,13 @@ hideDescription: true
 
 특히 긴 글을 자주 고치신다면 발행 직전과 대규모 수정 직후의 리비전이 남아 있는지 확인해두시면 좋습니다. 복구 기능은 문제가 생긴 뒤 존재를 찾는 것보다 평소 어디에 있는지 한 번 열어본 사람이 훨씬 빠르게 사용할 수 있죠.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

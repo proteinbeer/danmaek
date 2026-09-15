@@ -1,5 +1,6 @@
 ---
 title: "스팀 계정 보안, 스팀가드와 2단계 인증 설정법"
+draft: true
 description: "스팀 계정을 해킹으로부터 지키기 위해 스팀가드와 모바일 인증기를 설정하고 복구 코드를 보관하는 방법을 정리합니다."
 date: 2026-09-01
 updated: 2026-09-04
@@ -35,6 +36,17 @@ hideDescription: true
 
 모바일 스팀가드를 켜면 인증 코드가 앱에서 생성되고, 새로운 기기에서 로그인할 때마다 이 코드를 요구합니다. 간편하게 휴대폰으로 확인할 수 있어 데스크톱 이메일 인증보다 안전하면서 편리합니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 이메일 스팀가드
 
 휴대폰 앱을 쓰기 어렵다면 **이메일 스팀가드**를 선택할 수 있습니다. 새 기기에서 로그인할 때 등록된 이메일로 인증 코드를 보내는 방식이죠. 모바일보다는 약간 낮지만 그래도 상당한 보호 수준을 제공합니다.
@@ -46,6 +58,17 @@ hideDescription: true
 스팀가드를 켠 뒤에는 **복구 코드**를 안전한 곳에 보관하는 것이 중요합니다. 휴대폰을 바꾸거나 앱을 삭제했을 때 이 코드가 없으면 계정에 접근하기 어려울 수 있기 때문입니다.
 
 또한 의심스러운 링크나 '계정이 정지됐다'는 메시지, 무료 게임을 준다는 사이트 등에 주의해야 합니다. 공식 스팀 도메인이 아닌 주소에서 로그인 정보를 입력하지 않는 것이 최선의 예방책이죠.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 이미 해킹당했다면
 

@@ -1,5 +1,6 @@
 ---
 title: "홈페이지 제작 비용, 직접 만들면 얼마나 아낄까"
+draft: true
 description: "2026년 대행사 홈페이지 제작 비용은 기본형 150만에서 고급형 1500만 원 이상입니다. 직접 만들면 얼마나 아낄 수 있는지 방식별로 정리했습니다."
 date: 2026-09-05
 updated: 2026-09-05
@@ -40,6 +41,17 @@ hideDescription: true
 
 문제는 비용이 아니라 **시간**입니다. 워드프레스나 빌더를 처음 배우는 데만 2～4주가 걸리고, 디자인과 콘텐츠까지 완성하려면 2～3개월이 걸리는 일이 흔합니다. 사업 초기에 홈페이지가 늦게 열릴수록 기회 손실이 생깁니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 숨은 비용이 갈리는 지점
 
 직접 제작이든 대행이든 예산을 넘기는 항목은 비슷합니다.
@@ -57,6 +69,17 @@ hideDescription: true
 반대로 예약이나 결제 기능이 필요한 사이트라면 외주가 안전합니다. 오류가 발생하면 매출에 바로 영향을 주기 때문입니다. 시간이 곧 돈인 사업자라면 초기 비용을 줄이기보다, 제대로 만들어진 사이트를 빨리 여는 것이 낫습니다.
 
 실용적인 절충안은 **검증된 프리미엄 테마(5～10만 원)를 기반으로 소규모 개인 프리랜서에게 마무리를 맡기는 방법**입니다. 풀커스텀 디자인 대비 비용은 절반에도 안 들면서 완성도는 크게 올라갑니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 정리
 

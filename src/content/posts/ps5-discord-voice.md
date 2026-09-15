@@ -1,5 +1,6 @@
 ---
 title: "PS5 디스코드 음성 채팅 연결법, 휴대폰 없이 바로 들어가는 방법"
+draft: true
 description: "PS5에서는 디스코드 음성 채팅을 활용해 PC, 모바일, 다른 플랫폼 친구들과 대화할 수 있습니다. 예전에는 휴대폰에서 음성을 넘기는 과정이 필요했지만 현재는 콘솔에서 직접 서버와 음성 채널을 선택할 수 있는 흐름이 훨씬 편해졌습니다."
 date: 2026-08-22
 updated: 2026-08-22
@@ -37,6 +38,17 @@ PS 버튼을 눌러 게임 베이스를 열고 디스코드 항목에서 서버�
 
 서버 권한이 없거나 채널이 잠겨 있으면 목록에 보여도 들어갈 수 없습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 마이크와 출력 장치 확인
 
 디스코드에 들어간 뒤에도 PS5의 입력 장치와 출력 장치 설정은 그대로 중요합니다. 듀얼센스 내장 마이크가 자동 선택돼 원하지 않는 주변 소리까지 들어갈 수 있으므로 헤드셋 마이크를 쓰신다면 입력 장치를 확인합니다.
@@ -49,6 +61,17 @@ PS5 파티 음성 채팅과 디스코드 음성을 동시에 들으려 하면 �
 
 게임 자체 음성 채팅까지 켜져 있다면 중복으로 목소리가 들릴 수도 있습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 연결이 안 되면 서비스 상태 확인
 
 디스코드 메뉴가 사라지거나 연결이 계속 실패한다면 PSN과 디스코드 양쪽 서비스 상태를 확인합니다. 인터넷 연결은 정상이어도 외부 서비스 연동에 장애가 있을 수 있습니다.
@@ -60,6 +83,17 @@ PS5 파티 음성 채팅과 디스코드 음성을 동시에 들으려 하면 �
 디스코드 연동의 가장 큰 장점은 게임 플랫폼이 달라도 같은 음성 채널을 쓸 수 있다는 점입니다. PC 친구와 크로스플레이를 자주 하신다면 별도 휴대폰 통화보다 훨씬 자연스럽게 게임 소리와 음성을 관리할 수 있습니다.
 
 플랫폼을 넘나드는 파티가 많을수록 활용 가치가 커집니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 7. 설정 변경 뒤 확인할 부분
 
@@ -75,3 +109,13 @@ PS5 문제 해결은 무작정 초기화하는 것보다 재현 조건을 찾는
 
 PS5는 같은 증상이라도 계정, 게임 버전, 연결 장비에 따라 원인이 달라질 수 있습니다. 그래서 가장 최근에 바꾼 설정과 문제가 시작된 시점을 기준으로 하나씩 되돌려 확인하시면 불필요한 재설치와 초기화를 줄일 수 있습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

@@ -1,5 +1,6 @@
 ---
 title: "이클립스: 더 어웨이크닝 9월 10일 정식 출시, MMOLite 최초 카드로 승부수"
+draft: true
 description: "스마일게이트가 신작 MMORPG 이클립스: 더 어웨이크닝의 정식 출시일을 9월 10일로 확정했습니다. 접속과 경쟁 부담을 낮춘 MMOLite를 표방한 점이 특징입니다. 사전 생성에서 인기를 확인한 이 게임의 정식 출시 관전 포인트를 정리했습니다."
 date: 2026-09-06
 updated: 2026-09-06
@@ -20,6 +21,11 @@ hideHeroImage: true
 hideDescription: true
 ---
 
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>스마일게이트가 신작 MMORPG 이클립스: 더 어웨이크닝의 정식 출시일을 9월 10일로 확정했습니다. 접속과 경쟁 부담을 낮춘 MMOLite를 표방한 점이 특징입니다. 관건은 발표 자체보다 출시 일정, 가격, 기다릴 이유가 얼마나 분명한지이죠.</p>
+</div>
+
 스마일게이트의 신작 MMORPG 이클립스: 더 어웨이크닝이 오는 9월 10일 정식 출시를 확정했습니다. 지난 9월 3일 공식 채널을 통해 출시일이 발표되었습니다.
 
 이 게임은 엔픽셀이 개발하고 스마일게이트가 서비스를 맡는 작품입니다. 무엇보다 'MMOLite'라는 새로운 장르를 표방한 것이 특징입니다. 기존 MMORPG의 무거운 접속과 경쟁 부담을 크게 덜어냈다는 점을 앞세우고 있죠.
@@ -38,6 +44,17 @@ MMOLite는 이클립스가 처음으로 내건 장르 표방입니다. 이름에
 
 캐릭터 사전 생성이 마감되면서 일부 서버는 신규 인원을 받지 못하는 상황이 벌어졌습니다. 신작 MMORPG의 사전 반응치고는 드문 성과라, 정식 출시 후에도 서버 운영과 혼잡 관리가 관건이 될 전망입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 9월 5일, 론칭 라이브 방송 예고
 
 정식 출시에 앞서 지난 9월 5일 오후 8시, 유튜브를 통해 론칭 기념 라이브가 진행됐습니다. 진행을 맡은 것은 박가영 아나운서였고, 개발을 총괄하는 이상문 PD가 함께했습니다.
@@ -50,3 +67,13 @@ MMOLite는 이클립스가 처음으로 내건 장르 표방입니다. 이름에
 
 또 모바일과 PC 플랫폼 간 경험이 얼마나 자연스럽게 이어지는지도 중요합니다. 크로스플랫폼은 홍보 요소이자 실제 운영 난이도를 높이는 요소이기 때문입니다. 이용자 이탈 없이 콘텐츠 업데이트가 이어지는지가 이클립스의 지속 성장을 가른다고 볼 수 있습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

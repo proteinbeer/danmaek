@@ -20,6 +20,11 @@ hideDescription: true
 draft: true
 ---
 
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>여성 스피드러너 중심의 자선 행사 플레임 파탈레스 2026이 9월 13일부터 19일까지 진행됩니다. 일주일 동안 여러 게임의 스피드런을 이어가며 모금액은 말랄라 펀드를 지원합니다. 단순한 변경 목록보다 실제로 켜야 할 기능과 체감되는 차이를 먼저 보는 편이 좋죠.</p>
+</div>
+
 여성 스피드러너 중심의 자선 행사 플레임 파탈레스 2026이 9월 13일부터 19일까지 진행됩니다. 일주일 동안 여러 게임의 스피드런을 이어가며 모금액은 말랄라 펀드를 지원합니다.
 
 이번 소식은 단순한 업데이트 한 줄보다 앞으로의 운영 방향과 이용 경험을 같이 보여주는 변화에 가깝습니다. 현재 확인된 사실과 아직 해석이 필요한 부분을 나눠서 보겠습니다.
@@ -38,6 +43,17 @@ draft: true
 
 새 결정은 이전 콘텐츠의 반응과 시장 변화가 쌓인 결과인 경우가 많습니다. 과거 방식에서 무엇이 부족했는지 보면 이번 선택이 해결하려는 문제가 더 선명하게 보입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 기록과 기부가 함께 움직이는 방식
 
 잘 알려지지 않은 게임도 숙련된 플레이를 통해 갑자기 관심을 받을 수 있습니다. 게임을 몇 시간에 걸쳐 진행하는 일반 플레이와 달리 시스템의 빈틈과 고급 기술을 압축해서 보여주기 때문에 관전 재미도 큽니다.
@@ -53,6 +69,17 @@ draft: true
 이런 행사는 게임 문화가 경쟁과 소비만으로 구성되지 않는다는 점을 보여줍니다. 기록을 줄이는 기술이 사람을 모으고 그 관심이 기부로 이어진다는 구조가 스피드런 커뮤니티의 독특한 힘이죠.
 
 개인적으로는 이 부분이 가장 흥미롭습니다. 작은 방향 변화가 다른 작품과 서비스에도 반복될 때 일회성 실험이 아니라 회사 전체 전략으로 굳어지는 경우가 많기 때문입니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 일정과 보너스 런을 보는 재미
 

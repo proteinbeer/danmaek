@@ -39,7 +39,7 @@ hideDescription: true
 
 다만 125Hz에서 1000Hz로 갈 때의 차이와 1000Hz에서 8000Hz로 갈 때의 차이는 체감 크기가 같지 않습니다.
 
-높은 주사율 모니터와 매우 높은 프레임으로 경쟁 게임을 하시는 경우에는 작은 차이를 느낄 수 있습니다.
+높은 주사율 모니터와 매우 높은 프레임으로 경쟁 게임을 하시는 경우에는 작은 차이를 느낄 수 있죠.
 
 반대로 60Hz나 144Hz 환경에서 일반적인 게임을 즐기신다면 1000Hz만으로도 충분한 경우가 많습니다.
 
@@ -57,9 +57,20 @@ CPU 사용률이 100%가 아니더라도 특정 코어에 입력 처리가 몰�
 
 그래서 전체 CPU 사용률만 보고 폴링레이트 문제를 배제하시면 안 됩니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 8000Hz가 효과적인 환경
 
-고주사율 모니터, 높은 평균 프레임, 낮은 입력 지연을 중요하게 보는 경쟁 게임에서는 4000Hz와 8000Hz가 의미를 가질 수 있습니다.
+고주사율 모니터, 높은 평균 프레임, 낮은 입력 지연을 중요하게 보는 경쟁 게임에서는 4000Hz와 8000Hz가 의미를 가질 수 있죠.
 
 특히 240Hz 이상 모니터를 사용하면서 게임 프레임도 충분히 높은 환경이라면 입력 시점이 더 촘촘해지는 장점이 있죠.
 
@@ -77,13 +88,24 @@ CPU 사용률이 100%가 아니더라도 특정 코어에 입력 처리가 몰�
 
 같은 맵과 같은 장면에서 마우스를 빠르게 움직였을 때 프레임이 안정되는지 비교하시는 것이 핵심입니다.
 
-1000Hz에서는 괜찮고 8000Hz에서만 끊긴다면 마우스 불량보다 높은 입력 빈도와 게임의 궁합 문제일 가능성이 높습니다.
+1000Hz에서는 괜찮고 8000Hz에서만 끊긴다면 마우스 불량보다 높은 입력 빈도와 게임의 궁합 문제일 가능성이 높죠.
 
 이 경우 굳이 가장 높은 숫자를 고집하실 이유는 없습니다.
 
 2000Hz나 4000Hz를 중간값으로 써보시는 것도 좋습니다.
 
 체감 반응성은 유지하면서 시스템 부담과 배터리 소모를 줄이는 절충점이 될 수 있죠.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 게임마다 설정을 다르게 쓰는 방법
 
@@ -93,7 +115,7 @@ CPU 사용률이 100%가 아니더라도 특정 코어에 입력 처리가 몰�
 
 온보드 메모리를 지원하는 마우스라면 원하는 설정을 마우스 자체에 저장할 수도 있습니다.
 
-다른 PC에 연결했을 때 제조사 프로그램을 다시 설치하지 않아도 같은 값으로 시작할 수 있어 편합니다.
+다른 PC에 연결했을 때 제조사 프로그램을 다시 설치하지 않아도 같은 값으로 시작할 수 있어 편하죠.
 
 ## 6. 가장 높은 숫자가 항상 최선은 아니다
 
@@ -105,3 +127,13 @@ CPU 사용률이 100%가 아니더라도 특정 코어에 입력 처리가 몰�
 
 8000Hz에서 분명한 장점을 느끼고 끊김도 없다면 그대로 쓰면 되지만, 차이가 없는데 프레임만 흔들린다면 낮추는 편이 훨씬 합리적입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

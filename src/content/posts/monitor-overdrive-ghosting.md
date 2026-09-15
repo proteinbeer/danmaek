@@ -31,7 +31,7 @@ hideDescription: true
 
 ## 1. 오버드라이브가 하는 일
 
-LCD 픽셀은 한 색에서 다른 색으로 바뀌는 데 시간이 필요합니다.
+LCD 픽셀은 한 색에서 다른 색으로 바뀌는 데 시간이 필요하죠.
 
 오버드라이브는 전압을 더 강하게 걸어 픽셀 전환을 빠르게 만들고 움직이는 화면의 잔상을 줄이는 기능입니다.
 
@@ -41,7 +41,7 @@ LCD 픽셀은 한 색에서 다른 색으로 바뀌는 데 시간이 필요합�
 
 ## 2. 너무 높으면 역잔상이 생긴다
 
-픽셀이 목표값을 지나쳐 버리면 움직이는 물체 뒤에 밝거나 어두운 반대색 흔적이 생길 수 있습니다.
+픽셀이 목표값을 지나쳐 버리면 움직이는 물체 뒤에 밝거나 어두운 반대색 흔적이 생길 수 있죠.
 
 이것을 흔히 역잔상이라고 부릅니다.
 
@@ -53,11 +53,22 @@ LCD 픽셀은 한 색에서 다른 색으로 바뀌는 데 시간이 필요합�
 
 그래서 숫자상 가장 빠른 응답속도보다 시각적으로 깨끗한 중간 단계가 더 좋은 선택이 되기도 하죠.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 주사율에 따라 최적값이 달라질 수 있다
 
 240Hz에서 좋은 오버드라이브 단계가 60Hz에서도 좋은 것은 아닙니다.
 
-가변 주사율을 사용할 때는 게임 프레임이 계속 바뀌기 때문에 한 단계가 모든 구간에서 완벽하기 어렵습니다.
+가변 주사율을 사용할 때는 게임 프레임이 계속 바뀌기 때문에 한 단계가 모든 구간에서 완벽하기 어렵죠.
 
 일부 고급 모니터는 주사율 변화에 맞춰 오버드라이브를 자동 조절합니다.
 
@@ -69,7 +80,7 @@ LCD 픽셀은 한 색에서 다른 색으로 바뀌는 데 시간이 필요합�
 
 ## 4. 제조사 이름에 속지 않기
 
-오버드라이브 단계 이름은 제조사마다 다릅니다.
+오버드라이브 단계 이름은 제조사마다 다르죠.
 
 보통, 빠르게, 가장 빠르게처럼 표시되기도 하고 숫자 단계로 나뉘기도 합니다.
 
@@ -77,9 +88,20 @@ LCD 픽셀은 한 색에서 다른 색으로 바뀌는 데 시간이 필요합�
 
 리뷰에서 최대 단계가 측정용으로만 존재하고 실사용에서는 한 단계 아래가 더 낫다고 평가되는 제품도 많습니다.
 
-기본값이 이미 균형값으로 잡혀 있는 모니터도 있습니다.
+기본값이 이미 균형값으로 잡혀 있는 모니터도 있죠.
 
 처음부터 최대 단계로 올리기보다 기본값에서 문제가 있는지 먼저 보는 편이 좋습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 게임과 문서에서 확인하는 방법
 
@@ -89,7 +111,7 @@ LCD 픽셀은 한 색에서 다른 색으로 바뀌는 데 시간이 필요합�
 
 웹페이지에서는 검은 글자가 많은 화면을 위아래로 빠르게 스크롤해 비교할 수 있습니다.
 
-단계를 하나씩 바꾸면서 일반 잔상과 역잔상 중 어느 쪽이 덜 거슬리는지 보시면 됩니다.
+단계를 하나씩 바꾸면서 일반 잔상과 역잔상 중 어느 쪽이 덜 거슬리는지 보시면 되죠.
 
 ## 6. 가장 빠름보다 균형
 
@@ -101,9 +123,20 @@ LCD 픽셀은 한 색에서 다른 색으로 바뀌는 데 시간이 필요합�
 
 눈에 보이는 잔상이 가장 적은 지점이 그 모니터와 내 환경의 진짜 최적값입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 7. 응답속도 수치만으로 모니터를 고르지 말 것
 
-제품 설명의 1ms와 0.5ms 같은 수치는 측정 조건이 서로 다를 수 있어 단순 비교가 어렵습니다.
+제품 설명의 1ms와 0.5ms 같은 수치는 측정 조건이 서로 다를 수 있어 단순 비교가 어렵죠.
 
 실제 사용에서는 평균 픽셀 전환 속도와 역잔상 수준, 주사율별 오버드라이브 품질이 함께 중요합니다.
 
@@ -113,7 +146,7 @@ LCD 픽셀은 한 색에서 다른 색으로 바뀌는 데 시간이 필요합�
 
 모니터를 새로 산 직후에는 공장 기본 설정을 사진으로 남겨두는 것도 좋습니다.
 
-오버드라이브와 색상 모드를 여러 번 바꾸다 보면 어떤 값이 원래 균형 설정이었는지 기억하기 어렵기 때문입니다.
+오버드라이브와 색상 모드를 여러 번 바꾸다 보면 어떤 값이 원래 균형 설정이었는지 기억하기 어렵기 때문이죠.
 
 설정이 꼬였다고 느껴지면 공장 초기화 뒤 한 항목씩 다시 바꾸시면 됩니다.
 

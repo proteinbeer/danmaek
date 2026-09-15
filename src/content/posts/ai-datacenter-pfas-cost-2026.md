@@ -20,6 +20,11 @@ hideDescription: true
 draft: true
 ---
 
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>AI 산업 확대가 과불화화합물 PFAS 수요까지 끌어올리고 있다는 경고가 나왔습니다. 반도체 제조와 첨단 데이터센터 냉각 시스템에 사용되는 화학물질 생산을 주요 업체들이 확대하고 있다는 조사입니다. 결국 중요한 건 기술 이름보다 비용, 서비스 방식, 이용 선택지가 실제로 어떻게 달라지는지이죠.</p>
+</div>
+
 AI 산업 확대가 과불화화합물 PFAS 수요까지 끌어올리고 있다는 경고가 나왔습니다. 반도체 제조와 첨단 데이터센터 냉각 시스템에 사용되는 화학물질 생산을 주요 업체들이 확대하고 있다는 조사입니다.
 
 AI의 환경 문제라고 하면 전기와 물 사용부터 떠올리기 쉽습니다. 그런데 칩을 만드는 공정과 냉각 재료까지 내려가면 오랫동안 분해되지 않는 화학물질이라는 또 다른 비용이 숨어 있습니다.
@@ -42,6 +47,17 @@ PFAS는 열과 화학물질에 강해 반도체 제조와 산업용 장비에서
 
 하지만 대체가 어렵다는 말이 영원히 사용할 수 있다는 뜻은 아닙니다. 규제가 강해질수록 반도체 회사는 공정 변경과 대체 소재 연구에 더 많은 비용을 투자해야 합니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 규제와 확장
 
 유럽과 미국에서는 PFAS 사용 제한을 강화하려는 움직임이 이어지고 있습니다. 동시에 주요 생산업체는 AI 수요를 이유로 생산 확대를 준비하고 있습니다.
@@ -57,6 +73,17 @@ AI 서비스 한 번의 질문은 화면에서는 가볍게 보입니다. 하지
 PFAS를 완전히 없애려면 같은 내열성과 화학 안정성을 제공하는 대체 물질이 필요합니다. 일부 업체는 대체 소재 개발을 추진하고 있지만 반도체 공정은 작은 변화도 수율에 영향을 줘 전환 속도가 느릴 수 있습니다.
 
 규제만 빠르게 적용하면 생산비가 오르거나 공급망이 흔들릴 가능성도 있습니다. 환경 부담을 줄이면서 첨단 칩 생산을 유지하려면 소재 연구에 대한 투자도 AI 인프라 투자만큼 중요해집니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 이용자의 거리
 
@@ -76,3 +103,13 @@ AI 서비스가 편리해질수록 보이지 않는 공급망을 더 많이 사�
 
 환경 비용을 숫자로 공개하는 기업이 늘어날수록 서비스 비교 기준도 달라질 수 있습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

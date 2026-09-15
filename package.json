@@ -7,7 +7,12 @@
     "dev": "astro dev",
     "build": "astro check && astro build",
     "preview": "astro preview",
-    "seo:check": "npm run build && node scripts/seo-check.mjs"
+    "seo:check": "npm run build && node scripts/seo-check.mjs",
+    "content:audit": "node scripts/content-quality-audit.mjs",
+    "coupons:normalize": "node scripts/normalize-coupon-guides.mjs",
+    "posts:add-news-dan-points": "node scripts/add-news-dan-points.mjs",
+    "posts:restore-coupang": "node scripts/restore-coupang-post-banners.mjs",
+    "posts:balance-tone": "node scripts/balance-post-tone.mjs"
   },
   "dependencies": {
     "@astrojs/check": "^0.9.5",

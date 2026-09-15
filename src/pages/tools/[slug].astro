@@ -40,6 +40,9 @@ const breadcrumbLd = !isSub ? {
   ]
 } : null;
 const subTools = isSub ? TOOLS.filter((item) => s.categories.includes(item.category)) : [];
+const relatedTools = !isSub
+  ? TOOLS.filter((item) => item.slug !== t.slug && (item.category === t.category || item.type === t.type)).slice(0, 4)
+  : [];
 ---
 
 <BaseLayout title={pageTitle} description={pageDescription} canonical={canonicalUrl}>
@@ -109,6 +112,46 @@ const subTools = isSub ? TOOLS.filter((item) => s.categories.includes(item.categ
         </div>
         <div class="tool-result" data-result hidden></div>
       </article>
+      <section class="tool-guide-content" aria-labelledby="tool-guide-title">
+        <p class="tool-guide-content__eyebrow">{t.category} 도구 가이드</p>
+        <h2 id="tool-guide-title">{t.title}는 언제 쓰면 좋을까</h2>
+        <p>
+          {t.description}
+          단맥의 {t.title}는 별도 설치나 회원가입 없이 브라우저에서 바로 값을 확인할 수 있게 만든 무료 도구입니다.
+          계산, 변환, 생성, 파일 처리처럼 반복해서 확인해야 하는 작업을 빠르게 끝내는 데 초점을 맞췄습니다.
+        </p>
+        <div class="tool-guide-content__grid">
+          <div>
+            <h3>사용 방법</h3>
+            <ol>
+              <li>필요한 값을 입력하거나 파일을 선택합니다.</li>
+              <li>옵션이 있다면 원하는 기준으로 조정합니다.</li>
+              <li>결과를 확인하고, 필요한 경우 복사하거나 다운로드합니다.</li>
+            </ol>
+          </div>
+          <div>
+            <h3>확인할 점</h3>
+            <ul>
+              <li>입력값이 바뀌면 결과도 달라지므로 단위를 먼저 확인하는 것이 좋습니다.</li>
+              <li>파일 도구는 브라우저 환경과 파일 크기에 따라 처리 속도가 달라질 수 있습니다.</li>
+              <li>중요한 계산 결과는 최종 결정 전에 한 번 더 비교해 보는 편이 안전합니다.</li>
+            </ul>
+          </div>
+        </div>
+        {relatedTools.length > 0 && (
+          <div class="tool-guide-content__related" aria-label="관련 도구">
+            <h3>같이 쓰기 좋은 도구</h3>
+            <div>
+              {relatedTools.map((item) => (
+                <a href={`/tools/${item.slug}/`}>
+                  <span aria-hidden="true">{item.icon}</span>
+                  <strong>{item.title}</strong>
+                </a>
+              ))}
+            </div>
+          </div>
+        )}
+      </section>
       <div class="adfit-banner">
         <ins class="kakao_ad_area" style="display:none;"
           data-ad-unit="DAN-LoWQpAjT1C8qjOLo"

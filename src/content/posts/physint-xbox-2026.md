@@ -21,6 +21,11 @@ hideDescription: true
 draft: true
 ---
 
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>코지마 히데오의 신작 피진트가 엑스박스 퍼블리싱으로 넘어왔습니다. 플레이스테이션이 관계를 정리한 배경과 3개월 만에 이뤄진 이동이 의미하는 바를 정리했습니다. 게임 뉴스는 발표 내용보다 플레이어가 무엇을 얻고 무엇을 더 기다려야 하는지가 핵심이죠.</p>
+</div>
+
 코지마 히데오의 액션 첩보 신작 피진트가 결국 엑스박스 품으로 들어갔습니다. 엑스박스는 9월 9일 코지마 프로덕션과의 파트너십을 확대해 피진트를 직접 퍼블리싱한다고 공식 발표했죠.
 
 그 자체만 보면 제작사와 퍼블리셔가 새 계약을 맺었다는 뉴스입니다. 그런데 이 작품이 원래 플레이스테이션과 함께 가던 프로젝트였고, 소니가 관계를 정리한 뒤 약 3개월 만에 경쟁 진영으로 이동했다는 배경을 붙이면 이야기가 완전히 달라집니다.
@@ -38,6 +43,17 @@ draft: true
 엑스박스 입장에서 이번 계약이 갑작스러운 첫 만남은 아닙니다. 코지마 프로덕션은 이미 엑스박스와 OD를 개발하고 있습니다.
 이번 발표로 관계가 피진트까지 확대됐으며, 게임뿐 아니라 영화, 텔레비전 분야에서도 협력한다고 밝혔습니다. 저는 이 부분이 꽤 중요하다고 봅니다. 엑스박스가 단순히 버려진 프로젝트 하나를 가져온 것이 아니라, 코지마라는 창작자와의 관계 자체를 더 크게 묶으려는 모습이기 때문입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 소니가 포기했다고 작품 가치가 낮은 건 아니다
 
 대형 회사가 한 프로젝트에서 빠졌다는 소식이 나오면 곧바로 게임에 문제가 있었던 것 아니냐는 해석이 붙기 쉽습니다. 하지만 개발 프로젝트가 중단되거나 퍼블리셔가 바뀌는 이유는 예산, 일정, 전략 변화처럼 여러 가지가 있을 수 있죠.
@@ -53,6 +69,17 @@ draft: true
 그런 창작자에게 중요한 건 로고보다 하고 싶은 프로젝트를 끝까지 밀어줄 파트너일 수 있습니다. 소니와 오래 함께했다고 다음 작품도 반드시 소니여야 할 이유는 없는 겁니다.
 
 저는 이번 이동이 그래서 더 상징적으로 보입니다. 콘솔 전쟁이라는 익숙한 구도로 보면 엑스박스가 소니의 게임을 가져온 사건이지만, 창작자 관점에서는 프로젝트를 계속 만들 수 있는 곳으로 옮긴 것에 더 가깝습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 진짜 승패는 몇 년 뒤에 나온다
 
@@ -72,3 +99,13 @@ draft: true
 
 저는 그게 나쁘지 않다고 봅니다. 유명 제작자가 과거 관계에 묶이기보다 작품을 가장 적극적으로 지원하는 곳을 선택할 수 있다면, 플랫폼 경쟁도 독점 계약 숫자보다 어떤 프로젝트를 끝까지 만들어내느냐로 옮겨갈 수 있기 때문입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

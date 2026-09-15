@@ -35,12 +35,23 @@ hideDescription: true
 
 ## 2. 로그인 실패 제한과 사용자명 노출 막기
 
-해커는 로그인 페이지를 대상으로 비밀번호를 무작위로 시도합니다. 이 시도를 막아야 합니다.
+해커는 로그인 페이지를 대상으로 비밀번호를 무작위로 시도합니다. 이 시도를 막아야 하죠.
 
 - 로그인 실패 횟수를 제한하는 플러그인을 켜서 5회 정도 실패 시 일정 시간 로그인을 막습니다.
 - 무한히 시도할 수 있는 시점을 없애면 자동 공격이 사실상 의미를 잃습니다.
 - 사용자명이 노출되는 페이지는 보이는 대로 제거하거나, 공개 사용자 정보를 끄는 설정을 적용합니다.
 - 관리자 페이지 주소를 기본 `wp-login.php`에서 바꾸는 것도 시도를 줄이는 보조 수단이 됩니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 3. 자동 업데이트와 코어·플러그인 관리
 
@@ -59,6 +70,17 @@ hideDescription: true
 - FTP 계정을 사용한다면 **FTP용 전용 계정**을 만들어 사이트 파일만 접근할 수 있게 제한합니다.
 - 데이터베이스 비밀번호는 무작위로 긴 값을 사용하고, 관리자 패널에서 바꿀 수 있는 곳이면 즉시 변경합니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 정기 백업과 복구 절차
 
 아무리 막아도 뚫리는 상황은 완전히 없앨 수 없습니다. 그래서 **복구 계획**이 마지막 보안입니다.
@@ -72,7 +94,7 @@ hideDescription: true
 
 ## 6. 보안 플러그인 선택 기준
 
-보안 플러그인도 종류가 많아 선택이 어려울 수 있습니다. 아래 기준으로 고르시면 됩니다.
+보안 플러그인도 종류가 많아 선택이 어려울 수 있죠. 아래 기준으로 고르시면 됩니다.
 
 - 업데이트가 자주 되고 유지보수가 확실한지 (사용자 수와 마지막 업데이트 확인)
 - 방화벽, 로그인 보호, 스캔 기능이 한 번에 지원되는지
@@ -81,3 +103,13 @@ hideDescription: true
 
 여러 보안 플러그인을 동시에 쓰면 충돌이 나는 경우가 많으므로, 한 개만 선택해 제대로 설정하는 것이 좋습니다. 로그인 보호 하나면 충분한 소규모 사이트도 많죠.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

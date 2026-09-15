@@ -1,5 +1,6 @@
 ---
 title: "앤트로픽 CEO가 AI 개발을 늦추자고 한 이유, 안전 경쟁도 시작됐다"
+draft: true
 description: "앤트로픽 CEO 다리오 아모데이가 최첨단 AI 모델의 능력이 커지는 속도를 늦출 필요가 있다고 주장했습니다."
 date: 2026-09-13T12:00:00
 updated: 2026-09-14T12:00:00
@@ -18,6 +19,11 @@ imageHeight: 675
 hideHeroImage: true
 hideDescription: true
 ---
+
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>앤트로픽 CEO 다리오 아모데이가 최첨단 AI 모델의 능력이 커지는 속도를 늦출 필요가 있다고 주장했습니다. 앤트로픽 CEO가 AI 개발을 늦추자고 한 이유, 안전 경쟁도 시작됐다 결국 중요한 건 기술 이름보다 비용, 서비스 방식, 이용 선택지가 실제로 어떻게 달라지는지이죠.</p>
+</div>
 
 앤트로픽 CEO 다리오 아모데이가 최첨단 AI 모델의 능력이 커지는 속도를 늦출 필요가 있다고 주장했습니다.
 
@@ -49,6 +55,17 @@ AI는 일반 소프트웨어보다 배포 속도가 훨씬 빠르고 한 번 공
 
 자동차 충돌 시험처럼 회사 밖의 시선이 제품 출시 전 단계에 들어오는 구조를 AI에도 만들자는 셈입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 경쟁사가 문제다
 
 말은 쉬워도 실제 속도를 늦추기는 어렵습니다.
@@ -68,6 +85,17 @@ AI는 일반 소프트웨어보다 배포 속도가 훨씬 빠르고 한 번 공
 오픈소스와 작은 연구팀이 같은 기준을 감당할 수 있는지도 함께 봐야 합니다.
 
 안전을 이유로 경쟁을 막는 구조가 되면 이용자에게 돌아오는 선택지도 줄어듭니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 진짜 변화는 다음 모델에서
 

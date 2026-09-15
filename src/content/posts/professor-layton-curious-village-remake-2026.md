@@ -20,6 +20,11 @@ hideDescription: true
 draft: true
 ---
 
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>레이튼 교수 시리즈의 시작점인 레이튼 교수와 이상한 마을이 PS5용 풀 리메이크로 돌아옵니다. 2008년 닌텐도 DS에서 나온 원작을 3D 캐릭터와 고해상도 애니메이션, 와이드 화면에 맞춰 다시 만드는 작품입니다. 게임 뉴스는 발표 내용보다 플레이어가 무엇을 얻고 무엇을 더 기다려야 하는지가 핵심이죠.</p>
+</div>
+
 레이튼 교수 시리즈의 시작점인 레이튼 교수와 이상한 마을이 PS5용 풀 리메이크로 돌아옵니다. 2008년 닌텐도 DS에서 나온 원작을 3D 캐릭터와 고해상도 애니메이션, 와이드 화면에 맞춰 다시 만드는 작품입니다.
 
 최신작 증기의 신세계가 올해 12월 PS5로 나오고 곧바로 첫 작품까지 리메이크된다는 점이 흥미롭습니다. 레벨5가 레이튼을 단순 복귀작 하나로 끝내지 않고 현대 플랫폼에 다시 정착시키려는 움직임으로 보입니다.
@@ -38,6 +43,17 @@ draft: true
 
 다만 레이튼의 매력은 화려한 그래픽보다 그림책 같은 분위기에 있었습니다. 3D로 바꾸더라도 원작의 따뜻하고 약간 기묘한 감각을 잃지 않는 것이 더 중요합니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 터치 조작의 숙제
 
 원작은 닌텐도 DS의 터치스크린과 스타일러스를 적극적으로 활용했습니다. 그림을 그리거나 선을 잇고 작은 물체를 선택하는 퍼즐이 많아 PS5 컨트롤러에 그대로 옮기기 어렵습니다.
@@ -54,6 +70,17 @@ draft: true
 
 그래서 일부 신규 퍼즐이나 풀이 방식 변화가 들어간다면 재플레이 가치가 훨씬 커질 수 있습니다. 아직 그 부분은 구체적으로 공개되지 않았지만 리메이크의 성패를 가를 핵심이라고 봅니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 현대화 방식
 
 리메이크는 원작의 불편함을 없애는 일과 원작의 개성을 지키는 일이 항상 충돌합니다. 이상한 마을은 터치 조작 자체가 게임의 정체성이었던 만큼 버튼 조작만 편하게 바꾸면 일부 퍼즐은 원래 의도를 잃을 수 있습니다.
@@ -65,6 +92,17 @@ draft: true
 레벨5는 레이튼 신작과 첫 작품 리메이크를 연달아 배치했습니다. 한동안 멈췄던 시리즈를 다시 살릴 때 가장 안전한 방법은 새 이야기와 익숙한 대표작을 동시에 보여주는 것입니다.
 
 신작이 성공하면 리메이크도 관심을 받고, 리메이크가 잘 팔리면 다른 DS 작품까지 현대 플랫폼으로 옮길 명분이 생깁니다. 2027년은 레이튼 시리즈 전체의 재출발 여부를 확인하는 해가 될 수 있습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 7. 리메이크의 답
 

@@ -31,7 +31,7 @@ hideDescription: true
 
 ## 1. 모든 게임이 되는 것은 아니다
 
-리모트 플레이 투게더는 해당 게임이 이 기능을 지원해야 합니다.
+리모트 플레이 투게더는 해당 게임이 이 기능을 지원해야 하죠.
 
 스팀 상점 페이지의 기능 표시에서 지원 여부를 확인하시는 것이 가장 빠릅니다.
 
@@ -45,9 +45,20 @@ hideDescription: true
 
 리모트 플레이 투게더 초대를 보내고 친구가 수락하면 호스트의 게임 화면이 친구 기기로 전송됩니다.
 
-친구는 자기 PC에 게임 전체를 설치할 필요가 없습니다.
+친구는 자기 PC에 게임 전체를 설치할 필요가 없죠.
 
 대신 스팀에 로그인되어 있어야 하고 네트워크 상태가 원활해야 합니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 3. 한 화면 게임을 온라인처럼 바꾸는 원리
 
@@ -57,7 +68,7 @@ hideDescription: true
 
 그래서 게임 화면이 하나인 로컬 협동에서도 사용할 수 있습니다.
 
-반대로 각 플레이어가 별도의 게임 세계에 접속해야 하는 온라인 게임 구조를 대신해주는 기능은 아닙니다.
+반대로 각 플레이어가 별도의 게임 세계에 접속해야 하는 온라인 게임 구조를 대신해주는 기능은 아니죠.
 
 ## 4. 키보드와 패드 배분이 중요
 
@@ -69,9 +80,20 @@ hideDescription: true
 
 연결은 됐는데 둘 다 같은 캐릭터를 움직인다면 게임의 로컬 멀티 입력 설정과 스팀 오버레이의 플레이어 배치를 확인해보셔야 합니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 화질보다 호스트 업로드가 중요
 
-친구에게 화면을 보내야 하므로 호스트 네트워크의 업로드 상태가 좋지 않으면 끊김이 생길 수 있습니다.
+친구에게 화면을 보내야 하므로 호스트 네트워크의 업로드 상태가 좋지 않으면 끊김이 생길 수 있죠.
 
 같은 집 안의 리모트 플레이와 달리 서로 다른 인터넷 회선을 거치면 지연도 더 커질 수 있죠.
 
@@ -87,7 +109,18 @@ hideDescription: true
 
 저는 이 기능이 온라인 멀티의 대체재라기보다 오래된 로컬 협동 게임을 다시 꺼내게 만드는 기능이라고 봅니다.
 
-친구가 게임을 구매했는지보다 먼저 지원 여부와 입력 구성을 확인하시면 훨씬 쉽게 시작할 수 있습니다.
+친구가 게임을 구매했는지보다 먼저 지원 여부와 입력 구성을 확인하시면 훨씬 쉽게 시작할 수 있죠.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 7. 처음에는 두 명으로 테스트
 
@@ -97,6 +130,6 @@ hideDescription: true
 
 음성 채팅은 게임과 별도로 디스코드 같은 서비스를 함께 사용하는 경우가 많습니다. 호스트 인터넷 업로드가 넉넉하지 않다면 화면 스트리밍과 음성, 다른 가족의 인터넷 사용이 겹치면서 지연이 늘어날 수 있습니다.
 
-저는 리모트 플레이 투게더를 완벽한 온라인 멀티로 만들려 하기보다 친구가 옆에 있는 상황을 인터넷으로 흉내 내는 기능으로 이해하는 편이 좋다고 봅니다. 그 한계를 알고 장르와 인원을 고르면 예상보다 훨씬 편하게 즐길 수 있습니다.
+저는 리모트 플레이 투게더를 완벽한 온라인 멀티로 만들려 하기보다 친구가 옆에 있는 상황을 인터넷으로 흉내 내는 기능으로 이해하는 편이 좋다고 봅니다. 그 한계를 알고 장르와 인원을 고르면 예상보다 훨씬 편하게 즐길 수 있죠.
 
 초대가 잘 되던 게임이 갑자기 안 된다면 스팀과 게임 업데이트 뒤 지원 상태가 바뀌었는지도 확인하시는 것이 좋습니다. 친구 쪽 스팀 클라이언트도 최신 상태로 맞춰두면 버전 차이에서 생기는 불필요한 문제를 줄일 수 있습니다.

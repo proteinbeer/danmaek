@@ -1,5 +1,6 @@
 ---
 title: "메이플 키우기 스타포스 강화: 30성 확장과 부위별 순서"
+draft: true
 description: "메이플 키우기 스타포스 강화 공략입니다. 주문서를 어디서 얻는지, 부위별 강화 우선순위와 단계별 목표, 9월 업데이트의 30성 확장·하락 완화·확정 강화 천장 시스템을 정리했습니다."
 date: 2026-09-02
 updated: 2026-09-02
@@ -37,6 +38,17 @@ hideDescription: true
 
 주문서가 가장 부족한 구간은 강화를 본격적으로 시작하는 시점입니다. 던전과 아레나 상점 수급을 함께 병행해야 강화를 끊김 없이 진행할 수 있습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 부위별 강화 순서
 
 강화 우선순위는 장비가 전투력에 미치는 기여도를 기준으로 정합니다. 커뮤니티 공략에서는 특정 부위를 먼저 강화하는 흐름이 권장되는데, 대개 공격 관련 옵션을 주는 부위가 앞섭니다.
@@ -48,6 +60,17 @@ hideDescription: true
 초반에는 전체 장비의 별 수치를 일정 수준까지 통일시키는 것이 성장의 기본입니다. 이후에는 강화 난이도가 높은 부위를 하나씩 높이면서 다음 구간의 권장 전투력을 확보합니다.
 
 구간 목표는 캐릭터 레벨과 함께 올라가므로, 레벨에 맞춰 강화 수치를 맞추는 것이 막힘을 줄이는 방법입니다. 눈에 띄는 성장이 없을 때는 강화 수치가 기대치에 못 미친 경우가 많습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 30성 확장과 확정 강화
 
@@ -61,3 +84,13 @@ hideDescription: true
 
 강화가 막히면 처음부터 다시 시도하기보다, 동료·유물처럼 다른 성장 수단과 병행하면서 전투력 상단을 함께 올리는 것이 전체 성장에 유리합니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

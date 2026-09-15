@@ -21,7 +21,7 @@ hideDescription: true
 
 글을 쓰고 얼마 지나지 않아 "재밌게 봤습니다"와 함께 **외부 링크가 심어져 있는 댓글**이 달리기 시작하면 그게 스팸 댓글입니다. 처음에는 하나둘이지만 승인을 건너뛰고 노출되기 시작하면 사이트 신뢰도가 떨어집니다.
 
-스팸 댓글은 설정 몇 가지와 플러그인 하나로 대부분 자동 차단됩니다. 이 글에서는 설정 → 금칙어 → 캡차 → 플러그인 순서로 정리했습니다.
+스팸 댓글은 설정 몇 가지와 플러그인 하나로 대부분 자동 차단됩니다. 이 글에서는 설정 → 금칙어 → 캡차 → 플러그인 순서로 정리했죠.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/wordpress-guide.jpg" alt="스팸 댓글을 차단하는 워드프레스 설정 화면" width="1200" height="675" loading="lazy" decoding="async" />
 
@@ -43,7 +43,18 @@ hideDescription: true
 - 댓글에 링크가 1개 이상 포함되면 보류되도록 하는 유료/무료 플러그인 설정도 함께 적용합니다.
 - 댓글 남긴 사람의 **이메일·URL 필드**가 빈 경우만 허용하는 설정을 쓰면 링크 심기 스팸을 걸러낼 수 있습니다.
 
-금칙어는 완벽하지 않지만 확실한 단어 몇 개 목록으로 대량 도배를 막는 데 효율적입니다. 봇이 단어를 바꿔가며 우회하는 경우가 있으니 플러그인과 조합해서 쓰는 것이 좋습니다.
+금칙어는 완벽하지 않지만 확실한 단어 몇 개 목록으로 대량 도배를 막는 데 효율적이죠. 봇이 단어를 바꿔가며 우회하는 경우가 있으니 플러그인과 조합해서 쓰는 것이 좋습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 3. 캡차나 간단 질문으로 봇 막기
 
@@ -53,17 +64,28 @@ hideDescription: true
 - 캡차 서비스(예: Cloudflare Turnstile)는 방문자에게 불편을 덜 주면서 봇을 구분해줍니다.
 - 체크박스 방식보다 **숨겨진 필드(honeypot)** 방식을 쓰는 플러그인은 실제 방문자의 입력 경험이 그대로 유지됩니다.
 
-캡차는 무료로 시작할 수 있습니다. 방문자 UX를 고려하면 요약 질문이나 숨김 필드가 가벼운 편이라 추천합니다.
+캡차는 무료로 시작할 수 있죠. 방문자 UX를 고려하면 요약 질문이나 숨김 필드가 가벼운 편이라 추천합니다.
 
 ## 4. Akismet과 전용 스팸 플러그인
 
-가장 널리 쓰이는 방법은 **Akismet**입니다. 워드프레스에 기본 내장되어 있고, 라이선스를 무료로 받을 수 있습니다.
+가장 널리 쓰이는 방법은 **Akismet**이죠. 워드프레스에 기본 내장되어 있고, 라이선스를 무료로 받을 수 있습니다.
 
 - 설치 후 워드프레스 계정과 연동하면 전 세계에 쌓인 스팸 패턴으로 댓글을 자동 판정합니다.
 - 판정된 댓글은 스팸 목록으로 격리되므로 직접 삭제만 누르면 됩니다.
 - Akismet 외 국내 서비스 기반 스팸 필터 플러그인도 있으니 스팸 유형에 맞는 것을 골라 쓸 수 있습니다.
 
 악성 봇은 계속 진화하기 때문에 텍스트 규칙만으로는 한계가 있습니다. Akismet처럼 **패턴을 실시간으로 학습하는 서비스**를 켜두면 거의 손이 가지 않습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 기존 스팸 한 번에 정리하기
 
@@ -78,7 +100,7 @@ hideDescription: true
 
 ## 6. 정기 점검과 유지
 
-스팸 차단은 한 번 설정하면 끝나는 것이 아닙니다. 봇 패턴이 바뀌므로 주기적인 점검이 필요합니다.
+스팸 차단은 한 번 설정하면 끝나는 것이 아니죠. 봇 패턴이 바뀌므로 주기적인 점검이 필요합니다.
 
 - 한 달에 한 번 스팸 목록에 어떤 유형이 쌓였는지 확인해 금칙어를 갱신합니다.
 - 플러그인(캡차, Akismet)의 업데이트를 놓치지 않습니다.
@@ -87,3 +109,13 @@ hideDescription: true
 
 스팸 댓글은 "몰라서 피해를 보는 문제"에 가깝습니다. 기본 설정과 플러그인 하나만 제대로 해두어도 하루 수십 건의 도배가 거의 0으로 줄어듭니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

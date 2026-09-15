@@ -33,7 +33,7 @@ hideDescription: true
 
 삽입한 뒤에는 각 글에서 내용을 따로 바꿀 수 있어 같은 디자인을 빠르게 만드는 데 적합하죠.
 
-동기화 패턴은 내용 자체가 연결됩니다. 한곳에서 수정하면 같은 패턴을 사용한 다른 글도 함께 바뀌기 때문에 반복 안내문과 공통 버튼에 적합합니다.
+동기화 패턴은 내용 자체가 연결됩니다. 한곳에서 수정하면 같은 패턴을 사용한 다른 글도 함께 바뀌기 때문에 반복 안내문과 공통 버튼에 적합하죠.
 
 ## 2. 어떤 내용에 쓰기 좋은가
 
@@ -42,6 +42,17 @@ hideDescription: true
 내용이 바뀔 때 한 번만 고치면 되므로 오래된 글에 틀린 정보가 남는 일을 줄일 수 있죠.
 
 반대로 글마다 문구를 조금씩 바꿔야 하는 영역에는 일반 패턴이 더 편합니다. 동기화 패턴을 썼다가 한 글만 고치려다 전체 글이 함께 바뀌는 실수를 할 수 있습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 3. 패턴을 만들 때 동기화 여부 확인
 
@@ -59,6 +70,17 @@ hideDescription: true
 
 중요한 것은 먼저 연결을 해제하는 것입니다. 동기화 상태에서 바로 내용을 바꾸면 모든 위치가 함께 바뀔 수 있어 수정 전에 상태를 확인하셔야 합니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 사이트 편집기에서 한곳에 모아 관리
 
 블록 테마를 사용하면 사이트 편집기의 패턴 영역에서 직접 만든 패턴과 템플릿 파트를 관리할 수 있습니다.
@@ -73,7 +95,18 @@ hideDescription: true
 
 동기화 패턴은 글 안에서 반복되는 콘텐츠를 관리하는 데 더 적합하죠.
 
-둘 다 여러 곳에서 함께 바뀐다는 점 때문에 비슷하게 느껴질 수 있지만 역할은 다릅니다. 구조는 템플릿 파트, 반복 콘텐츠는 동기화 패턴이라는 기준으로 보면 이해하기 쉽습니다.
+둘 다 여러 곳에서 함께 바뀐다는 점 때문에 비슷하게 느껴질 수 있지만 역할은 다릅니다. 구조는 템플릿 파트, 반복 콘텐츠는 동기화 패턴이라는 기준으로 보면 이해하기 쉽죠.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 7. 광고 문구와 제휴 안내에도 유용
 
@@ -95,3 +128,13 @@ hideDescription: true
 
 사이트가 오래될수록 이 차이가 더 크게 느껴집니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

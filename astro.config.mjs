@@ -59,6 +59,18 @@ const parseYamlString = (value) => {
   return trimmed;
 };
 
+const escapeHtml = (value) => String(value ?? '')
+  .replaceAll('&', '&amp;')
+  .replaceAll('<', '&lt;')
+  .replaceAll('>', '&gt;')
+  .replaceAll('"', '&quot;');
+
+const decodeBasicHtml = (value) => String(value ?? '')
+  .replaceAll('&quot;', '"')
+  .replaceAll('&gt;', '>')
+  .replaceAll('&lt;', '<')
+  .replaceAll('&amp;', '&');
+
 const getFrontmatterTitle = (lines, frontmatterEnd) => {
   for (let index = 1; index < frontmatterEnd; index += 1) {
     const match = lines[index].match(/^title:\s*(.*)$/);
@@ -81,6 +93,34 @@ const getEditableLines = (raw) => {
 
     if (/(?:참고한 자료|이미지 출처)/i.test(trimmed)) {
       break;
+    }
+
+    if (/^<div\s+class=["']dan-point["']>/i.test(trimmed)) {
+      let pIndex = -1;
+      let pText = '';
+      let closeIndex = index;
+      for (let innerIndex = index + 1; innerIndex < lines.length; innerIndex += 1) {
+        const innerTrimmed = lines[innerIndex].trim();
+        const paragraphMatch = innerTrimmed.match(/^<p>([\s\S]*?)<\/p>$/i);
+        if (paragraphMatch) {
+          pIndex = innerIndex;
+          pText = decodeBasicHtml(paragraphMatch[1]);
+        }
+        if (/^<\/div>/i.test(innerTrimmed)) {
+          closeIndex = innerIndex;
+          break;
+        }
+      }
+      if (pIndex > -1) {
+        editable.push({
+          index: pIndex,
+          text: pText,
+          prefix: '',
+          type: 'danPoint'
+        });
+      }
+      index = closeIndex;
+      continue;
     }
 
     if (inHtmlBlock) {
@@ -157,7 +197,13 @@ const localPostEditorPlugin = {
             const currentLine = lines[index] ?? '';
             const headingMatch = currentLine.match(/^(\s*#{1,6}\s+)(.*)$/);
             const prefix = String(item.prefix ?? '');
-            const nextText = String(item.text ?? '').replace(/^\s*#{1,6}\s+/, '');
+            const rawText = String(item.text ?? '');
+            const nextText = item.type === 'danPoint' ? rawText : rawText.replace(/^\s*#{1,6}\s+/, '');
+            if (item.type === 'danPoint' && /^(\s*)<p>[\s\S]*<\/p>\s*$/i.test(currentLine)) {
+              const indent = currentLine.match(/^(\s*)/)?.[1] ?? '';
+              lines[index] = `${indent}<p>${escapeHtml(nextText)}</p>`;
+              continue;
+            }
             const inferredNumberHeading = /^\d+\.\s+\S/.test(nextText);
             const nextPrefix = headingMatch ? headingMatch[1] : prefix || (inferredNumberHeading ? '## ' : '');
             lines[index] = nextPrefix ? `${nextPrefix}${nextText}` : nextText;

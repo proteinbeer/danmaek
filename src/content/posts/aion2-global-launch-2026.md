@@ -20,6 +20,11 @@ hideHeroImage: true
 hideDescription: true
 ---
 
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>엔씨소프트가 게임스컴 2026에서 아이온2 글로벌 일정을 확정했습니다. 9월 30일 선행 접속, 10월 5일 정식 출시. 관건은 발표 자체보다 출시 일정, 가격, 기다릴 이유가 얼마나 분명한지이죠.</p>
+</div>
+
 엔씨가 게임스컴 2026에서 아이온2의 글로벌 일정을 다시 공개했습니다. 9월 30일 사전 플레이를 시작하고 10월 5일 북미, 남미, 유럽, 아시아에서 정식 서비스를 시작할 예정이라고 했죠.
 
 국내에서는 이미 서비스 중인 게임이라 완전한 신작처럼 느껴지지는 않을 수 있습니다. 하지만 엔씨 입장에서는 아이온2 한 작품의 해외 출시보다 회사가 다시 글로벌 시장에서 통할 수 있는지를 확인하는 시험에 더 가깝죠.
@@ -42,6 +47,17 @@ hideDescription: true
 
 정식 출시보다 며칠 빠른 플레이는 단순한 특전이 아닙니다. 서버 부하와 초기 경제 구조를 먼저 확인할 수 있는 사실상의 예비 운영 기간 역할도 할 수 있죠.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 스팀과 퍼플을 동시에
 
 글로벌 아이온2는 PC에서 스팀과 엔씨의 퍼플을 통해 서비스될 예정입니다. 서양 유저들에게 익숙한 스팀을 사용한다는 점은 접근성을 크게 낮춥니다.
@@ -58,6 +74,17 @@ hideDescription: true
 
 그래서 아이온2가 좋은 전투와 그래픽을 보여주는 것만으로는 많이 부족할 수 있습니다. 엔씨라는 회사에 대한 기존 인식까지 함께 바꿔야 하는 상황이기 때문입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 한국 서비스는 시험장
 
 한국과 대만에서 먼저 운영했다는 것은 단순히 출시 순서가 빠르다는 뜻이 아닙니다. 이용자가 어디에서 이탈하고, 무엇을 불편해하고, 어떤 결제 방식에서 반발하는지를 이미 확인했다는 뜻이죠.
@@ -73,6 +100,17 @@ hideDescription: true
 하지만 지금의 시장은 첫 아이온이 나왔을 때와 완전히 다릅니다. 월드 오브 워크래프트와 파이널 판타지14뿐 아니라 생존 게임과 협동 액션, 무료 온라인 게임까지 이용자의 시간을 놓고 경쟁하고 있기 때문입니다.
 
 과거 아이온을 즐겼던 유저들을 다시 부르는 것과 처음 접하는 젊은 이용자를 끌어오는 전략이 동시에 필요합니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 7. 엔씨의 진짜 시험
 

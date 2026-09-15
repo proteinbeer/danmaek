@@ -31,7 +31,7 @@ hideDescription: true
 
 ## 1. 복원 지점이 필요한 순간
 
-새 그래픽 드라이버를 설치한 뒤 화면이 이상해지거나 프로그램을 설치한 뒤 윈도우가 불안정해졌다면 복원 지점이 유용합니다.
+새 그래픽 드라이버를 설치한 뒤 화면이 이상해지거나 프로그램을 설치한 뒤 윈도우가 불안정해졌다면 복원 지점이 유용하죠.
 
 문제가 생기기 전 상태로 돌아가 원인이 된 변경을 한꺼번에 되돌릴 수 있기 때문입니다.
 
@@ -41,7 +41,7 @@ hideDescription: true
 
 다만 복원 지점은 만능 복구 기능이 아닙니다.
 
-저장장치 자체가 고장났거나 중요한 개인 파일을 삭제한 상황이라면 별도 백업이 필요합니다.
+저장장치 자체가 고장났거나 중요한 개인 파일을 삭제한 상황이라면 별도 백업이 필요하죠.
 
 ## 2. 시스템 보호부터 확인
 
@@ -53,9 +53,20 @@ hideDescription: true
 
 복원 지점에 사용할 저장 공간도 함께 지정할 수 있으며, 공간이 부족해지면 오래된 지점부터 정리될 수 있습니다.
 
-복원 지점은 필요할 때 자동으로 만들어지기도 하지만 중요한 작업을 앞두고 수동으로 하나 만드는 습관이 더 안전합니다.
+복원 지점은 필요할 때 자동으로 만들어지기도 하지만 중요한 작업을 앞두고 수동으로 하나 만드는 습관이 더 안전하죠.
 
 대형 드라이버 변경이나 시스템 설정 수정 전에 날짜를 알기 쉬운 이름으로 만들어두면 나중에 찾기도 편합니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 3. 직접 복원 지점 만들기
 
@@ -63,7 +74,7 @@ hideDescription: true
 
 이름에는 그래픽 드라이버 설치 전, 프로그램 설치 전처럼 나중에 이유를 떠올릴 수 있는 표현을 넣는 편이 좋습니다.
 
-생성 자체는 오래 걸리지 않는 편입니다.
+생성 자체는 오래 걸리지 않는 편이죠.
 
 완료 메시지가 나오기 전까지는 설정 창을 닫거나 컴퓨터를 강제로 종료하지 않는 것이 안전합니다.
 
@@ -75,7 +86,7 @@ hideDescription: true
 
 윈도우에 정상적으로 들어갈 수 있다면 복원 지점 검색 화면에서 시스템 복원을 실행하면 됩니다.
 
-목록에서 문제가 생기기 전 날짜를 고르고 영향을 받는 프로그램을 확인한 뒤 진행합니다.
+목록에서 문제가 생기기 전 날짜를 고르고 영향을 받는 프로그램을 확인한 뒤 진행하죠.
 
 복원을 시작하면 컴퓨터가 재부팅되고 시스템 설정이 이전 상태로 돌아갑니다.
 
@@ -85,13 +96,24 @@ hideDescription: true
 
 다만 복원 지점 자체가 만들어져 있지 않았다면 이 방법을 사용할 수 없다는 점이 가장 큰 함정입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 개인 파일 백업과는 다른 기능
 
 복원 지점을 만들어두면 사진이나 문서까지 안전하게 보관된다고 생각하기 쉽습니다.
 
 하지만 복원 지점은 개인 파일 백업을 대신하지 않습니다.
 
-중요한 파일은 원드라이브, 외장 저장장치, 다른 PC 같은 별도 위치에 보관해야 합니다.
+중요한 파일은 원드라이브, 외장 저장장치, 다른 PC 같은 별도 위치에 보관해야 하죠.
 
 복원 지점은 윈도우가 이상해졌을 때 시스템을 되돌리는 보험이고, 파일 백업은 저장장치 고장이나 실수로부터 자료를 지키는 보험이라고 나누면 이해하기 쉽습니다.
 
@@ -103,7 +125,7 @@ hideDescription: true
 
 문제가 생겼는데 복원 지점이 하나도 없다면 먼저 안전 모드와 최근 업데이트 제거처럼 변경 범위가 작은 방법부터 확인합니다.
 
-윈도우가 정상적으로 들어가고 개인 파일도 멀쩡한데 바로 초기화부터 하는 것은 마지막 수단으로 남겨두는 편이 좋습니다.
+윈도우가 정상적으로 들어가고 개인 파일도 멀쩡한데 바로 초기화부터 하는 것은 마지막 수단으로 남겨두는 편이 좋죠.
 
 반대로 저장장치에서 이상한 소리가 나거나 파일 읽기 자체가 실패한다면 시스템 복원보다 데이터 백업이 우선입니다.
 
@@ -113,3 +135,13 @@ hideDescription: true
 
 새 버전이 있는지 확인하고 필요한 경우에만 하나씩 적용해야 같은 문제를 반복하지 않게 되죠.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

@@ -20,6 +20,11 @@ hideDescription: true
 draft: true
 ---
 
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>사일런트 힐 타운폴이 9월 24일 플레이스테이션 5와 PC로 출시됩니다. 이번 작품은 미국의 안개 낀 마을을 반복하지 않고 차갑고 고립된 스코틀랜드를 배경으로 독립적인 심리 공포를 보여줍니다. 관건은 발표 자체보다 출시 일정, 가격, 기다릴 이유가 얼마나 분명한지이죠.</p>
+</div>
+
 사일런트 힐 타운폴이 9월 24일 플레이스테이션 5와 PC로 출시됩니다. 이번 작품은 미국의 안개 낀 마을을 반복하지 않고 차갑고 고립된 스코틀랜드를 배경으로 독립적인 심리 공포를 보여줍니다.
 
 사일런트 힐이라는 이름을 붙이면서 장소를 크게 바꾼 선택이 흥미롭습니다. 시리즈의 핵심이 특정 마을 그 자체인지 죄책감과 기억, 현실이 뒤틀리는 방식인지 다시 시험하는 작품이 될 수 있습니다.
@@ -38,6 +43,17 @@ draft: true
 
 장소를 바꾸면 괴물 디자인과 소리도 자연스럽게 달라질 수 있습니다. 단순히 안개 효과만 가져오는 것보다 지역의 문화와 풍경을 공포 구조에 녹이는 것이 더 중요합니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 심리 공포
 
 타운폴은 전투보다 불안과 이야기 해석에 무게를 둔 심리 공포를 강조합니다. 이용자가 무엇을 보고 있는지 확신하기 어렵게 만드는 방식은 사일런트 힐과 잘 맞습니다.
@@ -54,6 +70,17 @@ draft: true
 
 타운폴이 성공한다면 사일런트 힐은 특정 장소에 묶이지 않고 여러 나라의 심리 공포를 담는 브랜드로 확장될 수 있습니다. 이번 작품은 그 가능성을 시험하는 첫 사례에 가깝습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 장소의 힘
 
 사일런트 힐 시리즈는 장소 자체가 인물의 심리를 반영하는 방식으로 기억됐습니다. 그래서 스코틀랜드라는 새로운 지역을 쓰더라도 안개와 폐허를 복제하는 것보다 인물의 죄책감과 기억이 공간을 어떻게 바꾸는지를 보여주는 것이 더 중요합니다.
@@ -65,6 +92,17 @@ draft: true
 타운폴은 시리즈 본편 번호가 붙지 않아 상대적으로 자유로운 실험이 가능합니다. 새로운 개발팀이 사일런트 힐의 핵심을 어디까지 자기 방식으로 해석할지가 가장 궁금한 부분입니다.
 
 개인적으로는 전투보다 음향과 공간 연출을 기대합니다. 큰 괴물보다 아무 일도 일어나지 않는 긴 복도와 바람 소리가 더 무서울 수 있는 게임이라면 타운폴만의 색이 생길 수 있습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 7. 첫날 선택
 

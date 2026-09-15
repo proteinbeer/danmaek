@@ -28,7 +28,7 @@ hideDescription: true
 
 ## 1. 2.4GHz와 5GHz의 차이
 
-와이파이 대역은 주파수에 따라 속도와 도달 거리가 다릅니다.
+와이파이 대역은 주파수에 따라 속도와 도달 거리가 다르죠.
 
 - **2.4GHz**: 도달 거리가 길고 벽을 잘 통과하지만, 전자레인지·무선 마우스·이웃 공유기와 겹쳐 간섭이 많습니다.
 - **5GHz**: 속도가 빠르고 간섭이 적지만, 벽이나 거리에 약합니다.
@@ -45,6 +45,17 @@ hideDescription: true
 
 관리자 비밀번호를 모른다면 공유기 초기화 버튼을 이용해 재시작하면 기본 비밀번호로 되돌아가지만, 설정 전체가 초기화되므로 주의해서 사용하시기 바랍니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 5GHz 전환과 채널 변경
 
 무선 설정에서 5GHz 대역을 켜고 채널을 지정하면 간섭이 크게 줄어듭니다.
@@ -58,13 +69,24 @@ hideDescription: true
 
 ## 4. QoS 설정으로 대역폭 배분
 
-여러 기기가 동시에 인터넷을 쓰면 게임 핑이 치고 동영상이 버벅이기 쉽습니다. QoS(서비스 품질) 설정으로 우선순위를 나눠주면 이 문제가 완화됩니다.
+여러 기기가 동시에 인터넷을 쓰면 게임 핑이 치고 동영상이 버벅이기 쉽죠. QoS(서비스 품질) 설정으로 우선순위를 나눠주면 이 문제가 완화되죠.
 
 - 공유기 관리자에서 **QoS(우선순위, 대역폭 제어)** 메뉴를 엽니다.
 - 게임·온라인 회의 등 중요한 용도를 우선순위로 지정하거나, 특정 기기에 대역폭을 배정합니다.
 - 대용량 다운로드 기기의 속도 제한을 걸어 나머지 기기의 체감 속도를 지켜주는 방식도 있습니다.
 
 공유기마다 메뉴 이름(우선순위, QoS, 대역폭 관리)이 다르니 보통 상단의 전문 설정 탭에서 찾으시면 됩니다. 기능이 없는 저가 공유기라면 최신 공유기 교체를 고려해볼 수 있습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 위치, 펌웨어, 기기 상태 점검
 
@@ -75,7 +97,7 @@ hideDescription: true
 - 고정으로 쓰는 PC·콘솔이라면 와이파이 대신 **유선(이더넷) 연결**이 정답입니다. 핑과 속도 모두 가장 안정적이죠.
 - Wi-Fi 4(802.11n) 시절의 오래된 공유기라면 Wi-Fi 6(802.11ax) 지원 공유기로 교체하는 것이 속도 향상에 결정적입니다.
 
-기가 인터넷을 쓰는데 2.4GHz만 연결돼 있다면, 그것 자체가 속도 제한의 원인인 경우가 많습니다. 연결 대역을 먼저 확인해보시기 바랍니다.
+기가 인터넷을 쓰는데 2.4GHz만 연결돼 있다면, 그것 자체가 속도 제한의 원인인 경우가 많죠. 연결 대역을 먼저 확인해보시기 바랍니다.
 
 ## 6. 속도 측정과 확인
 
@@ -87,3 +109,13 @@ hideDescription: true
 
 요금제보다 크게 낮은 속도가 계속 나온다면, 공유기와 모뎀을 재부팅하거나 통신사 측 상황을 문의해보시기 바랍니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

@@ -1,5 +1,6 @@
 ---
 title: "스팀 라이브러리 정리법, 컬렉션과 숨기기 기능 총정리"
+draft: true
 description: "스팀 라이브러리가 어지럽다면 컬렉션과 게임 숨기기 기능으로 정리하는 방법을 소개하고, 찜목록과 태그 활용까지 정리합니다."
 date: 2026-09-02
 updated: 2026-09-04
@@ -35,6 +36,17 @@ hideDescription: true
 
 스팀은 게임의 태그를 기준으로 자동 컬렉션도 만들어 줍니다. 예를 들어 'RPG', '협동', '멀티플레이어' 같은 태그로 자동 분류되도록 설정하면, 수동으로 일일이 정리할 수고를 덜 수 있죠.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 찜목록으로 사고 싶은 게임 모으기
 
 아직 사지 않았지만 관심 있는 게임은 **찜목록(위시리스트)**에 담아 두면 편리합니다. 상점 페이지의 찜목록 추가 버튼을 누르면 되고, 세일이나 출시 알림을 이메일로 받아볼 수 있죠.
@@ -46,6 +58,17 @@ hideDescription: true
 라이브러리에 태그를 붙이면 검색과 분류가 빨라집니다. 게임별로 **태그 추가**를 통해 내가 원하는 기준(플레이 중, 잠깐 쉬는 중, 친구와 함께 등)을 직접 만들 수 있죠.
 
 이렇게 붙인 태그는 자동 컬렉션을 만드는 기준으로도 쓸 수 있습니다. 개인적인 플레이 상태를 태그로 관리하면, 라이브러리가 수십 개가 되어도 내가 지금 무엇을 해야 할지 바로 눈에 들어옵니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 정리를 계속 유지하는 습관
 

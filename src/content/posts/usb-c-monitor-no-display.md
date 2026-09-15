@@ -25,7 +25,7 @@ hideDescription: true
 
 핵심은 노트북 USB C 포트가 영상 출력을 지원하는지, 케이블이 영상 신호를 전달할 수 있는지입니다.
 
-모니터 불량을 의심하기 전에 이 두 가지를 먼저 확인하셔야 합니다.
+모니터 불량을 의심하기 전에 이 두 가지를 먼저 확인하셔야 하죠.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/dualsense-1200x675.jpg" alt="USB C 모니터 연결" width="1280" height="720" loading="lazy" decoding="async" />
 
@@ -39,7 +39,7 @@ USB C는 뒤집어 꽂을 수 있는 물리적인 단자 규격입니다.
 
 충전 전용이나 데이터 전용 포트라면 같은 케이블을 꽂아도 화면은 나오지 않습니다.
 
-포트 옆에 디스플레이포트나 번개 모양 표시가 있는지 확인하고, 가장 정확하게는 노트북 제조사 사양표를 보셔야 합니다.
+포트 옆에 디스플레이포트나 번개 모양 표시가 있는지 확인하고, 가장 정확하게는 노트북 제조사 사양표를 보셔야 하죠.
 
 아이콘이 없는 제품도 있어 외관만으로 판단하기 어려울 수 있습니다.
 
@@ -53,9 +53,20 @@ USB C 케이블이라고 모두 같은 기능을 지원하지 않습니다.
 
 모니터에 기본 제공된 USB C 케이블이 있다면 먼저 그 케이블로 테스트하시는 것이 좋습니다.
 
-새 케이블을 구매하신다면 원하는 해상도와 주사율, 영상 출력 지원 여부를 제품 설명에서 확인하셔야 합니다.
+새 케이블을 구매하신다면 원하는 해상도와 주사율, 영상 출력 지원 여부를 제품 설명에서 확인하셔야 하죠.
 
 단순히 최대 충전 전력만 보고 고르면 화면 연결에는 적합하지 않을 수 있습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 3. 모니터 입력 선택 확인
 
@@ -69,7 +80,7 @@ HDMI와 디스플레이포트, USB C 입력을 모두 가진 모니터는 현재
 
 ## 4. 충전 전력과 화면 출력은 별개
 
-화면이 잘 나오는데 노트북 충전 속도가 느린 반대 상황도 있습니다.
+화면이 잘 나오는데 노트북 충전 속도가 느린 반대 상황도 있죠.
 
 이 경우 모니터의 USB 전원 공급 출력이 노트북이 요구하는 전력보다 낮을 수 있습니다.
 
@@ -79,7 +90,18 @@ HDMI와 디스플레이포트, USB C 입력을 모두 가진 모니터는 현재
 
 영상 출력이 된다는 사실과 노트북을 최대 속도로 충전할 수 있다는 사실은 따로 확인하셔야 합니다.
 
-USB C 하나로 모든 기능을 합칠수록 각 기능의 지원 범위를 더 꼼꼼히 봐야 합니다.
+USB C 하나로 모든 기능을 합칠수록 각 기능의 지원 범위를 더 꼼꼼히 봐야 하죠.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 도킹 장치와 변환기 제거
 
@@ -93,7 +115,7 @@ USB C 허브나 도킹 장치를 거쳐 모니터를 연결했다면 문제 확�
 
 ## 6. 가장 빠른 확인 순서
 
-노트북 포트의 영상 출력 지원 여부, 모니터 입력 선택, 모니터 기본 케이블, 직접 연결 순서로 확인하시면 됩니다.
+노트북 포트의 영상 출력 지원 여부, 모니터 입력 선택, 모니터 기본 케이블, 직접 연결 순서로 확인하시면 되죠.
 
 이 네 단계만으로 USB C 화면 미출력 문제의 상당 부분을 구분할 수 있습니다.
 
@@ -101,11 +123,22 @@ USB C는 케이블 하나로 책상을 깔끔하게 만들 수 있는 좋은 규
 
 다만 단자 모양이 같다고 기능까지 같다고 생각하는 순간 가장 헷갈리는 주변기기 규격이 되기도 하죠.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 7. 노트북을 바꾸면 같은 모니터도 달라진다
 
 모니터와 케이블이 그대로인데 노트북만 바꿨더니 화면이 나오지 않는다면 새 노트북의 USB C 기능 차이를 먼저 봐야 합니다.
 
-같은 제조사 제품이라도 모든 USB C 포트가 영상 출력을 지원하는 것은 아닙니다.
+같은 제조사 제품이라도 모든 USB C 포트가 영상 출력을 지원하는 것은 아니죠.
 
 특히 얇은 노트북은 포트 수가 적어 하나의 단자에 충전과 영상, 데이터 역할이 몰리는 경우가 많습니다.
 

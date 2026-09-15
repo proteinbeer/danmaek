@@ -33,7 +33,7 @@ HDR 화면에서 SDR 콘텐츠를 표시할 때 밝기와 감마가 다르게 �
 
 HDR은 더 넓은 밝기 범위와 색 정보를 표현하기 위한 방식입니다.
 
-반면 바탕화면의 많은 앱과 웹 콘텐츠는 여전히 SDR 기준으로 만들어져 있습니다.
+반면 바탕화면의 많은 앱과 웹 콘텐츠는 여전히 SDR 기준으로 만들어져 있죠.
 
 HDR을 켠 상태에서 SDR 콘텐츠를 보여주면 윈도우가 두 기준 사이를 맞춰 표시해야 합니다.
 
@@ -53,9 +53,20 @@ HDR 전체가 잘못된 게 아니라 SDR 콘텐츠 표시 균형이 맞지 않�
 
 반대로 너무 낮추면 문서와 웹페이지가 답답하게 어두워질 수 있죠.
 
-기본값 근처에서 조금씩 움직이면서 평소 자주 보는 웹페이지와 HDR 영상을 번갈아 비교하시는 편이 좋습니다.
+기본값 근처에서 조금씩 움직이면서 평소 자주 보는 웹페이지와 HDR 영상을 번갈아 비교하시는 편이 좋죠.
 
 한 화면만 보고 맞추면 다른 콘텐츠에서 균형이 깨질 수 있습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 3. 모니터 HDR 성능도 중요
 
@@ -69,7 +80,7 @@ HDR 지원이라고 적혀 있다고 모든 모니터가 같은 HDR 품질을 �
 
 제품 사양에서 HDR 인증 수준과 실제 최대 밝기, 로컬 디밍 지원 여부를 확인해보시면 도움이 됩니다.
 
-단순히 HDR 지원 문구 하나만 보는 것보다 훨씬 현실적인 판단 기준입니다.
+단순히 HDR 지원 문구 하나만 보는 것보다 훨씬 현실적인 판단 기준이죠.
 
 ## 4. 모니터 화면 모드 확인
 
@@ -85,9 +96,20 @@ HDR 신호가 들어오면 모니터가 자동으로 HDR 화면 모드로 전환
 
 HDR 문제처럼 보이지만 실제로는 여러 화면 보정이 겹친 경우죠.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. HDR 보정 도구 활용
 
-윈도우 11에서는 지원 환경에서 HDR 보정 도구를 이용해 검은색과 최대 밝기, 색 강도를 조정할 수 있습니다.
+윈도우 11에서는 지원 환경에서 HDR 보정 도구를 이용해 검은색과 최대 밝기, 색 강도를 조정할 수 있죠.
 
 게임과 영상에서 밝은 부분이 하얗게 날아가거나 어두운 부분이 뭉개진다면 보정을 시도해볼 만합니다.
 
@@ -105,9 +127,20 @@ HDR 문제처럼 보이지만 실제로는 여러 화면 보정이 겹친 경우
 
 HDR이라는 이름 때문에 항상 켜두는 것보다 내가 보는 콘텐츠에서 더 자연스러운 쪽을 선택하는 것이 결국 더 좋은 화면입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 7. 게임 안의 HDR 설정도 따로 확인
 
-윈도우 HDR이 켜져 있어도 게임에서 HDR을 별도로 활성화해야 하는 경우가 있습니다.
+윈도우 HDR이 켜져 있어도 게임에서 HDR을 별도로 활성화해야 하는 경우가 있죠.
 
 반대로 게임의 밝기 보정이 잘못돼 검은색이 뜨거나 밝은 영역이 날아가면 모니터 문제처럼 느껴질 수 있죠.
 

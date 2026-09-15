@@ -31,7 +31,7 @@ USB 마이크를 새로 연결했는데 녹음 소리가 지나치게 작으면 
 
 ## 1. 윈도우 입력 볼륨 확인
 
-설정, 시스템, 소리, 입력에서 현재 사용 중인 USB 마이크를 선택하면 입력 볼륨을 확인할 수 있습니다.
+설정, 시스템, 소리, 입력에서 현재 사용 중인 USB 마이크를 선택하면 입력 볼륨을 확인할 수 있죠.
 
 여러 마이크가 연결돼 있다면 노트북 내장 마이크가 선택돼 있지 않은지도 먼저 보셔야 합니다.
 
@@ -39,7 +39,7 @@ USB 마이크를 새로 연결했는데 녹음 소리가 지나치게 작으면 
 
 거의 움직이지 않는다면 앱 설정을 만지기 전에 윈도우 단계에서 이미 입력이 작은 상태일 수 있습니다.
 
-일부 USB 마이크는 제조사 프로그램이나 본체 다이얼로 게인을 따로 조절합니다.
+일부 USB 마이크는 제조사 프로그램이나 본체 다이얼로 게인을 따로 조절하죠.
 
 윈도우 볼륨과 하드웨어 게인이 둘 다 낮으면 소리가 매우 작게 들어갈 수 있죠.
 
@@ -55,7 +55,18 @@ USB 마이크를 새로 연결했는데 녹음 소리가 지나치게 작으면 
 
 USB 마이크에 게인 다이얼이 있다면 말을 하면서 천천히 올리고, 큰 목소리에서 소리가 찢어지지 않는 지점을 찾으시면 됩니다.
 
-최대값이 좋은 게 아니라 평소 목소리가 충분히 들어오는 값이 좋습니다.
+최대값이 좋은 게 아니라 평소 목소리가 충분히 들어오는 값이 좋죠.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 3. 마이크와 입 사이 거리
 
@@ -73,7 +84,7 @@ USB 마이크에 게인 다이얼이 있다면 말을 하면서 천천히 올리
 
 ## 4. 디스코드와 녹음 프로그램 설정
 
-디스코드, 줌, 방송 프로그램은 윈도우와 별도로 입력 장치와 볼륨을 관리합니다.
+디스코드, 줌, 방송 프로그램은 윈도우와 별도로 입력 장치와 볼륨을 관리하죠.
 
 윈도우에서는 정상인데 특정 프로그램에서만 작다면 앱 안에서 다른 마이크가 선택됐거나 입력 볼륨이 낮은지 확인하셔야 합니다.
 
@@ -81,9 +92,20 @@ USB 마이크에 게인 다이얼이 있다면 말을 하면서 천천히 올리
 
 문제가 있을 때는 자동 기능을 잠시 끄고 수동으로 입력 레벨을 맞춰보는 편이 원인을 찾기 쉽습니다.
 
-여러 프로그램을 동시에 켜고 테스트하면 각 프로그램의 보정이 섞여 판단이 어려울 수 있습니다.
+여러 프로그램을 동시에 켜고 테스트하면 각 프로그램의 보정이 섞여 판단이 어려울 수 있죠.
 
 먼저 윈도우 녹음기처럼 단순한 앱에서 기본 소리를 확인한 뒤 사용하려는 프로그램으로 넘어가시면 됩니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. USB 허브와 전원 확인
 
@@ -93,7 +115,7 @@ USB 마이크에 게인 다이얼이 있다면 말을 하면서 천천히 올리
 
 케이블 교체도 간단한 확인 방법입니다.
 
-충전만 되는 케이블이나 상태가 나쁜 케이블을 사용하면 데이터 연결이 불안정할 수 있습니다.
+충전만 되는 케이블이나 상태가 나쁜 케이블을 사용하면 데이터 연결이 불안정할 수 있죠.
 
 ## 6. 큰 소리보다 깨끗한 소리가 먼저
 
@@ -105,11 +127,22 @@ USB 마이크에 게인 다이얼이 있다면 말을 하면서 천천히 올리
 
 이 순서로 맞추면 소리를 키우기 위해 잡음까지 함께 키우는 실수를 줄일 수 있습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 7. 테스트 녹음으로 기준 만들기
 
 설정을 바꿀 때마다 같은 문장을 같은 거리에서 녹음해보시면 무엇이 달라졌는지 비교하기 쉽습니다.
 
-귀로만 실시간 모니터링하면 순간적인 볼륨 차이에 속기 쉬워 실제 녹음 파일을 남기는 편이 더 정확합니다.
+귀로만 실시간 모니터링하면 순간적인 볼륨 차이에 속기 쉬워 실제 녹음 파일을 남기는 편이 더 정확하죠.
 
 목소리가 충분히 크면서 배경 소음이 지나치게 올라오지 않는 지점을 찾으면 그 값을 기준으로 저장하시면 됩니다.
 

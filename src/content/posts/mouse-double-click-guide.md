@@ -21,7 +21,7 @@ hideDescription: true
 
 한 번 클릭했는데 폴더가 열렸다 닫혔다 하거나, 텍스트가 두 글자씩 선택되는 경험을 해보셨을 겁니다. 대부분 마우스가 노화하면서 생기는 **더블클릭(디바운스) 증상**이죠.
 
-그런데 이 증상이 반드시 부품 문제는 아닙니다. 윈도우 설정이나 소프트웨어가 원인인 경우도 있어서, 순서대로 확인하면 고장난 마우스를 새로 살 때까지 소프트웨어로 버틸 수 있습니다.
+그런데 이 증상이 반드시 부품 문제는 아닙니다. 윈도우 설정이나 소프트웨어가 원인인 경우도 있어서, 순서대로 확인하면 고장난 마우스를 새로 살 때까지 소프트웨어로 버틸 수 있죠.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/dualsense-1200x675.jpg" alt="마우스 더블클릭 증상과 해결을 나타내는 일러스트" width="1200" height="675" loading="lazy" decoding="async" />
 
@@ -37,7 +37,7 @@ hideDescription: true
 
 ## 2. 배터리와 무선 연결부터 확인
 
-소프트웨어를 만지기 전에 무선 연결부터 점검하세요. 원인이 의외로 단순할 수 있습니다.
+소프트웨어를 만지기 전에 무선 연결부터 점검하세요. 원인이 의외로 단순할 수 있죠.
 
 - 무선 마우스라면 **배터리나 내장 배터리 충전 상태**를 확인합니다. 배터리가 약하면 신호 끊김이 클릭처럼 느껴질 수 있습니다.
 - 수신기가 USB 포트에 꽂혀 있는지, 금속 물체에 가려지지 않았는지 확인합니다.
@@ -45,6 +45,17 @@ hideDescription: true
 - 블루투스 마우스라면 페어링을 지우고 다시 연결해서 끊김 여부를 봅니다.
 
 유선 마우스도 USB 단자를 한 번 뽑았다 다시 꽂고, 꽂는 곳을 바꿔보시면 가끔 단자 접촉 문제가 그대로 드러납니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 3. 윈도우 설정으로 오진 여부 확인
 
@@ -59,13 +70,24 @@ hideDescription: true
 
 ## 4. 스위치 청소와 임시 방편
 
-하드웨어 문제더라도 당장 교체하기 전에 시도할 수 있는 것들이 있습니다.
+하드웨어 문제더라도 당장 교체하기 전에 시도할 수 있는 것들이 있죠.
 
 - 컴퓨터를 종료하고 마우스를 뒤집어 버튼 주위로 **에어 스프레이로 먼지를 불어냅니다.** 접점에 낀 먼지가 원인이라면 효과가 있습니다.
 - 마우스 버튼을 30～50회 연타해 스위치 접점의 산화막을 떼어내는 임시 방법도 있습니다. 효과는 오래 가지 않지만 몇 주는 버텨주죠.
 - 스위치 문제라면 납땜 기술이 있다면 **스위치를 교체**할 수 있습니다. 다만 분해 도구와 스위치 부품이 필요해 초보자에게는 난이도가 높습니다.
 
 철저하게 고치는 것이 목표라면 스위치 교체나 새 마우스 구매가 현실적입니다. 다행히 마우스는 비교적 저렴한 주변기기라, 오래된 제품이라면 교체가 낫습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 더블클릭 오류로 보이는 다른 원인
 
@@ -79,7 +101,7 @@ hideDescription: true
 
 ## 6. 교체 전 테스트 방법
 
-새 마우스를 사기 전에 현재 마우스가 정말 고장인지 확인하는 간단한 테스트가 있습니다.
+새 마우스를 사기 전에 현재 마우스가 정말 고장인지 확인하는 간단한 테스트가 있죠.
 
 - 한 번 클릭만 기억하는 프로그램(예: 메모장에서 드래그)으로 여러 번 시도해보고 정확히 두 번 인식하는지 봅니다.
 - 새 USB 포트, 다른 컴퓨터에서도 같은 증상이 나오는지 확인합니다.
@@ -87,3 +109,13 @@ hideDescription: true
 
 위 테스트로 하드웨어 문제가 확실해지면 교체를 결정하면 됩니다. 게이밍 마우스는 스위치 수명이 긴 제품을 선택하는 것이 재발을 줄이는 방법이죠.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

@@ -1,5 +1,6 @@
 ---
 title: "윈도우 11 블루스크린 원인과 해결 방법"
+draft: true
 description: "윈도우 11에서 블루스크린(BSOD, 중지 코드 오류)이 발생할 때 원인을 파악하고 복구하는 방법을 단계별로 정리합니다."
 date: 2026-09-03
 updated: 2026-09-03
@@ -35,6 +36,17 @@ hideDescription: true
 
 또한 최근에 설치한 드라이버, 프로그램, 일부 시스템 설정이 원인일 가능성이 높으므로, 문제가 생기기 전에 변경한 내용을 떠올리는 것도 큰 단서가 됩니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 드라이버와 시스템 업데이트
 
 블루스크린의 흔한 원인은 오래되거나 충돌하는 드라이버입니다. 그래픽, 네트워크, 칩셋 드라이버를 최신 버전으로 업데이트하면 많은 오류가 해결됩니다. **설정 → Windows 업데이트 → 고급 옵션 → 선택적 업데이트**에서 드라이버 업데이트를 확인할 수 있습니다.
@@ -46,6 +58,17 @@ hideDescription: true
 시스템 파일이 손상되어 블루스크린이 반복될 수 있습니다. 이때는 **전원 재부팅 중 윈도우 복구 환경으로 진입**하거나, 로그인된 상태에서 관리자 권한의 명령 프롬프트를 열어 손상 검사를 실행하면 됩니다.
 
 검사 과정은 조금 걸릴 수 있습니다. 불안정한 동안에는 블루스크린이 반복되더라도 안전 모드에서 진입해 명령을 실행할 수 있으며, 손상된 파일이 있으면 자동으로 복구됩니다. 복구 후 재부팅했을 때 오류가 사라지는지 확인하면 됩니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 하드웨어 점검과 최후의 방법
 

@@ -1,5 +1,6 @@
 ---
 title: "스타워즈 제로 컴퍼니 디럭스 에디션, 살 만한지 정리"
+draft: true
 description: "스타워즈 제로 컴퍼니를 구매하려고 보면 일반판과 디럭스 에디션 사이에서 고민하게 됩니다. 가격 차이가 아주 크지는 않지만, 실제로 무엇이 들어 있고 누구에게 어울리는지 모르겠으면 선택이 망설여지죠."
 date: 2026-09-11
 updated: 2026-09-11
@@ -38,6 +39,17 @@ hideDescription: true
 
 그래서 게임을 더 쉽게 하려고 디럭스를 고르는 판단은 조금 다를 수 있습니다. 외형 만족도가 핵심이라고 생각하시면 이해가 정확합니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 클론 감성 좋아하면 만족도 높다
 
 제로 컴퍼니는 분대를 꾸리는 재미가 중요한 게임이고, 클론 트루퍼 감성은 많은 팬들에게 강한 매력입니다. 이런 팬심이 있다면 디럭스 구성은 생각보다 체감 만족도가 높을 수 있습니다.
@@ -50,6 +62,17 @@ hideDescription: true
 
 즉 이 에디션은 필수보다 취향 강화형에 가깝습니다. 모든 사람에게 무조건 추천할 성격은 아닙니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 나중에 업그레이드도 가능하다
 
 공식 스팀 페이지에는 디럭스 업그레이드 상품도 별도로 표기되어 있습니다. 이 말은 처음부터 디럭스를 사지 않아도, 플레이 후 마음이 생기면 나중에 추가할 여지가 있다는 뜻으로 볼 수 있습니다.
@@ -61,6 +84,17 @@ hideDescription: true
 스타워즈 세계관 몰입이 중요하고, 외형 꾸미기 재미를 크게 느끼며, 클론 장비나 각종 조직 테마 코스메틱이 마음에 드시는 분이라면 디럭스가 잘 맞습니다.
 
 반면 일단 게임 시스템부터 확인하고 싶은 분, 전술 게임 자체를 먼저 보고 싶은 분, 예산을 아끼고 싶은 분이라면 일반판이 합리적입니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 7. 결론은 팬심 비용인지 보면 된다
 

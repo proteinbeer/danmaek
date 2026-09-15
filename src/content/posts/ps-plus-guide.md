@@ -28,7 +28,7 @@ PS Plus는 에센셜, 엑스트라, 디럭스 세 등급으로 나뉩니다. 등
 
 ## 1. PS Plus가 무엇을 제공하나
 
-PS Plus는 플레이스테이션의 유료 구독 서비스입니다. 기본 혜택만 봐도 세 가지가 핵심입니다.
+PS Plus는 플레이스테이션의 유료 구독 서비스입니다. 기본 혜택만 봐도 세 가지가 핵심이죠.
 
 - **온라인 멀티플레이**: 대부분의 PS5·PS4 온라인 게임을 다른 사람과 함께 즐기려면 필요합니다.
 - **월간 게임**: 매달 일정 수의 게임을 무료로 제공받아 구독 기간 동안 플레이할 수 있습니다.
@@ -46,6 +46,17 @@ PS Plus는 플레이스테이션의 유료 구독 서비스입니다. 기본 혜
 
 주력 장르가 온라인 게임 하나뿐이라면 에센셜로 충분하고, 신작보다 지난 명작들을 두루 즐기는 편이라면 엑스트라 이상이 효율적입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 월간 게임 놓치지 않기
 
 월간 게임은 정해진 날짜에 추가되며, 라이브러리에 **추가만 해두면** 구독이 유지되는 한 다시 받을 수 있습니다.
@@ -54,7 +65,7 @@ PS Plus는 플레이스테이션의 유료 구독 서비스입니다. 기본 혜
 - 해당 달 게임은 그 달 안에 **라이브러리에 등록**해야 나중에 플레이할 수 있습니다. 등록을 놓치면 다시 받기 어려우니 미리 받아두는 습관이 좋습니다.
 - 등록만 해두면 구독 기간 동안 언제든 다시 내려받아 즐길 수 있습니다.
 
-즐길 생각이 없더라도 일단 라이브러리에 추가해두면, 혹시 나중에 하고 싶어질 때 구매할 필요가 없습니다.
+즐길 생각이 없더라도 일단 라이브러리에 추가해두면, 혹시 나중에 하고 싶어질 때 구매할 필요가 없죠.
 
 ## 4. 게임 카탈로그 활용법
 
@@ -66,6 +77,17 @@ PS Plus는 플레이스테이션의 유료 구독 서비스입니다. 기본 혜
 
 구매 전에 카탈로그를 확인하면, 정가로 살까 고민하던 게임을 체험판처럼 끝내볼 수도 있습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 클라우드 저장과 부가 혜택
 
 잘 알려지지 않지만 유용한 혜택도 있습니다.
@@ -74,7 +96,7 @@ PS Plus는 플레이스테이션의 유료 구독 서비스입니다. 기본 혜
 - **독점 할인**: 구독자를 위한 스토어 할인과 특별 가격이 주기적으로 열립니다.
 - **게임 체험판(디럭스)**: 신작을 시간 제한으로 미리 체험할 수 있어 구매 판단에 도움이 됩니다.
 
-구독 기간 동안의 혜택이므로, 해지하면 클라우드 저장은 일정 기간 유지 후 정리될 수 있습니다.
+구독 기간 동안의 혜택이므로, 해지하면 클라우드 저장은 일정 기간 유지 후 정리될 수 있죠.
 
 ## 6. 구독 갱신과 해지 관리
 
@@ -86,3 +108,13 @@ PS Plus는 플레이스테이션의 유료 구독 서비스입니다. 기본 혜
 
 기간 만료 전에 자동 갱신 상태를 확인해두면, 반복 결제로 인한 부담을 피할 수 있습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

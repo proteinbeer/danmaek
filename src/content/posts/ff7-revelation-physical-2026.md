@@ -20,6 +20,11 @@ hideDescription: true
 draft: true
 ---
 
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>파이널 판타지 7 레벌레이션은 실물 디스크로 출시되지만 디스크만으로 모든 게임 데이터를 설치할 수 있는 형태는 아닙니다. 파이널 판타지 7 레벌레이션 실물판도 다운로드가 필요하다, 왜 이렇게 바뀌었을까? 관건은 발표 자체보다 출시 일정, 가격, 기다릴 이유가 얼마나 분명한지이죠.</p>
+</div>
+
 파이널 판타지 7 레벌레이션은 실물 디스크로 출시되지만 디스크만으로 모든 게임 데이터를 설치할 수 있는 형태는 아닙니다.
 
 나오키 하마구치 디렉터는 게임 품질을 타협하지 않기 위해 추가 다운로드가 필요하다고 설명했습니다.
@@ -58,6 +63,17 @@ draft: true
 
 아직 왜 추가 디스크를 선택하지 않았는지에 대한 세부 기술 설명은 제한적입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 실물판의 의미가 달라진다
 
 실물 게임의 장점은 인터넷 없이 설치하고 빌려주거나 중고로 판매할 수 있다는 점이었습니다.
@@ -85,6 +101,17 @@ draft: true
 현재는 반대로 다운로드를 요구하면 실물판의 독립성이 떨어집니다.
 
 어느 쪽이 더 중요한지는 게임과 이용자 성향에 따라 다릅니다라는 점은 함께 보셔야 합니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 패키지를 사는 이유
 
@@ -114,3 +141,13 @@ draft: true
 
 결국 지금 단계에서는 화제성보다 실제 제품과 서비스가 어떻게 달라지는지 확인하는 것이 가장 현실적인 접근입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

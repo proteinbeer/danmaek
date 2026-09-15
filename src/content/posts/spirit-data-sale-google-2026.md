@@ -20,6 +20,11 @@ hideDescription: true
 draft: true
 ---
 
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>파산 절차를 밟는 스피릿의 대규모 데이터 자산을 구글이 인수하려는 과정에서 직원과 협력사의 정보가 함께 넘어갈 수 있다는 우려가 커지고 있습니다. 항공기처럼 소유권이 명확한 물건과 달리 회사 서버 안의 데이터는 누구의 것인지 경계가 복잡합니다. 숫자보다 그 뒤에 깔린 기대감과 시장이 실제로 평가하는 지점이 더 중요하죠.</p>
+</div>
+
 파산 절차를 밟는 스피릿의 대규모 데이터 자산을 구글이 인수하려는 과정에서 직원과 협력사의 정보가 함께 넘어갈 수 있다는 우려가 커지고 있습니다. 항공기처럼 소유권이 명확한 물건과 달리 회사 서버 안의 데이터는 누구의 것인지 경계가 복잡합니다.
 
 특히 협력사가 수년 동안 제공한 영업 정보와 기술 자료까지 파산 회사의 자산처럼 묶여 팔릴 수 있다는 점이 논란의 핵심입니다. AI 시대에는 데이터 자체가 돈이 되면서 파산 절차도 예전보다 훨씬 까다로워지고 있습니다.
@@ -38,6 +43,17 @@ draft: true
 
 특히 구글이 항공 운영용 AI 사업을 확대하는 상황이라 협력사의 데이터가 경쟁 서비스 개발에 활용될 가능성에 대한 불안도 큽니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 직원 개인정보
 
 직원 이메일과 채팅, 업무 기록에는 개인적인 정보도 섞일 수 있습니다. 회사를 그만둔 사람은 자신의 과거 데이터가 몇 년 뒤 다른 기업에 판매될 것이라고 예상하기 어렵습니다.
@@ -54,6 +70,17 @@ draft: true
 
 그 비용을 누가 부담할지도 새로운 문제입니다. 데이터 경제가 커질수록 회사가 망할 때 정보를 어떻게 정리할지까지 계약 단계에서 미리 정해야 하는 시대가 오고 있습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 파산법의 빈틈
 
 파산법은 공장과 항공기, 부동산처럼 소유자가 명확한 자산을 매각하는 데 익숙합니다. 여러 회사와 개인의 정보가 뒤섞인 데이터 세트는 기존 자산 개념에 정확히 맞지 않습니다.
@@ -65,6 +92,17 @@ draft: true
 앞으로 기업 간 데이터 계약에는 고객사가 파산하거나 인수될 때 정보를 어떻게 처리할지 더 구체적인 조항이 들어갈 가능성이 큽니다. 단순 비밀유지 조항만으로는 데이터 묶음 전체가 매각되는 상황을 막기 어려울 수 있습니다.
 
 스타트업 입장에서는 특히 중요합니다. 핵심 기술과 운영 자료를 대기업 고객 시스템에 저장했다가 고객이 파산하면 자신의 IP를 다시 지키기 위해 큰 법적 비용을 써야 할 수 있습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 7. 데이터 소유권
 

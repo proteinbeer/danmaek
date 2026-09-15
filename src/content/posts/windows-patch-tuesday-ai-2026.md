@@ -1,5 +1,6 @@
 ---
 title: "윈도우 취약점 972개 한 번에 수정, AI가 숫자를 키운 이유"
+draft: true
 description: "마이크로소프트가 취약점 972개를 한 번에 패치했습니다. 악용 중인 제로데이도 포함된 가운데, AI가 취약점 탐색 속도를 올리며 발견량이 폭증한 구조와 일반 이용자가 취할 행동을 정리했습니다."
 date: 2026-09-09
 updated: 2026-09-09
@@ -20,6 +21,11 @@ hideHeroImage: true
 hideDescription: true
 ---
 
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>마이크로소프트가 취약점 972개를 한 번에 패치했습니다. 악용 중인 제로데이도 포함된 가운데, AI가 취약점 탐색 속도를 올리며 발견량이 폭증한 구조와 일반 이용자가 취할 행동을 정리했습니다. 그런데 피해 규모보다 어떤 정보가 새어 나갔고 이후 어떤 연락을 조심해야 하는지가 더 중요해 보이죠.</p>
+</div>
+
 마이크로소프트가 이번 보안 업데이트에서 엄청난 숫자의 취약점을 한꺼번에 수정했다는 소식이 나왔습니다. 숫자만 보면 갑자기 윈도우가 무너진 것처럼 느껴질 수 있습니다.
 
 보도에 따르면 이번 달 패치 규모는 972개 수준으로 집계됐고, 가운데 치명도가 높은 취약점이 112개이며 실제 공격에 악용 중인 제로데이도 포함됐습니다. 숫자 자체가 워낙 커서 충격적이지만, 진짜 흥미로운 것은 왜 이렇게 한꺼번에 커졌느냐입니다.
@@ -38,6 +44,17 @@ hideDescription: true
 
 즉 972개라는 숫자는 윈도우가 갑자기 엉망이 됐다는 뜻만은 아닙니다. 오히려 숨어 있던 문제를 드러내는 속도가 빨라졌고, 그 결과 패치해야 할 목록이 눈에 보일 만큼 커졌다는 해석이 더 정확합니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 숫자보다 중요한 업데이트 습관
 
 보안 뉴스를 보다 보면 숫자 경쟁처럼 느껴질 때가 있습니다. 하지만 일반 사용자 기준으로 진짜 중요한 것은 이번 달 취약점이 972개였느냐가 아니라, 실제 악용 중인 문제를 패치했느냐입니다.
@@ -49,6 +66,17 @@ hideDescription: true
 이번 소식을 단순 패치 뉴스로 쓰면 딱딱해지기 쉽습니다. 오히려 AI가 세상을 편하게만 바꾸는 것이 아니라, 소프트웨어의 약점까지 더 빨리 찾는 시대를 열었다는 쪽이 더 흥미롭습니다.
 
 아이러니하지만, 안전해지려면 먼저 더 많은 위험이 보이기 시작해야 하는 시대가 된 셈입니다. 발견이 빨라지는 것 자체는 공격자에게도, 방어자에게도 같은 조건으로 다가옵니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 패치 뉴스가 커지는 시대
 

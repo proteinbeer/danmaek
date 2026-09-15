@@ -1,5 +1,6 @@
 ---
 title: "블리즈컨 디아블로 발표 총정리, 디아블로 5부터 스위치 2까지"
+draft: true
 description: "블리즈컨 2026에서 디아블로 관련 발표가 한꺼번에 쏟아졌습니다."
 date: 2026-09-13T12:00:00
 updated: 2026-09-14T12:00:00
@@ -18,6 +19,11 @@ imageHeight: 675
 hideHeroImage: true
 hideDescription: true
 ---
+
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>블리즈컨 2026에서 디아블로 관련 발표가 한꺼번에 쏟아졌습니다. 블리즈컨 디아블로 발표 총정리, 디아블로 5부터 스위치 2까지 관건은 발표 자체보다 출시 일정, 가격, 기다릴 이유가 얼마나 분명한지이죠.</p>
+</div>
 
 블리즈컨 2026에서 디아블로 관련 발표가 한꺼번에 쏟아졌습니다.
 
@@ -53,6 +59,17 @@ hideDescription: true
 
 아마존도 투창과 원거리 전투의 추억을 살리면서 기존 직업과 겹치지 않는 역할을 만드는 것이 중요합니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 지옥의 유산은 30주년 시즌
 
 지옥의 유산 시즌은 디아블로 30주년을 전면에 내세웁니다.
@@ -73,6 +90,17 @@ hideDescription: true
 
 다만 온라인 연결과 배터리, 프레임이 실제 체감에 큰 영향을 주기 때문에 스위치 2 버전은 화질보다 안정성이 더 중요해 보입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 넷플릭스 애니메이션도 제작
 
 블리자드와 넷플릭스는 디아블로 세계를 배경으로 한 애니메이션 시리즈도 개발하고 있습니다.
@@ -90,3 +118,14 @@ hideDescription: true
 저는 디아블로 5의 먼 출시일보다 디아블로 4를 앞으로 2년 넘게 어떻게 유지할지가 더 중요하다고 봅니다.
 
 아마존과 시즌, 스위치 2가 그 공백을 채우는 첫 단계입니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

@@ -21,6 +21,11 @@ hideHeroImage: true
 hideDescription: true
 ---
 
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>2015년 작 위쳐 3가 세 번째 대형 확장팩으로 돌아옵니다. 오래된 게임이 신작보다 유리한 구조와 CD 프로젝트 레드의 계산을 정리했습니다. 게임 뉴스는 발표 내용보다 플레이어가 무엇을 얻고 무엇을 더 기다려야 하는지가 핵심이죠.</p>
+</div>
+
 2015년에 출시된 위쳐 3가 2027년에 세 번째 대형 확장팩 과거의 노래로 돌아옵니다. CD 프로젝트 레드는 게임스컴 2026에서 처음으로 확장팩을 본격적으로 보여줄 예정이죠.
 
 보통 10년이 넘은 게임은 리마스터나 완전한 후속작으로 다시 팔립니다.
@@ -49,6 +54,17 @@ CD 프로젝트 레드에 따르면 위쳐 3 누적 판매량은 6500만 장을 
 
  또한 회사가 대형 신작을 준비하는 동안 매출과 관심을 이어갈 중간 제품으로도 적합합니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 위쳐 4로 넘어가기 전
 
 CD 프로젝트 레드는 이번 확장팩을 게롤트에게 다시 돌아가는 모험이자 차기 위쳐 작품에서 시리에게 바통을 넘기기 전의 이야기라고 설명했습니다.
@@ -68,6 +84,17 @@ CD 프로젝트 레드는 이번 확장팩을 게롤트에게 다시 돌아가�
 여기에 풀스 시어리처럼 기존 위쳐 3 개발 경험이 포함된 스튜디오가 공동 개발에 참여합니다. 완전히 낯선 팀보다 기존 작품의 감각을 이어가기 좋은 구조죠.
 
 게임의 수명이 출시 후 몇 년이라는 과거의 공식이 점점 약해지고 있다는 사례이기도 합니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 게임 산업이 카탈로그 사업으로
 

@@ -1,5 +1,6 @@
 ---
 title: "플스 저장 공간 부족, 이렇게 확보하면 됩니다"
+draft: true
 description: "PS5·PS4 저장 공간이 부족할 때 게임 삭제 없이 공간을 확보하는 방법, 외장하드와 클라우드 저장을 활용하는 법을 정리합니다."
 date: 2026-09-03
 updated: 2026-09-04
@@ -35,6 +36,17 @@ PS4도 **설정 → 애플리케이션 저장 데이터 관리**에서 저장 �
 
 설정 → 스토리지에서 이동하려는 게임을 선택하고 **옮기기**를 누르면, 연결된 외장 드라이브나 추가 SSD로 게임을 통째로 이동할 수 있습니다. 다시 하고 싶을 때만 내장으로 옮겨 오면 되므로, 자주 안 하는 게임은 미리 외장에 넣어 두는 편이 좋습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 저장 데이터와 클라우드로 공간 비우기
 
 게임 본체만 지워도 공간이 크게 줄어듭니다. 다행히 저장 데이터(세이브)는 본체에 따로 남기 때문에, 게임을 삭제해도 진행 상황은 유지되는데요. 이 세이브 데이터를 **클라우드 저장**에 올려 두면 더 안심할 수 있습니다.
@@ -45,6 +57,17 @@ PS5·PS4 모두 클라우드 저장 기능을 제공하며, 저장 데이터 업
 
 저장 공간은 게임뿐 아니라 **추가 콘텐츠(DLC), 캡처(스크린샷·영상) 파일**로도 차지합니다. 스크린샷과 영상이 쌓이면 생각보다 꽤 큽니다.
 미디어 갤러리에서 더 이상 필요 없는 캡처를 골라 삭제하거나, 용량이 큰 영상 클립만 정리하면 공간을 쉽게 확보할 수 있습니다. 게임별로 어떤 콘텐츠가 얼마나 큰지도 스토리지 화면에서 확인할 수 있습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 그래도 부족하면 SSD 추가하기
 

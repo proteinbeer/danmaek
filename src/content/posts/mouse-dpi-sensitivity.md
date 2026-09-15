@@ -37,7 +37,7 @@ DPI를 높이면 같은 거리만큼 마우스를 움직여도 더 많은 이동
 
 하지만 윈도우의 포인터 속도나 게임 안의 감도도 최종 이동량을 다시 조절합니다.
 
-DPI 하나만 보고 내 감도를 설명하기 어려운 이유가 여기에 있습니다.
+DPI 하나만 보고 내 감도를 설명하기 어려운 이유가 여기에 있죠.
 
 마우스 제조사가 26000DPI나 그 이상의 최대값을 지원한다고 광고해도 그 값을 그대로 사용하실 필요는 없습니다.
 
@@ -47,7 +47,7 @@ DPI 하나만 보고 내 감도를 설명하기 어려운 이유가 여기에 �
 
 윈도우에서는 설정, 블루투스 및 장치, 마우스에서 포인터 속도를 조절할 수 있습니다.
 
-일반 작업용이라면 이 값을 지나치게 높이거나 낮추기보다 중간 부근에서 기준을 잡고 DPI를 맞추는 편이 관리하기 쉽습니다.
+일반 작업용이라면 이 값을 지나치게 높이거나 낮추기보다 중간 부근에서 기준을 잡고 DPI를 맞추는 편이 관리하기 쉽죠.
 
 추가 마우스 설정에는 포인터 정확도 향상 기능도 있습니다.
 
@@ -57,11 +57,22 @@ DPI 하나만 보고 내 감도를 설명하기 어려운 이유가 여기에 �
 
 그래서 바탕화면에서는 달라졌는데 게임 안에서는 차이가 거의 없는 상황도 생길 수 있죠.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 게임 감도는 따로 계산
 
 같은 800DPI라도 게임 감도가 1인 경우와 4인 경우는 완전히 다릅니다.
 
-경쟁 게임을 여러 개 하신다면 DPI는 하나로 고정하고 게임별 감도만 맞추는 방식이 편합니다.
+경쟁 게임을 여러 개 하신다면 DPI는 하나로 고정하고 게임별 감도만 맞추는 방식이 편하죠.
 
 이렇게 하면 바탕화면과 다른 프로그램에서 커서 감각이 계속 바뀌지 않습니다.
 
@@ -77,7 +88,7 @@ DPI 하나만 보고 내 감도를 설명하기 어려운 이유가 여기에 �
 
 정밀하게 움직이려고 올린 DPI가 오히려 조준을 불안하게 만드는 이유죠.
 
-고해상도 모니터를 쓰거나 커서를 넓게 움직여야 하는 작업에서는 1600DPI 이상이 편할 수 있습니다.
+고해상도 모니터를 쓰거나 커서를 넓게 움직여야 하는 작업에서는 1600DPI 이상이 편할 수 있죠.
 
 반대로 낮은 감도로 넓게 움직이는 게임에서는 400DPI나 800DPI를 선호하는 사람도 여전히 많습니다.
 
@@ -85,9 +96,20 @@ DPI 하나만 보고 내 감도를 설명하기 어려운 이유가 여기에 �
 
 최대 DPI를 쓰지 않는다고 마우스 성능을 버리는 것도 아닙니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. DPI 버튼이 자꾸 눌릴 때
 
-게임 도중 갑자기 감도가 바뀐다면 마우스 상단 DPI 버튼이 원인일 수 있습니다.
+게임 도중 갑자기 감도가 바뀐다면 마우스 상단 DPI 버튼이 원인일 수 있죠.
 
 제조사 프로그램에서 DPI 단계를 하나만 남기거나 버튼 기능을 비활성화하면 실수로 바뀌는 문제를 막을 수 있습니다.
 
@@ -99,7 +121,7 @@ DPI 하나만 보고 내 감도를 설명하기 어려운 이유가 여기에 �
 
 먼저 윈도우 포인터 속도를 일정하게 두고, DPI를 800이나 1600처럼 관리하기 쉬운 값으로 정합니다.
 
-그다음 자주 하는 게임에서 한 번의 큰 팔 움직임으로 어느 정도 회전하는지가 편한지 감도를 조절하시면 됩니다.
+그다음 자주 하는 게임에서 한 번의 큰 팔 움직임으로 어느 정도 회전하는지가 편한지 감도를 조절하시면 되죠.
 
 마지막으로 며칠은 같은 설정을 유지해보시는 게 좋습니다.
 
@@ -109,7 +131,7 @@ DPI 하나만 보고 내 감도를 설명하기 어려운 이유가 여기에 �
 
 결국 마우스 사양표보다 내 손이 먼저 답을 알고 있죠.
 
-마우스패드 크기도 감도를 결정하는 현실적인 조건입니다.
+마우스패드 크기도 감도를 결정하는 현실적인 조건이죠.
 
 낮은 감도를 쓰고 싶어도 책상 공간이 좁다면 계속 마우스를 들어 옮겨야 해서 오히려 피로해질 수 있습니다.
 
@@ -117,3 +139,13 @@ DPI 하나만 보고 내 감도를 설명하기 어려운 이유가 여기에 �
 
 설정을 복사하기보다 새 화면 크기와 작업 공간에서 다시 미세 조정하시는 편이 자연스럽습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

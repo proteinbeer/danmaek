@@ -1,5 +1,6 @@
 ---
 title: "워독스 파괴 시스템, 벽보다 동선을 무너뜨리는 게임"
+draft: true
 description: "워독스는 로켓과 중장갑 차량으로 건물과 마을의 구조를 바꿀 수 있을 정도로 파괴를 전투 핵심에 넣습니다. 무엇을 많이 부쉈느냐보다 적의 엄폐와 이동 경로를 어떻게 바꿨는지가 더 중요합니다."
 date: 2026-09-10
 updated: 2026-09-10
@@ -35,6 +36,17 @@ hideDescription: true
 
 세 팀 전투에서는 내가 만든 구멍을 다른 팀도 사용할 수 있습니다. 공격에 성공한 뒤 그 길이 새로운 위험이 될 수 있다는 점까지 봐야 합니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 차량 이동
 
 중장갑 차량이 도시를 통과할 때 좁은 길은 약점이 됩니다. 파괴로 더 넓은 진입로를 만들면 예상하지 못한 위치까지 들어갈 수 있습니다.
@@ -46,6 +58,17 @@ hideDescription: true
 좋은 엄폐물을 전부 없애면 적만 불편한 것이 아니라 나중에 들어오는 아군도 숨을 곳이 사라집니다.
 
 컨트롤 존을 곧 점령할 상황이라면 이후 방어까지 생각해야 합니다. 부술 수 있다는 사실과 부숴야 한다는 판단은 다릅니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 변하는 지도
 
@@ -59,3 +82,13 @@ hideDescription: true
 
 저라면 파괴 장비를 단순 화력으로 보지 않겠습니다. 워독스에서 파괴는 총알보다 큰 단위로 전장을 편집하는 도구에 가깝습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

@@ -1,5 +1,6 @@
 ---
 title: "PS5 캐시 지우기와 데이터베이스 재구축, 느려졌을 때 차이와 사용 순서"
+draft: true
 description: "PS5 메뉴가 느려지거나 게임 아이콘이 이상하게 표시될 때 캐시 지우기와 데이터베이스 재구축이 자주 해결책으로 언급됩니다. 두 기능은 비슷해 보이지만 하는 일이 조금 다릅니다."
 date: 2026-08-30
 updated: 2026-08-30
@@ -37,6 +38,17 @@ PS5 메뉴가 느려지거나 게임 아이콘이 이상하게 표시될 때 캐
 
 저장된 게임과 세이브를 일부러 삭제하는 기능은 아닙니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 어떤 상황에서 먼저 쓸까
 
 단순 메뉴 버벅임이나 일시적인 표시 오류라면 캐시부터 지워보는 편이 부담이 적습니다. 다운로드 오류가 반복되거나 라이브러리 구성이 이상하다면 데이터베이스 재구축까지 이어서 시도할 수 있습니다.
@@ -49,6 +61,17 @@ PS5 메뉴가 느려지거나 게임 아이콘이 이상하게 표시될 때 캐
 
 실행 중에는 전원을 끄지 않는 것이 중요합니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 세이브 백업은 그래도 습관화
 
 일반적으로 캐시 정리와 데이터베이스 재구축은 세이브 삭제를 목적으로 하지 않습니다. 그래도 중요한 저장 데이터는 평소 클라우드나 별도 방식으로 백업해두는 습관이 좋습니다.
@@ -60,6 +83,17 @@ PS5 메뉴가 느려지거나 게임 아이콘이 이상하게 표시될 때 캐
 공장 초기화는 사용자 데이터와 설정을 지우지만 캐시 정리와 데이터베이스 재구축은 시스템 정비에 가깝습니다. PS5가 느려졌다고 바로 초기화하기 전에 이 두 단계를 먼저 거치는 이유가 여기에 있습니다.
 
 문제 해결은 강한 방법보다 낮은 위험의 방법부터 올라가는 편이 맞습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 7. 설정 변경 뒤 확인할 부분
 
@@ -75,3 +109,13 @@ PS5 문제 해결은 무작정 초기화하는 것보다 재현 조건을 찾는
 
 PS5는 같은 증상이라도 계정, 게임 버전, 연결 장비에 따라 원인이 달라질 수 있습니다. 그래서 가장 최근에 바꾼 설정과 문제가 시작된 시점을 기준으로 하나씩 되돌려 확인하시면 불필요한 재설치와 초기화를 줄일 수 있습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

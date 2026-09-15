@@ -31,7 +31,7 @@ hideDescription: true
 
 ## 1. 창 모드 최적화가 하는 일
 
-일부 오래된 게임은 창 모드에서 예전 표시 방식을 사용합니다.
+일부 오래된 게임은 창 모드에서 예전 표시 방식을 사용하죠.
 
 윈도우 11의 최적화 기능은 지원되는 게임을 더 새로운 표시 방식으로 전환해 화면 출력 지연을 줄이는 데 도움을 줍니다.
 
@@ -41,7 +41,7 @@ hideDescription: true
 
 모든 게임에서 프레임이 크게 올라가는 기능은 아닙니다.
 
-효과는 게임 엔진과 기존 표시 방식, 그래픽 설정에 따라 다를 수 있습니다.
+효과는 게임 엔진과 기존 표시 방식, 그래픽 설정에 따라 다를 수 있죠.
 
 ## 2. 설정에서 켜는 위치
 
@@ -51,15 +51,26 @@ hideDescription: true
 
 자동 HDR을 켜면 창 모드 게임 최적화도 함께 활성화될 수 있습니다.
 
-반대로 이 기능을 끄고 싶다면 자동 HDR 상태도 함께 확인해야 합니다.
+반대로 이 기능을 끄고 싶다면 자동 HDR 상태도 함께 확인해야 하죠.
 
 게임 하나에서만 문제가 생긴다면 전체 기능을 끄기 전에 해당 게임의 개별 그래픽 옵션을 확인하는 것이 좋습니다.
 
 윈도우는 앱별로 그래픽 설정을 다르게 지정할 수 있습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 테두리 없는 창 모드가 편한 이유
 
-전체 화면은 게임에 집중하기 좋지만 다른 프로그램으로 전환할 때 화면이 깜빡이거나 전환이 느린 게임도 있습니다.
+전체 화면은 게임에 집중하기 좋지만 다른 프로그램으로 전환할 때 화면이 깜빡이거나 전환이 느린 게임도 있죠.
 
 테두리 없는 창 모드는 바탕화면과 같은 해상도로 자연스럽게 이어져 다른 앱을 오가기 편합니다.
 
@@ -67,7 +78,7 @@ hideDescription: true
 
 성능 차이가 거의 없다면 전체 화면을 고집할 이유가 줄어듭니다.
 
-반대로 아주 오래된 게임이나 특정 경쟁 게임은 전체 화면에서 더 안정적으로 동작할 수도 있습니다.
+반대로 아주 오래된 게임이나 특정 경쟁 게임은 전체 화면에서 더 안정적으로 동작할 수도 있죠.
 
 결국 모드 이름보다 실제 프레임과 입력 반응을 비교하는 편이 정확합니다.
 
@@ -75,15 +86,26 @@ hideDescription: true
 
 노트북처럼 내장 그래픽과 외장 그래픽을 함께 쓰는 PC에서는 같은 그래픽 설정 화면에서 앱별 성능 선호도를 정할 수 있습니다.
 
-게임이 예상보다 낮은 성능으로 실행된다면 어떤 GPU를 사용하도록 지정돼 있는지 확인할 수 있습니다.
+게임이 예상보다 낮은 성능으로 실행된다면 어떤 GPU를 사용하도록 지정돼 있는지 확인할 수 있죠.
 
 윈도우가 자동으로 결정하게 둘 수도 있고 절전 또는 고성능 쪽을 선택할 수도 있습니다.
 
 게임용 노트북에서 전원 연결 여부와 함께 확인하면 성능 차이의 원인을 찾는 데 도움이 됩니다.
 
-다만 모든 문제를 고성능 GPU 지정으로 해결하려고 하면 배터리 사용과 발열이 늘 수 있습니다.
+다만 모든 문제를 고성능 GPU 지정으로 해결하려고 하면 배터리 사용과 발열이 늘 수 있죠.
 
 게임과 고성능 앱에만 필요한 설정을 적용하는 편이 좋습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 전체 화면이 무조건 빠르다는 생각
 
@@ -95,7 +117,7 @@ hideDescription: true
 
 특히 여러 프로그램을 동시에 쓰는 환경이라면 창 모드 최적화의 장점이 더 크게 느껴질 수 있습니다.
 
-게임이 창 모드에서 유난히 끊긴다면 해상도부터 낮추기 전에 윈도우의 그래픽 설정을 한번 확인해보시면 됩니다.
+게임이 창 모드에서 유난히 끊긴다면 해상도부터 낮추기 전에 윈도우의 그래픽 설정을 한번 확인해보시면 되죠.
 
 설정 하나가 모든 게임을 바꾸지는 않지만 오래된 표시 방식을 쓰는 게임에서는 생각보다 차이가 날 수 있습니다.
 
@@ -103,13 +125,23 @@ hideDescription: true
 
 창 모드 최적화를 켠 뒤 특정 게임에서 화면 깜빡임이나 이상한 동작이 생긴다면 전체 설정을 바로 포기할 필요는 없습니다.
 
-그래픽 설정에서 해당 게임만 선택해 최적화를 끄고 다른 게임은 그대로 사용할 수 있습니다.
+그래픽 설정에서 해당 게임만 선택해 최적화를 끄고 다른 게임은 그대로 사용할 수 있죠.
 
 이 방식은 오래된 게임과 최신 게임을 함께 즐기는 PC에서 특히 유용합니다.
 
 한 게임 때문에 시스템 전체 설정을 바꾸기보다 문제가 있는 프로그램만 예외로 두는 편이 관리하기 쉽습니다.
 
-설정을 바꾼 뒤에는 게임을 완전히 종료하고 다시 실행해 비교합니다.
+설정을 바꾼 뒤에는 게임을 완전히 종료하고 다시 실행해 비교하죠.
 
 같은 장면에서 프레임과 입력 반응을 확인해야 실제로 최적화가 도움이 되는지 판단하기 쉽습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

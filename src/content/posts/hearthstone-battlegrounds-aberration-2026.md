@@ -20,6 +20,11 @@ hideDescription: true
 draft: true
 ---
 
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>하스스톤 전장에 9월 22일부터 신규 하수인 유형 어버레이션이 추가됩니다. 고대 신의 타락과 실험에서 태어난 존재라는 설정으로 기존 하수인 유형 사이의 조합에도 새로운 변수가 생깁니다. 단순한 변경 목록보다 실제로 켜야 할 기능과 체감되는 차이를 먼저 보는 편이 좋죠.</p>
+</div>
+
 하스스톤 전장에 9월 22일부터 신규 하수인 유형 어버레이션이 추가됩니다. 고대 신의 타락과 실험에서 태어난 존재라는 설정으로 기존 하수인 유형 사이의 조합에도 새로운 변수가 생깁니다.
 
 이번 소식은 단순한 업데이트 한 줄보다 앞으로의 운영 방향과 이용 경험을 같이 보여주는 변화에 가깝습니다. 현재 확인된 사실과 아직 해석이 필요한 부분을 나눠서 보겠습니다.
@@ -38,6 +43,17 @@ draft: true
 
 새 결정은 이전 콘텐츠의 반응과 시장 변화가 쌓인 결과인 경우가 많습니다. 과거 방식에서 무엇이 부족했는지 보면 이번 선택이 해결하려는 문제가 더 선명하게 보입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 기존 종족 조합까지 바뀌는 이유
 
 신규 유형이 강하면 초반에 모두 같은 카드를 노리는 현상이 생길 수 있고 반대로 약하면 새 콘텐츠인데도 금방 외면받을 수 있습니다. 첫 패치에서 수치 조정이 빠르게 들어갈 가능성도 높습니다.
@@ -53,6 +69,17 @@ draft: true
 새 종족이 들어오면 기존 카드가 직접 상향되지 않아도 가치가 달라질 수 있습니다. 같은 상점에서 경쟁하는 하수인이 바뀌고 조합을 전환하는 시점이 달라지기 때문에 패치 노트보다 실제 로비에서 체감 변화가 더 크게 나타날 수 있습니다.
 
 개인적으로는 이 부분이 가장 흥미롭습니다. 작은 방향 변화가 다른 작품과 서비스에도 반복될 때 일회성 실험이 아니라 회사 전체 전략으로 굳어지는 경우가 많기 때문입니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 첫 패치 밸런스가 중요
 

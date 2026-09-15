@@ -19,11 +19,16 @@ hideHeroImage: true
 hideDescription: true
 ---
 
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>오픈AI가 내부 멀티에이전트 시스템으로 나비에 스토크스 밀레니엄 문제의 해를 제시했다고 발표했습니다. AI 1만개가 88시간 풀었다, 수학 난제 해결 주장의 무게 결국 중요한 건 기술 이름보다 비용, 서비스 방식, 이용 선택지가 실제로 어떻게 달라지는지이죠.</p>
+</div>
+
 오픈AI가 내부 멀티에이전트 시스템으로 나비에 스토크스 밀레니엄 문제의 해를 제시했다고 발표했습니다.
 
 약 1만개의 에이전트가 병렬로 움직였고 핵심 해답에 도달하기까지 약 88시간이 걸렸다고 설명합니다.
 
-논문뿐 아니라 린 형식 증명도 함께 공개했다는 점이 이전의 단순 추론 주장과 다릅니다.
+논문뿐 아니라 린 형식 증명도 함께 공개했다는 점이 이전의 단순 추론 주장과 다르죠.
 
 그렇더라도 수학계가 충분히 검토하기 전까지는 역사적인 난제가 완전히 끝났다고 단정하는 표현은 조심할 필요가 있습니다.
 
@@ -37,7 +42,7 @@ hideDescription: true
 
 클레이 수학연구소가 선정한 밀레니엄 문제 중 하나라 해결이 인정되면 수학사에 남을 수준입니다.
 
-그래서 AI가 답을 냈다는 주장도 일반 벤치마크 기록과 무게가 다릅니다.
+그래서 AI가 답을 냈다는 주장도 일반 벤치마크 기록과 무게가 다르죠.
 
 ## 2. 한 AI가 혼자 푼 게 아니다
 
@@ -47,7 +52,18 @@ hideDescription: true
 
 오픈AI 설명에 따르면 전체 시도에서 수백만개의 메시지와 막대한 토큰이 사용됐습니다.
 
-AI 연구도 점점 한 모델의 지능보다 여러 모델을 어떻게 조직하느냐가 중요해지는 모습입니다.
+AI 연구도 점점 한 모델의 지능보다 여러 모델을 어떻게 조직하느냐가 중요해지는 모습이죠.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 3. 형식 증명이 중요한 이유
 
@@ -61,23 +77,34 @@ AI가 그럴듯한 수식을 만들어낸 것인지 실제로 엄밀한 증명 �
 
 ## 4. 그래도 외부 검증은 필요
 
-형식 증명이 있다고 모든 문제가 즉시 끝나는 것은 아닙니다.
+형식 증명이 있다고 모든 문제가 즉시 끝나는 것은 아니죠.
 
 문제 정의와 가정이 원래 밀레니엄 문제와 정확히 일치하는지, 형식화 과정에 해석 오류가 없는지 전문가 검토가 필요합니다.
 
 대형 수학 결과는 여러 연구자가 오랜 시간 재검토하며 인정되는 경우가 많습니다.
 
-따라서 지금은 오픈AI가 강한 해결 주장을 공개한 단계로 보는 표현이 가장 안전합니다.
+따라서 지금은 오픈AI가 강한 해결 주장을 공개한 단계로 보는 표현이 가장 안전하죠.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 비용이 보여주는 새로운 연구 방식
 
-1만개의 에이전트를 88시간 돌리는 방식은 개인 수학자가 종이와 연필로 고민하는 이미지와 완전히 다릅니다.
+1만개의 에이전트를 88시간 돌리는 방식은 개인 수학자가 종이와 연필로 고민하는 이미지와 완전히 다르죠.
 
 막대한 컴퓨팅 자원을 수학적 탐색 공간에 투입해 수많은 접근을 동시에 시험합니다.
 
 이 방식이 성공한다면 앞으로 연구기관의 경쟁력에 컴퓨팅 자원이 더 직접적으로 연결될 수 있습니다.
 
-좋은 아이디어뿐 아니라 얼마나 많은 가설을 병렬로 시험할 수 있는지도 중요해질 수 있습니다.
+좋은 아이디어뿐 아니라 얼마나 많은 가설을 병렬로 시험할 수 있는지도 중요해질 수 있죠.
 
 ## 6. AI가 과학자가 되는가
 
@@ -89,9 +116,20 @@ AI가 기존 논문을 요약하는 단계를 넘어 새로운 증명 후보를 
 
 난제를 푸는 속도보다 결과를 이해하고 새로운 질문으로 연결하는 능력이 다음 경쟁이 될 것 같습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 7. 상금보다 큰 영향
 
-밀레니엄 문제에는 상금이 걸려 있지만 실제 영향은 상금 액수보다 훨씬 큽니다.
+밀레니엄 문제에는 상금이 걸려 있지만 실제 영향은 상금 액수보다 훨씬 크죠.
 
 AI가 이런 수준의 연구 문제에서 반복적으로 의미 있는 결과를 낸다면 대학과 연구소가 계산 자원을 배분하는 방식 자체가 달라질 수 있습니다.
 
@@ -99,7 +137,7 @@ AI가 이런 수준의 연구 문제에서 반복적으로 의미 있는 결과�
 
 실험실에서 자동화 장비를 쓰듯 수학에서도 대규모 에이전트가 연구 장비가 되는 셈입니다.
 
-이번 결과가 최종적으로 어떻게 평가되든 연구 방법의 변화는 이미 시작됐습니다.
+이번 결과가 최종적으로 어떻게 평가되든 연구 방법의 변화는 이미 시작됐죠.
 
 앞으로 논문의 저자와 기여를 어떻게 정의할지도 함께 논쟁이 될 가능성이 큽니다.
 
@@ -109,7 +147,17 @@ AI가 이런 수준의 연구 문제에서 반복적으로 의미 있는 결과�
 
 새로운 결과가 많이 나오면 인간 전문가만으로 모든 논문을 빠르게 확인하기 어려워질 수 있습니다.
 
-앞으로는 생성 AI와 검증 AI가 서로 다른 역할을 맡는 구조가 일반화될 가능성이 있습니다.
+앞으로는 생성 AI와 검증 AI가 서로 다른 역할을 맡는 구조가 일반화될 가능성이 있죠.
 
 한쪽이 아이디어를 폭넓게 만들고 다른 쪽이 오류를 좁히면 연구 속도 자체가 지금과 달라질 수 있습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

@@ -27,7 +27,7 @@ hideDescription: true
 
 ## 1. 가장 빠른 부분 캡처, Win+Shift+S
 
-원하는 부분만 잘라서 캡처하고 싶다면 **Windows + Shift + S**가 정답입니다.
+원하는 부분만 잘라서 캡처하고 싶다면 **Windows + Shift + S**가 정답이죠.
 
 - 키를 누르면 화면 상단에 캡처 도구 모음이 나타납니다.
 - **사각형 모드, 자유형 모드, 창 모드, 전체 화면 모드** 중 하나를 선택합니다.
@@ -45,6 +45,17 @@ hideDescription: true
 
 저장 위치를 자주 쓰는 곳이 있다면 탐색기에서 스크린샷 폴더를 즐겨찾기에 추가해 두면 편리합니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 캡처 도구 앱 활용하기
 
 캡처 후 편집과 공유까지 한 번에 처리하려면 **캡처 도구(Snipping Tool)** 앱을 엽니다.
@@ -57,13 +68,24 @@ hideDescription: true
 
 ## 4. PrintScreen 키 동작 바꾸기
 
-PrintScreen 키의 기본 동작(클립보드 복사)을 캡처 도구가 열리도록 바꿀 수도 있습니다.
+PrintScreen 키의 기본 동작(클립보드 복사)을 캡처 도구가 열리도록 바꿀 수도 있죠.
 
 - **설정 → 접근성 → 키보드**로 이동합니다.
 - **인쇄 화면 바로 가기 사용** 항목을 켭니다.
 - 이후 **Print Screen** 키를 누르면 캡처 도구가 바로 열립니다.
 
 이 설정을 켜두면 특정 영역 캡처를 자주 하는 분에게 훨씬 편리합니다. Win+Shift+S와 동일한 동작을 PrintScreen 하나로 처리할 수 있죠.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 캡처 파일 찾기와 관리
 
@@ -77,7 +99,7 @@ PrintScreen 키의 기본 동작(클립보드 복사)을 캡처 도구가 열리
 
 ## 6. 게임 속 화면과 스크린샷 팁
 
-게임 중 화면을 남기고 싶다면 게임 바(Game Bar)의 캡처 기능을 쓰는 것도 방법입니다.
+게임 중 화면을 남기고 싶다면 게임 바(Game Bar)의 캡처 기능을 쓰는 것도 방법이죠.
 
 - **Windows + Alt + Print Screen**을 누르면 게임 화면이 바로 저장됩니다.
 - 게임 바 스크린샷은 기본적으로 **동영상 폴더의 캡처(Captures) 폴더**에 저장됩니다.
@@ -85,3 +107,13 @@ PrintScreen 키의 기본 동작(클립보드 복사)을 캡처 도구가 열리
 
 게임 바 캡처 화질은 **설정 → 게임 → 캡처**에서 조절할 수 있습니다. 스크린샷을 자주 찍는 게임이라면 저장 형식과 화질을 미리 정해두면 좋습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

@@ -20,6 +20,11 @@ hideDescription: true
 draft: true
 ---
 
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>마리오카트 월드가 무료 업데이트로 슈퍼 마리오카트의 클래식 코스 10개를 추가했습니다. 마리오카트 월드 클래식 코스 10개 추가, 신작이 과거 맵을 다시 꺼냈다 단순한 변경 목록보다 실제로 켜야 할 기능과 체감되는 차이를 먼저 보는 편이 좋죠.</p>
+</div>
+
 마리오카트 월드가 무료 업데이트로 슈퍼 마리오카트의 클래식 코스 10개를 추가했습니다.
 
 초코 아일랜드와 바닐라 레이크, 고스트 밸리 같은 오래된 코스가 최신작에서 다시 등장합니다.
@@ -54,6 +59,17 @@ draft: true
 
 익숙해진 뒤에도 선택지가 늘었다고 느껴지는지, 아니면 해야 할 조작만 늘어났는지가 결국 완성도를 가르게 됩니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 녹아웃 투어 두 경로 추가
 
 프로펠러 랠리와 터닙 랠리라는 새로운 녹아웃 투어 경로도 들어갑니다.
@@ -85,6 +101,17 @@ draft: true
 결국 좋은 후속작과 리메이크는 기억 속 장점을 남기면서 지금 플레이하기 불편한 부분만 정확히 걷어냅니다.
 
 이번 변화도 그 균형을 얼마나 잘 잡았는지가 장기 평가에 더 중요합니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 무료 코스가 장기 운영을 만든다
 

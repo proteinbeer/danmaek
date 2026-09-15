@@ -37,12 +37,23 @@ hideDescription: true
 
 ## 2. 통풍 확인과 케이스 정리
 
-온도가 높다면 케이스 안 공기 흐름부터 확인합니다. 케이스가 벽에 붙어 있거나 통풍구가 막혀 있으면 아무리 좋은 쿨러도 의미가 없기 때문입니다.
+온도가 높다면 케이스 안 공기 흐름부터 확인하죠. 케이스가 벽에 붙어 있거나 통풍구가 막혀 있으면 아무리 좋은 쿨러도 의미가 없기 때문입니다.
 
 - PC를 바닥이 아닌 **통풍이 좋은 위치**에 두고 벽과 최소 10cm 이상 여유를 둡니다.
 - 전면 팬은 **흡기**, 후면·상단 팬은 **배기** 방향인지 확인합니다.
 - 케이블을 정리해 팬 회전을 방해하지 않게 합니다.
 - 먼지 필터가 막히면 공기 흐름이 확 줄어들므로 주기적으로 청소가 필요하죠.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 3. 먼지 청소
 
@@ -56,13 +67,24 @@ hideDescription: true
 
 ## 4. 서멀 페이스트 재도포
 
-청소 후에도 온도가 여전히 높다면 CPU와 쿨러 사이의 서멀 페이스트를 의심해봐야 합니다. 2～3년 이상 사용했다면 말라붙어 열 전도가 떨어졌을 가능성이 높습니다.
+청소 후에도 온도가 여전히 높다면 CPU와 쿨러 사이의 서멀 페이스트를 의심해봐야 합니다. 2～3년 이상 사용했다면 말라붙어 열 전도가 떨어졌을 가능성이 높죠.
 
 1. CPU 쿨러를 분리하고 방열판과 CPU 표면의 묵은 페이스트를 제거합니다. (소독용 알코올이 담긴 티슈로 닦는 것이 좋습니다)
 2. 새 페이스트를 **쌀알 크기**만큼 CPU 중앙에 짭니다.
 3. 쿨러를 대각선으로 조이며 재장착하고 온도를 다시 확인합니다.
 
 쿨러를 분리할 때는 힘을 세게 주지 말고 **살짝 비틀어** 들어올려야 CPU가 함께 뽑히는 것을 막을 수 있습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 팬 속도와 성능 옵션 조정
 
@@ -82,3 +104,13 @@ hideDescription: true
 
 부품 교체는 파워 서플라이 용량과 케이스 내부 공간을 확인한 뒤 진행하시기 바랍니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

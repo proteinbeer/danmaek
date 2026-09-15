@@ -1,5 +1,6 @@
 ---
 title: "스타워즈 제로 컴퍼니 업적과 완성도, 오래 붙잡을 게임인가"
+draft: true
 description: "스타워즈 제로 컴퍼니를 시작하기 전이나 초반에 많은 분들이 궁금해하는 것이 이 게임이 오래 붙잡을 만한가 입니다. 캠페인만 끝내고 손을 놓는 스타일인지, 아니면 여러 번 손이 가는 구조인지도 중요하죠."
 date: 2026-09-11
 updated: 2026-09-11
@@ -38,6 +39,17 @@ hideDescription: true
 
 즉 한 번의 플레이로 모든 감각을 다 체험하기는 어렵습니다. 특히 어떤 분대에 애정을 주느냐에 따라 체감이 달라집니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 유대 시스템이 재플레이 가치를 올린다
 
 같은 캐릭터라도 누구와 묶어 쓰는지에 따라 전투 흐름이 달라지고, 지원 능력과 크로스 트레이닝 쪽 재미도 붙습니다. 이런 시스템은 두 번째 플레이에서 더 빛나는 경우가 많습니다.
@@ -50,6 +62,17 @@ hideDescription: true
 
 처음에는 끄고 배우고, 다음에는 켜고 몰입하는 식으로 회차를 나누면 체감이 꽤 달라집니다. 같은 캠페인도 느낌이 바뀌는 이유가 여기에 있습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 전략 지도도 반복 재미를 만든다
 
 제로 컴퍼니는 단순 미션 선택식이 아니라 인텔과 작전, 사이클을 굴리는 구조라서 플레이 리듬 자체가 달라질 수 있습니다. 어떤 선택을 우선하느냐에 따라 성장 흐름과 전투 준비도 변합니다.
@@ -61,6 +84,17 @@ hideDescription: true
 최근 1점1 패치에서 명중, 저장, 오버워치, 타기팅, 성능 관련 문제를 꽤 적극적으로 손봤습니다. 이 점은 출시 후 관리 의지가 있다는 신호로 읽을 수 있습니다.
 
 아직 초반 패치 단계라 개선 여지가 더 있겠지만, 최소한 방치하는 분위기는 아니라서 장기적으로 보기엔 나쁘지 않습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 7. 결론은 오래 붙잡을 여지가 있다
 

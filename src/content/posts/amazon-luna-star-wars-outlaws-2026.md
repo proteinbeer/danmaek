@@ -1,5 +1,6 @@
 ---
 title: "아마존 프라임에 스타워즈 아웃로즈 추가, 루나와 무료 게임은 뭐가 다를까?"
+draft: true
 description: "아마존 루나의 9월 업데이트에 스타워즈 아웃로즈와 아바타 프론티어 오브 판도라가 추가됐습니다."
 date: 2026-09-13T12:00:00
 updated: 2026-09-14T12:00:00
@@ -18,6 +19,11 @@ imageHeight: 675
 hideHeroImage: true
 hideDescription: true
 ---
+
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>아마존 루나의 9월 업데이트에 스타워즈 아웃로즈와 아바타 프론티어 오브 판도라가 추가됐습니다. 아마존 프라임에 스타워즈 아웃로즈 추가, 루나와 무료 게임은 뭐가 다를까? 단순한 변경 목록보다 실제로 켜야 할 기능과 체감되는 차이를 먼저 보는 편이 좋죠.</p>
+</div>
 
 아마존 루나의 9월 업데이트에 스타워즈 아웃로즈와 아바타 프론티어 오브 판도라가 추가됐습니다.
 
@@ -51,6 +57,17 @@ hideDescription: true
 
 그래서 무료 게임이라고 보기보다 프라임 구독에 포함된 클라우드 게임이라고 이해하는 편이 정확합니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 설치가 없다는 장점
 
 루나의 가장 큰 장점은 성능보다 시작 속도입니다.
@@ -70,6 +87,17 @@ hideDescription: true
 루나가 단순히 서버에서 혼자 게임을 실행하는 서비스에 머물지 않고 프라임 이용자를 묶는 게임 플랫폼으로 이동하는 모습입니다.
 
 아마존 입장에서는 이미 쇼핑과 프라임 비디오를 이용하는 회원에게 게임까지 한 구독 안에서 보여줄 수 있다는 점이 강합니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 먼저 확인할 것은 지역
 

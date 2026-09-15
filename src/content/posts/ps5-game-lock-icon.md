@@ -1,5 +1,6 @@
 ---
 title: "PS5 게임에 자물쇠가 뜰 때, 다시 구매하기 전에 확인할 것"
+draft: true
 description: "구매한 게임인데 PS5 홈 화면에 자물쇠 표시가 뜨면 계정이 꼬였거나 게임을 다시 사야 한다고 생각하기 쉽습니다. 하지만 대부분은 라이선스, 콘솔 공유, 구독 상태 중 하나에서 문제가 생긴 경우입니다."
 date: 2026-08-27
 updated: 2026-08-27
@@ -37,6 +38,17 @@ hideDescription: true
 
 예전에 설치했다는 사실만으로 영구 소유권이 생기는 것은 아니므로 어떤 방식으로 얻은 게임인지 먼저 기억해두는 것이 중요합니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 콘솔 공유와 오프라인 플레이
 
 다른 가족 계정이 구매한 게임을 현재 PS5에서 함께 쓰려면 구매 계정의 콘솔 공유와 오프라인 플레이 설정이 활성화돼 있어야 합니다. 이 설정이 다른 PS5로 옮겨졌다면 기존 기기에서 공유 게임이 잠길 수 있습니다.
@@ -49,6 +61,17 @@ hideDescription: true
 
 복원 후에는 홈 화면으로 돌아가 게임을 다시 선택하고 잠금 표시가 사라졌는지 확인합니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. PSN 장애 여부 확인
 
 소유권 확인에는 온라인 서비스가 관여하므로 PSN 장애가 있을 때 일시적으로 접근 문제가 생길 수 있습니다. 여러 게임이 동시에 잠기거나 스토어 접속도 이상하다면 개인 계정 문제보다 서비스 상태를 먼저 보는 것이 맞습니다.
@@ -60,6 +83,17 @@ hideDescription: true
 자물쇠가 보인다고 바로 스토어에서 같은 게임을 다시 구매하는 것은 가장 피해야 할 행동입니다. 구매 계정, 구독 상태, 콘솔 공유, 라이선스 복원을 차례로 확인하면 상당수 문제는 비용 없이 해결됩니다.
 
 정말 소유 기록이 없을 때만 새 구매를 검토하시면 됩니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 7. 설정 변경 뒤 확인할 부분
 
@@ -75,3 +109,13 @@ PS5 문제 해결은 무작정 초기화하는 것보다 재현 조건을 찾는
 
 PS5는 같은 증상이라도 계정, 게임 버전, 연결 장비에 따라 원인이 달라질 수 있습니다. 그래서 가장 최근에 바꾼 설정과 문제가 시작된 시점을 기준으로 하나씩 되돌려 확인하시면 불필요한 재설치와 초기화를 줄일 수 있습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

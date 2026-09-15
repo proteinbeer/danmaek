@@ -43,6 +43,17 @@ hideDescription: true
 
 새로고침만으로는 캐시가 그대로 남는 경우가 있습니다. 해당 사이트의 캐시를 지운 뒤 다시 확인하면 브라우저 문제인지 빠르게 판단할 수 있습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 캐시 플러그인 비우기
 
 워드프레스 캐시 플러그인을 사용한다면 관리 메뉴에서 페이지 캐시를 비운 뒤 확인하시면 되죠.
@@ -55,9 +66,20 @@ hideDescription: true
 
 관리형 워드프레스 호스팅은 플러그인과 별개로 서버에서 페이지를 캐시하는 경우가 있습니다.
 
-워드프레스에서 캐시를 지웠는데도 그대로라면 호스팅 관리 화면에 캐시 비우기 기능이 있는지 확인하시면 됩니다.
+워드프레스에서 캐시를 지웠는데도 그대로라면 호스팅 관리 화면에 캐시 비우기 기능이 있는지 확인하시면 되죠.
 
 서버 캐시가 자동으로 켜져 있는 서비스도 있어 사용자가 캐시 플러그인을 설치하지 않았는데 예전 화면이 남을 수 있죠. 호스팅 기능을 모르면 원인을 계속 워드프레스 안에서만 찾게 됩니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. CDN 캐시는 가장 바깥에 있다
 
@@ -75,6 +97,17 @@ hideDescription: true
 
 큰 색상 변경처럼 눈에 확실히 보이는 테스트를 잠시 적용하면 올바른 위치를 수정하고 있는지 구분하기 쉽죠. 확인 뒤에는 원래 디자인으로 되돌리시면 됩니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 7. 캐시를 꺼놓는 것이 답은 아니다
 
 변경 확인이 번거롭다고 캐시 기능을 전부 끄면 방문자 속도와 서버 부하가 나빠질 수 있습니다.
@@ -91,3 +124,13 @@ hideDescription: true
 
 편집기 저장 확인, 시크릿 창, 플러그인 캐시, 서버 캐시, CDN 순서로 가시면 대부분 빠르게 원인을 찾을 수 있습니다. 해결하려고 같은 글을 계속 저장하는 것보다 캐시가 있는 위치를 한 단계씩 벗겨보는 편이 정확합니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

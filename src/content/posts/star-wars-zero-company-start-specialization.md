@@ -1,5 +1,6 @@
 ---
 title: "스타워즈 제로 컴퍼니 시작 특화 추천, 처음엔 뭘 고를까"
+draft: true
 description: "스타워즈 제로 컴퍼니에서 초반 체감 난도를 가장 크게 바꾸는 선택 중 하나가 시작 특화입니다. 어떤 특화가 가장 센지보다, 어떤 특화가 내 실수를 덜 벌주고 기본기를 익히기 쉬운지가 더 중요합니다."
 date: 2026-09-11
 updated: 2026-09-11
@@ -38,6 +39,17 @@ hideDescription: true
 
 다만 너무 과감하게 들어가시면 역으로 고립되기 쉽습니다. 어설트를 쓰실 때도 엄폐와 탈출 동선을 함께 보셔야 합니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 솔저는 가장 무난한 만능형
 
 솔저는 근접과 원거리를 적절히 섞고, 수류탄과 로켓 같은 직관적인 화력 옵션을 갖습니다. 특정 상황에서 막히기보다 여러 상황에 골고루 대응하는 느낌이 강합니다.
@@ -50,6 +62,17 @@ hideDescription: true
 
 다만 헤비만 믿고 전진하시면 적을 오래 살려 두게 될 수 있습니다. 헤비는 공격진을 받쳐주는 축이지, 혼자 전장을 끝내는 특화는 아닙니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 메딕과 스카우트는 중반부터 빛난다
 
 메딕은 생존 안정성을 크게 올려 주고, 스카우트는 어드밴티지 관리와 보조 능력이 좋아 분대 전체 성능을 끌어올립니다. 둘 다 분명히 강하지만, 초보자 입장에서는 직접적인 화력 체감이 덜할 수 있습니다.
@@ -61,6 +84,17 @@ hideDescription: true
 샤프슈터는 장거리 정밀 사격이 매력이고, 건슬링어는 빠른 공격 리듬이 재미있습니다. 둘 다 분명 손에 맞으면 강하지만, 자리 선정과 행동 순서 이해도가 어느 정도 필요합니다.
 
 그래서 첫 회차에서는 메인으로 잡기보다 서브 캐릭터로 체험해 보는 편이 편할 수 있습니다. 게임 감각이 잡힌 뒤 주력으로 써도 늦지 않습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 7. 시작 특화의 정답은 편하게 배우는 것
 

@@ -20,6 +20,11 @@ hideDescription: true
 draft: true
 ---
 
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>포켓몬 포코피아의 두 번째 확장 콘텐츠가 올해 안에 추가됩니다. 포켓몬 포코피아 두 번째 DLC, 새 지역보다 꾸미기에 집중한 이유 게임 뉴스는 발표 내용보다 플레이어가 무엇을 얻고 무엇을 더 기다려야 하는지가 핵심이죠.</p>
+</div>
+
 포켓몬 포코피아의 두 번째 확장 콘텐츠가 올해 안에 추가됩니다.
 
 첫 확장에서 새 지역을 열었다면 이번에는 액세서리와 일부 신규 포켓몬이 중심입니다.
@@ -54,6 +59,17 @@ draft: true
 
 익숙해진 뒤에도 선택지가 늘었다고 느껴지는지, 아니면 해야 할 조작만 늘어났는지가 결국 완성도를 가르게 됩니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 첫 DLC와 방향이 다르다
 
 첫 확장은 버블리 베이슨이라는 새 생물군계를 추가했습니다.
@@ -85,6 +101,17 @@ draft: true
 결국 좋은 후속작과 리메이크는 기억 속 장점을 남기면서 지금 플레이하기 불편한 부분만 정확히 걷어냅니다.
 
 이번 변화도 그 균형을 얼마나 잘 잡았는지가 장기 평가에 더 중요합니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 가격과 전체 구성을 봐야 한다
 

@@ -1,5 +1,6 @@
 ---
 title: "메이플 키우기 아레나·퀵 헌트: 순위 올리는 전투 설정"
+draft: true
 description: "메이플 키우기 아레나와 퀵 헌트 공략입니다. 순위 경쟁에서 승차를 가르는 프리셋 구성과, 퀵 헌트로 경험치를 추가 수급하는 방법을 정리했습니다."
 date: 2026-09-02
 updated: 2026-09-02
@@ -37,6 +38,17 @@ hideDescription: true
 
 사냥과 아레나 전용 프리셋을 분리해 두고, 아레나 진입 시 바로 전환하는 것이 좋습니다. 프리셋 전환만으로도 같은 전투력에서 상대하기 쉬워질 수 있습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 상대 세팅 분석
 
 아레나에서 상대 목록이 나올 때, 전투력만 보고 진입하면 의외의 패배가 생깁니다. 상대가 어떤 스킬 구성을 쓰는지와 보유 동료 조합을 같이 확인하는 것이 중요합니다.
@@ -48,6 +60,17 @@ hideDescription: true
 퀵 헌트는 자동 사냥과 별개로 경험치를 채울 수 있는 기능입니다. 아레나나 던전 사이에 활용하면 방치 시간에 경험치가 더 쌓이게 됩니다.
 
 입장 횟수나 제약이 있다면, 그 제약을 기억해 상한까지 남김없이 소모하는 것을 추천합니다. 남는 시간에 퀵 헌트를 리필해 두면 레벨 성장이 전반적으로 빨라집니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 순위 경쟁에서의 일일 루틴
 
@@ -61,3 +84,13 @@ hideDescription: true
 
 일상 루틴에는 퀵 헌트를 비워 두고, 아레나 도전 횟수를 꾸준히 소진하는 습관을 만들면 사냥과 대결 성장이 함께 진행됩니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

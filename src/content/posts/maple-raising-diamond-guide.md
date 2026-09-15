@@ -1,5 +1,6 @@
 ---
 title: "메이플 키우기 무과금 다이아 모으기: 수급처와 지출 순서"
+draft: true
 description: "메이플 키우기 무과금 유저를 위한 다이아 수급처 총정리입니다. 일일 보상과 광고에서 얼마나 모으는지, 모은 다이아를 어디에 먼저 쓰면 좋은지 정리했습니다."
 date: 2026-09-02
 updated: 2026-09-02
@@ -37,6 +38,17 @@ hideDescription: true
 
 물론 광고 횟수에는 하루 제한이 있습니다. 제한을 모두 사용할 필요는 없지만, 최소한 보상 배율이 높은 광고(골드·경험치 부스트)는 꼭 소진하는 것이 추천됩니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 이벤트와 출석 특별 보상
 
 정기 이벤트는 무과금 계정이 다이아를 크게 채우는 시기입니다. 출석 일수에 따른 특별 보상과 이벤트 미션 보상이 겹치는 기간에는 수급량이 평소보다 확 늘어납니다.
@@ -48,6 +60,17 @@ hideDescription: true
 일주일 단위로 초기화되는 보상도 있습니다. 길드 콘텐츠나 아레나 순위 보상처럼 주간 단위로 지급되는 항목은 수령 일자를 확인해 순서를 맞추어야 합니다.
 
 월 단위로 풀리는 패스류 보상은 무과금도 목표치를 정해두면 달성 가능한 선에서 설계되어 있습니다. 조건을 확인한 뒤 달성 가능한 구간까지는 채워두는 것이 좋습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 다이아 사용 우선순위
 
@@ -61,3 +84,13 @@ hideDescription: true
 
 쓸 때는 보유 효과 있는 영구 재화에 먼저 투자하고, 눈앞의 뽑기 자극은 참는 것이 장기 성장에 유리합니다. 한 달만 꾸준히 모아도 초반에 쓰기 부담스러운 수치가 쌓이므로, 초심 잃지 않고 관리하는 것이 핵심입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

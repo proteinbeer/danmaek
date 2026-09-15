@@ -31,7 +31,7 @@ hideDescription: true
 
 ## 1. 고스팅과 동시입력 제한
 
-키보드는 내부 행렬을 이용해 여러 키 입력을 구분합니다.
+키보드는 내부 행렬을 이용해 여러 키 입력을 구분하죠.
 
 설계에 따라 특정 조합에서 여러 키를 동시에 누르면 일부 입력을 정확히 구별하지 못할 수 있습니다.
 
@@ -41,7 +41,7 @@ hideDescription: true
 
 6키 동시입력이나 무한동시입력 같은 표현도 여기서 나옵니다.
 
-무한동시입력이라고 해도 연결 방식과 운영체제에 따라 실제 처리 방식은 달라질 수 있습니다.
+무한동시입력이라고 해도 연결 방식과 운영체제에 따라 실제 처리 방식은 달라질 수 있죠.
 
 ## 2. 메모장보다 키보드 테스트가 낫다
 
@@ -53,9 +53,20 @@ hideDescription: true
 
 W와 A를 누른 상태에서 스페이스와 쉬프트를 더했을 때 어느 키가 빠지는지 확인하시면 됩니다.
 
-다른 키 조합에서는 정상인데 특정 조합에서만 누락된다면 키보드 행렬 구조에 따른 제한일 가능성이 높습니다.
+다른 키 조합에서는 정상인데 특정 조합에서만 누락된다면 키보드 행렬 구조에 따른 제한일 가능성이 높죠.
 
 게임 설정을 아무리 바꿔도 물리적인 입력 구조는 바뀌지 않죠.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 3. USB와 블루투스에서 차이가 날 수 있다
 
@@ -77,7 +88,7 @@ W와 A를 누른 상태에서 스페이스와 쉬프트를 더했을 때 어느 
 
 그래서 사무용 키보드는 복잡한 동시입력보다 가격, 소음, 전력 효율을 우선하는 경우가 많죠.
 
-게임에서는 이동키와 달리기, 점프, 스킬을 동시에 누르는 상황이 흔합니다.
+게임에서는 이동키와 달리기, 점프, 스킬을 동시에 누르는 상황이 흔하죠.
 
 이 때문에 게이밍 키보드는 자주 사용하는 영역의 동시입력을 더 안정적으로 처리하도록 설계되는 경우가 많습니다.
 
@@ -85,13 +96,24 @@ W와 A를 누른 상태에서 스페이스와 쉬프트를 더했을 때 어느 
 
 특히 아주 저렴한 제품은 광고 문구와 실제 키 조합 지원 범위가 다를 수 있습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 게임 키 설정으로 우회할 수도 있다
 
 새 키보드를 바로 살 수 없다면 문제가 생기는 키 조합을 피하도록 단축키를 바꾸는 방법이 있습니다.
 
 예를 들어 왼쪽 쉬프트 대신 다른 보조키를 쓰거나 자주 겹치는 스킬 키를 마우스 측면 버튼으로 옮길 수 있죠.
 
-이 방법은 근본적인 동시입력 제한을 없애진 않지만 특정 게임에서는 충분한 해결책이 됩니다.
+이 방법은 근본적인 동시입력 제한을 없애진 않지만 특정 게임에서는 충분한 해결책이 되죠.
 
 다른 게임에서는 문제가 없다면 키보드를 바꾸기보다 키 배치만 조정하는 편이 합리적일 수도 있습니다.
 
@@ -105,11 +127,22 @@ W와 A를 누른 상태에서 스페이스와 쉬프트를 더했을 때 어느 
 
 결국 게임 중 한 번 씹힌 키가 사양표의 화려한 숫자보다 훨씬 크게 느껴지기 때문입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 7. 구매 전에 확인할 가장 현실적인 방법
 
 새 키보드를 고르신다면 무한동시입력이라는 문구만 보지 말고 실제 사용 모드별 지원 여부를 확인하시는 편이 좋습니다.
 
-유선에서는 넓게 지원하면서 블루투스에서는 제한되는 제품도 있기 때문입니다.
+유선에서는 넓게 지원하면서 블루투스에서는 제한되는 제품도 있기 때문이죠.
 
 가능하다면 자주 하는 게임의 키 조합을 미리 적어두고 제품 리뷰나 사용자 테스트에서 같은 조합이 정상인지 보시면 됩니다.
 

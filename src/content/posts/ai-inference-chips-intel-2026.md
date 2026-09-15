@@ -20,6 +20,11 @@ hideDescription: true
 draft: true
 ---
 
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>초고성능 AI 모델 경쟁의 속도를 늦추자는 논의가 커지면서 반도체 업계의 돈 흐름도 달라질 수 있다는 분석이 나왔습니다. 최첨단 모델 학습보다 이미 만들어진 모델을 실제 서비스에서 돌리는 추론 비중이 커지면 GPU 중심 구도에 변화가 생길 수 있... 결국 중요한 건 기술 이름보다 비용, 서비스 방식, 이용 선택지가 실제로 어떻게 달라지는지이죠.</p>
+</div>
+
 초고성능 AI 모델 경쟁의 속도를 늦추자는 논의가 커지면서 반도체 업계의 돈 흐름도 달라질 수 있다는 분석이 나왔습니다. 최첨단 모델 학습보다 이미 만들어진 모델을 실제 서비스에서 돌리는 추론 비중이 커지면 GPU 중심 구도에 변화가 생길 수 있습니다.
 
 흥미로운 점은 AI 투자가 줄어드는 것이 아니라 투자 목적이 바뀔 수 있다는 점입니다. 더 큰 모델을 만드는 데 쓰던 돈이 더 싸고 효율적으로 모델을 실행하는 서버와 칩으로 이동하면 지금까지 뒤처졌던 회사에도 기회가 생깁니다.
@@ -38,6 +43,17 @@ AI 모델 학습은 막대한 GPU와 전력을 한꺼번에 사용하지만 일�
 
 인텔처럼 데이터센터 CPU 기반이 큰 회사는 이런 변화에서 다시 역할을 넓힐 수 있습니다. 모든 AI 요청에 최고급 GPU가 필요한 것은 아니기 때문입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 비용이 기준
 
 클라우드 회사는 모델 정확도만큼 요청 한 건당 비용을 봅니다. 같은 품질의 응답을 더 낮은 전력과 더 싼 하드웨어에서 만들 수 있다면 전용 추론 칩의 가치가 커집니다.
@@ -50,6 +66,17 @@ AI 모델 학습은 막대한 GPU와 전력을 한꺼번에 사용하지만 일�
 
 다만 특정 업무만 처리하는 전용 칩이 충분히 싸다면 고객은 일부 워크로드를 다른 하드웨어로 옮길 수 있습니다. 작은 이동이 누적되면 데이터센터 칩 시장의 점유율 구조도 달라집니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. AI의 두 번째 단계
 
 지금까지 AI 투자 이야기는 거의 학습용 GPU와 대형 데이터센터 증설에 집중됐습니다. 앞으로는 같은 인프라를 얼마나 효율적으로 사용하는지가 더 중요한 주제가 될 수 있습니다.
@@ -61,6 +88,17 @@ AI 모델 학습은 막대한 GPU와 전력을 한꺼번에 사용하지만 일�
 추론 비중이 커진다고 엔비디아가 손해만 보는 것은 아닙니다. 엔비디아 역시 추론용 소프트웨어와 저전력 구성, 네트워크 제품을 계속 확대하고 있어 시장 변화에 대응할 수 있습니다.
 
 중요한 것은 경쟁자가 들어올 공간이 이전보다 커진다는 점입니다. 학습에서는 쿠다 호환성이 절대적인 장벽이었지만 추론은 비용 절감 효과가 분명하면 다른 칩을 시험할 이유가 생깁니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 7. 서버의 혼합
 
@@ -78,3 +116,13 @@ AI 모델의 성능 향상이 어느 정도 느려져도 기업의 자동화 수
 
 결국 AI 대중화의 승자는 가장 비싼 칩보다 가장 효율적인 조합을 만든 회사일 수 있습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

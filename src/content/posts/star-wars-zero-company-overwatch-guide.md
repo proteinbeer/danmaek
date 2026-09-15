@@ -1,5 +1,6 @@
 ---
 title: "스타워즈 제로 컴퍼니 오버워치 가이드, 이 기능을 아껴야 하는 순간"
+draft: true
 description: "스타워즈 제로 컴퍼니를 처음 하면 오버워치를 공격을 못 했을 때 남는 행동처럼 쓰기 쉽습니다. 그런데 실제로는 전투를 안정시키는 핵심 도구라서, 잘 쓰는 사람과 못 쓰는 사람의 체감 난도가 크게 갈립니다."
 date: 2026-09-11
 updated: 2026-09-11
@@ -38,6 +39,17 @@ hideDescription: true
 
 반대로 넓은 공간 한가운데에서 오버워치를 마구 깔면 효율이 떨어집니다. 적 이동 경로가 다양할수록 통제력은 약해지기 때문입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 샤프슈터와 특히 잘 맞는다
 
 공식 특화 설명에서도 샤프슈터는 오버워치 명중률과 피해를 높이는 패시브를 갖습니다. 그래서 샤프슈터를 단순 저격수로만 쓰기보다, 구역 봉쇄 역할까지 함께 맡기면 체감이 훨씬 좋습니다.
@@ -50,6 +62,17 @@ hideDescription: true
 
 즉 공격용 기능이면서 동시에 보험 역할을 합니다. 전진 턴과 회복 턴을 구분해서 쓰시면 활용도가 크게 올라갑니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 과하게 믿으면 안 되는 이유
 
 오버워치는 강하지만 만능은 아닙니다. 목표 수행이 급한 미션이나 위치를 바꿔야 하는 전투에서는 기다리는 플레이가 오히려 손해일 수 있습니다.
@@ -61,6 +84,17 @@ hideDescription: true
 한 명의 오버워치보다 둘, 셋이 겹친 오버워치가 훨씬 강합니다. 적이 어느 길로 와도 맞을 수 있고, 살아남아도 후속 공격이 이어지기 때문입니다.
 
 다만 분대 전원이 오버워치만 보고 서 있으면 주도권이 떨어집니다. 그래서 핵심 구역 두세 개만 막고 나머지는 목표 압박으로 연결하는 방식이 좋습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 7. 좋은 오버워치는 쏘지 않아도 성공이다
 

@@ -1,5 +1,6 @@
 ---
 title: "스팀 가족 공유로 내 게임을 가족과 나누는 방법"
+draft: true
 description: "스팀 가족 공유(Family Sharing) 기능으로 내 라이브러리의 게임을 가족과 함께 쓰는 설정 방법과 주의할 점을 정리합니다."
 date: 2026-09-03
 updated: 2026-09-03
@@ -35,6 +36,17 @@ hideDescription: true
 
 가족을 만들 때는 **자녀 보호 설정**을 함께 정할 수 있습니다. 게임 시간 제한이나 특정 게임 차단 같은 기능을 켜면, 아이가 쓰는 기기에서는 더 안전하게 관리할 수 있습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 구성원 초대하고 이용하기
 
 가족 관리 화면에서 **구성원 초대**를 누르면 초대 링크가 만들어집니다. 상대방이 그 링크에 접속해 수락하면 가족 구성원으로 등록되고, 가족구성원 목록에서 각자의 라이브러리 공유 여부를 확인할 수 있죠.
@@ -46,6 +58,17 @@ hideDescription: true
 공유된 게임은 내가 오프라인 모드로 보유하거나 실행 중일 때 대부분 문제없이 이용할 수 있습니다. 다만 일부 온라인 전용 게임이나 안티치트 프로그램이 적용된 게임은 가족 공유가 제한될 수 있으니, 게임마다 지원 여부를 확인해야 합니다.
 
 또한 가족 구성원을 서로 신뢰할 수 있어야 합니다. 라이브러리가 공유되는 만큼 각자의 인앱 구매나 밴(이용 정지) 사유가 공유되지는 않지만, 게임 계정 자체는 철저히 분리되어 있으므로 비밀번호는 서로 공유하지 않는 것이 안전합니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 가족에서 나가기
 

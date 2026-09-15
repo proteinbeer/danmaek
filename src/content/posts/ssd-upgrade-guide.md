@@ -22,7 +22,7 @@ hideDescription: true
 
 부팅에 몇 분씩 걸리는 PC라면 가장 큰 개선을 보여주는 업그레이드가 SSD 교체입니다. 기계식 하드디스크(HDD)를 SSD로 바꾸면 부팅과 프로그램 실행 속도가 확연히 달라지죠.
 
-설치 자체는 어렵지 않지만, 어떤 SSD를 고를지와 기존 데이터를 어떻게 옮길지가 관건입니다. 종류 선택부터 복제, 장착 순서까지 아래에 정리했습니다.
+설치 자체는 어렵지 않지만, 어떤 SSD를 고를지와 기존 데이터를 어떻게 옮길지가 관건입니다. 종류 선택부터 복제, 장착 순서까지 아래에 정리했죠.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/hero-bloom.jpg" alt="SSD를 장착해 업그레이드하는 데스크톱 PC" width="1200" height="675" loading="lazy" decoding="async" />
 
@@ -37,15 +37,27 @@ SSD는 크게 두 가지 형태로 나뉩니다. PC에 맞는 타입을 골라�
 
 ## 2. 기존 데이터 옮기기(복제) vs 새로 설치
 
-데이터를 옮기는 방식은 복제와 새 설치 두 가지입니다.
+데이터를 옮기는 방식은 복제와 새 설치 두 가지이죠.
 
 - **복제(클로닝)**: 기존 HDD의 내용을 그대로 새 SSD로 복사합니다. 운영체제, 프로그램, 파일까지 모두 옮겨져 별도 설정이 필요 없죠.
 - **새로 설치**: 윈도우를 깨끗하게 다시 설치하고 프로그램만 다시 깔아야 합니다. 오래된 찌꺼기가 없어지는 장점이 있습니다.
 
 복제는 무료 도구로도 가능합니다. 복제 소프트웨어는 대부분 새 SSD의 용량이 기존 파티션보다 커야 원활합니다. 새로 설치를 선택했다면 윈도우 11 설치 USB를 미리 준비해 두십시오.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 데스크톱 SSD 교체 순서
 
-데스크톱은 본체를 열고 나사 몇 개로 교체할 수 있습니다.
+데스크톱은 본체를 열고 나사 몇 개로 교체할 수 있죠.
 
 1. 전원을 완전히 끄고 **전원 케이블을 뽑은 뒤** 본체 패널을 엽니다.
 2. M.2라면 슬롯에 **금 접점 방향**을 맞춰 살짝 밀어 넣고 나사로 고정합니다.
@@ -64,6 +76,17 @@ SSD는 크게 두 가지 형태로 나뉩니다. PC에 맞는 타입을 골라�
 
 노트북 지원 SSD 규격(SATA 또는 NVMe)은 제조사 공식 사양표에서 확인한 뒤 구매하시기 바랍니다. 슬롯 규격이 안 맞으면 장착 자체가 불가능하죠.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 기존 HDD를 보조 저장공간으로 살리기
 
 교체 후에도 기존 HDD는 그대로 두면 부가 저장공간으로 쓸 수 있습니다.
@@ -76,7 +99,7 @@ SSD는 크게 두 가지 형태로 나뉩니다. PC에 맞는 타입을 골라�
 
 ## 6. 교체 후 확인할 것
 
-교체가 끝나면 정상 동작 여부를 몇 가지로 확인합니다.
+교체가 끝나면 정상 동작 여부를 몇 가지로 확인하죠.
 
 - 부팅 시간이 확 줄었는지, 디스크 사용률이 100%에 붙어 있지 않은지 확인합니다.
 - **작업 관리자 → 성능 → 디스크**에서 새 SSD가 정상 인식됐는지 봅니다.
@@ -84,3 +107,13 @@ SSD는 크게 두 가지 형태로 나뉩니다. PC에 맞는 타입을 골라�
 
 부팅과 프로그램 실행이 눈에 띄게 빨라지는 것이 정상입니다. 그래도 느리다면 다른 부품(메모리, CPU)이 병목인지 순서대로 점검해보시기 바랍니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

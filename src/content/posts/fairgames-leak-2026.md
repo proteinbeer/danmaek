@@ -20,6 +20,11 @@ hideDescription: true
 draft: true
 ---
 
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>몇 년 동안 거의 모습을 드러내지 않았던 플레이스테이션의 페어게임즈가 뜻밖의 경로에서 다시 나타났습니다. 페어게임즈 플레이 영상이 유출됐다, 프로젝트 에스프레소 정체는 무엇일까? 그런데 피해 규모보다 어떤 정보가 새어 나갔고 이후 어떤 연락을 조심해야 하는지가 더 중요해 보이죠.</p>
+</div>
+
 몇 년 동안 거의 모습을 드러내지 않았던 플레이스테이션의 페어게임즈가 뜻밖의 경로에서 다시 나타났습니다.
 
 플레이테스트 사이트에 프로젝트 에스프레소라는 이름의 영상과 설명이 올라왔고 이용자들은 이를 페어게임즈와 연결하고 있습니다.
@@ -58,6 +63,17 @@ draft: true
 
 아직 그래도 계정 조건만으로 작품명을 확정하는 것은 이릅니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 오랜 침묵 뒤 첫 실마리
 
 페어게임즈는 2023년 발표 이후 실제 게임 장면이 거의 공개되지 않았습니다.
@@ -85,6 +101,17 @@ draft: true
 현재는 새 설명은 그 콘셉트를 보다 시스템 중심으로 구체화한 모습입니다.
 
 장르 경쟁이 치열한 만큼 차별화된 진행 구조가 있는지가 중요합니다라는 점은 함께 보셔야 합니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 유출보다 중요한 공식 재등장
 
@@ -114,3 +141,13 @@ draft: true
 
 결국 지금 단계에서는 화제성보다 실제 제품과 서비스가 어떻게 달라지는지 확인하는 것이 가장 현실적인 접근입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

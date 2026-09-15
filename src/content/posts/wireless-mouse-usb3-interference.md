@@ -31,7 +31,7 @@ USB 3.0 장치와 케이블은 특정 조건에서 2.4GHz 무선 장치에 간�
 
 ## 1. USB 3.0과 2.4GHz 간섭
 
-많은 무선 마우스와 키보드는 2.4GHz 대역을 이용하는 전용 수신기를 사용합니다.
+많은 무선 마우스와 키보드는 2.4GHz 대역을 이용하는 전용 수신기를 사용하죠.
 
 USB 3.0 장치나 케이블에서 생기는 전자파 잡음이 수신기와 가까우면 같은 대역의 무선 통신을 방해할 수 있죠.
 
@@ -47,11 +47,22 @@ USB 3.0 장치나 케이블에서 생기는 전자파 잡음이 수신기와 가
 
 마우스에 수신기 연장 어댑터가 포함돼 있다면 책상 위 가까운 곳으로 옮겨보시면 됩니다.
 
-수신기와 마우스 사이 거리를 줄이는 것만으로도 연결이 눈에 띄게 안정되는 경우가 많습니다.
+수신기와 마우스 사이 거리를 줄이는 것만으로도 연결이 눈에 띄게 안정되는 경우가 많죠.
 
 연장 케이블이 없다면 앞쪽 USB 포트나 다른 위치의 포트로 옮겨 비교해보셔도 됩니다.
 
 핵심은 포트의 속도보다 수신기 주변 환경을 바꿔보는 것입니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 3. USB 2.0 포트가 오히려 유리할 수 있다
 
@@ -63,7 +74,7 @@ USB 3.0 장치나 케이블에서 생기는 전자파 잡음이 수신기와 가
 
 수신기와 고속 장치 사이를 몇 포트 이상 떨어뜨리는 것만으로 차이가 날 수 있죠.
 
-블루투스 마우스도 같은 2.4GHz 대역을 사용하기 때문에 주변 간섭 영향을 받을 수 있습니다.
+블루투스 마우스도 같은 2.4GHz 대역을 사용하기 때문에 주변 간섭 영향을 받을 수 있죠.
 
 다만 블루투스는 전용 수신기 위치를 직접 옮길 수 없는 경우가 많아 PC 안테나와 드라이버 상태까지 함께 확인해야 합니다.
 
@@ -75,11 +86,22 @@ USB 3.0 장치나 케이블에서 생기는 전자파 잡음이 수신기와 가
 
 배터리를 바꿔도 특정 USB 장치를 꽂을 때만 문제가 생긴다면 간섭 가능성이 올라갑니다.
 
-반대로 어떤 PC와 어떤 포트에서도 동일하게 끊긴다면 센서나 스위치, 무선 모듈 자체 문제도 생각해야 합니다.
+반대로 어떤 PC와 어떤 포트에서도 동일하게 끊긴다면 센서나 스위치, 무선 모듈 자체 문제도 생각해야 하죠.
 
 가능하다면 노트북이나 다른 PC에 마우스를 연결해 비교해보시면 좋습니다.
 
 장소가 바뀌자마자 증상이 사라지면 마우스보다 기존 PC 주변 환경을 먼저 봐야 합니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 공유기와 다른 무선 장치도 확인
 
@@ -89,7 +111,7 @@ USB 3.0 장치나 케이블에서 생기는 전자파 잡음이 수신기와 가
 
 공유기는 가능하면 PC 바로 옆보다 약간 거리를 두는 편이 좋습니다.
 
-PC 인터넷이 5GHz나 6GHz 와이파이를 지원한다면 그 대역을 사용하는 것도 주변 2.4GHz 혼잡을 줄이는 데 도움이 됩니다.
+PC 인터넷이 5GHz나 6GHz 와이파이를 지원한다면 그 대역을 사용하는 것도 주변 2.4GHz 혼잡을 줄이는 데 도움이 되죠.
 
 ## 6. 마우스를 바꾸기 전에 할 테스트
 
@@ -101,11 +123,22 @@ PC 인터넷이 5GHz나 6GHz 와이파이를 지원한다면 그 대역을 사�
 
 수십만원짜리 마우스도 동글이 본체 뒤 구석에서 간섭을 받고 있다면 좋은 센서와 낮은 지연이 아무 의미가 없어지기 때문입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 7. 증상을 기록하면 원인이 빨리 보인다
 
 끊김이 생기는 시간과 연결 장치를 같이 기록해두시면 패턴을 찾기 쉽습니다.
 
-외장 SSD로 파일을 복사할 때만 심해지는지, 게임 중에만 나타나는지, 수신기 거리를 줄이면 바로 좋아지는지를 비교하시면 됩니다.
+외장 SSD로 파일을 복사할 때만 심해지는지, 게임 중에만 나타나는지, 수신기 거리를 줄이면 바로 좋아지는지를 비교하시면 되죠.
 
 무선 문제는 재현 조건을 찾지 못하면 멀쩡한 장치를 계속 교체하게 되기 쉽습니다.
 

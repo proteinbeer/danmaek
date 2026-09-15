@@ -15,7 +15,6 @@ const canonical = new URL(`/posts/${post.id}/`, SITE.url).toString();
 const updated = data.updated ?? data.date;
 const subList = data.category === '가이드' ? GUIDE_SUBCATEGORIES : data.category === '쿠폰' ? COUPON_SUBCATEGORIES : NEWS_SUBCATEGORIES;
 const sub = data.subcategory ? subList.find((s) => s.name === data.subcategory) : null;
-const hasCoupangAffiliate = data.affiliate === 'coupang';
 const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'BlogPosting',
@@ -93,7 +92,7 @@ const breadcrumbLd = {
             </a>
           )}
         </nav>
-        {hasCoupangAffiliate && <div class="coupang-banner">
+        <div class="coupang-banner">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
 <script is:inline src="https://ads-partners.coupang.com/g.js"></script>
 <script is:inline>
@@ -101,7 +100,7 @@ const breadcrumbLd = {
 	new PartnersCoupang.G({"id":1021235,"trackingCode":"AF7638395","subId":null,"template":"carousel","width":"662","height":"140"});
 </script>
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-        </div>}
+        </div>
       </article>
       <div style="text-align:center; padding-top:22px;">
         <a class="button-link" href="#top" style="display:inline-flex;">맨 위로 ↑</a>

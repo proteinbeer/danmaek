@@ -34,7 +34,7 @@ PS5를 처음 켜면 기본 설정만으로도 잘 작동하지만, 화질과 �
 - **해상도**가 화면 해상도(4K 또는 1440p)와 일치하는지 확인합니다.
 - TV가 HDMI 2.1을 지원한다면 **HDR 자동**과 높은 주사율 출력 옵션이 활성화됩니다.
 
-HDMI 포트도 TV의 **HDMI 2.1(게임 전용) 포트**에 연결하는 것이 좋습니다. 장비를 인식하지 못하면 최적 옵션이 비활성화되기 때문입니다.
+HDMI 포트도 TV의 **HDMI 2.1(게임 전용) 포트**에 연결하는 것이 좋죠. 장비를 인식하지 못하면 최적 옵션이 비활성화되기 때문입니다.
 
 ## 2. VRR(가변 주사율) 켜기
 
@@ -46,6 +46,17 @@ HDMI 포트도 TV의 **HDMI 2.1(게임 전용) 포트**에 연결하는 것이 �
 
 VRR은 설정 화면에서 **디스플레이 정보 확인**을 눌러 지원 여부를 바로 알 수 있습니다. 해당 항목이 회색이면 기기 문제보다 연결 포트를 먼저 점검해보시기 바랍니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 120Hz 출력 활용
 
 신작 게임에서 120FPS를 지원한다면 120Hz 출력을 활성화할 때입니다.
@@ -54,7 +65,7 @@ VRR은 설정 화면에서 **디스플레이 정보 확인**을 눌러 지원 �
 - 120Hz 모드가 기본인 게임은 그대로 켜지고, 게임 내 설정에서 **성능 모드(120Hz)**를 고르는 타이틀도 있습니다.
 - 120Hz를 제대로 쓰려면 TV가 **HDMI 2.1 120Hz**를 지원하는 것이 이상적입니다.
 
-케이블도 HDMI 2.1(울트라 하이 스피드) 인증 제품을 쓰는 것이 좋습니다. 저속 케이블은 신호가 불안정해 120Hz 모드가 켜지지 않는 원인이 되죠.
+케이블도 HDMI 2.1(울트라 하이 스피드) 인증 제품을 쓰는 것이 좋죠. 저속 케이블은 신호가 불안정해 120Hz 모드가 켜지지 않는 원인이 되죠.
 
 ## 4. 게임별 성능·해상도 모드
 
@@ -64,7 +75,18 @@ VRR은 설정 화면에서 **디스플레이 정보 확인**을 눌러 지원 �
 - 대부분의 최신 게임은 **성능 모드(60FPS)**와 **해상도 모드(4K)** 중 하나를 제공합니다.
 - 빠른 반응이 중요한 때는 성능 모드, 깊은 그래픽을 감상하고 싶을 때는 해상도 모드가 어울립니다.
 
-게임 내 옵션에서도 바로 바꿀 수 있습니다. 타격감이 중요한 액션·슈팅은 프레임 우선이 유리하고, 어드벤처는 화질 우선도 충분합니다.
+게임 내 옵션에서도 바로 바꿀 수 있습니다. 타격감이 중요한 액션·슈팅은 프레임 우선이 유리하고, 어드벤처는 화질 우선도 충분하죠.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 기본 화질·컨트롤러 설정
 
@@ -84,5 +106,15 @@ VRR은 설정 화면에서 **디스플레이 정보 확인**을 눌러 지원 �
 - 휴식 모드에서 **업데이트 자동 설치**를 켜두면 새 게임과 시스템 업데이트가 편하게 준비되어 있습니다.
 - **게임 자동 업데이트**와 **번들 콘텐츠 자동 업데이트**는 게임을 자주 하는 분께 편리합니다.
 
-휴식 모드는 대기상태보다 전력을 더 쓰므로, 장시간 안 쓸 땐 완전히 끄는 것도 좋습니다. 업데이트와 절전의 균형은 생활 패턴에 맞추면 됩니다.
+휴식 모드는 대기상태보다 전력을 더 쓰므로, 장시간 안 쓸 땐 완전히 끄는 것도 좋죠. 업데이트와 절전의 균형은 생활 패턴에 맞추면 됩니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

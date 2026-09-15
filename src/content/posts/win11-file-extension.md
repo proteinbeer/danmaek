@@ -25,7 +25,7 @@ hideDescription: true
 
 확장자는 파일이 어떤 형식인지 알려주는 이름의 마지막 부분입니다.
 
-같은 이름처럼 보여도 이미지인지 실행 파일인지 구분하는 데 중요한 단서가 됩니다.
+같은 이름처럼 보여도 이미지인지 실행 파일인지 구분하는 데 중요한 단서가 되죠.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/hero-bloom.jpg" alt="파일 확장자가 표시된 탐색기 화면" width="1280" height="720" loading="lazy" decoding="async" />
 
@@ -37,7 +37,7 @@ hideDescription: true
 
 문제는 아이콘만으로 모든 파일을 정확히 구분하기 어렵다는 데 있습니다.
 
-비슷한 프로그램이 여러 개 설치돼 있거나 아이콘이 바뀌면 같은 이름의 파일이 무엇인지 헷갈릴 수 있습니다.
+비슷한 프로그램이 여러 개 설치돼 있거나 아이콘이 바뀌면 같은 이름의 파일이 무엇인지 헷갈릴 수 있죠.
 
 다운로드한 파일을 정리할 때도 확장자가 보이면 판단이 빨라집니다.
 
@@ -53,9 +53,20 @@ hideDescription: true
 
 원래 존재하던 확장자를 화면에서 보이게 할 뿐이라 데이터나 프로그램 동작에는 영향을 주지 않습니다.
 
-다시 숨기고 싶다면 같은 위치에서 표시를 끄면 됩니다.
+다시 숨기고 싶다면 같은 위치에서 표시를 끄면 되죠.
 
 저는 파일을 조금이라도 자주 내려받는 PC라면 계속 켜두는 쪽이 더 낫다고 봅니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 3. 이름 바꿀 때 더 조심해야 한다
 
@@ -63,7 +74,7 @@ hideDescription: true
 
 이때 확장자 부분을 실수로 지우거나 다른 글자로 바꾸면 윈도우가 어떤 프로그램으로 열어야 하는지 판단하지 못할 수 있습니다.
 
-파일 이름만 바꾸실 때는 마지막 점 뒤의 확장자는 그대로 두는 편이 안전합니다.
+파일 이름만 바꾸실 때는 마지막 점 뒤의 확장자는 그대로 두는 편이 안전하죠.
 
 확장자를 바꾼다고 실제 파일 형식이 변환되는 것도 아닙니다.
 
@@ -73,17 +84,28 @@ hideDescription: true
 
 ## 4. 보안에서도 확장자가 중요한 이유
 
-확장자를 숨기면 문서나 사진처럼 보이는 이름 뒤에 실행 파일 형식이 붙어 있어도 바로 알아보기 어렵습니다.
+확장자를 숨기면 문서나 사진처럼 보이는 이름 뒤에 실행 파일 형식이 붙어 있어도 바로 알아보기 어렵죠.
 
 파일 아이콘과 이름만 믿고 실행하는 습관이 위험할 수 있는 이유입니다.
 
 메일이나 메신저에서 받은 낯선 파일은 확장자부터 확인하는 습관이 좋습니다.
 
-특히 실행 가능한 형식이 예상하지 못한 곳에서 왔다면 바로 열지 말고 출처를 다시 확인해야 합니다.
+특히 실행 가능한 형식이 예상하지 못한 곳에서 왔다면 바로 열지 말고 출처를 다시 확인해야 하죠.
 
 확장자 표시가 보안 프로그램을 대신하는 것은 아닙니다.
 
 다만 사용자가 파일의 정체를 한번 더 확인할 수 있게 만들어 실수를 줄이는 아주 간단한 장치가 되죠.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 같은 이름 파일을 찾을 때 더 편하다
 
@@ -93,7 +115,7 @@ hideDescription: true
 
 웹에서 이미지를 내려받을 때도 실제 형식을 확인하기 쉬워집니다.
 
-겉보기에는 사진인데 예상과 다른 형식이라 편집 프로그램에서 열리지 않는 상황도 빠르게 원인을 찾을 수 있습니다.
+겉보기에는 사진인데 예상과 다른 형식이라 편집 프로그램에서 열리지 않는 상황도 빠르게 원인을 찾을 수 있죠.
 
 윈도우를 깔끔하게 보이게 만드는 설정과 실제 작업을 편하게 만드는 설정은 항상 같지 않습니다.
 
@@ -109,7 +131,17 @@ hideDescription: true
 
 문서가 안 열린다는 질문을 받을 때 파일 이름만 보는 것보다 확장자를 확인하면 어떤 프로그램이 필요한지 판단하기 빠릅니다.
 
-처음에는 파일 이름이 길어져 지저분해 보일 수 있습니다.
+처음에는 파일 이름이 길어져 지저분해 보일 수 있죠.
 
 하지만 며칠만 사용하면 오히려 확장자가 없는 파일 목록이 답답하게 느껴질 만큼 실용적인 정보가 됩니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

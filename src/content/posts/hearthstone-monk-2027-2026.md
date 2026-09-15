@@ -20,6 +20,11 @@ hideDescription: true
 draft: true
 ---
 
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>하스스톤에 수도사가 신규 직업으로 추가됩니다. 2027년 3월 등장 예정이며 블리자드는 6년 만에 추가되는 새로운 플레이 가능 직업이라고 밝혔습니다. 게임 뉴스는 발표 내용보다 플레이어가 무엇을 얻고 무엇을 더 기다려야 하는지가 핵심이죠.</p>
+</div>
+
 하스스톤에 수도사가 신규 직업으로 추가됩니다. 2027년 3월 등장 예정이며 블리자드는 6년 만에 추가되는 새로운 플레이 가능 직업이라고 밝혔습니다.
 
 이번 소식은 단순한 업데이트 한 줄보다 앞으로의 운영 방향과 이용 경험을 같이 보여주는 변화에 가깝습니다. 현재 확인된 사실과 아직 해석이 필요한 부분을 나눠서 보겠습니다.
@@ -38,6 +43,17 @@ draft: true
 
 새 결정은 이전 콘텐츠의 반응과 시장 변화가 쌓인 결과인 경우가 많습니다. 과거 방식에서 무엇이 부족했는지 보면 이번 선택이 해결하려는 문제가 더 선명하게 보입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 흐르는 전투를 카드로 옮기는 방법
 
 직업 수가 늘어나면 선택지는 많아지지만 밸런스 관리도 어려워집니다. 특정 직업이 오랫동안 약하거나 강한 상태로 남으면 카드 출시 전체가 그 직업을 맞추는 방향으로 끌려갈 수 있습니다.
@@ -53,6 +69,17 @@ draft: true
 새 직업은 확장팩 하나의 재미보다 앞으로 수년간 카드 설계에 영향을 줍니다. 처음부터 너무 많은 역할을 가져가면 다른 직업과 영역이 겹칠 수 있어 무엇을 잘하고 무엇을 못하게 할지 경계를 만드는 작업이 중요합니다.
 
 개인적으로는 이 부분이 가장 흥미롭습니다. 작은 방향 변화가 다른 작품과 서비스에도 반복될 때 일회성 실험이 아니라 회사 전체 전략으로 굳어지는 경우가 많기 때문이죠.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 영웅 능력과 기본 카드가 핵심
 

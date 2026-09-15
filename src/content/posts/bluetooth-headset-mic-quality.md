@@ -35,7 +35,7 @@ hideDescription: true
 
 마이크를 쓰기 시작하면 음성을 양방향으로 보내기 위해 재생 품질을 낮추는 방식이 흔하죠.
 
-그래서 음악만 들을 때는 넓고 깨끗한 스테레오였는데 음성채팅을 켜자 갑자기 좁고 거친 소리로 바뀔 수 있습니다.
+그래서 음악만 들을 때는 넓고 깨끗한 스테레오였는데 음성채팅을 켜자 갑자기 좁고 거친 소리로 바뀔 수 있죠.
 
 이 현상은 특정 게임이나 디스코드만의 문제가 아닐 수 있습니다.
 
@@ -45,9 +45,20 @@ hideDescription: true
 
 헤드셋은 출력 전용으로 사용하고 마이크는 다른 장치에 맡기면 고음질 재생 상태를 유지하기 쉬운 환경이 있습니다.
 
-게임 방송이나 장시간 음성채팅을 자주 하신다면 이 구성이 오히려 편할 수 있습니다.
+게임 방송이나 장시간 음성채팅을 자주 하신다면 이 구성이 오히려 편할 수 있죠.
 
 무선 헤드셋의 편리함은 유지하면서 마이크 품질도 별도 장치로 끌어올릴 수 있죠.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 3. 윈도우 11의 블루투스 LE 오디오
 
@@ -59,7 +70,7 @@ hideDescription: true
 
 PC의 블루투스 하드웨어와 제조사 드라이버, 헤드셋이 모두 LE 오디오와 필요한 기능을 지원해야 합니다.
 
-설정, 블루투스 및 장치, 장치에서 가능한 경우 LE 오디오 사용 항목이 있는지 확인할 수 있습니다.
+설정, 블루투스 및 장치, 장치에서 가능한 경우 LE 오디오 사용 항목이 있는지 확인할 수 있죠.
 
 이 항목이 보이지 않는다면 현재 PC에서 지원하지 않거나 필요한 드라이버가 준비되지 않았을 수 있습니다.
 
@@ -73,9 +84,20 @@ LE 오디오 기능은 블루투스 칩과 오디오 드라이버 지원에 영�
 
 특히 새 기능이 추가된 뒤에는 범용 드라이버보다 제조사 드라이버가 먼저 필요한 경우가 있습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 게임용 무선 헤드셋이 전용 동글을 쓰는 이유
 
-게임용 무선 헤드셋 상당수는 블루투스 대신 2.4GHz 전용 수신기를 제공합니다.
+게임용 무선 헤드셋 상당수는 블루투스 대신 2.4GHz 전용 수신기를 제공하죠.
 
 낮은 지연과 양방향 음성 품질을 게임에 맞게 설계하기 쉬워서죠.
 
@@ -91,7 +113,18 @@ LE 오디오 기능은 블루투스 칩과 오디오 드라이버 지원에 영�
 
 마이크를 사용하지 않는 게임에서도 음성채팅 기능이 백그라운드에서 헤드셋 마이크를 열면 소리가 바뀔 수 있습니다.
 
-입력 장치를 다른 마이크로 지정하거나 음성채팅을 끄고 차이가 나는지 비교해보시면 좋습니다.
+입력 장치를 다른 마이크로 지정하거나 음성채팅을 끄고 차이가 나는지 비교해보시면 좋죠.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 7. 고장이 아니라 연결 방식의 한계일 수 있다
 
@@ -105,7 +138,7 @@ LE 오디오 기능은 블루투스 칩과 오디오 드라이버 지원에 영�
 
 스마트폰에서는 통화 품질이 괜찮은데 PC에서만 나쁘다면 헤드셋보다 PC 쪽 지원 범위를 먼저 보셔야 합니다.
 
-같은 블루투스 버전 숫자를 표시해도 LE 오디오와 스테레오 마이크 재생까지 지원하는지는 별도 조건이기 때문입니다.
+같은 블루투스 버전 숫자를 표시해도 LE 오디오와 스테레오 마이크 재생까지 지원하는지는 별도 조건이기 때문이죠.
 
 새 USB 블루투스 동글을 추가한다고 최신 기능이 자동으로 생기는 것도 아닙니다.
 

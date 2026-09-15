@@ -1,5 +1,6 @@
 ---
 title: "워독스 초보자 가이드, 첫 1만 달러를 함부로 쓰면 안 된다"
+draft: true
 description: "워독스를 처음 시작하면 1만 달러가 주어지고 이 돈은 경기 사이에도 유지됩니다. 좋은 총과 차량을 바로 사고 싶어도 첫 몇 판은 돈을 쓰는 게임보다 돈을 잃지 않는 게임으로 접근하는 편이 안전합니다."
 date: 2026-09-10
 updated: 2026-09-10
@@ -35,6 +36,17 @@ hideDescription: true
 
 처음에는 기본적인 무기와 장비로 교전 거리를 익힙니다. 어디서 자주 죽는지 알게 되면 그다음 돈을 쓸 이유도 분명해집니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 팀플레이 수입
 
 워독스는 부활, 팀원 수송, 거점 통제 같은 행동에도 현금을 줍니다. 총싸움에서 밀리더라도 팀에 필요한 행동을 하면 자금을 회복할 수 있습니다.
@@ -46,6 +58,17 @@ hideDescription: true
 탱크와 헬리콥터는 강해 보이지만 가격이 큰 장비일수록 잃었을 때 부담도 큽니다.
 
 처음에는 다른 플레이어 차량에 타서 이동 경로와 역할을 보는 편이 좋습니다. 수송만 잘해도 팀플레이 보상을 받을 수 있습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 돈을 남기는 전략
 
@@ -59,3 +82,13 @@ hideDescription: true
 
 저라면 첫 1만 달러를 쇼핑 비용보다 학습 비용으로 보겠습니다. 몇 판 동안 지출을 작게 유지하면 자신에게 돈이 되는 역할이 자연스럽게 보입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

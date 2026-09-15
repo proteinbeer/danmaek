@@ -1,5 +1,6 @@
 ---
 title: "라이프 이즈 스트레인지 만든 돈노드, 내년 1월 이후를 장담 못 하는 이유"
+draft: true
 description: "라이프 이즈 스트레인지로 이름을 남긴 돈노드가 2027년 1월 31일 이후 사업 지속에 중대한 불확실성이 있다고 밝혔습니다. 최대 90명 감원 검토 소식과 유명 스튜디오도 흔들리는 업계 구조를 정리했습니다."
 date: 2026-09-09
 updated: 2026-09-09
@@ -20,6 +21,11 @@ hideHeroImage: true
 hideDescription: true
 ---
 
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>라이프 이즈 스트레인지로 이름을 남긴 돈노드가 2027년 1월 31일 이후 사업 지속에 중대한 불확실성이 있다고 밝혔습니다. 최대 90명 감원 검토 소식과 유명 스튜디오도 흔들리는 업계 구조를 정리했습니다. 게임 뉴스는 발표 내용보다 플레이어가 무엇을 얻고 무엇을 더 기다려야 하는지가 핵심이죠.</p>
+</div>
+
 라이프 이즈 스트레인지를 기억하는 사람이라면 돈노드라는 이름이 아직 꽤 선명할 것입니다. 그런데 이번에는 신작 이야기가 아니라 회사가 내년 1월 이후를 장담하기 어렵다는 소식이 나왔습니다.
 
 보도에 따르면 돈노드는 자금 사정 때문에 2027년 1월 31일 이후 사업을 이어갈 수 있을지 중대한 불확실성이 있다고 밝혔습니다. 동시에 최대 90명 감원 가능성도 검토 중인 것으로 전해졌습니다.
@@ -38,6 +44,17 @@ hideDescription: true
 
 이 대목이 중요합니다. 지금 게임 업계의 위기는 개발 의지가 없는 회사의 문제가 아니라, 개발하고 있어도 수익이 늦게 돌아오면 버티기 힘든 구조의 문제라는 것을 보여줍니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 내러티브 게임과 현금 흐름의 시간차
 
 돈노드는 스토리 중심 게임으로 자기 색을 만들어온 회사입니다. 이런 게임은 팬 충성도는 높지만, 대규모 실시간 서비스처럼 장기 매출을 당겨오기 쉽지 않습니다.
@@ -49,6 +66,17 @@ hideDescription: true
 사람들은 여전히 좋은 게임이 나오면 그 회사도 괜찮을 것이라고 믿습니다. 하지만 요즘은 좋은 게임을 만드는 능력과 회사를 오래 살리는 능력이 전혀 다른 재능이 되어 가고 있습니다.
 
 돈노드의 사례는 그 차이를 그대로 보여줍니다. 라이프 이즈 스트레인지라는 이름이 보증하는 것은 창작 능력이지, 회사의 생존 기간은 아니라는 점입니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 개성 있는 스튜디오의 생존 조건
 

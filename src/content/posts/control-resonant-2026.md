@@ -20,6 +20,11 @@ hideDescription: true
 draft: true
 ---
 
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>리메디의 컨트롤 후속작 컨트롤 레저넌트가 9월 24일 출시됩니다. 이번에는 전작 주인공 제시 페이든이 아니라 동생 딜런 페이든을 직접 조작하며 전투도 총기 중심 슈터에서 근접 액션 RPG 쪽으로 크게 바뀝니다. 관건은 발표 자체보다 출시 일정, 가격, 기다릴 이유가 얼마나 분명한지이죠.</p>
+</div>
+
 리메디의 컨트롤 후속작 컨트롤 레저넌트가 9월 24일 출시됩니다. 이번에는 전작 주인공 제시 페이든이 아니라 동생 딜런 페이든을 직접 조작하며 전투도 총기 중심 슈터에서 근접 액션 RPG 쪽으로 크게 바뀝니다.
 
 후속작이 익숙한 주인공과 전투를 모두 바꾸는 것은 꽤 과감한 선택입니다. 리메디는 같은 세계관을 반복하는 대신 다른 인물의 몸으로 초현실적인 공간을 다시 경험하게 만들려는 것으로 보입니다.
@@ -42,6 +47,17 @@ PC판은 최소 16GB 메모리와 120GB SSD 공간을 요구합니다. 전작보
 
 공간이 늘었다고 무조건 그래픽이 좋아지는 것은 아닙니다. 다만 넓어진 지역과 고해상도 자산, 빠른 스트리밍을 위해 SSD를 전제로 설계했다는 신호로 볼 수 있습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 같은 세계 다른 장르
 
 리메디는 컨트롤 세계를 앨런 웨이크와 연결하면서 하나의 확장된 세계관으로 키워왔습니다. 레저넌트에서는 그 세계를 유지하면서 게임 장르의 손맛을 다시 바꿉니다.
@@ -57,6 +73,17 @@ PC판은 최소 16GB 메모리와 120GB SSD 공간을 요구합니다. 전작보
 전작을 좋아한 이용자에게 제시가 플레이어 캐릭터가 아니라는 사실은 아쉬울 수 있습니다. 하지만 딜런은 전작 내내 통제와 실험, 초자연 현상의 피해자로 그려져 후속 이야기의 출발점이 충분합니다.
 
 제시가 이미 강력한 능력과 직책을 얻은 상태라는 점도 주인공 교체의 이유가 될 수 있습니다. 성장의 여지가 큰 딜런을 선택하면 이용자가 다시 능력을 배우는 구조도 자연스럽게 만들 수 있습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 리메디의 색
 
@@ -76,3 +103,13 @@ PC판은 최소 16GB 메모리와 120GB SSD 공간을 요구합니다. 전작보
 
 레저넌트가 성공하면 컨트롤이라는 이름이 특정 전투 방식에 묶이지 않는다는 것을 증명하게 됩니다. 리메디가 세계관만 유지하고 장르를 계속 바꿀 수 있다면 후속작마다 훨씬 자유로운 실험이 가능해집니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

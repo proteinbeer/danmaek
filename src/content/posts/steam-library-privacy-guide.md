@@ -27,7 +27,7 @@ hideDescription: true
 
 ## 1. 게임을 라이브러리에서 숨기기
 
-특정 게임을 목록에서 감추고 싶다면 라이브러리에서 해당 게임을 숨김 처리합니다.
+특정 게임을 목록에서 감추고 싶다면 라이브러리에서 해당 게임을 숨김 처리하죠.
 
 1. 스팀 라이브러리에서 숨길 게임을 **우클릭**합니다.
 2. **관리 → 라이브러리에서 숨기기**를 선택합니다.
@@ -43,7 +43,18 @@ hideDescription: true
 - 인비지블 상태에서는 친구에게 '오프라인'으로 표시되지만, 실제로는 채팅을 읽고 게임을 할 수 있습니다.
 - 게임 중에도 상태가 바뀌지 않으므로, 숨겨서 플레이하고 싶다면 게임 시작 전에 설정하시면 됩니다.
 
-주의할 점은 게임을 하는 순간 친구에게 '게임 중(게임명)'으로 보일 수 있다는 것입니다. 게임 자체의 플레이 기록을 완전히 숨기려면 아래의 프로필 설정을 함께 켜두시면 됩니다.
+주의할 점은 게임을 하는 순간 친구에게 '게임 중(게임명)'으로 보일 수 있다는 것입니다. 게임 자체의 플레이 기록을 완전히 숨기려면 아래의 프로필 설정을 함께 켜두시면 되죠.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 3. 프로필과 게임 기록 비공개로 바꾸기
 
@@ -57,13 +68,24 @@ hideDescription: true
 
 ## 4. 구매 내역과 라이브러리를 노출하지 않는 법
 
-게임 목록이 프로필에 보이는 것을 완전히 막고 싶다면 아래 옵션을 함께 확인합니다.
+게임 목록이 프로필에 보이는 것을 완전히 막고 싶다면 아래 옵션을 함께 확인하죠.
 
 - 프로필 편집 → 개인 정보 설정에서 **게임 상세 → 비공개**를 선택하면 외부에서 내 라이브러리를 볼 수 없습니다.
 - 스팀 연동 사이트(프로필 열람 서비스)도 이 설정에 영향을 받습니다.
 - 좋아요 상태나 획득 도전 과제를 숨기고 싶다면 **도전 과제** 항목도 비공개로 둡니다.
 
 이 설정은 저장 직후 바로 적용됩니다. 친구 목록에서 보는 나의 프로필 화면이 실제 다른 사람에게 보이는 화면과 같은지 한 번 비교해보시면 확실합니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 게임 플레이 시간을 숨기는 법
 
@@ -73,7 +95,7 @@ hideDescription: true
 - 전체 게임 기록을 비공개로 하면 모든 게임의 플레이 시간이 노출되지 않습니다.
 - 최근에 플레이한 게임 위젯을 없애려면 프로필 편집의 **위젯 관리**에서 제거합니다.
 
-도전 과제 수집가처럼 플레이 시간이 자랑거리인 분은 공개를 유지하셔도 되고, 프라이버시가 더 중요한 경우 위 설정을 켜두는 것이 좋습니다.
+도전 과제 수집가처럼 플레이 시간이 자랑거리인 분은 공개를 유지하셔도 되고, 프라이버시가 더 중요한 경우 위 설정을 켜두는 것이 좋죠.
 
 ## 6. 스팀 개인 정보 설정 전체 확인
 
@@ -85,3 +107,13 @@ hideDescription: true
 
 개인 정보 설정을 바꾼 뒤에는 링크를 공유했던 지인에게 프로필이 어떻게 보이는지 확인해보시기 바랍니다. 원하는 수준이 되도록 항목을 조합하면 됩니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

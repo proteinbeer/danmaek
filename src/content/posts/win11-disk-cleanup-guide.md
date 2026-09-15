@@ -1,5 +1,6 @@
 ---
 title: "윈도우 11 디스크 공간 확보와 임시파일 정리"
+draft: true
 description: "윈도우 11 저장 공간이 부족할 때 임시파일과 시스템 파일을 정리하고 디스크 공간을 확보하는 방법을 정리합니다."
 date: 2026-09-03
 updated: 2026-09-04
@@ -35,6 +36,17 @@ hideDescription: true
 
 임시 파일은 필요하지 않을 때 삭제해도 시스템 동작에는 문제가 없습니다. 다만 삭제 전에 항목 아래 표시된 설명을 확인해 어떤 파일인지 알아보는 것이 안전합니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 저장소 센스 자동 정리 활용
 
 **저장소 센스**를 켜 두면 불필요한 파일을 자동으로 정리해 줍니다. **설정 → 시스템 → 저장 공간 → 저장소 센스**에서 임시 파일, 휴지통, 다운로드 폴더의 정리 주기를 설정할 수 있죠. 저장소 센스를 실행하면 삭제 대상 파일의 총 용량이 미리 표시됩니다.
@@ -46,6 +58,17 @@ hideDescription: true
 고전적인 방식으로는 **디스크 정리** 도구가 있습니다. 파일 탐색기에서 드라이브를 우클릭하고 **속성 → 디스크 정리**를 선택하면 시스템 파일과 임시 파일을 오래된 방식으로 정리할 수 있습니다. 특히 **시스템 파일 정리**를 누르면 Windows 업데이트 이전 버전 등 대용량 항목을 제거해 공간을 크게 확보할 수 있습니다.
 
 이 도구는 하드디스크(HDD)뿐 아니라 SSD에서도 유용하며, 저장소 센스를 켜기 전에 한 번 정리해 두면 효과적입니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 클라우드와 앱으로 추가 확보
 

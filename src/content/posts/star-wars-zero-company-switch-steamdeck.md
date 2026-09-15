@@ -1,5 +1,6 @@
 ---
 title: "스타워즈 제로 컴퍼니 스위치와 스팀 덱, 지금 가능한가"
+draft: true
 description: "스타워즈 제로 컴퍼니를 보고 가장 많이 나오는 질문 중 하나가 스위치로 할 수 있나, 스팀 덱은 되나 입니다. 장르 특성상 휴대용으로 잘 어울려 보이기 때문입니다. 천천히 오래 즐기기 좋은 턴제 전술 게임이라 더 그렇게 느껴지죠."
 date: 2026-09-11
 updated: 2026-09-11
@@ -38,6 +39,17 @@ hideDescription: true
 
 국내에서도 닌텐도 스위치 유저층이 워낙 크다 보니 기대가 큰데, 현재 단계에서는 기다리는 쪽이 맞습니다. 특히 스타워즈 팬이라면 더 아쉽겠지만 확정 발표 전까지는 보수적으로 보는 편이 좋습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 스팀 덱도 공식 확답은 없다
 
 스팀 버전이 있으니 스팀 덱도 무난하겠지 생각하기 쉽습니다. 그런데 공식 답변에서는 스팀 덱 역시 아직 별도 소식이 없다고 정리했습니다.
@@ -50,6 +62,17 @@ hideDescription: true
 
 다만 장르 궁합이 좋다는 것과 실제 성능이 안정적이라는 것은 다른 이야기입니다. 특히 공식 최소 사양을 보면 생각보다 가벼운 게임은 아니라서, 기대만큼 쉽게 판단하시면 안 됩니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. PC 사양도 생각보다 높다
 
 공식 스팀 페이지 기준 최소 사양이 지포스 GTX 1080, 메모리 16기가 수준입니다. 권장 사양은 더 올라갑니다. 턴제 전술 게임이라고 해서 무조건 가볍다고 보기 어려운 이유가 여기에 있습니다.
@@ -61,6 +84,17 @@ hideDescription: true
 지금 당장은 PC나 콘솔 중 무엇으로 할지 정하시는 편이 현실적입니다. 이미 PC 환경이 괜찮다면 가장 무난하고, 거실 플레이를 선호하시면 콘솔도 잘 맞습니다.
 
 반대로 스위치나 스팀 덱만 바라보고 계시면 시간이 길어질 수 있습니다. 정식 발표가 없을 때는 언제까지 기다려야 할지 알 수 없기 때문입니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 7. 결론은 아직 기대 단계
 

@@ -33,7 +33,7 @@ hideDescription: true
 
 블루투스는 다양한 기기와 쉽게 연결할 수 있고 별도 수신기가 필요 없는 장점이 있습니다.
 
-대신 키보드가 배터리를 아끼기 위해 절전 상태에 자주 들어가거나 연결을 다시 깨우는 시간이 생길 수 있습니다.
+대신 키보드가 배터리를 아끼기 위해 절전 상태에 자주 들어가거나 연결을 다시 깨우는 시간이 생길 수 있죠.
 
 2.4GHz 전용 수신기는 제조사가 키보드에 맞춰 통신 방식을 최적화할 수 있어 게임용 제품에서 자주 사용됩니다.
 
@@ -53,9 +53,20 @@ hideDescription: true
 
 다만 절전을 줄이면 배터리 사용 시간도 짧아질 수 있으니 항상 이득인 설정은 아닙니다.
 
-게임 시작 전 아무 키나 눌러 연결을 깨우는 것만으로도 첫 입력 누락을 줄일 수 있습니다.
+게임 시작 전 아무 키나 눌러 연결을 깨우는 것만으로도 첫 입력 누락을 줄일 수 있죠.
 
 간단하지만 무선 키보드 특성을 알고 쓰는 방법이죠.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 3. 수신기 위치가 지연처럼 느껴질 수 있다
 
@@ -81,9 +92,20 @@ PC에 입력을 자주 보고하는 것은 지연을 줄이는 한 요소지만 
 
 스위치 방식, 디바운스 처리, 무선 전송까지 합쳐진 전체 지연을 봐야 하죠.
 
-래피드 트리거 같은 기능이 있는 자석축 키보드에서는 입력 지점 자체를 짧게 설정할 수도 있습니다.
+래피드 트리거 같은 기능이 있는 자석축 키보드에서는 입력 지점 자체를 짧게 설정할 수도 있죠.
 
 다만 너무 민감하게 두면 손을 살짝 얹는 것만으로 오입력이 늘 수 있습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 게임에서만 느리다면 입력 설정 확인
 
@@ -103,7 +125,18 @@ PC에 입력을 자주 보고하는 것은 지연을 줄이는 한 요소지만 
 
 제가 무선 키보드에서 지연을 느낀다면 먼저 유선으로 연결해 기준을 만들고, 그다음 2.4GHz와 블루투스를 각각 비교하겠습니다.
 
-세 방식의 차이를 직접 확인하면 키보드를 바꿔야 하는지 연결 방식만 바꾸면 되는지 훨씬 쉽게 판단할 수 있습니다.
+세 방식의 차이를 직접 확인하면 키보드를 바꿔야 하는지 연결 방식만 바꾸면 되는지 훨씬 쉽게 판단할 수 있죠.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 7. 배터리 수명과 반응성은 같이 움직인다
 

@@ -27,7 +27,7 @@ hideDescription: true
 
 ## 1. 게임 바로 기본 녹화하기
 
-가장 간단한 윈도우 기본 기능부터 시작합니다. 게임을 실행한 뒤 진행하시면 됩니다.
+가장 간단한 윈도우 기본 기능부터 시작하죠. 게임을 실행한 뒤 진행하시면 됩니다.
 
 1. 게임을 실행하고 **Windows + G**를 눌러 게임 바로를 엽니다.
 2. 화면에 나타나는 **캡처(Capture)** 위젯에서 녹화 버튼(●)을 누릅니다.
@@ -45,9 +45,20 @@ hideDescription: true
 
 저장 위치를 바꾸면 나중에 파일을 찾는 게 훨씬 편해집니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 마이크와 게임 소리 함께 녹음하기
 
-화면만 남기는 게 아니라 목소리도 함께 녹화하고 싶다면 캡처 위젯에서 오디오를 설정합니다.
+화면만 남기는 게 아니라 목소리도 함께 녹화하고 싶다면 캡처 위젯에서 오디오를 설정하죠.
 
 - 게임 바 위젯 중 **오디오** 위젯을 열어 시스템 소리와 마이크 볼륨을 각각 조절합니다.
 - 마이크가 켜져 있지 않으면 내 목소리가 녹음되지 않으므로, 시스템 설정에서 **기본 녹음 장치**가 제대로 선택됐는지 확인합니다.
@@ -63,7 +74,18 @@ hideDescription: true
 - **Windows + Alt + G**: 지난 30초를 클립으로 저장 (배경 녹화가 켜져 있을 때)
 - **Windows + Alt + Print Screen**: 현재 화면 캡처
 
-게임 중 갑자기 멋진 순간이 나왔을 때, 녹화를 켜두지 않아도 **Windows + Alt + G**로 마지막 순간을 잡을 수 있습니다. 배경 녹화는 설정에서 켤 수 있지만 배터리와 성능을 조금 사용하므로 노트북이라면 신경 써야 합니다.
+게임 중 갑자기 멋진 순간이 나왔을 때, 녹화를 켜두지 않아도 **Windows + Alt + G**로 마지막 순간을 잡을 수 있습니다. 배경 녹화는 설정에서 켤 수 있지만 배터리와 성능을 조금 사용하므로 노트북이라면 신경 써야 하죠.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 녹화 파일 찾기와 활용
 
@@ -77,7 +99,7 @@ hideDescription: true
 
 ## 6. 바탕화면까지 녹화하려면 OBS Studio
 
-바탕화면, 브라우저, 강의 화면까지 통째로 녹화해야 한다면 게임 바 대신 **OBS Studio**를 추천합니다. 무료이며 방송·녹화의 표준 도구입니다.
+바탕화면, 브라우저, 강의 화면까지 통째로 녹화해야 한다면 게임 바 대신 **OBS Studio**를 추천합니다. 무료이며 방송·녹화의 표준 도구이죠.
 
 1. [OBS 공식 사이트](https://obsproject.com/)에서 설치 파일을 받아 설치합니다.
 2. **소스 목록의 + 버튼**에서 **디스플레이 캡처**를 추가하면 전체 화면이 녹화 대상이 됩니다.
@@ -85,3 +107,13 @@ hideDescription: true
 
 OBS는 장면(씬) 전환, 마이크와 데스크톱 오디오 분리 녹음, 해상도 설정이 자유로워, 게임 바로 부족한 부분을 모두 채워줍니다. 다만 설정 항목이 많아 처음엔 조금 어렵게 느껴지죠. 기본값으로 시작해 차근차근 익히시면 됩니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

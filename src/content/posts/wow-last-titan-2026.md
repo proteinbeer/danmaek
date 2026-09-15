@@ -20,6 +20,11 @@ hideDescription: true
 draft: true
 ---
 
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>월드 오브 워크래프트 더 라스트 타이탄이 블리즈컨 2026에서 처음으로 모습을 드러냈습니다. 월드소울 사가의 마지막 작품으로 블리자드는 20년 넘게 이어진 워크래프트 서사의 한 장을 마무리하면서 다음 시대의 기반도 만들겠다고 밝혔습니다. 관건은 발표 자체보다 출시 일정, 가격, 기다릴 이유가 얼마나 분명한지이죠.</p>
+</div>
+
 월드 오브 워크래프트 더 라스트 타이탄이 블리즈컨 2026에서 처음으로 모습을 드러냈습니다. 월드소울 사가의 마지막 작품으로 블리자드는 20년 넘게 이어진 워크래프트 서사의 한 장을 마무리하면서 다음 시대의 기반도 만들겠다고 밝혔습니다.
 
 이번 소식은 단순한 업데이트 한 줄보다 앞으로의 운영 방향과 이용 경험을 같이 보여주는 변화에 가깝습니다. 현재 확인된 사실과 아직 해석이 필요한 부분을 나눠서 보겠습니다.
@@ -38,6 +43,17 @@ draft: true
 
 새 결정은 이전 콘텐츠의 반응과 시장 변화가 쌓인 결과인 경우가 많습니다. 과거 방식에서 무엇이 부족했는지 보면 이번 선택이 해결하려는 문제가 더 선명하게 보입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 와우의 끝이 아닌 다음 시대의 출발
 
 더 라스트 타이탄이 중요한 이유는 와우 자체를 끝내는 것이 아니라 기존 서사의 큰 묶음을 정리한다고 선언했기 때문이죠. 성공하면 신규 이용자가 다음 시대부터 들어올 수 있는 새로운 출발점도 만들 수 있습니다.
@@ -53,6 +69,17 @@ draft: true
 와우는 서비스가 계속되는 게임이라 진짜 마지막을 만들 수는 없습니다. 그래서 이번 작품의 성공은 모든 이야기를 끝내는 데 있지 않고 오래 이어진 질문을 정리한 뒤 새로운 질문으로 자연스럽게 넘어가는 데 달려 있습니다.
 
 개인적으로는 이 부분이 가장 흥미롭습니다. 작은 방향 변화가 다른 작품과 서비스에도 반복될 때 일회성 실험이 아니라 회사 전체 전략으로 굳어지는 경우가 많기 때문입니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 내년 초 공개될 지역과 티탄 설정
 

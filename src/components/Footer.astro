@@ -1,5 +1,10 @@
 ---
 import { COUPON_SUBCATEGORIES, GUIDE_SUBCATEGORIES, NEWS_SUBCATEGORIES, TOOL_SUBCATEGORIES } from '../consts';
+import { getPostsByCategory } from '../lib/posts';
+
+const couponPostPathBySubcategory = new Map(
+  getPostsByCategory('쿠폰').map((post) => [post.data.subcategory, `/posts/${post.id}/`])
+);
 ---
 <footer class="site-footer">
   <div class="container site-footer__inner">
@@ -30,7 +35,11 @@ import { COUPON_SUBCATEGORIES, GUIDE_SUBCATEGORIES, NEWS_SUBCATEGORIES, TOOL_SUB
           <div class="footer-cat">
             <a href="/coupons/">쿠폰</a>
             <div class="footer-subcats">
-              {COUPON_SUBCATEGORIES.map((sub) => <a href={`/coupons/${sub.slug}/`}><span class="footer-subcat-label">{sub.name}</span></a>)}
+              {COUPON_SUBCATEGORIES.map((sub) => (
+                <a href={couponPostPathBySubcategory.get(sub.name) ?? `/coupons/${sub.slug}/`}>
+                  <span class="footer-subcat-label">{sub.name}</span>
+                </a>
+              ))}
             </div>
           </div>
           <div class="footer-cat">

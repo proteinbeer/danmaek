@@ -43,6 +43,17 @@ hideDescription: true
 
 문제를 해결하려고 주소 형식을 곧바로 다른 구조로 바꾸는 것은 추천하지 않습니다. 이미 검색엔진과 외부 링크에 등록된 주소가 있다면 새 문제를 만들 수 있습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 서버 재작성 기능 확인
 
 보기 좋은 고유주소는 웹서버의 주소 재작성 기능과 연결됩니다.
@@ -59,9 +70,20 @@ hideDescription: true
 
 도메인까지 함께 바꿨다면 내부 링크가 예전 주소를 가리키는지도 보시면 됩니다. 이 경우 고유주소 문제와 오래된 링크 문제가 같이 보일 수 있어 하나씩 나눠서 확인하는 편이 좋죠.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 리디렉션과 보안 플러그인 확인
 
-리디렉션 플러그인이나 보안 플러그인이 특정 주소 패턴을 바꾸면서 404를 만들 수도 있습니다.
+리디렉션 플러그인이나 보안 플러그인이 특정 주소 패턴을 바꾸면서 404를 만들 수도 있죠.
 
 문제가 최근 플러그인 업데이트나 설정 변경 직후 시작됐다면 해당 기능을 잠시 끄고 비교해보시면 됩니다.
 
@@ -74,6 +96,17 @@ hideDescription: true
 하지만 이미 공개된 사이트라면 기존 주소에서 새 주소로 이동시키는 리디렉션 계획을 먼저 세우는 편이 안전하죠.
 
 주소를 바꾸는 순간 기존 즐겨찾기와 외부 링크가 끊길 수 있습니다. 검색엔진도 새 주소를 다시 이해해야 하므로 단순 디자인 선택처럼 가볍게 바꿀 설정은 아닙니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 7. 새 글만 정상일 때는 범위를 더 좁힌다
 
@@ -91,3 +124,13 @@ hideDescription: true
 
 글 존재 확인, 고유주소 다시 저장, 서버 재작성, 최근 플러그인 변경, 캐시 순서로 보시면 됩니다. 삭제와 재작성부터 시작하지 않는 것이 가장 안전한 해결 순서입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

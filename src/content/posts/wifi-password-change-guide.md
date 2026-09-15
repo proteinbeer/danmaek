@@ -27,7 +27,7 @@ hideDescription: true
 
 ## 1. 왜 비밀번호를 바꿔야 하나
 
-비밀번호 변경은 보안과 속도 두 가지 측면에서 의미가 있습니다.
+비밀번호 변경은 보안과 속도 두 가지 측면에서 의미가 있죠.
 
 - 다른 사람이 내 와이파이를 쓰면 **대역폭을 나눠 먹어** 속도가 느려질 수 있습니다.
 - 비밀번호를 알고 있는 기기가 많을수록 네트워크가 노출될 위험도 커집니다.
@@ -37,13 +37,24 @@ hideDescription: true
 
 ## 2. 공유기 관리자 페이지 접속
 
-비밀번호 변경은 공유기 설정 페이지에서 진행합니다. 공유기와 PC/스마트폰이 같은 네트워크에 연결되어 있어야 합니다.
+비밀번호 변경은 공유기 설정 페이지에서 진행합니다. 공유기와 PC/스마트폰이 같은 네트워크에 연결되어 있어야 하죠.
 
 1. 웹 브라우저 주소창에 **192.168.0.1 또는 192.168.1.1**을 입력합니다. (공유기 하단 라벨에 기본 관리 주소가 적혀 있습니다)
 2. 관리자 계정과 비밀번호를 입력합니다. 초기값은 공유기마다 다르며 라벨에 표기되어 있습니다.
 3. **무선 설정(Wi-Fi 설정)** 메뉴로 이동합니다.
 
 관리자 비밀번호를 잊어버렸다면 공유기의 **리셋(초기화) 버튼**을 눌러 초기화해야 합니다. 초기화하면 와이파이 설정 전체가 기본값으로 돌아가므로, 가능하면 초기화 전에 관리자 비밀번호를 찾아보시기 바랍니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 3. 비밀번호 변경하기
 
@@ -53,7 +64,7 @@ hideDescription: true
 2. **비밀번호(보안 키)**란에 **8자 이상, 영문 대소문자와 숫자, 특수문자**를 섞은 새 비밀번호를 입력합니다.
 3. **적용 또는 저장**을 누르면 설정이 반영됩니다.
 
-간단한 문자열보다는 외우기 쉽되 추측하기 어려운 구성이 좋습니다. 생년월일이나 전화번호처럼 쉽게 유추되는 조합은 피하시는 것이 좋습니다.
+간단한 문자열보다는 외우기 쉽되 추측하기 어려운 구성이 좋습니다. 생년월일이나 전화번호처럼 쉽게 유추되는 조합은 피하시는 것이 좋죠.
 ## 4. 와이파이 이름(SSID) 변경
 
 와이파이 이름을 바꾸고 싶다면 무선 설정 화면에서 **SSID(네트워크 이름)** 항목을 수정하면 됩니다.
@@ -64,9 +75,20 @@ hideDescription: true
 
 비밀번호 변경과 이름 변경을 동시에 하면 기기 재연결이 한 번으로 끝나므로, 한 번에 진행하시는 것도 방법입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 비밀번호 변경 후 기기 재연결
 
-비밀번호를 바꾸면 연결돼 있던 PC·스마트폰·IP카메라·스마트홈 기기는 모두 끊깁니다. 기기마다 새 비밀번호를 입력해 다시 연결하시면 됩니다.
+비밀번호를 바꾸면 연결돼 있던 PC·스마트폰·IP카메라·스마트홈 기기는 모두 끊깁니다. 기기마다 새 비밀번호를 입력해 다시 연결하시면 되죠.
 
 - 기존 네트워크 정보가 남아 있어 자동 연결이 실패하면, 기기의 와이파이 목록에서 해당 네트워크를 **삭제한 뒤 다시 연결**합니다.
 - 스마트폰은 와이파이 설정에서 네트워크를 길게 눌러 **네트워크 초기화 후 재입력**하면 깔끔하게 연결됩니다.
@@ -83,3 +105,14 @@ hideDescription: true
 - WPA2만 지원하는 오래된 공유기를 쓰고 있다면, **WPA3 지원 공유기로 교체**를 고려해보시기 바랍니다.
 
 공유기 펌웨어가 최신일수록 보안 취약점이 줄어듭니다. 관리자 페이지의 **펌웨어 업데이트** 항목도 주기적으로 확인해주십시오.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

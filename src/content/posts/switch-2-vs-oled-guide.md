@@ -37,13 +37,24 @@ hideDescription: true
 
 ## 2. 성능은 게임마다 갈린다
 
-스위치 2의 성능 향상은 "모든 게임이 빨라진다"보다 **이후에 나오는 게임의 실행 여부**가 더 중요합니다.
+스위치 2의 성능 향상은 "모든 게임이 빨라진다"보다 **이후에 나오는 게임의 실행 여부**가 더 중요하죠.
 
 - 신작 중 일부는 스위치 2 전용으로 나와 스위치 1에서는 구동되지 않습니다.
 - 크로스 플랫폼 게임도 스위치 2에서는 더 나은 해상도와 프레임으로 돌아가는 경우가 많습니다.
 - 스위치 1 게임을 스위치 2에서 돌리면 로딩과 프레임이 개선되는 타이틀도 있습니다.
 
 즉 "기존 OLED로 신작까지 충분하다"는 판단이 서면 당장 바꿀 이유는 줄어듭니다. 반대로 신작을 가장 좋은 화질로 즐기고 싶다면 스위치 2가 답이 되죠.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 3. 하위 호환과 데이터 이전
 
@@ -66,9 +77,20 @@ hideDescription: true
 
 이미 사용 중인 액세서리가 많다면 그 호환성 비용까지 계산에 넣어야 합니다. 휴대용 세팅을 새로 갖추는 비용은 생각보다 큽니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 가격과 시점
 
-가격은 두 모델의 선택을 결정하는 중요한 기준입니다.
+가격은 두 모델의 선택을 결정하는 중요한 기준이죠.
 
 - 스위치 2는 신제품 정가로 출시되어, 출시 초기에는 OLED 대비 금액 차이가 뚜렷합니다.
 - OLED 모델은 출시된 지 오래 지나 가격이 안정되어 있고, 중고/할인 매물도 많습니다.
@@ -86,3 +108,13 @@ hideDescription: true
 
 스위치 2는 확실한 업그레이드지만, 모든 분에게 필요한 업그레이드는 아닙니다. 본인의 이용 패턴을 위 기준에 대입해보시면 결정에 도움이 됩니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

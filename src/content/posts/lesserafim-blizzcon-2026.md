@@ -20,6 +20,11 @@ hideDescription: true
 draft: true
 ---
 
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>르세라핌이 블리즈컨 2026 폐막 무대에 오릅니다. 블리자드는 동시에 오버워치와의 새로운 르세라핌 협업 콘텐츠도 게임 안에 추가했습니다. 게임 뉴스는 발표 내용보다 플레이어가 무엇을 얻고 무엇을 더 기다려야 하는지가 핵심이죠.</p>
+</div>
+
 르세라핌이 블리즈컨 2026 폐막 무대에 오릅니다. 블리자드는 동시에 오버워치와의 새로운 르세라핌 협업 콘텐츠도 게임 안에 추가했습니다.
 
 이번 소식은 발표 한 줄만 보면 단순해 보이지만, 조금 더 들어가면 해당 게임과 서비스가 앞으로 어디로 가려는지 보여주는 변화에 가깝습니다. 지금 확정된 내용과 아직 남은 부분을 나눠서 보겠습니다.
@@ -38,6 +43,17 @@ draft: true
 
 새로운 결정은 갑자기 나온 것처럼 보여도 이전 작품의 반응과 시장 변화가 쌓인 결과인 경우가 많습니다. 과거 방식을 그대로 반복하기 어려워진 지점에서 어떤 문제를 해결하려는지 보면 선택의 이유가 더 선명해집니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 스킨과 공연을 묶은 복귀 유도
 
 기존 이용자에게는 신규 외형 아이템이지만 게임을 쉬고 있던 팬이나 르세라핌 팬에게는 다시 게임을 설치할 이유가 될 수 있습니다. 라이브 서비스 게임에서 이런 외부 협업은 신규 콘텐츠 못지않게 복귀 유입을 만드는 장치가 됩니다.
@@ -53,6 +69,17 @@ draft: true
 음악 협업은 게임을 모르는 사람에게 캐릭터를 알리는 빠른 방법입니다. 반대로 기존 팬에게는 게임 안에서 실제로 즐길 콘텐츠가 있어야 광고를 넘어선 협업으로 느껴지므로 무료 보상과 이벤트 설계가 생각보다 중요하죠.
 
 개인적으로는 이 지점이 가장 흥미롭습니다. 눈에 띄는 발표 하나보다 이런 방향 변화가 다른 작품과 서비스에도 반복될 때 회사 전체의 전략으로 굳어지는 경우가 많기 때문입니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 이벤트 보상과 판매 방식 확인
 

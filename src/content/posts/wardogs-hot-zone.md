@@ -1,5 +1,6 @@
 ---
 title: "워독스 핫존, 두 배 돈을 노릴 때 생기는 위험"
+draft: true
 description: "워독스에서는 핫존을 노리면 두 배 현금을 벌 수 있습니다. 경기 사이에도 유지되는 현금에서 두 배 보상은 매력적이지만 다른 플레이어도 같은 계산을 한다는 점이 위험을 만듭니다."
 date: 2026-09-10
 updated: 2026-09-10
@@ -35,6 +36,17 @@ hideDescription: true
 
 주변 접근로와 퇴로를 하나 확보한 뒤 싸우는 편이 좋습니다. 두 팀만 보고 있다가 뒤에서 공격받기 쉽습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 손실 제한
 
 돈을 벌러 가는 목적이라면 매번 가장 비싼 로드아웃을 쓸 필요는 없습니다.
@@ -46,6 +58,17 @@ hideDescription: true
 핫존 중앙에서 킬을 노리는 것만 돈을 버는 방법은 아닙니다. 팀원 수송과 부활, 주변 지원으로도 전투에 기여할 수 있습니다.
 
 총격이 약하다면 가장 위험한 중앙보다 팀이 계속 돌아가게 만드는 역할이 더 안정적인 선택이 될 수 있습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 승리와 돈
 
@@ -59,3 +82,13 @@ hideDescription: true
 
 현금이 충분할수록 핫존에 갈 이유는 줄어듭니다. 들어갈 때와 빠질 때를 구분하는 사람이 장기적으로 더 많은 돈을 남길 가능성이 큽니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

@@ -33,7 +33,7 @@ hideDescription: true
 
 스팀 계정 상세 정보에서 구매 내역을 확인하면 해당 거래가 완료됐는지 실패했는지 볼 수 있습니다.
 
-라이브러리에 게임이 들어왔는지도 함께 확인합니다.
+라이브러리에 게임이 들어왔는지도 함께 확인하죠.
 
 결제가 완료로 표시되고 게임도 정상 등록됐다면 카드 앱의 보류 표시는 카드사 처리 시간 문제일 수 있습니다.
 
@@ -45,9 +45,20 @@ hideDescription: true
 
 구매가 실패하면 이 임시 승인이 일정 시간이 지난 뒤 자동으로 풀리는 경우가 있습니다.
 
-정확한 처리 시간은 카드사와 결제 방식에 따라 다릅니다.
+정확한 처리 시간은 카드사와 결제 방식에 따라 다르죠.
 
 금액이 보인다는 이유만으로 스팀이 이미 돈을 최종 수령했다고 단정하시면 안 됩니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 3. 같은 결제를 연속으로 반복하지 않기
 
@@ -57,7 +68,7 @@ hideDescription: true
 
 먼저 스팀 구매 기록을 확인하고 상태가 정리될 시간을 두는 편이 좋습니다.
 
-급하게 게임을 사야 하더라도 같은 결제 수단으로 짧은 시간에 반복 시도하는 것은 문제를 더 복잡하게 만들 수 있습니다.
+급하게 게임을 사야 하더라도 같은 결제 수단으로 짧은 시간에 반복 시도하는 것은 문제를 더 복잡하게 만들 수 있죠.
 
 ## 4. 웹과 클라이언트를 바꿔보기
 
@@ -65,13 +76,24 @@ hideDescription: true
 
 브라우저 쿠키나 결제창 문제처럼 한 환경에서만 생기는 오류를 구분하는 데 도움이 됩니다.
 
-다만 이미 승인 보류가 여러 건 생겼다면 새 결제를 계속 만드는 것보다 기존 거래 상태를 먼저 확인하는 것이 우선입니다.
+다만 이미 승인 보류가 여러 건 생겼다면 새 결제를 계속 만드는 것보다 기존 거래 상태를 먼저 확인하는 것이 우선이죠.
 
 결제 수단을 바꾸는 것도 같은 원칙이 적용됩니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 해외 체류와 통화 문제
 
-다른 국가에 체류 중이거나 결제 수단의 국가와 스팀 상점 국가가 맞지 않으면 결제가 실패할 수 있습니다.
+다른 국가에 체류 중이거나 결제 수단의 국가와 스팀 상점 국가가 맞지 않으면 결제가 실패할 수 있죠.
 
 스팀 지갑 통화와 구매 통화가 맞지 않는 경우에도 오류가 발생할 수 있습니다.
 
@@ -87,7 +109,18 @@ hideDescription: true
 
 저는 결제 오류에서 가장 피해야 할 행동이 안 됐으니 한 번 더를 반복하는 것이라고 봅니다.
 
-구매 내역과 카드 승인 상태를 먼저 나누어 확인하면 실제 이중 결제인지 단순 보류인지 훨씬 차분하게 판단할 수 있습니다.
+구매 내역과 카드 승인 상태를 먼저 나누어 확인하면 실제 이중 결제인지 단순 보류인지 훨씬 차분하게 판단할 수 있죠.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 7. 구매 기록과 카드 기록을 함께 보관
 
@@ -95,6 +128,6 @@ hideDescription: true
 
 카드사 앱에서 승인 취소와 매입 취소가 다른 표현으로 표시되기도 합니다. 정확한 용어와 처리 시간은 카드사마다 다르므로 스팀 화면만으로 은행 처리 상태까지 판단하지 않는 것이 좋습니다.
 
-선물카드와 스팀 지갑을 함께 사용하는 구매도 실패 원인을 나눠야 합니다. 지갑 잔액이 일부 사용된 것처럼 보인다면 구매 내역에서 최종 상태를 먼저 확인하고 새 결제를 만들지 않는 편이 안전합니다.
+선물카드와 스팀 지갑을 함께 사용하는 구매도 실패 원인을 나눠야 하죠. 지갑 잔액이 일부 사용된 것처럼 보인다면 구매 내역에서 최종 상태를 먼저 확인하고 새 결제를 만들지 않는 편이 안전합니다.
 
 게임 세일 종료가 임박하면 마음이 급해져 결제를 반복하기 쉽습니다. 하지만 보류 거래가 쌓이면 오히려 한도와 확인 절차가 복잡해질 수 있죠. 저는 결제 오류일수록 한 번 멈추고 기록을 확인한 뒤 다음 행동을 정하는 것이 가장 빠른 해결법이라고 봅니다.

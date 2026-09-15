@@ -29,7 +29,7 @@ hideDescription: true
 
 ## 1. 치명적인 오류가 뜻하는 것
 
-치명적인 오류는 워드프레스가 페이지를 끝까지 만들지 못할 정도의 PHP 오류를 만났다는 뜻입니다.
+치명적인 오류는 워드프레스가 페이지를 끝까지 만들지 못할 정도의 PHP 오류를 만났다는 뜻이죠.
 
 플러그인 업데이트 직후, 테마 변경 직후, 사용자 정의 코드를 넣은 직후에 갑자기 발생했다면 마지막 변경과 연결됐을 가능성이 높습니다.
 
@@ -43,13 +43,24 @@ hideDescription: true
 
 스팸함도 같이 확인하시는 편이 좋습니다. 메일이 오지 않았다면 사이트의 메일 발송 자체가 막혀 있거나, 오류가 발생한 위치 때문에 정상 발송되지 못했을 가능성도 있습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 복구 모드에서 먼저 할 일
 
 복구 모드로 들어가면 문제를 일으킨 것으로 의심되는 플러그인이나 테마를 비활성화한 뒤 사이트가 다시 열리는지 확인할 수 있죠.
 
 이때 여러 항목을 한꺼번에 지우기보다 오류 직전에 바뀐 항목부터 하나씩 되돌리는 편이 안전합니다.
 
-사이트가 다시 열린다면 원인이 좁혀진 것입니다. 해당 플러그인을 즉시 다시 켜기보다 최신 수정 버전이 있는지, 현재 워드프레스와 PHP 환경을 지원하는지부터 확인하시면 됩니다.
+사이트가 다시 열린다면 원인이 좁혀진 것입니다. 해당 플러그인을 즉시 다시 켜기보다 최신 수정 버전이 있는지, 현재 워드프레스와 PHP 환경을 지원하는지부터 확인하시면 되죠.
 
 ## 4. 복구 메일이 안 왔을 때
 
@@ -58,6 +69,17 @@ hideDescription: true
 의심되는 플러그인 폴더 이름을 잠시 바꾸면 워드프레스가 해당 플러그인을 불러오지 못해 사실상 비활성화한 상태로 시작할 수 있습니다.
 
 어느 플러그인이 문제인지 전혀 모른다면 플러그인 전체를 끄고 하나씩 다시 활성화하며 확인하는 방법도 있습니다. 다만 쇼핑몰, 회원 기능처럼 플러그인 의존도가 높은 사이트라면 운영 중 바로 시험하지 않는 편이 좋죠.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 복구 뒤에 반드시 확인할 것
 
@@ -73,7 +95,18 @@ hideDescription: true
 
 플러그인 파일을 삭제하고 데이터베이스까지 건드리면 원인을 찾기 전에 복구할 길부터 줄어들 수 있기 때문입니다.
 
-복구 모드, 최근 변경 확인, 의심 항목 비활성화, 오류 로그 확인 순서로 가시면 대부분의 치명적인 오류를 훨씬 작은 범위에서 다룰 수 있습니다. 워드프레스에서 가장 좋은 복구는 크게 고치는 것이 아니라 마지막 정상 상태로 정확히 돌아가는 것입니다.
+복구 모드, 최근 변경 확인, 의심 항목 비활성화, 오류 로그 확인 순서로 가시면 대부분의 치명적인 오류를 훨씬 작은 범위에서 다룰 수 있습니다. 워드프레스에서 가장 좋은 복구는 크게 고치는 것이 아니라 마지막 정상 상태로 정확히 돌아가는 것이죠.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 7. 운영 사이트에서는 복구 시간도 중요
 
@@ -91,3 +124,13 @@ hideDescription: true
 
 업데이트 전후로 사이트 한두 페이지만 보는 것도 도움이 됩니다. 홈 화면, 글 페이지, 관리자 화면을 간단히 확인하는 습관만 있어도 오류가 생긴 시점을 빠르게 잡을 수 있죠.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

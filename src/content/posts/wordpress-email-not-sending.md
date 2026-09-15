@@ -43,6 +43,17 @@ hideDescription: true
 
 반대로 비밀번호 재설정 메일은 잘 오는데 문의 폼만 안 온다면 폼 플러그인의 받는 주소와 알림 설정을 확인하는 편이 맞습니다. 한 종류만 보고 서버 전체 문제로 판단하면 불필요한 작업이 늘어납니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 발신 주소를 내 도메인으로 맞춘다
 
 사이트 도메인과 전혀 관계없는 주소를 발신자로 사용하는 설정은 수신 서버에서 신뢰하기 어려울 수 있죠.
@@ -57,7 +68,18 @@ SMTP 방식은 인증된 메일 서버를 통해 워드프레스 메일을 보�
 
 호스팅의 기본 발송 기능보다 발신 경로가 명확해지고 발송 기록을 확인하기 쉬워지는 장점이 있죠.
 
-다만 SMTP 플러그인을 설치했다고 자동으로 모든 메일이 정상화되는 것은 아닙니다. 메일 계정 정보, 발신 주소, 도메인 인증이 제대로 설정돼야 하며 테스트 메일로 실제 수신까지 확인해야 합니다.
+다만 SMTP 플러그인을 설치했다고 자동으로 모든 메일이 정상화되는 것은 아닙니다. 메일 계정 정보, 발신 주소, 도메인 인증이 제대로 설정돼야 하며 테스트 메일로 실제 수신까지 확인해야 하죠.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 도메인 인증도 중요
 
@@ -75,6 +97,17 @@ SMTP 방식은 인증된 메일 서버를 통해 워드프레스 메일을 보�
 
 사이트를 처음 만들었을 때 문의 폼만 시험하지 말고 비밀번호 재설정 메일과 시스템 알림도 한 번 확인해두는 편이 좋죠. 문제가 없을 때 검증해두면 장애 상황에서 훨씬 편합니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 7. 메일 로그가 있으면 확인이 쉬워진다
 
 발송 기록을 남기는 기능이 있으면 워드프레스가 실제로 어떤 주소로 어떤 메일을 만들었는지 확인하기 쉽습니다.
@@ -91,3 +124,13 @@ SMTP 방식은 인증된 메일 서버를 통해 워드프레스 메일을 보�
 
 관리자 주소, 전체 메일 여부, 발신 주소, SMTP, 도메인 인증 순서로 확인하시면 범위를 빠르게 줄일 수 있죠. 문의 폼을 바꾸기 전에 메일이 어디에서 멈추는지 찾는 것이 먼저입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

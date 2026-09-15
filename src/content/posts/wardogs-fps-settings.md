@@ -1,5 +1,6 @@
 ---
 title: "워독스 프레임 올리기, 먼저 줄일 그래픽 옵션"
+draft: true
 description: "워독스에서 프레임이 부족하다고 모든 옵션을 최저로 내릴 필요는 없습니다. 대규모 FPS는 그래픽카드에 부담을 주는 옵션과 CPU가 병목이 되는 상황이 따로 있어 순서를 정해 조절하는 편이 좋습니다."
 date: 2026-09-10
 updated: 2026-09-10
@@ -35,6 +36,17 @@ hideDescription: true
 
 텍스처는 그래픽 메모리가 충분하면 프레임 차이가 작을 수 있지만 그림자와 효과는 실제 렌더링 부하를 계속 만들기 때문에 먼저 낮춰보기 좋습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 시야 관련 옵션
 
 멀리 있는 적과 차량을 먼저 보는 것이 중요한 게임이라 시야 관련 옵션을 지나치게 낮추면 전투 정보까지 잃을 수 있습니다.
@@ -46,6 +58,17 @@ hideDescription: true
 빠르게 시점을 돌릴 때 화면을 흐리게 만드는 효과는 취향에 따라 몰입을 높일 수 있지만 적을 찾는 데는 불리할 수 있습니다.
 
 프레임 차이가 작더라도 화면이 더 선명해진다면 끄는 선택이 충분히 의미가 있습니다. 옵션은 성능뿐 아니라 조준 가독성으로도 판단해야 합니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. CPU 병목 확인
 
@@ -59,3 +82,13 @@ hideDescription: true
 
 저라면 평균 FPS보다 컨트롤 존 교전에서 최저 프레임이 덜 흔들리는 조합을 선택하겠습니다. 실제 플레이가 편한 설정이 가장 좋은 설정입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

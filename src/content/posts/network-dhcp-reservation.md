@@ -21,7 +21,7 @@ hideDescription: true
 
 NAS나 프린터처럼 주소가 바뀌면 불편한 장비에는 고정 IP가 필요합니다. 이때 장비마다 수동 IP를 입력하는 대신 공유기의 DHCP 예약 기능을 쓰면 자동 설정의 편리함과 고정 주소의 장점을 함께 가져갈 수 있습니다.
 
-이 문제는 겉으로 보이는 증상과 실제 원인이 다른 경우가 많습니다. 그래서 처음부터 설정을 크게 바꾸기보다 어느 구간에서 문제가 생겼는지 범위를 좁히는 것이 중요합니다.
+이 문제는 겉으로 보이는 증상과 실제 원인이 다른 경우가 많습니다. 그래서 처음부터 설정을 크게 바꾸기보다 어느 구간에서 문제가 생겼는지 범위를 좁히는 것이 중요하죠.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/network-guide-common.jpg" alt="노트북, 공유기, 랜선이 놓여 있는 이미지" width="1200" height="675" loading="lazy" decoding="async" />
 
@@ -33,11 +33,22 @@ NAS나 프린터처럼 주소가 바뀌면 불편한 장비에는 고정 IP가 �
 
 ## 2. 가장 흔한 원인부터 확인
 
-DHCP는 기기에 주소를 자동으로 빌려주기 때문에 재연결 뒤 주소가 바뀔 수 있습니다. 포트포워딩이나 네트워크 공유는 대상 장비 주소가 바뀌면 설정이 깨질 수 있습니다.
+DHCP는 기기에 주소를 자동으로 빌려주기 때문에 재연결 뒤 주소가 바뀔 수 있죠. 포트포워딩이나 네트워크 공유는 대상 장비 주소가 바뀌면 설정이 깨질 수 있습니다.
 
 수동 IP를 여러 장비에 입력하면 중복 관리가 어려워집니다. DHCP 예약은 MAC 주소를 기준으로 같은 장비에 같은 주소를 배정합니다.
 
-이 원인들은 서로 비슷한 증상을 만들 수 있습니다. 그래서 인터넷 속도 측정 결과나 오류 문구 하나만 보고 바로 결론을 내리기보다 물리 연결, 주소 설정, 공유기 역할을 차례로 나눠보는 편이 좋습니다.
+이 원인들은 서로 비슷한 증상을 만들 수 있습니다. 그래서 인터넷 속도 측정 결과나 오류 문구 하나만 보고 바로 결론을 내리기보다 물리 연결, 주소 설정, 공유기 역할을 차례로 나눠보는 편이 좋죠.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 3. PC와 공유기에서 볼 부분
 
@@ -47,9 +58,20 @@ DHCP는 기기에 주소를 자동으로 빌려주기 때문에 재연결 뒤 �
 
 ## 4. 실제로 해결하는 순서
 
-NAS, 프린터, 홈서버처럼 주소가 고정되어야 하는 장비만 예약합니다. 예약 뒤 장비 연결을 끊었다 다시 연결해 같은 주소를 받는지 확인합니다. 포트포워딩과 공유 설정은 예약이 정상 적용된 뒤 연결합니다.
+NAS, 프린터, 홈서버처럼 주소가 고정되어야 하는 장비만 예약하죠. 예약 뒤 장비 연결을 끊었다 다시 연결해 같은 주소를 받는지 확인합니다. 포트포워딩과 공유 설정은 예약이 정상 적용된 뒤 연결합니다.
 
-적용 뒤에는 바로 다음 설정으로 넘어가지 말고 같은 조건에서 다시 확인하시는 편이 좋습니다. 한 단계씩 바꿔야 어떤 조치가 실제로 문제를 해결했는지 알 수 있고, 나중에 같은 증상이 생겼을 때도 훨씬 빠르게 대응할 수 있습니다.
+적용 뒤에는 바로 다음 설정으로 넘어가지 말고 같은 조건에서 다시 확인하시는 편이 좋죠. 한 단계씩 바꿔야 어떤 조치가 실제로 문제를 해결했는지 알 수 있고, 나중에 같은 증상이 생겼을 때도 훨씬 빠르게 대응할 수 있습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 그래도 해결되지 않을 때
 
@@ -59,19 +81,40 @@ NAS, 프린터, 홈서버처럼 주소가 고정되어야 하는 장비만 예�
 
 ## 6. 설정을 바꿀 때 주의할 점
 
-MAC 주소 임의화 기능을 쓰는 모바일 기기는 주소가 바뀌면 예약이 풀린 것처럼 보일 수 있습니다. 이런 장비는 고정이 정말 필요한지부터 판단하는 편이 좋습니다.
+MAC 주소 임의화 기능을 쓰는 모바일 기기는 주소가 바뀌면 예약이 풀린 것처럼 보일 수 있죠. 이런 장비는 고정이 정말 필요한지부터 판단하는 편이 좋습니다.
 
 네트워크 설정은 서로 연결돼 있어서 문제를 빨리 고치겠다고 초기화, 수동 IP, DNS 변경, 포트 설정을 한꺼번에 적용하면 오히려 원인을 잃을 수 있습니다. 바꾸기 전 값을 기록하고 한 번에 한 항목만 수정하는 습관이 중요합니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 7. 마지막 판단 기준
 
 DHCP 예약은 눈에 띄는 성능 기능이 아니지만 집 네트워크가 복잡해질수록 가치가 커집니다. 자동과 수동 사이에서 가장 관리하기 쉬운 타협점이라고 볼 수 있죠.
 
-결국 네트워크 문제 해결은 가장 복잡한 설정을 찾는 일이 아니라 문제 구간을 정확히 잘라내는 일입니다. PC에서 공유기, 공유기에서 인터넷 회선 순서로 가까운 곳부터 확인하시면 불필요한 장비 교체와 시간 낭비를 크게 줄일 수 있습니다.
+결국 네트워크 문제 해결은 가장 복잡한 설정을 찾는 일이 아니라 문제 구간을 정확히 잘라내는 일이죠. PC에서 공유기, 공유기에서 인터넷 회선 순서로 가까운 곳부터 확인하시면 불필요한 장비 교체와 시간 낭비를 크게 줄일 수 있습니다.
 
 ## 8. 정리
 
 DHCP 예약 고정 IP 설정은 한 번 맞춰두면 끝나는 것처럼 보여도 공유기 교체, 윈도우 업데이트, 새 기기 추가 뒤에 조건이 달라질 수 있습니다. 예전에 정상적으로 쓰던 값이 지금 환경에서도 반드시 최선이라고 가정하지 않는 편이 좋습니다.
 
-문제가 다시 생기면 처음 해결했던 설정을 그대로 반복하기보다 현재 링크 속도, IP 주소, 게이트웨이, 무선 대역처럼 기본 상태부터 다시 확인하시면 됩니다. 네트워크는 장비 하나가 아니라 연결된 전체 구조가 함께 움직이기 때문에 작은 변화가 다른 구간에 영향을 줄 수 있습니다.
+문제가 다시 생기면 처음 해결했던 설정을 그대로 반복하기보다 현재 링크 속도, IP 주소, 게이트웨이, 무선 대역처럼 기본 상태부터 다시 확인하시면 되죠. 네트워크는 장비 하나가 아니라 연결된 전체 구조가 함께 움직이기 때문에 작은 변화가 다른 구간에 영향을 줄 수 있습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

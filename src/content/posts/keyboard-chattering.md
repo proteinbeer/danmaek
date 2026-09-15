@@ -25,7 +25,7 @@ hideDescription: true
 
 연결 문제, 키 반복 설정, 먼지, 스위치 접점이 비슷한 증상을 만들 수 있기 때문입니다.
 
-새 키보드를 주문하기 전에 소프트웨어와 하드웨어를 나눠 확인하시면 원인을 훨씬 정확히 찾을 수 있습니다.
+새 키보드를 주문하기 전에 소프트웨어와 하드웨어를 나눠 확인하시면 원인을 훨씬 정확히 찾을 수 있죠.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/dualsense-1200x675.jpg" alt="기계식 키보드 스위치" width="1280" height="720" loading="lazy" decoding="async" />
 
@@ -39,7 +39,7 @@ hideDescription: true
 
 특정 게임이나 브라우저에서만 나타난다면 키보드 자체보다 프로그램 단축키나 입력 처리 문제일 수 있습니다.
 
-특정 키 하나에서만 반복된다면 스위치나 접점 문제 가능성이 더 높습니다.
+특정 키 하나에서만 반복된다면 스위치나 접점 문제 가능성이 더 높죠.
 
 여러 키가 동시에 이상하다면 USB 연결이나 키보드 펌웨어도 함께 봐야 합니다.
 
@@ -49,7 +49,7 @@ hideDescription: true
 
 반복 지연이 너무 짧고 키를 누르는 습관이 강하면 채터링처럼 느껴질 수 있으니 기본값 근처로 돌려 비교하시면 됩니다.
 
-다만 정말 한 번 누른 입력이 두 번 기록되는 경우에는 이 설정만으로 해결되지 않는 경우가 많습니다.
+다만 정말 한 번 누른 입력이 두 번 기록되는 경우에는 이 설정만으로 해결되지 않는 경우가 많죠.
 
 설정을 바꿔도 특정 키에서 동일하게 두 글자씩 나온다면 다음 단계로 넘어가야 합니다.
 
@@ -57,11 +57,22 @@ hideDescription: true
 
 제조사 프로그램에서 한 키에 두 동작이 지정돼 있으면 하드웨어 고장처럼 보일 수 있죠.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. USB 포트와 무선 연결 확인
 
 무선 키보드는 배터리가 부족하거나 수신 상태가 불안정할 때 입력이 지연됐다 한꺼번에 들어오는 느낌이 생길 수 있습니다.
 
-충전 상태를 확인하고 수신기를 다른 포트로 옮겨보시면 됩니다.
+충전 상태를 확인하고 수신기를 다른 포트로 옮겨보시면 되죠.
 
 유선 키보드는 USB 허브를 거치지 않고 본체에 직접 연결해보시는 편이 좋습니다.
 
@@ -73,7 +84,7 @@ hideDescription: true
 
 ## 4. 키캡과 스위치 주변 청소
 
-오래 사용한 키보드는 키캡 아래 먼지와 머리카락이 스위치 움직임을 방해할 수 있습니다.
+오래 사용한 키보드는 키캡 아래 먼지와 머리카락이 스위치 움직임을 방해할 수 있죠.
 
 전원을 끈 뒤 키캡을 분리할 수 있는 제품이라면 문제 키 주변을 먼저 청소해보시면 됩니다.
 
@@ -81,9 +92,20 @@ hideDescription: true
 
 일시적으로 좋아져도 윤활이나 접점 상태를 더 망가뜨릴 수 있기 때문입니다.
 
-음료를 흘린 뒤부터 증상이 시작됐다면 단순 먼지보다 내부 오염 가능성을 생각해야 합니다.
+음료를 흘린 뒤부터 증상이 시작됐다면 단순 먼지보다 내부 오염 가능성을 생각해야 하죠.
 
 이 경우에는 보증 여부를 먼저 확인하고, 무리한 분해보다 서비스가 나을 수 있습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 핫스왑 키보드는 스위치 교체로 확인
 
@@ -91,7 +113,7 @@ hideDescription: true
 
 문제가 스위치를 따라 다른 자리로 이동하면 스위치 불량일 가능성이 높습니다.
 
-반대로 새 스위치를 꽂아도 같은 자리에 채터링이 남는다면 기판 소켓이나 회로를 의심해야 합니다.
+반대로 새 스위치를 꽂아도 같은 자리에 채터링이 남는다면 기판 소켓이나 회로를 의심해야 하죠.
 
 스위치 하나만 바꾸면 되는 상황과 키보드 자체 수리가 필요한 상황을 구분할 수 있죠.
 
@@ -105,9 +127,20 @@ hideDescription: true
 
 따라서 장기 해결책보다는 고장 여부를 확인한 뒤 교체 전 잠깐 쓰는 방식이 적절합니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 7. 교체를 결정할 시점
 
-여러 PC에서 동일하고, 청소와 연결 변경에도 변화가 없고, 특정 스위치를 교체해도 같은 자리에 문제가 남는다면 기판 문제 가능성이 높습니다.
+여러 PC에서 동일하고, 청소와 연결 변경에도 변화가 없고, 특정 스위치를 교체해도 같은 자리에 문제가 남는다면 기판 문제 가능성이 높죠.
 
 보증 기간이 남았다면 직접 납땜하기 전에 제조사 서비스를 확인하시는 것이 좋습니다.
 

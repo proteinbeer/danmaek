@@ -1,5 +1,6 @@
 ---
 title: "워독스 음성 채팅, 근접 보이스가 중요한 이유"
+draft: true
 description: "워독스는 근접 음성 채팅을 핵심 요소로 내세운 FPS입니다. 100명이 세 팀으로 움직이는 구조에서는 화면만 보고 모든 정보를 알기 어려워 음성 하나가 전투 정보가 될 수 있습니다."
 date: 2026-09-10
 updated: 2026-09-10
@@ -35,6 +36,17 @@ hideDescription: true
 
 이 시스템은 100명 매칭을 단순 숫자가 아니라 실제 사람이 섞인 공간처럼 느끼게 만듭니다. 플레이어 주도 샌드박스라는 방향과도 잘 맞습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 마이크 장치
 
 USB 마이크, 헤드셋, 웹캠 마이크가 동시에 연결돼 있으면 원하지 않는 입력 장치가 잡힐 수 있습니다.
@@ -46,6 +58,17 @@ USB 마이크, 헤드셋, 웹캠 마이크가 동시에 연결돼 있으면 원�
 총성과 차량 소리가 큰 전장에서는 팀원의 목소리가 묻힐 수 있습니다. 음성 채팅 음량을 따로 조절할 수 있다면 효과음과 균형을 맞추는 편이 좋습니다.
 
 스피커는 마이크 에코를 만들 수 있어 팀플레이를 많이 하실 때는 헤드셋이 편합니다. 중요한 정보가 묻히지 않는 수준을 찾으시면 됩니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 짧게 말하기
 
@@ -59,3 +82,13 @@ USB 마이크, 헤드셋, 웹캠 마이크가 동시에 연결돼 있으면 원�
 
 저라면 처음 시작할 때 음성 채팅을 완전히 끄기보다 듣기부터 켜두겠습니다. 이 게임은 총만 잘 쏘는 사람보다 정보를 연결하는 사람이 중요한 순간이 많습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

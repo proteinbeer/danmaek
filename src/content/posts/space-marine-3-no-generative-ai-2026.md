@@ -20,6 +20,11 @@ hideDescription: true
 draft: true
 ---
 
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>세이버 인터랙티브가 워해머 40000 스페이스 마린 3 개발에 생성형 AI를 사용하지 않는다고 공개적으로 밝혔습니다. 팀은 다른 대형 라이선스 작품에도 같은 방침을 적용한다고 설명했습니다. 결국 중요한 건 기술 이름보다 비용, 서비스 방식, 이용 선택지가 실제로 어떻게 달라지는지이죠.</p>
+</div>
+
 세이버 인터랙티브가 워해머 40000 스페이스 마린 3 개발에 생성형 AI를 사용하지 않는다고 공개적으로 밝혔습니다. 팀은 다른 대형 라이선스 작품에도 같은 방침을 적용한다고 설명했습니다.
 
 최근 게임 업계에서 생성형 AI 사용 여부가 품질 문제를 넘어 브랜드 신뢰 문제로 번지고 있습니다. 특히 워해머처럼 팬층이 강하고 설정 관리가 엄격한 IP에서는 도구 하나를 잘못 선택해도 작품 전체 평가에 영향을 줄 수 있습니다.
@@ -42,6 +47,17 @@ draft: true
 
 제가 보기에는 이 구분이 앞으로 게임 업계에서 흔해질 가능성이 큽니다. 내부 아이디어 정리와 테스트에서는 AI를 쓰더라도 최종 상용 자산과 대형 IP에는 더 엄격한 기준을 적용하는 식입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 팬이 원하는 확신
 
 게임 이용자가 모든 제작 도구를 알아야 할 필요는 없습니다. 하지만 생성형 AI가 그림과 음성, 대사에 사용되면 원작자 보상과 학습 데이터 문제가 바로 따라붙습니다.
@@ -57,6 +73,17 @@ AI를 쓰지 않는다는 선언만으로 게임이 좋아지는 것은 아닙�
 최근 생성형 AI를 썼다는 사실이 공개된 게임과 홍보 영상이 팬 반발을 겪는 사례가 늘고 있습니다. 기술 사용 자체보다 제작사가 숨겼다는 느낌이 들 때 신뢰가 더 크게 떨어지는 경우가 많습니다.
 
 세이버가 일찍부터 사용 여부를 명확히 말한 것은 이런 분위기를 읽은 대응으로 보입니다. AI를 쓰든 쓰지 않든 최소한 이용자가 어떤 방식으로 만들어졌는지 알 수 있어야 논쟁도 사실을 기반으로 진행됩니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 사람의 흔적
 
@@ -74,3 +101,13 @@ AI를 쓰지 않는다는 선언만으로 게임이 좋아지는 것은 아닙�
 
 최종 결과물이 사람 손으로 얼마나 세밀하게 다듬였는지가 결국 가장 중요합니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

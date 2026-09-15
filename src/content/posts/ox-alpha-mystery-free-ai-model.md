@@ -21,6 +21,11 @@ hideHeroImage: true
 hideDescription: true
 ---
 
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>오픈라우터에서 급성장한 정체불명의 무료 모델 옥스 알파를 둘러싼 스텔스 공개 전략과 긴 문맥 그리고 데이터 비용 논쟁을 정리합니다. 개발사도 모르는 무료 인공지능이 왜 인기일까, 옥스 알파가 보여준 묘한 시장 결국 중요한 건 기술 이름보다 비용, 서비스 방식, 이용 선택지가 실제로 어떻게 달라지는지이죠.</p>
+</div>
+
 오픈라우터에서 옥스 알파라는 정체불명의 인공지능 모델이 빠르게 사용량을 늘리고 있습니다. 개발사는 이름을 공개하지 않았고 오픈라우터도 자신들이 만든 모델이 아니라 제3자 업체가 운영하는 스텔스 모델이라고 합니다.
 
 그런데 이 모델은 일단 무료입니다. 문맥 길이도 약 105만 토큰이고 코딩, 장시간 작업, 이미지 이해까지 지원하면서 실제 프로그래밍 사용량에서도 상위권에 올라 있죠.
@@ -51,6 +56,17 @@ hideDescription: true
 
 그런데 반대로 개발사 입장에서는 짧은 기간에 엄청난 실제 작업을 경험하게 만들 수 있다는 점에서 무료 공개가 강력한 테스트 방식이 됩니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 긴 문맥이 코딩에서 중요한 이유
 
 옥스 알파는 약 105만 토큰의 긴 문맥을 지원합니다. 큰 코드 저장소, 여러 문서, 긴 작업 기록을 한 번에 넣어야 하는 개발자에게는 매력적인 숫자입니다.
@@ -72,6 +88,17 @@ hideDescription: true
 제공업체가 누구인지 공개되지 않은 상태라면 중요한 코드, 고객 정보, 비공개 문서를 넣을 때는 더 신중할 필요가 있겠죠. 무료 사용료와 데이터 신뢰성 사이에서 직접 판단해야 하는 겁니다.
 
 특히 회사 업무에서는 성능보다 계약 조건과 데이터 보관 정책이 더 중요하죠.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 인공지능 브랜드가 약해지는 미래
 

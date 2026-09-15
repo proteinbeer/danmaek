@@ -1,5 +1,6 @@
 ---
 title: "워드프레스 호스팅 고르기, 용량보다 먼저 볼 것 5가지"
+draft: true
 description: "워드프레스 호스팅은 스토리지 용량이 크게 중요하지 않습니다. PHP 버전, 트래픽 정책, 백업, 보안, 이전 수수료가 진짜 선택 기준입니다."
 date: 2026-09-05
 updated: 2026-09-05
@@ -34,6 +35,17 @@ hideDescription: true
 
 데이터베이스도 중요합니다. MariaDB나 MySQL 최신 버전이 제공되는지, 계정에서 버전을 직접 바꿀 수 있는지 확인하시면 됩니다. 구버전만 제공하는 곳은 최신 워드프레스 업데이트와 충돌할 수 있습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 트래픽과 대역폭 정책
 
 공유 호스팅은 서버 자원을 여러 계정이 나눠 씁니다. 요금제에 명시된 트래픽이 초과하면 웹사이트가 일시적으로 차단되거나 추가 과금이 생길 수 있습니다.
@@ -46,6 +58,17 @@ hideDescription: true
 
 SSL 인증서도 기본 확인 사항입니다. Let's Encrypt를 통해 무료 인증서를 자동 발급하고 갱신까지 처리해주는 호스팅이라면 별도의 SSL 구매 비용이 들지 않습니다. 방문자 데이터 보호와 검색엔진 노출 모두에 필요합니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 보안과 캐시 지원
 
 워드프레스는 전세계에서 가장 많이 해킹 시도가 발생하는 CMS이기도 합니다. 그러니 보안 기능이 기본 제공되는지 확인하시면 됩니다. 웹 방화벽(WAF), 악성코드 스캔, 이중 인증, DDoS 방어가 포함된 호스팅이 안전합니다.
@@ -57,6 +80,17 @@ SSL 인증서도 기본 확인 사항입니다. Let's Encrypt를 통해 무료 �
 호스팅을 바꿀 때가 진짜 선택을 가르는 순간입니다. **마이그레이션 지원**이 있는지, 그리고 요금제를 해지할 때 과도한 수수료나 제한이 있는지 미리 확인하시기 바랍니다.
 
 일부 업체는 첫해 할인으로 계약을 걸어둔 뒤, 환불 기간이 지난 해지 때 남은 기간 요금을 물리기도 합니다. 계약 조건을 문서로 확인하지 않으면 예상 밖의 비용을 낼 수 있습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 7. 정리
 

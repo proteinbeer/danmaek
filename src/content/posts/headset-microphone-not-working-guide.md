@@ -1,5 +1,6 @@
 ---
 title: "헤드셋 마이크가 안 될 때 확인할 4가지"
+draft: true
 description: "게임이나 화상 회의에서 헤드셋 마이크가 인식되지 않을 때, 연결 방식별로 확인할 순서를 정리했습니다. 기본 녹음 장치 설정부터 앱 권한까지 순서대로 점검하면 대부분 해결됩니다."
 date: 2026-08-22
 updated: 2026-08-22
@@ -44,6 +45,17 @@ hideDescription: true
 - 노트북은 내장 마이크가 자동으로 잡혀서 헤드셋 마이크가 무시되는 경우가 많습니다. 기본 장치를 헤드셋으로 바꿔주십시오.
 작업 표시줄 우측 하단의 스피커 아이콘을 우클릭하고 "소리 설정"으로 들어가면 입력 장치 목록을 한 번에 볼 수 있습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 앱별 마이크 권한 확인
 
 기본 장치가 맞는데도 특정 앱에서만 안 된다면 **앱 권한 설정**이 원인입니다. 윈도우는 앱마다 마이크 접근 허용을 별도로 관리합니다.
@@ -65,3 +77,13 @@ hideDescription: true
 
 위 순서를 전부 통과했는데도 마이크가 안 된다면, 다른 컴퓨터에 꽂아 정상 작동하는지로 **하드웨어 고장 여부**를 판가름하면 됩니다. 다른 기기에서도 안 된다면 교체를 고려해보시기 바랍니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

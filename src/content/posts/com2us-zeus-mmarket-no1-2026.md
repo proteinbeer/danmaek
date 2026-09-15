@@ -20,6 +20,11 @@ hideHeroImage: true
 hideDescription: true
 ---
 
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>컴투스 신작 '제우스: 오만의 신'이 양대 앱마켓 매출 1위와 서버 증설로 상승세를 이어가고 있습니다. 흥행 배경과 이용자 반응을 정리합니다. 관건은 발표 자체보다 출시 일정, 가격, 기다릴 이유가 얼마나 분명한지이죠.</p>
+</div>
+
 컴투스가 퍼블리싱하는 MMORPG '제우스: 오만의 신'이 9월 4일 현재 국내 구글플레이 매출 1위를 지키고 있습니다. 출시 18시간 만에 애플 앱스토어와 구글플레이에서 모두 매출 1위에 오른 데 이어, 일주일 만에 첫 서버 증설까지 단행했죠.
 
 단순히 출시 초반 순위가 높다는 것은 큰 의미가 없을 수도 있습니다. 모바일 MMORPG는 출시 직후 고액 결제가 몰리며 매출 순위가 빠르게 치솟는 경우가 많기 때문입니다.
@@ -42,6 +47,17 @@ hideDescription: true
 
 초반 퀘스트만 따라가는 단계와 달리, 이들 콘텐츠는 일주일가량 플레이한 이용자들이 남을 이유를 만들어주는 장치로 보입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 제우스는 어떤 게임인가
 
 '제우스: 오만의 신'은 그리스 신화 최고의 신 제우스의 오만이 세계를 갈라놓는 스토리를 다룬 경쟁형 MMORPG입니다. 언리얼 엔진 5로 묘사된 올림포스 무대와 직업 육성을 중심으로 하죠.
@@ -56,11 +72,22 @@ AI가 획득한 성장 재료를 임의로 소비하지 않아 이용자가 다�
 
 출시 일주일이 지난 시점의 이용자 평가는 대체로 '익숙하다'는 반응이 많습니다. 카카오게임즈의 '오딘: 발할라 라이징'과 비교 대상으로 자주 언급되죠.
 
-에픽 퀘스트를 따라 성장하고 장비를 강화하며, 탈것으로 이동하는 진행 방식은 기존 MMORPG와 크게 다르지 않다는 평가입니다. 반대로 익숙한 구조 덕에 진입 장벽이 낮다는 장점으로 읽히기도 합니다.
+에픽 퀘스트를 따라 성장하고 장비를 강화하며, 탈것으로 이동하는 진행 방식은 기존 MMORPG와 크게 다르지 않다는 평가이죠. 반대로 익숙한 구조 덕에 진입 장벽이 낮다는 장점으로 읽히기도 합니다.
 
 성장 구간에서는 초반 고비가 있다는 지적도 나옵니다. 에픽 48에서 만나는 '하피 여왕'이 대표적인 난관으로 꼽히며, 장비와 성장 요소를 갖추지 못하면 진행이 어렵다는 분위기죠.
 
 과금에 대한 반응도 엇갈립니다. 빠른 성장을 노리면 유료 상품의 영향이 크게 느껴지지만, 시간을 들여 키우면 부담이 덜하다는 평가도 있습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 시장이 보는 의미
 

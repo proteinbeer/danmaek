@@ -1,5 +1,6 @@
 ---
 title: "워독스 3팀 전투, 두 팀 게임처럼 싸우면 손해 본다"
+draft: true
 description: "워독스는 두 진영이 맞붙는 일반적인 FPS와 달리 세 팀이 동시에 컨트롤 존을 놓고 싸웁니다. 앞에 있는 적을 밀어냈다고 전투가 끝난 것이 아니라 세 번째 팀이 옆과 뒤에서 들어올 가능성을 계속 생각해야 합니다."
 date: 2026-09-10
 updated: 2026-09-10
@@ -35,6 +36,17 @@ hideDescription: true
 
 반대로 뒤진 팀은 두 강팀이 싸우는 동안 자금을 모으거나 빈 거점을 노릴 수 있습니다. 점수판이 다음 전투 방향을 읽는 정보가 됩니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 세 번째 팀 경계
 
 눈앞의 팀을 밀어냈다고 끝까지 추격하면 컨트롤 존이 비어 세 번째 팀이 가져갈 수 있습니다.
@@ -46,6 +58,17 @@ hideDescription: true
 한 팀만 상대할 때 안전했던 길이 다른 팀의 주 이동로일 수 있습니다. 수송 차량과 헬리콥터도 지도 전체 충돌 지점을 봐야 합니다.
 
 최단 거리가 항상 좋은 길은 아닙니다. 두 팀이 싸우는 지역을 크게 돌아 승객을 살려 보내는 것이 더 이득일 수 있습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 건설 방향
 
@@ -59,3 +82,13 @@ hideDescription: true
 
 저라면 점수판과 거점 흐름을 계속 보고 가장 이득이 큰 순간에 들어가겠습니다. 세 팀 전투는 사격 실력에 눈치 싸움까지 섞입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

@@ -1,5 +1,6 @@
 ---
 title: "스팀 클라우드 저장, 게임 세이브 동기화 설정과 문제 해결"
+draft: true
 description: "스팀 클라우드 저장 기능으로 게임 세이브를 안전하게 백업하고, 동기화가 안 될 때 해결하는 방법을 정리합니다."
 date: 2026-09-02
 updated: 2026-09-02
@@ -35,6 +36,17 @@ hideDescription: true
 
 라이브러리에서 게임을 선택하면 오른쪽 패널에 클라우드 저장 지원 여부가 표시됩니다. 지원하는 게임이라면 **속성 → 업데이트** 탭에서 '세이브 데이터를 스팀 클라우드에 저장' 옵션이 켜져 있는지 확인하면 됩니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 동기화가 안 될 때
 
 때때로 세이브 동기화가 진행되지 않거나 '동기화 실패' 메시지가 나올 수 있습니다. 대부분 게임 실행 중에 종료가 이상하게 되거나, 네트워크가 불안정할 때 발생하죠.
@@ -46,6 +58,17 @@ hideDescription: true
 클라우드 저장의 안전성에 기대기보다, 중요한 게임은 **수동 백업**을 함께 하는 것이 좋습니다. 게임이 저장하는 세이브 폴더는 게임마다 다르므로, 해당 게임의 세이브 위치를 찾아 그 폴더를 주기적으로 복사해 두면 됩니다.
 
 특히 온라인 게임이나 멀티플레이어 게임은 클라우드 저장이 아닌 서버에 세이브가 저장되는 경우가 있어, 로컬 폴더를 확인하는 것이 더 정확합니다. 세이브 폴더 위치는 게임 위키나 커뮤니티에서 쉽게 찾을 수 있습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 게임별 클라우드 저장 시간 설정
 

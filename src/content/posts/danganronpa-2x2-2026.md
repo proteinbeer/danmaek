@@ -1,5 +1,6 @@
 ---
 title: "단간론파 2x2 1월 14일 출시, 원작을 알아도 다시 속는 이유"
+draft: true
 description: "단간론파 2x2가 2027년 1월 14일 출시됩니다."
 date: 2026-09-13T12:00:00
 updated: 2026-09-14T12:00:00
@@ -18,6 +19,11 @@ imageHeight: 675
 hideHeroImage: true
 hideDescription: true
 ---
+
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>단간론파 2x2가 2027년 1월 14일 출시됩니다. 단간론파 2x2 1월 14일 출시, 원작을 알아도 다시 속는 이유 관건은 발표 자체보다 출시 일정, 가격, 기다릴 이유가 얼마나 분명한지이죠.</p>
+</div>
 
 단간론파 2x2가 2027년 1월 14일 출시됩니다.
 
@@ -49,6 +55,17 @@ hideDescription: true
 
 예전 버전을 다시 꺼내지 않아도 한 게임 안에서 원작과 새로운 시나리오를 비교할 수 있다는 구성이 깔끔합니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 슬레이헴은 범인까지 바뀐다
 
 핵심은 슬레이헴 모드입니다.
@@ -72,6 +89,17 @@ hideDescription: true
 같은 인물과 장소를 유지한 이유도 여기에 있다고 봅니다.
 
 완전히 새로운 배경보다 익숙한 장면에서 예상이 어긋날 때 충격이 더 크게 느껴집니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 코다카는 감독이 아니라 감수
 

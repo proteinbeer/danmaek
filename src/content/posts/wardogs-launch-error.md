@@ -1,5 +1,6 @@
 ---
 title: "워독스 실행 안 됨, 스팀과 안티 치트부터 확인한다"
+draft: true
 description: "스팀에서 워독스를 눌렀는데 게임 창이 뜨지 않거나 실행 중 표시가 바로 사라진다면 그래픽 설정까지 갈 수 없습니다. 이 경우 게임 파일과 커널 수준 안티 치트 실행 단계부터 확인하는 편이 빠릅니다."
 date: 2026-09-10
 updated: 2026-09-10
@@ -35,6 +36,17 @@ hideDescription: true
 
 게임 전체를 지우기 전에 먼저 실행할 가치가 큽니다. 검사 뒤에는 여러 설정을 동시에 바꾸지 말고 기본 상태에서 다시 실행합니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 오버레이와 입력 프로그램
 
 안티 치트는 게임 프로세스에 접근하는 오버레이, 매크로, 특수 입력기와 충돌할 수 있습니다.
@@ -46,6 +58,17 @@ hideDescription: true
 스팀은 일반 권한인데 게임만 관리자 권한으로 강제하면 프로그램 사이 권한 수준이 달라질 수 있습니다.
 
 테스트할 때는 스팀과 게임을 같은 권한 수준으로 두는 편이 좋습니다. 인터넷 해결법을 한꺼번에 적용하지 않는 것이 중요합니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 윈도우와 드라이버
 
@@ -59,3 +82,13 @@ hideDescription: true
 
 저라면 업데이트, 무결성 검사, 백그라운드 프로그램 정리, 윈도우 상태 순서로 범위를 좁히겠습니다. 실행 오류를 일반 크래시와 나눠서 보는 것이 좋습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

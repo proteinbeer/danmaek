@@ -20,6 +20,11 @@ hideDescription: true
 draft: true
 ---
 
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>닌텐도 미국 법인이 9월 13일부터 26일까지 고객 감사 세일을 진행합니다. 디지털 게임과 일부 패키지, 액세서리 등에 30% 할인이 적용되며 관세 환급금이 이번 할인 재원 가운데 하나로 언급됐습니다. 게임 뉴스는 발표 내용보다 플레이어가 무엇을 얻고 무엇을 더 기다려야 하는지가 핵심이죠.</p>
+</div>
+
 닌텐도 미국 법인이 9월 13일부터 26일까지 고객 감사 세일을 진행합니다. 디지털 게임과 일부 패키지, 액세서리 등에 30% 할인이 적용되며 관세 환급금이 이번 할인 재원 가운데 하나로 언급됐습니다.
 
 이번 소식은 단순한 업데이트 한 줄보다 앞으로의 운영 방향과 이용 경험을 같이 보여주는 변화에 가깝습니다. 현재 확인된 사실과 아직 해석이 필요한 부분을 나눠서 보겠습니다.
@@ -38,6 +43,17 @@ draft: true
 
 새 결정은 이전 콘텐츠의 반응과 시장 변화가 쌓인 결과인 경우가 많습니다. 과거 방식에서 무엇이 부족했는지 보면 이번 선택이 해결하려는 문제가 더 선명하게 보입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 스위치 2 구매자는 왜 미묘할까
 
 30% 할인 자체는 게임을 살 계획이 있던 이용자에게 실질적인 혜택입니다. 하지만 스위치 2 본체를 높은 가격에 구매한 이용자에게는 원하는 게임을 추가로 사야 혜택을 받는 구조라 만족도가 다를 수 있습니다.
@@ -53,6 +69,17 @@ draft: true
 이번 논쟁은 세일 자체가 나쁘다는 이야기가 아니라 누가 원래 비용을 부담했는지에 관한 문제이죠. 같은 30% 할인도 최근에 본체를 산 사람과 처음 들어오는 사람에게는 전혀 다른 의미로 느껴질 수 있습니다.
 
 개인적으로는 이 부분이 가장 흥미롭습니다. 작은 방향 변화가 다른 작품과 서비스에도 반복될 때 일회성 실험이 아니라 회사 전체 전략으로 굳어지는 경우가 많기 때문입니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 실제 할인 타이틀 확인이 먼저
 

@@ -1,5 +1,6 @@
 ---
 title: "워독스 사양과 권장 설정, 60FPS 기준은 생각보다 높다"
+draft: true
 description: "워독스는 최대 100명이 세 팀으로 나뉘어 싸우고 차량, 건설, 파괴가 동시에 돌아가는 대규모 FPS입니다. 공식 최소 사양도 업스케일링을 사용한 1080p 낮음 60FPS를 기준으로 잡고 있어 오래된 그래픽카드로 최고 옵션까지 기대하시면 체감이..."
 date: 2026-09-10
 updated: 2026-09-10
@@ -35,6 +36,17 @@ hideDescription: true
 
 공식 권장도 1440p 중간 70FPS 이상이나 4K 중간 업스케일링 60FPS 이상을 기준으로 잡습니다. 권장 사양이라고 무조건 최고 옵션이 목표는 아닙니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 100인 전장의 CPU 부담
 
 플레이어와 차량이 컨트롤 존에 몰리면 CPU가 처리해야 할 정보가 크게 늘어납니다. 빈 지역에서 잘 나오던 FPS가 대규모 교전에서 떨어질 수 있습니다.
@@ -46,6 +58,17 @@ hideDescription: true
 공식 저장 공간은 50GB입니다. 설치 용량만 딱 맞추지 말고 패치와 임시 파일을 위해 여유를 남겨두는 편이 좋습니다.
 
 오픈월드 데이터를 계속 읽는 게임이라 HDD보다 SSD가 로딩과 순간적인 데이터 불러오기에서 유리할 수 있습니다. 평균 FPS보다 끊김에서 차이가 날 가능성이 큽니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 설정 시작점
 
@@ -59,3 +82,13 @@ hideDescription: true
 
 저라면 최고 숫자보다 최저 프레임 방어를 목표로 잡겠습니다. 워독스는 순간 반응이 중요한 FPS라 프레임 변동 폭이 작은 설정이 실제 전투에서 더 유리합니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

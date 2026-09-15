@@ -20,6 +20,11 @@ hideDescription: true
 draft: true
 ---
 
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>메타의 새 개인 비서형 AI 뮤즈가 이메일 정리와 쇼핑, 여행 계획 같은 실제 작업을 대신하는 능력으로 관심을 받고 있습니다. 문제는 일을 잘하려면 Gmail과 아마존, 인스타그램, 페이스북 등 개인 서비스 안쪽까지 깊게 들어가야 한다는 점입니다. 결국 중요한 건 기술 이름보다 비용, 서비스 방식, 이용 선택지가 실제로 어떻게 달라지는지이죠.</p>
+</div>
+
 메타의 새 개인 비서형 AI 뮤즈가 이메일 정리와 쇼핑, 여행 계획 같은 실제 작업을 대신하는 능력으로 관심을 받고 있습니다. 문제는 일을 잘하려면 Gmail과 아마존, 인스타그램, 페이스북 등 개인 서비스 안쪽까지 깊게 들어가야 한다는 점입니다.
 
 AI 에이전트의 가장 큰 딜레마가 그대로 드러납니다. 개인화가 잘될수록 편리하지만 동시에 AI가 나보다 내 정보를 더 많이 보고 있다는 느낌도 강해집니다.
@@ -38,6 +43,17 @@ AI 에이전트의 가장 큰 딜레마가 그대로 드러납니다. 개인화�
 
 사용자가 직접 한 번에 보여주지 않은 정보까지 여러 서비스에서 조합하면 결과는 똑똑해집니다. 동시에 어디까지 알고 있는지 이용자가 파악하기 어려워집니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 편리함의 가격
 
 AI가 대신 쇼핑하려면 주소와 취향을 알아야 하고 이메일을 정리하려면 받은편지함을 읽어야 합니다. 개인 비서 기능은 본질적으로 높은 권한을 요구합니다.
@@ -50,6 +66,17 @@ AI가 대신 쇼핑하려면 주소와 취향을 알아야 하고 이메일을 �
 
 제가 보기에는 뮤즈의 기술 문제보다 신뢰 문제가 더 큽니다. 기능이 뛰어나도 사용자가 계정 전체를 맡기기 싫다면 에이전트의 장점이 사라집니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 권한 관리
 
 메타는 일부 연결 서비스를 해제할 수 있다고 설명하고 보안용 가상 환경도 강조하고 있습니다. 앞으로 비밀번호 관리 서비스와의 통합도 준비하고 있습니다.
@@ -61,6 +88,17 @@ AI 에이전트 시대에는 앱 권한 화면이 지금보다 훨씬 중요해�
 기존 챗봇은 사용자가 정보를 주면 답을 만드는 도구였습니다. 뮤즈 같은 에이전트는 사용자의 계정에 들어가 실제 행동까지 하기 때문에 실수의 결과가 훨씬 큽니다.
 
 잘못된 답변은 무시하면 끝나지만 잘못 보낸 이메일이나 주문은 되돌리기 어렵습니다. 그래서 에이전트에는 정확도뿐 아니라 승인 단계와 취소 기능이 필수입니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 7. 신뢰의 시험
 
@@ -80,3 +118,13 @@ AI 에이전트 시대에는 앱 권한 화면이 지금보다 훨씬 중요해�
 
 뮤즈가 성공하려면 일을 잘하는 것만으로는 부족합니다. 이용자가 언제든 왜 이런 추천을 했는지, 어떤 계정 정보를 읽었는지, 무엇을 실행했는지 확인할 수 있어야 개인 비서라는 이름에 맞는 신뢰가 생깁니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

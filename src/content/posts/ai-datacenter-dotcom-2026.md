@@ -19,11 +19,16 @@ hideHeroImage: true
 hideDescription: true
 ---
 
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>암호화폐 채굴장을 운영하던 회사들이 GPU와 전력을 바탕으로 AI 데이터센터 사업자로 변신하고 있습니다. 코인 채굴장이 AI 데이터센터가 됐다, 2000년과 닮은 장면 결국 중요한 건 기술 이름보다 비용, 서비스 방식, 이용 선택지가 실제로 어떻게 달라지는지이죠.</p>
+</div>
+
 암호화폐 채굴장을 운영하던 회사들이 GPU와 전력을 바탕으로 AI 데이터센터 사업자로 변신하고 있습니다.
 
 코어위브 같은 네오클라우드 기업이 빠르게 성장하면서 1990년대 말 광대역 통신망 투자 붐과 닮았다는 분석도 나옵니다.
 
-인터넷 자체는 결국 세상을 바꿨지만 당시 통신망에 투자한 모든 회사가 살아남은 것은 아닙니다.
+인터넷 자체는 결국 세상을 바꿨지만 당시 통신망에 투자한 모든 회사가 살아남은 것은 아니죠.
 
 AI도 기술의 방향이 맞는 것과 지금 투자한 모든 회사가 성공하는 것은 전혀 다른 문제일 수 있습니다.
 
@@ -37,7 +42,7 @@ AI 수요가 폭발하자 이 인프라를 데이터센터로 돌리는 것은 �
 
 비트코인 가격에 의존하던 사업에서 빅테크와 AI 회사에 연산력을 빌려주는 사업으로 이동한 셈입니다.
 
-기존 자산을 재활용할 수 있다는 점에서 진입 속도도 빠릅니다.
+기존 자산을 재활용할 수 있다는 점에서 진입 속도도 빠르죠.
 
 ## 2. 네오클라우드가 커진 이유
 
@@ -45,9 +50,20 @@ AI 수요가 폭발하자 이 인프라를 데이터센터로 돌리는 것은 �
 
 네오클라우드는 특정 AI 연산에 집중해 이런 수요를 빠르게 받아냈습니다.
 
-대형 회사가 기다리라고 할 때 바로 GPU를 제공할 수 있다는 것만으로도 큰 경쟁력이 됐습니다.
+대형 회사가 기다리라고 할 때 바로 GPU를 제공할 수 있다는 것만으로도 큰 경쟁력이 됐죠.
 
 AI 붐 초기에 부족한 공급을 메운 틈새가 거대한 시장으로 커졌습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 3. 닷컴 시대 광대역과 닮았다
 
@@ -65,19 +81,30 @@ AI 붐 초기에 부족한 공급을 메운 틈새가 거대한 시장으로 커
 
 현재 AI 회사들은 더 큰 모델과 더 많은 추론 자원을 요구합니다.
 
-하지만 알고리즘 효율이 좋아지거나 작은 모델이 충분해지면 필요한 GPU 증가 속도가 예상보다 낮아질 수도 있습니다.
+하지만 알고리즘 효율이 좋아지거나 작은 모델이 충분해지면 필요한 GPU 증가 속도가 예상보다 낮아질 수도 있죠.
 
 새 칩 세대가 전력 효율을 크게 높여도 기존 데이터센터의 경제성이 흔들릴 수 있습니다.
 
 오늘 부족한 GPU가 몇 년 뒤에도 같은 가격으로 부족할 것이라고 단정하기 어렵습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 고객 집중이 위험하다
 
-일부 네오클라우드는 몇몇 대형 AI 회사 매출 비중이 매우 높습니다.
+일부 네오클라우드는 몇몇 대형 AI 회사 매출 비중이 매우 높죠.
 
-큰 계약 하나를 따내면 빠르게 성장하지만 고객이 자체 인프라를 만들거나 공급사를 바꾸면 충격도 큽니다.
+큰 계약 하나를 따내면 빠르게 성장하지만 고객이 자체 인프라를 만들거나 공급사를 바꾸면 충격도 크죠.
 
-대형 클라우드처럼 수많은 산업 고객에게 위험이 분산된 구조와 차이가 있습니다.
+대형 클라우드처럼 수많은 산업 고객에게 위험이 분산된 구조와 차이가 있죠.
 
 성장 속도가 빠른 만큼 계약 하나의 의미도 커집니다.
 
@@ -89,21 +116,32 @@ AI 데이터센터 투자가 과열됐다고 해서 AI 자체가 사라진다는
 
 저는 이 비교에서 가장 중요한 점이 바로 그 부분이라고 봅니다.
 
-기술의 미래를 믿는 것과 현재 가격으로 모든 관련 회사에 투자하는 건 다른 판단입니다.
+기술의 미래를 믿는 것과 현재 가격으로 모든 관련 회사에 투자하는 건 다른 판단이죠.
 
 AI 붐이 진짜여도 승자는 생각보다 적을 수 있습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 7. 전력과 GPU가 담보가 된다
 
 AI 데이터센터는 일반 인터넷 회사와 달리 GPU라는 비싼 자산과 전력 계약을 보유합니다.
 
-일부 회사는 이런 장비와 장기 계약을 기반으로 추가 자금을 조달하며 더 빠르게 시설을 늘리고 있습니다.
+일부 회사는 이런 장비와 장기 계약을 기반으로 추가 자금을 조달하며 더 빠르게 시설을 늘리고 있죠.
 
 성장이 이어질 때는 선순환처럼 보입니다.
 
 GPU를 더 사고 고객을 늘리고 그 계약을 기반으로 다시 돈을 빌려 다음 데이터센터를 짓습니다.
 
-하지만 GPU 가격이 빠르게 떨어지거나 고객 계약이 줄면 담보 가치와 성장 가정이 동시에 약해질 수 있습니다.
+하지만 GPU 가격이 빠르게 떨어지거나 고객 계약이 줄면 담보 가치와 성장 가정이 동시에 약해질 수 있죠.
 
 과거 광대역 붐과 비교할 때 기술보다 금융 구조를 함께 봐야 하는 이유입니다.
 
@@ -111,9 +149,19 @@ GPU를 더 사고 고객을 늘리고 그 계약을 기반으로 다시 돈을 �
 
 과열 뒤에도 살아남는 인프라 회사는 보통 낮은 비용과 다양한 고객, 장기 계약을 갖고 있습니다.
 
-AI 데이터센터도 전력 가격과 GPU 조달 능력, 고객 집중도를 함께 봐야 합니다.
+AI 데이터센터도 전력 가격과 GPU 조달 능력, 고객 집중도를 함께 봐야 하죠.
 
 단순히 GPU를 많이 보유한 회사보다 자산을 오래 높은 가동률로 돌리는 회사가 유리합니다.
 
 결국 데이터센터 사업도 기술 이야기처럼 보이지만 본질은 비싼 장비를 얼마나 쉬지 않고 돈 벌게 하느냐에 가깝습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

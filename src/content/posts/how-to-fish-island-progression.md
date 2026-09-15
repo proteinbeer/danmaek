@@ -28,7 +28,7 @@ hideDescription: true
 
 메인 진행은 등대섬에서 시작해 숲섬, 사막섬, 바위섬, 화산섬으로 이어집니다. 자유롭게 배를 타고 다닐 수 있어 보여도 스토리 해금 순서는 사실상 정해져 있습니다.
 
-처음에는 섬을 많이 돌아다니는 것보다 현재 섬의 퀘스트를 끝내는 편이 중요합니다. 다음 좌표가 열리는 조건이 퀘스트와 보스 전리품에 묶여 있기 때문입니다.
+처음에는 섬을 많이 돌아다니는 것보다 현재 섬의 퀘스트를 끝내는 편이 중요하죠. 다음 좌표가 열리는 조건이 퀘스트와 보스 전리품에 묶여 있기 때문입니다.
 
 ## 2. 등대섬에서 보트를 연다
 
@@ -36,21 +36,43 @@ hideDescription: true
 
 보트를 얻기 전까지 돈을 너무 많이 쓰지 마시고 첫 보스 준비에 집중하시면 초반이 짧아집니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 숲섬은 거대 피라냐가 관문이다
 
-숲섬에서는 일반 어종뿐 아니라 거대 피라냐 진행이 핵심입니다. 퀘스트에서 필요한 재료와 변형 거머리 미끼를 준비한 뒤 보스를 잡고 전리품을 처리해야 다음 단계로 갑니다.
+숲섬에서는 일반 어종뿐 아니라 거대 피라냐 진행이 핵심이죠. 퀘스트에서 필요한 재료와 변형 거머리 미끼를 준비한 뒤 보스를 잡고 전리품을 처리해야 다음 단계로 갑니다.
 
 최근 1점0점12에서는 피라냐 밸런스도 다시 조정됐으니 예전 영상과 현재 체감이 조금 다를 수 있습니다.
 
 ## 4. 사막섬은 복어 진행을 본다
 
-사막섬에서는 표준 미끼 단계로 일반 어종을 늘려가면서 복어 보스 퀘스트를 처리하게 됩니다. 여기서도 보스만 죽이고 끝내지 말고 퀘스트 반납까지 확인하셔야 합니다.
+사막섬에서는 표준 미끼 단계로 일반 어종을 늘려가면서 복어 보스 퀘스트를 처리하게 됩니다. 여기서도 보스만 죽이고 끝내지 말고 퀘스트 반납까지 확인하셔야 하죠.
 
 예전 버전보다 복어가 조정된 상태라 오래된 공략에서 말하는 난도와 다를 수 있습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 바위섬은 참치와 알바트로스가 이어진다
 
-바위섬은 참치와 알바트로스가 하나의 진행 사슬처럼 연결됩니다. 참치를 잡은 뒤 그 결과물을 이용해 다음 전투가 이어지므로 중간 전리품을 아무렇게나 판매하시면 안 됩니다.
+바위섬은 참치와 알바트로스가 하나의 진행 사슬처럼 연결됩니다. 참치를 잡은 뒤 그 결과물을 이용해 다음 전투가 이어지므로 중간 전리품을 아무렇게나 판매하시면 안 되죠.
 
 이 구간부터 이동과 전투 시간이 길어지기 때문에 엔진과 레이더 업그레이드 체감도 커집니다.
 
@@ -58,7 +80,18 @@ hideDescription: true
 
 화산섬에서는 북극고래와 변이 북극고래 흐름이 최종 진행을 담당합니다. 최종 보스는 일반 물고기처럼 무작정 붙기보다 안전거리와 폭발물, 팀 역할을 나눠 보는 편이 좋습니다.
 
-1점0점12에서는 최종 보스 꼬리 쪽에 폭발물이 닿았을 때 피해가 들어가지 않던 문제도 수정됐습니다.
+1점0점12에서는 최종 보스 꼬리 쪽에 폭발물이 닿았을 때 피해가 들어가지 않던 문제도 수정됐죠.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 7. 막히면 퀘스트 전리품부터 확인한다
 
@@ -70,15 +103,25 @@ hideDescription: true
 
 한 세션에서 돈벌이, 도감, 보스, 업적을 전부 해결하려 하면 장비와 아이템 관리가 복잡해집니다. 지금 무엇을 하려는지 한 가지를 먼저 정하고 필요한 장비만 들고 움직이시면 실수가 줄어듭니다.
 
-특히 퀘스트 전리품과 희귀 드립은 일반 판매 물고기와 분리해 두는 습관이 좋습니다. 물리 효과로 아이템이 흩어져도 무엇을 잃었는지 바로 확인할 수 있습니다.
+특히 퀘스트 전리품과 희귀 드립은 일반 판매 물고기와 분리해 두는 습관이 좋죠. 물리 효과로 아이템이 흩어져도 무엇을 잃었는지 바로 확인할 수 있습니다.
 
-패치가 빠른 게임이라는 점도 기억하셔야 합니다. 출시 뒤 짧은 기간에 로비 인원, 보스 밸런스, 저장, 스팀 덱, 스팀 클라우드, 프레임 문제까지 여러 변화가 들어갔습니다. 예전 공략에서 안 된다고 한 기능이 지금은 지원되거나 반대로 막힌 방법도 있습니다.
+패치가 빠른 게임이라는 점도 기억하셔야 합니다. 출시 뒤 짧은 기간에 로비 인원, 보스 밸런스, 저장, 스팀 덱, 스팀 클라우드, 프레임 문제까지 여러 변화가 들어갔습니다. 예전 공략에서 안 된다고 한 기능이 지금은 지원되거나 반대로 막힌 방법도 있죠.
 
 이상한 상황이 나오면 내 실수라고 단정하기 전에 스팀 공지의 최신 버전과 현재 설정을 먼저 확인하시는 편이 좋습니다.
 
 진행이 막혔을 때는 무작정 낚시를 반복하기보다 현재 섬에서 아직 끝나지 않은 인물 대화와 보스 전리품을 다시 확인하시면 됩니다. 낚시 방법은 자유도가 높아 보여도 스토리 해금 자체는 퀘스트 사슬을 따라가기 때문에 원인을 좁히기 어렵지 않습니다.
 
-또한 새 섬으로 넘어가기 전에는 다음 미끼와 무기 비용을 조금 남겨 두는 편이 좋습니다. 이전 지역에서 돈을 전부 써버리면 새 지역에서 다시 일반 어종부터 파밍해야 해서 체감 진행 시간이 길어집니다.
+또한 새 섬으로 넘어가기 전에는 다음 미끼와 무기 비용을 조금 남겨 두는 편이 좋죠. 이전 지역에서 돈을 전부 써버리면 새 지역에서 다시 일반 어종부터 파밍해야 해서 체감 진행 시간이 길어집니다.
 
 처음부터 모든 기능을 완벽하게 이해하려 하기보다 현재 목표에 필요한 것만 익히시면 됩니다. 낚시 방법은 새 섬으로 갈수록 앞에서 배운 시스템을 반복해서 쓰는 구조라 한두 지역만 지나도 장비와 퀘스트 판단이 훨씬 빨라집니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

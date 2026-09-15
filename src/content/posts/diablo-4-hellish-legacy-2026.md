@@ -20,6 +20,11 @@ hideDescription: true
 draft: true
 ---
 
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>디아블로 4의 지옥의 유산 시즌이 9월 15일 시작됩니다. 블리자드는 디아블로 30주년을 맞아 디아블로를 포함한 프라임 이블과 데커드 케인, 역대 시리즈를 떠올리게 하는 장비를 이번 시즌에 넣습니다. 게임 뉴스는 발표 내용보다 플레이어가 무엇을 얻고 무엇을 더 기다려야 하는지가 핵심이죠.</p>
+</div>
+
 디아블로 4의 지옥의 유산 시즌이 9월 15일 시작됩니다. 블리자드는 디아블로 30주년을 맞아 디아블로를 포함한 프라임 이블과 데커드 케인, 역대 시리즈를 떠올리게 하는 장비를 이번 시즌에 넣습니다.
 
 이번 소식은 발표 한 줄만 보면 단순해 보이지만, 조금 더 들어가면 해당 게임과 서비스가 앞으로 어디로 가려는지 보여주는 변화에 가깝습니다. 지금 확정된 내용과 아직 남은 부분을 나눠서 보겠습니다.
@@ -38,6 +43,17 @@ draft: true
 
 새로운 결정은 갑자기 나온 것처럼 보여도 이전 작품의 반응과 시장 변화가 쌓인 결과인 경우가 많습니다. 과거 방식을 그대로 반복하기 어려워진 지점에서 어떤 문제를 해결하려는지 보면 선택의 이유가 더 선명해집니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 데커드 케인과 30주년 콘텐츠
 
 복귀 이용자 입장에서는 시즌 시작 시점이 가장 중요합니다. 새 시즌 캐릭터를 키우면서 과거 작품의 상징적인 적과 장비를 경험할 수 있다면 단순한 기념 이벤트보다 실제 플레이 이유가 생기기 때문입니다.
@@ -53,6 +69,17 @@ draft: true
 기념 시즌은 과거를 그대로 가져오는 것보다 현재 게임의 성장 구조 안에 자연스럽게 녹이는 것이 중요합니다. 오래된 이름이 등장하는 순간은 반갑지만 반복해서 플레이할 이유는 결국 보상과 빌드 다양성이 만들어냅니다.
 
 개인적으로는 이 지점이 가장 흥미롭습니다. 눈에 띄는 발표 하나보다 이런 방향 변화가 다른 작품과 서비스에도 반복될 때 회사 전체의 전략으로 굳어지는 경우가 많기 때문입니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 보스전과 보상 효율이 관건
 

@@ -20,6 +20,11 @@ hideHeroImage: true
 hideDescription: true
 ---
 
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>크래프톤이 게임스컴 2026에서 타래 언바운드를 공개했습니다. 한국어 음성과 동양적 세계관을 감추지 않은 선택, 검은신화 오공 이후 달라진 기준까지 정리합니다. 관건은 발표 자체보다 출시 일정, 가격, 기다릴 이유가 얼마나 분명한지이죠.</p>
+</div>
+
 크래프톤이 게임스컴 2026에서 타래 언바운드를 공개했습니다. 해외 대형 행사에서 공개된 게임인데도 한국어 음성과 한국적인 의상, 동양적인 세계관을 감추지 않았다는 점이 눈에 띄죠.
 
 예전에는 한국 게임이 세계 시장을 노릴수록 서양 판타지에 가까워지는 경우가 많았습니다. 그런데 타래 언바운드는 반대로 한국적인 낯선함 자체를 경쟁력으로 사용하는 쪽이죠.
@@ -44,6 +49,17 @@ hideDescription: true
 
 특히 해외 전시회에서는 몇 초 안에 게임의 인상을 남겨야 합니다. 비슷한 중세 판타지 작품이 연달아 등장하는 상황에서 복장과 건축, 언어만으로 출신 문화가 보이는 게임은 그 자체로 기억 장치를 하나 더 갖게 되는 것입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 검은신화 오공 이후
 
 검은신화 오공의 세계적인 성공 이후 아시아 게임이 자국 문화를 얼마나 드러내야 하는지에 대한 기준도 달라졌습니다. 중국의 건축과 신화, 요괴를 그대로 사용한 것이 약점이 아니라 가장 강한 차별점이 됐기 때문입니다.
@@ -59,6 +75,17 @@ hideDescription: true
 이 선택은 해외 시장에서 꽤 실용적입니다. 조작과 성장 방식은 이용자가 이미 알고 있는 틀을 사용하고 그 안에 한국적인 세계관을 넣을 수 있기 때문이죠.
 
 낯선 문화와 낯선 게임 방식을 동시에 이해해야 하는 부담을 줄이는 겁니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 결국 남는 것은 전투
 
@@ -76,3 +103,13 @@ hideDescription: true
 
 대형 게임이 매년 수없이 쏟아지는 시장에서는 이제 익숙함만으로 살아남기 어렵죠. 그래서 타래 언바운드의 흥미로운 점은 한국적인 요소가 많다는 사실보다 그것을 굳이 감추지 않는다는 데 있습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

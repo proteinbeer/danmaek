@@ -1,5 +1,6 @@
 ---
 title: "스타워즈 제로 컴퍼니 무기 추천, 플레이스타일별로 고르기"
+draft: true
 description: "스타워즈 제로 컴퍼니에서 무기는 그냥 높은 수치 하나만 보고 고르면 생각보다 손에 안 맞을 수 있습니다. 같은 무기라도 누가 드느냐, 어떤 턴을 만들고 싶으냐에 따라 체감이 크게 달라지기 때문입니다."
 date: 2026-09-11
 updated: 2026-09-11
@@ -38,6 +39,17 @@ hideDescription: true
 
 공식 가이드에서도 어설트나 건슬링어처럼 기동성을 살리는 특화와 잘 어울리는 조합으로 소개합니다. 공격보다 턴 전체 리듬을 중요하게 보신다면 꽤 만족스럽습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 장거리 정밀 사격이 좋다면 롱암 블라스터
 
 멀리서 확실하게 한 발을 넣는 감각이 좋다면 롱암 블라스터 쪽이 맞습니다. 기본 피해와 치명 보너스가 높고, 장거리 전투를 선호하시는 분에게 가장 선명한 선택지입니다.
@@ -50,6 +62,17 @@ hideDescription: true
 
 공식 가이드에서도 최대 공격력과 지속 화력 쪽으로 설명합니다. 대신 이동 여지가 줄어들 수 있으니, 안전한 자리 확보가 먼저입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 초보자 추천 조합도 참고할 만하다
 
 공식 기준 초보자에게는 솔저 또는 어설트와 블라스터 라이플 조합을 추천합니다. 장거리 선호라면 샤프슈터와 롱암 블라스터, 기동전을 좋아하면 어설트나 건슬링어와 블라스터 피스톨이 잘 맞습니다.
@@ -61,6 +84,17 @@ hideDescription: true
 같은 피해량이라도 공격 후 무엇을 더 할 수 있는지가 중요합니다. 엄폐를 유지할 수 있는지, 오버워치를 남길 수 있는지, 아군과 보조 타이밍을 맞출 수 있는지에 따라 실전 체감은 꽤 달라집니다.
 
 그래서 화력 숫자만 보고 무기를 바꾸면 오히려 전투가 답답해질 수 있습니다. 턴이 짧아졌다면 대개 이 부분이 원인입니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 7. 정답은 하나보다 성향에 있다
 

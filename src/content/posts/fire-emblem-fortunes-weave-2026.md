@@ -20,6 +20,11 @@ hideDescription: true
 draft: true
 ---
 
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>파이어 엠블렘 포춘스 위브의 스위치 2 예상 설치 용량이 29.5GB로 확인됐습니다. 파이어 엠블렘 포춘스 위브 29.5GB, 전작보다 두 배 가까이 커진 이유 게임 뉴스는 발표 내용보다 플레이어가 무엇을 얻고 무엇을 더 기다려야 하는지가 핵심이죠.</p>
+</div>
+
 파이어 엠블렘 포춘스 위브의 스위치 2 예상 설치 용량이 29.5GB로 확인됐습니다.
 
 풍화설월 11.5GB, 인게이지 16.5GB와 비교하면 시리즈 안에서도 큰 증가입니다.
@@ -58,6 +63,17 @@ draft: true
 
 익숙해진 뒤에도 선택지가 늘었다고 느껴지는지, 아니면 해야 할 조작만 늘어났는지가 결국 완성도를 가르게 됩니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 다그단 제국으로 옮긴 새 무대
 
 이번 작품은 다그단 제국을 중심으로 새로운 정치 구조와 인물 관계를 쌓습니다.
@@ -85,6 +101,17 @@ draft: true
 결국 좋은 후속작과 리메이크는 기억 속 장점을 남기면서 지금 플레이하기 불편한 부분만 정확히 걷어냅니다.
 
 이번 변화도 그 균형을 얼마나 잘 잡았는지가 장기 평가에 더 중요합니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 디지털판은 여유 공간이 필요
 

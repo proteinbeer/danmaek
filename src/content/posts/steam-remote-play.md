@@ -33,7 +33,7 @@ hideDescription: true
 
 리모트 플레이를 사용한다고 저사양 노트북이 갑자기 고성능 게임을 직접 계산하는 것은 아닙니다.
 
-그래픽과 CPU 작업은 게임이 설치된 호스트 PC가 담당하고 다른 기기는 영상 스트림을 받아 보여주는 역할을 합니다.
+그래픽과 CPU 작업은 게임이 설치된 호스트 PC가 담당하고 다른 기기는 영상 스트림을 받아 보여주는 역할을 하죠.
 
 그래서 호스트 PC는 게임을 정상적으로 실행할 수 있어야 합니다.
 
@@ -47,7 +47,18 @@ hideDescription: true
 
 처음 연결할 때는 같은 집 안의 네트워크에서 테스트하는 편이 쉽습니다.
 
-로컬 환경에서 잘 되는지 확인한 뒤 외부 연결로 넓혀야 인터넷 회선 문제와 기기 설정 문제를 구분할 수 있습니다.
+로컬 환경에서 잘 되는지 확인한 뒤 외부 연결로 넓혀야 인터넷 회선 문제와 기기 설정 문제를 구분할 수 있죠.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 3. 가장 중요한 건 호스트의 유선 연결
 
@@ -63,11 +74,22 @@ hideDescription: true
 
 싱글 플레이 RPG는 약간의 지연이 있어도 플레이하기 쉽지만 경쟁형 슈팅이나 리듬 게임은 작은 지연도 바로 느껴집니다.
 
-리모트 플레이 설정에서 화질을 너무 높이면 네트워크와 인코딩 부담이 커져 입력 반응이 늦어질 수 있습니다.
+리모트 플레이 설정에서 화질을 너무 높이면 네트워크와 인코딩 부담이 커져 입력 반응이 늦어질 수 있죠.
 
 화면이 조금 부드럽지 않더라도 지연이 낮은 쪽이 실제 조작은 더 편할 수 있습니다.
 
 무조건 최고 화질보다 게임 장르에 맞는 균형을 찾는 것이 중요합니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 패드가 안 잡힐 때
 
@@ -75,7 +97,7 @@ hideDescription: true
 
 스팀에서 패드 자체를 인식하지 못하면 게임에서도 입력이 제대로 가지 않습니다.
 
-먼저 클라이언트의 컨트롤러 설정에서 버튼이 잡히는지 확인하고 그다음 게임에서 테스트하시면 됩니다.
+먼저 클라이언트의 컨트롤러 설정에서 버튼이 잡히는지 확인하고 그다음 게임에서 테스트하시면 되죠.
 
 게임이 특수한 원시 입력 방식을 사용하면 리모트 환경에서 예상대로 작동하지 않는 경우도 있습니다.
 
@@ -85,9 +107,20 @@ hideDescription: true
 
 반대로 인터넷 상태가 불안정한 외부 환경에서 경쟁 게임을 주력으로 하는 용도라면 만족도가 낮을 수 있습니다.
 
-저는 리모트 플레이를 저사양 PC를 고사양 PC로 바꾸는 기술보다 고사양 PC의 화면과 입력을 다른 장소로 빌려주는 기능으로 보는 편이 정확하다고 생각합니다.
+저는 리모트 플레이를 저사양 PC를 고사양 PC로 바꾸는 기술보다 고사양 PC의 화면과 입력을 다른 장소로 빌려주는 기능으로 보는 편이 정확하다고 생각하죠.
 
 이 원리를 이해하면 사양보다 네트워크부터 손봐야 하는 이유도 자연스럽게 보입니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 7. 문제를 네트워크와 영상으로 나누기
 
@@ -95,6 +128,6 @@ hideDescription: true
 
 화면이 선명한데 조작만 늦다면 지연 문제에 가깝고, 조작은 괜찮은데 화면이 블록처럼 깨진다면 전송 품질과 대역폭을 먼저 볼 수 있습니다. 소리만 끊기는 경우에는 오디오 장치와 스트리밍 설정을 별도로 확인해야 하죠.
 
-같은 집 안에서 테스트할 때는 먼저 호스트를 유선으로 연결한 상태를 기준으로 만드는 것이 좋습니다. 그 상태에서도 문제가 심하면 외부 인터넷보다 PC 인코딩과 클라이언트 성능, 게임 자체 상태를 더 의심할 수 있습니다.
+같은 집 안에서 테스트할 때는 먼저 호스트를 유선으로 연결한 상태를 기준으로 만드는 것이 좋죠. 그 상태에서도 문제가 심하면 외부 인터넷보다 PC 인코딩과 클라이언트 성능, 게임 자체 상태를 더 의심할 수 있습니다.
 
 리모트 플레이는 여러 기술이 한 번에 움직이는 기능이라 한 설정으로 모든 문제가 해결되지는 않습니다. 증상을 영상, 입력, 소리로 나눠보면 무엇을 조절해야 하는지가 훨씬 선명해집니다.

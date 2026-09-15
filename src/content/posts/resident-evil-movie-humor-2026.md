@@ -20,6 +20,11 @@ hideDescription: true
 draft: true
 ---
 
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>재크 크레거가 준비 중인 새 바이오하자드 영화는 테스트 상영에서 예상보다 웃기다는 반응을 받았습니다. 새 바이오하자드 영화가 너무 웃겼다, 테스트 상영 뒤 유머를 줄인 이유 게임 뉴스는 발표 내용보다 플레이어가 무엇을 얻고 무엇을 더 기다려야 하는지가 핵심이죠.</p>
+</div>
+
 재크 크레거가 준비 중인 새 바이오하자드 영화는 테스트 상영에서 예상보다 웃기다는 반응을 받았습니다.
 
 감독은 관객 반응을 본 뒤 일부 농담과 코미디 요소를 줄였다고 밝혔습니다.
@@ -58,6 +63,17 @@ draft: true
 
 감독이 유머를 줄였다는 것은 장르의 중심을 다시 공포에 맞춘 선택으로 보입니다라는 점은 함께 보셔야 합니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 원작 팬이 원하는 바이오하자드
 
 바이오하자드 팬은 작품마다 서로 다른 분위기를 경험해 왔습니다.
@@ -86,6 +102,17 @@ draft: true
 
 다만 이번 수정이 균형 조정인지 대폭 변화인지는 최종판을 봐야 합니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 게임 원작 영화의 어려움
 
 게임은 이용자가 직접 움직이고 실패하며 공포를 체험하지만 영화는 정해진 흐름을 따라갑니다.
@@ -109,6 +136,17 @@ draft: true
 처음 공개된 숫자와 설명은 방향을 보여주지만 실제 이용 환경에서는 예상하지 못한 문제가 나올 수 있습니다.
 
 후속 발표와 이용자 반응을 함께 보시면 처음 기사만 읽었을 때보다 변화의 크기를 더 정확하게 판단할 수 있습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 7. 실제 적용에서 볼 부분
 

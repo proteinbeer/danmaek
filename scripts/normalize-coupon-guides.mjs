@@ -1,0 +1,182 @@
+import fs from 'node:fs';
+import path from 'node:path';
+
+const postsDir = path.join(process.cwd(), 'src', 'content', 'posts');
+const today = new Date().toISOString().slice(0, 10);
+const coupangBanner = `<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+\tnew PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>`;
+
+function splitFrontmatter(source) {
+  const match = source.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?/);
+  if (!match) return null;
+  return {
+    raw: match[1],
+    body: source.slice(match[0].length)
+  };
+}
+
+function getValue(frontmatter, key) {
+  const match = frontmatter.match(new RegExp(`^${key}:\\s*(.*)$`, 'm'));
+  return match ? match[1].trim().replace(/^["']|["']$/g, '') : '';
+}
+
+function upsertField(frontmatter, key, value) {
+  const line = `${key}: ${value}`;
+  const re = new RegExp(`^${key}:\\s*.*$`, 'm');
+  if (re.test(frontmatter)) return frontmatter.replace(re, line);
+  return frontmatter.replace(/^(title:\s*.*)$/m, `$1\n${line}`);
+}
+
+function extractLead(body) {
+  const beforeImage = body.split(/<img\b/i)[0] || '';
+  return beforeImage
+    .split(/\n{2,}/)
+    .map((part) => part.trim())
+    .filter((part) => part && !part.startsWith('##') && !part.startsWith('|'))
+    .slice(0, 2)
+    .join('\n\n');
+}
+
+function extractImageTag(body, image, imageAlt, imageWidth, imageHeight) {
+  const match = body.match(/<img\b[\s\S]*?\/>/);
+  if (match) return match[0].replace(/class="([^"]*)"/, (_all, cls) => {
+    const classes = new Set(cls.split(/\s+/).filter(Boolean));
+    classes.add('post-landscape-image');
+    classes.add('post-landscape-image--high');
+    return `class="${[...classes].join(' ')}"`;
+  });
+  return `<img class="post-landscape-image post-landscape-image--high" src="${image}" alt="${imageAlt}" width="${imageWidth || 1200}" height="${imageHeight || 675}" loading="lazy" decoding="async" />`;
+}
+
+function extractCouponTable(body) {
+  const lines = body.split(/\r?\n/);
+  const tables = [];
+  for (let i = 0; i < lines.length; i++) {
+    if (!lines[i].trim().startsWith('|')) continue;
+    const table = [];
+    while (i < lines.length && lines[i].trim().startsWith('|')) {
+      table.push(lines[i].trimEnd());
+      i++;
+    }
+    if (table.length >= 2 && table[1].includes('---')) tables.push(table.join('\n'));
+  }
+  return tables[0] || '| 쿠폰 코드 | 보상 | 비고 |\n| --- | --- | --- |\n| 확인 중 | 새 코드 확인 시 이 표에 반영 | 공식 채널 기준으로 갱신 |';
+}
+
+function guideBody({ game, title, oldBody, image, imageAlt, imageWidth, imageHeight }) {
+  const lead = extractLead(oldBody) || `${game} 쿠폰은 게임 안팎의 공식 채널에서 공개되는 리딤코드와 이벤트 보상을 정리하는 페이지입니다.`;
+  const imageTag = extractImageTag(oldBody, image, imageAlt, imageWidth, imageHeight);
+  const table = extractCouponTable(oldBody);
+
+  return `${lead}
+
+이 글은 매달 새 URL을 만들지 않고, ${game} 쿠폰과 입력 방법을 한곳에서 계속 갱신하는 고정 가이드입니다. 새 코드가 확인되면 아래 표와 업데이트 기록을 수정하는 방식으로 관리합니다.
+
+${imageTag}
+
+## 1. 현재 확인된 쿠폰 코드
+
+아래 표는 현재 글에 정리된 ${game} 쿠폰 코드입니다. 쿠폰은 계정당 1회만 사용할 수 있고, 서버·지역·이벤트 기간에 따라 입력 가능 여부가 달라질 수 있습니다.
+
+${table}
+
+코드가 오래된 이벤트에서 나온 경우에는 입력 전에 공식 공지와 게임 내 우편함 지급 여부를 함께 확인하는 편이 안전합니다. 유효 기간이 짧은 방송·기념일 코드는 공개 직후 바로 입력하는 것이 좋죠.
+
+표에 있는 코드가 모두 같은 조건으로 작동하는 것은 아닙니다. 일부 코드는 신규 유저, 복귀 유저, 특정 서버, 특정 플랫폼에만 열릴 수 있습니다. 그래서 보상 이름만 보고 바로 기대하기보다, 입력 후 실제 우편함에 들어오는지까지 확인해야 합니다.
+
+보상이 바로 보이지 않는다면 게임을 완전히 종료한 뒤 다시 접속하는 것도 방법입니다. 서버 반영이 늦거나 우편함 갱신이 지연되는 경우가 있어서, 입력 직후보다 몇 분 뒤에 들어오는 사례도 있죠.
+
+## 2. 쿠폰 입력 방법
+
+${game} 쿠폰은 게임 내 설정 메뉴, 공지의 코드 교환 배너, 또는 공식 리딤 페이지에서 입력하는 방식이 일반적입니다. 게임마다 메뉴 이름은 조금 다를 수 있으므로, 먼저 계정 로그인 상태와 서버를 확인해야 합니다.
+
+1. 게임 계정으로 로그인합니다.
+2. 설정, 공지, 이벤트, 쿠폰, 리딤코드, CD키 메뉴 중 코드 입력 페이지를 찾습니다.
+3. 쿠폰 코드를 복사해 공백 없이 붙여넣습니다.
+4. 교환 완료 안내가 나오면 게임 우편함이나 보상함을 확인합니다.
+
+직접 타이핑하면 대소문자나 숫자 입력에서 실수하기 쉽습니다. 가능하면 코드를 복사해서 붙여넣는 방식이 가장 안정적입니다.
+
+공식 리딤 페이지를 쓰는 게임이라면 서버와 캐릭터명이 정확히 표시되는지 먼저 봐야 합니다. 같은 계정이라도 서버를 잘못 고르면 보상이 다른 캐릭터로 가거나, 아예 지급 대상이 아니라고 나올 수 있습니다. 모바일과 PC를 같이 지원하는 게임은 로그인 방식도 확인해야 하죠.
+
+게임 안에서 입력하는 방식이라면 공지, 이벤트, 고객센터, 계정, 설정 메뉴 쪽을 차례로 찾으면 됩니다. 쿠폰 메뉴 이름이 리딤코드, 교환코드, 선물코드, CD키처럼 다르게 번역되는 경우가 있으므로 비슷한 메뉴를 같이 확인하는 편이 좋습니다.
+
+${coupangBanner}
+
+## 3. 쿠폰이 안 될 때 확인할 것
+
+쿠폰 입력이 실패했다면 먼저 이미 사용한 코드인지 확인해야 합니다. 대부분의 쿠폰은 계정당 1회만 등록되며, 같은 계정에서 다시 입력하면 실패 메시지가 나옵니다.
+
+만료일이 지난 코드, 서버가 다른 코드, 특정 국가나 플랫폼에만 적용되는 코드도 사용할 수 없습니다. 입력창 앞뒤에 공백이 들어가거나, 영문 대문자와 소문자가 섞여도 실패할 수 있죠.
+
+쿠폰 코드에는 숫자 0과 영문 O, 숫자 1과 영문 I처럼 헷갈리는 문자가 섞일 수 있습니다. 커뮤니티에서 복사한 코드에 보이지 않는 공백이 붙는 경우도 있어서, 실패가 반복되면 공식 공지의 원문 코드를 다시 복사하는 편이 낫습니다.
+
+또한 오래된 쿠폰 모음 글은 만료된 코드를 계속 남겨두는 경우가 많습니다. 이 글에서도 만료 여부가 의심되는 코드는 비고나 업데이트 기록을 기준으로 다시 정리하는 방식으로 관리합니다.
+
+## 4. 공식 쿠폰 확인 채널
+
+쿠폰 정보는 공식 홈페이지, 공식 카페, 공식 X, 디스코드, 유튜브 라이브 방송, 게임 내 공지에서 가장 먼저 확인하는 것이 좋습니다. 커뮤니티나 쿠폰 모음 사이트의 정보는 빠르지만, 이미 만료된 코드를 계속 보여주는 경우도 있습니다.
+
+공식 채널에서 확인 가능한 코드와 실제 입력 흐름을 중심으로 정리했습니다. 단순 코드 목록보다 입력 실패 원인과 보상 수령 위치까지 함께 보는 쪽이 실사용에는 더 낫습니다.
+
+방송 기념 쿠폰은 특히 만료가 빠른 편입니다. 업데이트 쇼케이스, 신규 캐릭터 발표, 대형 패치 예고 방송에서 공개된 코드는 당일이나 다음 날 끝나는 경우도 있습니다. 반대로 상시 코드나 초보자 지원 코드는 오래 유지될 수 있으므로 성격을 나눠서 보는 것이 중요합니다.
+
+새 쿠폰이 나오면 기존 글의 표와 업데이트 기록만 고칩니다. 이렇게 하면 검색엔진과 사용자 모두 같은 URL에서 최신 정보를 확인할 수 있고, 매달 비슷한 글이 반복되는 문제도 줄일 수 있습니다.
+
+${coupangBanner}
+
+## 5. 업데이트 기록
+
+- ${today}: 월별 새 글을 만들지 않는 고정 쿠폰 가이드 구조로 정리했습니다.
+`;
+}
+
+const changed = [];
+
+for (const file of fs.readdirSync(postsDir).filter((name) => name.endsWith('.md'))) {
+  const filePath = path.join(postsDir, file);
+  const source = fs.readFileSync(filePath, 'utf8');
+  const split = splitFrontmatter(source);
+  if (!split) continue;
+  const category = getValue(split.raw, 'category');
+  if (category !== '쿠폰') continue;
+
+  const game = getValue(split.raw, 'subcategory') || getValue(split.raw, 'title').replace(/\s*쿠폰.*$/, '');
+  const image = getValue(split.raw, 'image');
+  const imageAlt = getValue(split.raw, 'imageAlt') || `${game} 쿠폰 입력 방법 안내 이미지`;
+  const imageWidth = getValue(split.raw, 'imageWidth') || '1200';
+  const imageHeight = getValue(split.raw, 'imageHeight') || '675';
+  const nextTitle = `${game} 쿠폰 최신 정리, 입력 방법과 보상 확인법`;
+  const nextDescription = `${game} 쿠폰을 한곳에서 확인하는 고정 가이드입니다. 사용 가능한 코드, 입력 방법, 보상 수령 위치, 쿠폰이 안 될 때 확인할 점을 함께 정리합니다.`;
+
+  let fm = split.raw;
+  fm = upsertField(fm, 'title', JSON.stringify(nextTitle));
+  const preservedDraft = /^draft:\s*false\s*$/m.test(split.raw) ? 'false' : 'true';
+  fm = upsertField(fm, 'draft', preservedDraft);
+  fm = upsertField(fm, 'description', JSON.stringify(nextDescription));
+  const preservedUpdated = getValue(split.raw, 'updated') || today;
+  fm = upsertField(fm, 'updated', preservedUpdated);
+
+  const body = guideBody({
+    game,
+    title: nextTitle,
+    oldBody: split.body,
+    image,
+    imageAlt,
+    imageWidth,
+    imageHeight
+  });
+
+  fs.writeFileSync(filePath, `---\n${fm.trim()}\n---\n\n${body.trim()}\n`, 'utf8');
+  changed.push(file);
+}
+
+console.log(JSON.stringify({ normalizedCouponGuides: changed.length, files: changed }, null, 2));

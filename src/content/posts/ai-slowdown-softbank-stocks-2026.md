@@ -20,6 +20,11 @@ hideDescription: true
 draft: true
 ---
 
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>AI 개발 속도를 조절해야 한다는 주요 업계 인사들의 발언 뒤 아시아 AI 관련주가 크게 흔들렸습니다. 소프트뱅크는 장중 13% 넘게 떨어졌고 키옥시아와 SK하이닉스, 삼성전자 등 반도체 종목도 동반 약세를 보였습니다. 결국 중요한 건 기술 이름보다 비용, 서비스 방식, 이용 선택지가 실제로 어떻게 달라지는지이죠.</p>
+</div>
+
 AI 개발 속도를 조절해야 한다는 주요 업계 인사들의 발언 뒤 아시아 AI 관련주가 크게 흔들렸습니다. 소프트뱅크는 장중 13% 넘게 떨어졌고 키옥시아와 SK하이닉스, 삼성전자 등 반도체 종목도 동반 약세를 보였습니다.
 
 흥미로운 점은 새로운 규제가 실제로 시행된 것도 아니라는 사실입니다. 앞으로의 AI 투자 속도가 느려질 수 있다는 가능성만으로 시장이 즉시 반응했다는 것은 현재 주가에 성장 기대가 얼마나 많이 들어가 있는지 보여줍니다.
@@ -38,6 +43,17 @@ AI 개발 속도를 조절해야 한다는 주요 업계 인사들의 발언 뒤
 
 이 회사들이 모두 같은 사업을 하는 것은 아닙니다. 그런데 시장에서는 AI 데이터센터 투자라는 하나의 흐름으로 묶여 있어 기대가 꺾이면 동시에 매도가 나옵니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 안전 논쟁
 
 앤트로픽의 다리오 아모데이를 비롯한 AI 업계 인사들은 초고성능 모델 개발 속도를 조절하고 외부 안전 평가를 강화해야 한다는 입장을 내놨습니다. 기술 발전 자체를 중단하자는 의미와는 차이가 있습니다.
@@ -54,6 +70,17 @@ AI 관련주는 향후 몇 년의 폭발적인 데이터센터 투자를 미리 
 
 반대로 안전 규제와 투자 효율 논쟁이 동시에 커져 주문이 줄어들면 반도체 업계에도 실제 영향이 생깁니다. 주가보다 다음 분기 자본지출 숫자가 더 중요한 이유입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 주가와 현실
 
 주가가 하루에 두 자릿수로 떨어져도 데이터센터 건설이 다음 날 바로 멈추는 것은 아닙니다. 기업의 장기 계약과 설비 투자는 수년 단위로 진행돼 시장 심리와 실제 산업 움직임 사이에는 시간 차이가 있습니다.
@@ -65,6 +92,17 @@ AI 관련주는 향후 몇 년의 폭발적인 데이터센터 투자를 미리 
 SK하이닉스와 삼성전자는 고대역폭 메모리와 서버 메모리 수요 때문에 AI 투자 흐름에 직접 연결돼 있습니다. 미국 AI 기업의 투자 속도가 변하면 한국 반도체 실적 기대도 빠르게 조정될 수 있습니다.
 
 반대로 AI 모델 개발이 느려져도 이미 보급된 서비스의 추론 수요는 계속 늘 수 있습니다. 학습용 투자와 실제 서비스용 메모리 수요를 분리해서 볼 필요가 있습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 7. 과열의 신호
 

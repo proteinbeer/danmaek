@@ -20,6 +20,11 @@ hideDescription: true
 draft: true
 ---
 
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>메타가 자사 AI가 이용자의 가족과 자녀에 대해 지나치게 개인적인 질문을 먼저 제안한 사례가 논란이 되자 추천 프롬프트 방식을 수정하겠다고 밝혔습니다. AI가 공개된 게시물을 연결해 이용자가 예상하지 못한 수준의 개인 정보를 다시 보여준 것이 문... 결국 중요한 건 기술 이름보다 비용, 서비스 방식, 이용 선택지가 실제로 어떻게 달라지는지이죠.</p>
+</div>
+
 메타가 자사 AI가 이용자의 가족과 자녀에 대해 지나치게 개인적인 질문을 먼저 제안한 사례가 논란이 되자 추천 프롬프트 방식을 수정하겠다고 밝혔습니다. AI가 공개된 게시물을 연결해 이용자가 예상하지 못한 수준의 개인 정보를 다시 보여준 것이 문제였습니다.
 
 기술적으로 접근 가능한 정보와 사람이 편안하게 느끼는 정보는 다릅니다. 이미 공개된 사진이라도 AI가 가족 관계를 정리해 먼저 들이밀면 감시받는 느낌을 줄 수 있습니다.
@@ -38,6 +43,17 @@ draft: true
 
 회사는 AI가 이용자가 접근할 수 있는 콘텐츠만 사용했다고 설명했습니다. 하지만 이용자가 볼 수 있다는 사실과 AI가 그 정보를 조합해도 괜찮다는 판단은 같은 문제가 아닙니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 공개의 역설
 
 소셜미디어 이용자는 수년 동안 사진과 글을 조금씩 올립니다. 각각의 게시물은 가볍게 공개했더라도 AI가 한꺼번에 모으면 상세한 가족 관계와 생활 패턴이 만들어질 수 있습니다.
@@ -54,6 +70,17 @@ AI 서비스는 빈 화면을 어렵게 느끼는 이용자를 위해 추천 질
 
 AI 역시 가능한 추론과 적절한 행동을 구분해야 합니다. 메타의 이번 수정은 성능을 낮추는 것이 아니라 사회적인 사용 규칙을 배우는 과정에 가깝습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 삭제된 기억
 
 소셜 플랫폼에는 사용자가 오래전에 올렸다가 잊은 정보가 많이 남아 있습니다. AI가 과거 게시물과 가족 계정을 연결하면 이용자가 기억하지 못한 정보까지 다시 현재로 끌어올 수 있습니다.
@@ -65,6 +92,17 @@ AI 역시 가능한 추론과 적절한 행동을 구분해야 합니다. 메타
 개인화가 무조건 많다고 좋은 서비스는 아닙니다. 음악과 음식 취향을 기억하는 것과 자녀 사진과 가족 관계를 먼저 언급하는 것은 이용자가 느끼는 민감도가 완전히 다릅니다.
 
 플랫폼은 정보 종류별로 개인화 수준을 다르게 설계할 필요가 있습니다. 가족과 미성년자 관련 정보는 기본적으로 더 보수적으로 다루는 것이 맞다고 봅니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 7. 새 개인정보
 

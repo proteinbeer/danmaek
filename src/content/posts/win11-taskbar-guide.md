@@ -37,13 +37,24 @@ hideDescription: true
 
 ## 2. 시작 아이콘 정렬 바꾸기
 
-윈도우 10에 익숙하다면 아이콘을 왼쪽으로 옮기는 것이 가장 먼저 할 일입니다.
+윈도우 10에 익숙하다면 아이콘을 왼쪽으로 옮기는 것이 가장 먼저 할 일이죠.
 
 - **작업 표시줄 설정 → 작업 표시줄 동작** 항목을 엽니다.
 - **작업 표시줄 맞춤**을 **왼쪽**으로 변경하면 시작 버튼과 고정 앱들이 왼쪽 정렬됩니다.
 - 다시 **가운데**로 바꾸면 기본 상태로 돌아갑니다.
 
 조금이라도 익숙한 배치를 원하면 왼쪽 정렬은 꽤 큰 차이를 만들어줍니다. 마우스 이동 거리가 줄어드는 부수 효과도 있죠.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 3. 자주 쓰는 앱 작업표시줄에 고정하기
 
@@ -65,6 +76,17 @@ hideDescription: true
 
 항상 표시하고 싶은 아이콘(예: 음악 재생 앱)은 숨김 목록에서 끌어서 트레이로 옮길 수 있습니다. 반대로 공간이 부족하면 자주 안 쓰는 아이콘은 숨겨두면 깔끔하죠.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 검색·위젯·작업 보기 버튼 정리
 
 기본적으로 작업표시줄에 표시되는 검색, 위젯, 작업 보기 버튼 중 원치 않는 것은 숨길 수 있습니다.
@@ -73,7 +95,7 @@ hideDescription: true
 - **위젯**은 뉴스·날씨를 보여주는 버튼입니다. 안 쓴다면 꺼두면 작업표시줄이 넓어집니다.
 - **작업 보기**는 여러 데스크톱(가상 데스크톱)을 전환하는 버튼입니다. 필요할 때만 켜시면 됩니다.
 
-버튼을 줄인 만큼 고정 앱 공간이 늘어나므로, 화면이 넓어 보이는 효과가 있습니다. 자주 쓰는 기능만 남기는 것이 핵심입니다.
+버튼을 줄인 만큼 고정 앱 공간이 늘어나므로, 화면이 넓어 보이는 효과가 있죠. 자주 쓰는 기능만 남기는 것이 핵심입니다.
 
 ## 6. 시계·날짜와 다중 모니터 설정
 
@@ -85,3 +107,13 @@ hideDescription: true
 
 작업표시줄 위치를 세로로 바꾸고 싶은 분도 많지만, 윈도우 11은 작업표시줄을 화면 아래쪽으로 고정합니다. 배치에 익숙해지면 가로 방향도 큰 불편이 없죠.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

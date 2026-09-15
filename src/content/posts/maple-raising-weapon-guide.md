@@ -1,5 +1,6 @@
 ---
 title: "메이플 키우기 무기 소환·합성: 천장 시스템과 등급별 운영"
+draft: true
 description: "메이플 키우기 무기 소환과 합성 공략입니다. 소환권 사용 우선순위, 같은 종류 무기 합성으로 등급 올리는 법, 9월 업데이트로 추가된 천장(확정 소환) 활용을 정리했습니다."
 date: 2026-09-02
 updated: 2026-09-02
@@ -37,6 +38,17 @@ hideDescription: true
 
 한정된 재화라면 무기 소환을 메인으로 두고, 동료는 소환권 보상으로 틀을 잡는 편이 딜 성장에 유리합니다. 유물 소환은 무기·동료 소환이 어느 정도 갖춰진 뒤에 시작하는 것이 일반적입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 무기 합성 규칙
 
 무기 합성은 같은 종류의 무기를 여러 개 모아 다음 등급의 무기로 승급시키는 시스템입니다. 같은 종류라 함은 동일 무기 품목을 의미하므로, 사냥에서 나온 무기 조각을 모으는 것이 기본이 됩니다.
@@ -48,6 +60,17 @@ hideDescription: true
 이번 업데이트로 무기·동료·유물 확정 소환이 추가되었습니다. 일정 횟수를 소진하면 원하는 대상을 확정으로 받을 수 있어, 도박성 수집 부담이 줄었습니다.
 
 확정 소환은 어떤 대상을 노리느냐가 성장 방향을 정합니다. 현재 막힌 콘텐츠를 고려해 목표 무기를 정한 뒤 확정 카운트를 모으는 것이 효율적입니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 과거 소환 기록의 소급 적용
 
@@ -61,3 +84,13 @@ hideDescription: true
 
 재화가 부족할 때는 강제로 소환을 반복하지 말고, 성장 던전과 일일 보상으로 재화를 쌓은 뒤 확정 소환 지점을 노리는 것이 손해를 줄이는 방법입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

@@ -1,5 +1,6 @@
 ---
 title: "플스 스토어 게임 환불하는 법, 디지털 구매 환불 요청"
+draft: true
 description: "플레이스테이션 스토어에서 산 게임 환불 요청하는 방법과 환불 가능 여부를 정리했습니다. 다운로드 전 환불 원칙, 요청 절차, 물리 디스크 교환까지 다룹니다."
 date: 2026-08-25
 updated: 2026-08-25
@@ -45,6 +46,17 @@ PS5 본체에서 바로 요청할 수 있습니다.
 
 환불 요청이 접수되지 않는 항목도 있습니다. 게임 실행 여부에 따라 선택지가 아예 안 나올 수 있으므로, 1번에서 확인한 기준과 비교해보시기 바랍니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 웹에서 환불 신청하기
 
 PC나 스마트폰의 브라우저로도 환불을 신청할 수 있습니다.
@@ -64,6 +76,17 @@ PC나 스마트폰의 브라우저로도 환불을 신청할 수 있습니다.
 - 실물 기프트 카드를 개봉한 경우나 이미 코드가 사용된 경우는 복잡해질 수 있습니다.
 
 결제 전 화면에서 언제 어떤 방식으로 환불되는지 확인할 수 있습니다. 신용카드로 산 게임도 잔액으로 돌려주는 정책인지 확인해보시는 것이 좋겠죠.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 물리 디스크 게임의 반품과 교환
 
@@ -85,3 +108,13 @@ PC나 스마트폰의 브라우저로도 환불을 신청할 수 있습니다.
 
 반복적으로 사고 취소를 하면 스토어 정책상 계정에 제한이 걸릴 수 있습니다. 환불은 긴급한 상황에서 쓰는 편이 안전합니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

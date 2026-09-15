@@ -21,7 +21,7 @@ hideDescription: true
 
 키보드가 안 쳐질 때 가장 당황스러운 이유는 **원인이 하나가 아니라 여러 곳에 흩어져 있기 때문**입니다. 무선이면 연결이, 노트북이면 윈도우 설정이, 오래된 키보드면 접점 문제가 각각 원인이 될 수 있죠.
 
-이 글에서는 고장인지 설정인지 판단하기 좋은 순서대로 정리했습니다. 대부분의 입력 문제는 다음 4단계 안에서 해결됩니다.
+이 글에서는 고장인지 설정인지 판단하기 좋은 순서대로 정리했습니다. 대부분의 입력 문제는 다음 4단계 안에서 해결되죠.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/dualsense-1200x675.jpg" alt="키보드 입력이 무시되는 증상을 나타내는 일러스트" width="1200" height="675" loading="lazy" decoding="async" />
 
@@ -44,7 +44,18 @@ hideDescription: true
 - "게임 모드"나 키보드 제조사 소프트웨어의 매크로 설정이 특정 키를 잡아두고 있는지도 확인합니다.
 - 키보드 레이아웃이 한국어(103/106키)로 되어 있는지도 확인합니다. 레이아웃이 어긋나면 숫자·특수키가 엉뚱하게 출력됩니다.
 
-설정 창이 어디 있는지 모르겠다면 시작 메뉴 통합 검색에서 "키보드"라고만 쳐도 관련 설정이 바로 나옵니다.
+설정 창이 어디 있는지 모르겠다면 시작 메뉴 통합 검색에서 "키보드"라고만 쳐도 관련 설정이 바로 나오죠.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 3. 드라이버와 입력 장치 상태 확인
 
@@ -55,7 +66,7 @@ hideDescription: true
 - 그래도 해결되지 않으면 장치를 우클릭 → **장치 제거** 후 재부팅합니다. 윈도우가 재부팅하면서 드라이버를 다시 설치합니다.
 - USB 허브(분배기)를 거치고 있다면 본체 뒷면 포트에 직접 꽂아 테스트합니다. 허브 전원이 약하면 키 입력이 끊깁니다.
 
-드라이버 문제는 소리가 아니라 입력만 멈추는 경우가 많아 발견이 어렵습니다. 장치 제거 → 재부팅은 생각보다 많은 입력 문제를 해결합니다.
+드라이버 문제는 소리가 아니라 입력만 멈추는 경우가 많아 발견이 어렵습니다. 장치 제거 → 재부팅은 생각보다 많은 입력 문제를 해결하죠.
 
 ## 4. 일반 키는 되는데 일부만 안 될 때
 
@@ -68,9 +79,20 @@ hideDescription: true
 
 이물질이 원인이라면 청소만으로 해결됩니다. 청소 후에도 동일하다면 해당 스위치의 수명이 다했다고 보시면 됩니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 아무것도 안 눌리는 그 순간, 긴급 확인
 
-입력이 완전히 멈추었을 때는 "키보드가 잠겼는지"부터 확인해야 합니다.
+입력이 완전히 멈추었을 때는 "키보드가 잠겼는지"부터 확인해야 하죠.
 
 - Windows 키 + L 로 화면 잠금이 걸린 것은 아닌지, Ctrl + Alt + Delete 화면에서 키보드가 살아있는지 확인합니다.
 - 노트북은 외장 키보드를 꽂았을 때 **내장 키보드가 자동으로 잠기는 경우**가 있습니다. BIOS나 설정에서 이를 다시 켜야 할 수 있습니다.

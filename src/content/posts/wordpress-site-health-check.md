@@ -43,6 +43,17 @@ hideDescription: true
 
 오래된 PHP 버전, 백그라운드 요청 실패, 업데이트 문제처럼 핵심 기능과 연결된 경고는 이유를 확인하셔야 합니다. 경고를 없애기 위해 기능을 무작정 끄는 방식은 추천하지 않습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 서버 정보는 오류 해결의 지도
 
 정보 화면에서는 PHP 버전, 메모리, 최대 업로드 크기, 데이터베이스 버전과 같은 값을 확인할 수 있죠.
@@ -59,13 +70,24 @@ hideDescription: true
 
 비활성화됐다고 파일이 사라진 것은 아닙니다. 취약한 오래된 플러그인이 서버에 그대로 남아 있는 상황을 줄이는 차원에서도 필요 없는 항목은 삭제하는 편이 깔끔합니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 자동 업데이트 관련 경고
 
 워드프레스는 코어와 플러그인, 테마의 업데이트 상태를 중요하게 봅니다.
 
 업데이트가 막혀 있거나 백그라운드 작업이 실패하면 사이트 건강도에서 관련 문제를 발견할 수 있죠.
 
-업데이트가 두렵다면 무조건 차단하기보다 백업과 스테이징 환경을 갖추는 편이 좋습니다. 오래된 버전을 계속 유지하는 방식은 시간이 지날수록 해결해야 할 차이가 더 커집니다.
+업데이트가 두렵다면 무조건 차단하기보다 백업과 스테이징 환경을 갖추는 편이 좋죠. 오래된 버전을 계속 유지하는 방식은 시간이 지날수록 해결해야 할 차이가 더 커집니다.
 
 ## 6. 좋은 상태가 빠른 사이트를 뜻하진 않는다
 
@@ -74,6 +96,17 @@ hideDescription: true
 대형 이미지와 광고 스크립트가 많아도 핵심 시스템은 정상일 수 있고, 반대로 페이지는 빨라도 보안이나 백그라운드 작업에 문제가 있을 수 있습니다.
 
 사이트 건강도는 속도 점수판이 아니라 워드프레스 환경 진단 도구에 가깝습니다. 성능은 페이지 속도 측정과 서버 사용량을 별도로 확인하시는 편이 맞죠.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 7. 고객센터 문의 전에 복사해둘 정보
 
@@ -91,3 +124,13 @@ hideDescription: true
 
 치명적 문제, 권장 개선, 서버 정보 순으로 확인하시면 됩니다. 모든 항목을 억지로 없애기보다 내 사이트에 실제 영향을 주는 경고부터 처리하는 것이 더 현실적인 운영 방식입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

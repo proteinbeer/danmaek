@@ -1,5 +1,6 @@
 ---
 title: "메이플 키우기 동료: 티어별 구성과 육성 재료 우선순위"
+draft: true
 description: "메이플 키우기 동료(동반자) 시스템 공략입니다. 어떤 동료를 먼저 뽑고, 어떻게 배치하고, 강화 재료를 어디에 우선 쓰는지 정리했습니다."
 date: 2026-09-02
 updated: 2026-09-02
@@ -37,6 +38,17 @@ hideDescription: true
 
 다만 초반에 너무 자주 뽑기를 반복하면 재화가 말라버립니다. 2～3회 정도로 핵심 동료의 틀을 잡고, 이후에는 강화 재료나 장비에 재화를 돌리는 것이 장기적으로 효율적입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 배치: 전열과 후열
 
 동료 배치는 근접형은 앞줄, 원거리형은 뒷줄로 나누는 기본 규칙이 있습니다. 앞줄이 버텨야 뒤의 딜러가 살아남아 지속 화력을 내기 때문입니다.
@@ -48,6 +60,17 @@ hideDescription: true
 동료 구성의 기본은 메인 딜러 하나, 버프·디버프 걸어주는 하나, 생존 또는 유틸을 담당하는 하나입니다. 세 역할이 겹치지 않을 때 전체 딜 기대값이 가장 좋습니다.
 
 딜러가 두 명이라고 다 좋은 것은 아닙니다. 버프 동료가 없으면 딜러의 실제 화력이 뽑히지 않아, 구성만 잘 갖춰도 전투력이 비슷한 상대보다 스테이지를 더 쉽게 밉니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 강화 재료 투자 우선순위
 
@@ -61,3 +84,13 @@ hideDescription: true
 
 동료 목록을 볼 때는 등급보다 실제 스킬 설명을 먼저 확인하는 것이 좋습니다. 범위·쿨타임·패시브 조건이 현재 구성과 맞는지를 따지는 것이, 고정 등급표보다 실전에서 더 정확한 기준이 됩니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

@@ -44,7 +44,18 @@ NVIDIA 앱을 쓰는 경우 가장 간단합니다. 기존의 지포스 익스�
 2. 그래픽카드 모델과 운영체제를 선택하거나 **자동 감지**를 이용합니다.
 3. 최신 드라이버를 내려받아 설치합니다. 설치 중 **사용자 지정(고급) 설치**에서 **클린 설치**를 선택하면 기존 설정이 초기화됩니다.
 
-게임을 하루 앞두고 새 드라이버가 나오는 경우가 많으므로, 신작 게임이 랙이 걸리면 최신 드라이버부터 확인하시면 됩니다.
+게임을 하루 앞두고 새 드라이버가 나오는 경우가 많으므로, 신작 게임이 랙이 걸리면 최신 드라이버부터 확인하시면 되죠.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 3. AMD 그래픽카드 업데이트
 
@@ -66,9 +77,20 @@ AMD 라데온 소프트웨어는 게임별 프로필, 프레임 표시 등 부�
 
 인텔 그래픽 드라이버는 윈도우 업데이트로도 최신 버전이 자동 제공되므로, 특별한 문제가 없다면 윈도우 업데이트만으로도 충분합니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 반복되는 오류는 클린 설치(DDU)
 
-드라이버를 여러 번 갈아끼웠는데도 오류가 반복된다면 **안전 모드에서 기존 드라이버를 완전히 제거**하고 다시 설치하는 것이 확실합니다.
+드라이버를 여러 번 갈아끼웠는데도 오류가 반복된다면 **안전 모드에서 기존 드라이버를 완전히 제거**하고 다시 설치하는 것이 확실하죠.
 
 - **DDU(Display Driver Uninstaller)**는 NVIDIA·AMD·인텔 드라이버를 잔여 파일까지 깨끗하게 지워주는 도구입니다.
 - 안전 모드로 부팅한 뒤 DDU를 실행하고 **재부팅 후 설치** 옵션을 선택합니다.
@@ -86,3 +108,13 @@ AMD 라데온 소프트웨어는 게임별 프로필, 프레임 표시 등 부�
 
 최신 드라이버만 정답은 아닙니다. 자주 쓰는 게임에 가장 안정적인 한 단계 이전 버전이 더 좋은 경우도 있으니, 문제가 생기면 다시 돌아가는 게 자연스럽죠.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

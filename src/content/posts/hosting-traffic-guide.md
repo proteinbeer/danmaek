@@ -27,7 +27,7 @@ hideDescription: true
 
 ## 1. 트래픽이 초과되는 흐름을 먼저 보기
 
-트래픽은 방문자 수에 페이지의 파일 크기를 곱한 것과 비슷합니다. 그런데 방문자 수를 우리가 마음대로 조절할 수 없으니, 자연스럽게 **파일 크기를 줄이는 것**이 핵심이 됩니다.
+트래픽은 방문자 수에 페이지의 파일 크기를 곱한 것과 비슷합니다. 그런데 방문자 수를 우리가 마음대로 조절할 수 없으니, 자연스럽게 **파일 크기를 줄이는 것**이 핵심이 되죠.
 
 - 사이트에 글 하나가 표시될 때 HTML, CSS, 자바스크립트, 이미지가 모두 다운로드됩니다.
 - 이미지 하나가 수백 KB라면 방문자 10명이 글 하나를 볼 때 수 MB가 소모됩니다.
@@ -44,6 +44,17 @@ hideDescription: true
 
 CDN은 보안 기능(방화벽, DDoS 완화)까지 함께 제공하는 경우가 많습니다. 설정 자체는 도메인 네임서버만 바꾸면 되는 간단한 편이죠.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 이미지와 동영상 압축으로 용량 줄이기
 
 글의 이미지를 그대로 올리면 페이지가 무거워집니다. 출처가 되는 원본 이미지는 크기가 커서 트래픽을 균일하게 소모합니다.
@@ -52,7 +63,7 @@ CDN은 보안 기능(방화벽, DDoS 완화)까지 함께 제공하는 경우가
 - 동영상은 사이트에 직접 올리기보다 YouTube 같은 외부 플랫폼으로 옮겨 링크만 겁니다.
 - 이미지 압축 도구나 플러그인으로 일괄 최적화하면 기존 글까지 몸이 가벼워집니다.
 
-이미지 최적화만으로도 전체 트래픽의 30～50%가 절약되는 경우가 많습니다. 글이 많을수록 효과가 확실합니다.
+이미지 최적화만으로도 전체 트래픽의 30～50%가 절약되는 경우가 많죠. 글이 많을수록 효과가 확실합니다.
 
 ## 4. 서버 캐시와 브라우저 캐시 활용
 
@@ -63,6 +74,18 @@ CDN은 보안 기능(방화벽, DDoS 완화)까지 함께 제공하는 경우가
 - 워드프레스라면 캐시 플러그인 하나로 위 두 기능을 동시에 켤 수 있습니다.
 
 캐시 설정을 하면 방문자 입장의 재방문 속도도 크게 향상됩니다. 단, 글을 수정할 때는 캐시를 비워야 변경이 반영되니 이 부분만 기억해 두십시오.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 트래픽 사용량 실시간 확인
 
 요금제를 바꾸기 전에 **어디서 트래픽이 소모되는지** 정확히 알아야 대응이 가능합니다.
@@ -71,7 +94,7 @@ CDN은 보안 기능(방화벽, DDoS 완화)까지 함께 제공하는 경우가
 - 사용량이 몰리는 시간대가 있다면 그 시간의 글이나 파일을 먼저 손봅니다.
 - 검색엔진 크롤러가 받아가는 양도 트래픽에 포함되므로, 글이 많다면 크롤러 예산을 줄이는 설정도 고려해볼 수 있습니다.
 
-통계를 보면 "요금제를 높여야 하는지" 아니면 "파일 몇 개만 줄이면 되는지"가 명확해집니다. 대부분 후자로 해결되는 경우가 많습니다.
+통계를 보면 "요금제를 높여야 하는지" 아니면 "파일 몇 개만 줄이면 되는지"가 명확해집니다. 대부분 후자로 해결되는 경우가 많죠.
 
 ## 6. 요금제 상향을 고려할 때
 
@@ -83,3 +106,13 @@ CDN은 보안 기능(방화벽, DDoS 완화)까지 함께 제공하는 경우가
 
 트래픽 문제는 대부분 기술 설정으로 풀리는 경우가 많습니다. 그래도 요금제 자체 용량이 수시로 부족한 수준이라면, 그때부터는 서버가 아닌 **CDN 전면 구성이나 호스팅 변경**을 검토해보시기 바랍니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

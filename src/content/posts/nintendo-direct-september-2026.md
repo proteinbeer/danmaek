@@ -1,5 +1,6 @@
 ---
 title: "닌텐도 다이렉트 9월 발표 총정리, 메트로이드와 커비가 가장 컸다"
+draft: true
 description: "9월 닌텐도 다이렉트는 스위치 2의 다음 1년을 한 번에 보여준 행사였습니다."
 date: 2026-09-13T12:00:00
 updated: 2026-09-14T12:00:00
@@ -18,6 +19,11 @@ imageHeight: 675
 hideHeroImage: true
 hideDescription: true
 ---
+
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>9월 닌텐도 다이렉트는 스위치 2의 다음 1년을 한 번에 보여준 행사였습니다. 닌텐도 다이렉트 9월 발표 총정리, 메트로이드와 커비가 가장 컸다 관건은 발표 자체보다 출시 일정, 가격, 기다릴 이유가 얼마나 분명한지이죠.</p>
+</div>
 
 9월 닌텐도 다이렉트는 스위치 2의 다음 1년을 한 번에 보여준 행사였습니다.
 
@@ -47,6 +53,17 @@ hideDescription: true
 
 어디까지 날아갈 수 있게 할지와 탐험 순서를 어떻게 유도할지가 이번 작품의 설계에서 중요한 부분이 될 가능성이 큽니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 피크민과 제노블레이드
 
 피크민 4는 스위치 2 에디션과 단도리 아카데미를 받습니다.
@@ -66,6 +83,17 @@ hideDescription: true
 메탈슬러그 얼티밋 컬렉션은 본편과 X, 어드밴스, 로케이션 테스트 버전까지 열 작품을 묶습니다.
 
 오래된 시리즈를 단순히 다시 판매하는 것이 아니라 온라인 협동과 자료 보존을 함께 넣는 방향이 눈에 띕니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 레이튼과 유희왕
 
@@ -88,6 +116,17 @@ hideDescription: true
 대형 신작만 발표한 것이 아니라 이미 스위치 2를 산 이용자가 계속 할 콘텐츠도 함께 챙긴 구성입니다.
 
 포켓몬 포코피아 역시 새로운 포켓몬과 꾸미기 요소를 더하는 추가 콘텐츠를 예고했습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 7. 스위치 2의 방향
 

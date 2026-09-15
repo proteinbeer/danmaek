@@ -1,5 +1,6 @@
 ---
 title: "페르소나 6 아직 공개도 안 했는데, 스팀 업적이 먼저 새어난 이유"
+draft: true
 description: "공식 발표가 없는 페르소나 6의 스팀 업적 정보가 제3자 추적 사이트에서 노출됐습니다. 업적이 먼저 게임을 알리는 시대의 구조, 페르소나 팬들이 민감해지는 이유, 신작 공개 문화의 변화를 정리했습니다."
 date: 2026-09-09
 updated: 2026-09-09
@@ -20,6 +21,11 @@ hideHeroImage: true
 hideDescription: true
 ---
 
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>공식 발표가 없는 페르소나 6의 스팀 업적 정보가 제3자 추적 사이트에서 노출됐습니다. 업적이 먼저 게임을 알리는 시대의 구조, 페르소나 팬들이 민감해지는 이유, 신작 공개 문화의 변화를 정리했습니다. 관건은 발표 자체보다 출시 일정, 가격, 기다릴 이유가 얼마나 분명한지이죠.</p>
+</div>
+
 페르소나 6는 아직 정식 발표가 없는데도 주변 흔적이 계속 나오고 있습니다. 이번에는 스팀 업적 정보가 제3자 데이터베이스에서 대거 노출됐다는 보도가 나왔죠.
 
 업적 추적 사이트 엑소페이즈에는 페르소나 6를 포함한 미발매 게임들의 스팀 업적 데이터가 등장한 것으로 전해집니다. 공식 발표가 없는 게임의 이름과 업적 목록이 비슷한 시점에 드러나면서 업계 관심이 커졌습니다.
@@ -38,6 +44,17 @@ hideDescription: true
 
 그럼에도 의미는 큽니다. 업적은 아무 데이터처럼 보여도 내부 테스트나 스토어 준비 단계와 닿아 있을 가능성이 커서, 공개 시기가 생각보다 가깝다는 해석이 붙기 쉽습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 기다림이 길수록 커지는 반응
 
 페르소나 시리즈는 신작 간격이 길고, 작은 떡밥 하나에도 반응이 크게 쌓이는 시리즈입니다. 페르소나 5 이후 시간이 꽤 흘렀기 때문에, 팬들은 공식 트레일러보다 이런 주변 데이터에 더 예민하게 반응하는 상태에 가깝습니다.
@@ -49,6 +66,17 @@ hideDescription: true
 이 흐름의 핵심은 개발사가 게임을 숨겨도 주변 시스템이 먼저 입을 여는 시대가 됐다는 점입니다. 신작 공개는 무대 위 트레일러 하나가 아니라, 그 전에 새어 나오는 데이터 흔적까지 포함한 긴 예고편처럼 작동합니다.
 
 게임 발표 문화 자체가 바뀌고 있다는 말이기도 합니다. 공개 전의 침묵은 이제 회사가 지키는 약속이 아니라, 데이터가 먼저 깨는 약속이 되어 가고 있습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 공식 발표보다 빨라진 데이터의 입
 

@@ -1,5 +1,6 @@
 ---
 title: "윈도우 9월 보안 업데이트, 설치 뒤 원격 데스크톱이 멈출 수 있다"
+draft: true
 description: "마이크로소프트의 9월 보안 업데이트는 많은 취약점을 수정했지만 일부 환경에서는 원격 데스크톱 서비스가 불안정해지는 문제가 확인됐습니다."
 date: 2026-09-13T12:00:00
 updated: 2026-09-14T12:00:00
@@ -18,6 +19,11 @@ imageHeight: 675
 hideHeroImage: true
 hideDescription: true
 ---
+
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>마이크로소프트의 9월 보안 업데이트는 많은 취약점을 수정했지만 일부 환경에서는 원격 데스크톱 서비스가 불안정해지는 문제가 확인됐습니다. 윈도우 9월 보안 업데이트, 설치 뒤 원격 데스크톱이 멈출 수 있다 그런데 피해 규모보다 어떤 정보가 새어 나갔고 이후 어떤 연락을 조심해야 하는지가 더 중요해 보이죠.</p>
+</div>
 
 마이크로소프트의 9월 보안 업데이트는 많은 취약점을 수정했지만 일부 환경에서는 원격 데스크톱 서비스가 불안정해지는 문제가 확인됐습니다.
 
@@ -47,6 +53,17 @@ hideDescription: true
 
 모든 PC에서 발생하는 문제는 아니고 주로 원격 데스크톱 서비스를 사용하는 조직 환경에서 주의가 필요합니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 서버는 먼저 검증
 
 개인용 PC와 서버의 업데이트 방식은 달라야 합니다.
@@ -64,6 +81,17 @@ hideDescription: true
 단순 재부팅과 달리 클라우드 환경에서는 할당 해제 뒤 다시 시작하는 절차가 필요할 수 있습니다.
 
 업데이트를 무작정 제거하기 전에 현재 사용하는 윈도우 버전과 해당 업데이트의 알려진 문제 페이지를 확인하시는 것이 좋습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 보안과 안정성
 

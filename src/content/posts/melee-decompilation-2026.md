@@ -19,6 +19,11 @@ hideHeroImage: true
 hideDescription: true
 ---
 
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>2001년 게임큐브 게임 대난투 스매시브라더스 밀리의 팬 디컴파일 프로젝트가 6년 만에 100%에 도달했습니다. 방식을 알면 흥미로운 게임 보존의 사례를 정리했습니다. 게임 뉴스는 발표 내용보다 플레이어가 무엇을 얻고 무엇을 더 기다려야 하는지가 핵심이죠.</p>
+</div>
+
 2001년 게임큐브로 나온 대난투 스매시브라더스 밀리가 25년 만에 새로운 방식으로 되살아났습니다. 팬 개발자들이 6년 넘게 진행한 디컴파일 작업이 100%에 도달한 겁니다.
 
 여기서 디컴파일은 닌텐도의 원본 소스코드가 유출됐다는 의미가 아닙니다. 완성된 게임의 기계어를 분석해 사람이 읽고 다시 컴파일할 수 있는 C 코드로 재구성하는 작업이죠.
@@ -35,11 +40,22 @@ hideDescription: true
 
 ## 2. 게임 파일을 공짜로 배포하는 프로젝트는 아니다
 
-이런 소식을 보면 곧바로 PC판을 무료로 받을 수 있느냐는 생각이 들 수 있습니다. 하지만 디컴파일 코드는 게임의 그래픽, 음악, 음성 같은 저작권 자산을 대신하지 않습니다.
+이런 소식을 보면 곧바로 PC판을 무료로 받을 수 있느냐는 생각이 들 수 있죠. 하지만 디컴파일 코드는 게임의 그래픽, 음악, 음성 같은 저작권 자산을 대신하지 않습니다.
 
 실제로 실행하려면 합법적으로 보유한 원본 게임 디스크에서 필요한 자산을 추출하는 과정이 필요합니다. 프로젝트가 코드를 공개했다고 원본 게임 전체가 자유 소프트웨어가 된 것은 아니죠.
 
 이 구분은 게임 보존 프로젝트에서 매우 중요합니다. 기술적으로 복원하는 일과 저작권이 사라지는 일은 전혀 다른 문제입니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 3. 왜 멀쩡한 옛날 게임을 굳이 코드로 다시 만들까
 
@@ -56,9 +72,20 @@ hideDescription: true
 
 다만 100% 완성이라는 결과를 AI가 혼자 만들었다고 보는 건 틀립니다. 핵심은 수년 동안 쌓인 사람들의 분석과 검증이고, AI는 마지막 구간에서 속도를 올린 도구에 가깝습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 리마스터를 기다리지 않는 보존 방식
 
-오래된 게임을 다시 즐기려면 보통 제작사가 리마스터나 리메이크를 내주길 기다립니다. 하지만 회사가 모든 옛 작품을 다시 출시할 수는 없습니다.
+오래된 게임을 다시 즐기려면 보통 제작사가 리마스터나 리메이크를 내주길 기다립니다. 하지만 회사가 모든 옛 작품을 다시 출시할 수는 없죠.
 
 팬 디컴파일은 그 기다림과 다른 길입니다. 원작을 훼손하지 않으면서 기술 구조를 이해하고, 미래 하드웨어에서도 이어갈 기반을 만드는 방식이죠.
 
@@ -72,7 +99,17 @@ hideDescription: true
 
 이런 사례를 보면 게임 보존의 주체가 반드시 제작사만일 필요는 없다는 생각이 듭니다. 회사는 저작권과 원본 자산을 가지고 있고, 팬은 시간이 오래 걸리는 분석과 기록을 이어가는 서로 다른 역할을 할 수 있습니다.
 
-물론 법적 경계를 지키는 것이 전제입니다. 원본 자산을 무단 배포하지 않고 기술 연구를 이어갈 수 있다면, 팬 커뮤니티는 상업적 가치가 줄어든 게임을 문화적으로는 계속 살아 있게 만드는 꽤 중요한 보존자가 될 수 있습니다.
+물론 법적 경계를 지키는 것이 전제이죠. 원본 자산을 무단 배포하지 않고 기술 연구를 이어갈 수 있다면, 팬 커뮤니티는 상업적 가치가 줄어든 게임을 문화적으로는 계속 살아 있게 만드는 꽤 중요한 보존자가 될 수 있습니다.
 
 무엇보다 이런 기록은 다음 세대 개발자에게도 자료가 됩니다. 오래된 게임의 손맛이 어떤 코드와 수치에서 나왔는지 직접 살펴볼 수 있기 때문입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

@@ -35,7 +35,7 @@ USB 허브는 포트 하나를 여러 개로 늘려주기 때문에 주변기기
 
 키보드와 마우스처럼 소비전력이 낮은 장치 몇 개는 큰 문제가 없지만, 저장장치와 조명 장치가 늘어나면 여유가 줄어듭니다.
 
-전력이 부족하면 장치가 완전히 꺼졌다 다시 연결되거나 파일 복사 중 외장 저장장치가 사라질 수 있습니다.
+전력이 부족하면 장치가 완전히 꺼졌다 다시 연결되거나 파일 복사 중 외장 저장장치가 사라질 수 있죠.
 
 웹캠이 갑자기 멈추고 마이크가 다시 잡히는 식으로 서로 다른 증상이 동시에 생기기도 하죠.
 
@@ -47,7 +47,18 @@ USB 허브는 포트 하나를 여러 개로 늘려주기 때문에 주변기기
 
 다만 전원 어댑터가 있다고 데이터 속도까지 자동으로 빨라지는 것은 아닙니다.
 
-전력 문제와 대역폭 문제는 서로 다른 제한이기 때문에 두 가지를 따로 확인해야 합니다.
+전력 문제와 대역폭 문제는 서로 다른 제한이기 때문에 두 가지를 따로 확인해야 하죠.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 3. 모든 포트가 같은 대역폭을 나눠 쓴다
 
@@ -63,7 +74,7 @@ USB 허브는 포트 하나를 여러 개로 늘려주기 때문에 주변기기
 
 일부 허브에는 충전 전용 포트가 따로 있습니다.
 
-여기에 저장장치나 마우스를 연결하면 전원은 들어오지만 PC에서 장치가 인식되지 않을 수 있습니다.
+여기에 저장장치나 마우스를 연결하면 전원은 들어오지만 PC에서 장치가 인식되지 않을 수 있죠.
 
 반대로 데이터 포트가 높은 충전 출력을 지원하지 않는 제품도 있습니다.
 
@@ -73,11 +84,22 @@ USB C 허브는 노트북 충전 전원을 통과시키는 전원 공급 입력�
 
 이 포트에 외장 SSD를 꽂아도 데이터가 연결되지 않는 경우가 있으니 모양만 보고 사용하시면 안 됩니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 케이블이 병목일 수도 있다
 
 허브와 PC를 연결하는 케이블이 분리형이라면 케이블 규격도 전체 성능에 영향을 줍니다.
 
-고속 허브에 충전용 저속 케이블을 사용하면 포트 사양을 제대로 살리지 못할 수 있습니다.
+고속 허브에 충전용 저속 케이블을 사용하면 포트 사양을 제대로 살리지 못할 수 있죠.
 
 케이블 길이가 지나치게 길거나 단자가 느슨하면 장치 연결이 반복될 수도 있습니다.
 
@@ -89,9 +111,20 @@ USB C 허브는 노트북 충전 전원을 통과시키는 전원 공급 입력�
 
 직접 연결에서는 정상이라면 저장장치 고장보다 허브의 전력이나 대역폭 문제에 무게가 실립니다.
 
-그다음 허브에 장치를 하나씩 다시 추가하면 어느 시점부터 문제가 생기는지 확인할 수 있습니다.
+그다음 허브에 장치를 하나씩 다시 추가하면 어느 시점부터 문제가 생기는지 확인할 수 있죠.
 
 한 번에 모두 연결한 상태에서 원인을 찾는 것보다 훨씬 빠른 방법입니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 7. 포트 수보다 구성
 
@@ -105,7 +138,7 @@ USB 허브를 고를 때 포트 개수가 많으면 좋아 보이지만 실제�
 
 ## 8. 장치마다 우선순위를 나눌 것
 
-키보드와 마우스는 데이터 사용량이 작지만 입력이 끊기면 체감이 바로 큽니다.
+키보드와 마우스는 데이터 사용량이 작지만 입력이 끊기면 체감이 바로 크죠.
 
 외장 SSD와 캡처보드는 데이터량이 많아 다른 장치와 대역폭을 나눠 쓸 때 성능 저하가 눈에 띄죠.
 
@@ -115,8 +148,19 @@ USB 허브를 고를 때 포트 개수가 많으면 좋아 보이지만 실제�
 
 허브가 지나치게 뜨거워지는지도 살펴보시면 됩니다.
 
-고속 데이터 전송과 충전을 동시에 오래 하면 작은 허브 내부 온도가 올라가고, 품질이 낮은 제품은 이때 연결 안정성이 더 나빠질 수 있습니다.
+고속 데이터 전송과 충전을 동시에 오래 하면 작은 허브 내부 온도가 올라가고, 품질이 낮은 제품은 이때 연결 안정성이 더 나빠질 수 있죠.
 
 책상 뒤에 열이 갇히는 곳보다 공기가 통하는 위치에 두는 편이 좋습니다.
 
 손을 대기 어려울 정도로 과열된다면 연결 장치 수를 줄이고 제품 상태를 확인하셔야 합니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

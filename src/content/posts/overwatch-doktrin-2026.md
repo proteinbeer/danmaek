@@ -20,6 +20,11 @@ hideDescription: true
 draft: true
 ---
 
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>오버워치 시즌 5의 신규 지원 영웅 독트린이 공개됐습니다. 생명력을 흡수하는 뱀파이어 콘셉트와 박쥐 형태의 기계 드론을 사용하는 것이 특징이며, 블리즈컨 현장과 제한된 기간 동안 집에서도 체험할 수 있습니다. 단순한 변경 목록보다 실제로 켜야 할 기능과 체감되는 차이를 먼저 보는 편이 좋죠.</p>
+</div>
+
 오버워치 시즌 5의 신규 지원 영웅 독트린이 공개됐습니다. 생명력을 흡수하는 뱀파이어 콘셉트와 박쥐 형태의 기계 드론을 사용하는 것이 특징이며, 블리즈컨 현장과 제한된 기간 동안 집에서도 체험할 수 있습니다.
 
 이번 소식은 발표 한 줄만 보면 단순해 보이지만, 조금 더 들어가면 해당 게임과 서비스가 앞으로 어디로 가려는지 보여주는 변화에 가깝습니다. 지금 확정된 내용과 아직 남은 부분을 나눠서 보겠습니다.
@@ -38,6 +43,17 @@ draft: true
 
 새로운 결정은 갑자기 나온 것처럼 보여도 이전 작품의 반응과 시장 변화가 쌓인 결과인 경우가 많습니다. 과거 방식을 그대로 반복하기 어려워진 지점에서 어떤 문제를 해결하려는지 보면 선택의 이유가 더 선명해집니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 공격적으로 싸우는 지원가
 
 드론의 사거리, 자동 추적 여부, 회복과 공격 중 어떤 역할을 맡는지가 실제 난이도를 결정할 전망입니다. 공격적으로 운영해야 치유 효율이 높아지는 구조라면 숙련도에 따른 성능 차이도 크게 벌어질 수 있습니다.
@@ -53,6 +69,17 @@ draft: true
 신규 지원 영웅은 팀 전체의 생존 구조를 바꾸기 때문에 공격 영웅 하나가 추가될 때보다 메타 변화가 크게 느껴질 수 있습니다. 독트린이 스스로 위험을 감수해야 강해지는 구조라면 지원 역할의 플레이 감각도 상당히 달라질 수 있습니다.
 
 개인적으로는 이 지점이 가장 흥미롭습니다. 눈에 띄는 발표 하나보다 이런 방향 변화가 다른 작품과 서비스에도 반복될 때 회사 전체의 전략으로 굳어지는 경우가 많기 때문입니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 궁극기와 수치는 정식 공개 대기
 

@@ -19,6 +19,11 @@ hideHeroImage: true
 hideDescription: true
 ---
 
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>페르소나 6가 스위치 2로 확정됐습니다. 닌텐도 다이렉트에서 페르소나 4 리바이벌과 함께 공개된 발표의 의미와 플랫폼 전략 변화를 정리했습니다. 관건은 발표 자체보다 출시 일정, 가격, 기다릴 이유가 얼마나 분명한지이죠.</p>
+</div>
+
 페르소나 6가 닌텐도 스위치 2로 출시됩니다. 닌텐도는 9월 9일 다이렉트에서 페르소나 6와 페르소나 4 리바이벌을 함께 공개하며 두 작품 모두 스위치 2로 나온다고 확인했습니다.
 
 페르소나 6는 새로운 등장인물과 독립된 이야기를 다루며, 아직 스위치 2판의 구체적인 출시일은 공개되지 않았습니다. 저는 신작 존재 자체보다 메인 넘버링 페르소나가 공개 단계부터 닌텐도 기기와 함께 움직인다는 점이 더 크게 느껴집니다.
@@ -37,8 +42,19 @@ hideDescription: true
 
 페르소나는 전투만 반복하는 RPG가 아닙니다. 학교생활, 인간관계, 일정 관리, 던전 탐험을 오가며 긴 시간을 플레이하게 되죠.
 
-이런 구조는 짧게 켰다가 이어서 하기 좋은 휴대형 기기와 꽤 잘 맞습니다. 실제로 과거 페르소나 4 골든이 휴대용 기기에서 큰 사랑을 받은 것도 비슷한 이유로 볼 수 있습니다.
+이런 구조는 짧게 켰다가 이어서 하기 좋은 휴대형 기기와 꽤 잘 맞습니다. 실제로 과거 페르소나 4 골든이 휴대용 기기에서 큰 사랑을 받은 것도 비슷한 이유로 볼 수 있죠.
 그래서 스위치 2판은 단순히 플랫폼 하나가 늘었다는 의미보다 플레이 방식의 선택지가 넓어진다는 쪽이 중요합니다. 침대나 이동 중에도 생활 파트를 진행하고, 큰 화면에서는 던전을 집중해서 즐기는 식의 사용이 자연스럽죠.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 3. 세가와 아틀러스의 멀티플랫폼 전략이 더 선명해진다
 
@@ -54,7 +70,18 @@ hideDescription: true
 
 따라서 지금은 스위치 2 버전이 개발되고 있다는 사실까지만 보는 게 정확합니다. 출시 순서, 다른 플랫폼, 가격 같은 세부 정보는 아틀러스의 추가 발표를 기다려야 하죠.
 
-이 구분이 중요한 이유는 팬들이 기다린 시간이 길수록 작은 문구 하나에도 기대가 과하게 붙기 쉽기 때문입니다. 확정된 것과 예상하는 것을 나누는 편이 결국 더 오래 읽히는 글이 됩니다.
+이 구분이 중요한 이유는 팬들이 기다린 시간이 길수록 작은 문구 하나에도 기대가 과하게 붙기 쉽기 때문이죠. 확정된 것과 예상하는 것을 나누는 편이 결국 더 오래 읽히는 글이 됩니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 페르소나 6가 바꾸는 건 게임보다 브랜드 위치
 
@@ -68,8 +95,18 @@ hideDescription: true
 
 페르소나 6는 한 작품이지만 다른 일본 게임사에도 좋은 시험 사례가 될 수 있습니다. 스위치 2판 판매량이 충분히 나오면 대형 일본 RPG를 처음부터 닌텐도 기기와 함께 개발하는 선택이 더 자연스러워질 수 있죠.
 
-초대 스위치는 엄청난 판매량에도 성능 차이 때문에 일부 대형 게임에서 별도 최적화가 필요했습니다. 스위치 2가 그 간격을 줄이면 퍼블리셔 입장에서는 거대한 닌텐도 이용자층을 포기할 이유가 더 적어집니다.
+초대 스위치는 엄청난 판매량에도 성능 차이 때문에 일부 대형 게임에서 별도 최적화가 필요했죠. 스위치 2가 그 간격을 줄이면 퍼블리셔 입장에서는 거대한 닌텐도 이용자층을 포기할 이유가 더 적어집니다.
 
 결국 멀티플랫폼은 이용자에게도 좋은 경쟁입니다. 특정 게임 하나 때문에 원하지 않는 콘솔을 추가로 살 필요가 줄고, 각 플랫폼은 독점작보다 서비스와 기능으로 선택받아야 하기 때문입니다.
 저는 페르소나 6 스위치 2판이 단순 판매량 이상의 지표가 될 수 있다고 봅니다. 이 정도 규모와 인지도의 일본 RPG가 어느 정도 품질과 판매를 보여주느냐에 따라 이후 다른 제작사들의 출시 계획도 영향을 받을 가능성이 있기 때문입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

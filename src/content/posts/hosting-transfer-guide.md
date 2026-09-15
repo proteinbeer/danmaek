@@ -27,7 +27,7 @@ hideDescription: true
 
 ## 1. 이전 전에 미리 준비할 것
 
-이전은 "새 집에 짐을 넣고 주소를 바꾸는" 작업과 같습니다. 새 호스팅이 먼저 준비되어야 합니다.
+이전은 "새 집에 짐을 넣고 주소를 바꾸는" 작업과 같죠. 새 호스팅이 먼저 준비되어야 합니다.
 
 - 새 호스팅에 **가입하고 결제를 먼저 완료**해 둡니다. 계정 생성과 승인에 하루 정도 걸리는 경우가 있으니 미리 해두세요.
 - 이전 기간 계획을 세웁니다. 단 몇 분의 서비스 중단(DNS 전파)을 감수할 수 있는 시간대를 정합니다.
@@ -38,7 +38,7 @@ hideDescription: true
 
 ## 2. 파일과 데이터베이스 백업
 
-이전의 핵심은 새 서버에 옮길 데이터를 정확히 뽑아내는 것입니다.
+이전의 핵심은 새 서버에 옮길 데이터를 정확히 뽑아내는 것이죠.
 
 - **파일**: FTP 프로그램으로 웹 루트 폴더(예: `public_html`, `www`) 전체를 내려받습니다. 업로드된 이미지와 플러그인, 테마가 모두 포함되어야 합니다.
 - **데이터베이스**: 호스팅의 DB 관리 페이지(phpMyAdmin 등)에서 "내보내기(Export)"로 SQL 파일 하나를 받습니다. 테이블 전체를 선택합니다.
@@ -46,6 +46,17 @@ hideDescription: true
 - 백업 파일 이름에 날짜를 넣어 나중에 어느 시점의 데이터인지 알 수 있게 하세요.
 
 데이터베이스 비밀번호는 백업 파일에 들어가지 않지만, **설정 파일 안의 접속 정보**는 이전 후 반드시 새 호스팅 값으로 바꾸어야 합니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 3. 새 호스팅에 업로드하고 DB 연결 바꾸기
 
@@ -66,7 +77,18 @@ hideDescription: true
 - 이 기간 동안 사람마다 접속 경로가 달라질 수 있으므로 **공지글 하나를 띄워두는 것**도 방법입니다.
 - 새 서버로 바뀌기 전까지 기존 호스팅은 유지해 두어야 사이트가 빈 화면이 되지 않습니다.
 
-네임서버 변경 후 주소가 남아있는지 확인하려면 커맨드에서 `nslookup` 명령으로 검사해볼 수 있습니다.
+네임서버 변경 후 주소가 남아있는지 확인하려면 커맨드에서 `nslookup` 명령으로 검사해볼 수 있죠.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 이전 후 확인할 것
 
@@ -81,7 +103,7 @@ hideDescription: true
 
 ## 6. 문제가 생겼을 때 되돌리는 법
 
-이전 후 필요하다면 기존 호스팅으로 즉시 복귀할 수 있어야 합니다.
+이전 후 필요하다면 기존 호스팅으로 즉시 복귀할 수 있어야 하죠.
 
 - 네임서버를 **기존 호스팅 값으로 되돌리면** 몇 시간 내 접속이 다시 기존 서버로 옵니다.
 - 이 사이 기존 데이터는 그대로 남아 있으므로 사이트가 비어 보이지 않습니다.
@@ -89,3 +111,13 @@ hideDescription: true
 
 이전 전 백업 파일은 복귀가 완전히 끝난 뒤에도 한 번 더 보관해두세요. 호스팅을 옮기면 같은 실수를 반복하지 않도록, 다음 이전을 위해 백업 절차를 메모로 남겨두면 더 좋습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

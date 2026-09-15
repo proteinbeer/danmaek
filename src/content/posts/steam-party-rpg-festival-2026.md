@@ -20,6 +20,11 @@ hideDescription: true
 draft: true
 ---
 
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>스팀의 파티 기반 RPG 페스티벌이 9월 14일부터 21일까지 진행됩니다. 여러 캐릭터를 한 파티로 구성해 전투와 성장을 즐기는 RPG가 중심이며 할인과 체험판, 추천 목록이 함께 노출됩니다. 게임 뉴스는 발표 내용보다 플레이어가 무엇을 얻고 무엇을 더 기다려야 하는지가 핵심이죠.</p>
+</div>
+
 스팀의 파티 기반 RPG 페스티벌이 9월 14일부터 21일까지 진행됩니다. 여러 캐릭터를 한 파티로 구성해 전투와 성장을 즐기는 RPG가 중심이며 할인과 체험판, 추천 목록이 함께 노출됩니다.
 
 대형 계절 세일과 달리 장르가 명확하게 좁혀진 행사라 취향만 맞는다면 게임을 찾기 오히려 쉽습니다. 평소 찜 목록에만 넣어둔 CRPG와 턴제 RPG를 한꺼번에 비교하기 좋은 시기입니다.
@@ -38,6 +43,17 @@ draft: true
 
 최근 RPG가 액션 중심으로 넓어진 상황에서 전통적인 파티 운영 게임만 따로 보는 기회가 생긴다는 점이 좋습니다. 동료를 고르는 재미를 좋아하시면 메인 세일보다 만족도가 높을 수 있습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 할인보다 데모
 
 할인율만 보면 계절 세일이 더 클 수도 있습니다. 대신 이런 행사는 데모가 있는 작품을 쉽게 모아볼 수 있다는 점에서 구매 실패를 줄이기 좋습니다.
@@ -50,6 +66,17 @@ draft: true
 
 이런 행사에서 가장 재미있는 부분도 이미 알고 있는 대작보다 처음 보는 작품을 찾는 과정입니다. 리뷰 수가 적어도 데모가 좋다면 찜 목록에 넣어둘 가치가 있습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 가을 세일 전 선택
 
 10월에는 스팀 가을 세일도 예정돼 있습니다. 당장 플레이할 게임이 아니라면 이번 행사에서 무조건 구매하기보다 가격을 기록해두고 다음 할인과 비교하는 방법도 있습니다.
@@ -61,6 +88,17 @@ draft: true
 스팀 행사는 글로벌 기준으로 동시에 시작하기 때문에 한국에서는 날짜와 시간이 다르게 느껴질 수 있습니다. 행사 페이지가 바로 열리지 않는다면 현지 시간 기준 시작 시점을 확인하시는 것이 좋습니다.
 
 할인 가격도 지역에 따라 다를 수 있습니다. 해외 커뮤니티에서 본 최저가와 국내 스팀 가격이 같다고 가정하지 말고 실제 계정 지역 가격을 확인하는 편이 정확합니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 7. 찜 목록 정리
 
@@ -78,3 +116,13 @@ draft: true
 
 스팀 행사는 할인율보다 발견 기능이 더 큰 가치라고 생각합니다. 알고 있던 게임을 싸게 사는 것도 좋지만 평소 메인 화면에 나오지 않던 작은 RPG를 데모로 찾아내는 경험이 이런 테마 행사의 진짜 장점입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

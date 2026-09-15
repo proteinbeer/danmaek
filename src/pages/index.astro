@@ -2,18 +2,45 @@
 import BaseLayout from '../components/BaseLayout.astro';
 import PostCard from '../components/PostCard.astro';
 import { getPostsByCategory } from '../lib/posts';
-import { GUIDE_SUBCATEGORIES, NEWS_SUBCATEGORIES, COUPON_SUBCATEGORIES, TOOL_SUBCATEGORIES } from '../consts';
+import { TOOL_SUBCATEGORIES } from '../consts';
 import { TOOLS } from '../lib/tools';
 
-const posts = getPostsByCategory('뉴스');
+const newsPosts = getPostsByCategory('뉴스');
 const guidePosts = getPostsByCategory('가이드');
 const couponPosts = getPostsByCategory('쿠폰');
-const newsSubcats = [...NEWS_SUBCATEGORIES];
-const guideSubcats = [...GUIDE_SUBCATEGORIES];
-const couponSubcats = [...COUPON_SUBCATEGORIES];
 const toolSubcats = [...TOOL_SUBCATEGORIES];
 const toolSubByCategory = new Map<string, string>();
 toolSubcats.forEach((sub) => sub.categories.forEach((c) => toolSubByCategory.set(c, sub.name)));
+const byDateDesc = (a: { data: { date: Date } }, b: { data: { date: Date } }) => b.data.date.getTime() - a.data.date.getTime();
+const gameGuideSubcategories = new Set([
+  '스팀',
+  '플스',
+  '스위치',
+  '메이플 키우기',
+  '랜덤 다이스 2',
+  '뮤제닉스',
+  '더 블러드 오브 던워커',
+  '귀무자',
+  '발하임',
+  '스타워즈 제로 컴퍼니',
+  '워독스',
+  '프라그마타',
+  '낚시 방법',
+  '봄바나나',
+  '모탈 셸 2',
+  '할로윈 더 게임'
+]);
+const itGuideSubcategories = new Set(['윈도우 11', 'PC·하드웨어', '네트워크', '주변기기', '워드프레스']);
+const itPosts = [
+  ...newsPosts.filter((post) => post.data.subcategory === 'IT'),
+  ...guidePosts.filter((post) => itGuideSubcategories.has(post.data.subcategory))
+].sort(byDateDesc);
+const gamePosts = [
+  ...newsPosts.filter((post) => post.data.subcategory === '게임'),
+  ...guidePosts.filter((post) => gameGuideSubcategories.has(post.data.subcategory))
+].sort(byDateDesc);
+const sortedGuidePosts = guidePosts.sort(byDateDesc);
+const sortedCouponPosts = couponPosts.sort(byDateDesc);
 const todayStr = new Date().toISOString().slice(0, 10);
 const yesterdayDate = new Date();
 yesterdayDate.setDate(yesterdayDate.getDate() - 1);
@@ -28,29 +55,17 @@ const yesterdayStr = yesterdayDate.toISOString().slice(0, 10);
         data-ad-height="90"></ins>
       <script is:inline async type="text/javascript" charset="utf-8" src="https://t1.kakaocdn.net/kas/static/ba.min.js"></script>
     </div>
-    <section class="container home-hero" aria-labelledby="home-title">
-      <h1 id="home-title">IT, 게임, 도구를 빠르게 깊게</h1>
-      <p>새로운 기술과 게임 흐름, 바로 쓰는 온라인 도구를 단맥답게 정리합니다.</p>
-    </section>
-
     <section class="container" aria-labelledby="latest-title" id="all-posts">
       <div class="section-head">
         <div>
-          <h2 id="latest-title">단 뉴스</h2>
+          <h2 id="latest-title">단 IT</h2>
         </div>
         <div class="section-head__controls">
-          <div class="sub-drop" id="news-sub-drop">
-            <button type="button" class="sub-filter" id="news-sub-trigger" aria-haspopup="listbox" aria-expanded="false">전체</button>
-            <div class="sub-dropdown" role="listbox" id="news-sub-list">
-              <button type="button" class="sub-dropdown-item" data-value="" role="option">전체</button>
-              {newsSubcats.map((sub) => <button type="button" class="sub-dropdown-item" data-value={sub.name} role="option">{sub.name}</button>)}
-            </div>
-          </div>
           <input id="home-search" class="home-search-input" type="search" placeholder="검색" aria-label="글 검색" autocomplete="off" />
         </div>
       </div>
       <div class="grid js-page-grid" id="post-grid">
-        {posts.map((post) => <PostCard post={post} />)}
+        {itPosts.map((post) => <PostCard post={post} />)}
       </div>
       <nav class="pager" id="pager" aria-label="글 페이지 네비게이션" hidden>
         <button type="button" class="pager__arrow" id="pager-prev" aria-label="이전 페이지" disabled>
@@ -66,21 +81,14 @@ const yesterdayStr = yesterdayDate.toISOString().slice(0, 10);
     <section class="container" aria-labelledby="guides-title" id="guide-section">
       <div class="section-head">
         <div>
-          <h2 id="guides-title">단 가이드</h2>
+          <h2 id="guides-title">단 게임</h2>
         </div>
         <div class="section-head__controls">
-          <div class="sub-drop" id="guide-sub-drop">
-            <button type="button" class="sub-filter" id="guide-sub-trigger" aria-haspopup="listbox" aria-expanded="false">전체</button>
-            <div class="sub-dropdown" role="listbox" id="guide-sub-list">
-              <button type="button" class="sub-dropdown-item" data-value="" role="option">전체</button>
-              {guideSubcats.map((sub) => <button type="button" class="sub-dropdown-item" data-value={sub.name} role="option">{sub.name}</button>)}
-            </div>
-          </div>
           <input id="home-guide-search" class="home-search-input" type="search" placeholder="검색" aria-label="가이드 검색" autocomplete="off" />
         </div>
       </div>
       <div class="grid js-page-grid" id="guide-grid">
-        {guidePosts.map((post) => <PostCard post={post} />)}
+        {gamePosts.map((post) => <PostCard post={post} />)}
       </div>
       <nav class="pager" id="guide-pager" aria-label="가이드 페이지 네비게이션" hidden>
         <button type="button" class="pager__arrow" id="guide-pager-prev" aria-label="이전 페이지" disabled>
@@ -93,31 +101,47 @@ const yesterdayStr = yesterdayDate.toISOString().slice(0, 10);
       </nav>
     </section>
 
+    <section class="container" aria-labelledby="all-guides-title" id="all-guide-section">
+      <div class="section-head">
+        <div>
+          <h2 id="all-guides-title">단 가이드</h2>
+        </div>
+        <div class="section-head__controls">
+          <input id="home-all-guide-search" class="home-search-input" type="search" placeholder="검색" aria-label="가이드 검색" autocomplete="off" />
+        </div>
+      </div>
+      <div class="grid js-page-grid" id="all-guide-grid">
+        {sortedGuidePosts.map((post) => <PostCard post={post} />)}
+      </div>
+      <nav class="pager" id="all-guide-pager" aria-label="가이드 페이지 네비게이션" hidden>
+        <button type="button" class="pager__arrow" id="all-guide-pager-prev" aria-label="이전 페이지" disabled>
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 18l-6-6 6-6"/></svg>
+        </button>
+        <span class="pager__status" id="all-guide-pager-status"></span>
+        <button type="button" class="pager__arrow" id="all-guide-pager-next" aria-label="다음 페이지" disabled>
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 18l6-6-6-6"/></svg>
+        </button>
+      </nav>
+    </section>
+
     <section class="container" aria-labelledby="coupons-title" id="coupon-section">
       <div class="section-head">
         <div>
           <h2 id="coupons-title">단 쿠폰</h2>
         </div>
         <div class="section-head__controls">
-          <div class="sub-drop" id="coupon-sub-drop">
-            <button type="button" class="sub-filter" id="coupon-sub-trigger" aria-haspopup="listbox" aria-expanded="false">전체</button>
-            <div class="sub-dropdown" role="listbox" id="coupon-sub-list">
-              <button type="button" class="sub-dropdown-item" data-value="" role="option">전체</button>
-              {couponSubcats.map((sub) => <button type="button" class="sub-dropdown-item" data-value={sub.name} role="option">{sub.name}</button>)}
-            </div>
-          </div>
           <input id="home-coupon-search" class="home-search-input" type="search" placeholder="검색" aria-label="쿠폰 검색" autocomplete="off" />
         </div>
       </div>
       <div class="grid js-page-grid" id="coupon-grid">
-        {couponPosts.map((post) => <PostCard post={post} />)}
+        {sortedCouponPosts.map((post) => <PostCard post={post} />)}
       </div>
       <nav class="pager" id="coupon-pager" aria-label="쿠폰 페이지 네비게이션" hidden>
-        <button type="button" class="pager__arrow" id="coupon-pager-prev" aria-label="이전 페이지" disabled>
+        <button type="button" class="pager__arrow" id="coupon-pager-prev" aria-label="이전 쿠폰 페이지" disabled>
           <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 18l-6-6 6-6"/></svg>
         </button>
         <span class="pager__status" id="coupon-pager-status"></span>
-        <button type="button" class="pager__arrow" id="coupon-pager-next" aria-label="다음 페이지" disabled>
+        <button type="button" class="pager__arrow" id="coupon-pager-next" aria-label="다음 쿠폰 페이지" disabled>
           <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 18l6-6-6-6"/></svg>
         </button>
       </nav>
@@ -273,8 +297,6 @@ const yesterdayStr = yesterdayDate.toISOString().slice(0, 10);
 
     const homeSearch = document.getElementById('home-search') as HTMLInputElement;
     const homeToolSearch = document.getElementById('home-tool-search') as HTMLInputElement;
-    const newsSubDrop = document.getElementById('news-sub-drop') as HTMLElement;
-    const newsSubTrigger = document.getElementById('news-sub-trigger') as HTMLButtonElement;
 
     function setupSubDrop(drop: HTMLElement, onChange: (value: string) => void) {
       const trigger = drop.querySelector('.sub-filter') as HTMLButtonElement;
@@ -310,13 +332,9 @@ const yesterdayStr = yesterdayDate.toISOString().slice(0, 10);
       return { close, getValue: () => value };
     }
 
-    const newsSub = setupSubDrop(newsSubDrop, () => filterPosts());
-
     function filterPosts() {
       const q = (homeSearch?.value || '').trim().toLowerCase();
-      const sub = newsSub.getValue();
       filteredCards = allCards.filter((card) => {
-        if (sub && card.dataset.subcategory !== sub) return false;
         if (q && !card.textContent?.toLowerCase().includes(q)) return false;
         return true;
       });
@@ -344,7 +362,6 @@ const yesterdayStr = yesterdayDate.toISOString().slice(0, 10);
     const toolSub = setupSubDrop(toolSubDrop, () => filterTools());
 
     const guideSearch = document.getElementById('home-guide-search') as HTMLInputElement;
-    const guideSubDrop = document.getElementById('guide-sub-drop') as HTMLElement;
     const guideGrid = document.getElementById('guide-grid') as HTMLElement;
     const guidePager = document.getElementById('guide-pager') as HTMLElement;
     const guidePrevButton = document.getElementById('guide-pager-prev') as HTMLButtonElement;
@@ -377,9 +394,7 @@ const yesterdayStr = yesterdayDate.toISOString().slice(0, 10);
 
     function filterGuides() {
       const q = (guideSearch?.value || '').trim().toLowerCase();
-      const sub = guideSub.getValue();
       filteredGuideCards = allGuideCards.filter((card) => {
-        if (sub && card.dataset.subcategory !== sub) return false;
         if (q && !card.textContent?.toLowerCase().includes(q)) return false;
         return true;
       });
@@ -391,10 +406,55 @@ const yesterdayStr = yesterdayDate.toISOString().slice(0, 10);
     guidePrevButton?.addEventListener('click', () => goToGuidePage(guideCurrent - 1));
     guideNextButton?.addEventListener('click', () => goToGuidePage(guideCurrent + 1));
     guideSearch?.addEventListener('input', filterGuides);
-    const guideSub = setupSubDrop(guideSubDrop, () => filterGuides());
 
-    const couponGrid = document.getElementById('coupon-grid') as HTMLElement;
+    const allGuideSearch = document.getElementById('home-all-guide-search') as HTMLInputElement;
+    const allGuideGrid = document.getElementById('all-guide-grid') as HTMLElement;
+    const allGuidePager = document.getElementById('all-guide-pager') as HTMLElement;
+    const allGuidePrevButton = document.getElementById('all-guide-pager-prev') as HTMLButtonElement;
+    const allGuideNextButton = document.getElementById('all-guide-pager-next') as HTMLButtonElement;
+    const allGuideStatus = document.getElementById('all-guide-pager-status') as HTMLElement;
+    const ALL_GUIDE_PAGE_SIZE = 6;
+    const allAllGuideCards = Array.from(allGuideGrid?.children ?? []) as HTMLElement[];
+    let filteredAllGuideCards = [...allAllGuideCards];
+    let allGuideTotalPages = Math.ceil(filteredAllGuideCards.length / ALL_GUIDE_PAGE_SIZE);
+    let allGuideCurrent = 0;
+
+    function renderAllGuides() {
+      const start = allGuideCurrent * ALL_GUIDE_PAGE_SIZE;
+      const pageCards = filteredAllGuideCards.slice(start, start + ALL_GUIDE_PAGE_SIZE);
+      allGuideGrid.innerHTML = '';
+      pageCards.forEach((card) => { card.style.display = ''; allGuideGrid.appendChild(card); });
+      for (let i = pageCards.length; i < ALL_GUIDE_PAGE_SIZE; i++) allGuideGrid.appendChild(makePlaceholder());
+      allGuideStatus.innerHTML = `<b>${allGuideCurrent + 1}</b> / ${allGuideTotalPages}`;
+      allGuidePrevButton.disabled = allGuideCurrent === 0;
+      allGuideNextButton.disabled = allGuideCurrent >= allGuideTotalPages - 1;
+      allGuidePager.hidden = allGuideTotalPages <= 1 && filteredAllGuideCards.length <= ALL_GUIDE_PAGE_SIZE;
+      preloadAdjacent(filteredAllGuideCards, allGuideCurrent, allGuideTotalPages, ALL_GUIDE_PAGE_SIZE);
+    }
+
+    function goToAllGuidePage(page: number) {
+      if (page < 0 || page > allGuideTotalPages - 1 || page === allGuideCurrent) return;
+      allGuideCurrent = page;
+      renderAllGuides();
+    }
+
+    function filterAllGuides() {
+      const q = (allGuideSearch?.value || '').trim().toLowerCase();
+      filteredAllGuideCards = allAllGuideCards.filter((card) => {
+        if (q && !card.textContent?.toLowerCase().includes(q)) return false;
+        return true;
+      });
+      allGuideTotalPages = Math.ceil(filteredAllGuideCards.length / ALL_GUIDE_PAGE_SIZE) || 1;
+      allGuideCurrent = 0;
+      renderAllGuides();
+    }
+
+    allGuidePrevButton?.addEventListener('click', () => goToAllGuidePage(allGuideCurrent - 1));
+    allGuideNextButton?.addEventListener('click', () => goToAllGuidePage(allGuideCurrent + 1));
+    allGuideSearch?.addEventListener('input', filterAllGuides);
+
     const couponSearch = document.getElementById('home-coupon-search') as HTMLInputElement;
+    const couponGrid = document.getElementById('coupon-grid') as HTMLElement;
     const couponPager = document.getElementById('coupon-pager') as HTMLElement;
     const couponPrevButton = document.getElementById('coupon-pager-prev') as HTMLButtonElement;
     const couponNextButton = document.getElementById('coupon-pager-next') as HTMLButtonElement;
@@ -404,6 +464,7 @@ const yesterdayStr = yesterdayDate.toISOString().slice(0, 10);
     let filteredCouponCards = [...allCouponCards];
     let couponTotalPages = Math.ceil(filteredCouponCards.length / COUPON_PAGE_SIZE);
     let couponCurrent = 0;
+
     function renderCoupons() {
       const start = couponCurrent * COUPON_PAGE_SIZE;
       const pageCards = filteredCouponCards.slice(start, start + COUPON_PAGE_SIZE);
@@ -416,16 +477,16 @@ const yesterdayStr = yesterdayDate.toISOString().slice(0, 10);
       couponPager.hidden = couponTotalPages <= 1 && filteredCouponCards.length <= COUPON_PAGE_SIZE;
       preloadAdjacent(filteredCouponCards, couponCurrent, couponTotalPages, COUPON_PAGE_SIZE);
     }
+
     function goToCouponPage(page: number) {
       if (page < 0 || page > couponTotalPages - 1 || page === couponCurrent) return;
       couponCurrent = page;
       renderCoupons();
     }
+
     function filterCoupons() {
       const q = (couponSearch?.value || '').trim().toLowerCase();
-      const sub = couponSub.getValue();
       filteredCouponCards = allCouponCards.filter((card) => {
-        if (sub && card.dataset.subcategory !== sub) return false;
         if (q && !card.textContent?.toLowerCase().includes(q)) return false;
         return true;
       });
@@ -433,14 +494,15 @@ const yesterdayStr = yesterdayDate.toISOString().slice(0, 10);
       couponCurrent = 0;
       renderCoupons();
     }
+
     couponPrevButton?.addEventListener('click', () => goToCouponPage(couponCurrent - 1));
     couponNextButton?.addEventListener('click', () => goToCouponPage(couponCurrent + 1));
     couponSearch?.addEventListener('input', filterCoupons);
-    const couponSub = setupSubDrop(document.getElementById('coupon-sub-drop') as HTMLElement, () => filterCoupons());
 
     renderPosts();
     renderTools();
     renderGuides();
+    renderAllGuides();
     renderCoupons();
   </script>
 </BaseLayout>

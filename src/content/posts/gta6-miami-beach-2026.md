@@ -20,6 +20,11 @@ hideDescription: true
 draft: true
 ---
 
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>GTA 6의 배경은 현실의 플로리다와 마이애미를 강하게 떠올리게 합니다. GTA 6와 마이애미비치가 손잡는다, 시의회에서 논쟁까지 나온 이유 게임 뉴스는 발표 내용보다 플레이어가 무엇을 얻고 무엇을 더 기다려야 하는지가 핵심이죠.</p>
+</div>
+
 GTA 6의 배경은 현실의 플로리다와 마이애미를 강하게 떠올리게 합니다.
 
 그런데 이번에는 현실의 마이애미비치가 게임과의 공식 협업을 추진하며 시의회 표결까지 거쳤습니다.
@@ -58,6 +63,17 @@ GTA 6의 배경은 현실의 플로리다와 마이애미를 강하게 떠올리
 
 아직 실제 캠페인에서 폭력적 요소를 어떻게 분리할지가 중요합니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 현실 관광과 게임 관광
 
 대형 오픈월드 게임은 실제 도시를 찾아가는 여행 동기를 만들 정도로 영향력이 커졌습니다.
@@ -85,6 +101,17 @@ GTA 시리즈는 현실 도시를 그대로 복제하기보다 과장과 풍자�
 현재는 이번에는 현실 도시가 그 패러디 세계를 다시 홍보에 쓰는 순환 구조가 만들어집니다.
 
 락스타가 실제 협업에서 어느 정도까지 지역 이름과 행사를 활용할지는 지켜봐야 합니다라는 점은 함께 보셔야 합니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. GTA 6의 문화적 크기
 
@@ -114,3 +141,13 @@ GTA 6가 단순 게임을 넘어 현실 도시의 관광 전략까지 움직이�
 
 결국 지금 단계에서는 화제성보다 실제 제품과 서비스가 어떻게 달라지는지 확인하는 것이 가장 현실적인 접근입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

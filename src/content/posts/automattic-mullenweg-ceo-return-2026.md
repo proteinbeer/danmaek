@@ -1,5 +1,6 @@
 ---
 title: "오토매틱 CEO 며칠 만에 복귀, 워드프레스 이용자가 봐야 할 건 따로 있다"
+draft: true
 description: "워드프레스닷컴 운영사 오토매틱에서 보기 드문 경영권 충돌이 벌어졌습니다."
 date: 2026-09-13T12:00:00
 updated: 2026-09-14T12:00:00
@@ -18,6 +19,11 @@ imageHeight: 675
 hideHeroImage: true
 hideDescription: true
 ---
+
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>워드프레스닷컴 운영사 오토매틱에서 보기 드문 경영권 충돌이 벌어졌습니다. 오토매틱 CEO 며칠 만에 복귀, 워드프레스 이용자가 봐야 할 건 따로 있다 겉으로는 작은 변화처럼 보여도 실제 영향은 이후 흐름을 함께 봐야 분명해지죠.</p>
+</div>
 
 워드프레스닷컴 운영사 오토매틱에서 보기 드문 경영권 충돌이 벌어졌습니다.
 
@@ -49,6 +55,17 @@ hideDescription: true
 
 그래서 이번 사건은 누가 이겼느냐보다 회사의 의사 결정 구조가 얼마나 안정적인지에 더 큰 질문을 남깁니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 워드프레스와 오토매틱은 같은 회사가 아니다
 
 이 부분은 꼭 구분해야 합니다.
@@ -68,6 +85,17 @@ hideDescription: true
 다만 현재 확인된 것은 경영진 변화이지 서비스 중단이나 가격 개편이 아닙니다.
 
 실제 이용자라면 사람 사이 갈등보다 앞으로 제품 정책이 바뀌는지를 보는 편이 낫습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 사이트 운영자가 할 일
 

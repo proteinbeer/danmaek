@@ -41,7 +41,18 @@ hideDescription: true
 
 파일 하나는 제한 안에 들어와도 여러 파일을 동시에 올리거나 추가 데이터가 붙으면 전체 요청 크기에서 막힐 수 있죠.
 
-그래서 한 번에 여러 개가 실패한다면 한 파일씩 올려보는 것도 좋은 비교 방법입니다. 같은 파일이 단독으로는 올라간다면 전체 요청 제한과 연관됐을 가능성이 있습니다.
+그래서 한 번에 여러 개가 실패한다면 한 파일씩 올려보는 것도 좋은 비교 방법이죠. 같은 파일이 단독으로는 올라간다면 전체 요청 제한과 연관됐을 가능성이 있습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 3. 호스팅 관리 화면을 먼저 본다
 
@@ -59,6 +70,17 @@ hideDescription: true
 
 이럴 때 플러그인을 여러 개 바꾸기보다 호스팅의 PHP 설정과 사이트 건강도 값을 비교하시는 편이 정확하죠. 문제를 해결하려고 플러그인을 추가하다가 사이트만 더 복잡해질 수 있습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 큰 영상은 워드프레스에 직접 올릴 필요가 적다
 
 업로드 제한을 크게 늘릴 수 있다고 해서 모든 대형 파일을 워드프레스 서버에 넣는 것이 좋은 선택은 아닙니다.
@@ -71,9 +93,20 @@ hideDescription: true
 
 사이트 이전용 내보내기 파일처럼 꼭 큰 파일을 올려야 하는 경우에는 업로드 제한을 잠시 조정하거나 파일을 나누는 방법을 고려할 수 있습니다.
 
-호스팅에서 별도 가져오기 기능을 제공한다면 브라우저 업로드보다 그 기능이 안정적인 경우도 있습니다.
+호스팅에서 별도 가져오기 기능을 제공한다면 브라우저 업로드보다 그 기능이 안정적인 경우도 있죠.
 
 대형 파일을 한 번 올리기 위해 서버 전체 제한을 지나치게 크게 유지할 필요는 없죠. 작업이 끝난 뒤 원래 수준으로 되돌리는 것도 보안과 자원 관리 측면에서 의미가 있습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 7. 실행 시간도 함께 확인
 
@@ -91,3 +124,13 @@ hideDescription: true
 
 현재 제한 확인, 호스팅 PHP 설정, 요청 크기, 실행 시간 순서로 보시면 되죠. 최대값을 키우는 것이 목적이 아니라 필요한 파일이 안정적으로 올라가는 환경을 만드는 것이 핵심입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

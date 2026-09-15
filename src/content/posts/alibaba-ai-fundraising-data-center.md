@@ -20,6 +20,11 @@ hideHeroImage: true
 hideDescription: true
 ---
 
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>알리바바의 102억 달러 신주 발행 배경과 인공지능 인프라 투자 구조 그리고 연산 비용 경쟁의 변화를 정리합니다. 알리바바가 주가 하락을 감수하고 102억 달러를 조달하다, 인공지능 경쟁은 돈 싸움 결국 중요한 건 기술 이름보다 비용, 서비스 방식, 이용 선택지가 실제로 어떻게 달라지는지이죠.</p>
+</div>
+
 알리바바가 약 102억 달러 규모의 신주 발행에 나섰습니다. 발표 직후 홍콩 증시에서 주가가 크게 떨어졌지만 회사는 조달 자금을 인공지능, 반도체, 데이터센터에 투입할 계획이죠.
 
 기존 주주들에게는 반가운 소식만은 아닙니다. 새 주식이 대규모로 발행되면 가치가 희석될 수 있기 때문이죠.
@@ -52,6 +57,17 @@ hideDescription: true
 
 주문 규모가 발행 규모를 크게 웃돌았다는 점은 투자자들이 희석을 걱정하면서도 알리바바의 인공지능 전략 자체에는 관심을 갖고 있다는 신호이기도 합니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 미국 기업과 같은 방식으로 싸울 수 없는 중국
 
 미국의 대형 기술기업은 막대한 현금 흐름과 최첨단 반도체 접근성을 바탕으로 인공지능 투자를 늘리고 있습니다. 중국 기업은 여기에 반도체 수출 제한이라는 추가 변수까지 안고 있죠.
@@ -71,6 +87,17 @@ hideDescription: true
 이 말은 시장이 이제 인공지능을 실험 단계가 아니라 수익을 증명해야 하는 사업으로 보기 시작했다는 뜻이기도 합니다. 이용자가 많아져도 서버 비용이 더 빠르게 늘면 좋은 사업이 아닐 수 있기 때문이죠.
 
 앞으로 인공지능 기업을 볼 때는 모델 성능뿐 아니라 클라우드 매출, 연산 비용, 자체 반도체, 투자 회수 기간도 함께 보셔야 합니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 인공지능 경쟁의 다음 승자
 

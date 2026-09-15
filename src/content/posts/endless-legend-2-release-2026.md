@@ -20,6 +20,11 @@ hideDescription: true
 draft: true
 ---
 
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>엔드리스 레전드 2가 9월 17일 1.0 정식 버전으로 전환됩니다. 신규 주요 세력 샌드셰이퍼와 두 개의 로그 세력, 새로운 소수 세력이 추가되고 스팀 워크숍 모드 지원도 이미 열렸습니다. 단순한 변경 목록보다 실제로 켜야 할 기능과 체감되는 차이를 먼저 보는 편이 좋죠.</p>
+</div>
+
 엔드리스 레전드 2가 9월 17일 1.0 정식 버전으로 전환됩니다. 신규 주요 세력 샌드셰이퍼와 두 개의 로그 세력, 새로운 소수 세력이 추가되고 스팀 워크숍 모드 지원도 이미 열렸습니다.
 
 전략 게임에서 정식 출시보다 모드 도구를 먼저 공개한 선택이 특히 눈에 띕니다. 개발사가 콘텐츠를 모두 직접 만들기보다 이용자가 규칙과 밸런스를 바꾸는 생태계를 초반부터 키우려는 방향입니다.
@@ -42,6 +47,17 @@ draft: true
 
 완전히 새로운 세력을 여러 개 만드는 것보다 자산을 재활용하면서 선택지를 늘릴 수 있는 영리한 방식입니다. 대신 원본과 체감 차이가 작으면 숫자만 늘어난 콘텐츠처럼 느껴질 수 있습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 모드가 먼저
 
 스팀 워크숍 모드 지원은 정식 출시 전 업데이트에서 이미 제공됐습니다. 개발사는 데이터 파일을 공개하고 이용자가 규칙을 바꿀 수 있도록 가이드도 제공했습니다.
@@ -57,6 +73,17 @@ draft: true
 전략 게임은 밸런스가 복잡해 얼리 액세스와 잘 맞는 장르입니다. 실제 이용자가 수백 시간 플레이하면 개발팀이 예상하지 못한 강한 조합과 막힌 성장 경로가 빠르게 드러납니다.
 
 엔드리스 레전드 2도 정식 출시 전 기술 비용과 세력 밸런스를 여러 차례 손봤습니다. 1.0은 모든 문제가 끝났다는 선언보다 기본 규칙이 이제 장기 운영 가능한 수준에 들어왔다는 의미에 가깝습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 콘솔 전략
 
@@ -74,3 +101,13 @@ draft: true
 
 모드 지원을 정식 출시 전에 연 것은 개발사가 커뮤니티를 장기 파트너로 본다는 신호로 느껴집니다. 전략 게임은 수년 뒤에도 새로운 규칙이 필요하기 때문에 공식 DLC와 이용자 모드가 함께 돌아갈 때 가장 오래 살아남습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

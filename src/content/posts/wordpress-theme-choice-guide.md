@@ -33,7 +33,7 @@ hideDescription: true
 - 디자인 옵션이 적어서 스타일을 바꾸려면 CSS를 직접 만져야 하는 경우가 많습니다.
 - 업데이트 주기가 길어 보안 패치가 느리면, 결국 유료 테마의 요금 이상의 비용이 들 수 있습니다.
 
-공식 저장소의 무료 테마는 검증을 거쳐 꽤 안전합니다. 다만 외부 사이트에서 무료로 받는 테마는 파일에 악성 코드가 숨겨져 있는 경우가 있어 반드시 피해야 합니다.
+공식 저장소의 무료 테마는 검증을 거쳐 꽤 안전하죠. 다만 외부 사이트에서 무료로 받는 테마는 파일에 악성 코드가 숨겨져 있는 경우가 있어 반드시 피해야 합니다.
 
 ## 2. 유료 테마가 갖는 실질적인 장점
 
@@ -44,7 +44,18 @@ hideDescription: true
 - 공식 문서와 고객 지원이 있어 문제가 생기면 길을 찾을 수 있습니다.
 - 테마에 포함된 기능(포트폴리오, 팀, 가격표)을 쓰면 별도 플러그인이 줄어 속도에 유리합니다.
 
-유료 테마는 통상 결제 전에 데모 사이트를 제공합니다. 실제 데모에서 속도와 동작을 미리 확인해보면 가성비를 정확히 알 수 있습니다.
+유료 테마는 통상 결제 전에 데모 사이트를 제공합니다. 실제 데모에서 속도와 동작을 미리 확인해보면 가성비를 정확히 알 수 있죠.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 3. 테마가 아니라 플러그인이 느리게 만든다
 
@@ -58,12 +69,23 @@ hideDescription: true
 
 ## 4. 라이선스와 갱신 정책 확인
 
-유료 테마는 한 번 산다고 평생 쓸 수 있는 것이 아닙니다. 판매 정책이 제품마다 다릅니다.
+유료 테마는 한 번 산다고 평생 쓸 수 있는 것이 아닙니다. 판매 정책이 제품마다 다르죠.
 
 - 대부분 테마는 **1년 라이선스**이며, 1년이 지나면 업데이트 지원이 끊기는 구조입니다.
 - 지원이 만료된 테마는 새 워드프레스 버전에서 호환성 문제가 생길 수 있습니다.
 - 상업용 사이트라면 단일 사이트 라이선스인지, 무제한 라이선스인지도 판매 상세에 따라 다르니 확인합니다.
 - 무료 테마의 경우 라이선스가 꼬여 배포가 중단되는 경우도 있으니, 다운로드 페이지의 라이선스 표기를 읽어봅니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 선택 기준 간단 정리
 
@@ -87,3 +109,13 @@ hideDescription: true
 
 무료든 유료든 "테마는 시작점"이라는 것을 기억하시기 바랍니다. 테마를 바꾸면 페이지 편집이 흔들리는 경우가 많아, 바꿀수록 유지보수 비용은 올라갑니다. 처음부터 한 번 잘 고른 것이 장기적으로 가장 싼 선택입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

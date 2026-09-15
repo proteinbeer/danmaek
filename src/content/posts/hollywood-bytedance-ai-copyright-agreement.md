@@ -21,6 +21,11 @@ hideHeroImage: true
 hideDescription: true
 ---
 
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>미국 영화협회와 바이트댄스의 인공지능 저작권 합의 배경과 배우 얼굴 캐릭터 권리 문제 그리고 표준화 논의 방향을 정리합니다. 할리우드는 왜 바이트댄스와 싸우다 합의했나, 인공지능 저작권 전쟁의 다음 단계 결국 중요한 건 기술 이름보다 비용, 서비스 방식, 이용 선택지가 실제로 어떻게 달라지는지이죠.</p>
+</div>
+
 미국 영화협회와 바이트댄스가 인공지능 영상, 이미지 생성 도구의 저작권 보호를 강화하기 위한 합의를 맺었습니다. 올해 초까지만 해도 영화협회는 바이트댄스의 시댄스, 시드림과 관련해 저작권 침해 우려를 제기하며 강하게 반발했죠.
 
 몇 달 만에 관계가 소송 직전의 충돌에서 협력 형태로 바뀐 셈입니다.
@@ -51,6 +56,17 @@ hideDescription: true
 
 앞으로 인공지능 서비스의 경쟁은 생성 품질뿐 아니라 이런 경계를 얼마나 일관되게 관리하는지에서도 갈릴 가능성이 있습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 할리우드가 인공지능을 필요로 할 수도
 
 영화사는 인공지능을 저작권 위협으로만 보는 것은 아닙니다. 제작비 절감, 사전 시각화, 배경 제작, 번역, 후반 작업 등 여러 과정에서 인공지능을 사용하게 되기 때문입니다.
@@ -70,6 +86,17 @@ hideDescription: true
 생성을 잘 막으면 이용자는 답답해하고 너무 느슨하면 저작권자가 반발합니다. 결국 어느 선에서 막는지가 제품 경쟁력과 법적 위험 사이의 균형 문제가 되겠죠.
 
 앞으로 같은 요청을 여러 인공지능 서비스에 넣었을 때 더 느슨한 쪽이 인기를 얻을 겁니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 다음 단계는 합의보다 표준화
 

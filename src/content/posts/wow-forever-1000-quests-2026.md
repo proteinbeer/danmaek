@@ -20,6 +20,11 @@ hideDescription: true
 draft: true
 ---
 
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>월드 오브 워크래프트 포에버는 이름만 바꾼 클래식 서버가 아닙니다. 블리자드가 공개한 규모만 신규 지역 3개, 퀘스트 1000개 이상, 던전 9개, 레이드 2개, 신규 종족 1개입니다. 관건은 발표 자체보다 출시 일정, 가격, 기다릴 이유가 얼마나 분명한지이죠.</p>
+</div>
+
 월드 오브 워크래프트 포에버는 이름만 바꾼 클래식 서버가 아닙니다. 블리자드가 공개한 규모만 신규 지역 3개, 퀘스트 1000개 이상, 던전 9개, 레이드 2개, 신규 종족 1개입니다.
 
 이번 소식은 단순한 업데이트 한 줄보다 앞으로의 운영 방향과 이용 경험을 같이 보여주는 변화에 가깝습니다. 현재 확인된 사실과 아직 해석이 필요한 부분을 나눠서 보겠습니다.
@@ -38,6 +43,17 @@ draft: true
 
 새 결정은 이전 콘텐츠의 반응과 시장 변화가 쌓인 결과인 경우가 많습니다. 과거 방식에서 무엇이 부족했는지 보면 이번 선택이 해결하려는 문제가 더 선명하게 보입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 신규 종족 스카이본
 
 1000개 퀘스트라는 숫자보다 중요한 것은 퀘스트 밀도와 동선이죠. 바닐라 와우 특유의 긴 이동과 지역 탐험을 살리면서 현대적인 반복 심부름을 줄인다면 새로운 클래식이라는 정체성을 만들 수 있습니다.
@@ -53,6 +69,17 @@ draft: true
 숫자가 큰 신규 콘텐츠는 첫인상을 만들기 좋지만 장기적으로는 세계가 살아 있다는 느낌이 더 중요하죠. 퀘스트가 서로 연결되고 지역이 자연스럽게 확장돼야 1000개라는 숫자가 단순한 양이 아니라 경험으로 남습니다.
 
 개인적으로는 이 부분이 가장 흥미롭습니다. 작은 방향 변화가 다른 작품과 서비스에도 반복될 때 일회성 실험이 아니라 회사 전체 전략으로 굳어지는 경우가 많기 때문입니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 베타에서 경제와 레벨링이 관건
 

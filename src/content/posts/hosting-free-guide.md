@@ -33,7 +33,7 @@ hideDescription: true
 - 무료 기간이 끝나면 월 요금이 있는 **유료 요금제로 유도**
 - 계정이 오래 방치되면 **데이터를 통째로 삭제**해 리소스를 회수
 
-어느 쪽이든 사이트가 커질수록 유료로 전환되거나 데이터를 지키기 어려워지는 구조입니다. "무료면 좋겠다"는 마음보다 **왜 이걸 무료로 주는지**를 먼저 살펴보시는 게 핵심이죠.
+어느 쪽이든 사이트가 커질수록 유료로 전환되거나 데이터를 지키기 어려워지는 구조이죠. "무료면 좋겠다"는 마음보다 **왜 이걸 무료로 주는지**를 먼저 살펴보시는 게 핵심이죠.
 
 ## 2. 트래픽 제한이 가장 큰 현실
 
@@ -44,6 +44,18 @@ hideDescription: true
 - 사이트가 잠시 끊기는 것보다 **검색 노출과 방문자 이탈**이 더 아픕니다.
 
 트래픽 한도 수치는 잘 보이지 않는 곳에 적혀 있는 경우가 많습니다. 가입 화면이 아니라 **서비스 소개서나 이용약관**에서 꼭 확인해 보십시오.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 강제 광고는 데이터 소유권과도 연결
 
 강제 배너 광고가 붙는 호스팅은 게시물마다 업체 광고가 삽입됩니다. 방문자 입장에서는 사이트의 신뢰도가 떨어지고, 애드센스 같은 본인 광고 수익과 겹치면 정산에 문제가 생길 수도 있습니다.
@@ -61,9 +73,21 @@ hideDescription: true
 - 블로그 글과 DB는 사라진 뒤에는 사실상 되돌릴 수 없으니, 무료 호스팅을 쓰더라도 **주기적 백업**은 필수입니다.
 
 이용약관의 "계정 정지", "데이터 폐기", "휴면 계정" 조항을 꼭 읽어보시기 바랍니다. 문구가 모호하면 문의하기 전에는 알 수 없는 조건이니 주의하십시오.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 무료로 시작할 수 있는 안전한 대안
 
-돈을 내지 않고도 안정적으로 시작할 수 있는 방법은 충분합니다. 특히 **정적 사이트(Static Site)** 구조라면 GitHub Pages, Cloudflare Pages 같은 배포 서비스가 무료 호스팅보다 훨씬 안정적이고 광고도 붙지 않습니다.
+돈을 내지 않고도 안정적으로 시작할 수 있는 방법은 충분하죠. 특히 **정적 사이트(Static Site)** 구조라면 GitHub Pages, Cloudflare Pages 같은 배포 서비스가 무료 호스팅보다 훨씬 안정적이고 광고도 붙지 않습니다.
 
 - 블로그 글이 많지 않고 이미지 수정이 간단하다면 정적 사이트 생성기로 충분합니다.
 - HTTPS(SSL)가 기본으로 붙어 있고, 트래픽 한도도 무료 호스팅보다 훨씬 넉넉합니다.
@@ -82,3 +106,13 @@ hideDescription: true
 
 무료 호스팅은 가입이 쉽다는 장점 하나만 보고 결정하기에는 위험 요소가 많습니다. 위 체크리스트를 차례로 확인하시면 나중에 되돌리기 어려운 문제를 피할 수 있습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

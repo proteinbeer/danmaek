@@ -20,6 +20,11 @@ hideDescription: true
 draft: true
 ---
 
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>메트로이드 레이베너스가 2027년 1월 28일 스위치 2로 출시됩니다. 메트로이드 레이베너스 1월 28일 출시, 적의 생명력을 먹는 사무스 관건은 발표 자체보다 출시 일정, 가격, 기다릴 이유가 얼마나 분명한지이죠.</p>
+</div>
+
 메트로이드 레이베너스가 2027년 1월 28일 스위치 2로 출시됩니다.
 
 2D 신작이며 사무스가 적의 에너지를 흡수하는 새로운 능력을 사용하는 것이 가장 큰 특징입니다.
@@ -54,6 +59,17 @@ draft: true
 
 익숙해진 뒤에도 선택지가 늘었다고 느껴지는지, 아니면 해야 할 조작만 늘어났는지가 결국 완성도를 가르게 됩니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 벽을 통과하고 물 위를 달린다
 
 벽을 순간적으로 통과하는 대시와 물 위를 달리는 이동도 확인됐습니다.
@@ -85,6 +101,17 @@ draft: true
 결국 좋은 후속작과 리메이크는 기억 속 장점을 남기면서 지금 플레이하기 불편한 부분만 정확히 걷어냅니다.
 
 이번 변화도 그 균형을 얼마나 잘 잡았는지가 장기 평가에 더 중요합니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 먹느냐 먹히느냐가 새 테마
 

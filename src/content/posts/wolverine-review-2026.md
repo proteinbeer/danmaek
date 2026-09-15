@@ -20,6 +20,11 @@ hideDescription: true
 draft: true
 ---
 
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>인섬니악의 마블 울버린 리뷰가 공개되면서 기대와 다른 반응도 나오고 있습니다. 마블 울버린 평가가 갈린다, PS5 독점 기대만큼 강하지 않았던 부분 관건은 발표 자체보다 출시 일정, 가격, 기다릴 이유가 얼마나 분명한지이죠.</p>
+</div>
+
 인섬니악의 마블 울버린 리뷰가 공개되면서 기대와 다른 반응도 나오고 있습니다.
 
 전투의 잔혹함과 캐릭터 표현을 긍정적으로 보는 평가가 있는 반면 일부에서는 구성과 완성도가 플레이스테이션 대표 독점작에 기대한 수준만큼 새롭지 않다는 지적이 나왔습니다.
@@ -58,6 +63,17 @@ draft: true
 
 아직 폭력 수위 자체가 재미를 보장하는 것은 아니라 전투 반복성도 함께 봐야 합니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 독점작에 높아진 기준
 
 PS5 독점 대작은 그래픽과 연출뿐 아니라 새로운 시스템까지 기대받습니다.
@@ -85,6 +101,17 @@ PS5 독점 대작은 그래픽과 연출뿐 아니라 새로운 시스템까지 
 현재는 울버린은 유명 캐릭터와 유명 스튜디오가 만나 기대치가 처음부터 매우 높았습니다.
 
 기대가 큰 작품일수록 작은 단점도 더 크게 보일 수 있습니다라는 점은 함께 보셔야 합니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. PC 이용자는 더 기다려야 한다
 
@@ -134,3 +161,14 @@ hideHeroImage: true
 hideDescription: true
 draft: true
 ---
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

@@ -27,7 +27,7 @@ hideDescription: true
 
 ## 1. e숍 세일 패턴을 익히기
 
-닌텐도 e숍의 세일은 어느 날 갑자기 나오는 것이 아니라 일정한 패턴이 있습니다.
+닌텐도 e숍의 세일은 어느 날 갑자기 나오는 것이 아니라 일정한 패턴이 있죠.
 
 - 대형 세일(여름/연말/닌텐도 라이프 이벤트) 기간이 가장 할인 폭이 큽니다.
 - 퍼스트파티 게임은 할인율이 낮고(최대 30～40%) 타이틀도 적지만, 서드파티는 50～80%도 자주 나옵니다.
@@ -45,7 +45,18 @@ e숍 앱에서 위시리스트에 넣어두면 세일에 들어갔을 때 알림
 - 판매와 구매 모두 상태(스크래치, 박스 포함 여부)를 사진으로 확인하는 것이 안전합니다.
 - 국내 거래 플랫폼(중고 거래 사이트)은 직거래 시 구매자 보호 정책이 적용되는 절차를 권장합니다.
 
-카드 게임은 클리어 후 되팔 수 있다는 장점도 있습니다. 원하는 게임이 비싼 대형작이라면 "사서 즐기고 판매" 사이클이 실제 비용을 크게 낮춰줍니다.
+카드 게임은 클리어 후 되팔 수 있다는 장점도 있죠. 원하는 게임이 비싼 대형작이라면 "사서 즐기고 판매" 사이클이 실제 비용을 크게 낮춰줍니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 3. 지역별 e숍 가격 비교 주의
 
@@ -56,7 +67,7 @@ e숍 앱에서 위시리스트에 넣어두면 세일에 들어갔을 때 알림
 - 해외 e숍 결제는 해당 국가의 결제 수단(일본의 경우 일본 발급 카드/기프트카드)이 필요할 수 있습니다.
 - 자녀 계정이나 패밀리 그룹에 속한 계정은 국가 변경이 제한될 수 있습니다.
 
-지역 변경은 이점이 분명하지만 관리가 까다로우므로, 처음부터 여러 어카운트를 만들지 않도록 주의해야 합니다. 한 어카운트로 결제 국가를 계속 바꾸다 보면 잔액 소멸 같은 사고가 발생하기 쉽습니다.
+지역 변경은 이점이 분명하지만 관리가 까다로우므로, 처음부터 여러 어카운트를 만들지 않도록 주의해야 합니다. 한 어카운트로 결제 국가를 계속 바꾸다 보면 잔액 소멸 같은 사고가 발생하기 쉽죠.
 
 ## 4. 시즌 패스와 DLC 혜택
 
@@ -66,6 +77,17 @@ e숍 앱에서 위시리스트에 넣어두면 세일에 들어갔을 때 알림
 - DLC는 단독 할인이 늦게 오기 때문에 "본편은 세일, DLC는 정가" 조합이 비싸질 수 있습니다.
 - 게임을 아직 시작하지 않았다면 에디션 세일을 기다렸다가 사는 방법이 가성비가 가장 좋습니다.
 - 사전 구매(예약)는 보너스가 있지만, 가격 자체는 출시 후 세일보다 비쌀 수 있으니 신작 출시 직후만 피하면 됩니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 구매 시점의 핵심 원칙
 
@@ -80,7 +102,7 @@ e숍 앱에서 위시리스트에 넣어두면 세일에 들어갔을 때 알림
 
 ## 6. 할인 정보 수집 방법
 
-실시간으로 할인 정보를 모으는 방법도 몇 가지 있습니다.
+실시간으로 할인 정보를 모으는 방법도 몇 가지 있죠.
 
 - e숍 자체의 "세일" 탭을 주기적으로 확인하는 것부터 시작합니다.
 - 위시리스트 알림을 활용하고, 세일 기간 공지(닌텐도 다이렉트, 공식 SNS)를 팔로우합니다.
@@ -88,3 +110,13 @@ e숍 앱에서 위시리스트에 넣어두면 세일에 들어갔을 때 알림
 
 정보를 모으는 습관이 붙으면 "이 게임은 얼마까지 내려간 적이 있으니 그 가격 주변에서 사자"는 기준이 생깁니다. 이 기준이 정가 지출을 막는 가장 확실한 방패가 됩니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

@@ -20,6 +20,11 @@ hideDescription: true
 draft: true
 ---
 
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>레어가 슈퍼패미컴 시절 만들다 포기한 프로젝트 드림의 롬 파일이 유출됐습니다. 반조 카주이의 시작 프로젝트 드림이 유출됐다, 30년 묵은 롬이 나온 이유 그런데 피해 규모보다 어떤 정보가 새어 나갔고 이후 어떤 연락을 조심해야 하는지가 더 중요해 보이죠.</p>
+</div>
+
 레어가 슈퍼패미컴 시절 만들다 포기한 프로젝트 드림의 롬 파일이 유출됐습니다.
 
 프로젝트 드림은 해적을 주인공으로 한 RPG로 시작됐고 개발 과정에서 방향을 바꾸며 결국 반조 카주이의 뿌리가 된 작품으로 알려져 있습니다.
@@ -58,6 +63,17 @@ draft: true
 
 아직 유출본의 모든 요소가 최종 반조 카주이에 직접 이어졌다고 단정할 수는 없습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 게임 보존의 가치
 
 미출시 게임은 회사 내부 서버와 오래된 저장 장치에만 남아 있다가 영원히 사라질 수 있습니다.
@@ -85,6 +101,17 @@ draft: true
 현재는 회사 입장에서는 공개 계획이 없던 소스와 내부 자료가 외부로 나간 사건입니다.
 
 어떤 범위까지 공개됐는지에 따라 위험과 의미도 달라집니다라는 점은 함께 보셔야 합니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 레어의 개발 방식이 보인다
 
@@ -114,3 +141,13 @@ draft: true
 
 결국 지금 단계에서는 화제성보다 실제 제품과 서비스가 어떻게 달라지는지 확인하는 것이 가장 현실적인 접근입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

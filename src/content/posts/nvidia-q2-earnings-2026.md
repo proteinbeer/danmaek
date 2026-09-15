@@ -20,6 +20,11 @@ hideHeroImage: true
 hideDescription: true
 ---
 
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>엔비디아가 2026 회계연도 2분기 실적을 발표합니다. 매출 920억달러 이상이 예상되는 가운데, 총이익률과 루빈 공급, 데이터센터 성장이 더 중요한 이유를 정리합니다. 결국 중요한 건 기술 이름보다 비용, 서비스 방식, 이용 선택지가 실제로 어떻게 달라지는지이죠.</p>
+</div>
+
 엔비디아가 미국 현지 시간 8월 26일 2026 회계연도 2분기 실적을 발표했습니다. 시장에서는 분기 매출이 약 921억8000만달러에 이를 것으로 예상하면서 인공지능 투자 열기가 여전히 강한지 확인하려 하고 있습니다.
 
 문제는 엔비디아가 이제 좋은 실적만 내서는 놀라움을 주기는 어려운 회사가 됐다는 점입니다. 매출이 크게 늘어나는 것은 이미 시장이 기대하고 있고, 그보다 다음 몇 달 동안 같은 속도를 유지할 수 있는지가 더 중요해졌죠.
@@ -42,6 +47,17 @@ hideDescription: true
 
 그래서 실적을 보실 때 전체 매출 증가율과 함께 데이터센터 매출이 얼마나 늘었는지를 따로 보셔야 합니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 총이익률 75
 
 시장에서는 엔비디아의 총이익률이 약 75% 수준을 유지할지도 중요하게 보고 있습니다. 총이익률은 제품을 많이 팔았는지보다 판매하고 생산 비용을 제외한 뒤 얼마나 많이 남겼는지를 보여줍니다.
@@ -58,6 +74,17 @@ hideDescription: true
 
 로이터는 시장이 루빈의 공급 속도와 초기 수요를 이번 실적 발표의 핵심 관전 포인트 가운데 하나로 보고 있다고 합니다. 현재 제품이 얼마나 팔렸는지보다 다음 제품이 얼마나 빨리 돈을 벌기 시작하는지가 중요하다는 뜻이죠.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 인공지능 투자에 돈이 너무 많이
 
 대형 기술기업은 데이터센터에 수천억달러 규모의 투자를 계속하고 있습니다. 엔비디아는 이 지출의 가장 큰 수혜자 가운데 하나입니다.
@@ -73,6 +100,17 @@ hideDescription: true
 여기에 경쟁도 커지고 있습니다. AMD와 인텔뿐 아니라 구글과 아마존, 마이크로소프트 같은 엔비디아의 가장 큰 고객들이 자체 인공지능 칩을 개발하고 있습니다.
 
 고객이 동시에 경쟁자가 되는 구조죠. 지금 당장은 엔비디아 가속기에 대한 수요가 강하지만 대형 고객이 자체 칩 비중을 늘리기 시작하면 장기 성장률에 영향을 줄 수 밖에 없습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 7. 다음 분기 전망
 
@@ -92,3 +130,13 @@ hideDescription: true
 
 반대로 920억달러를 넘는 매출과 높은 총이익률, 강한 다음 분기 전망을 동시에 보여주면 대형 기술기업의 인공지능 투자가 아직 끝나지 않았다는 근거가 됩니다. 결국 이번 실적은 숫자 하나보다 인공지능 산업 전체가 지금의 투자 속도를 얼마나 오래 유지할 수 있는지를 확인하는 발표에 가깝죠.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

@@ -20,6 +20,11 @@ hideHeroImage: true
 hideDescription: true
 ---
 
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>애플의 첫 폴더블 아이폰 전망이 나오는 가운데 삼성은 오히려 기회를 볼 수 있죠. 카운터포인트리서치 전망과 삼성의 선점 기간, 애플의 잠재력을 정리합니다. 겉으로는 작은 변화처럼 보여도 실제 영향은 이후 흐름을 함께 봐야 분명해지죠.</p>
+</div>
+
 애플의 첫 폴더블 아이폰을 둘러싼 전망이 계속 나오고 있습니다. 아직 애플이 제품 이름과 세부 사양을 공식 발표하지 않았기 때문에 현재 알려진 내용은 전망과 보도를 구분해서 보셔야 합니다.
 
 카운터포인트리서치는 2026년 세계 폴더블 스마트폰 출하량이 전년보다 약 21퍼센트 늘어날 것으로 전망했습니다. 애플의 시장 진입 기대가 커지는 가운데 삼성은 여전히 1위를 지킬 것으로 예상되지만 점유율은 낮아질 가능성이 있죠.
@@ -42,6 +47,17 @@ hideDescription: true
 
 기술은 상당히 발전했지만 사용 이유가 완전히 대중화된 시장은 아닌 셈이죠.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 애플이 들어오면 시장 확장
 
 카운터포인트리서치는 애플의 진입과 고급형 수요 확대를 이유로 2026년 폴더블 시장 성장을 전망합니다. 새로운 경쟁자가 삼성의 판매량을 빼앗는 효과만 있는 것이 아니라 전체 구매자가 늘어날 수 있다는 뜻이죠.
@@ -58,9 +74,20 @@ hideDescription: true
 
 애플은 첫 세대에서 이런 부분까지 높은 완성도로 보여줘야 합니다. 늦게 들어오는 대신 첫 제품부터 소비자의 기대치가 매우 높을 수밖에 없습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 애플이 더 잘할 수 있는 부분
 
-반대로 삼성이 안심할 상황도 아닙니다. 애플은 새로운 제품을 늦게 출시하더라도 기존 기술을 그대로 따라가기보다 사용 방식을 다시 정의하는 경우가 많습니다.
+반대로 삼성이 안심할 상황도 아닙니다. 애플은 새로운 제품을 늦게 출시하더라도 기존 기술을 그대로 따라가기보다 사용 방식을 다시 정의하는 경우가 많죠.
 
 아이폰과 아이패드, 맥을 연결하는 생태계도 강점입니다. 접히는 아이폰이 펼쳤을 때 작은 아이패드처럼 자연스럽게 작동한다면 기존 폴더블과 다른 사용 이유를 만들 수 있기 때문입니다.
 
@@ -73,6 +100,17 @@ hideDescription: true
 애플은 첫해부터 약 25퍼센트를 차지할 수 있다는 전망도 나옵니다. 아직 실제 출시 전 예측이기 때문에 확정된 결과로 볼 수는 없죠.
 
 그래도 애플이 들어오는 순간 폴더블 시장의 경쟁 강도가 완전히 달라질 수 있다는 방향은 분명합니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 7. 누가 먼저가 아니라 왜 접나
 

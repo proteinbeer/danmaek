@@ -19,11 +19,16 @@ hideHeroImage: true
 hideDescription: true
 ---
 
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>시프와 시스템 쇼크 2에 참여했던 개발자 랜디 스미스가 게임 그래픽 경쟁은 2010년 앨런 웨이크 정도에서 멈췄어도 됐다고 말했습니다. 게임 그래픽은 2010년에 충분했다, 개발자가 멈추자 한 이유 게임 뉴스는 발표 내용보다 플레이어가 무엇을 얻고 무엇을 더 기다려야 하는지가 핵심이죠.</p>
+</div>
+
 시프와 시스템 쇼크 2에 참여했던 개발자 랜디 스미스가 게임 그래픽 경쟁은 2010년 앨런 웨이크 정도에서 멈췄어도 됐다고 말했습니다.
 
 사진처럼 보이는 화면을 더 사진처럼 만들기 위해 들어가는 비용이 너무 커졌다는 지적입니다.
 
-처음 들으면 옛날 개발자의 추억 이야기처럼 보입니다.
+처음 들으면 옛날 개발자의 추억 이야기처럼 보이죠.
 
 하지만 지금 게임 개발비와 설치 용량, 업스케일링 의존도를 보면 생각보다 현재적인 질문입니다.
 
@@ -47,7 +52,18 @@ hideDescription: true
 
 결과적으로 게임 하나가 실패했을 때 회사 전체가 흔들리는 수준의 비용이 들어갑니다.
 
-그래픽 경쟁이 단순 기술 자랑이 아니라 사업 위험까지 키운다는 지적이 나오는 이유입니다.
+그래픽 경쟁이 단순 기술 자랑이 아니라 사업 위험까지 키운다는 지적이 나오는 이유이죠.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 3. 업스케일링이 기본이 된 역설
 
@@ -55,7 +71,7 @@ hideDescription: true
 
 DLSS와 FSR 같은 업스케일링을 시스템 요구사항에 포함하는 게임이 늘고 있습니다.
 
-화면을 더 사실적으로 만들기 위해 계산량을 크게 늘리고 다시 AI로 낮은 해상도를 복원하는 구조입니다.
+화면을 더 사실적으로 만들기 위해 계산량을 크게 늘리고 다시 AI로 낮은 해상도를 복원하는 구조이죠.
 
 기술적으로 대단하지만 이용자 입장에서는 왜 더 비싼 그래픽카드를 사고도 보간 기술이 기본이 됐는지 의문이 생길 수 있습니다.
 
@@ -63,17 +79,28 @@ DLSS와 FSR 같은 업스케일링을 시스템 요구사항에 포함하는 게
 
 좋은 그래픽이 필요 없다는 말과 그래픽 경쟁이 과하다는 말은 다릅니다.
 
-분위기와 몰입을 위해 시각 표현은 중요하지만 게임의 재미를 결정하는 요소는 조작, 규칙, 레벨 디자인과 함께 움직입니다.
+분위기와 몰입을 위해 시각 표현은 중요하지만 게임의 재미를 결정하는 요소는 조작, 규칙, 레벨 디자인과 함께 움직이죠.
 
 저는 인디 게임이 계속 살아남는 이유도 여기에 있다고 봅니다.
 
 최신 광원 기술이 없어도 강한 미술 방향과 재미있는 시스템이 있으면 기억에 남는 작품이 될 수 있습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 그래도 경쟁은 멈추기 어렵다
 
 콘솔과 그래픽카드 회사는 새로운 하드웨어를 팔 이유가 필요하고 대형 퍼블리셔는 신작이 전작보다 좋아 보이기를 원합니다.
 
-그래픽은 트레일러 몇 초만으로 차이를 보여주기 쉬운 분야라 마케팅에서도 강합니다.
+그래픽은 트레일러 몇 초만으로 차이를 보여주기 쉬운 분야라 마케팅에서도 강하죠.
 
 그래서 모두가 비용이 너무 크다고 느껴도 먼저 경쟁에서 내리기는 어렵습니다.
 
@@ -81,13 +108,24 @@ DLSS와 FSR 같은 업스케일링을 시스템 요구사항에 포함하는 게
 
 ## 6. 이제 필요한 건 방향의 차이
 
-저는 그래픽 발전을 멈추자는 주장보다 모든 게임이 같은 사실주의 경쟁을 할 필요가 없다는 쪽에 더 공감합니다.
+저는 그래픽 발전을 멈추자는 주장보다 모든 게임이 같은 사실주의 경쟁을 할 필요가 없다는 쪽에 더 공감하죠.
 
 기술을 더 쓰더라도 얼굴 모공보다 상호작용과 파괴, 더 많은 NPC 같은 게임플레이에 투자할 수 있습니다.
 
 앨런 웨이크에서 멈췄어야 했다는 말은 과장처럼 들리지만 질문은 유효합니다.
 
-우리가 다음 세대 게임에서 정말 원하는 게 더 많은 픽셀인지부터 다시 물어볼 시점은 온 것 같습니다.
+우리가 다음 세대 게임에서 정말 원하는 게 더 많은 픽셀인지부터 다시 물어볼 시점은 온 것 같죠.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 7. 비용은 결국 이용자에게 돌아온다
 
@@ -99,6 +137,6 @@ DLSS와 FSR 같은 업스케일링을 시스템 요구사항에 포함하는 게
 
 실패 비용이 너무 커지면 새로운 규칙을 실험하기보다 이미 성공한 공식을 반복하는 편이 사업적으로 안전해집니다.
 
-결국 그래픽 경쟁을 줄인다는 건 화면을 못생기게 만들자는 이야기가 아닙니다.
+결국 그래픽 경쟁을 줄인다는 건 화면을 못생기게 만들자는 이야기가 아니죠.
 
 절약한 시간과 예산을 새로운 시스템과 더 다양한 게임에 돌릴 수 있느냐가 더 중요한 질문입니다.

@@ -1,5 +1,6 @@
 ---
 title: "스타워즈 제로 컴퍼니 작전과 미션 차이, 지도 화면에서 헷갈리는 것"
+draft: true
 description: "스타워즈 제로 컴퍼니를 하다 보면 전투 자체보다 지도 화면에서 더 막히는 분들이 있습니다. 무엇을 먼저 눌러야 하는지, 작전과 미션이 어떻게 다른지, 인텔을 어디에 써야 하는지가 생각보다 헷갈리기 때문입니다."
 date: 2026-09-11
 updated: 2026-09-11
@@ -38,6 +39,17 @@ hideDescription: true
 
 무엇을 포기할지 정하는 것이 곧 실력입니다. 눈앞의 보상보다 지금 분대에 필요한 자원, 유대, 스토리 진행 속도를 먼저 보셔야 합니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 일부 선택지는 사라질 수 있다
 
 공식 설명처럼 작전과 미션 일부는 시간이 지나면 만료될 수 있습니다. 그래서 미루기만 하다 보면 괜찮아 보이던 보상이 사라질 수 있습니다.
@@ -50,6 +62,17 @@ hideDescription: true
 
 그래서 작전을 이벤트 선택처럼 가볍게 보시면 손해입니다. 장기적인 전투 준비라고 생각하시면 훨씬 판단이 편해집니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 전술 미션은 목표형 전투다
 
 전술 미션은 단순 섬멸전만 있는 것이 아닙니다. 사보타주, 구조, 회수, 내러티브 중심 미션 등 여러 목적이 있습니다.
@@ -61,6 +84,17 @@ hideDescription: true
 인텔은 단순 화폐가 아니라 전략 행동 횟수를 정하는 핵심 자원입니다. 많이 보이는 선택지에 아무렇게나 쓰기보다, 지금 당장 얻고 싶은 효과가 무엇인지 보고 집행하셔야 합니다.
 
 초반에는 특히 인텔 부족 체감이 심합니다. 그래서 강한 보상보다 효율 좋은 루트를 고르는 감각이 중요합니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 7. 지도 화면 이해가 끝나야 게임이 쉬워진다
 

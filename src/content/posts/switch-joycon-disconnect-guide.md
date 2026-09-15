@@ -27,7 +27,7 @@ hideDescription: true
 
 ## 1. 드리프트가 정말 드리프트인지 확인
 
-"혼자 움직임"의 원인은 조이콘 스틱이 아니라 **스틱의 기준점(중앙)이 어긋난 것**일 수 있습니다.
+"혼자 움직임"의 원인은 조이콘 스틱이 아니라 **스틱의 기준점(중앙)이 어긋난 것**일 수 있죠.
 
 - 스위치 설정 → 컨트롤러와 센서 → **컨트롤러 스틱 보정**을 실행합니다.
 - 보정 화면에서 스틱이 중앙에서 멀어져 있는지 보면 바로 알 수 있습니다.
@@ -46,9 +46,20 @@ hideDescription: true
 
 청소는 본체를 열 필요 없이 스틱 주변만으로 시도할 수 있습니다. 그래도 떨림이 계속된다면 스틱 부품의 수명 문제로 보고 교체를 검토합니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 연결 끊김의 처음 확인 대상
 
-연결이 자주 끊기는 문제는 조이콘보다 **본체의 연결 상태**가 먼저 원인인 경우가 많습니다.
+연결이 자주 끊기는 문제는 조이콘보다 **본체의 연결 상태**가 먼저 원인인 경우가 많죠.
 
 - 조이콘을 본체에 꽂아 **분리/장착 상태를 확실히** 확인합니다. 헐렁하게 꽂혀 있으면 신호가 약해집니다.
 - 무선(테이블 모드) 사용 시 본체와 조이콘 사이에 금속 물체나 벽이 있으면 끊김의 원인이 됩니다.
@@ -66,9 +77,20 @@ hideDescription: true
 - 게임마다 컨트롤러를 다르게 인식하는 경우가 있으니, 특정 게임에서만 끊기면 그 게임의 설정(진동, 모션)을 확인합니다.
 - 모션(자이로) 사용 게임에서 끊기면 센서 교정(설정 → 컨트롤러와 센서 → 자이로 보정)을 실행합니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 교체를 결정하기 전에
 
-청소와 업데이트를 해도 증상이 반복된다면 부품 수명으로 판단합니다.
+청소와 업데이트를 해도 증상이 반복된다면 부품 수명으로 판단하죠.
 
 - 드리프트: 스틱 부품 수명이 다한 경우로, 스틱 교체가 다른 방법보다 확실합니다.
 - 끊김: 본체가 원인이라면 조이콘을 교체해도 증상이 남습니다. 본체 AS를 고려해야 합니다.
@@ -85,5 +107,15 @@ hideDescription: true
 - 음식이나 수분이 묻지 않게 사용하고, 주기적으로 스틱 주변을 청소합니다.
 - 스위치 2에서 조이콘 호환에 차이가 있다면 기기 설명서의 액세서리 호환 안내를 확인합니다.
 
-조이콘은 기본적으로 소모품입니다. 보정과 청소로 수명을 연장하고, 교체 시점을 결정하는 기준을 알아두시면 불필요한 지출을 막을 수 있습니다.
+조이콘은 기본적으로 소모품이죠. 보정과 청소로 수명을 연장하고, 교체 시점을 결정하는 기준을 알아두시면 불필요한 지출을 막을 수 있습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

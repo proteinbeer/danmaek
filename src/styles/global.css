@@ -812,6 +812,82 @@ position: relative;
   text-align: center;
   font-weight: 800;
 }
+.tool-guide-content {
+  margin-top: 28px;
+  padding: clamp(24px, 4vw, 34px);
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  background: #fff;
+  box-shadow: 0 16px 42px rgba(5, 16, 31, .06);
+}
+.tool-guide-content__eyebrow {
+  margin: 0 0 10px;
+  color: var(--accent);
+  font-size: .82rem;
+  font-weight: 950;
+}
+.tool-guide-content h2 {
+  margin: 0;
+  color: var(--black);
+  font-size: clamp(1.45rem, 4vw, 2.1rem);
+  line-height: 1.22;
+  letter-spacing: -.055em;
+}
+.tool-guide-content > p {
+  margin: 16px 0 0;
+  color: var(--ink);
+  line-height: 1.85;
+}
+.tool-guide-content__grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 18px;
+  margin-top: 24px;
+}
+.tool-guide-content__grid > div {
+  padding: 20px;
+  border-radius: 14px;
+  background: #f7f9fc;
+}
+.tool-guide-content h3 {
+  margin: 0 0 12px;
+  color: var(--black);
+  font-size: 1rem;
+}
+.tool-guide-content ol,
+.tool-guide-content ul {
+  display: grid;
+  gap: 8px;
+  margin: 0;
+  padding-left: 19px;
+  color: var(--muted);
+  line-height: 1.65;
+}
+.tool-guide-content__related {
+  margin-top: 24px;
+}
+.tool-guide-content__related > div {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 10px;
+}
+.tool-guide-content__related a {
+  display: grid;
+  gap: 8px;
+  min-height: 94px;
+  padding: 16px;
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  background: #fff;
+  color: var(--black);
+}
+.tool-guide-content__related span {
+  font-size: 1.35rem;
+}
+.tool-guide-content__related strong {
+  font-size: .9rem;
+  line-height: 1.4;
+}
 .tool-form--sft #cardsGrid {
   display: block;
 }
@@ -1410,6 +1486,66 @@ main:not(.home-page) .tool-coupang {
   line-height: 1.45;
   text-align: center;
   letter-spacing: -.02em;
+}
+.prose .dan-point {
+  position: relative;
+  margin: 0 0 30px;
+  padding: 24px 26px 24px 30px;
+  overflow: hidden;
+  border: 1px solid #d9dde4;
+  border-radius: 20px;
+  background: linear-gradient(135deg, #fff 0%, #f5f6f8 100%);
+  color: #263347;
+  box-shadow: 0 14px 34px rgba(15, 23, 42, .07), inset 0 1px 0 rgba(255, 255, 255, .92);
+}
+.prose .dan-point::before {
+  content: "";
+  position: absolute;
+  inset: 18px auto 18px 0;
+  width: 5px;
+  border-radius: 999px;
+  background: linear-gradient(180deg, #111827, #6b7280);
+}
+.prose .dan-point strong {
+  position: relative;
+  z-index: 1;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  margin: 0 0 12px;
+  padding: 6px 11px;
+  border-radius: 999px;
+  background: #111827;
+  color: #fff;
+  font-size: .84rem;
+  font-weight: 900;
+  letter-spacing: -.03em;
+  transform: translateY(1px);
+}
+.prose .dan-point strong::before {
+  content: "";
+  display: inline-block;
+  width: .62rem;
+  height: .62rem;
+  border-radius: 2px;
+  background: linear-gradient(135deg, #fff 0%, #9ca3af 48%, #f9fafb 100%);
+  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, .55), 0 0 0 1px rgba(255, 255, 255, .16);
+  animation: danPointDiamondSpin .72s linear infinite;
+  transform-origin: 50% 50%;
+}
+@keyframes danPointDiamondSpin {
+  from { transform: rotate(45deg); }
+  to { transform: rotate(405deg); }
+}
+.prose .dan-point p {
+  position: relative;
+  z-index: 1;
+  margin: 0;
+  color: #334155;
+  font-size: 1.02rem;
+  font-weight: 560;
+  line-height: 1.9;
+  letter-spacing: -.025em;
 }
 .prose .post-landscape-image {
   display: block;
@@ -2324,19 +2460,7 @@ border: 2px solid #fff;
   font-family: "Segoe UI Emoji", "Apple Color Emoji", "Noto Color Emoji", var(--font);
 }
 
-/* Danmaek IT/Game/Tools home skin */
-.home-hero {
-  padding-top: 0;
-}
-.home-hero h1,
-.home-hero > p {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  overflow: hidden;
-  clip: rect(0 0 0 0);
-  white-space: nowrap;
-}
+/* Danmaek home skin */
 .home-page .section-head {
   margin-top: 42px;
 }
@@ -2622,13 +2746,16 @@ border-radius: 8px;
 }
 
 @media (max-width: 980px) {
-  .home-hero-grid,
   .home-rankings,
   .site-footer__inner {
     grid-template-columns: 1fr;
   }
   .home-page #tool-grid {
     grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+  .tool-guide-content__grid,
+  .tool-guide-content__related > div {
+    grid-template-columns: 1fr;
   }
 }
 
@@ -2641,9 +2768,6 @@ border-radius: 8px;
     order: 3;
     width: 100%;
     justify-content: center;
-  }
-.home-hero {
-    padding-top: 0;
   }
 }
 

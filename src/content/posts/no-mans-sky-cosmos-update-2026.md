@@ -19,6 +19,11 @@ hideHeroImage: true
 hideDescription: true
 ---
 
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>노 맨즈 스카이가 출시 10주년을 맞아 코스모스라는 7.0 대형 업데이트를 무료로 배포했습니다. 출시 때 큰 비판을 받았던 게임이 10년간의 무료 업데이트로 신뢰를 회복한 과정과 헬로 게임즈의 운영 방식을 정리했습니다. 단순한 변경 목록보다 실제로 켜야 할 기능과 체감되는 차이를 먼저 보는 편이 좋죠.</p>
+</div>
+
 노 맨즈 스카이가 출시 10주년을 넘겼습니다. 보통 이 정도 된 게임이면 서버 유지나 기념 이벤트 정도를 떠올리기 쉬운데, 헬로 게임즈는 코스모스라는 7.0 대형 업데이트를 무료로 내놨습니다.
 
 이번에는 우주 공간 자체를 거의 다시 손보는 수준입니다. 우주정거장을 직접 소유하고 꾸밀 수 있고, 자유롭게 우주 기지를 세우며 다른 이용자와 은하 동맹도 만들 수 있죠.
@@ -31,7 +36,7 @@ hideDescription: true
 
 2016년 출시 당시 노 맨즈 스카이는 기대가 너무 컸습니다. 광대한 우주와 자유로운 탐험을 약속했지만, 실제 게임이 이용자들이 상상한 수준에 미치지 못하면서 큰 비판을 받았죠.
 
-보통 이런 상황이면 개발사가 다음 작품으로 넘어가거나 최소한 업데이트 규모를 줄입니다. 헬로 게임즈는 반대로 갔습니다.
+보통 이런 상황이면 개발사가 다음 작품으로 넘어가거나 최소한 업데이트 규모를 줄이죠. 헬로 게임즈는 반대로 갔습니다.
 
 유료 확장팩을 연달아 파는 대신 기존 구매자에게 기능을 계속 추가했습니다. 그 선택이 10년 뒤에는 게임의 정체성 자체가 됐습니다.
 
@@ -42,6 +47,17 @@ hideDescription: true
 코스모스는 그 빈 공간에 할 일을 넣습니다. 거대한 우주 잔해를 뜯어 자원을 모으고, 소행성에 내려 기지를 짓고, 우주정거장을 사서 내부와 외부를 꾸밀 수 있습니다.
 
 가장 재미있는 변화는 우주를 지나가는 장소에서 머무는 장소로 바꾼다는 점입니다. 탐험 게임이 점점 자기 공간을 만드는 생활형 게임에 가까워지고 있죠.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 3. 40번 업데이트가 만든 신뢰
 
@@ -57,7 +73,18 @@ hideDescription: true
 
 노 맨즈 스카이는 업데이트가 나올 때마다 다시 화제가 되고 신규 이용자가 들어오는 구조를 만들었습니다. 업데이트 자체가 광고 역할을 하고, 오래된 게임이 계속 새 게임처럼 판매되는 선순환이 생긴 것이죠.
 
-유료 확장팩을 안 판다고 돈을 포기한 게 아닙니다. 무료 업데이트를 장기 판매 전략으로 만든 셈입니다.
+유료 확장팩을 안 판다고 돈을 포기한 게 아니죠. 무료 업데이트를 장기 판매 전략으로 만든 셈입니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 실패한 출시가 게임의 끝은 아니다
 
@@ -71,9 +98,19 @@ hideDescription: true
 
 ## 6. 다음 작품이 있는데도 계속 고치는 이유
 
-헬로 게임즈는 이미 라이트 노 파이어라는 다음 작품도 준비하고 있습니다. 그런데도 노 맨즈 스카이의 대형 업데이트를 멈추지 않는다는 점은 일반적인 개발사 운영과 조금 다릅니다.
+헬로 게임즈는 이미 라이트 노 파이어라는 다음 작품도 준비하고 있죠. 그런데도 노 맨즈 스카이의 대형 업데이트를 멈추지 않는다는 점은 일반적인 개발사 운영과 조금 다릅니다.
 
 기존 게임을 버리지 않는 태도는 다음 작품의 신뢰에도 영향을 줍니다. 새 게임을 예약하는 사람 입장에서는 이번에도 오래 지원할 회사라는 기대를 갖게 되기 때문에, 10년 된 게임 업데이트가 미래 작품의 마케팅까지 해주는 셈입니다.
 
 결국 10년이라는 시간보다 더 인상적인 건 개발사가 아직도 현재형으로 게임을 다룬다는 점입니다. 오래된 게임을 추억으로 남기지 않고 계속 다음 버전으로 밀어붙이고 있죠.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

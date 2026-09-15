@@ -43,6 +43,17 @@ hideDescription: true
 
 이미지 처리에 필요한 라이브러리가 없거나 정상적으로 불러와지지 않는다면 업로드는 되더라도 썸네일 생성 단계에서 문제가 날 수 있습니다. 이런 경우는 워드프레스 설정만 바꾸기보다 호스팅 환경을 확인하는 편이 빠릅니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 저장 공간이 가득 찼는지 확인
 
 호스팅 저장 공간이 거의 꽉 차면 새 파일을 저장하지 못해 업로드 오류가 생길 수 있죠.
@@ -59,9 +70,20 @@ hideDescription: true
 
 확장자를 억지로 바꾸는 것은 도움이 되지 않습니다. 실제 파일 형식과 확장자가 다르면 워드프레스가 파일을 거부하거나 나중에 브라우저에서 제대로 표시되지 않을 수 있습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 고해상도 사진만 실패할 때
 
-스마트폰 원본 사진은 해상도와 용량이 매우 큽니다.
+스마트폰 원본 사진은 해상도와 용량이 매우 크죠.
 
 업로드 자체는 제한 안에 들어와도 워드프레스가 여러 크기로 변환하는 순간 메모리가 부족해 처리 오류가 나는 경우가 있죠.
 
@@ -74,6 +96,17 @@ hideDescription: true
 문제가 특정 플러그인 업데이트 직후 시작됐다면 해당 기능을 잠시 비활성화하고 같은 파일을 다시 올려보는 방법이 효과적입니다.
 
 한꺼번에 여러 플러그인을 지우지는 않는 편이 좋습니다. 같은 파일로 조건 하나씩 바꿔가며 비교해야 어디서 실패하는지 명확하게 알 수 있습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 7. 권한 문제는 서버에서 확인
 
@@ -91,3 +124,13 @@ hideDescription: true
 
 워드프레스 미디어 문제는 저장과 변환이 한 번에 일어나기 때문에 원인이 여러 곳에 있을 수 있습니다. 실패 메시지 하나만 보고 파일이 깨졌다고 판단하지 않는 것이 가장 중요한 출발점입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

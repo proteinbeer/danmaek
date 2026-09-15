@@ -33,7 +33,7 @@ hideDescription: true
 
 카메라 센서는 빛이 충분할수록 빠른 셔터와 낮은 감도로 깨끗한 영상을 만들기 쉽습니다.
 
-어두운 방에서는 밝기를 확보하려고 노출을 늘리면서 움직임이 번지고 노이즈가 많아질 수 있습니다.
+어두운 방에서는 밝기를 확보하려고 노출을 늘리면서 움직임이 번지고 노이즈가 많아질 수 있죠.
 
 모니터 화면만 얼굴을 비추는 환경보다 정면이나 측면에 부드러운 조명을 하나 두는 편이 효과가 큽니다.
 
@@ -53,9 +53,20 @@ hideDescription: true
 
 자리에 앉아 쓰는 영상회의 환경에서는 초점 거리가 거의 변하지 않기 때문에 고정 초점이 오히려 안정적일 수 있습니다.
 
-렌즈 보호 필름을 떼지 않은 상태도 의외로 자주 있습니다.
+렌즈 보호 필름을 떼지 않은 상태도 의외로 자주 있죠.
 
 새 제품이라면 렌즈 표면에 얇은 투명 필름이 남아 있는지 확인하시는 것이 좋습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 3. 노출과 밝기는 다르다
 
@@ -69,7 +80,7 @@ hideDescription: true
 
 ## 4. 영상회의 앱이 화질을 낮출 수 있다
 
-웹캠이 4K를 지원해도 줌이나 팀즈, 디스코드 같은 앱이 항상 4K로 전송하는 것은 아닙니다.
+웹캠이 4K를 지원해도 줌이나 팀즈, 디스코드 같은 앱이 항상 4K로 전송하는 것은 아니죠.
 
 네트워크 상태와 서비스 정책, 회의 설정에 따라 해상도와 비트레이트가 낮아질 수 있죠.
 
@@ -81,13 +92,24 @@ hideDescription: true
 
 가능하면 데스크톱 앱과 브라우저를 번갈아 테스트해보시면 좋습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. USB 대역폭도 확인
 
 고해상도 웹캠을 USB 허브에 캡처보드와 외장 SSD까지 함께 연결하면 한 연결 경로의 대역폭이 부족해질 수 있습니다.
 
 이 경우 카메라가 낮은 해상도로 내려가거나 프레임이 불안정해질 수 있죠.
 
-PC 본체의 다른 USB 포트에 직접 연결해 비교해보시면 됩니다.
+PC 본체의 다른 USB 포트에 직접 연결해 비교해보시면 되죠.
 
 노트북 도킹 장치를 사용 중이라면 도킹을 빼고 노트북 포트에 직접 연결했을 때 화질이 달라지는지도 확인하시면 좋습니다.
 
@@ -101,6 +123,17 @@ PC 본체의 다른 USB 포트에 직접 연결해 비교해보시면 됩니다.
 
 4K라는 숫자는 빛이 충분하고 초점이 맞고 앱이 화질을 유지할 때 비로소 의미가 생깁니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 7. 화질을 판단할 때 확대 화면을 조심
 
 영상회의 앱에서 내 화면을 크게 확대하면 실제 상대방에게 전달되는 크기보다 훨씬 거칠게 보일 수 있습니다.
@@ -109,7 +142,7 @@ PC 본체의 다른 USB 포트에 직접 연결해 비교해보시면 됩니다.
 
 카메라 앱 원본 녹화와 실제 회의 화면을 같은 크기로 비교하시면 제품 문제인지 앱 압축인지 판단하기 쉽습니다.
 
-해상도 숫자보다 실제 사용 크기에서 얼굴이 자연스럽게 보이는지가 더 중요합니다.
+해상도 숫자보다 실제 사용 크기에서 얼굴이 자연스럽게 보이는지가 더 중요하죠.
 
 카메라를 모니터 위 너무 높은 위치에 두면 얼굴과 배경의 거리 차이가 커져 자동초점이 더 자주 움직일 수 있습니다.
 

@@ -1,5 +1,6 @@
 ---
 title: "SSL 인증서 설치로 HTTPS 전환하기, 무료로 시작하는 법"
+draft: true
 description: "웹사이트를 HTTPS로 전환하기 위해 필요한 SSL 인증서 종류와 설치 방법을 정리했습니다. Let's Encrypt 무료 인증서부터 설치 후 리다이렉트·혼합 콘텐츠 확인까지 다룹니다."
 date: 2026-09-06
 updated: 2026-09-06
@@ -45,6 +46,17 @@ SSL 슬슬지만 요즘은 거의 모든 호스팅에서 **무료 인증서를 �
 
 호스팅의 자동 발급 기능을 쓰면 갱신도 호스팅이 처리하므로 가장 안정적입니다. 메뉴 이름이 없으면 호스팅 지원팀에 도메인과 함께 SSL 발급을 요청하시기 바랍니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. VPS·직접 서버에서 설치
 
 직접 서버를 운영한다면 인증서를 서버에 설치해야 합니다. 대표적으로 Nginx와 Apache가 있습니다.
@@ -66,3 +78,13 @@ Let's Encrypt 외에 **Cloudflare**를 사용하면 원본 서버 인증과 별�
 
 위 확인이 끝나면 사이트 주소가 `https://`로 시작하는 안전한 사이트가 됩니다. 좌절하지 않도록, 혼합 콘텐츠는 발생할 수 있는 일반적인 상황이니 하나씩 찾아 고치면 됩니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

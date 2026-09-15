@@ -28,7 +28,7 @@ hideDescription: true
 
 ## 1. 준비물과 유의사항
 
-가입 전에 미리 확인하면 번거로움을 줄일 수 있습니다.
+가입 전에 미리 확인하면 번거로움을 줄일 수 있죠.
 
 - 이메일 주소와 비밀번호를 준비합니다. 계정 인증과 새 소식을 받는 데 쓰입니다.
 - **국가/지역**은 가입 시 결정하면 이후 변경이 어렵습니다. 스토어 가격과 결제 수단이 지역에 따라 달라지므로 신중히 고르십시오.
@@ -45,7 +45,18 @@ PC나 스마트폰의 웹 브라우저에서도 가입할 수 있습니다.
 3. **온라인 ID(닉네임)**를 만듭니다. 게임에서 다른 사람에게 보이는 이름이죠.
 4. 안내에 따라 인증 이메일을 확인하면 계정이 활성화됩니다.
 
-가입 진행 중 카드 등록을 요구하는 화면이 나오면 건너뛰어도 됩니다. 결제 정보는 나중에 스토어에서 구매할 때 추가할 수 있습니다. 구독 서비스(PS Plus) 가입도 미리 세울 필요는 없습니다.
+가입 진행 중 카드 등록을 요구하는 화면이 나오면 건너뛰어도 되죠. 결제 정보는 나중에 스토어에서 구매할 때 추가할 수 있습니다. 구독 서비스(PS Plus) 가입도 미리 세울 필요는 없습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 3. 콘솔에서 계정 만들기
 
@@ -59,13 +70,24 @@ PS5를 처음 부팅하면 계정 만들기 화면이 바로 나타납니다.
 
 ## 4. 온라인 ID 정하는 팁
 
-온라인 ID는 계정 생성 시 처음 정하는 이름이지만, 이후에도 조건부로 변경할 수 있습니다.
+온라인 ID는 계정 생성 시 처음 정하는 이름이지만, 이후에도 조건부로 변경할 수 있죠.
 
 - 첫 온라인 ID는 기본 제공 범위 안에서 무료로 변경할 수 있는 경우가 많습니다.
 - 그 이후의 변경은 제한과 비용이 적용될 수 있습니다. 한 번 신중하게 정하는 것이 좋죠.
 - 특수문자 사용이 제한되므로 알파벳과 숫자 위주로 만드시면 안전합니다.
 
 다른 사용자가 이미 쓴 온라인 ID는 사용할 수 없습니다. 인기 있는 이름은 대부분 선점돼 있으니, 어느 정도 시도를 감안해 후보를 몇 개 준비해가면 편리합니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 계정 보안 설정하기
 
@@ -75,7 +97,7 @@ PS5를 처음 부팅하면 계정 만들기 화면이 바로 나타납니다.
 - 비밀번호는 다른 서비스와 겹치지 않게 정하고, 주기적으로 변경합니다.
 - 로그인 시 이메일로 알림을 받도록 설정해두면, 원치 않는 접속이 일어나도 빠르게 감지할 수 있습니다.
 
-게임 아이템이나 지갑 잔액이 쌓이는 계정이라면 보안 설정을 소홀히 하면 안 됩니다. 로그인 정보를 타인과 공유하는 일은 피하시기 바랍니다.
+게임 아이템이나 지갑 잔액이 쌓이는 계정이라면 보안 설정을 소홀히 하면 안 되죠. 로그인 정보를 타인과 공유하는 일은 피하시기 바랍니다.
 
 ## 6. 스토어 구매 설정 마무리하기
 
@@ -87,3 +109,13 @@ PS5를 처음 부팅하면 계정 만들기 화면이 바로 나타납니다.
 
 구매 내역과 다운로드 목록은 계정에 남으므로, 기기를 바꾸어도 다시 내려받을 수 있습니다. 세이브 클라우드 백업과 연동하려면 위에서 언급한 구독 서비스 가입이 필요하죠.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

@@ -33,7 +33,7 @@ hideDescription: true
 
 윈도우는 사진, 음악, 영상, 문서처럼 파일 형식마다 어떤 앱으로 열지 기록합니다.
 
-예를 들어 같은 이미지라도 파일 형식이 다르면 연결된 프로그램이 서로 다를 수 있습니다.
+예를 들어 같은 이미지라도 파일 형식이 다르면 연결된 프로그램이 서로 다를 수 있죠.
 
 이 구조를 이해하면 특정 파일만 엉뚱한 앱으로 열리는 이유가 보입니다.
 
@@ -41,7 +41,7 @@ hideDescription: true
 
 브라우저도 비슷합니다.
 
-웹 링크와 특정 문서 형식 연결이 따로 존재할 수 있어 기본 브라우저를 바꾼 뒤에도 모든 상황이 한 번에 같아지지 않을 수 있습니다.
+웹 링크와 특정 문서 형식 연결이 따로 존재할 수 있어 기본 브라우저를 바꾼 뒤에도 모든 상황이 한 번에 같아지지 않을 수 있죠.
 
 ## 2. 설정에서 기본 앱 바꾸기
 
@@ -53,9 +53,20 @@ hideDescription: true
 
 다만 윈도우 버전과 지역에 따라 표시 방식이 조금 다를 수 있습니다.
 
-사진이나 동영상 프로그램은 필요한 형식만 선택적으로 바꾸는 것도 좋습니다.
+사진이나 동영상 프로그램은 필요한 형식만 선택적으로 바꾸는 것도 좋죠.
 
 모든 파일을 하나의 프로그램에 몰아주는 것보다 실제로 자주 쓰는 형식부터 연결하면 문제가 생겨도 되돌리기 쉽습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 3. 파일에서 바로 바꾸는 방법
 
@@ -67,7 +78,7 @@ hideDescription: true
 
 기본 앱을 바꾸고 싶었던 것이 아닌데 무심코 항상 사용을 선택해서 연결이 달라지는 경우가 의외로 많죠.
 
-프로그램 설치 과정에서도 기본 앱 변경을 요구하는 경우가 있습니다.
+프로그램 설치 과정에서도 기본 앱 변경을 요구하는 경우가 있죠.
 
 설치 버튼을 빠르게 넘기다 보면 원래 쓰던 사진 앱이나 브라우저가 바뀔 수 있으니 설치 직후 이상해졌다면 이 부분을 먼저 의심할 수 있습니다.
 
@@ -77,13 +88,24 @@ hideDescription: true
 
 프로그램 자체가 업데이트되면서 다시 기본 앱으로 지정해달라는 안내를 띄우는 경우도 있습니다.
 
-같은 확장자 파일인데 일부만 다른 프로그램으로 열린다면 바로가기나 파일 내부 연결 방식이 다른지도 확인해야 합니다.
+같은 확장자 파일인데 일부만 다른 프로그램으로 열린다면 바로가기나 파일 내부 연결 방식이 다른지도 확인해야 하죠.
 
 브라우저 안에서 여는 파일과 파일 탐색기에서 직접 여는 파일은 동작 경로가 다를 수 있습니다.
 
 무조건 레지스트리를 수정하는 방법부터 찾는 것은 추천하지 않습니다.
 
 윈도우 11은 기본 앱 관리 화면에서 대부분 해결할 수 있고, 시스템 업데이트에 덜 영향을 받는 방법도 이쪽입니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 기본 앱을 정리해두면 편한 이유
 
@@ -97,7 +119,7 @@ PC를 오래 쓰면 비슷한 기능의 프로그램이 여러 개 쌓입니다.
 
 기본 앱 문제는 윈도우 오류라기보다 연결 규칙 문제인 경우가 대부분입니다.
 
-어떤 파일이 어떤 프로그램과 연결돼 있는지만 확인하면 프로그램을 지우거나 다시 설치하지 않고도 깔끔하게 정리할 수 있습니다.
+어떤 파일이 어떤 프로그램과 연결돼 있는지만 확인하면 프로그램을 지우거나 다시 설치하지 않고도 깔끔하게 정리할 수 있죠.
 
 ## 6. 새 PC에서 먼저 정리하면 편한 항목
 
@@ -107,9 +129,19 @@ PC를 오래 쓰면 비슷한 기능의 프로그램이 여러 개 쌓입니다.
 
 업무 프로그램을 여러 개 설치하는 PC라면 설치가 끝난 뒤 기본 앱 화면을 한 번 더 확인합니다.
 
-프로그램 설치 과정에서 기존 연결이 바뀌는 경우가 있어 처음에는 맞았던 설정이 나중에 달라질 수 있기 때문입니다.
+프로그램 설치 과정에서 기존 연결이 바뀌는 경우가 있어 처음에는 맞았던 설정이 나중에 달라질 수 있기 때문이죠.
 
 기본 앱을 정리한 뒤 특정 파일 하나만 여전히 다르게 열린다면 파일 자체의 연결 프로그램을 확인합니다.
 
 전체 설정을 다시 바꾸기보다 예외처럼 남은 파일 형식만 찾아 고치는 편이 더 빠릅니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

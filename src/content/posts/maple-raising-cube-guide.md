@@ -1,5 +1,6 @@
 ---
 title: "메이플 키우기 큐브 잠재능력: 옵션 우선순위와 돌리는 순서"
+draft: true
 description: "메이플 키우기 큐브 잠재능력(옵션 재설정) 공략입니다. 큐브 종류별 목적, 부위별 옵션 우선순위, 자동 변환 기능을 활용해 큐브를 아끼는 방법을 정리했습니다."
 date: 2026-09-02
 updated: 2026-09-02
@@ -37,6 +38,17 @@ hideDescription: true
 
 두 종류를 얻는 곳이 조금씩 다르므로, 현재 장비에 붙어 있는 옵션 종류를 확인하고 맞는 큐브를 사용해야 합니다. 무작정 두 종류를 섞어 쓰면 옵션 관리가 헷갈립니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 옵션 우선순위
 
 옵션 우선순위는 공격 관련 옵션을 먼저 노리는 것이 기본입니다. 공격력 상승과 공격 속도를 기반으로 두고, 치명타 계열은 스탯 구간에 따라 채워 넣는 식입니다.
@@ -48,6 +60,17 @@ hideDescription: true
 큐브는 여러 부위를 고루 돌리는 것보다, 한 부위를 목표 옵션까지 정리한 뒤 다음으로 넘어가는 방식이 효율적입니다. 목표를 정하지 않고 막연히 돌리면 옵션만 흩어지고 재화가 빠집니다.
 
 부위별로 어떤 옵션이 핵심인지 먼저 리스트를 만들어 두면, 그 비중에 맞춰 큐브를 배분할 수 있습니다. 같은 재화로도 순서만 바꾸면 확실한 스펙업이 체감됩니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 자동 변환 활용
 
@@ -61,3 +84,13 @@ hideDescription: true
 
 큐브가 부족하다고 장비를 바꾸지 말고, 현재 착용 장비를 기준으로 옵션 목표를 잡는 것이 안정적입니다. 장비 교체보다 기존 장비의 옵션 정리가 먼저입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

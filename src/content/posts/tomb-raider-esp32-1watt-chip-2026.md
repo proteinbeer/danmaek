@@ -1,5 +1,6 @@
 ---
 title: "툼레이더가 1와트 칩에서 돌아간다, 25달러 보드가 보여준 최적화"
+draft: true
 description: "초대 툼레이더가 약 1와트 전력을 쓰는 소형 마이크로컨트롤러 보드에서 플레이 가능한 수준으로 구동됐습니다."
 date: 2026-09-13T12:00:00
 updated: 2026-09-13T12:00:00
@@ -18,6 +19,11 @@ imageHeight: 675
 hideHeroImage: true
 hideDescription: true
 ---
+
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>초대 툼레이더가 약 1와트 전력을 쓰는 소형 마이크로컨트롤러 보드에서 플레이 가능한 수준으로 구동됐습니다. 툼레이더가 1와트 칩에서 돌아간다, 25달러 보드가 보여준 최적화 결국 중요한 건 기술 이름보다 비용, 서비스 방식, 이용 선택지가 실제로 어떻게 달라지는지이죠.</p>
+</div>
 
 초대 툼레이더가 약 1와트 전력을 쓰는 소형 마이크로컨트롤러 보드에서 플레이 가능한 수준으로 구동됐습니다.
 
@@ -57,6 +63,17 @@ hideDescription: true
 
 실제 시장에서는 그 좁은 장점이 충분히 큰 비용 절감으로 이어지는지가 중요합니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 1024 곱하기 600 해상도
 
 작은 보드에서도 1024 곱하기 600 해상도를 구현했습니다.
@@ -88,6 +105,17 @@ AI 모델과 데이터가 커질수록 한 칩 안에서 끝낼 수 없고 여�
 사용자에게는 최고 사양보다 필요한 작업에 맞는 효율이 더 중요할 때가 많습니다.
 
 서버와 휴대 기기 모두 전력 대비 성능이 제품의 실제 비용을 결정하는 기준이 되고 있습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 게임 보존의 또 다른 방식
 

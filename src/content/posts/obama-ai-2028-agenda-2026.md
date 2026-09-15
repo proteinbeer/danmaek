@@ -20,6 +20,11 @@ hideDescription: true
 draft: true
 ---
 
+<div class="dan-point">
+  <strong>단 포인트</strong>
+  <p>버락 오바마 전 미국 대통령이 AI를 2028년 대선의 핵심 의제로 다뤄야 한다는 취지의 우려를 나타냈습니다. 민간 기업이 매우 빠른 속도로 기술을 개발하는 상황에서 안전과 경제적 영향을 정치권이 더 적극적으로 논의해야 한다는 주장입니다. 결국 중요한 건 기술 이름보다 비용, 서비스 방식, 이용 선택지가 실제로 어떻게 달라지는지이죠.</p>
+</div>
+
 버락 오바마 전 미국 대통령이 AI를 2028년 대선의 핵심 의제로 다뤄야 한다는 취지의 우려를 나타냈습니다. 민간 기업이 매우 빠른 속도로 기술을 개발하는 상황에서 안전과 경제적 영향을 정치권이 더 적극적으로 논의해야 한다는 주장입니다.
 
 이번 소식은 기능이나 숫자 하나보다 기술을 쓰는 방식과 책임 구조가 어떻게 바뀌는지 보여주는 사례에 가깝습니다. 확인된 사실과 해석이 필요한 부분을 나눠서 보면 의미가 더 선명합니다.
@@ -38,6 +43,17 @@ AI는 지금까지 주로 기업 경쟁과 제품 기능으로 다뤄졌지만 �
 
 기술 변화는 제품 하나에서 끝나지 않고 기업 전략과 규제, 이용 습관까지 이어집니다. 왜 지금 이런 결정이 나왔는지 보면 단순한 기능 추가보다 더 큰 흐름이 보입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 고용, 저작권, 개인정보까지 넓어진 영향
 
 정치 의제가 되면 AI 기업도 단순한 개발사로만 움직이기 어려워집니다. 안전 기준, 데이터 사용, 청소년 보호, 모델 공개 범위 같은 문제가 후보자의 공약과 법안으로 연결될 가능성이 커집니다.
@@ -53,6 +69,17 @@ AI는 지금까지 주로 기업 경쟁과 제품 기능으로 다뤄졌지만 �
 정치권에서 AI를 다루기 시작하면 기술 기업의 속도와 정부의 규칙이 직접 충돌할 수 있습니다. 산업 경쟁력을 유지하면서 피해를 줄이는 구체적인 기준을 만들 수 있느냐가 결국 선거용 구호와 실제 정책을 가르는 지점이죠.
 
 개인적으로는 이 지점이 가장 중요해 보입니다. 기술은 빠르게 바뀌지만 사람과 제도가 적응하는 속도는 느리기 때문에 작은 설계 차이가 시간이 지나면 큰 신뢰 차이로 이어질 수 있습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. 실제 공약과 법안이 나올지가 관건
 

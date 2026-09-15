@@ -43,6 +43,17 @@ SEO 플러그인부터 바꾸기 전에 워드프레스 읽기 설정에서 검�
 
 새 도메인이나 글이 적은 사이트는 검색엔진이 자주 방문하지 않을 수 있죠. 이때 하루 이틀 노출이 없다고 설정을 계속 바꾸면 오히려 원인을 판단하기 어려워집니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 3. 사이트맵이 열리는지도 확인
 
 워드프레스는 기본적으로 사이트맵 기능을 제공하며 SEO 플러그인을 사용하면 별도 사이트맵을 생성하기도 합니다.
@@ -58,6 +69,17 @@ SEO 플러그인부터 바꾸기 전에 워드프레스 읽기 설정에서 검�
 관리자 글 목록에서 해당 게시물이 공개 상태인지 먼저 확인하시면 됩니다.
 
 카테고리와 태그 페이지는 플러그인 설정에 따라 색인을 막도록 구성할 수도 있죠. 사이트 전체와 특정 글, 특정 목록 페이지를 구분해야 어느 설정을 봐야 할지 명확해집니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 5. SEO 플러그인의 개별 설정
 
@@ -75,6 +97,17 @@ SEO 플러그인을 사용한다면 글마다 검색엔진 노출 허용 여부�
 
 검색이 안 된다고 주소를 반복해서 바꾸는 방식은 오히려 안정적인 색인을 방해할 수 있습니다. 공개 뒤에는 주소를 가능한 한 유지하는 편이 관리하기 쉽습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 7. 검색 도구에서 실제 상태 확인
 
 검색엔진이 제공하는 사이트 관리 도구를 사용하시면 특정 주소가 색인됐는지, 접근이 막혔는지 확인할 수 있죠.
@@ -91,3 +124,13 @@ SEO 플러그인을 사용한다면 글마다 검색엔진 노출 허용 여부�
 
 읽기 설정, 글 공개 상태, 사이트맵, SEO 플러그인, 주소 변경 순서로 확인하시면 됩니다. 검색 노출은 콘텐츠 문제일 수도 있지만 기술 설정 하나에서 막히는 경우도 충분히 있죠.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
