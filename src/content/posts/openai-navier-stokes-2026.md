@@ -2,6 +2,7 @@
 title: "AI 1만개가 88시간 풀었다, 수학 난제 해결 주장의 무게"
 description: "오픈AI가 내부 멀티에이전트 시스템으로 나비에 스토크스 밀레니엄 문제의 해를 제시했다고 발표했습니다."
 date: 2026-09-11T12:00:00
+draft: true
 updated: 2026-09-11T12:00:00
 category: "뉴스"
 subcategory: "IT"

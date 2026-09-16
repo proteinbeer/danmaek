@@ -4,7 +4,7 @@ draft: true
 description: "PS5 저장 공간을 확인하다 보면 직접 찍은 적 없는 스크린샷과 영상이 상당히 쌓여 있는 경우가 있습니다. 트로피 획득 순간을 자동으로 저장하도록 설정돼 있기 때문입니다."
 date: 2026-08-30
 updated: 2026-08-30
-category: "가이드"
+category: "게임"
 subcategory: "플스"
 tags:
   - "PS5"

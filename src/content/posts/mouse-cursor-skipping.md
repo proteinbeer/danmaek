@@ -3,7 +3,7 @@ title: "마우스 커서가 순간이동한다면, 센서보다 마우스패드�
 description: "마우스를 천천히 움직이는데 커서가 한 번씩 튀거나 갑자기 다른 방향으로 이동하면 센서 고장을 의심하게 됩니다."
 date: 2026-08-21
 updated: 2026-08-21
-category: "가이드"
+category: "IT"
 subcategory: "주변기기"
 tags:
   - "마우스"

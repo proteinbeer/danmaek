@@ -3,7 +3,7 @@ title: "윈도우 11 파일 확장자 표시, 같은 이름 파일을 구분해�
 description: "파일 탐색기에서 사진과 문서를 보다 보면 이름 뒤의 확장자가 보이지 않는 경우가 있습니다."
 date: 2026-08-25
 updated: 2026-08-25
-category: "가이드"
+category: "IT"
 subcategory: "윈도우 11"
 tags:
   - "윈도우 11"

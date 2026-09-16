@@ -2,6 +2,7 @@
 title: "TSMC 한 달 매출 53퍼센트 늘었다, AI칩 승자는 따로 있다"
 description: "TSMC의 2026년 8월 매출이 약 5148억 대만달러로 집계됐습니다."
 date: 2026-09-11T12:00:00
+draft: true
 updated: 2026-09-11T12:00:00
 category: "뉴스"
 subcategory: "IT"

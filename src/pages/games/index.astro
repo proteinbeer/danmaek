@@ -1,14 +1,14 @@
 ---
 import BaseLayout from '../../components/BaseLayout.astro';
 import PostCard from '../../components/PostCard.astro';
-import { CATEGORIES, GUIDE_SUBCATEGORIES, SITE } from '../../consts';
+import { CATEGORIES, GAME_SUBCATEGORIES, SITE } from '../../consts';
 import { getPostsByCategory } from '../../lib/posts';
 
-const category = CATEGORIES.find((item) => item.name === '가이드')!;
-const posts = getPostsByCategory('가이드');
-const subcats = [...GUIDE_SUBCATEGORIES];
+const category = CATEGORIES.find((item) => item.name === '게임')!;
+const posts = getPostsByCategory('게임');
+const subcats = [...GAME_SUBCATEGORIES];
 ---
-<BaseLayout title={`가이드 | ${SITE.name}`} description={category.description} canonical={new URL('/guides/', SITE.url).toString()}>
+<BaseLayout title={`게임 | ${SITE.name}`} description={category.description} canonical={new URL('/games/', SITE.url).toString()}>
   <main class="container">
     <div class="adfit-banner">
       <ins class="kakao_ad_area" style="display:none;"
@@ -17,9 +17,9 @@ const subcats = [...GUIDE_SUBCATEGORIES];
         data-ad-height="90"></ins>
       <script is:inline async type="text/javascript" charset="utf-8" src="https://t1.kakaocdn.net/kas/static/ba.min.js"></script>
     </div>
-    <section aria-label="가이드 글 목록">
+    <section aria-label="게임 글 목록">
       <div class="section-head">
-        <div><h2>가이드</h2></div>
+        <div><h2>게임</h2></div>
         <div class="section-head__controls">
           <div class="sub-drop" id="guide-sub-drop">
             <button type="button" class="sub-filter" id="guide-sub-trigger" aria-haspopup="listbox" aria-expanded="false">전체</button>
@@ -28,7 +28,7 @@ const subcats = [...GUIDE_SUBCATEGORIES];
               {subcats.map((sub) => <button type="button" class="sub-dropdown-item" data-value={sub.name} role="option">{sub.name}</button>)}
             </div>
           </div>
-          <input id="guide-search" class="home-search-input" type="search" placeholder="검색" aria-label="가이드 검색" autocomplete="off" />
+          <input id="guide-search" class="home-search-input" type="search" placeholder="검색" aria-label="게임 검색" autocomplete="off" />
         </div>
       </div>
       <div class="grid" id="post-grid">

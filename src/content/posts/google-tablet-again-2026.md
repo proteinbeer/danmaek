@@ -2,6 +2,7 @@
 title: "구글 태블릿 또 사라지나, 픽셀 태블릿이 스토어에서 빠졌다"
 description: "구글 스토어에서 픽셀 태블릿이 사라지고 태블릿 카테고리 자체도 없어졌습니다."
 date: 2026-09-11T12:00:00
+draft: true
 updated: 2026-09-11T12:00:00
 category: "뉴스"
 subcategory: "IT"

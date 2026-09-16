@@ -3,7 +3,7 @@ title: "윈도우 11 원격 데스크톱, 집 PC에 밖에서 접속하기 전 �
 description: "집이나 사무실 PC에 있는 파일과 프로그램을 다른 기기에서 그대로 사용하고 싶을 때 원격 데스크톱을 떠올릴 수 있습니다."
 date: 2026-08-25
 updated: 2026-08-25
-category: "가이드"
+category: "IT"
 subcategory: "윈도우 11"
 tags:
   - "윈도우 11"

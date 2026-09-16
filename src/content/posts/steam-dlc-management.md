@@ -3,7 +3,7 @@ title: "스팀 DLC 샀는데 게임에 안 나올 때, 재구매 전에 확인�
 description: "DLC를 결제했는데 게임 안에서 새 콘텐츠가 보이지 않으면 구매가 실패했다고 생각하기 쉽습니다."
 date: 2026-08-24
 updated: 2026-08-24
-category: "가이드"
+category: "게임"
 subcategory: "스팀"
 tags:
   - "스팀"

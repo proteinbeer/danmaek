@@ -3,7 +3,7 @@ title: "PS5 게임 다운로드가 멈췄을 때, 다시 받기 전에 확인할
 description: "PS5에서 게임 다운로드가 멈추면 인터넷부터 의심하기 쉽습니다. 하지만 실제 원인은 PSN 상태, 대기열 오류, 저장 공간 부족, 시스템 캐시처럼 여러 갈래로 나뉩니다."
 date: 2026-08-22
 updated: 2026-08-22
-category: "가이드"
+category: "게임"
 subcategory: "플스"
 tags:
   - "PS5"

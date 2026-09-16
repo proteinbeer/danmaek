@@ -4,7 +4,7 @@ draft: true
 description: "팬이 돌고 불도 들어오는데 화면만 나오지 않는다면 모니터, 케이블, 그래픽카드, 메모리처럼 여러 원인이 있을 수 있습니다."
 date: 2026-08-30
 updated: 2026-08-30
-category: "가이드"
+category: "IT"
 subcategory: "PC·하드웨어"
 tags:
   - "컴퓨터"

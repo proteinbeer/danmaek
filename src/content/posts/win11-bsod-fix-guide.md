@@ -4,7 +4,7 @@ draft: true
 description: "윈도우 11에서 블루스크린(BSOD, 중지 코드 오류)이 발생할 때 원인을 파악하고 복구하는 방법을 단계별로 정리합니다."
 date: 2026-09-03
 updated: 2026-09-03
-category: "가이드"
+category: "IT"
 subcategory: "윈도우 11"
 tags:
   - "윈도우 11"

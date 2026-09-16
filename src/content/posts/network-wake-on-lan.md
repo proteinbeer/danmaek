@@ -3,7 +3,7 @@ title: "Wake on LAN이 안 된다, 전원 꺼진 PC가 안 켜지는 원인"
 description: "Wake on LAN을 설정하면 같은 네트워크에서 매직 패킷을 보내 꺼져 있거나 절전 중인 PC를 깨울 수 있습니다. 하지만 메인보드, 랜카드, 윈도우 전원 설정이 모두 맞아야 해서 한 군데만 빠져도 전혀 반응하지 않습니다."
 date: 2026-08-24
 updated: 2026-08-24
-category: "가이드"
+category: "IT"
 subcategory: "네트워크"
 tags:
   - "네트워크"

@@ -2,6 +2,7 @@
 title: "발하임 치트를 쓰고 업적도 받는다, 개발사가 넣은 긴 명령어의 정체"
 description: "발하임 1.0에는 개발사의 유머가 그대로 드러나는 콘솔 명령어가 들어갔습니다."
 date: 2026-09-12T12:00:00
+draft: true
 updated: 2026-09-12T12:00:00
 category: "뉴스"
 subcategory: "게임"

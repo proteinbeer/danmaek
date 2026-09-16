@@ -3,7 +3,7 @@ title: "윈도우 11 가상 데스크톱, 창을 닫지 않고 작업 공간 나
 description: "브라우저, 메신저, 문서, 게임까지 한 화면에 쌓이면 프로그램보다 창을 찾는 데 시간이 더 걸릴 때가 있습니다."
 date: 2026-08-26
 updated: 2026-08-26
-category: "가이드"
+category: "IT"
 subcategory: "윈도우 11"
 tags:
   - "윈도우 11"

@@ -3,7 +3,7 @@ title: "윈도우 11 절전과 최대 절전, 노트북을 오래 안 쓸 때 �
 description: "노트북 덮개를 닫았는데 다음 날 배터리가 줄어 있거나 가방 안에서 따뜻해져 있으면 절전 설정을 의심하게 됩니다."
 date: 2026-08-23
 updated: 2026-08-23
-category: "가이드"
+category: "IT"
 subcategory: "윈도우 11"
 tags:
   - "윈도우 11"

@@ -3,7 +3,7 @@ title: "윈도우 11 새 사용자 계정, 관리자 권한을 아무에게나 �
 description: "가족이 같은 PC를 함께 쓰거나 업무와 개인 환경을 나누고 싶다면 사용자 계정을 따로 만드는 편이 좋습니다."
 date: 2026-08-24
 updated: 2026-08-24
-category: "가이드"
+category: "IT"
 subcategory: "윈도우 11"
 tags:
   - "윈도우 11"

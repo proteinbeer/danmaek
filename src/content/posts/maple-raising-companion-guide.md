@@ -4,7 +4,7 @@ draft: true
 description: "메이플 키우기 동료(동반자) 시스템 공략입니다. 어떤 동료를 먼저 뽑고, 어떻게 배치하고, 강화 재료를 어디에 우선 쓰는지 정리했습니다."
 date: 2026-09-02
 updated: 2026-09-02
-category: "가이드"
+category: "게임"
 subcategory: "메이플 키우기"
 tags:
   - "메이플 키우기"

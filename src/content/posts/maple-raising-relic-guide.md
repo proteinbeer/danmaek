@@ -4,7 +4,7 @@ draft: true
 description: "메이플 키우기 유물 시스템 공략입니다. 유물 획득과 강화 방법, 콘텐츠별 유물 세팅, 딜이 안 나올 때 놓치기 쉬운 유물 포인트를 정리했습니다."
 date: 2026-09-02
 updated: 2026-09-02
-category: "가이드"
+category: "게임"
 subcategory: "메이플 키우기"
 tags:
   - "메이플 키우기"

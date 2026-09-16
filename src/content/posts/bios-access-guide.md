@@ -4,7 +4,7 @@ draft: true
 description: "윈도우에서 바이오스(펌웨어) 설정 화면으로 들어가는 방법과 데스크톱·노트북 제조사별 단축키를 정리했습니다. 키를 놓쳤을 때 재시작 옵션으로 진입하는 방법도 담았습니다."
 date: 2026-09-06
 updated: 2026-09-06
-category: "가이드"
+category: "IT"
 subcategory: "PC·하드웨어"
 tags:
   - "바이오스"

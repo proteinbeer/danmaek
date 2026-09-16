@@ -4,7 +4,7 @@ draft: true
 description: "스팀 클라우드 저장 기능으로 게임 세이브를 안전하게 백업하고, 동기화가 안 될 때 해결하는 방법을 정리합니다."
 date: 2026-09-02
 updated: 2026-09-02
-category: "가이드"
+category: "게임"
 subcategory: "스팀"
 tags:
   - "스팀"

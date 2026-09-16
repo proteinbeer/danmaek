@@ -4,7 +4,7 @@ draft: true
 description: "워독스는 직접 방어 위치를 만들고 전진기지를 구축할 수 있습니다. 컨트롤 존 위치가 무작위로 달라지기 때문에 좋은 건설 위치도 매 경기 바뀔 수 있습니다."
 date: 2026-09-10
 updated: 2026-09-10
-category: "가이드"
+category: "게임"
 subcategory: "워독스"
 tags:
   - "워독스"

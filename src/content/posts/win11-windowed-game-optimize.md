@@ -3,7 +3,7 @@ title: "윈도우 11 창 모드 게임 최적화, 전체 화면보다 나아질 
 description: "예전 PC 게임에서는 성능을 원하면 무조건 전체 화면으로 실행하라는 말이 흔했습니다."
 date: 2026-08-24
 updated: 2026-08-24
-category: "가이드"
+category: "IT"
 subcategory: "윈도우 11"
 tags:
   - "윈도우 11"

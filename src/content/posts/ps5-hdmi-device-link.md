@@ -4,7 +4,7 @@ draft: true
 description: "PS5 전원을 켰더니 TV까지 자동으로 켜지거나, 반대로 TV를 끄자 콘솔도 함께 휴식 모드로 들어가는 경우가 있습니다. 고장이 아니라 HDMI 기기 링크 기능이 장치끼리 전원 명령을 주고받기 때문입니다."
 date: 2026-08-28
 updated: 2026-08-28
-category: "가이드"
+category: "게임"
 subcategory: "플스"
 tags:
   - "PS5"

@@ -2,6 +2,7 @@
 title: "엔비디아 호주에 AI 2GW 더 깐다, 이제 GPU보다 전기가 먼저 필요하다"
 description: "엔비디아가 호주에 2027년까지 최대 2GW 규모의 AI 데이터센터 컴퓨팅 용량을 구축합니다. GPU 경쟁이 전력 확보 경쟁으로 넘어가는 배경을 정리했습니다."
 date: 2026-09-10
+draft: true
 updated: 2026-09-10
 category: "뉴스"
 subcategory: "IT"

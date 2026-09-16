@@ -3,7 +3,7 @@ title: "워독스(WARDOGS) 입문자 가이드, 100인 3팀 전쟁의 기본 총
 description: "워독스는 BULKHEAD와 팀17이 9월 10일 스팀 얼리 액세스로 출시한 100인 3팀 전술 FPS입니다. 컨트롤 존 점령 방식과 캐시 경제, 로드아웃, 차량까지 게임의 뼈대를 정리했습니다."
 date: 2026-09-10
 updated: 2026-09-10
-category: "가이드"
+category: "게임"
 subcategory: "워독스"
 tags:
   - "워독스"

@@ -2,6 +2,7 @@
 title: "AI 데이터센터 짓느라 2200억달러 빌렸다, 빅테크 부채도 커진다"
 description: "AI 경쟁은 GPU와 모델 성능만의 싸움이 아닙니다."
 date: 2026-09-11T12:00:00
+draft: true
 updated: 2026-09-11T12:00:00
 category: "뉴스"
 subcategory: "IT"

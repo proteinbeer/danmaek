@@ -2,6 +2,7 @@
 title: "컨트롤 레저넌트 사양 공개, RTX 5080도 업스케일링이 기본"
 description: "레메디의 컨트롤 레저넌트 PC 사양이 공개됐습니다."
 date: 2026-09-11T12:00:00
+draft: true
 updated: 2026-09-11T12:00:00
 category: "뉴스"
 subcategory: "게임"

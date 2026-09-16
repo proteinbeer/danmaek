@@ -4,7 +4,7 @@ draft: true
 description: "메이플 키우기 펫 시스템 가이드입니다. 펫이 주는 경험치와 공격력 버프, 슬롯 확장 비용, 무과금 기준 펫 뽑기 순서를 정리했습니다."
 date: 2026-09-02
 updated: 2026-09-02
-category: "가이드"
+category: "게임"
 subcategory: "메이플 키우기"
 tags:
   - "메이플 키우기"

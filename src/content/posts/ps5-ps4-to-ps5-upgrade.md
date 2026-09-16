@@ -4,7 +4,7 @@ draft: true
 description: "PS5에서 PS4 게임을 설치하다 보면 같은 제목이 두 개 보이거나 PS4 버전을 잘못 실행하는 일이 있습니다. 일부 게임은 PS5 버전으로 무료 또는 유료 업그레이드를 제공하지만 자동으로 바뀌는 것은 아닙니다."
 date: 2026-08-26
 updated: 2026-08-26
-category: "가이드"
+category: "게임"
 subcategory: "플스"
 tags:
   - "PS5"

@@ -2,6 +2,7 @@
 title: "챗GPT로 만든 룬스케이프 복제 게임이 내려갔다, 저작권 경고가 빨랐던 이유"
 description: "오픈AI 직원이 챗GPT 코딩을 활용해 만든 룬스케이프 복제 프로젝트가 제이지엑스의 중단 요구를 받은 뒤 내려갔습니다."
 date: 2026-09-12T12:00:00
+draft: true
 updated: 2026-09-12T12:00:00
 category: "뉴스"
 subcategory: "게임"

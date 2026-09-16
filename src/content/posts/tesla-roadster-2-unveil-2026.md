@@ -2,6 +2,7 @@
 title: "테슬라 2세대 로드스터 10월 1일 공개, 2017년 발표 뒤 9년을 기다렸다"
 description: "테슬라가 2세대 로드스터를 10월 1일 공개하겠다고 밝혔습니다."
 date: 2026-09-13T12:00:00
+draft: true
 updated: 2026-09-13T12:00:00
 category: "뉴스"
 subcategory: "IT"

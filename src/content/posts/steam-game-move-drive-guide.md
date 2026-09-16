@@ -4,7 +4,7 @@ draft: true
 description: "스팀 게임을 다시 다운로드하지 않고 SSD·HDD 드라이브 사이로 옮기는 방법을 정리했습니다. 라이브러리 폴더 추가와 게임 이동 기능, 새 PC로 복사하는 법까지 다룹니다."
 date: 2026-08-28
 updated: 2026-08-28
-category: "가이드"
+category: "게임"
 subcategory: "스팀"
 tags:
   - "스팀"

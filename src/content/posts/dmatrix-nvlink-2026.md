@@ -2,6 +2,7 @@
 title: "엔비디아 경쟁 AI칩도 엔비디아 서버에 들어간다, 이상한 동맹"
 description: "AI 추론칩 스타트업 디매트릭스가 자사 랩터 프로세서를 엔비디아의 NVLink Fusion 기술과 연결하기로 했습니다."
 date: 2026-09-11T12:00:00
+draft: true
 updated: 2026-09-11T12:00:00
 category: "뉴스"
 subcategory: "IT"

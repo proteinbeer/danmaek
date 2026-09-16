@@ -1,23 +1,23 @@
 ---
 import BaseLayout from '../../components/BaseLayout.astro';
 import PostCard from '../../components/PostCard.astro';
-import { CATEGORIES, GUIDE_SUBCATEGORIES, SITE } from '../../consts';
+import { CATEGORIES, GAME_SUBCATEGORIES, SITE } from '../../consts';
 import { getPostsBySubcategory } from '../../lib/posts';
 
 export function getStaticPaths() {
-  return GUIDE_SUBCATEGORIES.map((sub) => ({
+  return GAME_SUBCATEGORIES.map((sub) => ({
     params: { slug: sub.slug },
     props: { sub }
   }));
 }
 
 const { sub } = Astro.props;
-const category = CATEGORIES.find((item) => item.name === '가이드')!;
-const posts = getPostsBySubcategory('가이드', sub.name);
-const title = `${sub.name} | 가이드`;
-const canonical = new URL(`/guides/${sub.slug}/`, SITE.url).toString();
+const category = CATEGORIES.find((item) => item.name === '게임')!;
+const posts = getPostsBySubcategory('게임', sub.name);
+const title = `${sub.name} | 게임`;
+const canonical = new URL(`/games/${sub.slug}/`, SITE.url).toString();
 ---
-<BaseLayout title={`${title} | ${SITE.name}`} description={`${sub.name} 관련 가이드입니다.`} canonical={canonical}>
+<BaseLayout title={`${title} | ${SITE.name}`} description={`${sub.name} 관련 게임 공략입니다.`} canonical={canonical}>
   <main class="container">
     <div class="adfit-banner">
       <ins class="kakao_ad_area" style="display:none;"
@@ -26,11 +26,11 @@ const canonical = new URL(`/guides/${sub.slug}/`, SITE.url).toString();
         data-ad-height="90"></ins>
       <script is:inline async type="text/javascript" charset="utf-8" src="https://t1.kakaocdn.net/kas/static/ba.min.js"></script>
     </div>
-    <section aria-label="가이드 서브카테고리">
+    <section aria-label="게임 서브카테고리">
       <div class="section-head">
         <div><h2>{sub.name}</h2></div>
         <div class="section-head__controls">
-          <input id="guide-search" class="home-search-input" type="search" placeholder="검색" aria-label="가이드 검색" autocomplete="off" />
+          <input id="guide-search" class="home-search-input" type="search" placeholder="검색" aria-label="게임 검색" autocomplete="off" />
         </div>
       </div>
       <div class="grid" id="post-grid">

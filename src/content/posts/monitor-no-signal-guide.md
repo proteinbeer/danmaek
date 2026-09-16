@@ -3,7 +3,7 @@ title: "모니터 신호 없음 뜰 때, 케이블보다 먼저 확인할 한 �
 description: "컴퓨터는 켜졌는데 모니터에 신호 없음만 뜬다면 화면 자체보다 입력 신호가 어디에서 끊겼는지 확인하면 됩니다."
 date: 2026-08-31
 updated: 2026-08-31
-category: "가이드"
+category: "IT"
 subcategory: "PC·하드웨어"
 tags:
   - "모니터"

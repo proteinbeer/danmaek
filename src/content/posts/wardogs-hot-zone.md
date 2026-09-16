@@ -4,7 +4,7 @@ draft: true
 description: "워독스에서는 핫존을 노리면 두 배 현금을 벌 수 있습니다. 경기 사이에도 유지되는 현금에서 두 배 보상은 매력적이지만 다른 플레이어도 같은 계산을 한다는 점이 위험을 만듭니다."
 date: 2026-09-10
 updated: 2026-09-10
-category: "가이드"
+category: "게임"
 subcategory: "워독스"
 tags:
   - "워독스"

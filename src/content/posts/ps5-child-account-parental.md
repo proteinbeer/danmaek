@@ -4,7 +4,7 @@ draft: true
 description: "가족이 함께 PS5를 쓰면 자녀가 어떤 게임을 할 수 있는지뿐 아니라 플레이 시간과 스토어 결제까지 함께 관리해야 합니다. 성인 계정을 그대로 공유하면 구매 기록과 연령 제한을 구분하기 어려워집니다."
 date: 2026-09-01
 updated: 2026-09-01
-category: "가이드"
+category: "게임"
 subcategory: "플스"
 tags:
   - "PS5"

@@ -2,6 +2,7 @@
 title: "윈도우 11 메모리 무결성 10월 확대, 보안이 게임 성능을 깎을 수 있다"
 description: "마이크로소프트가 10월부터 더 많은 윈도우 11 PC에서 메모리 무결성 기능을 자동으로 활성화합니다."
 date: 2026-09-13T12:00:00
+draft: true
 updated: 2026-09-13T12:00:00
 category: "뉴스"
 subcategory: "IT"

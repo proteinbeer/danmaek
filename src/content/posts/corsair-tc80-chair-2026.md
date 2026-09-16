@@ -2,6 +2,7 @@
 title: "게이밍 의자인데 게이밍처럼 안 생겼다, 코르세어가 방향을 바꿨다"
 description: "코르세어가 새 게이밍 의자 TC80을 200달러 안팎 가격으로 내놨습니다."
 date: 2026-09-11T12:00:00
+draft: true
 updated: 2026-09-11T12:00:00
 category: "뉴스"
 subcategory: "게임"

@@ -4,7 +4,7 @@ draft: true
 description: "PS5에서 LAN 케이블이 연결됐다는 알림과 끊겼다는 알림이 반복되면 게임이 순간적으로 튕기고 다운로드도 멈출 수 있습니다. 유선이라 무조건 안정적일 것 같지만 케이블 단자, 공유기 포트, 자동 협상 문제에서도 끊김이 생깁니다."
 date: 2026-08-24
 updated: 2026-08-24
-category: "가이드"
+category: "게임"
 subcategory: "플스"
 tags:
   - "PS5"

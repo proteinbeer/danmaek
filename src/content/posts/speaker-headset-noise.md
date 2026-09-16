@@ -3,7 +3,7 @@ title: "스피커와 헤드셋에서 지지직 소리가 난다면, 볼륨보다
 description: "PC에 연결한 스피커나 유선 헤드셋에서 지지직거리거나 낮은 웅웅 소리가 들리면 사운드카드 고장을 의심하기 쉽습니다."
 date: 2026-08-22
 updated: 2026-08-22
-category: "가이드"
+category: "IT"
 subcategory: "주변기기"
 tags:
   - "스피커"

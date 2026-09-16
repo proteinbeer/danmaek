@@ -3,7 +3,7 @@ title: "USB 허브에 여러 개 꽂았더니 자꾸 끊긴다면, 포트 수보
 description: "USB 허브는 포트 하나를 여러 개로 늘려주기 때문에 주변기기가 많은 책상에서 매우 편합니다."
 date: 2026-08-21
 updated: 2026-08-21
-category: "가이드"
+category: "IT"
 subcategory: "주변기기"
 tags:
   - "USB 허브"

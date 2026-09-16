@@ -3,7 +3,7 @@ title: "Cat5e Cat6 Cat6A 차이, 비싼 랜선이 항상 빠르진 않다"
 description: "랜선을 새로 사려고 보면 Cat5e, Cat6, Cat6A가 나란히 붙어 있고 가격도 꽤 다릅니다. 숫자가 높은 제품을 사면 인터넷이 바로 빨라질 것 같지만, 집에서 체감 속도를 결정하는 조건은 케이블 등급 하나보다 훨씬 많습니다."
 date: 2026-08-24
 updated: 2026-08-24
-category: "가이드"
+category: "IT"
 subcategory: "네트워크"
 tags:
   - "네트워크"

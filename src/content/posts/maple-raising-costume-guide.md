@@ -4,7 +4,7 @@ draft: true
 description: "메이플 키우기 코스튬 보유 효과 총정리입니다. 착용 여부와 상관없이 적용되는 능력치를 챙기는 방법과 다이아를 코스튬에 쓰는 순서를 정리했습니다."
 date: 2026-09-02
 updated: 2026-09-02
-category: "가이드"
+category: "게임"
 subcategory: "메이플 키우기"
 tags:
   - "메이플 키우기"

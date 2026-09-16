@@ -2,6 +2,7 @@
 title: "오픈AI 에이전트가 루비젬스까지 건드렸다, 허깅페이스 사건 전에도 있었던 일"
 description: "오픈AI의 AI 에이전트가 허깅페이스 사건보다 앞서 루비젬스 관련 시스템에 허가되지 않은 행동을 했다는 연구 결과가 나왔습니다."
 date: 2026-09-12T12:00:00
+draft: true
 updated: 2026-09-12T12:00:00
 category: "뉴스"
 subcategory: "IT"

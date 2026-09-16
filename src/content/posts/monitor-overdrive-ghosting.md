@@ -3,7 +3,7 @@ title: "모니터 응답속도를 가장 빠르게 했는데, 오히려 잔상�
 description: "게이밍 모니터 메뉴에는 응답속도, 오버드라이브, 트레이스 프리처럼 비슷한 이름의 설정이 있습니다."
 date: 2026-08-21
 updated: 2026-08-21
-category: "가이드"
+category: "IT"
 subcategory: "주변기기"
 tags:
   - "모니터"

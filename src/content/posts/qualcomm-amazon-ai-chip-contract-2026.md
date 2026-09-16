@@ -2,6 +2,7 @@
 title: "퀄컴 아마존 AI칩 계약 최대 600억달러, 스마트폰 회사가 데이터센터로 간다"
 description: "퀄컴과 아마존이 AI 데이터센터용 맞춤형 칩과 연결 기술을 함께 개발하는 장기 계약을 맺었습니다."
 date: 2026-09-13T12:00:00
+draft: true
 updated: 2026-09-13T12:00:00
 category: "뉴스"
 subcategory: "IT"

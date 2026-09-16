@@ -3,7 +3,7 @@ title: "유에스비 인식 안 될 때, 포맷하기 전 체크"
 description: "유에스비를 꽂았는데 파일 탐색기에 보이지 않는다고 바로 포맷하면 안 됩니다. 연결 문제인지 드라이브 문자 문제인지부터 확인하시면 됩니다."
 date: 2026-08-29
 updated: 2026-08-29
-category: "가이드"
+category: "IT"
 subcategory: "PC·하드웨어"
 tags:
   - "USB"

@@ -2,6 +2,7 @@
 title: "파이널마우스 클릭 2밀리초 주장, 이제 사람이 느낄 차이인가"
 description: "파이널마우스가 새 마우스 스타라이트 X의 클릭 입력 지연이 2밀리초 수준이라고 주장했습니다."
 date: 2026-09-11T12:00:00
+draft: true
 updated: 2026-09-11T12:00:00
 category: "뉴스"
 subcategory: "IT"

@@ -4,7 +4,7 @@ draft: true
 description: "PS5는 헤드폰뿐 아니라 TV 스피커에서도 3D 오디오 기능을 사용할 수 있습니다. 거실에서 헤드셋 없이 플레이하시는 분에게 유용하지만 TV 위치와 방 구조에 따라 효과 차이가 큽니다."
 date: 2026-08-24
 updated: 2026-08-24
-category: "가이드"
+category: "게임"
 subcategory: "플스"
 tags:
   - "PS5"

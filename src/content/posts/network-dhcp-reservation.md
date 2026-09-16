@@ -3,7 +3,7 @@ title: "DHCP 예약이 고정 IP보다 편하다, 공유기에서 주소를 묶�
 description: "NAS나 프린터처럼 주소가 바뀌면 불편한 장비에는 고정 IP가 필요합니다. 이때 장비마다 수동 IP를 입력하는 대신 공유기의 DHCP 예약 기능을 쓰면 자동 설정의 편리함과 고정 주소의 장점을 함께 가져갈 수 있습니다."
 date: 2026-08-22
 updated: 2026-08-22
-category: "가이드"
+category: "IT"
 subcategory: "네트워크"
 tags:
   - "네트워크"

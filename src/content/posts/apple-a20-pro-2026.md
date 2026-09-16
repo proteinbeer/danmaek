@@ -2,6 +2,7 @@
 title: "애플 A20 프로 2나노, 속도보다 발열을 잡겠다는 변화"
 description: "애플이 아이폰 18 프로와 아이폰 듀오에 들어가는 A20 프로를 공개했습니다."
 date: 2026-09-11T12:00:00
+draft: true
 updated: 2026-09-11T12:00:00
 category: "뉴스"
 subcategory: "IT"

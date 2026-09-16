@@ -3,7 +3,7 @@ title: "윈도우 11 화면 녹화하는 법, 게임 바와 OBS 활용"
 description: "윈도우 11에 내장된 게임 바(Game Bar)로 게임 녹화하는 방법과, 바탕화면까지 녹화하고 싶을 때 쓰는 OBS Studio를 정리했습니다. 단축키와 파일 위치도 함께 다룹니다."
 date: 2026-08-27
 updated: 2026-08-27
-category: "가이드"
+category: "IT"
 subcategory: "윈도우 11"
 tags:
   - "화면 녹화"

@@ -4,7 +4,7 @@ draft: true
 description: "PS5 인터넷 속도는 빠른데 친구 초대나 파티 음성이 이상한 경우 NAT 타입이 원인일 수 있습니다. NAT는 집 안 여러 기기가 하나의 인터넷 회선을 공유하면서 외부 연결을 처리하는 방식과 관련이 있습니다."
 date: 2026-08-22
 updated: 2026-08-22
-category: "가이드"
+category: "게임"
 subcategory: "플스"
 tags:
   - "PS5"

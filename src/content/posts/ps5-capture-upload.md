@@ -4,7 +4,7 @@ draft: true
 description: "PS5에서 찍은 스크린샷과 짧은 영상은 플레이스테이션 앱을 이용하면 휴대폰으로 간편하게 가져올 수 있습니다. 하지만 자동 업로드가 꺼져 있거나 지원 조건을 넘는 영상은 앱에 나타나지 않을 수 있습니다."
 date: 2026-08-23
 updated: 2026-08-23
-category: "가이드"
+category: "게임"
 subcategory: "플스"
 tags:
   - "PS5"

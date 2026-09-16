@@ -4,7 +4,7 @@ draft: true
 description: "메이플 키우기 아레나와 퀵 헌트 공략입니다. 순위 경쟁에서 승차를 가르는 프리셋 구성과, 퀵 헌트로 경험치를 추가 수급하는 방법을 정리했습니다."
 date: 2026-09-02
 updated: 2026-09-02
-category: "가이드"
+category: "게임"
 subcategory: "메이플 키우기"
 tags:
   - "메이플 키우기"

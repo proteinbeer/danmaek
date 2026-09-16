@@ -3,7 +3,7 @@ title: "윈도우 11 집중 모드, 알림은 남기고 방해만 줄이는 설�
 description: "일하는 동안 알림을 전부 꺼두면 조용하지만 중요한 메시지까지 놓칠 수 있습니다."
 date: 2026-08-23
 updated: 2026-08-23
-category: "가이드"
+category: "IT"
 subcategory: "윈도우 11"
 tags:
   - "윈도우 11"

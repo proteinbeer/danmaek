@@ -4,7 +4,7 @@ draft: true
 description: "메이플 키우기 오프라인 보상 공략입니다. 보상이 최대 몇 시간까지 쌓이는지, 자동 사냥과 병행하는 효율적인 접속 루틴을 정리했습니다."
 date: 2026-09-02
 updated: 2026-09-02
-category: "가이드"
+category: "게임"
 subcategory: "메이플 키우기"
 tags:
   - "메이플 키우기"

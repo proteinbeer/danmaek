@@ -4,7 +4,7 @@ draft: true
 description: "워독스는 근접 음성 채팅을 핵심 요소로 내세운 FPS입니다. 100명이 세 팀으로 움직이는 구조에서는 화면만 보고 모든 정보를 알기 어려워 음성 하나가 전투 정보가 될 수 있습니다."
 date: 2026-09-10
 updated: 2026-09-10
-category: "가이드"
+category: "게임"
 subcategory: "워독스"
 tags:
   - "워독스"

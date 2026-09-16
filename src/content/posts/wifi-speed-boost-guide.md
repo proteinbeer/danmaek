@@ -3,7 +3,7 @@ title: "와이파이 속도 올리는 법, 5GHz 채널과 QoS 설정 정리"
 description: "인터넷 요금제는 그대로인데 와이파이가 느리다면 공유기 설정이 원인일 수 있습니다. 5GHz로 전환하고 채널과 QoS를 조정하면 체감 속도가 달라집니다."
 date: 2026-08-28
 updated: 2026-08-28
-category: "가이드"
+category: "IT"
 subcategory: "네트워크"
 tags:
   - "와이파이"

@@ -2,6 +2,7 @@
 title: "오픈AI 2026년 IPO 안 한다, 샘 올트먼이 안전을 먼저 말한 배경"
 description: "오픈AI가 2026년에는 기업공개를 추진하지 않습니다. 샘 올트먼 CEO는 최근 AI 안전 위험을 두고 업계와 정부의 공동 대응이 필요하다고 강조하면서 올해 IPO 계획이 없다고 밝혔습니다."
 date: 2026-09-13T12:00:00
+draft: true
 updated: 2026-09-13T12:00:00
 category: "뉴스"
 subcategory: "IT"

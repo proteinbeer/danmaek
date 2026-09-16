@@ -4,7 +4,7 @@ draft: true
 description: "윈도우 11 정품 인증 시 나타나는 오류(다시 시작 시도, 활성화 오류 코드 등)를 진단하고 해결하는 방법을 단계별로 정리합니다."
 date: 2026-09-03
 updated: 2026-09-03
-category: "가이드"
+category: "IT"
 subcategory: "윈도우 11"
 tags:
   - "윈도우 11"

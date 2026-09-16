@@ -4,7 +4,7 @@ draft: true
 description: "인터넷이 몇 분 간격으로 끊기거나 주기적으로 재연결될 때, 공유기부터 컴퓨터까지 순서대로 점검하는 방법을 정리했습니다. 무선 간섭, IP 충돌, 회선 문제까지 다룹니다."
 date: 2026-09-06
 updated: 2026-09-06
-category: "가이드"
+category: "IT"
 subcategory: "네트워크"
 tags:
   - "인터넷 끊김"

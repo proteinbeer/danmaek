@@ -3,7 +3,7 @@ title: "스팀 결제 보류인데 카드에서는 빠져나갔다, 다시 결�
 description: "스팀에서 결제 오류가 났는데 카드 앱에는 금액이 잡혀 있으면 게임을 다시 사야 하는지 가장 헷갈립니다."
 date: 2026-08-24
 updated: 2026-08-24
-category: "가이드"
+category: "게임"
 subcategory: "스팀"
 tags:
   - "스팀"

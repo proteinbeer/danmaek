@@ -3,7 +3,7 @@ title: "C드라이브 용량 갑자기 부족할 때, 지우기 전에 먼저 �
 description: "C드라이브 여유 공간이 갑자기 줄었다면 큰 파일부터 무작정 삭제하기보다 윈도우가 어디에 공간을 쓰고 있는지 먼저 확인하시면 됩니다."
 date: 2026-08-31
 updated: 2026-08-31
-category: "가이드"
+category: "IT"
 subcategory: "PC·하드웨어"
 tags:
   - "C드라이브"

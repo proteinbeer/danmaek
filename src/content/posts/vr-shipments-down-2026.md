@@ -2,6 +2,7 @@
 title: "VR 출하량 18퍼센트 줄었다, 밸브는 왜 지금 새 기기를 내나"
 description: "2026년 2분기 전 세계 VR 헤드셋 출하량이 전년 같은 기간보다 18% 줄었다는 조사 결과가 나왔습니다."
 date: 2026-09-11T12:00:00
+draft: true
 updated: 2026-09-11T12:00:00
 category: "뉴스"
 subcategory: "게임"

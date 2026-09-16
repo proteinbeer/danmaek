@@ -4,7 +4,7 @@ draft: true
 description: "PS5의 3D 오디오는 별도 고가 장비가 없어도 지원되는 헤드폰에서 공간감을 살리는 기능입니다. 하지만 모든 사람에게 기본값이 잘 맞는 것은 아니어서 소리가 멀거나 답답하게 느껴질 수 있습니다."
 date: 2026-09-01
 updated: 2026-09-01
-category: "가이드"
+category: "게임"
 subcategory: "플스"
 tags:
   - "PS5"

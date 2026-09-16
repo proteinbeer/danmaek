@@ -2,6 +2,7 @@
 title: "워독스 출시 24시간 만에 100만 장, 서버 폭발이 흥행 신호였던 이유"
 description: "워독스가 얼리 액세스 출시 24시간 만에 100만 장 이상 판매됐습니다."
 date: 2026-09-13T12:00:00
+draft: true
 updated: 2026-09-13T12:00:00
 category: "뉴스"
 subcategory: "게임"

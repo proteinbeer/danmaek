@@ -4,7 +4,7 @@ draft: true
 description: "윈도우 11이 켜질 때 자동으로 실행되는 시작 프로그램을 설정 앱과 작업 관리자에서 정리해 부팅 속도를 높이는 방법을 정리합니다."
 date: 2026-09-02
 updated: 2026-09-02
-category: "가이드"
+category: "IT"
 subcategory: "윈도우 11"
 tags:
   - "윈도우 11"

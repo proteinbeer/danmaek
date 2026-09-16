@@ -2,6 +2,7 @@
 title: "아이폰 18 프로 사진이 AI가 아님을 증명한다, 레퍼런스 이미지의 방식"
 description: "아이폰 18 프로에 사진이 AI로 만들어지거나 수정되지 않았음을 확인하는 레퍼런스 이미지 기능이 들어갑니다."
 date: 2026-09-13T12:00:00
+draft: true
 updated: 2026-09-13T12:00:00
 category: "뉴스"
 subcategory: "IT"

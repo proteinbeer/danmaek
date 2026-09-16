@@ -3,7 +3,7 @@ title: "윈도우 11 기본 앱 변경, 브라우저와 사진 앱이 자꾸 돌
 description: "파일을 더블클릭했는데 원하지 않는 프로그램이 계속 열리면 프로그램을 다시 설치할 필요는 없습니다."
 date: 2026-08-23
 updated: 2026-08-23
-category: "가이드"
+category: "IT"
 subcategory: "윈도우 11"
 tags:
   - "윈도우 11"

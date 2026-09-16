@@ -4,7 +4,7 @@ draft: true
 description: "플레이스테이션 스토어에서 산 게임 환불 요청하는 방법과 환불 가능 여부를 정리했습니다. 다운로드 전 환불 원칙, 요청 절차, 물리 디스크 교환까지 다룹니다."
 date: 2026-08-25
 updated: 2026-08-25
-category: "가이드"
+category: "게임"
 subcategory: "플스"
 tags:
   - "플스"

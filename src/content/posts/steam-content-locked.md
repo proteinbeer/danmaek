@@ -3,7 +3,7 @@ title: "스팀 콘텐츠 파일 잠김 오류, 파일이 열려 있는 곳부터
 description: "스팀 업데이트 중 콘텐츠 파일이 잠겼다는 오류가 나오면 파일이 손상됐다고 생각하기 쉽습니다."
 date: 2026-08-24
 updated: 2026-08-24
-category: "가이드"
+category: "게임"
 subcategory: "스팀"
 tags:
   - "스팀"

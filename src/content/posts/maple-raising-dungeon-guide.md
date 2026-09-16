@@ -4,7 +4,7 @@ draft: true
 description: "메이플 키우기 성장 던전의 종류와 보상을 정리한 글입니다. 무기·강화·경험치·장비 던전의 특징과 구간별 우선순위를 알려드립니다."
 date: 2026-09-02
 updated: 2026-09-02
-category: "가이드"
+category: "게임"
 subcategory: "메이플 키우기"
 tags:
   - "메이플 키우기"

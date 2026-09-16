@@ -4,7 +4,7 @@ draft: true
 description: "메이플 키우기 무과금 유저를 위한 다이아 수급처 총정리입니다. 일일 보상과 광고에서 얼마나 모으는지, 모은 다이아를 어디에 먼저 쓰면 좋은지 정리했습니다."
 date: 2026-09-02
 updated: 2026-09-02
-category: "가이드"
+category: "게임"
 subcategory: "메이플 키우기"
 tags:
   - "메이플 키우기"

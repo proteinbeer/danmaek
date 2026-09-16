@@ -1,23 +1,23 @@
 ---
 import BaseLayout from '../../components/BaseLayout.astro';
 import PostCard from '../../components/PostCard.astro';
-import { CATEGORIES, NEWS_SUBCATEGORIES, SITE } from '../../consts';
+import { CATEGORIES, IT_SUBCATEGORIES, SITE } from '../../consts';
 import { getPostsBySubcategory } from '../../lib/posts';
 
 export function getStaticPaths() {
-  return NEWS_SUBCATEGORIES.map((sub) => ({
+  return IT_SUBCATEGORIES.map((sub) => ({
     params: { slug: sub.slug },
     props: { sub }
   }));
 }
 
 const { sub } = Astro.props;
-const category = CATEGORIES.find((item) => item.name === '뉴스')!;
-const posts = getPostsBySubcategory('뉴스', sub.name);
-const title = `${sub.name} | 뉴스`;
-const canonical = new URL(`/news/${sub.slug}/`, SITE.url).toString();
+const category = CATEGORIES.find((item) => item.name === 'IT')!;
+const posts = getPostsBySubcategory('IT', sub.name);
+const title = `${sub.name} | IT`;
+const canonical = new URL(`/it/${sub.slug}/`, SITE.url).toString();
 ---
-<BaseLayout title={`${title} | ${SITE.name}`} description={`${sub.name} 관련 뉴스입니다.`} canonical={canonical}>
+<BaseLayout title={`${title} | ${SITE.name}`} description={`${sub.name} 관련 IT 정보입니다.`} canonical={canonical}>
   <main class="container">
     <div class="adfit-banner">
       <ins class="kakao_ad_area" style="display:none;"
@@ -26,11 +26,11 @@ const canonical = new URL(`/news/${sub.slug}/`, SITE.url).toString();
         data-ad-height="90"></ins>
       <script is:inline async type="text/javascript" charset="utf-8" src="https://t1.kakaocdn.net/kas/static/ba.min.js"></script>
     </div>
-    <section aria-label="뉴스 서브카테고리">
+    <section aria-label="IT 서브카테고리">
       <div class="section-head">
         <div><h2>{sub.name}</h2></div>
         <div class="section-head__controls">
-          <input id="news-search" class="home-search-input" type="search" placeholder="검색" aria-label="글 검색" autocomplete="off" />
+          <input id="guide-search" class="home-search-input" type="search" placeholder="검색" aria-label="IT 검색" autocomplete="off" />
         </div>
       </div>
       <div class="grid" id="post-grid">
@@ -53,13 +53,13 @@ const canonical = new URL(`/news/${sub.slug}/`, SITE.url).toString();
   <script>
     const grid = document.getElementById('post-grid') as HTMLElement;
     const allCards = Array.from(grid?.children ?? []) as HTMLElement[];
-    const search = document.getElementById('news-search') as HTMLInputElement;
-    function filterNews() {
+    const search = document.getElementById('guide-search') as HTMLInputElement;
+    function filterGuides() {
       const q = (search?.value || '').trim().toLowerCase();
       allCards.forEach((card) => {
         card.style.display = !q || card.textContent?.toLowerCase().includes(q) ? '' : 'none';
       });
     }
-    search?.addEventListener('input', filterNews);
+    search?.addEventListener('input', filterGuides);
   </script>
 </BaseLayout>

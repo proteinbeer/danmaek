@@ -4,7 +4,7 @@ draft: true
 description: "게임이나 화상 회의에서 헤드셋 마이크가 인식되지 않을 때, 연결 방식별로 확인할 순서를 정리했습니다. 기본 녹음 장치 설정부터 앱 권한까지 순서대로 점검하면 대부분 해결됩니다."
 date: 2026-08-22
 updated: 2026-08-22
-category: "가이드"
+category: "IT"
 subcategory: "주변기기"
 tags:
   - "헤드셋"

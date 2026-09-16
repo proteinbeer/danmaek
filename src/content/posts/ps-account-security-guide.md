@@ -4,7 +4,7 @@ draft: true
 description: "PSN 계정이 해킹되는 걸 막기 위해 2단계 인증(2SV)과 패스키를 설정하고, 비밀번호를 안전하게 관리하는 방법을 정리합니다."
 date: 2026-09-02
 updated: 2026-09-04
-category: "가이드"
+category: "게임"
 subcategory: "플스"
 tags:
   - "플스"

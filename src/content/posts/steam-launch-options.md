@@ -3,7 +3,7 @@ title: "스팀 게임 시작 옵션, 모르는 명령어를 그대로 넣으면 
 description: "스팀 게임 문제를 검색하다 보면 시작 옵션에 특정 문구를 넣으라는 해결법을 자주 보게 됩니다."
 date: 2026-08-24
 updated: 2026-08-24
-category: "가이드"
+category: "게임"
 subcategory: "스팀"
 tags:
   - "스팀"

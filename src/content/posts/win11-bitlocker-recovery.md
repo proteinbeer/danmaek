@@ -3,7 +3,7 @@ title: "비트로커 복구 키가 갑자기 뜰 때, 포맷 전에 먼저 확�
 description: "평소처럼 컴퓨터를 켰는데 파란 화면에서 비트로커 복구 키를 요구하면 당황하기 쉽습니다."
 date: 2026-08-26
 updated: 2026-08-26
-category: "가이드"
+category: "IT"
 subcategory: "윈도우 11"
 tags:
   - "윈도우 11"

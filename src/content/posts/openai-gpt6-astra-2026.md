@@ -2,6 +2,7 @@
 title: "오픈AI GPT-6 아스트라 공개, 5시간 걸리던 검색이 3분이 되는 이유"
 description: "오픈AI가 차세대 모델 GPT-6 아스트라를 공개하고 API 공개를 시작했습니다. AGI 벤치마크에서 99.9%를 기록했지만 오픈AI 모델 최초로 '위험' 보안등급을 받으면서 AGI와 보안 논쟁이 함께 커지고 있습니다."
 date: 2026-09-05
+draft: true
 updated: 2026-09-05
 category: "뉴스"
 subcategory: "IT"

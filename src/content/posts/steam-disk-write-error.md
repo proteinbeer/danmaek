@@ -3,7 +3,7 @@ title: "스팀 디스크 쓰기 오류, 인터넷보다 저장장치를 먼저 �
 description: "게임을 다운로드하는 중 디스크 쓰기 오류가 뜨면 네트워크가 끊긴 것으로 생각하기 쉽습니다."
 date: 2026-08-24
 updated: 2026-08-24
-category: "가이드"
+category: "게임"
 subcategory: "스팀"
 tags:
   - "스팀"

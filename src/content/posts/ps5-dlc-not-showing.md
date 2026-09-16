@@ -4,7 +4,7 @@ draft: true
 description: "PS5에서 DLC를 구매하고 설치까지 끝냈는데 게임 안에서 찾을 수 없는 경우가 있습니다. 다운로드 실패만 생각하기 쉽지만 본편과 DLC의 지역, 구매 계정, 게임 진행 조건이 서로 맞지 않아 생기는 경우도 많습니다."
 date: 2026-08-29
 updated: 2026-08-29
-category: "가이드"
+category: "게임"
 subcategory: "플스"
 tags:
   - "PS5"

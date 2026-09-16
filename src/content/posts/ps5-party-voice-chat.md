@@ -4,7 +4,7 @@ draft: true
 description: "PS5 파티에 들어갔는데 친구 목소리만 안 들리거나 내 목소리가 전달되지 않는 경우가 있습니다. 헤드셋 고장처럼 보여도 실제로는 게임 채팅 전환, 출력 장치, 개별 음량 설정이 원인인 경우가 많습니다."
 date: 2026-08-28
 updated: 2026-08-28
-category: "가이드"
+category: "게임"
 subcategory: "플스"
 tags:
   - "PS5"

@@ -4,7 +4,7 @@ draft: true
 description: "구매한 게임인데 PS5 홈 화면에 자물쇠 표시가 뜨면 계정이 꼬였거나 게임을 다시 사야 한다고 생각하기 쉽습니다. 하지만 대부분은 라이선스, 콘솔 공유, 구독 상태 중 하나에서 문제가 생긴 경우입니다."
 date: 2026-08-27
 updated: 2026-08-27
-category: "가이드"
+category: "게임"
 subcategory: "플스"
 tags:
   - "PS5"

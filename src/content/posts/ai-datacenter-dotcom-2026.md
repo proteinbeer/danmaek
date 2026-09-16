@@ -2,6 +2,7 @@
 title: "코인 채굴장이 AI 데이터센터가 됐다, 2000년과 닮은 장면"
 description: "암호화폐 채굴장을 운영하던 회사들이 GPU와 전력을 바탕으로 AI 데이터센터 사업자로 변신하고 있습니다."
 date: 2026-09-11T12:00:00
+draft: true
 updated: 2026-09-11T12:00:00
 category: "뉴스"
 subcategory: "IT"

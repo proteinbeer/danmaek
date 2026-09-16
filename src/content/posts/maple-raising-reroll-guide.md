@@ -4,7 +4,7 @@ draft: true
 description: "메이플 키우기 시작 전에 알아두면 좋은 리세마라 기준입니다. SS·S·A·B 등급 기준과 직업별 추천, 몇 시간 안에 판단해야 하는지까지 정리했습니다."
 date: 2026-09-02
 updated: 2026-09-02
-category: "가이드"
+category: "게임"
 subcategory: "메이플 키우기"
 tags:
   - "메이플 키우기"

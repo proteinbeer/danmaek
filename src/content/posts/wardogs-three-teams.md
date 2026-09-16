@@ -4,7 +4,7 @@ draft: true
 description: "워독스는 두 진영이 맞붙는 일반적인 FPS와 달리 세 팀이 동시에 컨트롤 존을 놓고 싸웁니다. 앞에 있는 적을 밀어냈다고 전투가 끝난 것이 아니라 세 번째 팀이 옆과 뒤에서 들어올 가능성을 계속 생각해야 합니다."
 date: 2026-09-10
 updated: 2026-09-10
-category: "가이드"
+category: "게임"
 subcategory: "워독스"
 tags:
   - "워독스"

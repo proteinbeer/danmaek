@@ -12,7 +12,8 @@ const stablePages = [
   '/privacy/'
 ] as const;
 
-const categoryPages = CATEGORIES.map((category) => `/${category.slug}/`);
+const categoryPages = CATEGORIES
+  .map((category) => `/${category.slug}/`);
 const toolPages = ['/tools/', ...TOOLS.map((tool) => `/tools/${tool.slug}/`)];
 
 export const absoluteUrl = (pathname: string) => new URL(pathname, SITE.url).toString();

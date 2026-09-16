@@ -4,7 +4,7 @@ draft: true
 description: "PS5 설정에 있는 라이선스 복원은 이름만 보면 위험한 초기화처럼 느껴질 수 있습니다. 실제로는 계정이 구매하거나 이용 권한을 가진 콘텐츠 정보를 다시 확인하는 기능입니다."
 date: 2026-08-27
 updated: 2026-08-27
-category: "가이드"
+category: "게임"
 subcategory: "플스"
 tags:
   - "PS5"

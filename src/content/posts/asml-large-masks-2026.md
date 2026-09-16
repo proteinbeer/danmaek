@@ -2,6 +2,7 @@
 title: "AI칩이 너무 커졌다, ASML이 마스크 크기까지 바꾸는 이유"
 description: "ASML이 차세대 하이NA EUV 장비에 더 큰 12인치 마스크를 쓰는 방안을 추진하고 있습니다."
 date: 2026-09-11T12:00:00
+draft: true
 updated: 2026-09-11T12:00:00
 category: "뉴스"
 subcategory: "IT"

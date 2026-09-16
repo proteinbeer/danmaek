@@ -4,7 +4,7 @@ draft: true
 description: "스팀 계정을 해킹으로부터 지키기 위해 스팀가드와 모바일 인증기를 설정하고 복구 코드를 보관하는 방법을 정리합니다."
 date: 2026-09-01
 updated: 2026-09-04
-category: "가이드"
+category: "게임"
 subcategory: "스팀"
 tags:
   - "스팀"

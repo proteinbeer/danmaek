@@ -2,6 +2,7 @@
 title: "AI가 만든 엣지 확장 프로그램, 검사도 AI가 맡는다"
 description: "AI 코딩 도구 덕분에 프로그래밍 경험이 적은 사람도 브라우저 확장 프로그램을 빠르게 만들 수 있게 됐습니다."
 date: 2026-09-11T12:00:00
+draft: true
 updated: 2026-09-11T12:00:00
 category: "뉴스"
 subcategory: "IT"

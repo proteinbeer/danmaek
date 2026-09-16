@@ -3,7 +3,7 @@ title: "스팀 리모트 플레이 투게더, 친구가 게임을 안 사도 같
 description: "로컬 협동 게임은 한 화면에서 같이 하면 재미있지만 친구가 멀리 있으면 그 장점이 사라집니다."
 date: 2026-08-24
 updated: 2026-08-24
-category: "가이드"
+category: "게임"
 subcategory: "스팀"
 tags:
   - "스팀"

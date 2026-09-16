@@ -4,7 +4,7 @@ draft: true
 description: "PS5 오류가 계속된다고 바로 초기화를 누르면 세이브와 캡처를 잃을 수 있습니다. 초기화는 강력한 해결 방법이지만 어떤 옵션을 선택하느냐에 따라 지워지는 범위가 크게 달라집니다."
 date: 2026-08-31
 updated: 2026-08-31
-category: "가이드"
+category: "게임"
 subcategory: "플스"
 tags:
   - "PS5"

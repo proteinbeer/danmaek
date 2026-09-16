@@ -3,7 +3,7 @@ title: "스팀에 비스팀 게임 추가, 라이브러리에 넣어도 스팀 �
 description: "다른 스토어에서 산 게임이나 직접 설치한 프로그램도 스팀 라이브러리에 추가할 수 있습니다."
 date: 2026-08-24
 updated: 2026-08-24
-category: "가이드"
+category: "게임"
 subcategory: "스팀"
 tags:
   - "스팀"

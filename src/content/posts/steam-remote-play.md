@@ -3,7 +3,7 @@ title: "스팀 리모트 플레이, 사양 낮은 노트북에서도 고사양 �
 description: "게임용 PC는 방에 있는데 침대에서는 가벼운 노트북이나 태블릿으로 게임하고 싶을 때가 있습니다."
 date: 2026-08-24
 updated: 2026-08-24
-category: "가이드"
+category: "게임"
 subcategory: "스팀"
 tags:
   - "스팀"

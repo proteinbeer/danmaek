@@ -4,7 +4,7 @@ draft: true
 description: "기가인터넷을 쓰는데 PS5 다운로드가 유난히 느리면 DNS 숫자를 바꾸는 방법부터 찾게 됩니다. 하지만 실제 속도는 PSN 서버 상태, 와이파이 품질, 동시에 실행 중인 게임, 공유기 대역폭 영향을 더 크게 받습니다."
 date: 2026-08-29
 updated: 2026-08-29
-category: "가이드"
+category: "게임"
 subcategory: "플스"
 tags:
   - "PS5"

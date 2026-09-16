@@ -3,7 +3,7 @@ title: "캡처보드에 검은 화면만 뜬다면, 해상도보다 HDCP를 먼�
 description: "게임기나 다른 영상 장치를 캡처보드에 연결했는데 방송 프로그램에는 검은 화면만 뜨는 경우가 있습니다."
 date: 2026-08-23
 updated: 2026-08-23
-category: "가이드"
+category: "IT"
 subcategory: "주변기기"
 tags:
   - "캡처보드"

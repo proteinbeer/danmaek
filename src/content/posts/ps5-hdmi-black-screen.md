@@ -4,7 +4,7 @@ draft: true
 description: "PS5 전원은 켜졌는데 TV나 모니터에 화면이 나오지 않으면 HDMI 케이블 고장부터 떠올리기 쉽습니다. 실제로는 입력 포트, 해상도 협상, HDCP, 120Hz 설정처럼 영상 신호 조건이 맞지 않아 검은 화면이 생기는 경우도 많습니다."
 date: 2026-08-31
 updated: 2026-08-31
-category: "가이드"
+category: "게임"
 subcategory: "플스"
 tags:
   - "PS5"

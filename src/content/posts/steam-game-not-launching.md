@@ -3,7 +3,7 @@ title: "스팀 게임 실행 안 될 때, 삭제부터 하지 말고 이 순서�
 description: "플레이 버튼을 눌렀는데 실행 중 표시만 잠깐 나왔다가 다시 플레이로 돌아오면 원인이 눈에 보이지 않아 답답합니다."
 date: 2026-08-24
 updated: 2026-08-24
-category: "가이드"
+category: "게임"
 subcategory: "스팀"
 tags:
   - "스팀"

@@ -3,7 +3,7 @@ title: "원드라이브 바탕화면 백업, 파일이 갑자기 옮겨진 것�
 description: "윈도우를 쓰다 보면 어느 날 바탕화면이나 문서 폴더가 원드라이브 아래로 들어가 있는 것을 발견할 때가 있습니다."
 date: 2026-08-25
 updated: 2026-08-25
-category: "가이드"
+category: "IT"
 subcategory: "윈도우 11"
 tags:
   - "윈도우 11"

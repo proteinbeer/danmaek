@@ -4,7 +4,7 @@ draft: true
 description: "워독스에서 차량은 단순히 킬을 많이 만드는 무기가 아닙니다. 팀원을 컨트롤 존까지 운송하는 행동에도 현금 보상이 있어 사람과 장비를 필요한 위치에 빨리 옮기는 능력 자체가 전투력입니다."
 date: 2026-09-10
 updated: 2026-09-10
-category: "가이드"
+category: "게임"
 subcategory: "워독스"
 tags:
   - "워독스"

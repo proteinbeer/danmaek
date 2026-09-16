@@ -4,7 +4,7 @@ draft: true
 description: "오래전에 만든 PSN 온라인 ID가 마음에 들지 않으면 지금도 변경할 수 있습니다. 하지만 이름만 바뀌는 단순 프로필 수정이라고 생각하기 전에 오래된 게임에서 생길 수 있는 호환 문제를 확인하는 편이 좋습니다."
 date: 2026-08-24
 updated: 2026-08-24
-category: "가이드"
+category: "게임"
 subcategory: "플스"
 tags:
   - "PSN"

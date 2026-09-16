@@ -2,6 +2,7 @@
 title: "레볼루트 고객정보 유출, 가짜 정부 요청이 진짜 도메인에서 온 이유"
 description: "핀테크 기업 레볼루트가 가짜 정부 정보 요청을 이용한 고객 데이터 유출을 확인했습니다."
 date: 2026-09-13T12:00:00
+draft: true
 updated: 2026-09-13T12:00:00
 category: "뉴스"
 subcategory: "IT"

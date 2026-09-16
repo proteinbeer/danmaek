@@ -3,7 +3,7 @@ title: "무선 마우스가 새 PC에서만 끊긴다면, USB 3.0 포트가 원�
 description: "무선 마우스가 오래된 PC에서는 멀쩡했는데 새 컴퓨터에 연결한 뒤 갑자기 끊기거나 커서가 튀는 경우가 있습니다."
 date: 2026-08-22
 updated: 2026-08-22
-category: "가이드"
+category: "IT"
 subcategory: "주변기기"
 tags:
   - "무선 마우스"

@@ -2,6 +2,7 @@
 title: "LG 스마트TV 추적 논란, HDMI 화면까지 본다는 주장이 나왔다"
 description: "LG 스마트TV가 시청 습관과 홈 네트워크 정보를 폭넓게 수집한다는 주장이 나오면서 개인정보 논란이 커졌습니다."
 date: 2026-09-11T12:00:00
+draft: true
 updated: 2026-09-11T12:00:00
 category: "뉴스"
 subcategory: "IT"

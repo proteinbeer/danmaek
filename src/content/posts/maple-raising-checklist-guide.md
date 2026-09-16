@@ -4,7 +4,7 @@ draft: true
 description: "메이플 키우기 일일·주간 숙제 총정리입니다. 매일 꼭 챙겨야 할 것과 주간 단위로 초기화되는 항목, 바쁜 날 최소 루틴까지 정리했습니다."
 date: 2026-09-02
 updated: 2026-09-02
-category: "가이드"
+category: "게임"
 subcategory: "메이플 키우기"
 tags:
   - "메이플 키우기"

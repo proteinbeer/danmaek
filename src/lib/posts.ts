@@ -10,7 +10,7 @@ export type Post = {
     description: string;
     date: Date;
     updated?: Date;
-    category: '뉴스' | '가이드' | '쿠폰';
+    category: '뉴스' | 'IT' | '게임' | '쿠폰';
     subcategory: string;
     tags: string[];
     image: string;

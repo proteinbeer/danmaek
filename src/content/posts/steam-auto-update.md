@@ -3,7 +3,7 @@ title: "스팀 자동 업데이트 끄는 법, 완전히 막는 버튼이 없는
 description: "대형 게임을 오랜만에 하려고 켰는데 수십 기가바이트 업데이트부터 시작하면 난감합니다."
 date: 2026-08-24
 updated: 2026-08-24
-category: "가이드"
+category: "게임"
 subcategory: "스팀"
 tags:
   - "스팀"

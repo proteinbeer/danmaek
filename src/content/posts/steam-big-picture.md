@@ -3,7 +3,7 @@ title: "스팀 빅 픽처 모드, TV 연결할 때 일반 화면보다 편한 �
 description: "PC를 TV에 연결해서 콘솔처럼 사용하려고 하면 스팀의 일반 데스크톱 화면은 글씨가 작고 마우스가 필요해서 불편합니다."
 date: 2026-08-24
 updated: 2026-08-24
-category: "가이드"
+category: "게임"
 subcategory: "스팀"
 tags:
   - "스팀"

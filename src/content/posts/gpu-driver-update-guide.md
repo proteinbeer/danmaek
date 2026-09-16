@@ -3,7 +3,7 @@ title: "그래픽카드 드라이버 업데이트하는 법, NVIDIA·AMD·인텔
 description: "새 게임이 랙이 걸리거나 화면이 깨질 때 점검할 그래픽카드 드라이버 업데이트 방법을 정리했습니다. NVIDIA, AMD, 인텔 각각의 순서와 클린 설치까지 다룹니다."
 date: 2026-08-27
 updated: 2026-08-27
-category: "가이드"
+category: "IT"
 subcategory: "PC·하드웨어"
 tags:
   - "그래픽카드"

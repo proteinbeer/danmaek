@@ -2,6 +2,7 @@
 title: "로블록스 게임이 밖으로 나온다, 독립 앱 허용이 큰 변화인 이유"
 description: "로블록스가 제작자에게 플랫폼 밖으로 나갈 수 있는 길을 열기 시작했습니다."
 date: 2026-09-12T12:00:00
+draft: true
 updated: 2026-09-12T12:00:00
 category: "뉴스"
 subcategory: "게임"

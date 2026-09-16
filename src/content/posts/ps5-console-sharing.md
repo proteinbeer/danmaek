@@ -4,7 +4,7 @@ draft: true
 description: "PS5 한 대를 가족이 여러 계정으로 쓰면 게임을 누구 계정으로 샀는지가 중요해집니다. 콘솔 공유와 오프라인 플레이를 제대로 설정하면 구매 계정이 아닌 다른 사용자도 같은 PS5에서 일부 게임과 혜택을 이용할 수 있습니다."
 date: 2026-08-28
 updated: 2026-08-28
-category: "가이드"
+category: "게임"
 subcategory: "플스"
 tags:
   - "PS5"

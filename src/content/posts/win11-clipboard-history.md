@@ -3,7 +3,7 @@ title: "윈도우 11 클립보드 기록, 복사한 내용을 여러 개 남기�
 description: "복사와 붙여넣기를 많이 하다 보면 방금 전에 복사했던 내용을 다시 찾느라 원래 문서로 돌아갈 때가 있습니다."
 date: 2026-08-26
 updated: 2026-08-26
-category: "가이드"
+category: "IT"
 subcategory: "윈도우 11"
 tags:
   - "윈도우 11"

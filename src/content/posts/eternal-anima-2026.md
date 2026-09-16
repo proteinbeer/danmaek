@@ -2,6 +2,7 @@
 title: "이터널 아니마 공개, 과거 기억을 훔쳐 미래를 읽는 RPG"
 description: "마블러스가 신작 RPG 이터널 아니마를 공개했습니다."
 date: 2026-09-13T12:00:00
+draft: true
 updated: 2026-09-13T12:00:00
 category: "뉴스"
 subcategory: "게임"

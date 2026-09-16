@@ -4,7 +4,7 @@ draft: true
 description: "PS4에서 오래 플레이한 게임을 PS5로 옮겼는데 새 게임처럼 시작되면 당황스럽습니다. 게임 본체를 설치했다고 세이브까지 자동으로 따라오는 것은 아니기 때문입니다."
 date: 2026-08-25
 updated: 2026-08-25
-category: "가이드"
+category: "게임"
 subcategory: "플스"
 tags:
   - "PS5"

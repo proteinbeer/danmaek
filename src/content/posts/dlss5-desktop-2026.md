@@ -2,6 +2,7 @@
 title: "DLSS 5를 윈도우 화면 전체에 적용했다, RTX 30도 돌아간다"
 description: "DLSS 5 신경 렌더링을 게임 안이 아니라 윈도우 데스크톱 전체에 적용하는 무료 도구가 나왔습니다."
 date: 2026-09-11T12:00:00
+draft: true
 updated: 2026-09-11T12:00:00
 category: "뉴스"
 subcategory: "게임"

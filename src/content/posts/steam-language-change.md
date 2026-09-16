@@ -3,7 +3,7 @@ title: "스팀 게임 언어 변경, 한국어가 있는데 영어로 나올 때
 description: "상점 페이지에는 한국어 지원이라고 적혀 있는데 게임을 실행하면 영어로 나오는 경우가 있습니다."
 date: 2026-08-24
 updated: 2026-08-24
-category: "가이드"
+category: "게임"
 subcategory: "스팀"
 tags:
   - "스팀"

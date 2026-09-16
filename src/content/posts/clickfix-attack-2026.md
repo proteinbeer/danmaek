@@ -2,6 +2,7 @@
 title: "가짜 캡차 한 번에 PC와 맥이 감염된다, 클릭픽스 공격이 급증한 이유"
 description: "클릭픽스라는 공격 방식이 PC와 맥에서 빠르게 퍼지고 있습니다."
 date: 2026-09-12T12:00:00
+draft: true
 updated: 2026-09-12T12:00:00
 category: "뉴스"
 subcategory: "IT"

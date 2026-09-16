@@ -3,7 +3,7 @@ title: "DNS over HTTPS 차이, 일반 DNS보다 달라지는 점"
 description: "브라우저와 윈도우에서 DNS over HTTPS 설정을 볼 수 있습니다. 이름은 복잡하지만 핵심은 DNS 질의를 일반 평문 방식 대신 HTTPS로 암호화해 중간에서 조회 내용을 쉽게 들여다보기 어렵게 만드는 기능입니다."
 date: 2026-08-23
 updated: 2026-08-23
-category: "가이드"
+category: "IT"
 subcategory: "네트워크"
 tags:
   - "네트워크"

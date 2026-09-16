@@ -3,7 +3,7 @@ title: "USB 마이크 소리가 너무 작다면, 마이크를 가까이 대기 
 description: "USB 마이크를 새로 연결했는데 녹음 소리가 지나치게 작으면 마이크 성능이 부족하다고 생각하기 쉽습니다."
 date: 2026-08-21
 updated: 2026-08-21
-category: "가이드"
+category: "IT"
 subcategory: "주변기기"
 tags:
   - "USB 마이크"

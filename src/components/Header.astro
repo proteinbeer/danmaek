@@ -1,5 +1,5 @@
 ---
-import { COUPON_SUBCATEGORIES, GUIDE_SUBCATEGORIES, NEWS_SUBCATEGORIES, TOOL_SUBCATEGORIES } from '../consts';
+import { COUPON_SUBCATEGORIES, GAME_SUBCATEGORIES, IT_SUBCATEGORIES, TOOL_SUBCATEGORIES } from '../consts';
 
 const path = Astro.url.pathname;
 ---
@@ -12,18 +12,18 @@ const path = Astro.url.pathname;
     </a>
     <nav class="nav" aria-label="주요 메뉴">
       <div class="nav-item">
-        <a href="/news/" aria-current={path.startsWith('/news/') ? 'page' : undefined} class="nav-item__link">뉴스</a>
+        <a href="/it/" aria-current={path.startsWith('/it/') ? 'page' : undefined} class="nav-item__link">IT</a>
         <div class="nav-dropdown">
-          {NEWS_SUBCATEGORIES.map((sub) => (
-            <a href={`/news/${sub.slug}/`} aria-current={path.startsWith(`/news/${sub.slug}/`) ? 'page' : undefined}>{sub.name}</a>
+          {IT_SUBCATEGORIES.map((sub) => (
+            <a href={`/it/${sub.slug}/`} aria-current={path.startsWith(`/it/${sub.slug}/`) ? 'page' : undefined}>{sub.name}</a>
           ))}
         </div>
       </div>
       <div class="nav-item">
-        <a href="/guides/" aria-current={path.startsWith('/guides/') ? 'page' : undefined} class="nav-item__link">가이드</a>
+        <a href="/games/" aria-current={path.startsWith('/games/') ? 'page' : undefined} class="nav-item__link">게임</a>
         <div class="nav-dropdown">
-          {GUIDE_SUBCATEGORIES.map((sub) => (
-            <a href={`/guides/${sub.slug}/`} aria-current={path.startsWith(`/guides/${sub.slug}/`) ? 'page' : undefined}>{sub.name}</a>
+          {GAME_SUBCATEGORIES.map((sub) => (
+            <a href={`/games/${sub.slug}/`} aria-current={path.startsWith(`/games/${sub.slug}/`) ? 'page' : undefined}>{sub.name}</a>
           ))}
         </div>
       </div>

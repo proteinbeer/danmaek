@@ -3,7 +3,7 @@ title: "조립 PC 조립 순서, 부품 장착부터 배선까지 정리"
 description: "첫 조립 PC를 맞출 때 실수 없이 따라 할 수 있는 부품 장착 순서를 정리했습니다. 호환성 확인, CPU·메모리·쿨러 장착, 케이스 배선, 부팅 확인까지 다룹니다."
 date: 2026-08-24
 updated: 2026-08-24
-category: "가이드"
+category: "IT"
 subcategory: "PC·하드웨어"
 tags:
   - "조립 PC"

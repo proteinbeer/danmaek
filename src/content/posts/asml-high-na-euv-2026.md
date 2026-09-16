@@ -2,6 +2,7 @@
 title: "ASML 4억달러 하이 NA 장비, 반도체 회사들이 결국 줄 서기 시작했다"
 description: "ASML의 차세대 하이 NA EUV 노광장비 도입이 본격화되고 있습니다. 장비 한 대 가격이 약 4억달러에 달하지만 TSMC와 삼성전자, SK하이닉스, 인텔 같은 주요 반도체 회사가 생산 적용을 준비하고 있습니다."
 date: 2026-09-14T12:00:00
+draft: true
 updated: 2026-09-14T12:00:00
 category: "뉴스"
 subcategory: "IT"

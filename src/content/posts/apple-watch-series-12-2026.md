@@ -2,6 +2,7 @@
 title: "애플워치 시리즈 12 항상 듣는 시리, 15초 전 대화까지 되감는다"
 description: "애플워치 시리즈 12는 시리 AI 기반 오디오 인텔리전스를 핵심 기능으로 내세웁니다."
 date: 2026-09-13T12:00:00
+draft: true
 updated: 2026-09-13T12:00:00
 category: "뉴스"
 subcategory: "IT"

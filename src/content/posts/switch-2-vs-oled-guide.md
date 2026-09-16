@@ -3,7 +3,7 @@ title: "스위치 2 vs 스위치 OLED, 바꿔야 할까"
 description: "스위치 2가 나왔을 때 OLED 모델에서 넘어가야 할지 고민하는 분들을 위해 화면, 성능, 크기, 가격까지 실제 차이를 정리했습니다. 지금 스위치 1을 쓰는 분 기준으로 비교해봅니다."
 date: 2026-08-21
 updated: 2026-08-21
-category: "가이드"
+category: "게임"
 subcategory: "스위치"
 tags:
   - "스위치 2"

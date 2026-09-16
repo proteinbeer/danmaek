@@ -2,6 +2,7 @@
 title: "EA와 세비 게임즈 합병 검토, 사우디 게임 제국이 커진다"
 description: "사우디아라비아 국부펀드가 EA와 세비 게임즈 그룹을 합치는 방안을 검토 중이라는 보도가 나왔습니다."
 date: 2026-09-11T12:00:00
+draft: true
 updated: 2026-09-11T12:00:00
 category: "뉴스"
 subcategory: "IT"

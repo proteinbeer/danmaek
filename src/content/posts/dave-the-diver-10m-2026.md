@@ -2,6 +2,7 @@
 title: "데이브 더 다이버 1000만 장 돌파, 민트로켓의 작은 게임이 오래 팔린 이유"
 description: "민트로켓의 데이브 더 다이버가 누적 판매 1000만 장을 넘어섰습니다."
 date: 2026-09-12T12:00:00
+draft: true
 updated: 2026-09-12T12:00:00
 category: "뉴스"
 subcategory: "게임"

@@ -3,7 +3,7 @@ title: "USB 마이크에서 지지직 소리가 난다면, 노이즈 제거보�
 description: "USB 마이크에서 지지직거리거나 낮은 웅웅 소리가 들리면 바로 노이즈 제거 기능부터 켜는 경우가 많습니다."
 date: 2026-08-23
 updated: 2026-08-23
-category: "가이드"
+category: "IT"
 subcategory: "주변기기"
 tags:
   - "USB 마이크"

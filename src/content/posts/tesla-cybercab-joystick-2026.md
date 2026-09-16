@@ -2,6 +2,7 @@
 title: "핸들 없는 사이버캡, 화면 속 조이스틱이 발견된 이유"
 description: "테슬라 사이버캡은 운전대와 페달이 없는 완전 자율주행 로보택시를 목표로 만든 차량입니다."
 date: 2026-09-11T12:00:00
+draft: true
 updated: 2026-09-11T12:00:00
 category: "뉴스"
 subcategory: "IT"

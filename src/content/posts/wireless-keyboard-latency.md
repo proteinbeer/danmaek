@@ -3,7 +3,7 @@ title: "무선 키보드인데 반응이 늦다면, 블루투스부터 의심해
 description: "무선 키보드는 케이블이 없어 편하지만 게임에서 입력이 약간 늦거나 한 번씩 끊긴다고 느끼는 경우가 있습니다."
 date: 2026-08-23
 updated: 2026-08-23
-category: "가이드"
+category: "IT"
 subcategory: "주변기기"
 tags:
   - "무선 키보드"

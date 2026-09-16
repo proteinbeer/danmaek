@@ -4,7 +4,7 @@ draft: true
 description: "스팀 라이브러리가 어지럽다면 컬렉션과 게임 숨기기 기능으로 정리하는 방법을 소개하고, 찜목록과 태그 활용까지 정리합니다."
 date: 2026-09-02
 updated: 2026-09-04
-category: "가이드"
+category: "게임"
 subcategory: "스팀"
 tags:
   - "스팀"

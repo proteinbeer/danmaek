@@ -3,7 +3,7 @@ title: "스팀 FPS 표시, 이제 숫자 하나보다 CPU와 GPU를 같이 봐�
 description: "게임이 끊길 때 FPS 숫자만 보면 그래픽카드가 문제인지 CPU가 문제인지 알기 어렵습니다."
 date: 2026-08-24
 updated: 2026-08-24
-category: "가이드"
+category: "게임"
 subcategory: "스팀"
 tags:
   - "스팀"

@@ -4,7 +4,7 @@ draft: true
 description: "윈도우 11 자동 업데이트가 불편할 때 일시중지하는 방법을 설명하고, 업데이트 시간을 조정하거나 특정 업데이트를 차단하는 방법을 정리합니다."
 date: 2026-09-02
 updated: 2026-09-02
-category: "가이드"
+category: "IT"
 subcategory: "윈도우 11"
 tags:
   - "윈도우 11"

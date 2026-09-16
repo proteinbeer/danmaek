@@ -4,7 +4,7 @@ draft: true
 description: "PS5에서 특정 게임이 갑자기 종료되거나 화면이 멈추면 본체 고장인지 게임 버그인지 판단하기 어렵습니다. 한 게임에서만 반복되는지, 여러 게임에서 동시에 발생하는지를 나누면 원인을 훨씬 빠르게 좁힐 수 있습니다."
 date: 2026-08-26
 updated: 2026-08-26
-category: "가이드"
+category: "게임"
 subcategory: "플스"
 tags:
   - "PS5"

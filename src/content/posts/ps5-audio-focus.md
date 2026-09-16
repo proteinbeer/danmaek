@@ -4,7 +4,7 @@ draft: true
 description: "PS5의 오디오 포커스는 헤드폰에서 특정 주파수의 작은 소리를 더 잘 들리도록 강조하는 기능입니다. 단순 볼륨 증폭과 달리 어떤 소리를 앞으로 가져올지 선택할 수 있다는 점이 특징입니다."
 date: 2026-08-23
 updated: 2026-08-23
-category: "가이드"
+category: "게임"
 subcategory: "플스"
 tags:
   - "PS5"

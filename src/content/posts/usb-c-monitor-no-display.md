@@ -3,7 +3,7 @@ title: "USB C 케이블로 모니터를 연결했는데 충전만 된다면, 포
 description: "노트북과 모니터에 USB C 단자가 있으니 케이블 하나만 연결하면 화면과 충전이 모두 될 것처럼 보입니다."
 date: 2026-08-22
 updated: 2026-08-22
-category: "가이드"
+category: "IT"
 subcategory: "주변기기"
 tags:
   - "USB C"

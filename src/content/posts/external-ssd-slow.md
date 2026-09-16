@@ -3,7 +3,7 @@ title: "외장 SSD가 내장 SSD보다 너무 느리다면, 케이블 하나로 
 description: "빠른 외장 SSD를 샀는데 파일 복사 속도가 USB 메모리와 크게 다르지 않다면 제품이 불량이라고 생각하기 쉽습니다."
 date: 2026-08-22
 updated: 2026-08-22
-category: "가이드"
+category: "IT"
 subcategory: "주변기기"
 tags:
   - "외장 SSD"

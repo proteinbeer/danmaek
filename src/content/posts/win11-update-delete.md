@@ -3,7 +3,7 @@ title: "윈도우 11 업데이트 삭제, 설치 직후 오류가 생겼다면 �
 description: "윈도우 업데이트는 보안과 안정성을 위해 필요한 작업이지만 설치 직후에만 문제가 시작되는 경우도 있습니다."
 date: 2026-08-25
 updated: 2026-08-25
-category: "가이드"
+category: "IT"
 subcategory: "윈도우 11"
 tags:
   - "윈도우 11"

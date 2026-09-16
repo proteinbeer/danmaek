@@ -3,7 +3,7 @@ title: "웹캠을 꽂았는데 카메라가 없다고 뜬다면, USB보다 권�
 description: "외장 웹캠을 연결했는데 줌이나 디스코드에서 카메라를 찾지 못하면 USB 고장부터 의심하기 쉽습니다."
 date: 2026-08-21
 updated: 2026-08-21
-category: "가이드"
+category: "IT"
 subcategory: "주변기기"
 tags:
   - "웹캠"

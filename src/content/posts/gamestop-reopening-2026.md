@@ -2,6 +2,7 @@
 title: "게임스톱이 닫았던 매장을 다시 연다, 디지털 시대에 역행하는 선택일까?"
 description: "게임스톱이 최근 문을 닫았던 일부 매장을 다시 열기 시작했습니다."
 date: 2026-09-12T12:00:00
+draft: true
 updated: 2026-09-12T12:00:00
 category: "뉴스"
 subcategory: "게임"

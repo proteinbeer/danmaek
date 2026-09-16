@@ -2,6 +2,7 @@
 title: "닌텐도 스위치 2 독 모드에 VRR이 생겼다, 23.0.0 업데이트 핵심 변화"
 description: "닌텐도 스위치 2가 시스템 버전 23.0.0에서 TV 모드 VRR을 지원하기 시작했습니다."
 date: 2026-09-12T12:00:00
+draft: true
 updated: 2026-09-12T12:00:00
 category: "뉴스"
 subcategory: "게임"

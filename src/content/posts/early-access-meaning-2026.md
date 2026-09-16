@@ -2,6 +2,7 @@
 title: "얼리 액세스 의미가 사라졌다, 미완성이라 써도 욕먹는 이유"
 description: "팰월드 퍼블리싱 책임자가 얼리 액세스라는 말이 예전 의미를 잃고 있다고 지적했습니다."
 date: 2026-09-11T12:00:00
+draft: true
 updated: 2026-09-11T12:00:00
 category: "뉴스"
 subcategory: "게임"

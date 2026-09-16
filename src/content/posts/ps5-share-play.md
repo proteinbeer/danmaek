@@ -4,7 +4,7 @@ draft: true
 description: "PS5 셰어 플레이는 친구가 같은 게임을 갖고 있지 않아도 내 화면을 보거나 일정 조건에서 조작에 참여할 수 있게 해주는 기능입니다. 단순 화면 공유와 달리 컨트롤을 넘기는 방식이 포함돼 있다는 점이 핵심입니다."
 date: 2026-08-25
 updated: 2026-08-25
-category: "가이드"
+category: "게임"
 subcategory: "플스"
 tags:
   - "PS5"

@@ -4,7 +4,7 @@ draft: true
 description: "PS5에 게임 디스크를 넣었는데 인식하지 못하거나 설치 중 오류가 나면 디스크 드라이브 고장을 걱정하게 됩니다. 하지만 디스크 방향, 표면 오염, 특정 타이틀 문제처럼 간단한 원인도 많습니다."
 date: 2026-08-31
 updated: 2026-08-31
-category: "가이드"
+category: "게임"
 subcategory: "플스"
 tags:
   - "PS5"

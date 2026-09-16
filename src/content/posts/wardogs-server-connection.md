@@ -4,7 +4,7 @@ draft: true
 description: "워독스는 온라인 PvP가 중심이라 서버에 들어가지 못하면 게임을 제대로 시작하기 어렵습니다. 하지만 접속 실패가 뜬다고 바로 공유기 포트부터 열 필요는 없습니다."
 date: 2026-09-10
 updated: 2026-09-10
-category: "가이드"
+category: "게임"
 subcategory: "워독스"
 tags:
   - "워독스"

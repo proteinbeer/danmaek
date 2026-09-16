@@ -3,7 +3,7 @@ title: "PC 발열·소음 줄이는 법 총정리, 온도와 쿨링 관리"
 description: "PC가 뜨거워지고 팬 소리가 클 때 확인할 순서를 정리했습니다. 온도 측정, 먼지 청소, 써멀 재도포, 팬 커브 설정까지 하나씩 따라 할 수 있습니다."
 date: 2026-08-28
 updated: 2026-08-28
-category: "가이드"
+category: "IT"
 subcategory: "PC·하드웨어"
 tags:
   - "PC 발열"

@@ -3,7 +3,7 @@ title: "랜카드가 1Gbps에서 100Mbps로 내려간다, 케이블부터 본다
 description: "평소에는 1Gbps로 연결되던 PC가 어느 날 100Mbps로 잡히거나 재부팅할 때마다 링크 속도가 달라질 수 있습니다. 이런 증상은 인터넷 회선보다 이더넷 자동 협상 과정에서 물리 신호 품질이 불안정할 때 자주 나타납니다."
 date: 2026-08-27
 updated: 2026-08-27
-category: "가이드"
+category: "IT"
 subcategory: "네트워크"
 tags:
   - "네트워크"

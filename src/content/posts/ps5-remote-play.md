@@ -4,7 +4,7 @@ draft: true
 description: "리모트 플레이는 PS5 화면을 휴대폰이나 PC로 받아 게임할 수 있는 기능입니다. 집에서는 잘 되는데 외부에서는 연결되지 않거나 화면이 자주 깨지는 경우가 많습니다."
 date: 2026-08-26
 updated: 2026-08-26
-category: "가이드"
+category: "게임"
 subcategory: "플스"
 tags:
   - "PS5"

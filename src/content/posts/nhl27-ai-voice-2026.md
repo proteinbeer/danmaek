@@ -2,6 +2,7 @@
 title: "NHL 27에 AI 음성이 들어갔다, EA가 직접 인정한 제작 방식의 변화"
 description: "EA가 NHL 27 일부 음성 제작 과정에 AI를 사용했다고 밝혔습니다."
 date: 2026-09-12T12:00:00
+draft: true
 updated: 2026-09-12T12:00:00
 category: "뉴스"
 subcategory: "게임"

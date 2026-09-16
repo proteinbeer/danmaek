@@ -3,7 +3,7 @@ title: "게임에서 키를 세 개만 눌러도 씹힌다면, 키보드 고스�
 description: "게임에서 앞으로 달리면서 대각선 이동과 점프를 동시에 눌렀는데 한 키가 먹지 않는다면 손이 느린 문제가 아닐 수 있습니다."
 date: 2026-08-21
 updated: 2026-08-21
-category: "가이드"
+category: "IT"
 subcategory: "주변기기"
 tags:
   - "키보드"

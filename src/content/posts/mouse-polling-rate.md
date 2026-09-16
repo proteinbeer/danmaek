@@ -3,7 +3,7 @@ title: "마우스 폴링레이트 8000Hz로 올렸는데, 게임이 더 끊기�
 description: "게이밍 마우스 설정에서 폴링레이트를 높이면 무조건 반응이 빨라진다고 생각하기 쉽습니다."
 date: 2026-08-23
 updated: 2026-08-23
-category: "가이드"
+category: "IT"
 subcategory: "주변기기"
 tags:
   - "마우스"

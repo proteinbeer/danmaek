@@ -4,7 +4,7 @@ draft: true
 description: "PS5 메뉴가 느려지거나 게임 아이콘이 이상하게 표시될 때 캐시 지우기와 데이터베이스 재구축이 자주 해결책으로 언급됩니다. 두 기능은 비슷해 보이지만 하는 일이 조금 다릅니다."
 date: 2026-08-30
 updated: 2026-08-30
-category: "가이드"
+category: "게임"
 subcategory: "플스"
 tags:
   - "PS5"

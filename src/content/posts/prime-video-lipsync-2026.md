@@ -2,6 +2,7 @@
 title: "더빙하면 배우 입모양도 바뀐다, 프라임 비디오가 AI를 쓴 이유"
 description: "아마존 프라임 비디오가 더빙 음성에 맞춰 배우의 입 움직임까지 바꾸는 새로운 립싱크 기술을 적용하기 시작했습니다."
 date: 2026-09-11T12:00:00
+draft: true
 updated: 2026-09-11T12:00:00
 category: "뉴스"
 subcategory: "IT"

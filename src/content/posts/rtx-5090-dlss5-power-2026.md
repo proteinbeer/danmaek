@@ -2,6 +2,7 @@
 title: "RTX 5090 DLSS 5 테스트 중 610W, 녹은 전원 단자는 무엇을 말하나"
 description: "RTX 5090에서 DLSS 5 테스트 중 전원 커넥터가 녹은 사례가 나왔습니다. 소비전력 610W 기록과 원인 해석, 고전력 GPU 시대의 전력 관리 중요성을 정리했습니다."
 date: 2026-09-10
+draft: true
 updated: 2026-09-10
 category: "뉴스"
 subcategory: "IT"

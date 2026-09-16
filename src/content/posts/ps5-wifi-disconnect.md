@@ -4,7 +4,7 @@ draft: true
 description: "PS5에서 게임 다운로드나 온라인 플레이 중 와이파이가 반복해서 끊기면 무조건 5GHz로 바꾸라는 조언이 많습니다. 하지만 신호 거리, 채널 간섭, 공유기 위치에 따라 오히려 2.4GHz가 안정적인 경우도 있습니다."
 date: 2026-08-23
 updated: 2026-08-23
-category: "가이드"
+category: "게임"
 subcategory: "플스"
 tags:
   - "PS5"

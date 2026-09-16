@@ -1,5 +1,5 @@
 ---
-import { COUPON_SUBCATEGORIES, GUIDE_SUBCATEGORIES, NEWS_SUBCATEGORIES, TOOL_SUBCATEGORIES } from '../consts';
+import { COUPON_SUBCATEGORIES, GAME_SUBCATEGORIES, IT_SUBCATEGORIES, TOOL_SUBCATEGORIES } from '../consts';
 import { getPostsByCategory } from '../lib/posts';
 
 const couponPostPathBySubcategory = new Map(
@@ -21,15 +21,15 @@ const couponPostPathBySubcategory = new Map(
       <nav class="footer-cats" aria-label="카테고리">
         <div class="footer-cats-row">
           <div class="footer-cat">
-            <a href="/news/">뉴스</a>
+            <a href="/it/">IT</a>
             <div class="footer-subcats">
-              {NEWS_SUBCATEGORIES.map((sub) => <a href={`/news/${sub.slug}/`}><span class="footer-subcat-label">{sub.name}</span></a>)}
+              {IT_SUBCATEGORIES.map((sub) => <a href={`/it/${sub.slug}/`}><span class="footer-subcat-label">{sub.name}</span></a>)}
             </div>
           </div>
           <div class="footer-cat">
-            <a href="/guides/">가이드</a>
+            <a href="/games/">게임</a>
             <div class="footer-subcats">
-              {GUIDE_SUBCATEGORIES.map((sub) => <a href={`/guides/${sub.slug}/`}><span class="footer-subcat-label">{sub.name}</span></a>)}
+              {GAME_SUBCATEGORIES.map((sub) => <a href={`/games/${sub.slug}/`}><span class="footer-subcat-label">{sub.name}</span></a>)}
             </div>
           </div>
           <div class="footer-cat">

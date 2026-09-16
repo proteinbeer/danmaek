@@ -4,7 +4,7 @@ draft: true
 description: "윈도우 11 저장 공간이 부족할 때 임시파일과 시스템 파일을 정리하고 디스크 공간을 확보하는 방법을 정리합니다."
 date: 2026-09-03
 updated: 2026-09-04
-category: "가이드"
+category: "IT"
 subcategory: "윈도우 11"
 tags:
   - "윈도우 11"

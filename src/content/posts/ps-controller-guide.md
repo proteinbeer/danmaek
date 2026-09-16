@@ -4,7 +4,7 @@ draft: true
 description: "플스 컨트롤러(듀얼센스/듀얼쇼크)가 연결이 안 되거나 페어링이 끊길 때, PC 연결, 배터리 문제까지 해결하는 방법을 정리합니다."
 date: 2026-09-01
 updated: 2026-09-04
-category: "가이드"
+category: "게임"
 subcategory: "플스"
 tags:
   - "플스"

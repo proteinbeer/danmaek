@@ -3,7 +3,7 @@ title: "윈도우 11 전원 모드, 성능과 배터리가 생각보다 크게 �
 description: "노트북이 갑자기 느려졌거나 배터리가 평소보다 빨리 줄어든다면 프로그램만 확인할 필요는 없습니다."
 date: 2026-08-25
 updated: 2026-08-25
-category: "가이드"
+category: "IT"
 subcategory: "윈도우 11"
 tags:
   - "윈도우 11"

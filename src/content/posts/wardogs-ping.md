@@ -4,7 +4,7 @@ draft: true
 description: "워독스는 100명이 세 팀으로 싸우는 FPS라 높은 핑이 단순 숫자로 끝나지 않습니다. 총격 반응과 차량 조작, 근거리 교전에서 지연이 체감되므로 프레임과 네트워크 지연을 따로 관리해야 합니다."
 date: 2026-09-10
 updated: 2026-09-10
-category: "가이드"
+category: "게임"
 subcategory: "워독스"
 tags:
   - "워독스"

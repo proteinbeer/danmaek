@@ -2,6 +2,7 @@
 title: "중국 AI칩 가격 최대 50% 올랐다, 엔비디아 대신 막힌 곳은 HBM이었다"
 description: "화웨이와 캠브리콘 등 중국 AI칩 업체들이 HBM 부족으로 제품 가격을 최대 50% 올렸습니다. GPU가 아니라 메모리가 병목이 된 배경과 AI 경쟁의 변화를 정리했습니다."
 date: 2026-09-10
+draft: true
 updated: 2026-09-10
 category: "뉴스"
 subcategory: "IT"

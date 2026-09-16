@@ -3,7 +3,7 @@ title: "CGNAT이면 포트포워딩이 안 된다, 공인 IP부터 확인한다"
 description: "포트포워딩을 아무리 정확히 설정해도 외부에서 접속이 전혀 안 되는 경우 통신사의 CGNAT를 확인할 필요가 있습니다. CGNAT는 여러 가입자가 하나의 공인 IPv4 주소를 공유하는 방식이라 집 공유기가 인터넷에서 직접 보이지 않습니다."
 date: 2026-08-23
 updated: 2026-08-23
-category: "가이드"
+category: "IT"
 subcategory: "네트워크"
 tags:
   - "네트워크"

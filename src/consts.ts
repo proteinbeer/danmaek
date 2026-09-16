@@ -8,27 +8,24 @@ export const SITE = {
 } as const;
 
 export const CATEGORIES = [
-  { name: '뉴스', slug: 'news', description: 'IT와 게임의 주요 이슈를 쉽게 풀어봅니다.', image: 'https://img.danmaek.com/src/assets/categories/knowledge.gif' },
-  { name: '가이드', slug: 'guides', description: '구매, 환불, 설정 같은 실생활에 바로 써먹는 방법을 정리합니다.', image: 'https://img.danmaek.com/src/assets/categories/tools.gif' },
+  { name: 'IT', slug: 'it', description: '윈도우, PC·하드웨어, 네트워크, 주변기기 등 실생활에 바로 써먹는 IT 방법을 정리합니다.', image: 'https://img.danmaek.com/src/assets/categories/tools.gif' },
+  { name: '게임', slug: 'games', description: '스팀, 콘솔, 모바일 게임의 공략과 설정을 쉽게 정리합니다.', image: 'https://img.danmaek.com/src/assets/categories/tools.gif' },
   { name: '쿠폰', slug: 'coupons', description: '모바일 게임 프로모 코드를 매일 정리해 공유합니다.', image: 'https://img.danmaek.com/src/assets/categories/tools.gif' },
   { name: '도구', slug: 'tools', description: '계산기, 변환기, 제너레이터 등 바로 쓸 수 있는 온라인 도구 모음입니다.', image: 'https://img.danmaek.com/src/assets/categories/tools.gif' }
 ] as const;
 
 export type Subcategory = { name: string; slug: string };
 
-export const NEWS_SUBCATEGORIES: Subcategory[] = [
-  { name: 'IT', slug: 'it' },
-  { name: '게임', slug: 'games' }
-];
-
-export const GUIDE_SUBCATEGORIES: Subcategory[] = [
-  { name: '스팀', slug: 'steam' },
+export const IT_SUBCATEGORIES: Subcategory[] = [
   { name: '윈도우 11', slug: 'windows-11' },
-  { name: '플스', slug: 'ps' },
   { name: 'PC·하드웨어', slug: 'pc-hardware' },
   { name: '네트워크', slug: 'network' },
-  { name: '주변기기', slug: 'peripherals' },
-  { name: '워드프레스', slug: 'wordpress' },
+  { name: '주변기기', slug: 'peripherals' }
+];
+
+export const GAME_SUBCATEGORIES: Subcategory[] = [
+  { name: '스팀', slug: 'steam' },
+  { name: '플스', slug: 'ps' },
   { name: '스위치', slug: 'switch' },
   { name: '메이플 키우기', slug: 'maple-raising' },
   { name: '랜덤 다이스 2', slug: 'random-dice-2' },
@@ -42,7 +39,8 @@ export const GUIDE_SUBCATEGORIES: Subcategory[] = [
   { name: '낚시 방법', slug: 'how-to-fish' },
   { name: '봄바나나', slug: 'bombanana' },
   { name: '모탈 셸 2', slug: 'mortal-shell-2' },
-  { name: '할로윈 더 게임', slug: 'halloween-the-game' }
+  { name: '할로윈 더 게임', slug: 'halloween-the-game' },
+  { name: '몬스터헌터 와일즈', slug: 'monster-hunter-wilds' }
 ];
 
 export const COUPON_SUBCATEGORIES: Subcategory[] = [
@@ -90,8 +88,8 @@ export const TOOL_SUBCATEGORIES: ToolSubcategory[] = [
 ];
 
 export const categoryToPath: Record<string, string> = {
-  뉴스: '/news/',
-  가이드: '/guides/',
+  IT: '/it/',
+  게임: '/games/',
   쿠폰: '/coupons/',
   도구: '/tools/'
 };

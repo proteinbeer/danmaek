@@ -1,18 +1,18 @@
 ---
-import { categoryToPath, NEWS_SUBCATEGORIES, GUIDE_SUBCATEGORIES, COUPON_SUBCATEGORIES } from '../consts';
+import { categoryToPath, IT_SUBCATEGORIES, GAME_SUBCATEGORIES, COUPON_SUBCATEGORIES } from '../consts';
 const { post } = Astro.props;
 const data = post.data;
 const label = data.subcategory || data.category;
 
 const SUB_SLUG_BY_CATEGORY: Record<string, Map<string, string>> = {
-  '뉴스': new Map(NEWS_SUBCATEGORIES.map((s) => [s.name, s.slug])),
-  '가이드': new Map(GUIDE_SUBCATEGORIES.map((s) => [s.name, s.slug])),
+  'IT': new Map(IT_SUBCATEGORIES.map((s) => [s.name, s.slug])),
+  '게임': new Map(GAME_SUBCATEGORIES.map((s) => [s.name, s.slug])),
   '쿠폰': new Map(COUPON_SUBCATEGORIES.map((s) => [s.name, s.slug]))
 };
 const subSlug = data.subcategory ? (SUB_SLUG_BY_CATEGORY[data.category]?.get(data.subcategory) ?? '') : '';
 const link = subSlug
-  ? `${categoryToPath[data.category] ?? '/news/'}${subSlug}/`
-  : (data.category === '뉴스' ? '/news/' : categoryToPath[data.category]);
+  ? `${categoryToPath[data.category] ?? '/'}${subSlug}/`
+  : (data.category === '뉴스' ? '/news/' : categoryToPath[data.category] ?? '/');
 const todayLabel = new Date().toDateString();
 const yesterday = new Date();
 yesterday.setDate(yesterday.getDate() - 1);

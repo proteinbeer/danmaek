@@ -4,7 +4,7 @@ draft: true
 description: "스팀 가족 공유(Family Sharing) 기능으로 내 라이브러리의 게임을 가족과 함께 쓰는 설정 방법과 주의할 점을 정리합니다."
 date: 2026-09-03
 updated: 2026-09-03
-category: "가이드"
+category: "게임"
 subcategory: "스팀"
 tags:
   - "스팀"

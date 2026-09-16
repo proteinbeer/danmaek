@@ -3,7 +3,7 @@ title: "윈도우 11 HDR 설정, 켰는데 화면이 이상해지는 이유부�
 description: "HDR 모니터를 샀는데 윈도우에서 기능을 켜자 바탕화면이 회색처럼 뜨거나 색이 이상해졌다고 느끼는 경우가 있습니다."
 date: 2026-08-26
 updated: 2026-08-26
-category: "가이드"
+category: "IT"
 subcategory: "윈도우 11"
 tags:
   - "윈도우 11"
