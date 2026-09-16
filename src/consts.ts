@@ -2,7 +2,7 @@ export const SITE = {
   name: '단맥',
   url: 'https://danmaek.com',
   title: '단맥',
-  description: 'IT, 게임, 쿠폰',
+  description: 'IT, 게임',
   locale: 'ko_KR',
   lang: 'ko-KR'
 } as const;

@@ -1,5 +1,5 @@
 ---
-import { COUPON_SUBCATEGORIES, GAME_SUBCATEGORIES, IT_SUBCATEGORIES } from '../consts';
+import { GAME_SUBCATEGORIES, IT_SUBCATEGORIES } from '../consts';
 
 const path = Astro.url.pathname;
 ---
@@ -24,14 +24,6 @@ const path = Astro.url.pathname;
         <div class="nav-dropdown">
           {GAME_SUBCATEGORIES.map((sub) => (
             <a href={`/games/${sub.slug}/`} aria-current={path.startsWith(`/games/${sub.slug}/`) ? 'page' : undefined}>{sub.name}</a>
-          ))}
-        </div>
-      </div>
-      <div class="nav-item">
-        <a href="/coupons/" aria-current={path.startsWith('/coupons/') ? 'page' : undefined} class="nav-item__link">쿠폰</a>
-        <div class="nav-dropdown">
-          {COUPON_SUBCATEGORIES.map((sub) => (
-            <a href={`/coupons/${sub.slug}/`} aria-current={path.startsWith(`/coupons/${sub.slug}/`) ? 'page' : undefined}>{sub.name}</a>
           ))}
         </div>
       </div>

@@ -21,7 +21,7 @@ const canonical = new URL(`/coupons/${sub.slug}/`, SITE.url).toString();
 ---
 <BaseLayout title={`${title} | ${SITE.name}`} description={`${sub.name} 관련 쿠폰 모음입니다.`} canonical={canonical}>
   <Fragment slot="head">
-    {isThin && <meta name="robots" content="noindex, follow" />}
+    <meta name="robots" content="noindex, follow" />
   </Fragment>
   <main class="container">
     <div class="adfit-banner">

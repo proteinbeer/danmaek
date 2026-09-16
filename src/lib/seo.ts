@@ -12,7 +12,7 @@ const stablePages = [
 ] as const;
 
 const categoryPages = CATEGORIES
-  .filter((category) => category.slug !== 'tools')
+  .filter((category) => category.slug !== 'tools' && category.slug !== 'coupons')
   .map((category) => `/${category.slug}/`);
 
 export const absoluteUrl = (pathname: string) => new URL(pathname, SITE.url).toString();

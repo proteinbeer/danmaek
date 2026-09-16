@@ -5,11 +5,9 @@ import { getPostsByCategory } from '../lib/posts';
 
 const itPosts = getPostsByCategory('IT');
 const gamePosts = getPostsByCategory('게임');
-const couponPosts = getPostsByCategory('쿠폰');
 const byDateDesc = (a: { data: { date: Date } }, b: { data: { date: Date } }) => b.data.date.getTime() - a.data.date.getTime();
 const sortedItPosts = [...itPosts].sort(byDateDesc);
 const sortedGamePosts = [...gamePosts].sort(byDateDesc);
-const sortedCouponPosts = couponPosts.sort(byDateDesc);
 const todayStr = new Date().toISOString().slice(0, 10);
 const yesterdayDate = new Date();
 yesterdayDate.setDate(yesterdayDate.getDate() - 1);
@@ -65,29 +63,6 @@ const yesterdayStr = yesterdayDate.toISOString().slice(0, 10);
         </button>
         <span class="pager__status" id="guide-pager-status"></span>
         <button type="button" class="pager__arrow" id="guide-pager-next" aria-label="다음 페이지" disabled>
-          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 18l6-6-6-6"/></svg>
-        </button>
-      </nav>
-    </section>
-
-    <section class="container" aria-labelledby="coupons-title" id="coupon-section">
-      <div class="section-head">
-        <div>
-          <h2 id="coupons-title">단 쿠폰</h2>
-        </div>
-        <div class="section-head__controls">
-          <input id="home-coupon-search" class="home-search-input" type="search" placeholder="검색" aria-label="쿠폰 검색" autocomplete="off" />
-        </div>
-      </div>
-      <div class="grid js-page-grid" id="coupon-grid">
-        {sortedCouponPosts.map((post) => <PostCard post={post} />)}
-      </div>
-      <nav class="pager" id="coupon-pager" aria-label="쿠폰 페이지 네비게이션" hidden>
-        <button type="button" class="pager__arrow" id="coupon-pager-prev" aria-label="이전 쿠폰 페이지" disabled>
-          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 18l-6-6 6-6"/></svg>
-        </button>
-        <span class="pager__status" id="coupon-pager-status"></span>
-        <button type="button" class="pager__arrow" id="coupon-pager-next" aria-label="다음 쿠폰 페이지" disabled>
           <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 18l6-6-6-6"/></svg>
         </button>
       </nav>
@@ -223,54 +198,7 @@ const yesterdayStr = yesterdayDate.toISOString().slice(0, 10);
     guideNextButton?.addEventListener('click', () => goToGuidePage(guideCurrent + 1));
     guideSearch?.addEventListener('input', filterGuides);
 
-    const couponSearch = document.getElementById('home-coupon-search') as HTMLInputElement;
-    const couponGrid = document.getElementById('coupon-grid') as HTMLElement;
-    const couponPager = document.getElementById('coupon-pager') as HTMLElement;
-    const couponPrevButton = document.getElementById('coupon-pager-prev') as HTMLButtonElement;
-    const couponNextButton = document.getElementById('coupon-pager-next') as HTMLButtonElement;
-    const couponStatus = document.getElementById('coupon-pager-status') as HTMLElement;
-    const COUPON_PAGE_SIZE = 6;
-    const allCouponCards = Array.from(couponGrid?.children ?? []) as HTMLElement[];
-    let filteredCouponCards = [...allCouponCards];
-    let couponTotalPages = Math.ceil(filteredCouponCards.length / COUPON_PAGE_SIZE);
-    let couponCurrent = 0;
-
-    function renderCoupons() {
-      const start = couponCurrent * COUPON_PAGE_SIZE;
-      const pageCards = filteredCouponCards.slice(start, start + COUPON_PAGE_SIZE);
-      couponGrid.innerHTML = '';
-      pageCards.forEach((card) => { card.style.display = ''; couponGrid.appendChild(card); });
-      for (let i = pageCards.length; i < COUPON_PAGE_SIZE; i++) couponGrid.appendChild(makePlaceholder());
-      couponStatus.innerHTML = `<b>${couponCurrent + 1}</b> / ${couponTotalPages}`;
-      couponPrevButton.disabled = couponCurrent === 0;
-      couponNextButton.disabled = couponCurrent >= couponTotalPages - 1;
-      couponPager.hidden = couponTotalPages <= 1 && filteredCouponCards.length <= COUPON_PAGE_SIZE;
-      preloadAdjacent(filteredCouponCards, couponCurrent, couponTotalPages, COUPON_PAGE_SIZE);
-    }
-
-    function goToCouponPage(page: number) {
-      if (page < 0 || page > couponTotalPages - 1 || page === couponCurrent) return;
-      couponCurrent = page;
-      renderCoupons();
-    }
-
-    function filterCoupons() {
-      const q = (couponSearch?.value || '').trim().toLowerCase();
-      filteredCouponCards = allCouponCards.filter((card) => {
-        if (q && !card.textContent?.toLowerCase().includes(q)) return false;
-        return true;
-      });
-      couponTotalPages = Math.ceil(filteredCouponCards.length / COUPON_PAGE_SIZE) || 1;
-      couponCurrent = 0;
-      renderCoupons();
-    }
-
-    couponPrevButton?.addEventListener('click', () => goToCouponPage(couponCurrent - 1));
-    couponNextButton?.addEventListener('click', () => goToCouponPage(couponCurrent + 1));
-    couponSearch?.addEventListener('input', filterCoupons);
-
     renderPosts();
     renderGuides();
-    renderCoupons();
   </script>
 </BaseLayout>

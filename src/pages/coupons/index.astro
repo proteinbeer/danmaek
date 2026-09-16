@@ -9,6 +9,9 @@ const posts = getPostsByCategory('쿠폰');
 const subcats = [...COUPON_SUBCATEGORIES];
 ---
 <BaseLayout title={`쿠폰 | ${SITE.name}`} description={category.description} canonical={new URL('/coupons/', SITE.url).toString()}>
+  <Fragment slot="head">
+    <meta name="robots" content="noindex, follow" />
+  </Fragment>
   <main class="container">
     <div class="adfit-banner">
       <ins class="kakao_ad_area" style="display:none;"
