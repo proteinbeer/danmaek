@@ -2467,6 +2467,13 @@ border: 2px solid #fff;
 .home-page .tool-coupang {
   margin-bottom: 8px;
 }
+.home-more {
+  margin: 22px 0 0;
+  text-align: center;
+}
+.home-more .button-link {
+  min-width: 160px;
+}
 body:has(.home-page) .site-footer {
   margin-top: 12px;
 }
@@ -2685,10 +2692,11 @@ border-radius: 8px;
   align-items: start;
 }
 .footer-links {
-  display: grid;
-  gap: 8px;
-  justify-items: start;
-  text-align: left;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px 26px;
+  justify-content: center;
+  align-items: center;
 }
 .footer-cats a,
 .footer-links a {
