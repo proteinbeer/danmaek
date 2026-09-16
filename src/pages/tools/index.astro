@@ -13,6 +13,9 @@ toolSubs.forEach((sub) => sub.categories.forEach((c) => {
 }));
 ---
 <BaseLayout title={`도구 | ${SITE.name}`} description={category.description} canonical={new URL('/tools/', SITE.url).toString()}>
+  <Fragment slot="head">
+    <meta name="robots" content="noindex, follow" />
+  </Fragment>
   <main class="container">
     <div class="adfit-banner">
       <ins class="kakao_ad_area" style="display:none;"

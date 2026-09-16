@@ -2,15 +2,10 @@
 import BaseLayout from '../components/BaseLayout.astro';
 import PostCard from '../components/PostCard.astro';
 import { getPostsByCategory } from '../lib/posts';
-import { TOOL_SUBCATEGORIES } from '../consts';
-import { TOOLS } from '../lib/tools';
 
 const itPosts = getPostsByCategory('IT');
 const gamePosts = getPostsByCategory('게임');
 const couponPosts = getPostsByCategory('쿠폰');
-const toolSubcats = [...TOOL_SUBCATEGORIES];
-const toolSubByCategory = new Map<string, string>();
-toolSubcats.forEach((sub) => sub.categories.forEach((c) => toolSubByCategory.set(c, sub.name)));
 const byDateDesc = (a: { data: { date: Date } }, b: { data: { date: Date } }) => b.data.date.getTime() - a.data.date.getTime();
 const sortedItPosts = [...itPosts].sort(byDateDesc);
 const sortedGamePosts = [...gamePosts].sort(byDateDesc);
@@ -98,56 +93,18 @@ const yesterdayStr = yesterdayDate.toISOString().slice(0, 10);
       </nav>
     </section>
 
-    <section class="container" aria-labelledby="tools-title" id="tool-section">
-      <div class="section-head">
-        <div>
-          <h2 id="tools-title">단 도구</h2>
-        </div>
-        <div class="section-head__controls">
-          <div class="sub-drop" id="tool-sub-drop">
-            <button type="button" class="sub-filter" id="tool-sub-trigger" aria-haspopup="listbox" aria-expanded="false">전체</button>
-            <div class="sub-dropdown" role="listbox" id="tool-sub-list">
-              <button type="button" class="sub-dropdown-item" data-value="" role="option">전체</button>
-              {toolSubcats.map((sub) => <button type="button" class="sub-dropdown-item" data-value={sub.name} role="option">{sub.name}</button>)}
-            </div>
-          </div>
-          <input id="home-tool-search" class="home-search-input" type="search" placeholder="검색" aria-label="도구 검색" autocomplete="off" />
-        </div>
-      </div>
-      <div class="tool-grid js-page-grid" id="tool-grid">
-        {[...TOOLS].reverse().map((tool) => (
-          <a class="tool-card" href={`/tools/${tool.slug}/`} data-subcategory={toolSubByCategory.get(tool.category) ?? ''}>
-            {tool.created === todayStr && <span class="new-badge new-badge--tool"><span class="new-badge__text">NEW</span></span>}
-            {tool.created === yesterdayStr && <span class="new-badge new-badge--tool new-badge--yesterday"><span class="new-badge__text">NEW</span></span>}
-            <i aria-hidden="true">{tool.icon}</i>
-            <span>{tool.category}</span>
-            <strong>{tool.title}</strong>
-            <p>{tool.description}</p>
-          </a>
-        ))}
-      </div>
-      <nav class="pager" id="tool-pager" aria-label="툴 페이지 네비게이션" hidden>
-        <button type="button" class="pager__arrow" id="tool-pager-prev" aria-label="이전 툴 페이지" disabled>
-          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 18l-6-6 6-6"/></svg>
-        </button>
-        <span class="pager__status" id="tool-pager-status"></span>
-        <button type="button" class="pager__arrow" id="tool-pager-next" aria-label="다음 툴 페이지" disabled>
-          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 18l6-6-6-6"/></svg>
-        </button>
-      </nav>
-      <div class="tool-coupang tool-coupang--sm">
+    <div class="tool-coupang tool-coupang--sm">
 <script is:inline src="https://ads-partners.coupang.com/g.js"></script>
 <script is:inline>
 	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
 </script>
-      </div>
-      <div class="tool-coupang tool-coupang--lg">
+    </div>
+    <div class="tool-coupang tool-coupang--lg">
 <script is:inline src="https://ads-partners.coupang.com/g.js"></script>
 <script is:inline>
 	new PartnersCoupang.G({"id":1021235,"trackingCode":"AF7638395","subId":null,"template":"carousel","width":"662","height":"140"});
 </script>
-      </div>
-    </section>
+    </div>
 
   </main>
   <script>
@@ -205,83 +162,7 @@ const yesterdayStr = yesterdayDate.toISOString().slice(0, 10);
     prevButton?.addEventListener('click', () => goTo(current - 1));
     nextButton?.addEventListener('click', () => goTo(current + 1));
 
-    const TOOL_PAGE_SIZE = 6;
-    const toolGrid = document.getElementById('tool-grid') as HTMLElement;
-    const toolPager = document.getElementById('tool-pager') as HTMLElement;
-    const toolPrevButton = document.getElementById('tool-pager-prev') as HTMLButtonElement;
-    const toolNextButton = document.getElementById('tool-pager-next') as HTMLButtonElement;
-    const toolStatus = document.getElementById('tool-pager-status') as HTMLElement;
-    const allToolCards = Array.from(toolGrid?.children ?? []) as HTMLElement[];
-    let filteredToolCards = [...allToolCards];
-    let toolTotalPages = Math.ceil(filteredToolCards.length / TOOL_PAGE_SIZE);
-    let toolCurrent = 0;
-
-    function makeToolPlaceholder() {
-      const div = document.createElement('div');
-      div.className = 'tool-card tool-card--placeholder';
-      div.setAttribute('aria-hidden', 'true');
-      div.innerHTML = '<i aria-hidden="true">&nbsp;</i><span>&nbsp;</span><strong>&nbsp;</strong><p>&nbsp;</p>';
-      return div;
-    }
-
-    function renderTools() {
-      const start = toolCurrent * TOOL_PAGE_SIZE;
-      const pageCards = filteredToolCards.slice(start, start + TOOL_PAGE_SIZE);
-      toolGrid.innerHTML = '';
-      pageCards.forEach((card) => { card.style.display = ''; toolGrid.appendChild(card); });
-      for (let i = pageCards.length; i < TOOL_PAGE_SIZE; i++) toolGrid.appendChild(makeToolPlaceholder());
-      toolStatus.innerHTML = `<b>${toolCurrent + 1}</b> / ${toolTotalPages}`;
-      toolPrevButton.disabled = toolCurrent === 0;
-      toolNextButton.disabled = toolCurrent >= toolTotalPages - 1;
-      toolPager.hidden = toolTotalPages <= 1 && filteredToolCards.length <= TOOL_PAGE_SIZE;
-      preloadAdjacent(filteredToolCards, toolCurrent, toolTotalPages, TOOL_PAGE_SIZE);
-    }
-
-    function goToToolPage(page: number) {
-      if (page < 0 || page > toolTotalPages - 1 || page === toolCurrent) return;
-      toolCurrent = page;
-      renderTools();
-    }
-
-    toolPrevButton?.addEventListener('click', () => goToToolPage(toolCurrent - 1));
-    toolNextButton?.addEventListener('click', () => goToToolPage(toolCurrent + 1));
-
     const homeSearch = document.getElementById('home-search') as HTMLInputElement;
-    const homeToolSearch = document.getElementById('home-tool-search') as HTMLInputElement;
-
-    function setupSubDrop(drop: HTMLElement, onChange: (value: string) => void) {
-      const trigger = drop.querySelector('.sub-filter') as HTMLButtonElement;
-      const list = drop.querySelector('.sub-dropdown') as HTMLElement;
-      const items = Array.from(drop.querySelectorAll('.sub-dropdown-item')) as HTMLButtonElement[];
-      let value = '';
-      const clampList = () => {
-        const r = list.getBoundingClientRect();
-        const vw = document.documentElement.clientWidth;
-        const dx = Math.max(8 - r.left, Math.min(0, vw - 8 - r.right));
-        if (dx === 0) { list.style.left = ''; return; }
-        list.style.left = `${dx}px`;
-      };
-      const open = () => { list.classList.add('open'); trigger.setAttribute('aria-expanded', 'true'); clampList(); };
-      const close = () => { list.classList.remove('open'); trigger.setAttribute('aria-expanded', 'false'); list.style.left = ''; };
-      trigger.addEventListener('click', (e) => {
-        e.stopPropagation();
-        list.classList.contains('open') ? close() : open();
-      });
-      items.forEach((item) => {
-        item.addEventListener('click', (e) => {
-          e.stopPropagation();
-          value = item.dataset.value || '';
-          trigger.textContent = item.textContent || '전체';
-          items.forEach((it) => it.classList.toggle('active', it === item));
-          close();
-          onChange(value);
-        });
-      });
-      document.addEventListener('click', (e) => {
-        if (!drop.contains(e.target as Node)) close();
-      });
-      return { close, getValue: () => value };
-    }
 
     function filterPosts() {
       const q = (homeSearch?.value || '').trim().toLowerCase();
@@ -294,23 +175,7 @@ const yesterdayStr = yesterdayDate.toISOString().slice(0, 10);
       renderPosts();
     }
 
-    function filterTools() {
-      const q = (homeToolSearch?.value || '').trim().toLowerCase();
-      const sub = toolSub.getValue();
-      filteredToolCards = allToolCards.filter((card) => {
-        if (sub && card.dataset.subcategory !== sub) return false;
-        if (q && !card.textContent?.toLowerCase().includes(q)) return false;
-        return true;
-      });
-      toolTotalPages = Math.ceil(filteredToolCards.length / TOOL_PAGE_SIZE) || 1;
-      toolCurrent = 0;
-      renderTools();
-    }
-
     homeSearch?.addEventListener('input', filterPosts);
-    homeToolSearch?.addEventListener('input', filterTools);
-    const toolSubDrop = document.getElementById('tool-sub-drop') as HTMLElement;
-    const toolSub = setupSubDrop(toolSubDrop, () => filterTools());
 
     const guideSearch = document.getElementById('home-guide-search') as HTMLInputElement;
     const guideGrid = document.getElementById('guide-grid') as HTMLElement;
@@ -405,7 +270,6 @@ const yesterdayStr = yesterdayDate.toISOString().slice(0, 10);
     couponSearch?.addEventListener('input', filterCoupons);
 
     renderPosts();
-    renderTools();
     renderGuides();
     renderCoupons();
   </script>

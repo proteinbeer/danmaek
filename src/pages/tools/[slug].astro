@@ -46,6 +46,9 @@ const relatedTools = !isSub
 ---
 
 <BaseLayout title={pageTitle} description={pageDescription} canonical={canonicalUrl}>
+  <Fragment slot="head">
+    <meta name="robots" content="noindex, follow" />
+  </Fragment>
   {isSub ? (
     <>
       <main class="container">

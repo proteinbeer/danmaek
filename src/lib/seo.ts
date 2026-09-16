@@ -1,6 +1,5 @@
 import { CATEGORIES, SITE } from '../consts';
 import { getPosts } from './posts';
-import { TOOLS } from './tools';
 
 export type SitemapEntry = {
   url: string;
@@ -13,8 +12,8 @@ const stablePages = [
 ] as const;
 
 const categoryPages = CATEGORIES
+  .filter((category) => category.slug !== 'tools')
   .map((category) => `/${category.slug}/`);
-const toolPages = ['/tools/', ...TOOLS.map((tool) => `/tools/${tool.slug}/`)];
 
 export const absoluteUrl = (pathname: string) => new URL(pathname, SITE.url).toString();
 
@@ -25,7 +24,6 @@ export const getSitemapEntries = (): SitemapEntry[] => {
     { url: absoluteUrl('/'), lastmod: latestPostDate },
     ...stablePages.map((page) => ({ url: absoluteUrl(page) })),
     ...categoryPages.map((page) => ({ url: absoluteUrl(page), lastmod: latestPostDate })),
-    ...toolPages.map((page) => ({ url: absoluteUrl(page) })),
     ...posts.map((post) => ({
       url: absoluteUrl(`/posts/${post.id}/`),
       lastmod: post.data.updated ?? post.data.date

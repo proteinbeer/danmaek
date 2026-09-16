@@ -2,7 +2,6 @@
 import BaseLayout from '../../components/BaseLayout.astro';
 import { SITE } from '../../consts';
 import { getPosts } from '../../lib/posts';
-import { TOOLS } from '../../lib/tools';
 
 const posts = getPosts().map((post) => ({
   title: post.data.title,
@@ -15,16 +14,8 @@ const posts = getPosts().map((post) => ({
   dateTime: post.data.date.toISOString(),
   url: `/posts/${post.id}/`
 }));
-
-const tools = TOOLS.map((tool) => ({
-  title: tool.title,
-  description: tool.description,
-  category: tool.category,
-  icon: tool.icon,
-  url: `/tools/${tool.slug}/`
-}));
 ---
-<BaseLayout title={`검색 | ${SITE.name}`} description="단맥 글과 도구를 검색합니다.">
+<BaseLayout title={`검색 | ${SITE.name}`} description="단맥 글을 검색합니다.">
   <Fragment slot="head">
     <meta name="robots" content="noindex, follow" />
   </Fragment>
@@ -56,14 +47,13 @@ const tools = TOOLS.map((tool) => ({
 </script>
     </div>
   </main>
-  <script is:inline define:vars={{ posts, tools }}>
+  <script is:inline define:vars={{ posts }}>
     const input = document.getElementById('search-input');
     const results = document.getElementById('search-results');
     function render(query = '') {
       const q = query.trim().toLowerCase();
       if (!q) { results.innerHTML = ''; return; }
       const matchedPosts = posts.filter((post) => [post.title, post.description, post.category, post.tags.join(' ')].join(' ').toLowerCase().includes(q));
-      const matchedTools = tools.filter((tool) => [tool.title, tool.description, tool.category].join(' ').toLowerCase().includes(q));
       let html = '';
       if (matchedPosts.length) {
         html += '<p class="search-section-label">글</p>';
@@ -73,17 +63,6 @@ const tools = TOOLS.map((tool) => ({
             '<span class="search-result__body">' +
               '<strong>' + post.title + '</strong>' +
               '<time datetime="' + post.dateTime + '">' + post.date + '</time>' +
-            '</span>' +
-          '</a>'
-        ).join('');
-      }
-      if (matchedTools.length) {
-        html += '<p class="search-section-label">도구</p>';
-        html += matchedTools.map((tool) =>
-          '<a class="search-result" href="' + tool.url + '">' +
-            '<span class="search-result__body" style="grid-column:1/-1;">' +
-              '<strong>' + tool.icon + ' ' + tool.title + '</strong>' +
-              '<span style="color:var(--muted); font-size:.9rem;">' + tool.description + '</span>' +
             '</span>' +
           '</a>'
         ).join('');
