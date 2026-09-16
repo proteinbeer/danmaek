@@ -18,6 +18,7 @@ imageWidth: 686
 imageHeight: 386
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 프라그마타 최종 보스는 그동안 익힌 해킹, 회피, 공격 유닛, 자원 관리가 모두 한꺼번에 시험되는 전투입니다. 여러 페이즈와 높은 매트릭스 압박 때문에 장비가 좋아도 기본 루프가 흔들리면 쉽게 밀릴 수 있습니다.

@@ -18,6 +18,7 @@ imageWidth: 616
 imageHeight: 353
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 할로윈 더 게임에서 마이클 마이어스가 느리게 걷다가 갑자기 다른 곳에서 나타나는 핵심에는 셰이프 점프가 있습니다. 마이클은 전력 질주로 추격하는 대신 어둠과 시야를 이용해 모습을 감추고, 훨씬 빠르게 위치를 바꾸는 방식으로 압박합니다.

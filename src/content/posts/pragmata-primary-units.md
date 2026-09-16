@@ -18,6 +18,7 @@ imageWidth: 686
 imageHeight: 386
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 프라그마타의 주무기는 일반 전투에서 가장 오래 손에 쥐는 장비입니다. 기본 그립 건은 안정적이고, 이후 얻는 펄스 카빈은 빠른 연사 감각이 있어 어느 쪽이 더 좋은지 고민하기 쉽습니다.

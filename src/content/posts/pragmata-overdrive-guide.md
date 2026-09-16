@@ -18,6 +18,7 @@ imageWidth: 686
 imageHeight: 386
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 프라그마타의 오버드라이브는 다이애나의 해킹을 한 단계 위로 끌어올리는 강력한 수단입니다. 일반 적 하나를 잡는 데 습관처럼 쓰기보다, 복잡한 해킹과 강한 적이 겹치는 순간에 사용해야 체감 가치가 큽니다.

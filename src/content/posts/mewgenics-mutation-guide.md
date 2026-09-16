@@ -18,6 +18,7 @@ imageWidth: 616
 imageHeight: 353
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 뮤제닉스에서 고양이를 키울 때 가장 영향을 많이 주는 요소 중 하나가 돌연변이입니다. 돌연변이는 신체 부위에 나타나는 영구적인 변형으로, 능력치를 올리거나 내리는 대가를 담고 있습니다. 단순히 귀엽게 보이는 기능이 아니라 혈통 전체의 강도를 결정하는 핵심 시스템이죠.

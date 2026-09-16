@@ -18,6 +18,7 @@ imageWidth: 686
 imageHeight: 386
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 유닛 프린터는 프라그마타에서 발견한 장비를 실제 빌드로 바꾸는 설비입니다. 필드에서 무기나 청사진을 한 번 주웠다고 해서 모든 것이 자동으로 영구 장비가 되는 것이 아니라, 쉴터에서 프린트하고 강화해야 다음 출격에서도 안정적으로 활용할 수 있습니다.

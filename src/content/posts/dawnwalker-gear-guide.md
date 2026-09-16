@@ -18,6 +18,7 @@ imageWidth: 616
 imageHeight: 353
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 더 블러드 오브 던워커의 장비는 양날의 검입니다. 시간 제한이 다급하다고 장비를 건너뛰기 쉬운데, 정작 탐험과 약탈, 쇼핑은 시간을 전혀 쓰지 않는 무료 영역이라 초반 장비 하나를 확보하는 일이 예산을 깎지 않습니다. 즉 장비는 시간 대비 효율이 가장 좋은 강화 수단입니다.

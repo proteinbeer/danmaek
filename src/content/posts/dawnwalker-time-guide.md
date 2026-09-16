@@ -18,6 +18,7 @@ imageWidth: 616
 imageHeight: 353
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 더 블러드 오브 던워커의 핵심은 보스가 아니라 달력입니다. 코엔에게는 여동생을 찾을 30일, 즉 총 480시간 단위의 예산이 주어지고, 하루는 낮 단계와 밤 단계로 나뉩니다. 이 예산을 어떻게 쓰느냐에 따라 같은 게임이라도 보는 콘텐츠가 완전히 달라집니다.

@@ -18,6 +18,7 @@ imageWidth: 686
 imageHeight: 386
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 프라그마타에서 100퍼센트 완료를 노리면 단순히 보이는 상자를 전부 여는 것만으로는 부족합니다. 안전 상자, 순수 루넘, REM, 모드, 저장 확장 장치, 카트리지 홀더, 훈련 데이터처럼 진행률에 직접 연결되는 수집 요소가 여러 종류로 나뉘어 있습니다.

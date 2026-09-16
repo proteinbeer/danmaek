@@ -17,6 +17,7 @@ imageWidth: 1280
 imageHeight: 720
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 랜덤 다이스 2 협동전에서 중상위권 딜러로 가장 많이 보이는 조합이 포식 성장형입니다. 포식 주사위가 몬스터를 처치할수록 스택을 쌓아 화력이 곱연산으로 늘어나는 구조라, 후반에 보스를 한 방에 정리하는 원콤을 노릴 수 있는 유일한 축이라고 볼 수 있죠.

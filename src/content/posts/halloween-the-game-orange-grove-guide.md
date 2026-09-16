@@ -18,6 +18,7 @@ imageWidth: 616
 imageHeight: 353
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 오렌지 그로브 에스테이츠는 넓은 다층 주택과 분리된 차고, 발코니, 놀이터, 넓은 도로가 섞인 고급 주거 지역입니다. 원작의 도일 하우스와 월리스 하우스도 포함되어 있어 영화 팬에게 익숙한 공간을 직접 돌아다닐 수 있습니다.

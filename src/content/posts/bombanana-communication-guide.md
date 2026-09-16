@@ -18,6 +18,7 @@ imageWidth: 460
 imageHeight: 215
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 봄바나나에서 퍼즐을 많이 외우는 것보다 먼저 해야 할 일이 있습니다. 세 명이 같은 단어를 같은 뜻으로 쓰도록 만드는 것입니다. 이 게임은 정보가 세 역할에 나뉘어 있기 때문에, 말 한마디가 다르게 해석되면 정답을 알고도 폭발할 수 있습니다.

@@ -17,6 +17,7 @@ imageWidth: 1280
 imageHeight: 720
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 랜덤 다이스 2에서 초반 덱을 잘못 잡으면 3～4웨이브부터 손이 꼬이기 쉽습니다. 공격 주사위만 많이 넣으면 보드가 막히고 합성 타이밍이 어긋나면서 딜이 뚝 떨어지죠. 그때 안정적으로 길을 잡아준 조합 중 하나가 전기덱입니다.

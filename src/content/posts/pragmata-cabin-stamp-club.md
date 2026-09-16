@@ -18,6 +18,7 @@ imageWidth: 686
 imageHeight: 386
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 캐빈 스탬프 클럽은 프라그마타 쉴터에서 진행하는 빙고형 보조 성장 시스템입니다. 처음에는 장난스러운 미니게임처럼 보이지만 해킹 노드, 모드, 레드 게이트 키, 카트리지 홀더, 장비 설계도까지 중요한 보상이 섞여 있어 무시하기 아깝습니다.

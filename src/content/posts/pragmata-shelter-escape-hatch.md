@@ -18,6 +18,7 @@ imageWidth: 686
 imageHeight: 386
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 프라그마타의 쉴터는 단순한 안전 지대가 아니라 성장과 장비 변경, 빠른 이동의 중심입니다. 구역에서 탈출 해치를 활성화하면 쉴터의 트램 터미널과 연결되어 다시 돌아갈 수 있어 탐색과 성장 루프가 완성됩니다.

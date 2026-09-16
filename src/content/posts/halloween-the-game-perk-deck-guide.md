@@ -18,6 +18,7 @@ imageWidth: 616
 imageHeight: 353
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 할로윈 더 게임의 민간인은 단순 레벨업 외에 특전 카드와 특전 덱을 이용해 플레이 성향을 바꿀 수 있습니다. 매치를 완료하면 특전 포인트를 얻고, 이 포인트를 사용해 카드를 뽑은 뒤 자신이 원하는 덱을 구성하는 방식입니다.

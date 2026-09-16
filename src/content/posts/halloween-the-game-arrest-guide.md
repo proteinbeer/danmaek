@@ -18,6 +18,7 @@ imageWidth: 616
 imageHeight: 353
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 할로윈 더 게임에서 마이클 마이어스는 일반적인 방식으로 완전히 죽일 수 없는 존재로 설정되어 있습니다. 그렇다고 민간인이 끝까지 도망만 다녀야 하는 것은 아니며, 주민과 경찰의 저항을 충분히 키우면 마이클을 제압해 스미스 그로브 정신병원으로 돌려보내는 체포 흐름을 만들 수 있습니다.

@@ -18,6 +18,7 @@ imageWidth: 460
 imageHeight: 215
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 귀머거리 원숭이는 봄바나나에서 가장 많은 정보를 동시에 보는 역할입니다. 폭탄을 직접 볼 수 있고 벙어리 원숭이의 손짓도 확인할 수 있지만, 다른 사람의 목소리는 들을 수 없습니다. 대신 말은 할 수 있어 장님 원숭이에게 최종 지시를 전달합니다.

@@ -18,6 +18,7 @@ imageWidth: 460
 imageHeight: 215
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 봄바나나 정식판은 폭탄 퍼즐만 어려워지는 게임이 아닙니다. 정전, 시야를 가리는 물체, 큰 소음 같은 환경 방해가 발생해 세 역할의 통신 자체를 흔듭니다. 익숙한 퍼즐도 환경이 바뀌면 갑자기 어렵게 느껴지는 이유입니다.

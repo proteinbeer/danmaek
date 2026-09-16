@@ -18,6 +18,7 @@ imageWidth: 686
 imageHeight: 386
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 가든 키퍼는 크고 느린 보스보다 빠른 반응과 거리 유지가 중요한 상대입니다. 움직임이 크고 공격 템포가 빨라서 해킹 화면에 오래 집중하면 휴가 순식간에 위험해질 수 있습니다.

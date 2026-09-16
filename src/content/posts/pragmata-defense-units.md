@@ -18,6 +18,7 @@ imageWidth: 686
 imageHeight: 386
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 프라그마타의 방어 유닛은 단순히 피해를 줄이는 장비가 아닙니다. 휴가 적 공격을 피하면서 다이애나 해킹에 집중할 시간을 만들고, 복잡한 전투에서 시선을 분산시키는 역할을 합니다.

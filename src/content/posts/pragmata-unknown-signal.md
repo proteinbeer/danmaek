@@ -18,6 +18,7 @@ imageWidth: 686
 imageHeight: 386
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 언노운 시그널은 프라그마타 메인 스토리를 끝낸 뒤 열리는 핵심 엔드게임 콘텐츠입니다. 단순히 보스 한 번 더 잡는 모드가 아니라 각 구역 100퍼센트 완료와 강화 보스, 시뮬레이션 도전을 묶어 진엔딩까지 이어지는 구조입니다.

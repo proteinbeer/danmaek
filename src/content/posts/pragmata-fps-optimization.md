@@ -18,6 +18,7 @@ imageWidth: 686
 imageHeight: 386
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 프라그마타에서 평균 FPS는 괜찮은데 전투 중 순간적으로 끊기거나 보스전에서 프레임이 크게 떨어진다면 모든 옵션을 무작정 최저로 내릴 필요는 없습니다. 해상도와 레이 트레이싱, 그림자와 효과처럼 부담이 큰 항목부터 순서대로 조정하는 편이 좋습니다.

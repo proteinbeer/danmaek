@@ -18,6 +18,7 @@ imageWidth: 686
 imageHeight: 386
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 루나디거는 프라그마타 후반부에서 이동 감각과 해킹 타이밍을 동시에 흔드는 보스입니다. 저중력 환경과 짧은 공격 기회가 겹치면서 평소 익숙했던 회피 거리와 공격 타이밍이 달라져 처음에는 상당히 어색할 수 있습니다.

@@ -18,6 +18,7 @@ imageWidth: 616
 imageHeight: 353
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 할로윈 더 게임의 기본판에는 플레이 가능한 민간인 10명이 포함됩니다. 여기에 디지털 디럭스 에디션을 보유하면 리처드와 알렉시스 두 명이 추가되어 총 12명의 민간인 중에서 선택할 수 있습니다.

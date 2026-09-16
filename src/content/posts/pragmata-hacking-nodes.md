@@ -18,6 +18,7 @@ imageWidth: 686
 imageHeight: 386
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 프라그마타의 해킹 노드는 다이애나의 전투 성능을 결정하는 장비입니다. 처음에는 퍼즐을 조금 쉽게 해주는 보조 기능처럼 보이지만, 중반 이후에는 보스전과 다수전의 난도를 직접 낮추는 핵심 빌드 요소가 됩니다.

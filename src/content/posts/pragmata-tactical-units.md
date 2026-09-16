@@ -18,6 +18,7 @@ imageWidth: 686
 imageHeight: 386
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 프라그마타의 전술 유닛은 직접 피해량만 보면 공격 유닛보다 약해 보일 수 있습니다. 하지만 실제 전투에서는 적을 멈추고, 밀어내고, 해킹 매트릭스를 단순하게 만드는 식으로 휴와 다이애나가 일할 시간을 벌어주는 핵심 장비입니다.

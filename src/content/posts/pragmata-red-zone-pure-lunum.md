@@ -18,6 +18,7 @@ imageWidth: 686
 imageHeight: 386
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 프라그마타를 진행하다 보면 일반 길에서 벗어난 고난도 전투 구역인 레드 존을 만나게 됩니다. 굳이 힘든 적을 상대해야 하나 싶을 수 있지만, 희귀 자원과 강한 장비 성장을 생각하면 무시하기 아까운 콘텐츠입니다.

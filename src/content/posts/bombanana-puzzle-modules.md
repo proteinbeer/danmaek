@@ -18,6 +18,7 @@ imageWidth: 460
 imageHeight: 215
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 봄바나나 정식 출시에는 새로운 퍼즐 모듈 14종이 추가됐습니다. 공식 출시 안내 기준으로 일반 퍼즐 11종과 장님 원숭이를 특히 바쁘게 만드는 카오스 모듈 3종으로 나뉩니다.

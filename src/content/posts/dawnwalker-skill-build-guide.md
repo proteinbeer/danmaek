@@ -18,6 +18,7 @@ imageWidth: 616
 imageHeight: 353
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 더 블러드 오브 던워커에서는 고정된 직업을 고르는 대신 검술, 주술, 흡혈이라는 세 갈래 스킬 트리에 포인트를 나눠 코엔을 성장시킵니다. 기존 액션 RPG와 달리 레벨만 올린다고 스킬이 바로 열리지 않고, 교본, 타락 수치, 성소라는 추가 조건이 붙습니다.

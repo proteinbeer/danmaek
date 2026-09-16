@@ -18,6 +18,7 @@ imageWidth: 686
 imageHeight: 386
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 크리에이터는 섹터가드보다 전장 관리와 해킹 타이밍을 더 강하게 요구하는 보스입니다. 첫 보스에서 기본 루프를 익혔다면 여기서는 그 루프를 압박 속에서도 유지할 수 있는지를 시험합니다.

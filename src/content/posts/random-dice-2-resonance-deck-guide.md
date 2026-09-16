@@ -17,6 +17,7 @@ imageWidth: 1280
 imageHeight: 720
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 랜덤 다이스 2 협동전에서 딜러의 화력을 끌어올리고 싶다면 공명덱을 고려할 수 있습니다. 공명은 같은 눈금의 주사위 공격 속도를 높여주는 주사위인데, 이 효과가 여러 개 중첩되는 구조라 서포터 입장에서 딜러의 처리 속도를 크게 끌어올립니다.

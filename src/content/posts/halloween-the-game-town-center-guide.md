@@ -18,6 +18,7 @@ imageWidth: 616
 imageHeight: 353
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 하돈필드 타운 센터는 할로윈 더 게임의 출시 맵 가운데 가장 도시적인 공간입니다. 니콜스 철물점, 음반점, 정원 상점, 술집, 우체국, 묘지 같은 여러 시설이 모여 있어 주민과 아이템을 찾을 장소가 많지만 그만큼 시야가 자주 끊깁니다.

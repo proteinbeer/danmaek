@@ -18,6 +18,7 @@ imageWidth: 616
 imageHeight: 353
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 할로윈 더 게임의 멀티플레이에서 민간인이 마이클 마이어스에게 죽었다고 해서 반드시 남은 판을 관전만 하는 것은 아닙니다. 공식 멀티플레이 구조에는 희생된 플레이어가 팀을 계속 지원하고 보안관 대리 또는 루미스 박사로 다시 돌아오는 흐름이 포함되어 있습니다.

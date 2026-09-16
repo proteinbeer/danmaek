@@ -18,6 +18,7 @@ imageWidth: 460
 imageHeight: 215
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 봄바나나는 역할마다 하는 일이 완전히 다릅니다. 그래서 누가 어떤 역할을 맡느냐에 따라 같은 세 명으로도 난도가 크게 달라질 수 있습니다. 특히 첫판에는 성격과 말하는 습관에 맞춰 역할을 배정하는 편이 좋습니다.

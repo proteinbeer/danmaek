@@ -18,6 +18,7 @@ imageWidth: 616
 imageHeight: 353
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 할로윈 더 게임은 일반 레벨업 외에도 수백 개의 도전 과제를 통해 외형과 추가 보상을 얻는 구조를 가지고 있습니다. 도전 과제는 패시브, 진행형, 싱글플레이 전용으로 나뉘며 각 종류가 요구하는 플레이 방식이 다릅니다.

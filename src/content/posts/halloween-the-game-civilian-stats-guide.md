@@ -18,6 +18,7 @@ imageWidth: 616
 imageHeight: 353
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 할로윈 더 게임의 민간인은 외형만 다른 생존자가 아닙니다. 각 캐릭터는 운동 능력, 성격, 임기응변, 전투 능력이라는 네 가지 수치를 가지고 있고, 여기에 고유 특성까지 붙어 있어 같은 행동을 해도 효율이 달라집니다.

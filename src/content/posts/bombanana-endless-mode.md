@@ -18,6 +18,7 @@ imageWidth: 460
 imageHeight: 215
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 봄바나나 엔들리스는 정해진 30개 캠페인과 달리 절차적으로 만들어지는 웨이브를 계속 버티는 모드입니다. 진행할수록 난도가 올라가기 때문에 단순 암기보다 세 명의 팀워크가 그대로 점수와 생존 시간으로 드러납니다.

@@ -18,6 +18,7 @@ imageWidth: 686
 imageHeight: 386
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 쉴터의 펌웨어 업데이터는 프라그마타 성장 시스템의 중심입니다. 일반적인 경험치 레벨 대신 탐색으로 얻은 업그레이드 컴포넌트를 사용해 휴의 슈트, 주무기, 다이애나의 해킹 능력을 직접 강화합니다.

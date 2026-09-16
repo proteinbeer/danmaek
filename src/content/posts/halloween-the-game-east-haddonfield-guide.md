@@ -18,6 +18,7 @@ imageWidth: 616
 imageHeight: 353
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 이스트 하돈필드는 하돈필드 중심부에서 떨어진 농업 지역으로 설계된 맵입니다. 래빗 인 레드 라운지, 펠프스 차고, 미드웨스트 피드 컴퍼니 같은 시설이 흩어져 있고 주거지 중심 맵보다 건물 사이의 거리와 열린 공간이 크게 느껴집니다.

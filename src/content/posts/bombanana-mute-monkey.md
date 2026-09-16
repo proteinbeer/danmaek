@@ -18,6 +18,7 @@ imageWidth: 460
 imageHeight: 215
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 벙어리 원숭이는 봄바나나에서 폭탄 해체 설명서를 읽는 역할입니다. 정답에 가장 가까운 정보를 알고 있지만 말을 할 수 없기 때문에, 그 정보를 몸짓과 이모트로 바꿔 전달해야 합니다.

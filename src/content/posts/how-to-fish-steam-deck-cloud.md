@@ -18,6 +18,7 @@ imageWidth: 460
 imageHeight: 215
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 낚시 방법 스팀 덱과 클라우드에서 막히는 분이라면 시스템 하나만 따로 보지 말고 진행과 장비를 함께 보시는 편이 좋습니다. 낚시 방법은 낚시, 전투, 판매, 퀘스트가 연결되어 있어 한 부분만 놓쳐도 다음 단계가 늦어질 수 있습니다.

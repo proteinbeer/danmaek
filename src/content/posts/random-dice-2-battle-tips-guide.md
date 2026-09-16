@@ -17,6 +17,7 @@ imageWidth: 1280
 imageHeight: 720
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 랜덤 다이스 2는 밸런스가 똑같은 덱을 써도 합성 순서와 배치에 따라 결과가 크게 갈립니다. 좋은 덱을 복사해 왔는데 자꾸 지는 경우, 대부분 주사위 구성이 아니라 운영 타이밍 문제인 경우가 많죠. 초반 SP를 어디에 쓰는지, 어느 눈금을 먼저 만드는지가 판의 승패를 결정합니다.

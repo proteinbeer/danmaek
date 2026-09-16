@@ -18,6 +18,7 @@ imageWidth: 616
 imageHeight: 353
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 뮤제닉스에서 고양이는 전투 유닛이자 동시에 재화입니다. 파이프로 보내거나 오른쪽 집으로 돌려보내지 않은 고양이를 적절한 NPC에게 기부하면 영구 확장이 쌓이고, 이 확장이 다음 룬의 시점을 단축시킵니다. 기부를 게으르게 하면 아무리 전투를 잘해도 항상 4x4 인벤토리와 방 하나짜리 집에서 맴돌게 됩니다.

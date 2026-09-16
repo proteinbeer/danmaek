@@ -18,6 +18,7 @@ imageWidth: 616
 imageHeight: 353
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 하돈필드 하이츠는 할로윈 더 게임의 네 출시 맵 가운데 원작의 공포 분위기를 가장 직접적으로 보여 주는 주거 지역입니다. 1963년 할로윈 밤의 사건이 남아 있는 동네이며 램킨 레인, 마이어스 하우스, 하돈필드 급수탑 같은 장소가 맵의 정체성을 만듭니다.

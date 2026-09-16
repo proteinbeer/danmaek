@@ -18,6 +18,7 @@ imageWidth: 686
 imageHeight: 386
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 공격 유닛은 프라그마타에서 오픈 상태를 가장 강하게 활용하는 장비입니다. 주무기가 꾸준한 기본 화력이라면 공격 유닛은 짧은 공격 기회에 큰 피해를 몰아 넣는 도구에 가깝습니다.

@@ -18,6 +18,7 @@ imageWidth: 686
 imageHeight: 386
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 프라그마타 전투의 중심은 다이애나의 해킹입니다. 휴의 사격 실력이 아무리 좋아도 장갑이 닫힌 적에게 계속 공격하면 효율이 떨어지고, 강한 적일수록 이 차이가 크게 느껴집니다.

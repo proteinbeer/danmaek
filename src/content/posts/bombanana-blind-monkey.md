@@ -18,6 +18,7 @@ imageWidth: 460
 imageHeight: 215
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 장님 원숭이는 봄바나나에서 실제 폭탄을 조작하는 손입니다. 화면 정보를 제대로 볼 수 없기 때문에 팀의 지시를 듣고 버튼을 누르고 장치를 만져야 하죠. 그래서 가장 단순해 보이면서도 실수 한 번이 바로 폭발로 이어지는 역할입니다.

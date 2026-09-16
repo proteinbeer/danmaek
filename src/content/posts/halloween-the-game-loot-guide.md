@@ -18,6 +18,7 @@ imageWidth: 616
 imageHeight: 353
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 할로윈 더 게임의 민간인은 맵 곳곳의 상자를 수색해 무기, 방해 도구, 탈출에 필요한 핵심 아이템을 확보합니다. 하지만 아이템과 탈출 위치가 매치마다 달라질 수 있기 때문에 정해진 상자 동선만 외우는 방식은 오래 통하지 않습니다.

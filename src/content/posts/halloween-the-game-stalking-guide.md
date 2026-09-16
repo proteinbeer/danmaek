@@ -18,6 +18,7 @@ imageWidth: 616
 imageHeight: 353
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 할로윈 더 게임에서 마이클 마이어스의 사냥은 상대를 발견하는 순간 시작되는 것이 아닙니다. 킬러 센스로 먹잇감을 찾고, 들키지 않은 상태에서 스토킹을 쌓은 뒤, 가장 유리한 순간에 모습을 드러내는 과정이 핵심입니다.

@@ -18,6 +18,7 @@ imageWidth: 616
 imageHeight: 353
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 할로윈 더 게임의 마이클 마이어스는 기본 특성 두 가지와 별도로 여러 능력 중 세 가지를 골라 장비할 수 있습니다. 기본 축은 킬러 센스와 셰이프 점프이며, 추가 능력으로 블랙아웃, 디텍션 펄스, 리얼리티 티어 같은 선택지가 존재합니다.

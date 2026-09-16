@@ -18,6 +18,7 @@ imageWidth: 1280
 imageHeight: 720
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 귀무자 웨이 오브 더 소드는 세 가지 난이도 모드를 제공합니다. 스토리, 액션, 카나지는 이름만 다르고 실제로는 적의 공격력과 패턴, 공격 프롬프트 유무까지 실질적으로 게임이 달라지는 구조입니다. 어떤 모드로 시작하느냐가 이 게임을 얼마나 즐길 수 있느냐를 결정합니다.

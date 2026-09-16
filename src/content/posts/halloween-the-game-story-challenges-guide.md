@@ -18,6 +18,7 @@ imageWidth: 616
 imageHeight: 353
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 할로윈 더 게임의 싱글플레이는 스토리만 끝내면 모든 콘텐츠가 정리되는 구조가 아닙니다. 여섯 개의 플레이 챕터마다 별도의 선택 도전 과제가 있고 수집 요소와 추가 처형, 꾸미기 보상이 연결되어 있어 반복 플레이를 전제로 만들어졌습니다.

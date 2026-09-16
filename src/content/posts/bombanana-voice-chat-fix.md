@@ -18,6 +18,7 @@ imageWidth: 460
 imageHeight: 215
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 봄바나나는 음성 채팅 문제가 다른 협동 게임보다 훨씬 치명적입니다. 역할 자체가 소리를 듣거나 듣지 못하는 구조와 연결되어 있기 때문에 마이크가 안 되면 단순 불편을 넘어 게임 진행이 막힐 수 있습니다.

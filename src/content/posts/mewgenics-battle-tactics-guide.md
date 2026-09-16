@@ -19,6 +19,7 @@ imageWidth: 616
 imageHeight: 353
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 뮤제닉스는 귀여운 외형과 달리 턴 기반 전투의 위치와 타이밍을 꼼꼼히 따지는 게임입니다. 같은 고양이라도 어디에 서서 어떤 방향으로 공격하느냐에 따라 데미지가 크게 갈리며, 적의 어그로를 누가 받느냐에 따라 파티 생존이 결정됩니다.

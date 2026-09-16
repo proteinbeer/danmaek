@@ -19,6 +19,7 @@ imageWidth: 1280
 imageHeight: 720
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 교토의 신비와 히든 트레저는 수집 그 자체보다 특전과 보상을 노리는 사이드 콘텐츠입니다. 신비는 주로 수호 부적을, 히든 트레저는 강화 재료와 골격 호즈키를 주고, 일부는 전용 트로피로 연결됩니다. 이 글은 해외 공략의 8종 신비와 5종 트레저를 해금 조건과 위치, 보상까지 정리했습니다.

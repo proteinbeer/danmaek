@@ -18,6 +18,7 @@ imageWidth: 686
 imageHeight: 386
 hideHeroImage: true
 hideDescription: true
+draft: true
 ---
 
 루나틱은 프라그마타를 한 번 클리어한 뒤 도전할 수 있는 최고 난도입니다. 적이 강해지고 실수 여유가 줄어들어 첫 회차에서 통하던 무리한 공격과 대충 넘기던 해킹이 바로 벌을 받습니다.
