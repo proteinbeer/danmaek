@@ -6,6 +6,7 @@ import LocalPostEditor from '../components/LocalPostEditor.astro';
 import { SITE, categoryToPath, IT_SUBCATEGORIES, GAME_SUBCATEGORIES, COUPON_SUBCATEGORIES } from '../consts';
 
 const { post, prev, next, related } = Astro.props;
+const noindex = Astro.props.noindex === true;
 const Content = post.Content;
 const data = post.data;
 const isDev = import.meta.env.DEV;
@@ -43,6 +44,7 @@ const breadcrumbLd = {
 ---
 <BaseLayout title={`${data.title} | 단맥`} description={metaDescription} image={data.image} type="article" canonical={canonical}>
   <Fragment slot="head">
+    {noindex && <meta name="robots" content="noindex, follow" />}
     <script is:inline type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
     <script is:inline type="application/ld+json" set:html={JSON.stringify(breadcrumbLd)} />
   </Fragment>

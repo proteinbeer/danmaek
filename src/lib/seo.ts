@@ -18,7 +18,7 @@ const categoryPages = CATEGORIES
 export const absoluteUrl = (pathname: string) => new URL(pathname, SITE.url).toString();
 
 export const getSitemapEntries = (): SitemapEntry[] => {
-  const posts = getPosts();
+  const posts = getPosts().filter((post) => post.data.category !== '쿠폰');
   const latestPostDate = posts[0]?.data.updated ?? posts[0]?.data.date;
   const entries = [
     { url: absoluteUrl('/'), lastmod: latestPostDate },

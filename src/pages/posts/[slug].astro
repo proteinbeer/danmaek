@@ -46,5 +46,5 @@ const redirectDescription = redirectTo ? `${Astro.params.slug} 글은 관련 통
     </main>
   </BaseLayout>
 ) : (
-  <PostLayout post={post} prev={prev} next={next} related={related} />
+  <PostLayout post={post} prev={prev} next={next} related={related} noindex={post?.data.category === '쿠폰'} />
 )}

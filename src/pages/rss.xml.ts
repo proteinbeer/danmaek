@@ -3,7 +3,7 @@ import { SITE } from '../consts';
 import { getPosts } from '../lib/posts';
 
 export async function GET() {
-  const posts = getPosts();
+  const posts = getPosts().filter((post) => post.data.category !== '쿠폰');
   return rss({
     title: SITE.title,
     description: SITE.description,

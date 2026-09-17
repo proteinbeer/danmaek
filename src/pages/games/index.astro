@@ -34,6 +34,7 @@ const subcats = [...GAME_SUBCATEGORIES];
       <div class="grid" id="post-grid">
         {posts.map((post) => <PostCard post={post} />)}
       </div>
+      <nav class="pagination" id="post-pagination" aria-label="게임 글 페이지"></nav>
     </section>
     <div class="tool-coupang tool-coupang--sm">
 <script is:inline src="https://ads-partners.coupang.com/g.js"></script>
@@ -87,16 +88,60 @@ const subcats = [...GAME_SUBCATEGORIES];
     }
 
     const guideSearch = document.getElementById('guide-search') as HTMLInputElement;
-    function filterGuides() {
+    const pagination = document.getElementById('post-pagination') as HTMLElement;
+    const PER_PAGE = 24;
+    let currentPage = 1;
+
+    function getFiltered() {
       const q = (guideSearch?.value || '').trim().toLowerCase();
       const sub = guideSub.getValue();
-      allCards.forEach((card) => {
+      return allCards.filter((card) => {
         const matchSub = !sub || card.dataset.subcategory === sub;
         const matchQ = !q || card.textContent?.toLowerCase().includes(q);
-        card.style.display = matchSub && matchQ ? '' : 'none';
+        return matchSub && matchQ;
       });
+    }
+
+    function renderPagination(totalPages: number) {
+      pagination.innerHTML = '';
+      if (totalPages <= 1) return;
+      const makeBtn = (label: string, page: number, opts: { disabled?: boolean; current?: boolean } = {}) => {
+        const btn = document.createElement('button');
+        btn.type = 'button';
+        btn.className = 'pagination__btn' + (opts.current ? ' is-current' : '');
+        btn.textContent = label;
+        if (opts.disabled) btn.disabled = true;
+        if (opts.current) btn.setAttribute('aria-current', 'page');
+        if (!opts.disabled && !opts.current) btn.addEventListener('click', () => { currentPage = page; render(); });
+        return btn;
+      };
+      pagination.appendChild(makeBtn('이전', currentPage - 1, { disabled: currentPage === 1 }));
+      const windowSize = 5;
+      let start = Math.max(1, currentPage - 2);
+      let end = Math.min(totalPages, start + windowSize - 1);
+      start = Math.max(1, end - windowSize + 1);
+      for (let p = start; p <= end; p += 1) {
+        pagination.appendChild(makeBtn(String(p), p, { current: p === currentPage }));
+      }
+      pagination.appendChild(makeBtn('다음', currentPage + 1, { disabled: currentPage === totalPages }));
+    }
+
+    function render() {
+      const filtered = getFiltered();
+      const totalPages = Math.max(1, Math.ceil(filtered.length / PER_PAGE));
+      if (currentPage > totalPages) currentPage = totalPages;
+      allCards.forEach((card) => { card.style.display = 'none'; });
+      const start = (currentPage - 1) * PER_PAGE;
+      filtered.slice(start, start + PER_PAGE).forEach((card) => { card.style.display = ''; });
+      renderPagination(totalPages);
+    }
+
+    function filterGuides() {
+      currentPage = 1;
+      render();
     }
     guideSearch?.addEventListener('input', filterGuides);
     const guideSub = setupSubDrop(document.getElementById('guide-sub-drop') as HTMLElement, () => filterGuides());
+    render();
   </script>
 </BaseLayout>
