@@ -1,0 +1,116 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import PostCard from './PostCard.astro';
+import {
+  CATEGORIES,
+  SITE,
+  GAME_SUBCATEGORIES,
+  IT_SUBCATEGORIES,
+  type Subcategory
+} from '../consts';
+import {
+  LIST_PER_PAGE,
+  categoryListPageUrl,
+  categorySlug,
+  getCategoryListPosts,
+  type ListCategory
+} from '../lib/categoryList';
+
+const { category, page } = Astro.props as { category: ListCategory; page: number };
+
+const categoryMeta = CATEGORIES.find((item) => item.name === category)!;
+const subcats: Subcategory[] = category === '게임' ? [...GAME_SUBCATEGORIES] : [...IT_SUBCATEGORIES];
+const base = categorySlug[category];
+const list = getCategoryListPosts(category);
+const totalPages = Math.max(1, Math.ceil(list.length / LIST_PER_PAGE));
+const pagePosts = list.slice((page - 1) * LIST_PER_PAGE, page * LIST_PER_PAGE);
+const canonical = new URL(categoryListPageUrl(category, page), SITE.url).toString();
+const pageTitle = page === 1 ? `${category} | ${SITE.name}` : `${category} ${page}페이지 | ${SITE.name}`;
+const pageNumbers = Array.from({ length: totalPages }, (_, i) => i + 1);
+---
+<BaseLayout title={pageTitle} description={categoryMeta.description} canonical={canonical}>
+  <main class="container">
+    <div class="adfit-banner">
+      <ins class="kakao_ad_area" style="display:none;"
+        data-ad-unit="DAN-LoWQpAjT1C8qjOLo"
+        data-ad-width="728"
+        data-ad-height="90"></ins>
+      <script is:inline async type="text/javascript" charset="utf-8" src="https://t1.kakaocdn.net/kas/static/ba.min.js"></script>
+    </div>
+    <section aria-label={`${category} 글 목록`}>
+      <div class="section-head">
+        <div><h2>{category}</h2></div>
+        <div class="section-head__controls">
+          <div class="sub-drop" id="guide-sub-drop">
+            <button type="button" class="sub-filter" id="guide-sub-trigger" aria-haspopup="listbox" aria-expanded="false">전체</button>
+            <div class="sub-dropdown" role="listbox" id="guide-sub-list">
+              <a class="sub-dropdown-item" href={`/${base}/`}>전체</a>
+              {subcats.map((sub) => <a class="sub-dropdown-item" href={`/${base}/${sub.slug}/`}>{sub.name}</a>)}
+            </div>
+          </div>
+          <input id="guide-search" class="home-search-input" type="search" placeholder="검색" aria-label={`${category} 검색`} autocomplete="off" />
+        </div>
+      </div>
+      <div class="grid" id="post-grid">
+        {pagePosts.map((post) => <PostCard post={post} />)}
+      </div>
+      {totalPages > 1 && (
+        <nav class="pagination" aria-label="페이지">
+          {page > 1
+            ? <a class="pagination__btn" href={categoryListPageUrl(category, page - 1)}>이전</a>
+            : <span class="pagination__btn" aria-disabled="true">이전</span>}
+          {pageNumbers.map((num) => (
+            num === page
+              ? <a class="pagination__btn is-current" aria-current="page" href={categoryListPageUrl(category, num)}>{num}</a>
+              : <a class="pagination__btn" href={categoryListPageUrl(category, num)}>{num}</a>
+          ))}
+          {page < totalPages
+            ? <a class="pagination__btn" href={categoryListPageUrl(category, page + 1)}>다음</a>
+            : <span class="pagination__btn" aria-disabled="true">다음</span>}
+        </nav>
+      )}
+    </section>
+    <div class="tool-coupang tool-coupang--sm">
+<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
+<script is:inline>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+    </div>
+    <div class="tool-coupang tool-coupang--lg">
+<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
+<script is:inline>
+	new PartnersCoupang.G({"id":1021235,"trackingCode":"AF7638395","subId":null,"template":"carousel","width":"662","height":"140"});
+</script>
+    </div>
+  </main>
+  <script>
+    const grid = document.getElementById('post-grid') as HTMLElement;
+    const allCards = Array.from(grid?.children ?? []) as HTMLElement[];
+    const search = document.getElementById('guide-search') as HTMLInputElement;
+    const trigger = document.getElementById('guide-sub-trigger') as HTMLButtonElement;
+    const list = document.getElementById('guide-sub-list') as HTMLElement;
+    const clampList = () => {
+      const r = list.getBoundingClientRect();
+      const vw = document.documentElement.clientWidth;
+      const dx = Math.max(8 - r.left, Math.min(0, vw - 8 - r.right));
+      if (dx === 0) { list.style.left = ''; return; }
+      list.style.left = `${dx}px`;
+    };
+    const open = () => { list.classList.add('open'); trigger.setAttribute('aria-expanded', 'true'); clampList(); };
+    const close = () => { list.classList.remove('open'); trigger.setAttribute('aria-expanded', 'false'); list.style.left = ''; };
+    trigger?.addEventListener('click', (e) => {
+      e.stopPropagation();
+      list.classList.contains('open') ? close() : open();
+    });
+    document.addEventListener('click', (e) => {
+      if (!list?.contains(e.target as Node)) close();
+    });
+    function filterGuides() {
+      const q = (search?.value || '').trim().toLowerCase();
+      allCards.forEach((card) => {
+        card.style.display = !q || card.textContent?.toLowerCase().includes(q) ? '' : 'none';
+      });
+    }
+    search?.addEventListener('input', filterGuides);
+  </script>
+</BaseLayout>

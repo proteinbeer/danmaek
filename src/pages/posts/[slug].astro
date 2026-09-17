@@ -1,13 +1,10 @@
 ---
 import PostLayout from '../../layouts/PostLayout.astro';
-import BaseLayout from '../../components/BaseLayout.astro';
-import { SITE } from '../../consts';
 import { getPosts } from '../../lib/posts';
-import { POST_REDIRECTS } from '../../lib/postRedirects';
 
 export async function getStaticPaths() {
   const posts = getPosts();
-  const postPaths = posts.map((post) => {
+  return posts.map((post) => {
     const pool = posts.filter((item) => item.data.category === post.data.category);
     const indexInPool = pool.findIndex((item) => item.id === post.id);
     const related = pool.filter((item) => item.id !== post.id).slice(0, 3);
@@ -21,30 +18,7 @@ export async function getStaticPaths() {
       }
     };
   });
-  const redirectPaths = Object.entries(POST_REDIRECTS).map(([slug, redirectTo]) => ({
-    params: { slug },
-    props: { redirectTo }
-  }));
-  return [...postPaths, ...redirectPaths];
 }
-const { post, prev, next, related, redirectTo } = Astro.props;
-const redirectUrl = redirectTo ? new URL(redirectTo, SITE.url).toString() : '';
-const redirectTitle = redirectTo ? `이동된 글입니다: ${Astro.params.slug} | 단맥` : '';
-const redirectDescription = redirectTo ? `${Astro.params.slug} 글은 관련 통합 글로 이동되었습니다.` : '';
+const { post, prev, next, related } = Astro.props;
 ---
-{redirectTo ? (
-  <BaseLayout title={redirectTitle} description={redirectDescription} canonical={redirectUrl}>
-    <Fragment slot="head">
-      <meta http-equiv="refresh" content={`0; url=${redirectTo}`} />
-      <meta name="robots" content="noindex, follow" />
-      <script is:inline define:vars={{ redirectTo }}>location.replace(redirectTo);</script>
-    </Fragment>
-    <main class="container" style="padding: 80px 0;">
-      <h1>이동된 글입니다</h1>
-      <p>관련 내용을 하나의 글로 통합했습니다.</p>
-      <p><a class="button-link" href={redirectTo}>통합 글로 이동</a></p>
-    </main>
-  </BaseLayout>
-) : (
-  <PostLayout post={post} prev={prev} next={next} related={related} noindex={post?.data.category === '쿠폰'} />
-)}
+<PostLayout post={post} prev={prev} next={next} related={related} noindex={post?.data.category === '쿠폰'} />

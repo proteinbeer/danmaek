@@ -7,7 +7,19 @@ const itPosts = getPostsByCategory('IT');
 const gamePosts = getPostsByCategory('게임');
 const byDateDesc = (a: { data: { date: Date } }, b: { data: { date: Date } }) => b.data.date.getTime() - a.data.date.getTime();
 const recentItPosts = [...itPosts].sort(byDateDesc).slice(0, 6);
-const recentGamePosts = [...gamePosts].sort(byDateDesc).slice(0, 6);
+const capPerGame = (posts: { data: { subcategory: string; date: Date } }[], maxPerGame: number) => {
+  const counts = new Map<string, number>();
+  const result: { data: { subcategory: string; date: Date } }[] = [];
+  for (const post of [...posts].sort(byDateDesc)) {
+    const key = post.data.subcategory || '기타';
+    const seen = counts.get(key) ?? 0;
+    if (seen >= maxPerGame) continue;
+    counts.set(key, seen + 1);
+    result.push(post);
+  }
+  return result;
+};
+const recentGamePosts = capPerGame(gamePosts, 4).slice(0, 6);
 ---
 <BaseLayout>
   <main class="home-page">

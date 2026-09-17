@@ -1,0 +1,16 @@
+---
+import CategoryListPage from '../../../components/CategoryListPage.astro';
+import { getCategoryListPages } from '../../../lib/categoryList';
+
+export function getStaticPaths() {
+  const gamesPages = getCategoryListPages('게임');
+  const paths = [];
+  for (let page = 2; page <= gamesPages; page += 1) {
+    paths.push({ params: { page: String(page) }, props: { page } });
+  }
+  return paths;
+}
+
+const { page } = Astro.props;
+---
+<CategoryListPage category="게임" page={page} />
