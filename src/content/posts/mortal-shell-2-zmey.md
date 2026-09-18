@@ -73,6 +73,17 @@ hideDescription: true
 
 헥사포드는 위더드 숄스 끝에서 얼굴 앞 촉수로 정면 공격을 반복합니다. 전조가 짧게 느껴질 수 있어 경화가 패링보다 안전한 보험이 되고, 강화한 트라이악 리피터로 촉수가 열렸을 때 얼굴을 겨누면 근접 패턴 전부를 받을 필요가 없죠. 2페이즈의 추적탄은 드뢰그와 비슷하지만 수가 적어 주변 큰 뼈 구조물 뒤를 이용하거나 옆으로 이동하며 피할 수 있습니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 5. 서 아이작
 
 서 아이작은 페이디드 시타델 끝의 인간형 보스로 1페이즈는 방패와 검을 써서 패링 연습이 쉬운 편입니다. 다만 정면에 오래 붙어 공격하면 전조가 짧은 방패 밀치기가 나올 수 있어 정면 연타를 줄이시는 편이 좋죠. 방패를 버리는 2페이즈부터는 검 속도와 콤보 길이가 크게 늘어 한 번의 패링 실패가 다단 피해로 이어질 수 있습니다. 패링 판정이 불안하게 느껴지면 경화로 한 공격을 받아낸 뒤 거리를 벌려 다음 콤보를 다시 읽는 방식이 안정적입니다.

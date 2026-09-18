@@ -12,7 +12,7 @@ const SUB_SLUG_BY_CATEGORY: Record<string, Map<string, string>> = {
 const subSlug = data.subcategory ? (SUB_SLUG_BY_CATEGORY[data.category]?.get(data.subcategory) ?? '') : '';
 const link = subSlug
   ? `${categoryToPath[data.category] ?? '/'}${subSlug}/`
-  : (data.category === '뉴스' ? '/news/' : categoryToPath[data.category] ?? '/');
+  : categoryToPath[data.category] ?? '/';
 const todayLabel = new Date().toDateString();
 const yesterday = new Date();
 yesterday.setDate(yesterday.getDate() - 1);

@@ -106,3 +106,14 @@ hideDescription: true
 한 세션에서 돈벌이, 도감, 보스, 업적을 전부 해결하려 하면 장비와 아이템 관리가 복잡해집니다. 지금 무엇을 하려는지 한 가지를 먼저 정하고 필요한 장비만 들고 움직이시면 실수가 줄어듭니다.
 
 특히 퀘스트 전리품과 희귀 드립은 일반 판매 물고기와 분리해 두는 습관이 좋죠. 패치가 빠른 게임이라는 점도 기억하셔야 합니다. 이상한 상황이 나오면 내 실수라고 단정하기 전에 스팀 공지의 최신 버전과 현재 설정을 먼저 확인하시는 편이 좋습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

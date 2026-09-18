@@ -137,3 +137,14 @@ hideDescription: true
 크레이지 택시는 현재 새로운 게임인 월드 투어도 준비하고 있습니다.
 
 게임과 영화가 같은 시기에 브랜드를 다시 움직인다는 점에서 이번 협업의 진짜 가치는 단순 영화 한 편보다 오래된 세가 게임을 다시 현역으로 만드는 데 있습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

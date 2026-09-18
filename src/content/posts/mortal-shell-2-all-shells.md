@@ -79,3 +79,14 @@ hideDescription: true
 ## 6. 셸 교체 시점
 
 새 셸을 얻었다고 곧바로 모든 자원을 투자할 필요는 없습니다. 기본 능력만 확인한 뒤 손에 맞는 셸과 무기 하나를 정해 키우는 편이 성장 재료를 아끼는 길입니다. 특정 보스에서 막히면 저항, 회피, 분신처럼 보스 패턴과 직접 맞물리는 능력을 가진 셸로 바꾸는 것이 정석적인 대응이 되며, 최종 보스 뒤 자유 탐험이나 새 게임 플러스 진입 전에 놓친 셸을 한꺼번에 회수하시면 됩니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

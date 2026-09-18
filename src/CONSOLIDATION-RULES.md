@@ -1,0 +1,86 @@
+# 게임 글 통합 규칙 (서브에이전트용)
+
+## 문체 규칙
+- 어미 비율: **~합니다/~입니다 70%** + **~죠/~하죠/~이죠/~되죠 30%**
+- **~요 어미 금지** (~해요, ~있어요, ~보세요, ~.navigateToUrl입니까요 등 전부 금지)
+- 소제목(##)은 **명사형/명사구**만 사용. 문장형 소제목 금지. (예: "전투 기본 구조" OK, "전투는 어떻게 하나요" X)
+- "단맥에서는" 같은 브랜드 주어 사용 금지
+
+## 이미지 규칙
+- **대표 이미지 1장만** 사용 (인트로 다음, 첫 소제목 직전)
+- class: `post-landscape-image post-landscape-image--high`
+- `public/assets/posts/` 아래 이미지 사용, 경로 `/assets/posts/...`
+- **본문에 스크린샷/스틸컷 이미지 삽입하지 않음**
+- 이미지 1장당 300KB 이하, JPEG 품질 82, 최대 가로 1280px
+
+## 쿠팡 배너 배치
+- **소제목 2, 4, 6, ... 짝수 섹션 본문 아래**에 쿠팡 배너 삽입
+- 배치 순서: 짝수 소제목 → 본문 → 배너 → 다음 소제목
+- 배너 HTML:
+```html
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+```
+- **짝수 소제목(## 2, ## 4, ## 6, ...) 뒤마다 배너 배치.** 마지막 소제목이 짝수여도 마지막 섹션 뒤에 배너를 둔다. (글 하단 가로 쿠팡 배너는 레이아웃 `PostLayout.astro`에서 별도 자동 출력)
+
+## 제휴 공시
+- 쿠팡 고지 문구는 `PostLayout.astro`에서 모든 글에 자동 출력되므로 **본문에 인라인으로 넣지 않음**
+- 본문 배너/링크는 `ads-partners.coupang.com` 스크립트(레이아웃·본문 모두 JS 동적)만 사용
+
+## frontmatter 형식
+```yaml
+---
+title: "새 제목"
+description: "SEO 설명 (1-2문장)"
+date: 원래_날짜_유지
+updated: 2026-09-16
+category: "게임"
+subcategory: "게임 이름"
+tags:
+  - "태그1"
+  - "태그2"
+image: "/assets/posts/guide-images/이미지파일"
+imageAlt: "이미지 설명"
+imageWidth: 너비
+imageHeight: 높이
+hideHeroImage: true
+hideDescription: true
+---
+```
+
+## 본문 구조
+1. 인트로 문단 (첫 문장에서 주제를 즉시 설명)
+2. 대표 이미지
+3. ## 1. ..., ## 2. ... (명사형 소제목, 4~8개)
+4. 짝수 소제목 아래 쿠팡 배너
+5. **마지막 소제목은 텍스트로 마무리. "출처", "참고자료", "단맥 포인트", "총정리" 같은 범용 결론 섹션 금지**
+
+## 통합 원칙
+- **단 포인트 요약 박스 넣지 않음** (가이드/쿠폰 글)
+- 같은 설명 반복 금지. 고유 정보만 남김
+- 검색 의도가 다른 내용을 억지로 섞지 않음
+- 글자 수 맞추기 위한 범용 문장/결론 반복 넣지 않음
+- 표는 단순 나열보다 비교가 실제로 쉬울 때만 사용
+- 소제목 수는 글마다 4~8개로 달라지게
+
+## 통합 작업 순서
+1. canonical 글과 merge 대상 글을 모두 읽음
+2. canonical 글을 새 제목 + 통합 내용으로 **전체 재작성** (write 도구 사용)
+3. merge 대상 글은 canonica한 글의 어떤 정보도 빠지지 않도록 확인한 뒤 **파일을 삭제**
+4. 삭제한 옛 slug는 `scripts/retired-slugs.mjs`의 `RETIRED_SLUGS`에 추가
+   (빌드 후 `npm run seo:check`로 사이트맵·RSS·dist·내부 링크·소스에서 옛 URL 0건 검증)
+
+## 옛 URL 처리 원칙
+- 옛 슬러그에 301 리다이렉트를 만들지 않음 (Cloudflare Worker 미사용)
+- "이동된 글입니다" 같은 안내 페이지를 만들지 않음
+- 옛 URL은 실제 존재하지 않는 페이지(404)로 끝냄. 홈으로 리다이렉트하지 않음
+- noindex 200으로 남기지 않음
+- 검색 유입이 많은 예외 URL이 발견되면 자동 삭제하지 말고 사용자에게 별도 보고

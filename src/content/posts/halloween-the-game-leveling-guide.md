@@ -31,17 +31,6 @@ hideDescription: true
 
 킬러 레벨은 마이클 마이어스를 플레이하면서 하돈필드를 공포에 빠뜨릴 때 성장하며 레벨이 올라가면 새로운 마이클 능력과 외형, 처형 관련 보상 같은 요소를 해금하는 기반이 됩니다. 민간인 레벨은 로스터 전체가 하나로 공유하는 방식이 아니라 각 캐릭터에 연결되어 한 캐릭터를 오래 플레이해도 다른 민간인의 성장도가 자동으로 같이 올라가는 것은 아닙니다. 무기 레벨은 마이클이 특정 장착 무기로 희생자를 처리할 때 올라가는 별도 성장으로 자주 쓰는 무기를 꾸준히 사용하는 것이 관련 보상을 얻는 데 중요합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 2. 도전 과제 종류와 정리 순서
 
 할로윈 더 게임은 일반 레벨업 외에도 수백 개의 도전 과제를 통해 외형과 추가 보상을 얻는 구조를 가지고 있습니다. 도전 과제는 패시브, 진행형, 싱글플레이 전용으로 나뉘며 각 종류가 요구하는 플레이 방식이 다릅니다.

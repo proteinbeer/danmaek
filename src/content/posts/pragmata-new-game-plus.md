@@ -34,17 +34,6 @@ hideDescription: true
 
 초반 프롤로그를 건너뛰고 쉴터 도착 시점부터 시작하는 선택지가 있어 재플레이 시간을 줄일 수 있습니다. 첫 회차는 재료가 부족해 모든 공격과 전술 유닛을 충분히 시험하기 어려운데, 뉴 게임 플러스는 다른 조합을 적극적으로 써보기 좋죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 2. 루나틱은 별도 새 게임이다
 
 루나틱은 프라그마타에서 가장 중요한 구분이 필요한 회차입니다. 엔딩을 보면 열리지만 뉴 게임 플러스 저장으로 선택하는 방식이 아니고, 새 게임에서 별도로 시작해야 합니다. 첫 회차 업그레이드를 그대로 들고 가는 모드가 아니죠.
@@ -55,12 +44,6 @@ hideDescription: true
 
 스테이시스 넷과 디코이 제너레이터 같은 장비는 일반 난도보다 훨씬 가치가 큽니다. 공격 유닛만 챙기는 빌드는 실수 한 번에 무너지기 쉽고, 안전성을 확보한 뒤 화력을 올리는 순서가 좋습니다.
 
-## 3. 언노운 시그널이 진엔딩의 핵심이다
-
-언노운 시그널은 첫 엔딩 이후 현재 저장에서 접근하는 후속 콘텐츠입니다. 처음부터 새 게임을 시작하는 것이 아니라 클리어 데이터를 바탕으로 남은 구역을 다시 돌아보게 되죠. 그래서 엔딩을 본 뒤 바로 뉴 게임 플러스로 넘어가지 말고 현재 저장을 먼저 확인하시는 편이 좋습니다.
-
-솔라 파워 플랜트, 매스 프로덕션 어레이, 테라 돔, 루넘 마인, 센트럴 포트의 수집 진행을 100퍼센트로 맞추는 과정이 중요합니다. 안전 상자와 REM, 순수 루넘, 모드, 저장 확장 장치, 카트리지 홀더, 훈련 데이터처럼 진행률에 들어가는 항목을 빠짐없이 정리해야 합니다.
-
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
@@ -71,6 +54,12 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
+
+## 3. 언노운 시그널이 진엔딩의 핵심이다
+
+언노운 시그널은 첫 엔딩 이후 현재 저장에서 접근하는 후속 콘텐츠입니다. 처음부터 새 게임을 시작하는 것이 아니라 클리어 데이터를 바탕으로 남은 구역을 다시 돌아보게 되죠. 그래서 엔딩을 본 뒤 바로 뉴 게임 플러스로 넘어가지 말고 현재 저장을 먼저 확인하시는 편이 좋습니다.
+
+솔라 파워 플랜트, 매스 프로덕션 어레이, 테라 돔, 루넘 마인, 센트럴 포트의 수집 진행을 100퍼센트로 맞추는 과정이 중요합니다. 안전 상자와 REM, 순수 루넘, 모드, 저장 확장 장치, 카트리지 홀더, 훈련 데이터처럼 진행률에 들어가는 항목을 빠짐없이 정리해야 합니다.
 
 ## 4. 언노운 시그널의 강화 보스와 시뮬레이션
 
@@ -80,14 +69,6 @@ hideDescription: true
 
 수집과 업적은 함께 처리하는 편이 효율적입니다. 다만 미니 캐빈과 탈출 해치는 구역 100퍼센트 수치와 별도일 수 있으니 체크리스트를 분리하는 편이 좋죠.
 
-## 5. 레드 존과 순수 루넘 준비
-
-레드 존은 메인 진행에 반드시 필요한 전투만 있는 공간이 아니라 더 강한 적과 보상을 노리는 선택형 도전에 가깝습니다. 순수 루넘은 일반 루나필라멘트만으로 해결되지 않는 고급 능력과 부착물에 쓰이는 희귀 자원입니다.
-
-후반 빌드와 고난도 모드를 생각한다면 순수 루넘을 미리 조금씩 확보해 두는 편이 좋습니다. 레드 존은 여러 적이 동시에 나와 해킹 시선을 뺏기기 쉽기 때문에 스테이시스 넷과 라이엇 블라스터, 디코이 제너레이터처럼 전장을 통제하는 장비가 특히 좋습니다.
-
-레드 존은 선택 콘텐츠라 당장 못 깬다고 진행이 막히는 것은 아닙니다. 펌웨어와 장비를 몇 단계 더 올린 뒤 다시 오면 난도가 크게 내려갈 수 있어 막히면 다음 섹터에서 장비를 얻고 돌아오는 편이 효율적입니다.
-
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
@@ -98,6 +79,14 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
+
+## 5. 레드 존과 순수 루넘 준비
+
+레드 존은 메인 진행에 반드시 필요한 전투만 있는 공간이 아니라 더 강한 적과 보상을 노리는 선택형 도전에 가깝습니다. 순수 루넘은 일반 루나필라멘트만으로 해결되지 않는 고급 능력과 부착물에 쓰이는 희귀 자원입니다.
+
+후반 빌드와 고난도 모드를 생각한다면 순수 루넘을 미리 조금씩 확보해 두는 편이 좋습니다. 레드 존은 여러 적이 동시에 나와 해킹 시선을 뺏기기 쉽기 때문에 스테이시스 넷과 라이엇 블라스터, 디코이 제너레이터처럼 전장을 통제하는 장비가 특히 좋습니다.
+
+레드 존은 선택 콘텐츠라 당장 못 깬다고 진행이 막히는 것은 아닙니다. 펌웨어와 장비를 몇 단계 더 올린 뒤 다시 오면 난도가 크게 내려갈 수 있어 막히면 다음 섹터에서 장비를 얻고 돌아오는 편이 효율적입니다.
 
 ## 6. 추천 진행 순서
 
@@ -108,6 +97,17 @@ hideDescription: true
 첫 방문에서 못 먹은 아이템이 있다고 해서 오래 헤매지 마시고 스토리 능력 해금 여부부터 확인하십시오. 프라그마타는 진행 뒤 다시 와야 열리는 길이 있어 표시만 기억해 두고 다음 구역으로 가는 편이 효율적입니다.
 
 정리 플레이를 시작하기 전에는 현재 구역 진행률과 남은 업적을 간단히 적어두는 것도 좋습니다. 수집품 숫자가 많아지면 같은 구역을 반복해서 도는 일이 생기는데 체크리스트 하나만 있어도 불필요한 백트래킹을 크게 줄일 수 있습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
 
 ## 7. 엔드게임 장비는 다음 회차에도 이어진다
 

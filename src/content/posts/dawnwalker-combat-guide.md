@@ -119,3 +119,14 @@ hideDescription: true
 악세서리는 낮과 밤의 특성에 맞춰 갈아 쓰는 아이템입니다. 뱀파이어 빌드 기준으로 피 흡수 회복과 마법 저항을 주는 크림슨 밴드, 클로 데미지와 완벽 방어 시 충전 회복의 밴드 오브 클로우즈, 체력 비율 재생과 피 세그먼트 증가의 아스트랄 탈리스만이 확실한 값어치가 있으며, 활성 차지 회복과 뱀파이어 쿨다운 감소는 어떤 조합이든 우선 조건입니다.
 
 낮과 밤은 전투 자산이 완전히 달라지므로 장비 프리셋도 나눠 쓰는 것이 정석입니다. 낮 프리셋은 검술과 주술을 살리는 무게·스태미나 중심, 밤 프리셋은 클로와 흡혈을 살리는 이스브란드 계열과 쿨다운 감소가 우선이죠. 중갑은 방어가 높지만 움직임과 스태미나 패널티가 있어, 능력 사용이 많은 빌드에서는 경갑이 더 실질적인 생존력을 줍니다. 프리셋 전환은 UI로 즉시 되므로 해 질 무렵에 다음 밤용 세팅을 준비해두면 전투 직전에 바꾸는 번거로움이 사라지고, 상인이 스토리 날짜에 맞춰 재고를 갱신하는 점만 염두에 두면 초중반 전투가 확실히 편해집니다. 약탈과 쇼핑은 시간을 쓰지 않으니, 장비는 30일과 싸우는 게임에서 건드릴수록 이득인 영역이죠.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

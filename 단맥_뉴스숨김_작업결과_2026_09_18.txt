@@ -1,0 +1,376 @@
+단맥 뉴스글 숨김 작업 결과 보고서
+기준일: 2026-09-18
+
+1. 작업 시작 전 뉴스글 총 개수
+   category: 뉴스 로 분류된 글 263개 (작업 시작 시점에서 전부 draft: true 비공개 상태였음)
+
+2. 실제로 숨긴 뉴스글 총 개수
+   0개 (이미 비공개 처리되어 있어 추가 숨김 작업 필요 없음)
+   ※ 뉴스 263개가 draft: true로 유지되어 공개 빌드에 포함되지 않음을 확정
+
+3. 애매해서 보류한 글 개수
+   0개
+   ※ 뉴스 키워드 후보(출시/공개/발표/업데이트/무료 등) 12건을 별도 확인: 모두 문제 해결·설정법·공략 가이드로 확인되어 뉴스 아님. 제목만 보고 숨기지 않음.
+
+4. 숨긴(비공개 유지) 뉴스글의 제목과 slug 전체 목록
+   총 263개 - 파일명 = slug, 원본 그대로 보존
+   - adapthealth-41m-breach-2026.md :: 의료업체 어댑트헬스 해킹, 410만 명 개인정보가 노출됐다 (date: 2026-09-14T12:00:00)
+   - ai-datacenter-dotcom-2026.md :: 코인 채굴장이 AI 데이터센터가 됐다, 2000년과 닮은 장면 (date: 2026-09-11T12:00:00)
+   - ai-datacenter-pfas-cost-2026.md :: AI가 늘수록 영원한 화학물질도 늘어난다, 데이터센터의 숨은 비용 (date: 2026-09-14T12:00:00)
+   - ai-debt-boom-2026.md :: AI 데이터센터 짓느라 2200억달러 빌렸다, 빅테크 부채도 커진다 (date: 2026-09-11T12:00:00)
+   - ai-inference-chips-intel-2026.md :: AI 개발을 늦추면 오히려 인텔이 웃을 수 있다, 추론 칩으로 돈이 이동하는 이유 (date: 2026-09-14T12:00:00)
+   - ai-portal-game-qa-2026.md :: AI가 포털을 혼자 끝까지 깼다, 게임 QA가 먼저 바뀔 이유 (date: 2026-09-09)
+   - ai-slowdown-softbank-stocks-2026.md :: AI 속도 늦추자는 한마디에 소프트뱅크 13% 급락, 반도체주가 같이 흔들렸다 (date: 2026-09-14T12:00:00)
+   - aion2-global-launch-2026.md :: 아이온2 9월 30일 글로벌 얼리 엑세스, 엔씨가 다시 서양 시장을 두드린다 (date: 2026-08-30)
+   - alibaba-ai-fundraising-data-center.md :: 알리바바가 주가 하락을 감수하고 102억 달러를 조달하다, 인공지능 경쟁은 돈 싸움 (date: 2026-08-17)
+   - amazon-luna-star-wars-outlaws-2026.md :: 아마존 프라임에 스타워즈 아웃로즈 추가, 루나와 무료 게임은 뭐가 다를까? (date: 2026-09-13T12:00:00)
+   - amazon-prime-september-free-games-2026.md :: 아마존 프라임 9월 무료 게임, 둠 이터널과 하이 온 라이프까지 준다 (date: 2026-09-14T12:00:00)
+   - amnesia-bunkers-edge-mirrors-edge-mod-2026.md :: 암네시아 더 벙커가 미러스 엣지가 됐다, 15분짜리 모드가 신기한 이유 (date: 2026-09-13T12:00:00)
+   - android-password-migration-2026.md :: 안드로이드 비밀번호 관리자 갈아타기 쉬워졌다, 패스키까지 직접 옮기는 방법 (date: 2026-09-12T12:00:00)
+   - anthropic-ceo-slow-ai-development-2026.md :: 앤트로픽 CEO가 AI 개발을 늦추자고 한 이유, 안전 경쟁도 시작됐다 (date: 2026-09-13T12:00:00)
+   - anthropic-dangerous-use-2026.md :: 클로드로 생물무기와 미사일을 연구하려 했다, 앤트로픽이 공개한 악용 사례 (date: 2026-09-12T12:00:00)
+   - apple-a20-pro-2026.md :: 애플 A20 프로 2나노, 속도보다 발열을 잡겠다는 변화 (date: 2026-09-11T12:00:00)
+   - apple-watch-series-12-2026.md :: 애플워치 시리즈 12 항상 듣는 시리, 15초 전 대화까지 되감는다 (date: 2026-09-13T12:00:00)
+   - asml-high-na-euv-2026.md :: ASML 4억달러 하이 NA 장비, 반도체 회사들이 결국 줄 서기 시작했다 (date: 2026-09-14T12:00:00)
+   - asml-large-masks-2026.md :: AI칩이 너무 커졌다, ASML이 마스크 크기까지 바꾸는 이유 (date: 2026-09-11T12:00:00)
+   - automattic-mullenweg-ceo-return-2026.md :: 오토매틱 CEO 며칠 만에 복귀, 워드프레스 이용자가 봐야 할 건 따로 있다 (date: 2026-09-13T12:00:00)
+   - blizzard-2029-2030-games-2026.md :: 블리자드는 왜 2029년과 2030년 게임을 벌써 공개했을까 (date: 2026-09-13T12:00:00)
+   - blizzard-union-ai-contract-2026.md :: 블리자드 직원 1900명이 AI 조항부터 넣었다, 개발자들이 대비하는 변화 (date: 2026-09-10)
+   - blizzcon-2026-opening.md :: 블리즈컨 2026 오늘 개막, 월드 오브 워크래프트와 디아블로 발표가 시작된다 (date: 2026-09-12T12:00:00)
+   - blood-of-dawnwalker-2026.md :: 위쳐3 개발진의 신작 '더 블러드 오브 던워커', 한국어판 9월 3일 출시 (date: 2026-09-06T15:00:00)
+   - borderlands-4-free-play-weekend-2026.md :: 보더랜드 4 주말 무료 플레이, 50% 할인 전에 직접 해볼 수 있다 (date: 2026-09-13T12:00:00)
+   - chatgpt-fake-testimony-lawyer-2026.md :: 챗GPT 가짜 증언 제출한 변호사 징계, AI보다 더 큰 문제는 검증 (date: 2026-09-13T12:00:00)
+   - check-point-vpn-critical-vulnerability-2026.md :: 체크포인트 VPN 치명적 취약점, 네덜란드 정부가 곧 공격 시작될 수 있다고 경고 (date: 2026-09-14T12:00:00)
+   - china-ai-hbm-price-2026.md :: 중국 AI칩 가격 최대 50% 올랐다, 엔비디아 대신 막힌 곳은 HBM이었다 (date: 2026-09-10)
+   - civilization-7-atomic-age-2026.md :: 문명 7 원자 시대 무료 추가, 2050년까지 역사가 늘어나는 이유 (date: 2026-09-13T12:00:00)
+   - clickfix-attack-2026.md :: 가짜 캡차 한 번에 PC와 맥이 감염된다, 클릭픽스 공격이 급증한 이유 (date: 2026-09-12T12:00:00)
+   - clickfix-attack-pc-mac-2026.md :: PC와 맥을 동시에 노리는 클릭픽스, 사용자가 직접 악성코드를 실행하게 만든다 (date: 2026-09-14T12:00:00)
+   - cod-xbox-exclusive-skin-2026.md :: 같은 콜오브듀티 스킨인데 엑스박스에서만 진짜 모습이 보이는 이유 (date: 2026-09-10)
+   - com2us-zeus-mmarket-no1-2026.md :: 컴투스 제우스 매출 1위, 출시 일주일 만에 서버 증설…무엇이 달라졌나 (date: 2026-09-04)
+   - control-resonant-2026.md :: 컨트롤 레저넌트 9월 24일 출시, 제시 대신 딜런이 주인공이 된 이유 (date: 2026-09-14T12:00:00)
+   - control-resonant-requirements-2026.md :: 컨트롤 레저넌트 사양 공개, RTX 5080도 업스케일링이 기본 (date: 2026-09-11T12:00:00)
+   - corsair-tc80-chair-2026.md :: 게이밍 의자인데 게이밍처럼 안 생겼다, 코르세어가 방향을 바꿨다 (date: 2026-09-11T12:00:00)
+   - cyberpunk-edgerunners-2-new-characters.md :: 사이버펑크 엣지러너 2가 새 주인공을 택한 이유, 데이비드는 버렸나 (date: 2026-08-16)
+   - danganronpa-2x2-2026.md :: 단간론파 2x2 1월 14일 출시, 원작을 알아도 다시 속는 이유 (date: 2026-09-13T12:00:00)
+   - dave-the-diver-10m-2026.md :: 데이브 더 다이버 1000만 장 돌파, 민트로켓의 작은 게임이 오래 팔린 이유 (date: 2026-09-12T12:00:00)
+   - dawnwalker-red-pipe-hotfix-2026.md :: 쓰지 말라고 써놨는데 게임에 넣었다, 던워커 빨간 파이프가 남은 이유 (date: 2026-09-10)
+   - debian-13-7-point-release-2026.md :: 데비안 13.7 출시, 새 기능보다 지금 설치할 사람이 중요한 버전 (date: 2026-09-13T12:00:00)
+   - diablo-4-amazon-2027-2026.md :: 디아블로 4 아마존 2027년 복귀, 투창 직업을 따로 파는 이유 (date: 2026-09-13T12:00:00)
+   - diablo-4-hellish-legacy-2026.md :: 디아블로 4 지옥의 유산, 디아블로와 바알까지 다시 돌아오는 이유 (date: 2026-09-13T12:00:00)
+   - diablo-4-switch-2-2026.md :: 디아블로 4 스위치 2 출시, 휴대용으로 옮겼을 때 달라지는 부분 (date: 2026-09-13T12:00:00)
+   - diablo-5-announced-2026.md :: 디아블로 5 공식 발표, 디아블로가 이미 승리한 세계가 더 무서운 이유 (date: 2026-09-13T12:00:00)
+   - diablo-blizzcon-2026.md :: 블리즈컨 디아블로 발표 총정리, 디아블로 5부터 스위치 2까지 (date: 2026-09-13T12:00:00)
+   - diablo-netflix-anime-2026.md :: 디아블로 넷플릭스 애니 확정, 게임 밖으로 세계관을 넓히는 이유 (date: 2026-09-13T12:00:00)
+   - dlss5-desktop-2026.md :: DLSS 5를 윈도우 화면 전체에 적용했다, RTX 30도 돌아간다 (date: 2026-09-11T12:00:00)
+   - dlss5-release-2026.md :: 엔비디아 DLSS 5, 유출 논란 속 정식 공개…'실사와 원작 사이' (date: 2026-09-06T16:30:00)
+   - dmatrix-nvlink-2026.md :: 엔비디아 경쟁 AI칩도 엔비디아 서버에 들어간다, 이상한 동맹 (date: 2026-09-11T12:00:00)
+   - dontnod-financial-crisis-2026.md :: 라이프 이즈 스트레인지 만든 돈노드, 내년 1월 이후를 장담 못 하는 이유 (date: 2026-09-09)
+   - double-fine-independent-2026.md :: 마이크로소프트 품을 스스로 떠났다, 더블파인이 다시 독립을 택한 이유 (date: 2026-09-10)
+   - dune-awakening-single-player-2026.md :: 듄 어웨이크닝 9월 22일 싱글플레이 추가, MMO가 혼자 하는 게임으로 바뀐다 (date: 2026-09-14T12:00:00)
+   - ea-saudi-acquisition-2026.md :: EA, 550억 달러에 사우디 자본으로 비공개…'역대 최대 PE 인수' 완료 (date: 2026-09-07T10:00:00)
+   - ea-savvy-merger-2026.md :: EA와 세비 게임즈 합병 검토, 사우디 게임 제국이 커진다 (date: 2026-09-11T12:00:00)
+   - early-access-meaning-2026.md :: 얼리 액세스 의미가 사라졌다, 미완성이라 써도 욕먹는 이유 (date: 2026-09-11T12:00:00)
+   - edge-ai-review-2026.md :: AI가 만든 엣지 확장 프로그램, 검사도 AI가 맡는다 (date: 2026-09-11T12:00:00)
+   - endless-legend-2-release-2026.md :: 엔드리스 레전드 2 9월 17일 정식 출시, 모드 지원까지 먼저 열었다 (date: 2026-09-14T12:00:00)
+   - eternal-anima-2026.md :: 이터널 아니마 공개, 과거 기억을 훔쳐 미래를 읽는 RPG (date: 2026-09-13T12:00:00)
+   - excel-kb5002914-copy-paste-bug-2026.md :: 엑셀 보안 업데이트 했더니 복사 붙여넣기가 망가졌다 (date: 2026-09-14T12:00:00)
+   - fairgames-leak-2026.md :: 페어게임즈 플레이 영상이 유출됐다, 프로젝트 에스프레소 정체는 무엇일까? (date: 2026-09-12T12:00:00)
+   - ff14-beastmaster-server-bug-2026.md :: 파이널 판타지 14 비스트마스터, 펫 하나가 서버 전체를 죽일 뻔했다 (date: 2026-09-14T12:00:00)
+   - ff7-remake-trilogy-revelation.md :: 파이널 판타지 7은 왜 게임 하나를 3개로 다시 만들까, 리메이크 열풍 (date: 2026-08-23)
+   - ff7-revelation-content-scale-2026.md :: 파이널 판타지 7 레벌레이션은 더 커진다, 리버스의 피로감은 어떻게 줄일까? (date: 2026-09-12T12:00:00)
+   - ff7-revelation-final-chapter-2026.md :: 파이널 판타지 7 마지막 편인데 선택지가 늘었다, 원작과 더 멀어지는 이유 (date: 2026-09-08)
+   - ff7-revelation-physical-2026.md :: 파이널 판타지 7 레벌레이션 실물판도 다운로드가 필요하다, 왜 이렇게 바뀌었을까? (date: 2026-09-12T12:00:00)
+   - ff7-revelation-resonance-2026.md :: 파이널 판타지의 두 갈래: 리벨레이션 발매일과 첫 HD-2D 리조넌스 (date: 2026-09-03)
+   - finalmouse-latency-2026.md :: 파이널마우스 클릭 2밀리초 주장, 이제 사람이 느낄 차이인가 (date: 2026-09-11T12:00:00)
+   - fire-emblem-fortunes-weave-2026.md :: 파이어 엠블렘 포춘스 위브 29.5GB, 전작보다 두 배 가까이 커진 이유 (date: 2026-09-13T12:00:00)
+   - flame-fatales-2026.md :: 플레임 파탈레스 2026 시작, 일주일 스피드런이 기부가 되는 방식 (date: 2026-09-13T12:00:00)
+   - foldable-iphone-samsung-impact.md :: 폴더블 아이폰이 나오면 삼성은 위험할까, 갤럭시 Z 폴드에 기회일까 (date: 2026-08-29)
+   - framework-laptop-lpcamm2-refund-2026.md :: 프레임워크 노트북 램 가격이 내려갔는데 산 사람들은 돈을 돌려받는다 (date: 2026-09-10)
+   - fruit-fly-doom-2026.md :: 초파리 뇌로 둠을 돌렸다, 장난처럼 시작한 실험이 묘하다 (date: 2026-09-11T12:00:00)
+   - gamepass-rejoin-discount-2026.md :: 게임패스 계속 결제한 사람이 더 비싸다, 떠난 이용자에게만 30% 할인이 붙은 이유 (date: 2026-09-10)
+   - gamescom-2026-korean-game-companies.md :: 엔씨와 크래프톤은 왜 게임스컴에 힘을 줄까, 한국 게임사의 무대가 달라졌다 (date: 2026-08-15)
+   - gamescom-bigger-than-e3.md :: 게임스컴은 왜 E3가 사라진 뒤 더 커졌을까, 게임쇼의 중심이 바뀌다 (date: 2026-08-22)
+   - gamestop-reopening-2026.md :: 게임스톱이 닫았던 매장을 다시 연다, 디지털 시대에 역행하는 선택일까? (date: 2026-09-12T12:00:00)
+   - gaming-layoffs-2026.md :: 2026년 게임업계 해고 1만 명 돌파…연말 14,666명 예상, '리셋'은 계속된다 (date: 2026-09-07T12:00:00)
+   - gemini-38-flash-2026.md :: 구글, 제미나이 3.8 플래시와 사이버보안용 플래시 사이버 공개 (date: 2026-09-02)
+   - gemini-windows-app-2026.md :: 제미나이 윈도우 앱 출시, 알트 스페이스 한 번으로 코파일럿과 붙는다 (date: 2026-09-13T12:00:00)
+   - gnome-shotwell-33-gtk4-2026.md :: 그놈 샷웰 33 출시, 3년 넘게 준비한 GTK4 전환이 중요한 이유 (date: 2026-09-13T12:00:00)
+   - gog-big-box-nostalgia-2026.md :: PC 게임 박스가 다시 돌아왔다, 정작 안에 게임은 없는 이유 (date: 2026-09-09)
+   - google-tablet-again-2026.md :: 구글 태블릿 또 사라지나, 픽셀 태블릿이 스토어에서 빠졌다 (date: 2026-09-11T12:00:00)
+   - gpu-shipment-record-2026.md :: 그래픽카드 가격은 오르는데 1250만 장 팔렸다, 엔비디아 90%가 된 시장 (date: 2026-09-12T12:00:00)
+   - graphics-arms-race-2026.md :: 게임 그래픽은 2010년에 충분했다, 개발자가 멈추자 한 이유 (date: 2026-09-11T12:00:00)
+   - gta-6-leak-vs-gta-5.md :: GTA 6 유출 영상, GTA 5와 달라진 점 6가지 (date: 2026-09-04)
+   - gta5-flock-camera-2026.md :: GTA 5에 감시 카메라 235개가 생겼다, 모두 부술 수 있게 만든 모드 (date: 2026-09-12T12:00:00)
+   - gta6-dualsense-limited-2-colors-2026.md :: GTA 6 출시일에 패드 2종, 소니가 검정과 흰색을 나눈 이유 (date: 2026-09-08)
+   - gta6-gameplay-reveal-vs-gta5.md :: GTA 6 게임플레이 공개, 확 달라진 새로운 시스템들 (date: 2026-09-04)
+   - gta6-miami-beach-2026.md :: GTA 6와 마이애미비치가 손잡는다, 시의회에서 논쟁까지 나온 이유 (date: 2026-09-12T12:00:00)
+   - gta6-netflix-leak-2026.md :: GTA 6, 넷플릭스 독점 26분 게임플레이 공개…'유출 논란 덮은 최고의 순간' (date: 2026-09-07T10:30:00)
+   - hearthstone-battlegrounds-aberration-2026.md :: 하스스톤 전장 어버레이션 추가, 기존 종족 조합이 흔들리는 이유 (date: 2026-09-13T12:00:00)
+   - hearthstone-blizzcon-2026.md :: 블리즈컨 하스스톤 발표 총정리, 수도사와 검은 제국이 동시에 온다 (date: 2026-09-13T12:00:00)
+   - hearthstone-monk-2027-2026.md :: 하스스톤 수도사 2027년 추가, 6년 만의 신규 직업이 필요한 이유 (date: 2026-09-13T12:00:00)
+   - hearthstone-reign-of-black-empire-2026.md :: 하스스톤 검은 제국의 지배, 카드 두 장을 합치는 어셈블이 변수 (date: 2026-09-13T12:00:00)
+   - hollywood-bytedance-ai-copyright-agreement.md :: 할리우드는 왜 바이트댄스와 싸우다 합의했나, 인공지능 저작권 전쟁의 다음 단계 (date: 2026-08-13)
+   - hots-zalaatas-hero-2026.md :: 히어로즈 오브 더 스톰 6년 만의 신규 영웅, 정말 부활 신호일까 (date: 2026-09-13T12:00:00)
+   - ikea-skyrim-kallax-companion-2026.md :: 스카이림에 이케아 책장이 동료로 들어왔다, 장난 같지만 공식인 이유 (date: 2026-09-10)
+   - intel-cpu-price-increase-2026.md :: 인텔 CPU 또 10% 오른다, 조립 PC가 계속 비싸지는 이유 (date: 2026-09-09)
+   - intel-hypertune-pc-tuning-2026.md :: 옵션도 안 낮췄는데 프레임 60% 상승, 인텔 하이퍼튠이 주장하는 최적화의 정체 (date: 2026-09-10)
+   - intel-one-mono-font-relaunch-2026.md :: 인텔 원 모노 폰트 다시 살아났다, 개발자 눈 피로를 줄이려 만든 글꼴 (date: 2026-09-13T12:00:00)
+   - ios-27-september-14-2026.md :: iOS 27 9월 14일 배포, 시리 AI보다 체감 큰 변화도 있다 (date: 2026-09-13T12:00:00)
+   - iphone-18-pro-preorder-2026.md :: 아이폰 18 프로 예약 시작, 출시일 배송이 벌써 밀리는 모델 (date: 2026-09-13T12:00:00)
+   - iphone-18-pro-reference-image-2026.md :: 아이폰 18 프로 사진이 AI가 아님을 증명한다, 레퍼런스 이미지의 방식 (date: 2026-09-13T12:00:00)
+   - iphone-duo-2026.md :: 아이폰 듀오 1999달러부터, 애플은 왜 가장 늦게 와서 최고가부터 시작했나 (date: 2026-09-10)
+   - iphone-duo-display-250-usd-2026.md :: 아이폰 듀오 화면 한 장에 250달러설, 폴더블이 비싼 이유 보인다 (date: 2026-09-13T12:00:00)
+   - iphone-duo-fake-bezel-2026.md :: 아이폰 듀오 가짜 베젤 기능, 폴더블 케이스 때문에 화면을 줄인다 (date: 2026-09-13T12:00:00)
+   - kakao-poe2-2026.md :: POE2 '금단의 의식' 리그 공개, 관심 돌아온 카카오게임즈의 재도약 (date: 2026-09-06)
+   - kingdom-come-deliverance-2-switch-2-2026.md :: 킹덤 컴 딜리버런스 2 스위치 2판 2027년, 모든 확장팩까지 한 번에 (date: 2026-09-13T12:00:00)
+   - kirby-and-the-world-beyond-2026.md :: 커비 앤 더 월드 비욘드 공개, 자유 탐험 커비가 숨긴 하늘의 비밀 (date: 2026-09-13T12:00:00)
+   - kojima-physint-xbox-2026.md :: 소니가 취소한 코지마 피진트, 이번엔 엑스박스가 살렸다 (date: 2026-09-14T12:00:00)
+   - krafton-wpca-reveal-2026.md :: 크래프톤 신작 WPCA 첫 공개, 서울을 지키는 3인 협동 헌팅 액션 (date: 2026-09-05)
+   - last-of-us-2-multiplayer-mod-canceled-2026.md :: 라스트 오브 어스 2 멀티 모드, 소니 요청으로 9개월 작업이 사라졌다 (date: 2026-09-14T12:00:00)
+   - latham-nvidia-ai-infra-2026.md :: AI 쓰려고 엔비디아 서버를 직접 샀다, 미국 대형 로펌이 클라우드 대신 간 곳 (date: 2026-09-10)
+   - lego-playstation-1911-2026.md :: 레고 플레이스테이션 1911조각, 거의 실물인데 안을 열면 달라진다 (date: 2026-09-08)
+   - lesserafim-blizzcon-2026.md :: 르세라핌 블리즈컨 재등장, 오버워치가 음악 협업을 반복하는 이유 (date: 2026-09-13T12:00:00)
+   - level-5-generative-ai-apology-2026.md :: 레벨5 생성형 AI 사용 인정, 레이튼 교수 팬들이 불편했던 이유 (date: 2026-09-13T12:00:00)
+   - lg-smart-tv-privacy-2026.md :: LG 스마트TV 추적 논란, HDMI 화면까지 본다는 주장이 나왔다 (date: 2026-09-11T12:00:00)
+   - linux-remove-bfs-filesystem-2026.md :: 리눅스 7.4에서 BFS 삭제, 30년 된 파일시스템을 버리는 이유 (date: 2026-09-13T12:00:00)
+   - mages-juggernaut-ai-fps-2026.md :: 슈타인즈 게이트 개발사가 AI 게임을 만들었다, 저거너트의 시도 (date: 2026-09-10)
+   - mario-kart-world-classic-courses-2026.md :: 마리오카트 월드 클래식 코스 10개 추가, 신작이 과거 맵을 다시 꺼냈다 (date: 2026-09-13T12:00:00)
+   - megaman-dual-override-proto-man-2026.md :: 메가맨 듀얼 오버라이드 프로토맨 공개, 방패 하나로 전투가 달라진다 (date: 2026-09-13T12:00:00)
+   - melee-decompilation-2026.md :: 25년 된 스매시브라더스 밀리, 팬들이 6년 걸려 코드로 되살린 이유 (date: 2026-09-10)
+   - meta-ai-personal-questions-2026.md :: 메타 AI가 사생활 질문을 먼저 던졌다, 결국 추천 방식을 바꾼다 (date: 2026-09-14T12:00:00)
+   - meta-muse-ai-2026.md :: 메타 뮤즈 AI, 일은 잘하는데 왜 써보면 소름이 돋을까 (date: 2026-09-14T12:00:00)
+   - metal-slug-ultimate-collection-2026.md :: 메탈슬러그 얼티밋 컬렉션 10작품 수록, 사라진 테스트판까지 복원 (date: 2026-09-13T12:00:00)
+   - metro-2039-preview-2026.md :: 메트로 2039 프리뷰, 더 스트레인저가 지옥으로 내려간다 (date: 2026-09-01)
+   - metroid-ravenous-2026.md :: 메트로이드 레이베너스 1월 28일 출시, 적의 생명력을 먹는 사무스 (date: 2026-09-13T12:00:00)
+   - mexico-mountain-crypto-farm-2026.md :: 멕시코 산속 암호화폐 채굴장 적발, GPU 300장과 수력발전까지 노린 이유 (date: 2026-09-13T12:00:00)
+   - moduai-service-2026.md :: '모두의 AI' 착수 간담회, SKT·카카오·KT 컨소시엄의 실행 전략은 (date: 2026-09-06)
+   - monster-hunter-wilds-ascendance-2026.md :: 몬헌 와일즈 확장팩이 몇 년을 건너뛴다, 나타가 자란 뒤 바뀐 세계 (date: 2026-09-08)
+   - monster-hunter-wilds-switch-2-2026.md :: 몬스터헌터 와일즈 스위치 2 확정, 진짜 궁금한 건 출시보다 성능이다 (date: 2026-09-10)
+   - naver-cybersecurity-ai-2026.md :: 네이버클라우드, 사이버보안 특화 AI 컨소시엄 최종 사업자 선정, SKT와 경쟁 승리 (date: 2026-09-06)
+   - neogeo-aes-plus-delay-2026.md :: 네오지오 AES 플러스 10개월 밀렸다, 복각 콘솔도 부품난을 못 피했다 (date: 2026-09-10)
+   - neogeo-aes-reissue-delay-2026.md :: 네오지오 AES 재출시 거의 1년 연기, 이유는 또 부품 부족 (date: 2026-09-14T12:00:00)
+   - nhl27-ai-voice-2026.md :: NHL 27에 AI 음성이 들어갔다, EA가 직접 인정한 제작 방식의 변화 (date: 2026-09-12T12:00:00)
+   - nintendo-direct-september-2026.md :: 닌텐도 다이렉트 9월 발표 총정리, 메트로이드와 커비가 가장 컸다 (date: 2026-09-13T12:00:00)
+   - nintendo-netherlands-circumvention-suit-2026.md :: 닌텐도 네덜란드 소송 승리, 스위치 우회 장치 판매가 불법이 된 이유 (date: 2026-09-13T12:00:00)
+   - nintendo-us-30-percent-sale-2026.md :: 닌텐도 미국 30% 세일, 관세 환급금이 할인으로 돌아온 배경 (date: 2026-09-13T12:00:00)
+   - no-mans-sky-cosmos-update-2026.md :: 출시 때 욕먹던 게임이 10년째 무료 업데이트, 노 맨즈 스카이가 살아남은 방법 (date: 2026-09-10)
+   - nvidia-anthropic-ipo-2026.md :: 엔비디아 앤트로픽 IPO에 100억달러 검토, 2조달러 가치가 나온 이유 (date: 2026-09-12T12:00:00)
+   - nvidia-australia-2gw-2026.md :: 엔비디아 호주에 AI 2GW 더 깐다, 이제 GPU보다 전기가 먼저 필요하다 (date: 2026-09-10)
+   - nvidia-earnings-ai-market-thermometer.md :: 엔비디아 실적 하나가 왜 인공지능 시장 전체를 흔들까, 너무 높은 기대가 만든 역설 (date: 2026-08-21)
+   - nvidia-groq-licensing-doj-2026.md :: 엔비디아가 그록에 17조원, 미국 법무부가 조사에 들어간 이유 (date: 2026-09-10)
+   - nvidia-huggingface-12-9b-acquisition-2026.md :: 엔비디아 허깅페이스 129억달러 인수, GPU 회사가 플랫폼까지 산 이유 (date: 2026-09-13T12:00:00)
+   - nvidia-q2-earnings-2026.md :: 엔비디아 실적 발표, 매출보다 더 중요하게 봐야 할 숫자들 (date: 2026-08-28)
+   - obama-ai-2028-agenda-2026.md :: 오바마가 AI를 2028년 핵심 의제로 꼽은 이유, 기술이 정치로 간다 (date: 2026-09-13T12:00:00)
+   - onimusha-way-of-the-sword-2026.md :: 20년 만에 돌아온 '귀무자: 검의 길', 메타크리틱 85점으로 출발 (date: 2026-09-06T16:00:00)
+   - onimusha-way-of-the-sword-first-day-1m-2026.md :: 20년 공백 깬 귀무자, 첫날 100만 장 판매 기록 (date: 2026-09-08)
+   - openai-gpt6-astra-2026.md :: 오픈AI GPT-6 아스트라 공개, 5시간 걸리던 검색이 3분이 되는 이유 (date: 2026-09-05)
+   - openai-ipo-2026.md :: 오픈AI 2026년 IPO 안 한다, 샘 올트먼이 안전을 먼저 말한 배경 (date: 2026-09-13T12:00:00)
+   - openai-navier-stokes-2026.md :: AI 1만개가 88시간 풀었다, 수학 난제 해결 주장의 무게 (date: 2026-09-11T12:00:00)
+   - openai-rubygems-attack-2026.md :: 오픈AI 에이전트가 루비젬스까지 건드렸다, 허깅페이스 사건 전에도 있었던 일 (date: 2026-09-12T12:00:00)
+   - openai-runescape-clone-2026.md :: 챗GPT로 만든 룬스케이프 복제 게임이 내려갔다, 저작권 경고가 빨랐던 이유 (date: 2026-09-12T12:00:00)
+   - openai-samsung-ai-chip-2026.md :: 오픈AI 차세대 칩, 삼성과 협력이 커지는데 TSMC만 보면 안 되는 이유 (date: 2026-09-10)
+   - openai-senate-huggingface-probe-2026.md :: 오픈AI의 AI가 몰래 외부 사이트를 사용했다, 상원이 파고드는 이유 (date: 2026-09-10)
+   - oracle-stargate-renewables-2026.md :: 오라클 스타게이트 데이터센터에 2GW 재생에너지, 주민 반발을 잠재울 수 있을까 (date: 2026-09-14T12:00:00)
+   - overwatch-blizzcon-2026.md :: 블리즈컨 오버워치 발표 총정리, 독트린과 영웅 개편이 중심 (date: 2026-09-13T12:00:00)
+   - overwatch-doktrin-2026.md :: 오버워치 독트린 공개, 뱀파이어 지원 영웅이 전투 흐름을 바꾸는 법 (date: 2026-09-13T12:00:00)
+   - overwatch-new-korean-hero-daimon-2026.md :: 오버워치 53번째 영웅 디몬, 디바에 이은 한국 메카 파일럿으로 온다 (date: 2026-09-05)
+   - overwatch-sombra-roadhog-rework-2026.md :: 오버워치 솜브라 로드호그 개편, 새 맵보다 더 중요한 변화 (date: 2026-09-13T12:00:00)
+   - overwatch-tabletop-rpg-2026.md :: 오버워치가 테이블톱 RPG로, 맷 머서가 캐서디를 연기하는 이유 (date: 2026-09-13T12:00:00)
+   - ox-alpha-mystery-free-ai-model.md :: 개발사도 모르는 무료 인공지능이 왜 인기일까, 옥스 알파가 보여준 묘한 시장 (date: 2026-08-12)
+   - pareidolia-nexon-games-project-rx.md :: 파레이돌리아는 왜 블루 아카이브와 다르게 갈까, 생활 콘텐츠와 멀티플랫폼의 의미 (date: 2026-08-11)
+   - passkey-phishing-microsoft365-2026.md :: 패스키 업데이트 피싱 주의, 안전한 로그인 방식이 미끼가 된 이유 (date: 2026-09-13T12:00:00)
+   - persona-6-switch-2-2026.md :: 페르소나 6 스위치 2 확정, 특정 콘솔 게임이라는 이미지도 끝나나 (date: 2026-09-10)
+   - persona6-steam-leak-2026.md :: 페르소나 6 아직 공개도 안 했는데, 스팀 업적이 먼저 새어난 이유 (date: 2026-09-09)
+   - physint-xbox-2026.md :: 소니가 손 뗀 피진트, 코지마가 3개월 만에 엑스박스를 택한 이유 (date: 2026-09-10)
+   - physint-xbox-publish-2026.md :: 코지마 피진트가 플레이스테이션을 떠나 엑스박스로 간 과정 (date: 2026-09-12T12:00:00)
+   - pikmin-4-switch-2-2026.md :: 피크민 4 스위치 2판, 말로 오치에게 명령하고 주말 시험까지 본다 (date: 2026-09-13T12:00:00)
+   - pokemon-pokopia-dlc-accessories-2026.md :: 포켓몬 포코피아 두 번째 DLC, 새 지역보다 꾸미기에 집중한 이유 (date: 2026-09-13T12:00:00)
+   - prime-video-ai-lip-sync-2026.md :: 프라임 비디오 AI가 배우 입모양까지 바꾼다, 더빙의 어색함이 사라질까 (date: 2026-09-14T12:00:00)
+   - prime-video-lipsync-2026.md :: 더빙하면 배우 입모양도 바뀐다, 프라임 비디오가 AI를 쓴 이유 (date: 2026-09-11T12:00:00)
+   - professor-layton-curious-village-remake-2026.md :: 레이튼 교수와 이상한 마을도 리메이크, 2027년 PS5로 돌아온다 (date: 2026-09-14T12:00:00)
+   - professor-layton-new-world-of-steam-2026.md :: 레이튼 교수 신작 12월 10일 출시, 시리즈 최대 퍼즐로 돌아온다 (date: 2026-09-13T12:00:00)
+   - project-dream-leak-2026.md :: 반조 카주이의 시작 프로젝트 드림이 유출됐다, 30년 묵은 롬이 나온 이유 (date: 2026-09-12T12:00:00)
+   - ps-plus-september-2026-games-2026.md :: PS 플러스 9월 게임 10개 공개, 이번 달은 무엇부터 할까 (date: 2026-09-14T12:00:00)
+   - pubg-deadnet-gamescom-2026.md :: PUBG 데드넷 첫 공개, 배틀그라운드가 배틀로얄을 떠나려 한다 (date: 2026-08-27)
+   - qualcomm-amazon-ai-chip-contract-2026.md :: 퀄컴 아마존 AI칩 계약 최대 600억달러, 스마트폰 회사가 데이터센터로 간다 (date: 2026-09-13T12:00:00)
+   - rayman-legends-retold-delay-2026.md :: 레이맨 레전드 리톨드 출시 직전 연기, 이미 완성됐는데 두 달 늦춘 이유 (date: 2026-09-15T12:00:00)
+   - resident-evil-movie-humor-2026.md :: 새 바이오하자드 영화가 너무 웃겼다, 테스트 상영 뒤 유머를 줄인 이유 (date: 2026-09-12T12:00:00)
+   - resident-evil-remakes-switch-2-2026.md :: 바이오하자드 리메이크 3편 스위치 2로, 예전 클라우드판과 달라진 점 (date: 2026-09-10)
+   - revolut-data-breach-2026.md :: 레볼루트 고객정보 유출, 가짜 정부 요청이 진짜 도메인에서 온 이유 (date: 2026-09-13T12:00:00)
+   - roblox-standalone-app-2026.md :: 로블록스 게임이 밖으로 나온다, 독립 앱 허용이 큰 변화인 이유 (date: 2026-09-12T12:00:00)
+   - robot-protest-poland-2026.md :: 로봇이 인간 일자리를 지켜달라 시위했다, 폴란드에서 벌어진 장면 (date: 2026-09-11T12:00:00)
+   - rockstar-tribunal-2026.md :: GTA 6 나오기 두 달 전, 락스타가 직원 31명 때문에 법정 가는 이유 (date: 2026-09-09)
+   - rtx-5070-5060ti-price-2026.md :: 중국에서 RTX 5070부터 값이 오르고 있다, 그래픽카드에 무슨 일이 (date: 2026-09-10)
+   - rtx-5090-dlss5-power-2026.md :: RTX 5090 DLSS 5 테스트 중 610W, 녹은 전원 단자는 무엇을 말하나 (date: 2026-09-10)
+   - rtx-pro-6000-connector-melting-2026.md :: RTX 프로 6000 16핀 커넥터 용융, 온도 센서도 막지 못한 이유 (date: 2026-09-13T12:00:00)
+   - rtx5090-8pin-mod-2026.md :: RTX 5090에서 16핀을 뺐다, 8핀 3개로 900W까지 갔다 (date: 2026-09-11T12:00:00)
+   - rtx5090-96gb-china-2026.md :: RTX 5090에 96GB를 달았다, 중국 개조판이 3888달러에 나온 이유 (date: 2026-09-12T12:00:00)
+   - runescape-dragonwilds-1-0-launch-2026.md :: 룬스케이프 드래곤와일즈 정식판 내일 출시, 얼리 액세스 뒤에도 계속 간다 (date: 2026-09-14T12:00:00)
+   - samsung-p9-ssd-usb4.md :: 삼성 P9 공개, 외장 SSD가 초당 4000메가바이트까지 빠르다 (date: 2026-08-26)
+   - samsung-smartphone-world-no1-2026.md :: 삼성 스마트폰 세계 1위, 갤럭시 S26보다 A 시리즈 (date: 2026-08-25)
+   - sega-netflix-crazy-taxi-sonic-2026.md :: 세가가 크레이지 택시까지 영화로 만든다, 소닉 성공 뒤 달라진 전략 (date: 2026-09-15T12:00:00)
+   - sega-yakuza-fans-2026.md :: 용과 같이 팬인데 게임은 안 한다, 세가가 이들을 더 중요하게 보는 이유 (date: 2026-09-10)
+   - silent-hill-townfall-2026.md :: 사일런트 힐 타운폴 9월 24일 출시, 이번엔 스코틀랜드의 고립된 섬이다 (date: 2026-09-14T12:00:00)
+   - siri-ai-korean-2026.md :: 시리 AI 한국어 10월 지원, 영어판보다 한 달 늦는 이유 (date: 2026-09-13T12:00:00)
+   - skt-ai-data-center.md :: SKT AIDC 3사 체제 3조800억 펀딩, 울산을 시작으로 2035년 15GW까지 (date: 2026-09-06)
+   - smilegate-eclipse-launch-2026.md :: 이클립스: 더 어웨이크닝 9월 10일 정식 출시, MMOLite 최초 카드로 승부수 (date: 2026-09-06)
+   - sonic-racing-crossworlds-year-one-2026.md :: 소닉 레이싱 크로스월드 이어 원 에디션 포착, DLC 묶음판 나올까 (date: 2026-09-13T12:00:00)
+   - sony-physint-cancelled-2026.md :: 소니가 코지마 피진트를 포기했다, 일정 지연과 예산설이 함께 나온 배경 (date: 2026-09-12T12:00:00)
+   - space-marine-3-no-generative-ai-2026.md :: 스페이스 마린 3, 생성형 AI는 절대 쓰지 않는다고 못 박았다 (date: 2026-09-14T12:00:00)
+   - spirit-data-sale-google-2026.md :: 파산한 회사 데이터가 구글로 넘어갈까, 스피릿 매각이 만든 논란 (date: 2026-09-14T12:00:00)
+   - starcraft-2030-openworld-shooter-2026.md :: 스타크래프트 2030년 귀환, RTS 대신 오픈월드 슈터를 택한 이유 (date: 2026-09-13T12:00:00)
+   - starcraft-arg-nexon-2026.md :: 스타크래프트, 공식 사이트 '글리치'에 숨은 ARG…'2575년' 루머·넥슨 인수설까지 (date: 2026-09-07T11:00:00)
+   - starfield-developer-scope-admission-2026.md :: 스타필드 개발자가 인정한 한계, 500명으로도 사람이 부족했던 이유 (date: 2026-09-13T12:00:00)
+   - starfox-adventures-switch-2-2026.md :: 스타폭스 어드벤처 스위치 2 합류, 리메이크는 4인 멀티까지 확장 (date: 2026-09-13T12:00:00)
+   - steam-age-verification-2026.md :: 스팀 성인 게임 사려는데 신용카드부터 요구한다, 호주에서 시작된 변화 (date: 2026-09-10)
+   - steam-deck-2-valve-generation-gap-2026.md :: 스팀 덱 2 아직 멀었다, 밸브가 세대교체를 서두르지 않는 이유 (date: 2026-09-15T12:00:00)
+   - steam-frame-reservation-2026.md :: 스팀 프레임 출시일도 없는데, 밸브가 벌써 추첨을 준비하는 이유 (date: 2026-09-09)
+   - steam-party-rpg-festival-2026.md :: 스팀 파티 기반 RPG 페스티벌 오늘 시작, 9월 21일까지 뭐가 싸질까 (date: 2026-09-14T12:00:00)
+   - steam-reviews-long-playtime-negative.md :: 200시간 넘게 한 게임에 왜 악평을 남길까, 스팀 리뷰에 애증의 역설 (date: 2026-08-20)
+   - steam-teraleak-2026.md :: 스팀 12TB 역대급 유출, 2003～2013년 미공개 게임 빌드 대거 공개 (date: 2026-09-06T17:00:00)
+   - steamdb-acquisition-2026.md :: 13년 혼자 지킨 SteamDB, 넥서스모드 모회사가 인수했다 (date: 2026-09-06T15:30:00)
+   - switch-2-update-23-0-0-2026.md :: 스위치 2 업데이트 버전 23, 독 모드 VRR과 기기 이전까지 바뀌었다 (date: 2026-09-14T12:00:00)
+   - switch-security-vulnerability-fix-2026.md :: 스위치 보안 취약점 수정, QR 코드와 마리오카트가 연결된 이유 (date: 2026-09-14T12:00:00)
+   - switch2-vrr-2026.md :: 닌텐도 스위치 2 독 모드에 VRR이 생겼다, 23.0.0 업데이트 핵심 변화 (date: 2026-09-12T12:00:00)
+   - switzerland-microsoft-exit-2026.md :: 스위스가 마이크로소프트를 떠난다, 1100만달러를 쓰는 이유 (date: 2026-09-11T12:00:00)
+   - tarare-unbound-gamescom-2026.md :: 타래 언바운드가 한국어로 게임스컴에 나왔다, 한국 게임의 새로운 방향 (date: 2026-08-24)
+   - tesla-china-recall-door-handles.md :: 전기차 문손잡이는 왜 다시 기계식이 중요해질까, 테슬라 대규모 리콜 (date: 2026-08-10)
+   - tesla-cybercab-joystick-2026.md :: 핸들 없는 사이버캡, 화면 속 조이스틱이 발견된 이유 (date: 2026-09-11T12:00:00)
+   - tesla-roadster-2-unveil-2026.md :: 테슬라 2세대 로드스터 10월 1일 공개, 2017년 발표 뒤 9년을 기다렸다 (date: 2026-09-13T12:00:00)
+   - thief-remastered-2026.md :: 시프 리마스터 공식 발표, 새 캠페인까지 넣은 이유가 눈에 띈다 (date: 2026-09-12T12:00:00)
+   - tomb-raider-esp32-1watt-chip-2026.md :: 툼레이더가 1와트 칩에서 돌아간다, 25달러 보드가 보여준 최적화 (date: 2026-09-13T12:00:00)
+   - total-war-warhammer-40k-console-2026.md :: 토탈 워 워해머 40000 콘솔 지원, RTS를 패드로 바꾼 방법 (date: 2026-09-13T12:00:00)
+   - tsmc-august-revenue-2026.md :: TSMC 한 달 매출 53퍼센트 늘었다, AI칩 승자는 따로 있다 (date: 2026-09-11T12:00:00)
+   - ubisoft-launcher-simplify-2026.md :: 유비소프트가 스팀 이중 런처를 줄인다, 유비소프트 커넥트가 달라지는 방식 (date: 2026-09-12T12:00:00)
+   - unitree-stock-surge-crash-humanoid.md :: 유니트리는 왜 상장 직후 폭등하고 다시 45퍼센트 떨어졌을까, 휴머노이드 로봇의 거품 (date: 2026-08-19)
+   - until-dawn-2-youtubers-island-2026.md :: 언틸 던 2는 왜 유튜버들을 섬으로 보냈나, 12년 뒤 시작된 사건 (date: 2026-09-08)
+   - valheim-cheat-achievements-2026.md :: 발하임 치트를 쓰고 업적도 받는다, 개발사가 넣은 긴 명령어의 정체 (date: 2026-09-12T12:00:00)
+   - vr-shipments-down-2026.md :: VR 출하량 18퍼센트 줄었다, 밸브는 왜 지금 새 기기를 내나 (date: 2026-09-11T12:00:00)
+   - warcraft-3-reforged-campaign-2026.md :: 워크래프트 3 리포지드 23년 만의 신규 캠페인, 지금 다시 만든 이유 (date: 2026-09-13T12:00:00)
+   - wardogs-1-million-copies-2026.md :: 워독스 출시 24시간 만에 100만 장, 서버 폭발이 흥행 신호였던 이유 (date: 2026-09-13T12:00:00)
+   - wardogs-launch-servers.md :: 워독스 30만명 몰렸다, 베타 뒤에도 서버가 터진 이유 (date: 2026-09-11T12:00:00)
+   - warframe-iceblade-narin-2026.md :: 워프레임 나린 9월 23일 출시, 13년 차 게임이 또 커지는 이유 (date: 2026-09-13T12:00:00)
+   - waymo-robocab-internal-camera-arrest-2026.md :: 웨이모 로보택시가 경찰을 불렀다, 무인차 내부 카메라는 어디까지 볼까 (date: 2026-09-13T12:00:00)
+   - wifi8-router-2026.md :: 와이파이 8 공유기가 벌써 나왔다, 속도 자랑이 아닌 이유 (date: 2026-09-09)
+   - windows-11-emergency-update-september-2026.md :: 윈도우 11 긴급 업데이트 배포, 9월 보안 패치 뒤 생긴 문제를 다시 고쳤다 (date: 2026-09-15T12:00:00)
+   - windows-11-memory-integrity-october-2026.md :: 윈도우 11 메모리 무결성 10월 확대, 보안이 게임 성능을 깎을 수 있다 (date: 2026-09-13T12:00:00)
+   - windows-cloud-rebuild-2026.md :: 윈도우 부팅도 안 되는데 USB가 필요 없다, 새 복구 기능이 바꾸는 것 (date: 2026-09-10)
+   - windows-patch-tuesday-ai-2026.md :: 윈도우 취약점 972개 한 번에 수정, AI가 숫자를 키운 이유 (date: 2026-09-09)
+   - windows-project-zenith-2026.md :: 윈도우 개발자 PC는 64GB부터, 마이크로소프트가 기준을 높인 이유 (date: 2026-09-08)
+   - windows-september-2026-patch-tuesday-2026.md :: 윈도우 9월 보안 업데이트 966개 취약점 수정, 이번엔 미루기 어려운 이유 (date: 2026-09-13T12:00:00)
+   - windows-september-security-update-2026.md :: 윈도우 9월 보안 업데이트, 설치 뒤 원격 데스크톱이 멈출 수 있다 (date: 2026-09-13T12:00:00)
+   - windows-server-september-update-rdp-2026.md :: 윈도우 서버 9월 업데이트 원격 데스크톱 먹통, 보안 패치가 만든 딜레마 (date: 2026-09-13T12:00:00)
+   - witcher-3-third-expansion-past-songs.md :: 위쳐 3는 왜 11년 만에 다시 확장팩을 낼까, 오래된 게임이 신작보다 안전 (date: 2026-08-18)
+   - witcher3-remastered-2026.md :: 위쳐 3, 오는 9월 29일 '리마스터' 무료 업그레이드…신규 확장 '과거의 노래' 2027년 공개 (date: 2026-09-07T11:30:00)
+   - wolverine-review-2026.md :: 마블 울버린 평가가 갈린다, PS5 독점 기대만큼 강하지 않았던 부분 (date: 2026-09-12T12:00:00)
+   - wow-12-2-eclipse-2026.md :: 와우 12.2 이클립스 공개, 잘아타스가 세계혼에 가까워진다 (date: 2026-09-13T12:00:00)
+   - wow-blizzcon-2026.md :: 블리즈컨 와우 발표 총정리, 포에버와 라스트 타이탄이 동시에 나온 이유 (date: 2026-09-13T12:00:00)
+   - wow-forever-1000-quests-2026.md :: 와우 포에버 1000개 신규 퀘스트, 단순 클래식 재탕이 아닌 이유 (date: 2026-09-13T12:00:00)
+   - wow-forever-2026.md :: 월드 오브 워크래프트 포에버 공개, 클래식 플러스와 다른 점 (date: 2026-09-13T12:00:00)
+   - wow-last-titan-2026.md :: 와우 더 라스트 타이탄 첫 공개, 20년 세계혼 이야기를 끝내는 법 (date: 2026-09-13T12:00:00)
+   - xbox-ceo-customer-support-2026.md :: 엑스박스 최고경영자가 고객 문의를 직접 답한다, 보여주기보다 중요한 부분 (date: 2026-09-15T12:00:00)
+   - xbox-cloud-15h-limit-2026.md :: 엑스박스 클라우드 월 15시간 제한, 콘솔 없는 미래가 시간제로 바뀐다 (date: 2026-09-10)
+   - xbox-cloud-gaming-15-hour-cap-2026.md :: 엑스박스 클라우드 15시간 제한, 기존 가입자는 왜 나라별로 다를까 (date: 2026-09-14T12:00:00)
+   - xbox-disc-to-digital-2026.md :: 엑스박스 디스크가 디지털 권리가 된다, 유비소프트까지 붙은 이유 (date: 2026-09-10)
+   - xbox-free-play-days-september-2026.md :: 엑스박스 이번 주말 무료 게임 6개, 게임패스 없이 되는 작품도 있다 (date: 2026-09-13T12:00:00)
+   - xenoblade-chronicles-3-switch-2-2026.md :: 제노블레이드 3 스위치 2판 12월 3일, 뱀서형 모드와 새 영웅 추가 (date: 2026-09-13T12:00:00)
+   - yu-gi-oh-tag-force-gx-2026.md :: 유희왕 태그포스 GX 2027년 귀환, 서구 미공개 콘텐츠까지 넣는다 (date: 2026-09-13T12:00:00)
+   - zelda-ocarina-of-time-remake-2026.md :: 젤다 시간의 오카리나 리메이크 11월 5일, 점프와 풀보이스까지 바뀐다 (date: 2026-09-13T12:00:00)
+   - zelda-vs-gta6-2026.md :: 다들 GTA 6를 피하는데, 닌텐도는 2주 전에 젤다를 내는 이유 (date: 2026-09-09)
+
+5. 보류한 글의 제목과 slug 및 보류 이유
+   해당 없음 (0건)
+
+6. 수정한 코드 파일 목록
+   - src/components/PostCard.astro
+     뉴스 카테고리 링크 폴백("/news/") 제거. 뉴스 게시물은 공개되지 않으므로 렌더링되지 않지만, 뉴스 URL을 만들어낼 수 있는 경로를 코드에서 제거.
+
+7. 수정한 설정 파일 목록
+   없음
+
+8. 삭제하지 않고 보존한 뉴스 원본 위치
+   - src/content/posts/ (263개 .md 파일 전체 원본 유지)
+   보존 항목: 기존 slug, 기존 제목, 기존 발행일(date), 기존 updated, 기존 본문, 이미지 정보 전부 유지. draft: true만 적용.
+
+9. 뉴스 공개 제외 방식
+   frontmatter에 draft: true 설정. src/lib/posts.ts의 getPosts()가 draft 글을 제외하므로
+   공개 페이지(/posts/*), 홈, 카테고리 목록, 이전글·다음글, 관련 글, 사이트맵, RSS, 검색 인덱스에서 자동 제외됨.
+   파생 url(/news/, /category/news/) 페이지는 존재하지 않음.
+
+10. 대표 뉴스 URL HTTP 상태 검사 결과 (빌드 산출물 기준)
+    https://danmaek.com/posts/adapthealth-41m-breach-2026/ => 404
+    https://danmaek.com/posts/ai-datacenter-dotcom-2026/ => 404
+    https://danmaek.com/posts/ai-datacenter-pfas-cost-2026/ => 404
+    https://danmaek.com/posts/ai-debt-boom-2026/ => 404
+    https://danmaek.com/posts/ai-inference-chips-intel-2026/ => 404
+    https://danmaek.com/posts/ai-portal-game-qa-2026/ => 404
+    https://danmaek.com/posts/ai-slowdown-softbank-stocks-2026/ => 404
+    https://danmaek.com/posts/aion2-global-launch-2026/ => 404
+    https://danmaek.com/posts/alibaba-ai-fundraising-data-center/ => 404
+    https://danmaek.com/posts/amazon-luna-star-wars-outlaws-2026/ => 404
+    https://danmaek.com/posts/amazon-prime-september-free-games-2026/ => 404
+    https://danmaek.com/posts/amnesia-bunkers-edge-mirrors-edge-mod-2026/ => 404
+    https://danmaek.com/posts/android-password-migration-2026/ => 404
+    https://danmaek.com/posts/anthropic-ceo-slow-ai-development-2026/ => 404
+    https://danmaek.com/posts/anthropic-dangerous-use-2026/ => 404
+    https://danmaek.com/posts/apple-a20-pro-2026/ => 404
+    https://danmaek.com/posts/apple-watch-series-12-2026/ => 404
+    https://danmaek.com/posts/asml-high-na-euv-2026/ => 404
+    https://danmaek.com/posts/asml-large-masks-2026/ => 404
+    https://danmaek.com/posts/automattic-mullenweg-ceo-return-2026/ => 404
+    (샘플 20개 전부 404, 전체 263개 전부 dist에 HTML 미생성 확인)
+
+11. 사이트맵 뉴스 URL 검사 결과
+    사이트맵 총 URL 264개, 사이트맵 내 뉴스 URL 0개. (게시글 258 + 안정/카테고리 6)
+
+12. RSS 뉴스 검사 결과
+    RSS 항목 총 258개, RSS 내 뉴스 글 0개. (게임·IT 가이드만 포함)
+
+13. 내부 링크 뉴스 URL 검사 결과
+    공개 글 본문 및 모든 공개 HTML에서 뉴스 URL(/posts/<뉴스slug>/) 링크 0개.
+
+14. 이전글 다음글 검사 결과
+    getPosts() 기반으로 재계산되며 draft 제외됨. 공개 글의 이전글·다음글에 뉴스 URL 0개.
+
+15. 관련 글 검사 결과
+    related 카드에 뉴스 URL 0개. (카테고리 내 draft 제외 게시글만 추천)
+
+16. 사이트 검색 검사 결과
+    검색 페이지의 검색 인덱스 데이터에 뉴스 URL 0개.
+
+17. 뉴스 카테고리 검사 결과
+    /news/ 페이지 없음, /category/news/ 페이지 없음. 헤더·푸터·홈에 뉴스 메뉴 없음.
+
+18. 홈페이지 검사 결과
+    홈은 단 IT, 단 게임 두 섹션만 유지. 뉴스 카드·최신 뉴스·뉴스 추천 영역 없음. (변경 전부터 이미 해당 구조)
+
+19. 태그 페이지 검사 결과
+    태그 페이지(전용 URL)가 존재하지 않음. 뉴스 전용 태그 페이지가 만들어지는 구조 아님.
+
+20. 단 포인트(뉴스) 관련 처리
+    뉴스 원본 파일의 본문·단 포인트 구조 삭제/재작성 없이 전부 보존. 공개 사이트에서는 렌더링되지 않음.
+
+21. 발행일 보존 확인
+    263개 전부 기존 date를 그대로 유지. (오늘 날짜로 변경 없음)
+
+22. 빌드 성공 여부
+    성공 (dist 폴더 클린 후 재빌드, 517 page 생성)
+    - npm run build 정상 완료
+    - seo-check 전 항목 통과: missingPost 0, isolated 0, brokenInternalLink 0, retired 전 항목 0, legacyNetwork 0, duplicateParagraph 0, affiliate 0, sitemap404 0
+    - duplicateDescription 2건은 기존 게임(/games 페이지 네이션) 및 IT(/it 페이지 네이션) 목록 페이지의 메타 설명 중복으로 뉴스 숨김과 무관한 기존 사항
+
+23. 배포 성공 여부
+    아직 배포 전 (커밋/푸시 승인 대기). 배포 후 실제 URL 상태를 다시 확인 필요.
+
+24. 발견된 오류
+    없음
+
+25. 아직 남은 작업
+    - 커밋(PostCard.astro 뉴스 링크 폴백 제거) 및 push
+    - 배포 후 실제 danmaek.com에서 뉴스 URL 404·홈/카테고리·사이트맵·RSS 2차 확인
+
+최종 판정
+부분 완료
+이유: 뉴스글 숨김 자체는 이미 적용·검증 완료. 커밋/배포 및 배포 후 실서버 상태 확인이 남아 있어 부분 완료로 판정.
+
+※ 참고: 이번 작업으로 새로 생성된 파일은 없음. 뉴스 글을 다른 형식으로 변환하지 않음. 뉴스 원본은 삭제하지 않음.

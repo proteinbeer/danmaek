@@ -130,3 +130,14 @@ hideDescription: true
 룬 6～15 시점에는 랩과 리프트의 목걸이가 남은 상태이므로 신규 지역 진행을 이어가며, 클레릭·시프·네크로맨서 라인업이 쌓입니다. 중반부터는 베이비잭과 닥터 비니스의 제작을 병행하고, 고스펙 고양이는 트레이시 몫으로 챙겨두죠.
 
 룬 30 이후의 후반에는 버치 확장이 끝나고 프랭크의 방 5칸도 거의 완성됩니다. 기부 포인트는 룬마다 초기화되지만 확장은 영구 유지되므로, '이번 룬에 어디까지 뚫었는가'가 다음 룬의 편의 그대로 이어지는 구조입니다. 가구로 스탯을 맞추고 방 역할을 정한 뒤 유기묘와 식량까지 관리하면, 밤사이 손실이 줄어든 안정적인 룬 사이클이 완성되죠.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

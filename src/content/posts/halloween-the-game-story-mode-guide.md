@@ -31,29 +31,12 @@ hideDescription: true
 
 개발진은 원작 영화의 특정 장면과 음악, 공간의 분위기를 살리면서 단순히 영화 장면을 그대로 따라가는 방식은 피하려 했습니다. 플레이어가 마이클의 행동을 직접 결정하면서 자신만의 공포 장면을 만드는 것이 특징이며, 밥, 린다, 애니, 로리 같은 원작 인물도 게임 안에서 다시 해석되어 등장합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 2. 도전 과제와 선택 목표
 
 각 챕터에는 일반 진행과 별개로 특정 행동을 요구하는 선택 목표가 존재합니다. 어떤 과제는 특정 능력을 활용하거나 정해진 방식의 처형을 요구할 수 있어 평소 플레이와 다른 접근이 필요하죠. 도전 과제는 순수하게 난도를 높이는 장치라기보다 마이클의 여러 능력과 처형 방식을 사용하게 만드는 역할도 합니다.
 
 처음에는 모든 도전 과제와 수집품을 동시에 해결하려 하면 스토리 흐름과 조작 학습이 끊길 수 있습니다. 먼저 기본 목표를 따라가며 킬러 센스, 스토킹, 셰이프 점프, 처형이 어떤 순서로 연결되는지 익히는 편이 좋습니다. 멀티에서는 상대가 사람이라 실험할 시간이 짧기 때문에 싱글에서 어둠과 시야 조건을 충분히 확인해 두면 셰이프 점프가 왜 안 되는지 당황하는 일이 줄어듭니다.
 
-## 3. 수집 요소와 외형 보상
-
-스토리에는 추가 설정을 보여 주는 수집 요소가 포함되어 있습니다. 첫 회차부터 구석구석 찾으면 긴장감과 진행 흐름이 끊길 수 있으므로 기본 동선을 익힌 뒤 다시 들어가 정리하는 편이 좋죠. 싱글 도전 과제를 완료하면 대체 의상과 고유 꾸미기 아이템을 얻을 수 있으며 일부 보상은 멀티플레이에서 마이클과 민간인 외형에 사용할 수 있습니다.
-
-모든 싱글플레이 도전 과제를 완료한 이용자를 위한 특별한 마이클 외형도 존재합니다. 단순 업적 숫자보다 실제로 사용할 수 있는 꾸미기 보상이 있다는 점이 반복 플레이의 가장 큰 동기이죠. 챕터 하나를 완벽하게 정리하려고 지치기보다 보상 단위로 끊어 진행하시는 편이 좋습니다.
-
 <div style="margin: 38px 0 30px; text-align: center;">
   <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
 <!-- COUPANG PARTNERS DYNAMIC BANNER START -->
@@ -64,6 +47,12 @@ hideDescription: true
 <!-- COUPANG PARTNERS DYNAMIC BANNER END -->
   </div>
 </div>
+
+## 3. 수집 요소와 외형 보상
+
+스토리에는 추가 설정을 보여 주는 수집 요소가 포함되어 있습니다. 첫 회차부터 구석구석 찾으면 긴장감과 진행 흐름이 끊길 수 있으므로 기본 동선을 익힌 뒤 다시 들어가 정리하는 편이 좋죠. 싱글 도전 과제를 완료하면 대체 의상과 고유 꾸미기 아이템을 얻을 수 있으며 일부 보상은 멀티플레이에서 마이클과 민간인 외형에 사용할 수 있습니다.
+
+모든 싱글플레이 도전 과제를 완료한 이용자를 위한 특별한 마이클 외형도 존재합니다. 단순 업적 숫자보다 실제로 사용할 수 있는 꾸미기 보상이 있다는 점이 반복 플레이의 가장 큰 동기이죠. 챕터 하나를 완벽하게 정리하려고 지치기보다 보상 단위로 끊어 진행하시는 편이 좋습니다.
 
 ## 4. 난이도와 과제 분리
 
@@ -93,3 +82,14 @@ hideDescription: true
 스토리에서는 목표와 NPC의 행동을 반복해서 익힐 수 있지만 멀티의 민간인은 실제 플레이어라 같은 패턴으로 움직이지 않습니다. 싱글에서 배워야 할 것은 정확한 처치 순서가 아니라 셰이프 점프 조건과 스토킹 타이밍, 시야를 끊는 방법 같은 기본 원리입니다. 1978년 영화를 보셨다면 장소와 인물의 의미가 더 잘 보이지만 게임 진행에 원작 지식이 필수인 것은 아닙니다.
 
 스토리 모드는 원작 팬을 위한 캠페인이면서 마이클 튜토리얼 역할도 동시에 합니다. 멀티에서 살인마 역할이 부담스럽다면 먼저 스토리에서 몇 챕터를 진행해 보시는 것이 가장 자연스러운 입문 방법이며, 첫 회차에서 구조를 배우고 두 번째부터 목표와 수집품을 묶어 정리하시면 마이클 플레이 연습과 외형 보상을 동시에 챙길 수 있습니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

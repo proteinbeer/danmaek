@@ -137,3 +137,14 @@ PC에 문제가 생겼을 때 바로 드라이버를 삭제하기보다 문제�
 보안 업데이트를 끄는 것이 해결책은 아닙니다.
 
 이번 사례에서 더 중요한 습관은 업데이트를 하지 않는 것이 아니라 업데이트한 날짜와 문제 발생 시점을 함께 기록하고 필요할 때 긴급 수정까지 이어서 적용하는 것입니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

@@ -122,3 +122,14 @@ A급에는 강령술사와 수도승이 자주 이름을 올립니다. 강령술
 스탠스 전환은 턴을 소모하므로 아무 때나 바꾸면 속도 이점을 잃습니다. 적의 움직임 방향을 보고 공격 스탠스로 전환해 위치 보너스를 노리는 식으로, 소모 턴을 보상받는 순서로 쓰는 편이 좋습니다.
 
 각 클래스의 고유 능력은 보너스 위치와 어그로 관리에 강한 것이 많습니다. 클래스별 목걸이 고유 능력의 효과 범위를 미리 파악해 두면, 턴 하나 하나에서 선택 폭이 훨씬 넓어지죠. 백스탭 보너스를 적극 활용하고 전술 시점으로 함정과 뒤에 숨은 적을 먼저 확인하는 습관이 실전에서 승률을 끌어올립니다.
+
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>

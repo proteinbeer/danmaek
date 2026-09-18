@@ -84,6 +84,17 @@ hideDescription: true
 
 식재료는 필드의 수집 포인트나 몬스터 소재로 모으는데, 고기류는 몬스터나 소형 생물에서, 채소·과일류는 식물 수집 포인트에서 주로 얻습니다. 각 식재료가 붙여 주는 식사 스킬이 정해져 있으므로 자주 쓰는 스킬의 재료는 상점이나 수집으로 비축해 두십시오. 캠프에서는 자주 쓰는 식단을 미리 등록해 두면 소재만으로 한 번에 조리할 수 있습니다. 식권은 식사를 한 끼 강화하는 아이템으로, 사용하면 항상 식사 스킬이 최상의 발동 결과로 적용되어 랜덤 요소를 제거합니다. 소모성 아이템이므로 하이랭크 후반의 어려운 조사 퀘스트나 템퍼드·우두머리급 전투에 아껴 쓰는 편이 효율적입니다.
 
+<div style="margin: 38px 0 30px; text-align: center;">
+  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
+<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
+<script src="https://ads-partners.coupang.com/g.js"></script>
+<script>
+	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
+</script>
+<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
+  </div>
+</div>
+
 ## 7. 필드 식사와 몬스터별 맞춤 로드아웃
 
 사냥 도중 버프가 끝났다면 휴대용 바비큐를 사용해 필드에서 바로 식사를 재개할 수 있습니다. 바비큐로 만든 간식은 래션 기준 약 30분, 온전한 식사 재료를 구우면 약 50분의 효과를 주지만 캠프의 정식 식사보다 스킬 발동 범위가 좁습니다. 하루에 여러 번 사냥할 때는 캠프 복귀마다 정식 식사를 하기보다, 휴대용 바비큐로 버프를 갱신하는 것이 재료 소모를 줄이는 방법입니다.
