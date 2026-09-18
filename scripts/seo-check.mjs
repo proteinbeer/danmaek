@@ -255,13 +255,20 @@ for (const slug of NETWORK_CHECK_SLUGS) {
 }
 
 const affiliateDisclosureErrors = [];
+const affiliateBannerMissingErrors = [];
 for (const url of postUrls) {
   const html = htmlByUrl.get(url);
   if (!html) continue;
+  const slug = url.replace(`${site}/posts/`, '').replace(/\/?$/, '');
+  const info = postSources.get(slug);
   const hasDisclosure = html.includes('이 게시물은 쿠팡 파트너스 활동의 일환으로');
   const hasCoupangBanner = /ads-partners\.coupang\.com/g.test(html);
-  if (hasDisclosure !== hasCoupangBanner) {
-    affiliateDisclosureErrors.push(`${url}: disclosure=${hasDisclosure} banner=${hasCoupangBanner}`);
+  const affiliateFlag = info ? /^affiliate:\s*["']?false["']?\s*$/m.test(info.source) : false;
+  if (affiliateFlag ? hasDisclosure : !hasDisclosure) {
+    affiliateDisclosureErrors.push(`${url}: affiliate=${affiliateFlag} disclosure=${hasDisclosure}`);
+  }
+  if (!hasCoupangBanner) {
+    affiliateBannerMissingErrors.push(url);
   }
 }
 
@@ -282,6 +289,7 @@ const report = {
   internalOldUrlInSource,
   duplicateParagraphErrors,
   affiliateDisclosureErrors,
+  affiliateBannerMissingErrors,
   sitemap404Urls,
   duplicateTitles,
   duplicateDescriptions,
@@ -308,6 +316,7 @@ const summary = {
   internalOldUrlInSourceCount: report.internalOldUrlInSource.length,
   duplicateParagraphErrorCount: report.duplicateParagraphErrors.length,
   affiliateDisclosureErrorCount: report.affiliateDisclosureErrors.length,
+  affiliateBannerMissingCount: report.affiliateBannerMissingErrors.length,
   sitemap404Count: report.sitemap404Urls.length,
   duplicateTitleCount: report.duplicateTitles.length,
   duplicateDescriptionCount: report.duplicateDescriptions.length,
@@ -335,6 +344,7 @@ const hasFailure =
   report.internalOldUrlInSource.length ||
   report.duplicateParagraphErrors.length ||
   report.affiliateDisclosureErrors.length ||
+  report.affiliateBannerMissingErrors.length ||
   report.sitemap404Urls.length ||
   !report.robotsExists ||
   !report.sitemapExists;
