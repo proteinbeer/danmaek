@@ -21,8 +21,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</p>
-
 낚시 방법 실행 오류와 스팀 덱에서는 PC 프레임 문제, 스팀 덱 검증, 스팀 클라우드까지 정리합니다. 출시 후 빠르게 바뀐 설정과 해결 순서를 한 번에 확인할 수 있습니다.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/how-to-fish-2026-01.jpg" alt="낚시 방법(HOW TO FISH) 스팀 생존 낚시 게임 대표 이미지" width="460" height="215" loading="lazy" decoding="async" />

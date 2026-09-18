@@ -21,8 +21,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</p>
-
 할로윈 더 게임에서 민간인은 단순히 마이클 마이어스에게서 도망치는 생존자가 아닙니다. 주민을 찾아 위험을 알리고, 필요한 물건을 모으고, 경찰을 부르고, 탈출 수단을 준비하는 여러 일을 동시에 처리해야 합니다. 그래서 처음에는 눈앞의 마이클만 피하다가 정작 판 전체가 무너지는 경우가 많습니다.
 
 <img class="post-landscape-image post-landscape-image--high" src="/assets/posts/guide-images/halloween-the-game-2026-01.jpg" alt="할로윈 더 게임(HALLOWEEN: The Game) 공포 멀티플레이 게임 대표 이미지" width="616" height="353" loading="lazy" decoding="async" />

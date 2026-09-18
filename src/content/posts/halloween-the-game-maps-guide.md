@@ -20,8 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</p>
-
 할로윈 더 게임은 출시 기준으로 하돈필드 하이츠, 하돈필드 타운 센터, 오렌지 그로브 에스테이츠, 이스트 하돈필드까지 네 개의 멀티플레이 맵을 제공합니다. 네 지역은 단순히 배경만 바뀌는 것이 아니라 건물 밀도와 시야, 실내외 이동 비중이 달라 같은 습관으로 움직이면 위험해집니다.
 
 <img class="post-landscape-image post-landscape-image--high" src="/assets/posts/guide-images/halloween-the-game-2026-01.jpg" alt="할로윈 더 게임(HALLOWEEN: The Game) 공포 멀티플레이 게임 대표 이미지" width="616" height="353" loading="lazy" decoding="async" />

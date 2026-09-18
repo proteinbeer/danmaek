@@ -20,8 +20,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</p>
-
 할로윈 더 게임에서 마이클 마이어스를 처음 잡으면 눈앞의 민간인을 끝까지 쫓고 싶어집니다. 하지만 이 게임의 마이클은 빠른 추격보다 숨어서 위치를 바꾸고, 목표를 골라 압박하고, 하돈필드 전체의 분위기를 어둡게 만드는 쪽에 더 가깝습니다. 한 명에게 시간을 너무 많이 쓰면 다른 민간인들이 주민을 설득하고 탈출 준비를 끝냅니다.
 
 <img class="post-landscape-image post-landscape-image--high" src="/assets/posts/guide-images/halloween-the-game-2026-01.jpg" alt="할로윈 더 게임(HALLOWEEN: The Game) 공포 멀티플레이 게임 대표 이미지" width="616" height="353" loading="lazy" decoding="async" />

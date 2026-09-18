@@ -21,8 +21,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</p>
-
 낚시 방법 업적 공략에서 28개 도전 과제를 세 단계로 나누어 100퍼센트를 달성하는 방법을 정리합니다. 빈 스피드런, 핸디맨 등 핵심 도전 과제까지 포함합니다.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/how-to-fish-2026-01.jpg" alt="낚시 방법(HOW TO FISH) 스팀 생존 낚시 게임 대표 이미지" width="460" height="215" loading="lazy" decoding="async" />

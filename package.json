@@ -8,7 +8,6 @@
     "build": "astro check && astro build",
     "preview": "astro preview",
     "seo:check": "npm run build && node scripts/seo-check.mjs",
-    "redirects:generate": "node scripts/generate-redirect-worker.mjs",
     "content:audit": "node scripts/content-quality-audit.mjs",
     "coupons:normalize": "node scripts/normalize-coupon-guides.mjs",
     "posts:add-news-dan-points": "node scripts/add-news-dan-points.mjs",

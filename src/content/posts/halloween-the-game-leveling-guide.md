@@ -21,8 +21,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</p>
-
 할로윈 더 게임의 성장은 하나의 레벨 숫자만 올리는 구조가 아닙니다. 경험치는 프로필, 킬러, 민간인, 무기라는 네 가지 진행 영역으로 나뉘며 무엇을 플레이했는지에 따라 동시에 다른 트랙이 올라갑니다. 이 구조를 모르고 있으면 원하는 캐릭터나 마이클 능력을 해금하려고 엉뚱한 콘텐츠를 반복하게 될 수 있습니다.
 
 <img class="post-landscape-image post-landscape-image--high" src="/assets/posts/guide-images/halloween-the-game-2026-01.jpg" alt="할로윈 더 게임(HALLOWEEN: The Game) 공포 멀티플레이 게임 대표 이미지" width="616" height="353" loading="lazy" decoding="async" />

@@ -21,8 +21,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</p>
-
 할로윈 더 게임에서 민간인의 탈출은 출구 위치 하나를 외우는 방식으로 해결되지 않습니다. 탈출 후보와 필요한 아이템 위치가 매치마다 달라질 수 있고, 탈출을 실제로 가동하는 순간 큰 소음이 발생해 마이클에게 위치가 노출되기 때문입니다. 그래서 탈출은 마지막 버튼을 누르는 순간보다 그 전 준비가 더 중요합니다.
 
 <img class="post-landscape-image post-landscape-image--high" src="/assets/posts/guide-images/halloween-the-game-2026-01.jpg" alt="할로윈 더 게임(HALLOWEEN: The Game) 공포 멀티플레이 게임 대표 이미지" width="616" height="353" loading="lazy" decoding="async" />

@@ -22,8 +22,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</p>
-
 낚시 방법 섬 진행 공략에서 등대섬부터 화산섬까지 각 지역 퀘스트와 보스 흐름을 정리합니다. 퀘스트 아이템, 참치와 알바트로스, 복어, 거대 피라냐까지 지역별 핵심을 한눈에 파악할 수 있습니다.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/how-to-fish-2026-01.jpg" alt="낚시 방법(HOW TO FISH) 스팀 생존 낚시 게임 대표 이미지" width="460" height="215" loading="lazy" decoding="async" />

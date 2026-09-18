@@ -21,8 +21,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</p>
-
 낚시 방법 멀티플레이와 솔로에서는 최대 8명 협동과 1인 플레이의 장단점을 정리합니다. 비공개 로비, 역할 분담, 싱글 플레이 장점을 포함합니다.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/how-to-fish-2026-01.jpg" alt="낚시 방법(HOW TO FISH) 스팀 생존 낚시 게임 대표 이미지" width="460" height="215" loading="lazy" decoding="async" />

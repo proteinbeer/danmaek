@@ -1,12 +1,12 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
+import { RETIRED_SLUGS } from './retired-slugs.mjs';
 
 const root = process.cwd();
 const site = 'https://danmaek.com';
 const dist = path.join(root, 'dist');
 const postsDir = path.join(root, 'src', 'content', 'posts');
 const srcDir = path.join(root, 'src');
-const workerFile = path.join(root, 'worker', 'redirect.js');
 
 const read = (file) => fs.readFile(file, 'utf8');
 const exists = async (file) => !!(await fs.stat(file).catch(() => null));
@@ -70,13 +70,7 @@ const postSourceMap = async () => {
   return map;
 };
 
-const readRedirectMap = async () => {
-  const source = await read(path.join(srcDir, 'lib', 'postRedirects.ts'));
-  return [...source.matchAll(/^\s*'(.*?)'\s*:\s*'(.*?)',?\s*$/gm)].map((m) => ({
-    from: m[1],
-    to: m[2].replace(/\/$/, '')
-  }));
-};
+const retiredPaths = new Set(RETIRED_SLUGS.map((slug) => `/posts/${slug}/`));
 
 const pagePathForUrl = (url) => {
   const pathname = new URL(url).pathname;
@@ -154,17 +148,9 @@ for (const file of htmlFiles) {
   }
 }
 
-const redirectMap = await readRedirectMap();
-const redirectFromPaths = new Set(redirectMap.map((item) => `/posts/${item.from}/`));
-
 const brokenInternalLinks = [];
-const redirectLinkErrors = [];
 for (const [from, links] of outgoingInternalLinks) {
   for (const link of links) {
-    if (redirectFromPaths.has(link)) {
-      redirectLinkErrors.push({ from, link });
-      continue;
-    }
     if (!htmlByUrl.has(link) && !sitemapUrls.includes(link) && !(await exists(pagePathForUrl(link)))) {
       brokenInternalLinks.push({ from, link });
     }
@@ -188,16 +174,27 @@ const duplicateTitles = [...duplicateTitleMap.entries()].filter(([, urls]) => ur
 const duplicateDescriptions = [...duplicateDescriptionMap.entries()].filter(([, urls]) => urls.length > 1);
 const duplicateCanonicals = [...duplicateCanonicalMap.entries()].filter(([, urls]) => urls.length > 1);
 
-const redirectTargetErrors = [];
-for (const { from, to } of redirectMap) {
-  const targetSlug = to.split('/').filter(Boolean).pop();
-  if (!postSlugs.includes(targetSlug)) redirectTargetErrors.push({ from, to });
+const retiredSitemapErrors = [];
+const retiredRssErrors = [];
+const retiredDistErrors = [];
+const retiredSourceFileErrors = [];
+const retiredInternalLinkErrors = [];
+
+const rssXml = await read(path.join(dist, 'rss.xml'));
+const rssItems = [...rssXml.matchAll(/<link>(.*?)<\/link>/g)].map((m) => m[1]);
+
+for (const slug of RETIRED_SLUGS) {
+  const url = `${site}/posts/${slug}/`;
+  if (sitemapUrls.includes(url)) retiredSitemapErrors.push(url);
+  if (rssItems.includes(url)) retiredRssErrors.push(url);
+  if (await exists(path.join(dist, 'posts', slug, 'index.html'))) retiredDistErrors.push(url);
+  if (await exists(path.join(postsDir, `${slug}.md`))) retiredSourceFileErrors.push(slug);
 }
 
-const redirectStubErrors = [];
-for (const { from } of redirectMap) {
-  const stub = path.join(dist, 'posts', from, 'index.html');
-  if (await exists(stub)) redirectStubErrors.push(`/posts/${from}/`);
+for (const [from, links] of outgoingInternalLinks) {
+  for (const link of links) {
+    if (retiredPaths.has(link)) retiredInternalLinkErrors.push({ from, link });
+  }
 }
 
 const postSources = await postSourceMap();
@@ -223,7 +220,22 @@ for (const postSource of postSources.values()) {
   const body = postSource.source;
   const matches = [...body.matchAll(oldUrlPattern)].map((m) => m[0]);
   for (const match of new Set(matches)) {
-    if (redirectFromPaths.has(match)) internalOldUrlInSource.push({ post: 'source-of-' + (postSource.draft ? 'draft' : 'public'), link: match });
+    if (retiredPaths.has(match)) internalOldUrlInSource.push({ post: 'source-of-' + (postSource.draft ? 'draft' : 'public'), link: match });
+  }
+}
+
+const duplicateParagraphErrors = [];
+for (const [slug, info] of postSources) {
+  const lines = info.source.split(/\r?\n/);
+  let prev = null;
+  for (let i = 0; i < lines.length; i += 1) {
+    const t = lines[i].trim();
+    const skip = t === '' || /^#{1,6}\s/.test(t) || /^<[^>]+>$/.test(t);
+    if (skip) { if (t !== '') prev = null; continue; }
+    if (t === prev) {
+      duplicateParagraphErrors.push(`${slug}:${i + 1} repeated paragraph`);
+    }
+    prev = t;
   }
 }
 
@@ -243,28 +255,14 @@ for (const slug of NETWORK_CHECK_SLUGS) {
 }
 
 const affiliateDisclosureErrors = [];
-for (const [slug, info] of postSources) {
-  const body = info.source;
-  if (body.includes('affiliate-disclosure') && !/ads-partners\.coupang\.com|link\.coupang\.com|coupa\.ng/.test(body)) {
-    affiliateDisclosureErrors.push(slug);
+for (const url of postUrls) {
+  const html = htmlByUrl.get(url);
+  if (!html) continue;
+  const hasDisclosure = html.includes('이 게시물은 쿠팡 파트너스 활동의 일환으로');
+  const hasCoupangBanner = /ads-partners\.coupang\.com/g.test(html);
+  if (hasDisclosure !== hasCoupangBanner) {
+    affiliateDisclosureErrors.push(`${url}: disclosure=${hasDisclosure} banner=${hasCoupangBanner}`);
   }
-}
-
-const workerRedirectErrors = [];
-if (await exists(workerFile)) {
-  const worker = await read(workerFile);
-  const workerPaths = [...worker.matchAll(/['"](\/posts\/[a-z0-9-]+)['"]\s*:\s*['"](\/posts\/[^'"]+)['"]/g)];
-  const workerSet = new Set(workerPaths.map((m) => m[1]));
-  for (const { from } of redirectMap) {
-    const key = `/posts/${from}`;
-    if (!workerSet.has(key)) workerRedirectErrors.push(`missing in worker: ${key}`);
-  }
-  for (const match of workerPaths) {
-    const targetSlug = match[2].split('/').filter(Boolean).pop();
-    if (!postSlugs.includes(targetSlug)) workerRedirectErrors.push(`worker target missing: ${match[2]}`);
-  }
-} else {
-  workerRedirectErrors.push('worker/redirect.js not found. Run npm run redirects:generate');
 }
 
 const report = {
@@ -275,12 +273,14 @@ const report = {
   noindexErrors,
   canonicalMismatchErrors,
   brokenInternalLinks,
-  redirectLinkErrors,
-  redirectTargetErrors,
-  redirectStubErrors,
-  workerRedirectErrors,
+  retiredSitemapErrors,
+  retiredRssErrors,
+  retiredDistErrors,
+  retiredSourceFileErrors,
+  retiredInternalLinkErrors,
   legacyNetworkErrors,
   internalOldUrlInSource,
+  duplicateParagraphErrors,
   affiliateDisclosureErrors,
   sitemap404Urls,
   duplicateTitles,
@@ -299,12 +299,14 @@ const summary = {
   isolatedPostCount: report.isolatedPostUrls.length,
   noindexOrCanonicalErrorCount: report.noindexErrors.length + report.canonicalMismatchErrors.length,
   brokenInternalLinkCount: report.brokenInternalLinks.length,
-  redirectLinkCount: report.redirectLinkErrors.length,
-  redirectTargetErrorCount: report.redirectTargetErrors.length,
-  redirectStubCount: report.redirectStubErrors.length,
-  workerRedirectErrorCount: report.workerRedirectErrors.length,
+  retiredSitemapCount: report.retiredSitemapErrors.length,
+  retiredRssCount: report.retiredRssErrors.length,
+  retiredDistCount: report.retiredDistErrors.length,
+  retiredSourceFileCount: report.retiredSourceFileErrors.length,
+  retiredInternalLinkCount: report.retiredInternalLinkErrors.length,
   legacyNetworkErrorCount: report.legacyNetworkErrors.length,
   internalOldUrlInSourceCount: report.internalOldUrlInSource.length,
+  duplicateParagraphErrorCount: report.duplicateParagraphErrors.length,
   affiliateDisclosureErrorCount: report.affiliateDisclosureErrors.length,
   sitemap404Count: report.sitemap404Urls.length,
   duplicateTitleCount: report.duplicateTitles.length,
@@ -324,12 +326,14 @@ const hasFailure =
   report.noindexErrors.length ||
   report.canonicalMismatchErrors.length ||
   report.brokenInternalLinks.length ||
-  report.redirectLinkErrors.length ||
-  report.redirectTargetErrors.length ||
-  report.redirectStubErrors.length ||
-  report.workerRedirectErrors.length ||
+  report.retiredSitemapErrors.length ||
+  report.retiredRssErrors.length ||
+  report.retiredDistErrors.length ||
+  report.retiredSourceFileErrors.length ||
+  report.retiredInternalLinkErrors.length ||
   report.legacyNetworkErrors.length ||
   report.internalOldUrlInSource.length ||
+  report.duplicateParagraphErrors.length ||
   report.affiliateDisclosureErrors.length ||
   report.sitemap404Urls.length ||
   !report.robotsExists ||

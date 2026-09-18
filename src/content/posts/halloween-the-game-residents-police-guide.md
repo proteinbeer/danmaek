@@ -22,8 +22,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</p>
-
 할로윈 더 게임의 멀티플레이는 플레이어 다섯 명만 움직이는 1대4 대결이 아닙니다. 하돈필드 곳곳에 주민 NPC가 생활하고 있고, 이 주민을 누가 먼저 활용하거나 제거하느냐가 판의 흐름을 크게 바꿉니다. 민간인에게 주민은 구조 대상이자 경찰을 부르는 통로이고, 마이클에게는 목표이자 하돈필드의 저항이 커지기 전에 처리해야 할 존재입니다.
 
 <img class="post-landscape-image post-landscape-image--high" src="/assets/posts/guide-images/halloween-the-game-2026-01.jpg" alt="할로윈 더 게임(HALLOWEEN: The Game) 공포 멀티플레이 게임 대표 이미지" width="616" height="353" loading="lazy" decoding="async" />

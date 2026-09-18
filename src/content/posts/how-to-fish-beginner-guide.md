@@ -22,8 +22,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</p>
-
 낚시 방법 초보 공략에서 낚싯대, 미끼, 보트, 레이더까지 한 번에 정리합니다. 낚시 방법은 낚시, 전투, 판매, 퀘스트가 연결되어 있어 기본 시스템을 함께 이해하면 초반 진행이 훨씬 빨라집니다.
 
 <img class="post-landscape-image" src="/assets/posts/guide-images/how-to-fish-2026-01.jpg" alt="낚시 방법(HOW TO FISH) 스팀 생존 낚시 게임 대표 이미지" width="460" height="215" loading="lazy" decoding="async" />

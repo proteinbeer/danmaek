@@ -21,8 +21,6 @@ hideHeroImage: true
 hideDescription: true
 ---
 
-<p class="affiliate-disclosure">이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</p>
-
 할로윈 더 게임은 1대4 멀티플레이만 있는 게임이 아니라 마이클 마이어스 시점의 독립적인 싱글플레이 스토리 모드도 제공합니다. 1978년 원작 영화의 사건을 확장해 마이클이 스미스 그로브에서 빠져나온 뒤 하돈필드로 돌아오는 과정을 직접 체험하는 방식이죠. 싱글은 단순 팬 서비스가 아니라 마이클의 이동과 스토킹, 처형을 배우는 연습장 역할도 합니다.
 
 <img class="post-landscape-image post-landscape-image--high" src="/assets/posts/guide-images/halloween-the-game-2026-01.jpg" alt="할로윈 더 게임(HALLOWEEN: The Game) 공포 멀티플레이 게임 대표 이미지" width="616" height="353" loading="lazy" decoding="async" />
