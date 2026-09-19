@@ -2,7 +2,7 @@
 title: "AFK 아레나 최신 쿠폰 정리 [계속 갱신]"
 draft: false
 description: "AFK 아레나 쿠폰을 한곳에서 확인하는 고정 가이드입니다. 사용 가능한 코드, 입력 방법, 보상 수령 위치, 쿠폰이 안 될 때 확인할 점을 함께 정리합니다."
-date: 2026-09-03
+date: 2026-08-25
 updated: 2026-09-14
 category: "쿠폰"
 subcategory: "AFK 아레나"

@@ -1,7 +1,7 @@
 ---
 title: "WPA2와 WPA3 차이, 새 공유기에서 구형 기기가 안 붙는 이유"
 description: "새 공유기에서 WPA3를 켰는데 오래된 노트북이나 IoT 기기가 와이파이에 연결되지 않는 경우가 있습니다."
-date: 2026-08-24
+date: 2026-08-05
 updated: 2026-09-18
 affiliate: false
 category: "IT"

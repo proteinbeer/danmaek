@@ -1,7 +1,7 @@
 ---
 title: "고정 IP 설정 후 인터넷이 끊긴다면, 주소보다 게이트웨이를 먼저 다시 볼 것"
 description: "NAS나 프린터, 게임 서버 때문에 PC에 고정 IP를 넣었다가 인터넷이 끊기는 경우가 있습니다."
-date: 2026-08-24
+date: 2026-08-05
 updated: 2026-09-18
 affiliate: false
 category: "IT"

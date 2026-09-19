@@ -1,7 +1,7 @@
 ---
 title: "게임 핑이 갑자기 높아졌다면, 공유기보다 업로드부터 볼 것"
 description: "게임을 하다가 핑이 갑자기 치솟으면 공유기를 재부팅하기 쉽습니다."
-date: 2026-09-04
+date: 2026-08-27
 updated: 2026-09-18
 affiliate: false
 category: "IT"

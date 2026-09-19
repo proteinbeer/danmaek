@@ -1,7 +1,7 @@
 ---
 title: "와이파이 음영지역이 생긴다면, 증폭기보다 유선 AP가 나을 때"
 description: "거실에서는 빠른데 방 하나만 들어가면 와이파이가 약해지는 집이 있습니다."
-date: 2026-08-25
+date: 2026-08-14
 updated: 2026-09-18
 affiliate: false
 category: "IT"

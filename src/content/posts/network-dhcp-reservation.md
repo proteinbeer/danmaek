@@ -1,7 +1,7 @@
 ---
 title: "DHCP 예약이 고정 IP보다 편한 이유, 공유기에서 주소를 묶는 방식"
 description: "NAS나 프린터, 게임 서버처럼 주소가 자주 바뀌면 불편한 장비가 있습니다."
-date: 2026-08-22
+date: 2026-07-23
 updated: 2026-09-18
 affiliate: false
 category: "IT"

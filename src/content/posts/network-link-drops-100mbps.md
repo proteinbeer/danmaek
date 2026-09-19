@@ -1,7 +1,7 @@
 ---
 title: "랜카드가 1Gbps에서 100Mbps로 내려간다면, 랜선 네 쌍부터 의심할 것"
 description: "평소 1Gbps로 연결되던 PC가 어느 날 100Mbps로 잡히거나 재부팅할 때마다 링크 속도가 달라지는 경우가 있습니다."
-date: 2026-08-27
+date: 2026-08-18
 updated: 2026-09-18
 affiliate: false
 category: "IT"

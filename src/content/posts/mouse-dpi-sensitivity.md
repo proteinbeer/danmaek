@@ -1,7 +1,7 @@
 ---
 title: "마우스 DPI를 올렸는데 더 부정확하다면, 감도보다 먼저 볼 설정"
 description: "마우스 DPI를 높이면 센서 성능까지 좋아지는 것처럼 느껴질 수 있습니다."
-date: 2026-08-22
+date: 2026-07-22
 updated: 2026-08-22
 category: "IT"
 subcategory: "주변기기"

@@ -1,7 +1,7 @@
 ---
 title: "PC SSD 업그레이드하는 법, HDD에서 SSD 교체 순서 정리"
 description: "PC가 느릴 때 가장 체감이 큰 SSD 업그레이드 방법을 정리했습니다. SSD 종류 선택, 데이터 복제, 데스크톱·노트북 교체 순서까지 하나씩 다룹니다."
-date: 2026-08-26
+date: 2026-08-16
 updated: 2026-08-26
 category: "IT"
 subcategory: "PC·하드웨어"

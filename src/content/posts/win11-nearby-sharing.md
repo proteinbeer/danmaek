@@ -1,7 +1,7 @@
 ---
 title: "윈도우 11 근거리 공유, USB 없이 PC끼리 파일 보내는 방법"
 description: "바로 옆 노트북으로 사진 몇 장을 옮기려고 USB를 찾거나 메신저에 자기 자신에게 파일을 보내는 경우가 많습니다."
-date: 2026-08-23
+date: 2026-08-02
 updated: 2026-08-23
 category: "IT"
 subcategory: "윈도우 11"

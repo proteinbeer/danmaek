@@ -1,7 +1,7 @@
 ---
 title: "DNS를 바꿨는데 더 느려졌다면, 1.1.1.1이 항상 빠른 건 아니다"
 description: "DNS를 1.1.1."
-date: 2026-08-26
+date: 2026-08-16
 updated: 2026-09-18
 affiliate: false
 category: "IT"

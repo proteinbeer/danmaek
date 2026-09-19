@@ -1,7 +1,7 @@
 ---
 title: "한영 전환 안 될 때, 체크할 것들"
 description: "갑자기 한영키가 먹지 않는다면 키보드 자체보다 윈도우 입력 언어 설정이 바뀐 경우가 많습니다."
-date: 2026-08-30
+date: 2026-08-21
 updated: 2026-08-30
 category: "IT"
 subcategory: "주변기기"

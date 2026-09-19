@@ -1,7 +1,7 @@
 ---
 title: "PS Plus 혜택 총정리, 에센셜·엑스트라·디럭스 비교"
 description: "플레이스테이션 온라인 플레이와 월간 게임부터 카탈로그까지, PS Plus(플레이스테이션 플러스) 등급별 혜택과 활용법을 정리했습니다."
-date: 2026-08-27
+date: 2026-08-19
 updated: 2026-08-27
 category: "게임"
 subcategory: "플스"

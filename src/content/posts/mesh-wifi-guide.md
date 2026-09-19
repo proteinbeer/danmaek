@@ -1,7 +1,7 @@
 ---
 title: "메시 와이파이 설치 전, 노드 개수보다 위치가 더 중요한 이유"
 description: "거실에서는 빠른데 안방이나 복층에서 와이파이가 끊기면 메시 와이파이를 떠올리기 쉽습니다."
-date: 2026-09-07
+date: 2026-09-03
 updated: 2026-09-18
 affiliate: false
 category: "IT"

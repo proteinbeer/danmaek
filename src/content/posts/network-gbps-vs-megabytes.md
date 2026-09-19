@@ -1,7 +1,7 @@
 ---
 title: "1Gbps 인터넷인데 다운로드가 100MB라면, 속도가 느린 게 아닐 수 있다"
 description: "인터넷 속도 측정에서는 1Gbps 가까이 나오는데 게임이나 파일 다운로드 화면에서는 초당 100MB 정도만 보여 손해 보는 느낌이 들 수 있습니다."
-date: 2026-08-27
+date: 2026-08-18
 updated: 2026-09-18
 affiliate: false
 category: "IT"

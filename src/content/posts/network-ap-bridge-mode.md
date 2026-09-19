@@ -1,7 +1,7 @@
 ---
 title: "AP 모드와 브리지 모드 차이, 공유기 두 대를 연결할 때 역할부터 정할 것"
 description: "공유기를 두 대 연결할 때 AP 모드와 브리지 모드라는 표현이 자주 등장합니다."
-date: 2026-08-22
+date: 2026-07-22
 updated: 2026-09-18
 affiliate: false
 category: "IT"

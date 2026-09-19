@@ -1,7 +1,7 @@
 ---
 title: "네트워크에 다른 PC가 안 보인다면, 공유 폴더보다 서비스부터 확인"
 description: "같은 공유기에 연결된 PC인데 파일 탐색기의 네트워크 목록에 상대 컴퓨터가 보이지 않을 때가 있습니다."
-date: 2026-08-21
+date: 2026-07-16
 updated: 2026-09-18
 affiliate: false
 category: "IT"

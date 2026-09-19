@@ -1,7 +1,7 @@
 ---
 title: "스팀 오버레이 안 뜰 때, Shift와 Tab보다 먼저 확인할 설정"
 description: "게임 중 친구에게 메시지를 보내거나 초대를 받고 스크린샷과 상점 기능을 쓰려면 스팀 오버레이가 필요합니다."
-date: 2026-08-24
+date: 2026-08-09
 updated: 2026-08-24
 category: "게임"
 subcategory: "스팀"

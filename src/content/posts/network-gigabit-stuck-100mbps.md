@@ -1,7 +1,7 @@
 ---
 title: "기가인터넷인데 100Mbps만 나온다면, 속도 측정보다 링크 속도부터 볼 것"
 description: "기가인터넷 요금제를 사용하지만 유선 속도가 90Mbps 정도에서 더 올라가지 않으면 통신사 회선부터 의심하기 쉽습니다."
-date: 2026-08-25
+date: 2026-08-13
 updated: 2026-09-18
 affiliate: false
 category: "IT"

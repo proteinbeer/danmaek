@@ -1,7 +1,7 @@
 ---
 title: "DNS 캐시를 지워도 사이트가 안 열린다면, 캐시가 어디에 남았는지 볼 것"
 description: "특정 사이트만 안 열리거나 도메인 주소를 바꾼 뒤 예전 서버로 계속 연결되면 DNS 캐시 삭제부터 시도하게 됩니다."
-date: 2026-08-25
+date: 2026-08-12
 updated: 2026-09-18
 affiliate: false
 category: "IT"

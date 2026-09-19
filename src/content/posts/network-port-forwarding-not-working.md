@@ -1,7 +1,7 @@
 ---
 title: "포트포워딩 했는데 접속이 안 된다면, 포트보다 서버가 먼저 열렸는지 확인"
 description: "게임 서버와 NAS, 원격 접속을 위해 포트포워딩을 설정했는데 외부에서 연결되지 않는 경우가 많습니다."
-date: 2026-08-24
+date: 2026-08-04
 updated: 2026-09-18
 affiliate: false
 category: "IT"

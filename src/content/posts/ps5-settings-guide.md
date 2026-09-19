@@ -1,7 +1,7 @@
 ---
 title: "PS5 설정 추천, 성능 모드와 120Hz·VRR 정리"
 description: "PS5를 새로 시작한 분이 켜두면 좋은 설정을 정리했습니다. 성능·해상도 모드, 120Hz 출력, VRR, 컨트롤러와 절전 설정까지 다룹니다."
-date: 2026-08-24
+date: 2026-08-06
 updated: 2026-08-24
 category: "게임"
 subcategory: "플스"

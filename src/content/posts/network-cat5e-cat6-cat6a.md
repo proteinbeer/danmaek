@@ -1,7 +1,7 @@
 ---
 title: "Cat5e Cat6 Cat6A 차이, 집에서는 비싼 랜선이 항상 답이 아니다"
 description: "랜선을 사려고 보면 Cat5e와 Cat6, Cat6A가 나란히 있고 숫자가 높을수록 더 빠를 것처럼 보입니다."
-date: 2026-08-24
+date: 2026-08-04
 updated: 2026-09-18
 affiliate: false
 category: "IT"

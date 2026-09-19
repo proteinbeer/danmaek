@@ -1,7 +1,7 @@
 ---
 title: "IP 주소 충돌이 반복된다면, 고정 IP와 DHCP 범위부터 겹치는지 확인"
 description: "같은 네트워크에서 두 기기가 같은 IP 주소를 사용하면 한쪽이 갑자기 끊기거나 두 기기가 번갈아 연결되는 이상한 증상이 생길 수 있습니다."
-date: 2026-08-22
+date: 2026-07-23
 updated: 2026-09-18
 affiliate: false
 category: "IT"

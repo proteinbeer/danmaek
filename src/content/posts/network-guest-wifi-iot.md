@@ -1,7 +1,7 @@
 ---
 title: "게스트 와이파이는 손님보다 IoT 분리에 더 유용할 수 있다"
 description: "게스트 와이파이는 손님에게 메인 비밀번호를 알려주지 않기 위한 기능으로 많이 알려져 있습니다."
-date: 2026-08-23
+date: 2026-07-28
 updated: 2026-09-18
 affiliate: false
 category: "IT"

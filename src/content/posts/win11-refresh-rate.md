@@ -1,7 +1,7 @@
 ---
 title: "윈도우 11 주사율 변경, 144Hz 모니터가 60Hz로 보일 때"
 description: "144Hz나 165Hz 모니터를 연결했는데 움직임이 예전 60Hz 화면과 별 차이가 없다면 모니터 불량부터 의심하기 쉽습니다."
-date: 2026-08-26
+date: 2026-08-18
 updated: 2026-08-26
 category: "IT"
 subcategory: "윈도우 11"

@@ -1,7 +1,7 @@
 ---
 title: "WOL이 안 된다면, 윈도우보다 꺼진 뒤 랜포트 불부터 볼 것"
 description: "WOL은 네트워크에서 매직 패킷을 보내 절전 중이거나 꺼진 PC를 깨우는 기능입니다."
-date: 2026-08-24
+date: 2026-08-05
 updated: 2026-09-18
 affiliate: false
 category: "IT"

@@ -2,7 +2,7 @@
 title: "인터넷이 자꾸 끊긴다면, 재부팅보다 끊기는 패턴부터 기록할 것"
 
 description: "인터넷이 완전히 안 되는 것보다 몇 분마다 잠깐씩 끊기는 문제가 원인 찾기는 더 어렵습니다."
-date: 2026-09-06
+date: 2026-08-31
 updated: 2026-09-18
 affiliate: false
 category: "IT"

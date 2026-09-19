@@ -1,7 +1,7 @@
 ---
 title: "와이파이는 연결됐는데 인터넷이 없다면, 공유기까지 되는지 먼저 확인"
 description: "휴대폰이나 PC에 와이파이 연결 표시는 뜨는데 인터넷 없음이라고 나오는 경우가 있습니다."
-date: 2026-08-30
+date: 2026-08-22
 updated: 2026-09-18
 affiliate: false
 category: "IT"

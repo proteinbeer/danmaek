@@ -1,7 +1,7 @@
 ---
 title: "윈도우 공용과 개인 네트워크 차이, 이름보다 신뢰 범위를 봐야 한다"
 description: "윈도우의 공용 네트워크와 개인 네트워크는 인터넷 속도를 바꾸는 설정이 아닙니다."
-date: 2026-08-27
+date: 2026-08-19
 updated: 2026-09-18
 affiliate: false
 category: "IT"

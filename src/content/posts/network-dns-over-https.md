@@ -1,7 +1,7 @@
 ---
 title: "DNS over HTTPS를 켜면 달라지는 점, 인터넷 전체가 숨겨지는 건 아니다"
 description: "DNS over HTTPS는 DNS 질의를 일반 평문 방식 대신 HTTPS 연결 안에서 암호화하는 기술입니다."
-date: 2026-08-23
+date: 2026-07-28
 updated: 2026-09-18
 affiliate: false
 category: "IT"

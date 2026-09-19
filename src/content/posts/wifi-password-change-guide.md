@@ -1,7 +1,7 @@
 ---
 title: "와이파이 비밀번호를 바꿀 때, 새 암호보다 먼저 챙길 기기 목록"
 description: "와이파이 비밀번호 변경 자체는 공유기 설정에서 몇 분이면 끝날 수 있습니다."
-date: 2026-08-27
+date: 2026-08-20
 updated: 2026-09-18
 affiliate: false
 category: "IT"

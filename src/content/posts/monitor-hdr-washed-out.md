@@ -1,7 +1,7 @@
 ---
 title: "모니터 HDR을 켰는데 색이 더 뿌옇다면, 고장이 아닐 수 있다"
 description: "HDR을 켜면 무조건 색이 진하고 화면이 화려해질 거라고 기대하기 쉽습니다."
-date: 2026-08-23
+date: 2026-07-27
 updated: 2026-08-23
 category: "IT"
 subcategory: "주변기기"

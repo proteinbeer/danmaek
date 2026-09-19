@@ -1,7 +1,7 @@
 ---
 title: "CGNAT이면 포트포워딩이 안 되는 이유, 공유기 WAN 주소부터 비교"
 description: "포트포워딩을 정확히 설정했는데도 외부에서 집 PC나 NAS로 전혀 들어오지 못한다면 통신사의 CGNAT 환경인지 확인할 필요가 있습니다."
-date: 2026-08-23
+date: 2026-07-28
 updated: 2026-09-18
 affiliate: false
 category: "IT"

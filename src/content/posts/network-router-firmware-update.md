@@ -1,7 +1,7 @@
 ---
 title: "공유기 펌웨어 업데이트, 오래 쓴 장비일수록 먼저 확인할 이유"
 description: "공유기는 한 번 설치하면 몇 년 동안 설정 화면에 들어가지 않는 장비가 되기 쉽습니다."
-date: 2026-08-26
+date: 2026-08-16
 updated: 2026-09-18
 affiliate: false
 category: "IT"

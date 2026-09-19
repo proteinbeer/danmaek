@@ -1,7 +1,7 @@
 ---
 title: "6GHz 와이파이가 안 보인다면, 공유기보다 기기 지원부터 확인할 것"
 description: "와이파이 6E나 와이파이 7 공유기를 샀는데 6GHz 네트워크가 목록에 보이지 않으면 공유기가 고장났다고 생각하기 쉽습니다."
-date: 2026-08-21
+date: 2026-07-16
 updated: 2026-09-18
 affiliate: false
 category: "IT"
