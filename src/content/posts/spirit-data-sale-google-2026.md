@@ -15,7 +15,6 @@ image: "/assets/posts/news-images/spirit-data-sale-google-2026-01.jpg"
 imageAlt: "파산한 회사 데이터가 구글로 넘어갈까, 스피릿 매각이 만든 논란"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 draft: true
 ---
@@ -43,17 +42,6 @@ draft: true
 
 특히 구글이 항공 운영용 AI 사업을 확대하는 상황이라 협력사의 데이터가 경쟁 서비스 개발에 활용될 가능성에 대한 불안도 큽니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 직원 개인정보
 
 직원 이메일과 채팅, 업무 기록에는 개인적인 정보도 섞일 수 있습니다. 회사를 그만둔 사람은 자신의 과거 데이터가 몇 년 뒤 다른 기업에 판매될 것이라고 예상하기 어렵습니다.
@@ -70,17 +58,6 @@ draft: true
 
 그 비용을 누가 부담할지도 새로운 문제입니다. 데이터 경제가 커질수록 회사가 망할 때 정보를 어떻게 정리할지까지 계약 단계에서 미리 정해야 하는 시대가 오고 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 파산법의 빈틈
 
 파산법은 공장과 항공기, 부동산처럼 소유자가 명확한 자산을 매각하는 데 익숙합니다. 여러 회사와 개인의 정보가 뒤섞인 데이터 세트는 기존 자산 개념에 정확히 맞지 않습니다.
@@ -92,17 +69,6 @@ draft: true
 앞으로 기업 간 데이터 계약에는 고객사가 파산하거나 인수될 때 정보를 어떻게 처리할지 더 구체적인 조항이 들어갈 가능성이 큽니다. 단순 비밀유지 조항만으로는 데이터 묶음 전체가 매각되는 상황을 막기 어려울 수 있습니다.
 
 스타트업 입장에서는 특히 중요합니다. 핵심 기술과 운영 자료를 대기업 고객 시스템에 저장했다가 고객이 파산하면 자신의 IP를 다시 지키기 위해 큰 법적 비용을 써야 할 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 데이터 소유권
 

@@ -37,17 +37,6 @@ hideDescription: true
 
 처음에는 모든 도전 과제와 수집품을 동시에 해결하려 하면 스토리 흐름과 조작 학습이 끊길 수 있습니다. 먼저 기본 목표를 따라가며 킬러 센스, 스토킹, 셰이프 점프, 처형이 어떤 순서로 연결되는지 익히는 편이 좋습니다. 멀티에서는 상대가 사람이라 실험할 시간이 짧기 때문에 싱글에서 어둠과 시야 조건을 충분히 확인해 두면 셰이프 점프가 왜 안 되는지 당황하는 일이 줄어듭니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 수집 요소와 외형 보상
 
 스토리에는 추가 설정을 보여 주는 수집 요소가 포함되어 있습니다. 첫 회차부터 구석구석 찾으면 긴장감과 진행 흐름이 끊길 수 있으므로 기본 동선을 익힌 뒤 다시 들어가 정리하는 편이 좋죠. 싱글 도전 과제를 완료하면 대체 의상과 고유 꾸미기 아이템을 얻을 수 있으며 일부 보상은 멀티플레이에서 마이클과 민간인 외형에 사용할 수 있습니다.
@@ -59,17 +48,6 @@ hideDescription: true
 스토리에는 여러 난이도가 준비되어 있습니다. 높은 난이도와 어려운 선택 과제를 동시에 처음부터 해결하려 하면 조건 하나를 놓칠 때 재도전 부담이 커집니다. 과제 수집이 목적이라면 자신이 안정적으로 진행할 수 있는 난도에서 먼저 정리하고, 이후 실력 시험으로 높은 난도를 도전하는 방식이 좋습니다. 모든 목표를 한 회차에 끝내야 할 이유는 없죠.
 
 첫 회차에서는 기본 목표를 따라가며 마이클의 이동과 스토킹, 처형 방식을 익히는 데 집중하시는 것이 좋습니다. 챕터를 빠르게 끝내기보다 어떤 상황에서 셰이프 점프가 가능하고 목표가 자신을 어떻게 인식하는지 확인하면 다음 회차가 쉬워집니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 추적 오류와 패치 확인
 
@@ -83,13 +61,3 @@ hideDescription: true
 
 스토리 모드는 원작 팬을 위한 캠페인이면서 마이클 튜토리얼 역할도 동시에 합니다. 멀티에서 살인마 역할이 부담스럽다면 먼저 스토리에서 몇 챕터를 진행해 보시는 것이 가장 자연스러운 입문 방법이며, 첫 회차에서 구조를 배우고 두 번째부터 목표와 수집품을 묶어 정리하시면 마이클 플레이 연습과 외형 보상을 동시에 챙길 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

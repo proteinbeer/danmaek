@@ -38,17 +38,6 @@ hideDescription: true
 
 초반에 탈출구 하나만 붙잡고 필요한 아이템을 찾으러 멀리 돌아다니는 것보다, 이동하면서 주민과 전화기를 함께 확인하시면 손해가 적습니다. 탈출 준비를 시작하면 큰 소음이 발생해 마이클에게 위치가 노출될 수 있으니 준비가 덜 된 상태에서 무작정 작동시키는 것도 피하는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 마이클은 추격보다 위치 싸움
 
 마이클은 달리기 속도로 민간인을 끝없이 쫓는 캐릭터가 아니죠. 킬러 센스와 스토킹으로 목표를 파악하고, 셰이프 점프로 어두운 곳을 이용해 위치를 바꾸는 방식이 핵심입니다.
@@ -61,17 +50,6 @@ hideDescription: true
 
 특히 출시 패치에서는 높은 운동 능력의 민간인도 추격 긴장감을 유지하도록 최대 스태미나와 회복이 조정됐습니다. 오래 달릴 수 있다는 이유만으로 추격을 길게 끌면 결국 자원이 먼저 마르게 되죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 스토리 모드가 좋은 연습장
 
 싱글플레이는 마이클 마이어스 시점으로 진행되는 여섯 개 챕터 구성입니다. 스토리를 따라가면서 잠입, 스토킹, 처형, 능력 사용을 익힐 수 있어 마이클을 처음 잡기 전에 기본 조작을 배우기 좋습니다.
@@ -83,17 +61,6 @@ hideDescription: true
 처음부터 승률이나 처치 수를 신경 쓰기보다 맵 네 종류의 분위기와 주요 건물, 전화기와 주민을 찾는 흐름, 탈출 준비가 시작될 때 나는 소리를 익히는 것이 중요합니다. 하돈필드 하이츠, 하돈필드 타운 센터, 오렌지 그로브 에스테이츠, 이스트 하돈필드는 구조와 이동 감각이 달라서 한 맵에서 통하던 습관이 다른 맵에서는 위험할 수 있죠.
 
 개인적으로는 첫 판에 모든 시스템을 이해하려 하기보다 민간인이라면 주민 한 명을 안전하게 데리고 다니는 것, 마이클이라면 셰이프 점프로 한 번 제대로 기습하는 것을 목표로 잡는 편이 좋다고 봅니다. 이 두 가지가 익숙해지면 나머지 시스템이 훨씬 자연스럽게 연결됩니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 첫날 가장 먼저 확인할 설정
 

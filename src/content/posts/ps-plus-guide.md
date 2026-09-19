@@ -46,17 +46,6 @@ PS Plus는 플레이스테이션의 유료 구독 서비스입니다. 기본 혜
 
 주력 장르가 온라인 게임 하나뿐이라면 에센셜로 충분하고, 신작보다 지난 명작들을 두루 즐기는 편이라면 엑스트라 이상이 효율적입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 월간 게임 놓치지 않기
 
 월간 게임은 정해진 날짜에 추가되며, 라이브러리에 **추가만 해두면** 구독이 유지되는 한 다시 받을 수 있습니다.
@@ -76,17 +65,6 @@ PS Plus는 플레이스테이션의 유료 구독 서비스입니다. 기본 혜
 - 스토리 모드 위주의 게임을 여러 개 번갈아 즐기는 분께 특히 효율적입니다.
 
 구매 전에 카탈로그를 확인하면, 정가로 살까 고민하던 게임을 체험판처럼 끝내볼 수도 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 클라우드 저장과 부가 혜택
 
@@ -108,13 +86,3 @@ PS Plus는 플레이스테이션의 유료 구독 서비스입니다. 기본 혜
 
 기간 만료 전에 자동 갱신 상태를 확인해두면, 반복 결제로 인한 부담을 피할 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

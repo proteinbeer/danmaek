@@ -49,17 +49,6 @@ hideDescription: true
 
 특정 버전을 오래 유지해야 한다면 개발사가 제공하는 베타 브랜치나 이전 버전 브랜치가 있는지 확인하는 편이 더 정식에 가깝습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 업데이트 시간대 제한
 
 인터넷을 많이 쓰는 낮 시간에 스팀 다운로드가 회선을 잡아먹는다면 자동 업데이트 시간을 따로 정할 수 있습니다.
@@ -80,17 +69,6 @@ hideDescription: true
 
 자주 하는 게임과 보관용 게임을 나눠 업데이트 정책을 다르게 두는 편이 저장장치와 네트워크를 효율적으로 씁니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 모드 사용자는 업데이트를 더 조심
 
 게임 본편 업데이트는 모드를 깨뜨리는 가장 흔한 원인 중 하나입니다.
@@ -110,17 +88,6 @@ hideDescription: true
 저는 자동 업데이트를 완전히 없애려 하기보다 자주 하는 게임은 최신으로 유지하고 큰 게임은 실행 시 업데이트, 전체 다운로드는 한가한 시간대로 제한하는 식이 가장 현실적이라고 봅니다.
 
 스팀이 제공하는 선택지를 이용하면 업데이트를 없애지 않고도 귀찮은 타이밍을 상당히 줄일 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 대형 패치 날에는 대기열부터 확인
 

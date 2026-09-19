@@ -43,17 +43,6 @@ hideDescription: true
 
 방송, 녹화, 영상 편집, 그리고 많은 브라우저 탭을 늘 띄워두는 사용자라면 32GB에서 체감 차이가 훨씬 크게 나타납니다. 메모리가 여유로워지면 프로그램 전환이 부드러워지고, 게임과 다른 작업을 동시에 진행해도 안정적이죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 평균 프레임보다 끊김 차이
 
 램을 늘렸을 때 기대할 것은 평균 프레임 상승보다 여유 공간입니다. 메모리가 부족해 저장장치를 대신 사용하는 상황이 줄어들면 순간적인 끊김이나 프로그램 전환이 더 안정적으로 느껴질 수 있기 때문입니다.
@@ -69,17 +58,6 @@ hideDescription: true
 같은 용량이라도 **메모리 채널 구성**(단일 채널 vs 듀얼 채널)에 따라 성능이 달라집니다. 일반적으로 램 2개를 짝으로 사용하는 듀얼 채널 구성이, 1개만 꽂은 단일 채널보다 대역폭이 넓어 게임에서 유리하죠.
 
 점점 더 커지고 있는 추세는 특히 통합 그래픽(내장 그래픽)을 쓰는 시스템에서 두드러지는데, 내장 그래픽은 램의 일부를 그래픽 메모리로 사용하기 때문입니다. 램을 추가할 때는 기존 램과 **규격(DDR4/DDR5), 동작 속도, 용량**이 어울리는지 확인하고, 메인보드가 지원하는 최대 용량과 구성도 함께 파악해두는 것이 좋습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 어떤 용량을 고를까
 

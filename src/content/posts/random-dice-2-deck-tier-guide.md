@@ -43,17 +43,6 @@ hideDescription: true
 
 포식까지 가는 해금 루트는 마법 계열에서 적응까지 진행해 소환·콤보를 확보한 뒤, 공학에서 톱날·기어를 열고, 혼돈 계열의 혼돈·균열을 거쳐 포식을 여는 순서가 대표적입니다. 포식 성장형을 주력으로 삼는다면 트리를 넓게 벌리기보다 포식이 놓인 카오스 계열로 최단 거리를 밀어주는 것이 효율적이죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 포식 변형과 전술효과 운용
 
 포식 성장형의 성장 자리를 눈보라로 바꾼 변형도 등장하고 있습니다. 적응·소환·포식·눈보라·균열 구성으로, 눈보라가 적을 늦춰 시간을 벌고 균열이 추가 딜을 붙이는 제어 강화형이죠. 순수 성장형에 비해 스택 성장은 느리지만 자체 제어 수단이 있어 단독 운용이 편합니다. 랜덤 매칭 협동이나 서포터와의 호흡이 맞지 않을 때 유리한 선택지입니다.
@@ -67,17 +56,6 @@ hideDescription: true
 기어덱에서 가장 중요한 것은 기어끼리 연결된 상태를 유지하는 것입니다. 기어가 나오면 서로 멀리 떨어뜨리기보다 기존 기어와 이어지도록 붙여 배치하고, 연결이 끊긴 기어는 단독 딜러에 가까워져 효율이 떨어지죠. 실제 운영에서는 필드 중앙 부근에서 연결을 만든 뒤 바깥쪽의 필요 없는 주사위부터 합성하는 방식이 안정적이며, 만들어진 연결을 끊지 않는 것이 더 중요합니다.
 
 적응은 같은 눈금의 다른 주사위와 합성할 수 있어 기어 연결을 방해하는 주사위를 정리하는 데 탁월합니다. 스위치는 좋은 눈금의 기어가 떨어진 위치에 나왔거나 기어 사이에 다른 주사위가 끼었을 때 위치를 바꿔 다시 연결을 만들 때 유용하죠. 기어가 자리 잡고 게임이 길어지면 합성하기 어려운 잉여 주사위가 남을 때가 있는데, 서포터 자리에 릭을 넣으면 주사위 하나를 제거해 필드를 정리하고 다시 소환할 수 있습니다. 소환 → 기어 연결 → 불필요한 주사위 합성 → 스위치 조절 순서로 돌아가면 판이 안정적입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 초반 등반: 전기덱 운영
 
@@ -96,17 +74,6 @@ hideDescription: true
 공명의 핵심은 단순히 공명 하나의 눈금을 높이는 것이 아닙니다. 공명은 딜러의 주력 주사위가 몇 눈금인지에 맞춰 효과를 내므로, 함께 플레이하는 딜러의 현재 눈금을 확인하고 그 눈금에 맞추는 것이 중요하죠. 공명 효과는 중첩되므로 같은 눈금의 공명이 여러 개 남을수록 공격 속도 보조가 커지며, 딜러의 주력이 7성까지 오르는 후반에는 7성 공명을 여러 개 확보하는 것이 최종 목표입니다.
 
 공명 필드가 완성되기 전에는 서폿 쪽 화력이 부족해 라인이 밀릴 수 있습니다. 이때 얼음은 감속으로 진행을 늦추고, 봉인은 라인이 밀리거나 딜러에게 시간이 필요할 때 적응과 함께 합성해 몬스터를 잠시 멈춰 시간을 벌어 주죠. 처음 공명덱을 운용한다면 제어 시간을 늘리는 방향부터 쓰는 편이 안전합니다. 에코는 평소 쿨마다 쓰기보다 얼음과 봉인만으로 버티기 어려운 상황에서 한 번 정리한 뒤 다시 공명 필드를 만드는 비상수단에 가깝습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 티어 변동 대응과 덱 선택 방향
 

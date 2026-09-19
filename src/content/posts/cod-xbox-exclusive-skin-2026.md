@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/cod-xbox-exclusive-skin-2026-01.jpg"
 imageAlt: "콜 오브 듀티 모던 워페어 4 엑스박스 전용 총기 스킨을 설명하는 대표 이미지"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -49,17 +48,6 @@ hideDescription: true
 
 저는 이 부분이 재미있습니다. 게임 회사들이 스킨을 팔며 만들어온 경제는 남이 봐주는 것까지 포함했는데, 이번에는 플랫폼이 그 시선을 나눠버렸기 때문입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 엑스박스가 지금 필요한 건 작은 이유들
 
 마이크로소프트는 최근 여러 게임을 다른 플랫폼에도 적극적으로 내놓고 있습니다. 독점작을 줄이는 방향으로 가면서 예전처럼 이 게임은 엑스박스에서만 된다는 한 줄을 만들기 어려워졌죠.
@@ -75,17 +63,6 @@ hideDescription: true
 특히 크로스플레이가 당연해진 게임에서는 더 그렇습니다. 같은 서버에서 같은 총을 들고 서로를 보는데 화면마다 총 모습이 다르다는 건 기술적으로 가능해도 이용자 경험으로는 꽤 기묘하죠.
 
 전용 스킨을 따로 지급했으면 훨씬 단순했을 겁니다. 굳이 같은 아이템을 플랫폼별로 다르게 렌더링했다는 점에서 마케팅 의도가 더 선명하게 느껴집니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 콘솔 전쟁이 사라진 게 아니라 모양만 바뀌었다
 
@@ -103,13 +80,3 @@ hideDescription: true
 
 이런 방식이 한 번 성공하면 다른 멀티플랫폼 게임도 비슷한 전용 외형을 시험할 수 있습니다. 그래서 이번 총기 하나가 생각보다 재미있는 선례가 될 수 있죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

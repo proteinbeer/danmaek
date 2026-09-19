@@ -16,7 +16,6 @@ image: "/assets/posts/guide-images/wardogs-2026-01.jpg"
 imageAlt: "워독스(WARDOGS) 100인 3팀 전쟁 게임 대표 이미지"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -36,17 +35,6 @@ hideDescription: true
 
 스팀 다운로드 대기열을 확인하고 게임을 완전히 종료한 상태에서 업데이트를 끝까지 적용합니다. 작은 패치도 서버 호환성에 영향을 줄 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. VPN 비교
 
 VPN은 서버까지 가는 경로를 길게 만들거나 특정 지역 인증을 꼬이게 할 수 있습니다.
@@ -58,17 +46,6 @@ VPN은 서버까지 가는 경로를 길게 만들거나 특정 지역 인증을
 윈도우 방화벽에서 워독스나 스팀의 통신이 차단돼 있으면 서버 연결이 실패할 수 있습니다.
 
 보안 프로그램을 통째로 끄기보다 필요한 프로그램의 통신 허용 상태만 확인하는 방식이 안전합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 공유기 재부팅
 
@@ -82,13 +59,3 @@ VPN은 서버까지 가는 경로를 길게 만들거나 특정 지역 인증을
 
 오류 문구와 발생 시간을 캡처해두면 같은 문제를 찾기 쉽습니다. 저라면 서버 상태, 업데이트, VPN, 방화벽, 공유기 순서로 확인하겠습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

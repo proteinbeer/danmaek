@@ -17,7 +17,6 @@ image: "/assets/posts/news-images/steam-frame-2026-01.jpg"
 imageAlt: "밸브의 차세대 VR 기기 스팀 프레임 예상 이미지"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -44,17 +43,6 @@ hideDescription: true
 
 어떤 면에서는 이것도 브랜딩입니다. 쉽게 아무나 살 수 있는 기기보다, 기다려서 손에 넣는 기기가 더 강한 화제성을 만들기도 합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 좋은 신호이면서 나쁜 신호
 
 예약 시스템 흔적은 기대감이 크다는 뜻으로 읽힐 수 있습니다. 동시에 충분한 공급이 어렵다는 신호일 수도 있죠.
@@ -66,17 +54,6 @@ hideDescription: true
 이 소재는 스팀 프레임 스펙 정리보다, 밸브는 왜 기기를 발표하기도 전에 줄부터 세울 준비를 하느냐로 가야 재미있습니다. 결국 밸브가 파는 것은 하드웨어만이 아니라, 커뮤니티가 먼저 달아오르는 이벤트이기도 합니다.
 
 다만 소비자 입장에서는 기다림의 비용이 매번 반복된다면 신선함이 피로로 바뀔 수도 있습니다. 기대감을 만드는 방식과 수요를 견디는 방식은 결국 같은 문제이기 때문입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 발표문보다 주변 움직임이 먼저
 

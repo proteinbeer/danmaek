@@ -15,7 +15,6 @@ image: "/assets/posts/news-images/diablo-netflix-anime-2026-01.jpg"
 imageAlt: "디아블로 넷플릭스 애니 확정, 게임 밖으로 세계관을 넓히는 이유"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 draft: true
 ---
@@ -43,17 +42,6 @@ draft: true
 
 새로운 결정은 갑자기 나온 것처럼 보여도 이전 작품의 반응과 시장 변화가 쌓인 결과인 경우가 많습니다. 과거 방식을 그대로 반복하기 어려워진 지점에서 어떤 문제를 해결하려는지 보면 선택의 이유가 더 선명해집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 게임 밖에서 넓어지는 성역의 이야기
 
 성공할 경우 디아블로를 직접 플레이하지 않은 사람도 세계관에 들어올 수 있습니다. 반대로 기존 팬에게는 게임 설정과 영상 설정이 얼마나 자연스럽게 연결되는지가 중요하며, 지나치게 독립적으로 가면 이름만 빌린 작품처럼 보일 위험도 있습니다.
@@ -69,17 +57,6 @@ draft: true
 게임 회사가 영상 사업을 확장할 때 가장 어려운 부분은 팬 서비스와 독립적인 작품성의 균형이죠. 원작을 모르는 사람도 이해할 수 있으면서 오래된 팬에게는 익숙한 설정의 깊이를 보여줘야 두 시장을 함께 잡을 수 있습니다.
 
 개인적으로는 이 지점이 가장 흥미롭습니다. 눈에 띄는 발표 하나보다 이런 방향 변화가 다른 작품과 서비스에도 반복될 때 회사 전체의 전략으로 굳어지는 경우가 많기 때문입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 제작진과 공개 시점은 추후 발표
 

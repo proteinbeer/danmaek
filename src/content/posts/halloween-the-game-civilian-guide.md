@@ -37,17 +37,6 @@ hideDescription: true
 
 모든 일을 한 캐릭터로 해결하려 하기보다 자신이 고른 민간인의 강점을 따라가시면 판이 편해집니다. 달리기가 좋은 캐릭터는 탐색과 운반, 성격이 좋은 캐릭터는 주민과 경찰, 임기응변이 좋은 캐릭터는 수리와 탈출 준비에 집중하는 식이죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 역할 분담 구조
 
 민간인 네 명이 역할을 나누는 것이 핵심입니다. 한 명은 주민 설득, 한 명은 수리, 한 명은 탐색과 운반, 한 명은 위험한 구간의 보조를 맡는 식으로 구성하면 각 캐릭터의 약점이 크게 드러나지 않습니다. 무조건 좋은 캐릭터보다 팀에서 비어 있는 역할을 채우는 캐릭터가 실제 판에서는 더 유용하죠.
@@ -60,17 +49,6 @@ hideDescription: true
 
 주민은 단순한 배경 인물이 아니라 판의 저항력을 키우는 자원에 가깝습니다. 주민을 계속 방치하면 마이클에게 쉬운 표적이 늘어나고, 반대로 여러 주민이 상황을 인지하기 시작하면 경찰과 무장 저항이 점차 강해집니다. 성격 능력치가 높은 민간인이 이 과정에서 강점을 가지며 팀에 주민 담당이 한 명만 있어도 나머지 세 명이 수리와 탐색, 마이클 견제에 집중할 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 수리와 탈출 준비
 
 상자를 열면 무기, 방해용 물건, 탈출에 필요한 주요 아이템을 찾을 수 있습니다. 문제는 무엇이 나올지와 어떤 탈출 수단이 활성화될지가 매번 같지 않다는 점이죠. 그래서 가방을 채우는 데 집중하기보다 지금 발견한 아이템이 어느 목표와 연결되는지 생각하시는 편이 효율적입니다.
@@ -82,17 +60,6 @@ hideDescription: true
 마이클의 셰이프 점프는 어둠과 시야 밖에서 강해집니다. 밝은 공간을 유지하고 서로의 시야를 겹치면 마이클이 자유롭게 위치를 바꾸는 것을 제한할 수 있죠. 반대로 손전등을 무작정 켜고 소음을 내면서 이동하면 자신의 위치를 알리는 결과가 될 수도 있습니다.
 
 민간인은 근접 무기와 투척 물건을 사용할 수 있고 상황에 따라 총기도 다룰 수 있지만 마이클을 죽이는 게임이라고 생각하고 계속 싸움을 걸면 결국 체력과 스태미나, 아이템을 먼저 소모하게 됩니다. 가장 좋은 공격은 동료가 붙잡혔을 때 구출 시간을 만들거나, 탈출 준비 중 마이클을 잠시 밀어내거나, 경찰의 대응이 갖춰질 때까지 시간을 버는 공격입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 캐릭터 외형과 성장 방향
 

@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/early-access-meaning-2026-01.jpg"
 imageAlt: "얼리 액세스 의미가 사라졌다, 미완성이라 써도 욕먹는 이유"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -55,17 +54,6 @@ hideDescription: true
 
 그렇다면 소비자가 안정성과 콘텐츠를 요구하는 것도 완전히 이상한 반응이라고만 하기는 어렵죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 개발사도 얼리 액세스를 마케팅에 쓴다
 
 이용자 문화만 바뀐 것은 아닙니다.
@@ -86,17 +74,6 @@ hideDescription: true
 
 게임 규모가 커지면서 얼리 액세스의 책임도 함께 커진 셈입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 소비자도 표시를 읽을 필요는 있다
 
 그렇다고 얼리 액세스 게임을 완성품과 똑같이 평가하는 것도 공정하지 않을 수 있죠.
@@ -116,17 +93,6 @@ hideDescription: true
 저는 앞으로 단계가 더 세분화될 가능성이 있다고 봅니다.
 
 개발 중이라는 한 줄보다 지금 무엇이 있고 무엇이 불안정한지 구체적으로 보여주는 방식이 더 솔직하고 이용자에게도 도움이 되죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 구매 버튼 앞에서 확인할 것
 

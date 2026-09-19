@@ -15,7 +15,6 @@ image: "/assets/posts/news-images/nvidia-anthropic-ipo-2026-01.jpg"
 imageAlt: "엔비디아 앤트로픽 IPO에 100억달러 검토, 2조달러 가치가 나온 이유"
 imageWidth: 1920
 imageHeight: 1080
-hideHeroImage: true
 hideDescription: true
 draft: true
 ---
@@ -63,17 +62,6 @@ IPO 투자자는 일반적으로 기업의 장기 성장 가능성을 보고 지
 
 아직 최종 기업가치는 시장 상황과 실적 전망에 따라 크게 달라질 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. GPU 판매자와 고객의 순환
 
 앤트로픽은 대규모 모델 학습과 추론을 위해 엔비디아 GPU를 계속 필요로 합니다.
@@ -101,17 +89,6 @@ AI 모델 개발에 필요한 자본과 연산량이 너무 커 한 회사가 �
 현재는 최전선 AI 기업은 매출이 늘수록 더 많은 GPU와 전력이 필요해 자본 집약적인 산업이 됐습니다.
 
 장기적으로 이 비용 구조가 수익성과 함께 유지될지가 핵심입니다라는 점은 함께 보셔야 합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. AI IPO의 시험대
 
@@ -141,13 +118,3 @@ AI 모델 개발에 필요한 자본과 연산량이 너무 커 한 회사가 �
 
 결국 지금 단계에서는 화제성보다 실제 제품과 서비스가 어떻게 달라지는지 확인하는 것이 가장 현실적인 접근입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

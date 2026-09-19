@@ -53,17 +53,6 @@ VRR을 안정적으로 쓰기 위해 최대 주사율보다 약간 낮은 값으
 
 제한 전후로 화면 찢어짐이 줄어드는지 확인하시면 원인을 파악하기 쉽습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 모니터 메뉴에서도 켜야 한다
 
 프리싱크나 적응형 동기화는 그래픽카드 프로그램에서만 켠다고 끝나지 않는 경우가 있죠.
@@ -83,17 +72,6 @@ VRR을 안정적으로 쓰기 위해 최대 주사율보다 약간 낮은 값으
 모니터 설명서에서 지원 입력과 최대 주사율을 확인하시는 편이 좋습니다.
 
 변환 젠더와 도킹 장치를 사이에 넣으면 가변 주사율 정보가 제대로 전달되지 않는 경우도 있어 문제 확인 단계에서는 직접 연결이 가장 단순합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 수직동기와의 관계
 
@@ -115,17 +93,6 @@ VRR을 켰을 때 화면 밝기가 미세하게 출렁이거나 검은 화면이
 
 케이블 교체와 드라이버 업데이트도 함께 확인할 만합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 7. VRR은 프레임 안정성과 같이 봐야 한다
 
 가변 주사율은 낮은 프레임을 높은 프레임으로 만들어주는 기능이 아닙니다.
@@ -146,13 +113,3 @@ VRR을 켰을 때 화면 밝기가 미세하게 출렁이거나 검은 화면이
 
 하나의 정답보다 실제 프레임 범위에 맞춘 설정이 더 안정적입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

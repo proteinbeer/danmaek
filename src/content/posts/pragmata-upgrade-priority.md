@@ -38,17 +38,6 @@ hideDescription: true
 
 해킹은 잘 되는데 오픈 시간 안에 적 체력을 못 깎는다면 주무기 강화가 좋습니다. 매 전투에 영향을 주는 투자라 낭비가 적습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 슈트는 죽는 이유가 보일 때
 
 패턴은 알고 해킹도 되는데 한두 번 맞으면 그대로 무너진다면 휴의 슈트를 올릴 차례입니다. 체력과 방어 여유가 생기면 해킹 중 실수 하나를 버틸 수 있어 체감 난도가 크게 내려갑니다.
@@ -60,17 +49,6 @@ hideDescription: true
 펌웨어 업데이터와 유닛 프린터는 목적이 다릅니다. 펌웨어는 휴와 다이애나의 기본 성능을 올리고, 유닛 프린터는 발견한 무기와 해킹 노드, 능력, 장비를 영구 선택지로 확장합니다.
 
 한쪽만 올리면 성장 균형이 무너질 수 있습니다. 기본 성능을 확보한 뒤 자주 쓰는 보조 유닛을 프린트하는 흐름이 가장 안정적입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 해킹 노드는 빌드의 핵심이다
 
@@ -87,17 +65,6 @@ hideDescription: true
 레드 존 같은 선택 도전에서 얻는 순수 루넘은 후반 능력과 부착물에 쓰이므로 일반 재료처럼 소비하면 아쉽습니다. 첫 회차에서는 범용성이 높은 효과를 우선하는 것이 안전합니다.
 
 새 장비를 발견했다고 모든 항목을 바로 프린트하고 강화하면 루나필라멘트가 빠르게 부족해질 수 있습니다. 실제 출격에서 두세 번 써보고 손에 맞는 장비만 영구 강화하면 자원 낭비를 줄일 수 있죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 추천 순서는 손에 따라 달라진다
 

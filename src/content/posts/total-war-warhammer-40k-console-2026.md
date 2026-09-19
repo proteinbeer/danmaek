@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/total-war-warhammer-40k-console-2026-01.jpg"
 imageAlt: "토탈 워 워해머 40000 콘솔 지원, RTS를 패드로 바꾼 방법"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -43,17 +42,6 @@ RTS는 마우스로 화면의 여러 지점을 빠르게 선택하고 단축키�
 
 새 결정은 이전 콘텐츠의 반응과 시장 변화가 쌓인 결과인 경우가 많습니다. 과거 방식에서 무엇이 부족했는지 보면 이번 선택이 해결하려는 문제가 더 선명하게 보이죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 대규모 부대 선택과 카메라 조작
 
 컨트롤러가 성공하면 콘솔 이용자는 소파 환경에서 대규모 전략 게임을 즐길 수 있고 PC 이용자도 휴대형 기기나 패드를 선택할 수 있습니다. 반대로 조작을 단순화하기 위해 명령 기능을 줄이면 기존 팬이 불편함을 느낄 수 있습니다.
@@ -69,17 +57,6 @@ RTS는 마우스로 화면의 여러 지점을 빠르게 선택하고 단축키�
 패드 조작의 성공은 마우스를 흉내 내는 데 있지 않습니다. 손가락으로 빠르게 접근할 수 있는 명령 체계를 새로 만들고 자주 쓰는 행동을 자동화해야 콘솔에서도 RTS다운 속도를 유지할 수 있습니다.
 
 개인적으로는 이 부분이 가장 흥미롭습니다. 작은 방향 변화가 다른 작품과 서비스에도 반복될 때 일회성 실험이 아니라 회사 전체 전략으로 굳어지는 경우가 많기 때문이죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 후반 대규모 전투에서 진짜 평가
 

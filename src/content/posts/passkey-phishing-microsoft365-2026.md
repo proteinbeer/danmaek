@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/passkey-phishing-microsoft365-2026-01.jpg"
 imageAlt: "패스키 업데이트 피싱 주의, 안전한 로그인 방식이 미끼가 된 이유"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -43,17 +42,6 @@ hideDescription: true
 
 주소창을 자세히 보지 않으면 실제 로그인 페이지처럼 느껴질 수 있습니다. 회사 로고와 익숙한 색상, 안내 문구를 복제하는 것은 어렵지 않습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 패스키 자체를 등록하는 공격은 아니다
 
 마이크로소프트는 공격자가 실제로 피해자 계정에 패스키를 등록하려는 것이 아니라고 설명했죠. 패스키라는 단어를 보안 공지의 명분으로 사용해 다른 로그인 정보와 세션을 훔치는 것이 목적입니다.
@@ -65,17 +53,6 @@ hideDescription: true
 마이크로소프트는 샤이니헌터스와 헬릭스 등 데이터 절취와 협박에 연계된 위협 행위자들이 이런 공격을 사용한다고 밝혔습니다. 2026년 5월부터 여러 조직에서 활동이 관찰됐습니다.
 
 목적은 계정 하나를 훔치는 데서 끝나지 않습니다. 마이크로소프트 365 안의 메일과 파일을 가져가 회사에 돈을 요구하는 단계까지 이어질 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 보안 설정은 메시지 링크로 들어가지 않는다
 
@@ -90,17 +67,6 @@ IT 부서도 직원에게 비밀번호와 인증 코드를 직접 요구하지 �
 직원이 기억하기 쉬운 규칙은 IT 지원팀이 먼저 연락해도 문자 링크에서 로그인하지 않는 것입니다. 보안 설정 변경이 필요하면 회사 포털을 직접 열거나 사내에 등록된 번호로 IT 부서에 다시 연락하도록 절차를 고정하면 공격자가 만드는 긴급함을 끊을 수 있죠.
 
 패스키와 다중 인증이 보급될수록 공격자는 기술을 깨기보다 설정을 바꿔야 한다는 거짓말로 사용자를 움직이려 할 가능성이 큽니다. 보안 교육도 비밀번호를 복잡하게 만드는 법에서 정상적인 지원 절차를 구분하는 법으로 바뀌어야 합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 패스키가 강해질수록 사람을 노린다
 

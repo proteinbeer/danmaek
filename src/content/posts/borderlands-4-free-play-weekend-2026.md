@@ -15,7 +15,6 @@ image: "/assets/posts/news-images/borderlands-4-free-play-weekend-2026-01.jpg"
 imageAlt: "보더랜드 4 주말 무료 플레이, 50% 할인 전에 직접 해볼 수 있다"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 draft: true
 ---
@@ -43,17 +42,6 @@ draft: true
 
 주말 막판에 설치하시면 다운로드 시간 때문에 실제 플레이 시간이 짧아질 수 있습니다. 용량이 큰 게임이라 관심 있으시면 먼저 설치부터 해두시는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 구매하면 진행도와 전리품 유지
 
 무료 기간에 키운 캐릭터와 획득한 장비는 같은 플랫폼에서 본편을 구매하면 이어서 사용할 수 있습니다. 처음부터 다시 해야 하는 단순 데모와 가장 큰 차이입니다.
@@ -65,17 +53,6 @@ draft: true
 1주년 행사와 함께 본편 할인도 진행됩니다. 체험 후 마음에 들면 바로 구매할 수 있게 무료 플레이와 할인 기간을 겹친 전형적인 복귀 전략입니다.
 
 보더랜드는 총기 파밍과 반복 플레이가 핵심이라 몇 시간의 초반 인상만으로 판단하기 어려운 게임입니다. 무료 기간 동안 캠페인과 협동을 충분히 경험해본 뒤 결정할 수 있다는 점이 꽤 좋습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 지금 체험하기 좋은 사람
 
@@ -90,17 +67,6 @@ draft: true
 처음 몇 시간에는 총기 수와 화려한 전투가 눈에 들어오지만 보더랜드의 진짜 반복 구조는 파밍을 몇 번 해본 뒤 드러납니다. 같은 보스를 다시 잡고 더 좋은 옵션을 찾는 과정이 재미있는지, 협동에서 전투가 더 좋아지는지를 꼭 확인해보시는 편이 좋습니다.
 
 스토리만 보고 끝낼 계획이라면 50% 할인도 충분히 고민할 수 있습니다. 반대로 시즌 콘텐츠와 새 볼트 헌터까지 오래 즐기실 생각이면 본편 가격뿐 아니라 추가 콘텐츠 비용과 향후 업데이트 계획까지 같이 보는 것이 실제 지출을 판단하는 데 더 도움이 됩니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 구매는 무료 기간이 끝나기 전에 결정할 필요 없다
 

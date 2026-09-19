@@ -40,17 +40,6 @@ hideDescription: true
 
 화면이 감지되었는데도 확장 모드에서 까만 화면이 나온다면, 디스플레이 설정에서 두 번째 모니터가 비활성화(꺼짐) 상태이거나, 모니터 번호 선택과 배치가 어긋나 있을 수 있습니다. 화면이 두 개 표시되는 경우 각 모니터를 클릭해 **여러 디스플레이**의 "이 화면 확장" 항목이 선택된 것을 확인하시면 되죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 케이블과 입력 확인
 
 두 번째 모니터의 입력 단자가 실제 연결된 케이블과 맞는지 확인하고 케이블을 다시 연결해보시면 됩니다.
@@ -66,17 +55,6 @@ hideDescription: true
 혹시 몰라서 원인을 좁히려면, 잘 나오는 첫 번째 모니터의 케이블을 두 번째 모니터에 연결하시면 되죠. 같은 케이블로 두 번째 모니터가 나온다면 케이블 문제가 아니라 두 번째 케이블이나 연결 문제입니다. 반대로 여전히 안 나온다면 두 번째 모니터 자체나 그 연결 경로에 문제가 있을 수 있습니다.
 
 데스크톱이라면 그래픽카드의 **다른 출력 단자**로 옮겨 확인하시면 됩니다. 특정 출력 단자만 인식이 불안정할 수도 있죠. 노트북이라면 다른 USB-C(DP) 단자나 HDMI 단자를 시도해볼 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 드라이버 확인
 

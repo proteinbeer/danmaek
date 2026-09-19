@@ -17,7 +17,6 @@ image: "https://img.danmaek.com/images/posts/pubg-deadnet-gamescom-2026/01-pubg-
 imageAlt: "PUBG 데드넷 공개 트레일러 스틸"
 imageWidth: 1280
 imageHeight: 853
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -50,17 +49,6 @@ hideDescription: true
 
 이건 총을 잘 쏘는 유저뿐 아니라 여러 능력과 조합을 시험하는 유저까지 끌어들이려는 선택으로 볼 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 자동차 문과 공중전화까지
 
 공개된 정보에서는 자동차 문을 방패로 사용하고, 죽은 척하거나, 공중전화를 해킹하는 식의 행동도 소개됐습니다. 단순히 엄폐물 뒤에서 총을 주고받는 전투만 생각한 게임은 아니라는 거죠.
@@ -76,17 +64,6 @@ hideDescription: true
 반대로 위험도 있습니다. 왜냐면 PUBG라고 하면 많은 이용자가 배틀그라운드식 총기 감각과 전술적인 전투를 기대하기 때문입니다.
 
 너무 다르면 왜 PUBG인지 의문이 생기고, 너무 비슷하면 굳이 새 게임을 할 이유가 없어지죠. 그래서 데드넷이 해결해야 하는 가장 어려운 문제도 바로 이 사이에 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 배틀그라운드2보다 프랜차이즈
 

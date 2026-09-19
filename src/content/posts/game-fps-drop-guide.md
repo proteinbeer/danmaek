@@ -42,17 +42,6 @@ HWiNFO나 MSI 애프터버너 같은 무료 모니터링 프로그램으로 게�
 
 **Ctrl + Shift + Esc**로 작업 관리자를 열고 CPU·메모리·디스크 사용량이 갑자기 올라가는 프로그램을 찾으시면 되죠. 게임을 할 때는 필요 없는 프로그램을 종료하고, 특히 게임 런처의 자동 업데이트나 클라우드 동기화는 게임 플레이 중에는 일시 중지해두는 것이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 그래픽 드라이버 확인
 
 드라이버를 업데이트한 직후부터 문제가 생겼다면 새 버전이 원인일 수 있고, 반대로 드라이버를 너무 오래 업데이트하지 않았다면 최신 게임에서 문제가 생길 수 있습니다.
@@ -73,17 +62,6 @@ HWiNFO나 MSI 애프터버너 같은 무료 모니터링 프로그램으로 게�
 
 또한 시스템 램 사용량이 거의 가득 차 있는 상태에서 게임을 실행하면, 윈도우가 저장장치를 램처럼 사용하는 스와핑이 일어나 급격한 끊김이 생깁니다. 게임 전에 브라우저와 불필요한 프로그램을 닫고, 그래픽 옵션에서 텍스처 품질이나 해상도를 한 단계 낮춰보시면 되죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 전원 설정 확인
 
 노트북은 배터리 절약 모드나 낮은 전원 설정이 적용되면 게임 성능이 크게 줄어들 수 있습니다. 충전기를 연결하고 윈도우 전원 모드가 성능을 제한하고 있지 않은지 확인해보시면 됩니다.
@@ -102,13 +80,3 @@ HWiNFO나 MSI 애프터버너 같은 무료 모니터링 프로그램으로 게�
 
 특정 게임에서만 문제가 있다면 그래픽 옵션을 한꺼번에 낮추기보다 **그림자, 텍스처, 광원(조명), 반사**처럼 부하가 큰 항목을 하나씩 조정하며 어떤 옵션이 성능에 영향을 주는지 확인하시면 되죠. 해당 게임의 최근 업데이트로 성능 문제가 보고되었다면 커뮤니티나 공식 안내도 참고해볼 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

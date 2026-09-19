@@ -46,17 +46,6 @@ hideDescription: true
 
 따라서 2시간을 조금 넘겼거나 14일이 지난 상황이더라도, 문제가 명확하다면 사유를 자세히 적어 신청해보시는 편이 낫습니다. 다만 이 경우에는 자동으로 보장되는 환불 조건이 아니므로, 승인 여부는 요청마다 달라질 수 있습니다. 청구 오류나 기술적 문제 같은 명확한 사유가 있다면 승인 가능성이 높아집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 다운로드 콘텐츠와 예약 구매
 
 다운로드 콘텐츠는 구매 후 14일 이내이고, 구매한 뒤 본편 플레이 시간이 2시간 미만이어야 기본 환불 조건에 들어갑니다. 이미 사용하거나 다른 계정으로 옮긴 콘텐츠처럼 되돌릴 수 없는 경우에는 환불되지 않을 수도 있죠.
@@ -79,13 +68,3 @@ hideDescription: true
 
 결국 구매 후 14일 안이고 플레이 시간이 2시간 미만이면 가장 확실하고, 조건을 조금 넘겼다면 환불 사유를 적어서 한 번 신청해보시면 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

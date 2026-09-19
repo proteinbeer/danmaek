@@ -17,7 +17,6 @@ image: "/assets/posts/news-images/steam-teraleak-2026-01.jpg"
 imageAlt: "스팀 과거 게임 빌드 유출 관련 이미지"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -44,17 +43,6 @@ hideDescription: true
 
 가장 화제가 된 것은 취소된 포탈 스핀오프 '프로젝트 F-스톱(F-Stop)'입니다. 카메라를 중심으로 기획됐던 이 프로젝트의 모델과 스케치, 심지어 플레이 가능한 빌드까지 발견됐습니다. 하프라이프 2: 에피소드 3의 에셋과 얼음 총 같은 오브젝트도 나와 커뮤니티의 분석이 이어지고 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 밸브뿐 아니라 서드파티까지
 
 유출된 자료는 밸브만의 것이 아닙니다. 2003～2013년에 스팀에 출시된 다른 퍼블리셔의 게임들도 포함됐습니다. 콜 오브 듀티, 레지던트 이블, 소닉 더 헤지호그, 배트맨: 아캄 어사일럼, 드래곤 에이지: 오리진, 스포어, 폴아웃: 뉴 베가스, 문명 등 수십 개 게임의 초기 버전이 확인됐습니다.
@@ -67,13 +55,3 @@ hideDescription: true
 
 자료 취급에 대한 경고도 나왔습니다. 밸브 콘텐츠 크리에이터 타일러 맥비커는 서드파티 콘텐츠가 대거 포함된 만큼 파일을 조작하는 것은 법적으로 위험할 수 있다며 주의를 당부했습니다. 밸브는 아직 공식 입장을 내놓지 않았고, 커뮤니티의 분석은 앞으로도 이어질 전망입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

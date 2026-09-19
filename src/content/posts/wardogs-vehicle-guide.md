@@ -16,7 +16,6 @@ image: "/assets/posts/guide-images/wardogs-2026-01.jpg"
 imageAlt: "워독스(WARDOGS) 100인 3팀 전쟁 게임 대표 이미지"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -36,17 +35,6 @@ hideDescription: true
 
 총격이 약한 초보자에게도 좋은 역할입니다. 길과 위험 지역을 익히면 다른 방식으로 팀 가치가 생깁니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 탱크 생존
 
 중장갑 차량은 강력하지만 여러 적의 집중 공격을 받기 쉽습니다. 혼자 적진 깊숙이 들어가면 비싼 자산을 빠르게 잃을 수 있습니다.
@@ -58,17 +46,6 @@ hideDescription: true
 넓은 맵에서 공중 이동은 지상 이동 시간을 크게 줄일 수 있습니다. 개발사도 헬리콥터로 보급을 나르는 플레이를 하나의 선택지로 제시합니다.
 
 조작에 익숙하지 않다면 사람을 태우기 전에 안전한 상황에서 연습하는 편이 좋습니다. 비싼 장비로 첫 연습부터 하는 것은 부담이 큽니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 퇴로 확보
 
@@ -82,13 +59,3 @@ hideDescription: true
 
 저라면 차량을 개인 장비보다 팀 자산으로 보겠습니다. 비싼 차량은 오래 살아서 여러 사람에게 도움을 줄수록 투자 가치가 커집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

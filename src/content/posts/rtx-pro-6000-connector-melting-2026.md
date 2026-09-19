@@ -15,7 +15,6 @@ image: "/assets/posts/news-images/rtx-pro-6000-connector-melting-2026-01.jpg"
 imageAlt: "RTX 프로 6000 16핀 커넥터 용융, 온도 센서도 막지 못한 이유"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 draft: true
 ---
@@ -43,17 +42,6 @@ draft: true
 
 사용자는 양쪽 커넥터를 끝까지 삽입했다고 주장했습니다. 현재로서는 장착 실수인지 제품 구조 문제인지 독립적으로 확인된 결론이 없기 때문에 원인을 단정하면 안 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 105도에서 차단하는 NTC 센서
 
 해당 케이블에는 온도를 감지하는 NTC 센서가 들어 있어 약 105도 이상이 되면 시스템을 차단하도록 설계됐습니다. 문제는 커넥터가 녹을 정도로 열이 올라갔는데도 차단이 제때 작동하지 않았다는 주장입니다.
@@ -65,17 +53,6 @@ draft: true
 보고에 따르면 그래픽카드 자체는 작동 가능한 상태로 남았고 전원공급장치 쪽 커넥터가 크게 손상됐습니다. 비싼 GPU를 보호했다는 점에서는 다행이지만 고전력 연결부 문제가 완전히 해결되지 않았다는 불안은 남습니다.
 
 RTX 50 시리즈에서도 16핀 커넥터 관련 사용자 보고가 이어져 제조사들은 센서와 케이블 설계로 대응해왔습니다. 이번 사례는 이런 보조 장치가 모든 상황을 막아주지는 않는다는 점을 보여줍니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 사용자는 케이블과 커넥터를 계속 확인해야
 
@@ -90,17 +67,6 @@ RTX 50 시리즈에서도 16핀 커넥터 관련 사용자 보고가 이어져 �
 이번 보도는 제조사가 리콜을 발표한 사건이 아니라 한 사용자가 공개한 손상 사례에서 출발했습니다. 따라서 RTX 프로 6000이나 해당 전원공급장치가 모두 같은 문제를 갖는다고 확대해서 해석하면 안 됩니다.
 
 다만 비슷한 16핀 과열 사례가 여러 세대에서 반복돼 왔다는 점 때문에 작은 보고도 관심을 받는 상황입니다. 제조사가 센서 위치와 차단 조건을 어떻게 검증하는지, 같은 전원공급장치에서 추가 사례가 나오는지를 지켜본 뒤 구조적 문제인지 판단하는 편이 맞습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 센서 하나로 끝나는 문제가 아니다
 

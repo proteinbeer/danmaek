@@ -37,17 +37,6 @@ PS 버튼을 눌러 다운로드 항목을 열고 진행률이 실제로 멈췄�
 
 PSN 서비스에 장애가 있으면 공유기 설정을 바꿔도 해결되지 않습니다. 반대로 PSN은 정상인데 PS5만 끊긴다면 집 안 네트워크를 확인할 차례입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 저장 공간은 표시보다 여유 있게
 
 게임 설치에는 표시된 게임 크기보다 더 많은 임시 공간이 필요할 때가 있죠. 특히 대형 업데이트는 기존 파일을 교체하는 과정에서 추가 공간을 요구하므로 남은 용량이 간당간당하면 다운로드가 멈출 수 있습니다.
@@ -60,17 +49,6 @@ PSN 서비스에 장애가 있으면 공유기 설정을 바꿔도 해결되지 
 
 재개해도 같은 위치에서 반복해서 멈춘다면 게임 파일보다 시스템 쪽 문제를 의심하는 편이 맞습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 캐시와 데이터베이스 점검
 
 PS5를 완전히 끈 뒤 안전 모드로 들어가 캐시 지우기와 데이터베이스 재구축을 사용할 수 있습니다. 이 과정은 게임 세이브를 지우는 초기화가 아니라, 시스템이 파일 목록을 다시 정리하도록 만드는 작업이죠.
@@ -82,17 +60,6 @@ PS5를 완전히 끈 뒤 안전 모드로 들어가 캐시 지우기와 데이�
 위 단계가 모두 실패했을 때 다운로드 항목을 삭제하고 라이브러리에서 다시 받습니다. 가능하면 와이파이보다 유선 연결을 사용하고, 절전 모드 중 인터넷 연결 유지 설정도 함께 확인하는 편이 안정적입니다.
 
 처음부터 삭제하는 방식은 가장 단순해 보이지만 대형 게임에서는 몇 시간의 다운로드를 다시 해야 하죠. 순서를 지켜 확인하는 편이 훨씬 효율적입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 설정 변경 뒤 확인할 부분
 
@@ -108,13 +75,3 @@ PS5 문제 해결은 무작정 초기화하는 것보다 재현 조건을 찾는
 
 PS5는 같은 증상이라도 계정, 게임 버전, 연결 장비에 따라 원인이 달라질 수 있죠. 그래서 가장 최근에 바꾼 설정과 문제가 시작된 시점을 기준으로 하나씩 되돌려 확인하시면 불필요한 재설치와 초기화를 줄일 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

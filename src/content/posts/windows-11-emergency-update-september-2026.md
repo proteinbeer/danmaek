@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/windows-september-2026-patch-tuesday-2026-01.j
 imageAlt: "윈도우 11 긴급 업데이트 배포, 9월 보안 패치 뒤 생긴 문제를 다시 고쳤다"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -60,17 +59,6 @@ PC에 문제가 생겼을 때 바로 드라이버를 삭제하기보다 문제�
 
 전날까지 잘되던 장치가 윈도우 업데이트 직후 멈췄다면 운영체제 변경 내역도 함께 보셔야 합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 하이퍼 V 공유 문제
 
 하이퍼 V 기반 리눅스 가상 머신에서도 폴더 공유 관련 문제가 발생했습니다.
@@ -98,17 +86,6 @@ PC에 문제가 생겼을 때 바로 드라이버를 삭제하기보다 문제�
 다만 모든 PC가 같은 문제를 겪은 것은 아닙니다.
 
 아무 이상이 없다면 인터넷에서 본 문제를 이유로 기존 업데이트를 임의로 제거할 필요는 없습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 긴급 패치가 잦아졌다
 
@@ -138,13 +115,3 @@ PC에 문제가 생겼을 때 바로 드라이버를 삭제하기보다 문제�
 
 이번 사례에서 더 중요한 습관은 업데이트를 하지 않는 것이 아니라 업데이트한 날짜와 문제 발생 시점을 함께 기록하고 필요할 때 긴급 수정까지 이어서 적용하는 것입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

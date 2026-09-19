@@ -45,17 +45,6 @@ hideDescription: true
 
 전환할 때 스팀을 다시 시작하라는 안내가 나올 수 있습니다. 다운로드가 진행 중이면 오프라인 모드로 전환되지 않으므로, 다운로드를 완료하거나 중지한 뒤 진행하시기 바랍니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 인터넷 없이 스팀 시작하기
 
 이미 오프라인인 상태에서 스팀을 실행해야 할 때는 다음과 같이 시작합니다.
@@ -75,17 +64,6 @@ hideDescription: true
 - **온라인 멀티 전용 게임**: 매치메이킹을 지원하는 게임은 서버가 없으면 이용할 수 없죠.
 
 구체적으로 어떤 게임이 오프라인을 지원하는지는 게임 설명이나 실행해봐야 알 수 있습니다. 외출 전에 한 번 시험 삼아 오프라인 모드로 게임을 열어보시면 확실합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 클라우드 저장과 세이브 관리
 
@@ -107,13 +85,3 @@ hideDescription: true
 
 여행 중 노트북으로 오프라인 플레이를 자주 한다면, 귀가 후 온라인 전환과 업데이트까지 마무리하면 다음 외출에 대비할 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

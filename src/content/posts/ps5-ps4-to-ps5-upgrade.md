@@ -16,7 +16,6 @@ image: "/assets/posts/guide-images/playstation-ps.jpg"
 imageAlt: "PS5 게임과 시스템 설정 화면"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -38,17 +37,6 @@ PS5에서 PS4 게임을 설치하다 보면 같은 제목이 두 개 보이거�
 
 구매 계정이 다르면 업그레이드 권한도 바로 보이지 않을 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 디스크 게임은 디스크가 필요
 
 PS4 디스크판으로 PS5 디지털 버전 업그레이드를 받은 경우에도 플레이할 때 원본 디스크를 넣어야 하는 게임이 있습니다. 디스크가 라이선스 확인 역할을 하기 때문입니다.
@@ -61,17 +49,6 @@ PS4 디스크판으로 PS5 디지털 버전 업그레이드를 받은 경우에�
 
 저장 공간이 부족하다면 실수로 두 버전을 모두 설치하지 않았는지도 확인하는 것이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 세이브 이전은 게임마다 다름
 
 PS4 버전 세이브가 PS5 버전에서 자동으로 이어지는지 여부는 게임마다 다릅니다. 일부는 게임 안에서 업로드와 가져오기 기능을 제공하고, 일부는 클라우드나 콘솔 저장 데이터를 이용합니다.
@@ -83,17 +60,6 @@ PS4 버전 세이브가 PS5 버전에서 자동으로 이어지는지 여부는 
 PS5 버전은 빠른 로딩, 듀얼센스 기능, 향상된 그래픽을 제공하는 경우가 많습니다. 반면 PS4 버전이 특정 주변기기나 기존 세이브와 더 편하게 맞는 게임도 있습니다.
 
 두 버전이 모두 가능하다면 본인이 필요한 기능을 기준으로 선택하시면 됩니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 설정 변경 뒤 확인할 부분
 
@@ -109,13 +75,3 @@ PS5 문제 해결은 무작정 초기화하는 것보다 재현 조건을 찾는
 
 PS5는 같은 증상이라도 계정, 게임 버전, 연결 장비에 따라 원인이 달라질 수 있습니다. 그래서 가장 최근에 바꾼 설정과 문제가 시작된 시점을 기준으로 하나씩 되돌려 확인하시면 불필요한 재설치와 초기화를 줄일 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

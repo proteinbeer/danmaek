@@ -17,7 +17,6 @@ image: "https://img.danmaek.com/images/posts/pareidolia-nexon-games-project-rx/0
 imageAlt: "파레이돌리아 공식 티저 이미지 — 타소가레관에서 잠든 오하나와 샤미 그리고 미니에"
 imageWidth: 580
 imageHeight: 379
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -58,17 +57,6 @@ hideDescription: true
 
 반대로 생활 콘텐츠가 반복 작업으로 느껴지면 게임이 쉽게 피곤해질 수 있죠. 결국 중요한 건 기능의 개수가 아니라 캐릭터가 살아 있다는 느낌을 얼마나 자연스럽게 만드는지입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 피시, 콘솔, 모바일을 모두 노리는 이유
 
 파레이돌리아는 피시, 콘솔, 모바일 기반으로 개발되고 있습니다. 모바일 한 플랫폼만 기준으로 설계하는 게임보다 화면, 조작, 성능을 더 넓게 생각해야 하는 선택입니다.
@@ -90,17 +78,6 @@ hideDescription: true
 블루 아카이브 역시 일본 서비스에서 강한 팬덤을 만든 경험이 있습니다. 파레이돌리아가 초기부터 일본 행사에 큰 비중을 두는 것은 단순한 해외 홍보라기보다 핵심 이용자층에게 빠르게 평가받겠다는 선택으로 볼 수 있죠.
 
 첫 시연에서 전투보다 생활 콘텐츠가 얼마나 보여질지도 관심 포인트입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 성공을 가를 건 그래픽보다 관계의 밀도
 

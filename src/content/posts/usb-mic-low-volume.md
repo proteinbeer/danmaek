@@ -57,17 +57,6 @@ USB 마이크에 게인 다이얼이 있다면 말을 하면서 천천히 올리
 
 최대값이 좋은 게 아니라 평소 목소리가 충분히 들어오는 값이 좋죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 마이크와 입 사이 거리
 
 콘덴서 마이크는 책상 한쪽 멀리 놓고 게인만 올리면 방 소리와 키보드 소리까지 많이 들어올 수 있습니다.
@@ -96,17 +85,6 @@ USB 마이크에 게인 다이얼이 있다면 말을 하면서 천천히 올리
 
 먼저 윈도우 녹음기처럼 단순한 앱에서 기본 소리를 확인한 뒤 사용하려는 프로그램으로 넘어가시면 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. USB 허브와 전원 확인
 
 일부 마이크는 USB 허브나 도킹 장치를 거치면 전원이 불안정해지거나 장치가 제대로 초기화되지 않을 수 있습니다.
@@ -126,17 +104,6 @@ USB 마이크에 게인 다이얼이 있다면 말을 하면서 천천히 올리
 제가 설정한다면 마이크 위치를 먼저 가까이 잡고, 하드웨어 게인, 윈도우 입력 볼륨, 앱 입력 볼륨 순서로 확인하겠습니다.
 
 이 순서로 맞추면 소리를 키우기 위해 잡음까지 함께 키우는 실수를 줄일 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 테스트 녹음으로 기준 만들기
 

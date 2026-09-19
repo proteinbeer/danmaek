@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/openai-navier-stokes-2026-01.jpg"
 imageAlt: "AI 1만개가 88시간 풀었다, 수학 난제 해결 주장의 무게"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -55,17 +54,6 @@ hideDescription: true
 
 AI 연구도 점점 한 모델의 지능보다 여러 모델을 어떻게 조직하느냐가 중요해지는 모습이죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 형식 증명이 중요한 이유
 
 수학 논문은 사람이 읽고 논리의 빈틈을 검토합니다.
@@ -86,17 +74,6 @@ AI가 그럴듯한 수식을 만들어낸 것인지 실제로 엄밀한 증명 �
 
 따라서 지금은 오픈AI가 강한 해결 주장을 공개한 단계로 보는 표현이 가장 안전하죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 비용이 보여주는 새로운 연구 방식
 
 1만개의 에이전트를 88시간 돌리는 방식은 개인 수학자가 종이와 연필로 고민하는 이미지와 완전히 다르죠.
@@ -116,17 +93,6 @@ AI가 기존 논문을 요약하는 단계를 넘어 새로운 증명 후보를 
 다만 도구가 강해질수록 인간 연구자의 역할이 사라진다기보다 무엇을 믿을지 검증하는 역할이 더 중요해질 가능성이 큽니다.
 
 난제를 푸는 속도보다 결과를 이해하고 새로운 질문으로 연결하는 능력이 다음 경쟁이 될 것 같습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 상금보다 큰 영향
 
@@ -152,13 +118,3 @@ AI가 이런 수준의 연구 문제에서 반복적으로 의미 있는 결과�
 
 한쪽이 아이디어를 폭넓게 만들고 다른 쪽이 오류를 좁히면 연구 속도 자체가 지금과 달라질 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

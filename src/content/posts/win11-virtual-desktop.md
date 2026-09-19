@@ -57,17 +57,6 @@ hideDescription: true
 
 정리가 목적이었는데 데스크톱 자체가 너무 많아지면 다시 찾는 일이 생기기 때문이죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 열린 창을 다른 데스크톱으로 이동
 
 작업 보기에서 열린 창을 원하는 데스크톱으로 옮길 수 있습니다.
@@ -95,17 +84,6 @@ hideDescription: true
 처음에는 낯설지만 하루 정도만 의식해서 사용하면 익숙해집니다.
 
 특히 노트북 한 화면으로 여러 종류의 일을 동시에 하실 때 효과가 더 크죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 멀티태스킹보다 정리 기능에 가깝다
 
@@ -135,13 +113,3 @@ hideDescription: true
 
 가상 공간은 많을수록 좋은 것이 아니라 현재 작업을 빠르게 구분할 수 있을 정도가 가장 효율적입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

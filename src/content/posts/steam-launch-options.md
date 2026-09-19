@@ -49,17 +49,6 @@ hideDescription: true
 
 게임마다 엔진과 실행 방식이 다르므로 특정 명령이 유명하다는 이유만으로 무조건 적용된다고 생각하시면 안 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 성능 향상 명령은 특히 조심
 
 인터넷에는 FPS를 높여준다는 시작 옵션이 많이 공유되죠.
@@ -80,17 +69,6 @@ CPU 코어 수나 메모리 양을 강제로 지정하는 명령도 마찬가지
 
 어떤 값을 넣었는지 기억하기 어렵다면 수정 전에 메모해두는 것도 도움이 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 게임 옵션과 시작 옵션의 차이
 
 게임 안의 그래픽 설정은 일반 이용자를 위한 안전한 범위에서 값을 바꾸는 기능입니다.
@@ -110,17 +88,6 @@ CPU 코어 수나 메모리 양을 강제로 지정하는 명령도 마찬가지
 저는 성능을 올린다는 이유만으로 여러 명령을 쌓아두는 방식은 추천하지 않습니다.
 
 정상 상태를 기준으로 하나씩 바꿔야 효과도 알 수 있고 문제가 생겼을 때 되돌리기도 쉽습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 시작 옵션은 하나씩 기록하며 테스트
 

@@ -1415,29 +1415,7 @@ width: 18px;
   color: var(--accent);
   font-size: 1.08rem;
   font-weight: 900;
-  line-height: 1.6;
-}
-.tool-coupang {
-  width: 250px;
-  max-width: 100%;
-  margin: 34px auto 34px;
-  overflow: hidden;
-  min-height: 250px;
-}
-.tool-coupang .affiliate-note {
-  margin: 0 0 10px;
-  color: var(--muted);
-  font-size: .78rem;
-  line-height: 1.5;
-  text-align: center;
-}
-main:not(.home-page) .tool-coupang {
-  margin-bottom: 8px;
-}
-.tool-coupang--lg { display: none; }
-@media (min-width: 768px) {
-  .tool-coupang--sm { display: none; }
-  .tool-coupang--lg { display: block; width: 662px; min-height: 140px; }
+line-height: 1.6;
 }
 .article-wrap {
   position: relative;
@@ -1527,19 +1505,7 @@ main:not(.home-page) .tool-coupang {
   padding: 18px 20px;
   border-left: 4px solid #050505;
   background: #f1f4f9;
-  color: #263347;
-}
-.prose .affiliate-disclosure {
-  margin: 0 0 26px;
-  padding: 8px 14px;
-  border-radius: 7px;
-  background: #b8bec7;
-  color: #fff;
-  font-size: .78rem;
-  font-weight: 600;
-  line-height: 1.45;
-  text-align: center;
-  letter-spacing: -.02em;
+color: #263347;
 }
 .prose .dan-point {
   position: relative;
@@ -1673,34 +1639,6 @@ main:not(.home-page) .tool-coupang {
   flex-wrap: wrap;
   gap: 11px;
   margin-top: 34px;
-}
-.coupang-banner {
-  margin-top: 26px;
-  margin-bottom: 19px;
-  overflow-x: auto;
-  min-height: 140px;
-}
-.coupang-banner iframe {
-  display: block;
-}
-.coupang-ad {
-  display: flex;
-  justify-content: center;
-  margin: 40px 0 28px;
-  overflow: hidden;
-}
-.coupang-ad > div {
-  max-width: 100%;
-  overflow: hidden;
-}
-.coupang-ad--mobile {
-  display: none;
-}
-.coupang-ad--mobile > div {
-  width: 250px;
-}
-.coupang-ad--desktop > div {
-  width: 728px;
 }
 .share-row {
   align-items: center;
@@ -2066,15 +2004,9 @@ article.featured .contact-form {
     border-radius: 12px;
     padding: 22px 18px;
   }
-  .breadcrumb {
+.breadcrumb {
     margin-bottom: 14px;
     padding-inline: 4px;
-  }
-  .coupang-ad--desktop {
-    display: none;
-  }
-  .coupang-ad--mobile {
-    display: flex;
   }
 }
 
@@ -2517,9 +2449,6 @@ border: 2px solid #fff;
 /* Danmaek home skin */
 .home-page .section-head {
   margin-top: 42px;
-}
-.home-page .tool-coupang {
-  margin-bottom: 8px;
 }
 .home-more {
   margin: 22px 0 0;

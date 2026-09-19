@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/hearthstone-reign-of-black-empire-2026-01.jpg"
 imageAlt: "블리즈컨 하스스톤 발표 총정리, 수도사와 검은 제국이 동시에 온다"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -57,17 +56,6 @@ hideDescription: true
 
 월드 오브 워크래프트에서 수도사는 빠른 움직임과 유연한 역할 전환이 특징인데 하스스톤이 이를 카드 규칙으로 어떻게 옮길지가 가장 궁금합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 전장에는 어버레이션
 
 전장에는 9월 22일 새 하수인 유형 어버레이션이 추가됩니다.
@@ -89,17 +77,6 @@ hideDescription: true
 저는 이런 시스템이 카드 게임에서 꽤 잘 맞는다고 봅니다.
 
 매일 같은 상점을 보는 것보다 오늘 무엇이 싸졌는지 확인하게 만들 수 있기 때문입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 한꺼번에 바꾸는 이유
 

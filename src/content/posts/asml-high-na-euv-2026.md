@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/asml-high-na-euv-2026-01.jpg"
 imageAlt: "ASML 4억달러 하이 NA 장비, 반도체 회사들이 결국 줄 서기 시작했다"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -43,17 +42,6 @@ ASML의 차세대 하이 NA EUV 노광장비 도입이 본격화되고 있습니
 
 AI 가속기는 연산 성능뿐 아니라 전력 효율이 중요하죠. 같은 면적에 더 많은 기능을 넣거나 같은 성능을 더 낮은 전력으로 만드는 데 미세 공정의 가치가 다시 커지고 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 주요 고객 합류
 
 인텔은 이미 하이 NA 장비를 적극적으로 시험하고 있고 TSMC도 평가를 이어가고 있습니다. 삼성전자와 SK하이닉스 역시 향후 생산 적용 계획을 준비하는 것으로 전해졌습니다.
@@ -66,17 +54,6 @@ ASML은 EUV 노광장비 시장에서 사실상 독점적 위치를 갖고 있�
 
 이 점이 ASML의 가장 강한 경쟁력인 동시에 반도체 업계의 위험이기도 합니다. 한 공급사의 생산 문제가 전 세계 최첨단 칩 일정에 영향을 줄 수 있죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. AI가 밀어준 공정
 
 제가 보기에는 하이 NA 확산을 가장 빠르게 만든 힘은 스마트폰이 아니라 AI입니다. 데이터센터 업체가 성능 향상을 위해 비용을 더 지불할 의지가 생기면서 반도체 회사도 비싼 장비를 도입할 이유가 커졌습니다.
@@ -88,17 +65,6 @@ ASML은 EUV 노광장비 시장에서 사실상 독점적 위치를 갖고 있�
 하이 NA는 몇 년 전부터 존재했지만 고객들은 생산 도입 시점을 오래 고민했습니다. 장비 가격이 너무 높고 기존 EUV 공정을 여러 번 사용하는 편이 더 경제적일 수 있다는 판단도 있었기 때문이죠.
 
 AI 칩 수요가 커지면서 계산이 바뀌었습니다. 더 높은 성능과 전력 효율을 위해 미세 공정의 가치가 커지고 대형 고객이 비싼 장비 비용을 감수할 이유도 생겼습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 한국 반도체
 
@@ -114,13 +80,3 @@ AI 칩 수요가 커지면서 계산이 바뀌었습니다. 더 높은 성능과
 
 하이 NA는 너무 비싸서 일부 공정에만 제한적으로 쓰일 것이라는 전망도 있었지만 AI가 계산을 바꾸고 있습니다. 칩 한 장의 가치가 높아질수록 제조사는 장비 가격보다 성능과 수율을 먼저 보게 되고, ASML의 협상력도 더 커집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

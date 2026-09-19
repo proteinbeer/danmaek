@@ -15,7 +15,6 @@ image: "/assets/posts/news-images/xbox-cloud-gaming-15-hour-cap-2026-01.jpg"
 imageAlt: "엑스박스 클라우드 15시간 제한, 기존 가입자는 왜 나라별로 다를까"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 draft: true
 ---
@@ -43,17 +42,6 @@ draft: true
 
 문제는 이 예외가 모든 국가에서 동일하게 적용되지 않는다는 점입니다. 이용자는 자신의 계정에 받은 이메일과 지역별 약관을 직접 확인해야 합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 지역별 차이
 
 클라우드 서비스는 서버 비용과 통신 규제, 가격 정책이 국가마다 다릅니다. 그래서 동일한 구독 이름을 사용해도 실제 제공 조건이 달라질 수 있습니다.
@@ -70,17 +58,6 @@ draft: true
 
 마이크로소프트가 클라우드를 게임의 미래로 강조해왔던 만큼 이용시간 제한은 방향과 약간 충돌합니다. 추가 시간 가격이 얼마나 합리적인지가 실제 반응을 결정할 가능성이 큽니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 기존 고객 보호
 
 구독 서비스가 가격이나 사용량 정책을 바꿀 때 기존 고객을 예외로 두는 방식은 흔합니다. 갑작스러운 조건 변경으로 이탈하는 이용자를 줄이면서 신규 고객에게는 새로운 비용 구조를 적용할 수 있기 때문입니다.
@@ -92,17 +69,6 @@ draft: true
 월 15시간은 주말마다 두 시간 정도 플레이하면 거의 소진되는 양입니다. RPG와 오픈월드 게임을 클라우드로 주로 즐기시는 분에게는 사실상 체험용에 가까울 수 있습니다.
 
 반면 휴대폰에서 잠깐 접속하거나 콘솔 설치 전 게임을 확인하는 용도라면 충분할 수도 있습니다. 결국 시간 제한의 불만은 클라우드를 보조 기능으로 쓰는지 메인 플랫폼으로 쓰는지에 따라 크게 갈립니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 정책의 방향
 

@@ -49,17 +49,6 @@ hideDescription: true
 
 언어 팩 용량이 큰 게임은 음성 파일 때문에 생각보다 많은 데이터를 받을 수 있죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 스팀 클라이언트 언어 영향
 
 일부 게임은 처음 실행할 때 스팀 클라이언트의 언어를 기준으로 기본값을 고릅니다.
@@ -80,17 +69,6 @@ hideDescription: true
 
 스팀은 한국어인데 외부 런처가 영어라면 그 런처의 설정에서 언어를 다시 지정해야 할 수 있죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 언어 파일이 꼬였을 때
 
 언어 변경 도중 다운로드가 중단됐거나 파일이 손상되면 자막이 비거나 글자가 이상하게 나올 수 있습니다.
@@ -110,17 +88,6 @@ hideDescription: true
 저는 언어 문제에서 재설치를 가장 마지막에 두는 것이 좋다고 봅니다.
 
 지원 범위, 게임별 언어, 클라이언트 언어, 내부 설정 순서로 보면 대부분은 파일을 전부 다시 받지 않고 해결할 수 있죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 언어 변경 뒤 세이브와 모드도 확인
 

@@ -17,7 +17,6 @@ image: "/assets/posts/news-images/skt-ai-data-center-01.jpg"
 imageAlt: "SK AI 데이터센터 울산 조감도"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -44,17 +43,6 @@ SK하이퍼는 대형 신규 AIDC 개발에 전념하는 회사입니다. SK텔�
 
 SK하이퍼는 2030년까지 최대 7500억원을 출자할 계획입니다. 앞으로 AI 산업의 성장을 받쳐줄 대규모 컴퓨팅 인프라를 미리 확보하겠다는 전략이죠. 이번에 유치한 투자금도 대부분 이 SK하이퍼의 대형 프로젝트에 투입됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 3조800억원 규모의 투자 유치
 
 이번 투자 유치 규모는 약 3조800억원입니다. 주도한 곳은 글로벌 사모펀드 KKR과, 국내에서 IMM인베스트먼트와 스톤브릿지로 구성된 컨소시엄입니다.
@@ -66,17 +54,6 @@ SK하이퍼는 2030년까지 최대 7500억원을 출자할 계획입니다. 앞
 SK텔레콤은 로드맵도 함께 제시했습니다. 먼저 울산 AIDC 투자를 시작으로 영남권에 2GW 이상 데이터센터를 조성합니다. 지난 8월 울산·부산·경남 등 5개 지자체와 4GW 규모 협약도 이미 체결한 상태입니다.
 
 이어 충청권과 서남권에 각각 GW급 데이터센터를 추가하고, 2029년부터 5GW 규모를 단계별로 구축한다는 계획입니다. 최종적으로 2035년까지 총 15GW 인프라를 갖춘다는 목표죠. 국내뿐 아니라 해외 투자와 협력으로 영역을 넓히겠다는 뜻도 담겨 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 남은 과제, 전력과 인허가
 
@@ -90,13 +67,3 @@ SK텔레콤은 로드맵도 함께 제시했습니다. 먼저 울산 AIDC 투자
 
 3조800억원 규모의 투자를 유치하면서 글로벌 자본의 관심도 확인했습니다. 이제 남은 것은 실제 수익으로 이어지는 실행력입니다. 울산 AIDC가 제때 가동되고, 해외 협력이 구체화되는지가 이 계획의 성공 여부를 가르는 잣대가 되겠죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

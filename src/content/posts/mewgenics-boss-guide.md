@@ -42,17 +42,6 @@ hideDescription: true
 
 이 보스는 텔레포트하는 다이북 계열과 달리 위치를 고정하고 오는 경우가 많아, 헌터나 네크로맨서처럼 먼 거리에서 딜을 넣는 클래스와 궁합이 좋죠. 클레이 때 클라운, 근접 딜러는 미니언 정리에 전념하는 파티 구성으로 가면 안정적입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 액트 2의 여섯 보스
 
 액트 2는 원거리와 난수 요소가 두드러집니다. 졸디악은 총기를 주무기로 쓰며 재장전에 취약한 순간이 있고, 개빗은 주사위 패턴으로 턴마다 무작위 버프를 걸어 옵니다. 둘 다 '어느 턴에 때려야 하는지'를 정해놓고 리로드 타이밍에 몰아치는 것이 정답입니다.
@@ -71,17 +60,6 @@ hideDescription: true
 
 승리하면 다음 비밀 보스로 향하는 물품을 얻고, 사수에 참여한 리타이어드 캣 4마리는 울트라 리타이어드로 승급하죠. 패배에도 추가 패널티는 없고 다음에 7일 경고로 재도전할 수 있으므로, 여유가 없으면 스트레이 1마리를 보내 의도적으로 진 뒤 준비를 이어가는 전략도 공식적으로 인정되는 방법입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 액트 3의 보스
 
 액트 3은 랩(Lab)부터 시작하여 과거와 미래의 두 분기로 나뉩니다. 랩에는 스테이시나 스피어가 최종 보스로 등장하며, 스테이시는 전투 전에 보스의 특성을 직접 고르는 특이한 방식입니다. 각 고양이마다 옵션을 선택할 수 있고, '사양하지 않음'을 고르면 난독증이 걸리는 대신 선택을 피할 수 있죠. 미러 샤인, 더블 헤드, 서드 포 등은 스테이시를 크게 꺾는 반사/추가 턴 옵션이므로 상황에 맞게 골라야 합니다.
@@ -96,13 +74,3 @@ hideDescription: true
 
 세 번째로는 예비 리타이어드 캣 2～3마리를 집에 남겨 두는 것입니다. 하우스 보스는 어느 시점에나 올 수 있고, 액트 후반까지 정리하지 않으면 C-800과 같은 후속 침공이 이어집니다. 마지막으로 보스전을 앞두고는 소진된 아이템을 창고에서 끌어 쓸 수 있게 인벤토리를 미리 비워 두는 것만으로도 실수를 줄이죠. 패턴을 외우는 것보다, 패턴 후의 틈을 딜로 바꾸는 판단이 이 게임의 보스를 넘는 가장 빠른 지름길입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

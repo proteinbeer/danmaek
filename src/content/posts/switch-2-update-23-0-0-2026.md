@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/switch-2-update-23-0-0-2026-01.jpg"
 imageAlt: "스위치 2 업데이트 버전 23, 독 모드 VRR과 기기 이전까지 바뀌었다"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -43,17 +42,6 @@ hideDescription: true
 
 세대 초에는 한 대만 쓰는 이용자가 많지만 시간이 지나면 가족용 기기나 신형 모델이 늘어납니다. 이런 이전 기능은 화려하지 않아도 장기적으로 꼭 필요한 기반 기능이죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 휴대 모드 부스트
 
 휴대 모드 부스트 기능을 빠른 설정에서 바로 켜거나 끌 수 있게 됐습니다. 이전보다 메뉴를 깊게 들어가지 않아도 상황에 맞춰 성능과 배터리 사용을 조절하기 쉬워졌습니다.
@@ -70,17 +58,6 @@ hideDescription: true
 
 제가 보기에는 이런 펌웨어 업데이트가 스위치 2의 실제 수명을 결정합니다. 출시 때 없던 기능이 몇 년 동안 계속 추가된다면 같은 하드웨어의 사용 경험도 상당히 달라질 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. VRR 체감
 
 VRR은 평균 프레임을 높이지 않지만 40프레임과 60프레임 사이를 오가는 게임에서 끊김을 줄여줍니다. 성능이 고정되지 않는 게임이 많은 콘솔에서는 숫자 이상의 체감 차이가 날 수 있습니다.
@@ -92,17 +69,6 @@ VRR은 평균 프레임을 높이지 않지만 40프레임과 60프레임 사이
 TV 모드 VRR을 쓰려면 본체뿐 아니라 독 펌웨어도 최신 상태여야 합니다. 화면 설정만 바꾸고 기능이 작동하지 않는다면 TV 지원 여부와 HDMI 연결, 독 버전을 함께 확인하셔야 하죠.
 
 이런 조건이 많아질수록 콘솔의 단순함은 조금씩 줄어듭니다. 반대로 제대로 설정하면 PC에서나 신경 쓰던 출력 기능을 콘솔에서도 자동으로 누릴 수 있다는 장점이 생깁니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 설정 확인
 

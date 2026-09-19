@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/xbox-free-play-days-september-2026-01.jpg"
 imageAlt: "엑스박스 최고경영자가 고객 문의를 직접 답한다, 보여주기보다 중요한 부분"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -60,17 +59,6 @@ hideDescription: true
 
 고객지원 인력과 처리 속도가 나빠지면서 최고경영자 혼자 몇 건을 해결하는 구조라면 의미가 크지 않습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 이용자는 늘었는데 사업은 안 컸다
 
 샤르마는 엑스박스와 게임을 처음 이용한 사람이 크게 늘었지만 그 증가가 사업 성장으로 충분히 연결되지는 않았다고 설명한 바 있습니다.
@@ -98,17 +86,6 @@ hideDescription: true
 고객 문의를 몇 건 빨리 닫는 것보다 문의 원인 하나를 없애는 것이 더 큰 개선입니다.
 
 이 차이가 앞으로 엑스박스의 고객지원 평가를 바꿀 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 결국 숫자로 확인될 변화
 

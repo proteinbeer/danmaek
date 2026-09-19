@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/fruit-fly-doom-2026-01.jpg"
 imageAlt: "초파리 뇌로 둠을 돌렸다, 장난처럼 시작한 실험이 묘하다"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -55,17 +54,6 @@ AI를 이용해 수많은 2차원 이미지를 조합하고 뉴런 연결을 3�
 
 디지털로 재현된 연결 구조에 게임 정보를 번역해 넣고 나온 반응을 다시 조작으로 해석하는 방식입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 둠을 잘하지는 못한다
 
 실험이 흥미롭다고 초파리 뇌가 인간처럼 게임 규칙을 이해했다고 말하면 과장이죠.
@@ -86,17 +74,6 @@ AI를 이용해 수많은 2차원 이미지를 조합하고 뉴런 연결을 3�
 
 뉴런 활동 그래프보다 캐릭터가 벽에 부딪히거나 방향을 바꾸는 모습을 보면 시스템 변화가 훨씬 직관적으로 보입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 인간 뇌로 바로 이어지지는 않는다
 
 초파리의 16만개 수준 뉴런과 인간 뇌의 복잡성은 비교하기 어려울 정도로 차이가 큽니다.
@@ -116,17 +93,6 @@ AI를 이용해 수많은 2차원 이미지를 조합하고 뉴런 연결을 3�
 겉으로는 장난 같지만 이런 엉뚱한 사용법에서 새로운 연구 도구가 나오기도 하죠.
 
 초파리가 둠을 잘 깨는 날보다 생물의 행동을 소프트웨어에서 얼마나 정확히 재현할 수 있는지가 앞으로 더 흥미로운 질문입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 다음은 행동 예측
 
@@ -152,13 +118,3 @@ AI를 이용해 수많은 2차원 이미지를 조합하고 뉴런 연결을 3�
 
 다만 생물학과 게임 시뮬레이션이 서로 데이터를 주고받는 연구가 늘면 예상하지 못한 행동 모델이 나올 가능성은 충분합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

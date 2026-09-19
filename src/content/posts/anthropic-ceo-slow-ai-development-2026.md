@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/anthropic-ceo-slow-ai-development-2026-01.jpg"
 imageAlt: "앤트로픽 CEO가 AI 개발을 늦추자고 한 이유, 안전 경쟁도 시작됐다"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -55,17 +54,6 @@ AI는 일반 소프트웨어보다 배포 속도가 훨씬 빠르고 한 번 공
 
 자동차 충돌 시험처럼 회사 밖의 시선이 제품 출시 전 단계에 들어오는 구조를 AI에도 만들자는 셈입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 경쟁사가 문제다
 
 말은 쉬워도 실제 속도를 늦추기는 어렵습니다.
@@ -85,17 +73,6 @@ AI는 일반 소프트웨어보다 배포 속도가 훨씬 빠르고 한 번 공
 오픈소스와 작은 연구팀이 같은 기준을 감당할 수 있는지도 함께 봐야 합니다.
 
 안전을 이유로 경쟁을 막는 구조가 되면 이용자에게 돌아오는 선택지도 줄어듭니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 진짜 변화는 다음 모델에서
 

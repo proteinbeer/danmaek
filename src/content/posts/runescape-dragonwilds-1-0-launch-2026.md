@@ -15,7 +15,6 @@ image: "/assets/posts/news-images/runescape-dragonwilds-1-0-launch-2026-01.jpg"
 imageAlt: "룬스케이프 드래곤와일즈 정식판 내일 출시, 얼리 액세스 뒤에도 계속 간다"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 draft: true
 ---
@@ -43,17 +42,6 @@ draft: true
 
 생존 게임은 콘텐츠 양보다 초반 동선이 중요합니다. 나무와 광물을 모으는 반복 과정이 지루하지 않도록 1.0에서 튜토리얼과 성장 속도를 얼마나 다듬었는지가 핵심입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 스토리 완결
 
 제이젝스는 1.0에서 드래곤 퀸 쿨드라를 중심으로 한 현재 이야기의 결말을 제공하겠다고 했습니다. 얼리 액세스 게임이 이야기 중간에서 오래 멈추는 문제를 줄이려는 선택입니다.
@@ -70,17 +58,6 @@ draft: true
 
 제 생각에는 이제 평가는 판매량보다 업데이트 간격에서 갈릴 가능성이 큽니다. 첫 이야기를 끝낸 뒤에도 새 지역과 보스, 제작 목표를 꾸준히 제공해야 생존 게임 특유의 반복 피로를 막을 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 100만 장 이후
 
 얼리 액세스에서 100만 장을 넘겼다는 사실은 이미 상당한 이용자 기반을 확보했다는 뜻입니다. 정식 출시가 완전히 새로운 게임의 시작이라기보다 기존 커뮤니티와 콘솔 신규 이용자가 만나는 시점에 가깝습니다.
@@ -92,17 +69,6 @@ draft: true
 드래곤와일즈는 룬스케이프의 이름을 쓰지만 기존 MMORPG를 그대로 옮긴 작품은 아닙니다. 익숙한 몬스터와 마법, 세계관을 생존 제작 규칙으로 다시 해석한 것이 성공의 중요한 이유입니다.
 
 오래된 IP를 새 장르에 넣을 때는 이름만 빌리기보다 원작 팬이 알아볼 요소를 새로운 시스템과 연결해야 합니다. 드래곤와일즈가 1.0 이후에도 살아남는다면 다른 장수 온라인 게임에도 비슷한 실험이 늘어날 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 정식판 평가
 

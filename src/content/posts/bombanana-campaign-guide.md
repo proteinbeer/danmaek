@@ -42,17 +42,6 @@ hideDescription: true
 
 봄바나나는 정답을 많이 아는 사람이 혼자 캐리하기 어려운 게임이죠. 관찰, 규칙 확인, 중계, 실행을 끊기지 않게 이어주는 팀이 훨씬 안정적으로 클리어합니다. 모듈별 정답을 외워도 전달 순서가 흔들리면 실전에서는 계속 막힙니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 관찰부터 설명서 조건까지 순서
 
 시각 정보가 필요한 모듈에서는 귀머거리가 먼저 관찰 내용을 정리해야 합니다. 색, 개수, 위치처럼 객관적인 정보부터 짧게 나누고, 모든 정보를 한꺼번에 쏟아내기보다 벙어리가 필요한 항목만 질문하도록 하면 시간이 줄어들죠.
@@ -64,17 +53,6 @@ hideDescription: true
 카오스 모듈은 단순 규칙 퍼즐보다 장님을 바쁘게 만드는 성격이 강합니다. 이때 다른 두 사람까지 동시에 지시를 쏟아내면 혼란이 커지죠.
 
 최종 명령을 한 사람에게 모으고 장님은 그 지시만 듣는 방식이 안정적입니다. 카오스 모듈은 평소 방식이 흔들리기 쉬우므로 빠르게 해결하려고 새로운 약속을 만들기보다 기존 신호만으로 처리하는 편이 안전하죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 정전과 소음, 장애물 대처
 
@@ -89,17 +67,6 @@ hideDescription: true
 방해가 끝난 직후에는 현재 모듈, 마지막 입력, 다음 행동을 다시 맞추셔야 합니다. 방해 중에 폭탄 상태가 바뀌었거나 누군가 행동했을 수 있으므로 몇 초를 써서 상황을 복구하는 편이 잘못된 기억으로 바로 입력하는 것보다 훨씬 안전하죠.
 
 환경 방해가 특히 어렵다면 커스텀에서 일부러 반복해 보시는 것도 좋습니다. 퍼즐 난도를 낮추고 정전이나 소음만 연습하면 방해가 생겼을 때 팀이 어떤 순서로 움직일지 쉽게 정할 수 있습니다. 캠페인 후반이나 엔들리스 기록 도전 전에 해볼 만하죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 막히면 역할을 바꿔본다
 

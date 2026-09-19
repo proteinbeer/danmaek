@@ -17,7 +17,6 @@ image: "https://sm.ign.com/ign_de/feature/6/69-new-gta/69-new-gta-6-gameplay-det
 imageAlt: "GTA 6 게임플레이 공개 장면"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -48,17 +47,6 @@ GTA 5도 마이클, 프랭클린, 트레버를 바꾸며 플레이하는 구조�
 
 그리고 GTA 시리즈에서 자동차를 훔치는 행동은 거의 버튼 한 번으로 해결되는 기본 동작이었습니다. 그런데 GTA 6에서는 이 사소한 행동까지 상황을 만들기 위한 과정으로 바꾸려는 느낌이 강하죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 바이스 시티보다 큰 레오니다
 
 무대는 바이스 시티지만 실제 게임 세계는 도시 하나로 끝나지는 않습니다. 현재 바이스 시티가 포함된 레오니다 주 전체를 배경으로 한다고 했습니다. 레오니다 키스, 그래스리버스, 포트 겔혼, 앰브로시아 같은 지역도 공식적으로 공개되었죠.
@@ -75,17 +63,6 @@ GTA 5에도 다양한 재미 활동은 있었지만 오랜 시간이 지나면�
 
 개인적으로 GTA에서 가장 오래 기억에 남는 순간은 대형 임무보다 아무 이유 없이 차를 몰고 다니다가 이상한 사건을 만났을 때가 많았습니다. GTA 6가 노리는 것도 거대한 지도보다 그런 우연을 더 촘촘하게 만드는 쪽일 수 있겠죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 그래픽보다 눈에 띄는 밀도
 
 공개 영상은 전부 플레이스테이션 5에서 구동된 실제 게임 화면을 기반으로 제작됐다고 밝혔습니다. 그런데 영상에서 가장 눈에 들어오는 것은 해상도보다 거리와 실내에 채워진 사람, 차량, 사물의 양들이죠.
@@ -101,17 +78,6 @@ GTA 6의 공식 출시일은 2026년 11월 19일입니다. 현재 락스타가 �
 PC 버전은 아직 공식 출시 일정이 공개되지 않았습니다. GTA 5와 레드 데드 리뎀션 2도 콘솔 버전이 먼저 나오고 PC판이 뒤늦게 등장했기 때문에 이번에도 비슷할 것이라는 예상은 가능하지만, 아직 날짜까지 확정된 건 아니죠.
 
 출시 전 예약 구매와 사전 다운로드 일정도 이미 공개됐습니다. 적어도 현재 단계에서는 또 연기될지를 기다리기보다 실제 출시를 앞두고 세부 기능을 하나씩 공개하는 단계에 들어갔다고 보는 편입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. GTA 5의 확장이 아니라 새 기준
 

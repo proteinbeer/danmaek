@@ -17,7 +17,6 @@ image: "/assets/posts/news-images/ea-saudi-acquisition-2026-01.jpg"
 imageAlt: "EA 인수 관련 사우디 자본 뉴스 이미지"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -46,17 +45,6 @@ PIF가 게임과 스포츠에 공을 들인 것은 이번이 처음이 아닙니
 
 애플리게이션 게임, 콘솔 유통, PC 라이브 서비스까지 사업 영역이 넓은 EA를 손에 넣음으로써 PIF는 '엔터테인먼트와 스포츠가 전략적 핵심 분야'라는 기조를 더 확실하게 드러냈습니다. 예상대로 일부 게이머·개발자 사이에서는 인권 논란을 둘러싼 우려의 목소리도 나오고 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 미션 크리티컬한 과제: 200억 달러 부채
 
 남은 숙제는 부채와 성장입니다. EA는 이번 인수로 약 200억 달러에 달하는 차입금을 안게 됐는데, 인수 직후 EA가 게임 내 광고를 늘리는 전담 조직을 만들었다는 보도가 나와 눈길을 끕니다. 대형 게임들은 라이벌 GTA 6가 연말 시장을 흔들 것으로 예상되는 터라, 단기 실적 압박도 커지고 있습니다.
@@ -69,13 +57,3 @@ EA 사례는 게임사 인수 금액 체계가 확 바뀌었음을 보여줍니�
 
 과거 게임사 인수가 사업 확장을 위한 것이었다면, 이번 건은 자본 시장 자체가 '게임 IP'를 새로운 투자 자산으로 바라보고 있다는 신호로 해석할 수 있습니다. EA가 프라이빗 기업으로서 어떤 전략을 내놓을지, 그리고 유사한 대형 거래가 더 이어질지가 향후 관전 포인트입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

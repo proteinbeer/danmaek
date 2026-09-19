@@ -37,17 +37,6 @@ hideDescription: true
 
 또한 향후 확장팩 '아센던스'가 2027년에 출시될 예정입니다. 확장팩은 하이랭크 이후의 새로운 랭크와 콘텐츠를 더하는 큰 업데이트로, 스위치 2 유저도 동일하게 받게 되죠. 따라서 스위치 2판을 구매해도 이후 콘텐츠 갱신에서 소외되는 일은 없습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 온라인 크로스플레이와 로컬 무선
 
 스위치 2판은 온라인 크로스플레이를 지원합니다. PC와 PS5, Xbox 유저가 이미 많이 활동하고 있으므로, 스위치 2에서 시작하더라도 친구의 파티에 합류하거나 반대로 초대할 수 있습니다. 시리즈 최대인 최대 100명 규모의 온라인 로비도 동일하게 이용 가능하죠.
@@ -60,17 +49,6 @@ hideDescription: true
 
 스위치 2는 용량 큰 타이틀을 여러 개 넣기 위해 microSD 확장을 염두에 두는 것이 좋죠. 39.1GB는 대형 타이틀 치고는 작은 편이지만, 다른 게임과 함께 설치한다면 여유 공간을 넉넉히 잡는 것이 안전합니다. 사전 다운로드가 지원되면 발매일 당일 바로 플레이할 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 체험판과 발매 전 확인
 
 스위치 2판은 발매 전 체험판이 계획되어 있죠. 체험판에서는 게임의 초반 진행과 전투 시스템, 그리고 스위치 2에서의 실제 조작 감각을 미리 확인할 수 있어, 콘솔 성능과 타협 여부를 직접 판단하는 좋은 기회가 됩니다.
@@ -82,13 +60,3 @@ hideDescription: true
 스위치 2판은 휴대성을 최우선으로 하는 유저에게 가장 잘 맞습니다. 이동 중에도 사냥을 이어가고, 다른 방의 TV에서 이어받아 할 수 있는 것이 핵심 가치입니다. 이미 다른 플랫폼에서 고랭크까지 진출한 유저라면 세이브 이전 여부와 크로스플레이 조건을 확인한 뒤 구매를 결정하십시오.
 반대로 4K 대형 화면과 최고 옵션에 집중하고 싶다면 PC와 PS5, Xbox의 가치가 여전히 크죠. 어느 쪽을 고르든 크로스플레이 덕분에 친구와의 파티 구성은 무리 없이 가능하므로, 결국은 플레이하는 장소와 환경 선호에 따라 선택하면 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

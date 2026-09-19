@@ -15,7 +15,6 @@ image: "/assets/posts/news-images/diablo-4-amazon-2027-2026-01.jpg"
 imageAlt: "디아블로 4 아마존 2027년 복귀, 투창 직업을 따로 파는 이유"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 draft: true
 ---
@@ -43,17 +42,6 @@ draft: true
 
 새로운 결정은 갑자기 나온 것처럼 보여도 이전 작품의 반응과 시장 변화가 쌓인 결과인 경우가 많습니다. 과거 방식을 그대로 반복하기 어려워진 지점에서 어떤 문제를 해결하려는지 보면 선택의 이유가 더 선명해집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 확장팩이 아닌 첫 직업 팩
 
 직업을 확장팩이 아니라 별도 직업 팩으로 내는 방식도 주목할 부분입니다. 앞으로 다른 인기 직업도 비슷한 형태로 판매된다면 디아블로 4의 콘텐츠 공급 방식 자체가 바뀌는 신호가 될 수 있습니다.
@@ -69,17 +57,6 @@ draft: true
 이번 발표에서 직업 자체만큼 중요한 것은 판매 방식입니다. 직업 팩이 합리적인 가격으로 자리 잡으면 확장팩 사이의 긴 공백을 메울 수 있지만, 핵심 콘텐츠를 잘게 나눈다는 인상을 주면 반대 효과가 날 수 있습니다.
 
 개인적으로는 이 지점이 가장 흥미롭습니다. 눈에 띄는 발표 하나보다 이런 방향 변화가 다른 작품과 서비스에도 반복될 때 회사 전체의 전략으로 굳어지는 경우가 많기 때문입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 가격과 기술 계통은 아직 미공개
 

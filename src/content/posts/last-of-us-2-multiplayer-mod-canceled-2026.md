@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/last-of-us-2-multiplayer-mod-canceled-2026-01.
 imageAlt: "라스트 오브 어스 2 멀티 모드, 소니 요청으로 9개월 작업이 사라졌다"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -43,17 +42,6 @@ hideDescription: true
 
 바로 이 빈자리가 팬 프로젝트의 관심을 키웠다고 봅니다. 공식 제작사가 포기한 기능을 팬이 다시 만들고 있었기 때문에 이용자 입장에서는 단순 모드보다 잃어버린 콘텐츠가 돌아오는 느낌이 강했습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 팬 모드의 경계
 
 무료로 배포되는 모드라도 원작 자산과 캐릭터, 브랜드를 크게 활용하면 권리 문제를 피하기 어렵죠. 특히 개발비를 후원받고 장기간 운영하면 권리자가 독립적인 게임 프로젝트처럼 판단할 여지도 커집니다.
@@ -70,17 +58,6 @@ hideDescription: true
 
 결국 가장 아쉬운 부분은 라스트 오브 어스 멀티플레이를 원하는 수요가 분명한데 공식작도 팬 프로젝트도 모두 사라졌다는 점이죠. 팬들이 원했던 것은 거창한 라이브 서비스보다 원작 세계에서 함께 싸울 작은 공간이었을지도 모릅니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 모드 문화
 
 PC 게임의 수명이 길어지는 데 팬 모드는 상당한 역할을 합니다. 개발사가 업데이트를 멈춘 뒤에도 이용자가 새로운 맵과 규칙을 만들면 오래된 게임이 다시 살아나고, 때로는 그 실험이 정식 게임의 아이디어로 역수입되기도 합니다.
@@ -92,17 +69,6 @@ PC 게임의 수명이 길어지는 데 팬 모드는 상당한 역할을 합니
 소니가 앞으로 라스트 오브 어스 멀티플레이를 다시 직접 만들 계획이 있는지는 알려지지 않았습니다. 팬 프로젝트를 중단시킨 뒤 아무 대안도 나오지 않는다면 이용자 불만은 더 오래 남을 가능성이 큽니다.
 
 반대로 공식 멀티가 준비 중이라면 이번 조치의 이유도 조금은 이해하기 쉬워집니다. 지금은 팬 모드 중단 사실만 확인된 상태라 소니가 이 수요를 어떻게 다룰지가 다음 이야기가 되죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 팬과 IP
 

@@ -15,7 +15,6 @@ image: "/assets/posts/news-images/amazon-prime-september-free-games-2026-01.jpg"
 imageAlt: "아마존 프라임 9월 무료 게임, 둠 이터널과 하이 온 라이프까지 준다"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 draft: true
 ---
@@ -43,17 +42,6 @@ draft: true
 
 한 번 등록하면 프라임을 해지해도 계속 보유할 수 있다는 점이 가장 큰 차이입니다. 그래서 당장 플레이하지 않더라도 매달 제공 목록은 확인해두는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 루나와 구분
 
 아마존은 프라임 게이밍 브랜드를 루나 안으로 통합했지만 모든 혜택이 스트리밍으로 바뀐 것은 아닙니다. 무료 PC 게임 코드는 여전히 내려받아 설치하는 기존 방식으로 제공됩니다.
@@ -66,17 +54,6 @@ draft: true
 
 무료로 받는 혜택이 많아질수록 오히려 어디에 게임이 있는지 기억하기 어려워집니다. 저는 이런 서비스는 게임을 받은 날짜보다 어느 스토어에 등록했는지 따로 기록해두는 편이 낫다고 봅니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 놓치기 쉬운 혜택
 
 프라임은 쇼핑과 영상 때문에 가입하는 사람이 많아 게임 혜택은 의외로 놓치기 쉽습니다. 특히 제공 기간이 끝난 뒤에는 다시 받을 수 없기 때문에 이번 달 목록은 미리 등록해두는 편이 좋습니다.
@@ -88,17 +65,6 @@ draft: true
 아마존은 게임 전용 구독을 따로 결제시키기보다 기존 프라임 안에 작은 게임 혜택을 계속 넣는 전략을 쓰고 있습니다. 이용자 입장에서는 배송과 영상 때문에 이미 지불한 요금에서 추가 가치를 얻는 구조입니다.
 
 그래서 게임 라인업이 매달 압도적일 필요는 없습니다. 몇 달에 한 번 자신이 원하던 작품 하나만 받아도 프라임을 유지할 이유가 하나 더 생깁니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 받는 방법
 
@@ -116,13 +82,3 @@ draft: true
 
 프라임 게임은 매달 확인하지 않으면 존재 자체를 잊기 쉬운 혜택입니다. 이미 프라임을 쓰고 계시다면 게임 하나를 더 사기 전에 이번 달 제공 목록을 먼저 보는 습관만으로도 지출을 꽤 줄일 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

@@ -17,7 +17,6 @@ image: "/assets/posts/guide-images/star-wars-zero-company-2026-01.jpg"
 imageAlt: "스타워즈 제로 컴퍼니(STAR WARS: Zero Company) 전술 게임 대표 이미지"
 imageWidth: 616
 imageHeight: 353
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -39,17 +38,6 @@ hideDescription: true
 
 오버워치를 자주 쓰는 분이라면 전투 안정감이 꽤 좋아질 가능성이 큽니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 저장과 안정성 개선
 
 충돌, 저장 손상, 강제 종료 후 저장 문제, 일부 소프트락까지 여러 안정성 관련 항목이 손봤습니다. 특히 저장 관련 문제는 캠페인형 전술 게임에서 치명적인 만큼 반가운 수정입니다.
@@ -62,17 +50,6 @@ hideDescription: true
 
 크게 눈에 띄지 않아도 전투가 덜 이상하게 느껴지는 변화가 이런 곳에서 나옵니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 보너스 콘텐츠 미지급 문제 수정
 
 사전 주문 보너스나 델럭스 에디션 아이템을 못 받는 문제도 수정 목록에 포함됐습니다. 만약 해당 콘텐츠가 안 보여 답답하셨다면 패치 후 다시 확인해 보시면 됩니다.
@@ -84,17 +61,6 @@ hideDescription: true
 패치 노트에는 GTX 10 시리즈나 RTX 20 시리즈 사용자가 최소 사양으로 플레이할 때 환경 지오메트리 디테일을 꺼서 프레임을 안정화할 수 있다는 안내도 들어 있습니다. 단순 버그 수정만이 아니라 실사용 팁도 같이 준 셈입니다.
 
 사양이 애매한 분이라면 패치 적용 뒤 이 옵션부터 손보시는 편이 좋습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 지금 바로 확인할 체크포인트
 

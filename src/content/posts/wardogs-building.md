@@ -16,7 +16,6 @@ image: "/assets/posts/guide-images/wardogs-2026-01.jpg"
 imageAlt: "워독스(WARDOGS) 100인 3팀 전쟁 게임 대표 이미지"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -36,17 +35,6 @@ hideDescription: true
 
 방어 시설은 사격 방향과 옆, 뒤의 접근로를 함께 확인합니다. 완전히 막기보다 적 진입을 몇 초 늦추는 것만으로도 가치가 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 퇴로 유지
 
 방어를 튼튼하게 만들겠다고 출입구를 너무 좁히면 아군 차량과 보병도 움직이기 어려워집니다.
@@ -58,17 +46,6 @@ hideDescription: true
 좋은 위치라고 무조건 높은 언덕만 고를 필요는 없습니다. 전진기지는 팀원이 실제로 자주 사용할 수 있어야 합니다.
 
 너무 멀리 떨어진 안전한 곳은 전투 합류를 늦출 수 있습니다. 조금 위험해도 이동 시간을 크게 줄이는 위치가 더 가치 있을 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 파괴 전제
 
@@ -82,13 +59,3 @@ hideDescription: true
 
 저라면 거대한 기지보다 자주 싸우는 길목 하나부터 막겠습니다. 많이 세우는 것보다 필요한 곳에 세우는 것이 중요합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

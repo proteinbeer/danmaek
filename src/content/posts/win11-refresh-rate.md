@@ -57,17 +57,6 @@ hideDescription: true
 
 윈도우를 새로 설치한 직후 기본 디스플레이 드라이버로 동작하면 선택 가능한 출력 모드가 제한될 수 있죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 게임 설정과 윈도우 설정은 따로 본다
 
 윈도우를 144Hz로 설정해도 게임 내부에서 프레임 제한이나 별도 주사율 옵션이 걸려 있을 수 있습니다.
@@ -95,17 +84,6 @@ VRR을 지원하는 모니터라면 게임 프레임과 화면 주사율을 동�
 데스크톱에서는 전력보다 성능과 부드러움이 우선이라 최고 주사율 고정을 선호하는 경우가 많죠.
 
 같은 윈도우 설정이라도 기기 목적에 따라 답이 달라집니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 숫자만 높다고 체감이 같은 것은 아니다
 
@@ -135,13 +113,3 @@ VRR을 지원하는 모니터라면 게임 프레임과 화면 주사율을 동�
 
 주사율은 모니터 하나의 숫자가 아니라 윈도우와 그래픽카드와 게임이 함께 맞아야 체감되는 설정입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

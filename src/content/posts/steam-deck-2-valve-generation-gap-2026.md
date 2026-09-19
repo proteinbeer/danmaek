@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/steam-frame-2026-01.jpg"
 imageAlt: "스팀 덱 2 아직 멀었다, 밸브가 세대교체를 서두르지 않는 이유"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -52,17 +51,6 @@ hideDescription: true
 
 밸브가 말하는 분명한 성능 향상은 단순한 벤치마크 숫자보다 배터리와 발열, 프레임이 동시에 좋아지는 수준에 가까워 보입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 비싸진 밸브 하드웨어
 
 걱정되는 부분은 가격입니다.
@@ -90,17 +78,6 @@ GPU 성능을 두 배로 높여도 배터리가 한 시간 만에 끝나거나 �
 후속기도 같은 철학을 유지한다면 최신 칩이 나온 즉시 출시하기보다 전력 효율이 충분히 좋아질 때까지 기다리는 편이 낫습니다.
 
 이 부분은 경쟁 제품보다 늦게 나온다는 단점이 아니라 스팀 덱의 정체성을 유지하는 선택이 될 수 있죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 지금 구매해도 될까
 

@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/windows-11-memory-integrity-october-2026-01.jp
 imageAlt: "윈도우 11 메모리 무결성 10월 확대, 보안이 게임 성능을 깎을 수 있다"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -63,17 +62,6 @@ hideDescription: true
 
 특히 민감한 음성과 사진, 시스템 영역을 다루는 기능은 데이터가 어디까지 이동하는지를 확인하시는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 일부 게임에서는 성능 하락
 
 가상화 기반 보안은 추가 검사와 격리 환경을 사용해 CPU와 메모리에 부담을 줄 수 있습니다.
@@ -105,17 +93,6 @@ hideDescription: true
 한 회사의 방식이 편리해도 폐쇄적인 구조라면 장기적으로 선택권을 줄일 수 있습니다.
 
 반대로 공개 API와 호환성을 넓히면 제품 하나의 기능이 생태계 전체의 기능으로 커질 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 보안과 프레임 사이의 선택
 

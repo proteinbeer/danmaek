@@ -37,17 +37,6 @@ hideDescription: true
 
 비용이 드는 해결책은 마지막에 두는 편이 낫습니다. 새 카드, 새 케이블, 새 컨트롤러를 사기 전에 본체 설정과 호환 조건을 먼저 확인하면 불필요한 지출을 피할 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 이렇게 정리하면 편합니다
 
 다음으로 프로 컨트롤러를 USB 충전 케이블로 독에 연결하죠. 이어서 등록이 완료되면 케이블을 분리하고 컨트롤러 메뉴에서 무선 연결 상태를 확인합니다. 순서를 지키면 어느 단계에서 문제가 생기는지 확인하기 쉬워집니다.
@@ -60,17 +49,6 @@ hideDescription: true
 
 무선 기기가 연결되지 않을 때 무선 버튼만 계속 누르는 것보다 케이블 한 번이 빠를 때가 많습니다. 스위치 2 프로 컨트롤러도 처음 등록은 유선으로 잡으면 문제를 단순하게 만들 수 있습니다
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 증상부터 정확히 나누기
 
 여기까지 해도 같은 증상이 계속된다면 한 번에 여러 설정을 바꾸지 않는 것이 좋죠. 기존 스위치 프로 컨트롤러와 스위치 2 프로 컨트롤러의 기능 차이도 확인해야 합니다. 다른 게임이나 다른 네트워크, 다른 케이블처럼 비교할 수 있는 조건이 있다면 하나씩 바꿔보는 편이 원인을 찾기 쉽습니다.
@@ -82,17 +60,6 @@ hideDescription: true
 게임 데이터, 세이브 데이터, 계정 이용 권한은 스위치에서 서로 다른 항목으로 관리되는 경우가 많습니다. 화면에 게임 아이콘이 보인다고 세이브와 이용 권한까지 모두 같은 위치에 있다는 뜻은 아닙니다.
 
 중요한 게임을 오래 플레이하셨다면 문제를 해결하기 전에 세이브가 어디에 있는지 먼저 확인하시는 편이 안전합니다. 특히 사용자 삭제와 본체 초기화는 일반적인 게임 데이터 삭제보다 영향 범위가 훨씬 크죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 설정과 해결 순서
 

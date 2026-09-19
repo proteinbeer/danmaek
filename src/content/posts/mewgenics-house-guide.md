@@ -44,17 +44,6 @@ hideDescription: true
 
 방의 역할을 정하고 그 목적에 맞는 고양이만 배치하는 습관이 밤사이 참사를 막는 가장 확실한 방법입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 파이트 룸 훈련과 회복실 병행
 
 파이트 룸은 콤포트를 낮춰 밤마다 고양이끼리 싸움을 유도하는 방입니다. 싸움에서 이긴 고양이는 스탯 보상을 받고 패자는 부상을 입으니, 사실상 훈련 시설로 쓰는 방이죠. 추천되는 방법은 만들고 싶은 스탯 방향을 가진 두 마리를 넣어 두고 스탯 보상을 계속 굴리는 것입니다.
@@ -70,17 +59,6 @@ hideDescription: true
 애필은 집 전체에 적용되는 스탯이라 가구 배치로 쌓기 쉽습니다. 유기묘는 근친 계수 0으로 시작하므로 혈통 관리에서도 유용한데, 몇 세대를 유지하다 보면 유기묘가 곧 최고 혈통의 씨앗이 됩니다. 유기묘를 룬의 승부수로 쓰려면 애필 가구를 먼저 갖추는 것이 순서죠.
 
 대소변 관리도 중요합니다. 밤사이 콤포트와 헬스를 깎고, 개수가 쌓이면 질병 확률로 이어집니다. 낮 동안 화면의 똥을 클릭해 제거하는 것이 관리의 전부이며, 헬스가 낮은 방에서는 질병이 발병하고 퍼지므로 회복실의 헬스를 미리 올려두면 발병 자체를 줄일 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 버치와 프랭크의 확장 기부
 
@@ -106,17 +84,6 @@ hideDescription: true
 
 해금 순서상 최우선은 골목의 클레릭입니다. 치유가 가능해지면 전투 난도와 회복 비용이 동시에 내려가며, 이후 어떤 지역을 가도 조합의 한 축으로 남죠. '지역 클리어 → 목걸이 수령 → 클레릭 만들기'의 루프를 먼저 굴리는 것이 정석입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 7. 팅크와 트레이시의 정보·자원 기부
 
 팅크는 특정 정보가 필요할 때 기부하는 NPC입니다. 키튼을 기부하면 유전자 정보 화면과 게이 탐지, 혈통 아이콘 정리 같은 편의 기능이 열리므로, 번식 설계를 한다면 뒤로 미룰 이유가 없습니다.
@@ -131,13 +98,3 @@ hideDescription: true
 
 룬 30 이후의 후반에는 버치 확장이 끝나고 프랭크의 방 5칸도 거의 완성됩니다. 기부 포인트는 룬마다 초기화되지만 확장은 영구 유지되므로, '이번 룬에 어디까지 뚫었는가'가 다음 룬의 편의 그대로 이어지는 구조입니다. 가구로 스탯을 맞추고 방 역할을 정한 뒤 유기묘와 식량까지 관리하면, 밤사이 손실이 줄어든 안정적인 룬 사이클이 완성되죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

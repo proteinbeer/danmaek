@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/excel-kb5002914-copy-paste-bug-2026-01.jpg"
 imageAlt: "엑셀 보안 업데이트 했더니 복사 붙여넣기가 망가졌다"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -47,17 +46,6 @@ hideDescription: true
 
 회사 PC는 같은 오피스 버전을 여러 대에 배포하는 경우가 많습니다. 그래서 한 번 문제가 생기면 개인 한 명이 아니라 부서 전체가 동시에 영향을 받을 수 있죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 비공식 우회는 위험
 
 온라인에서는 새 엑셀 실행 파일을 예전 파일로 교체하는 우회 방법도 공유됐습니다. 하지만 프로그램 구성 파일을 서로 다른 버전으로 섞으면 다른 오류와 보안 문제가 생길 수 있습니다.
@@ -73,17 +61,6 @@ hideDescription: true
 엑셀은 금융과 회계, 물류, 연구처럼 숫자 정확성이 중요한 업무에 널리 쓰입니다. 복사와 수식 채우기 오류가 조용히 발생하면 단순 불편보다 데이터 누락과 잘못된 계산으로 이어질 위험도 있습니다.
 
 오류 메시지가 없다는 점이 특히 문제이죠. 사용자는 붙여넣기가 됐다고 생각하고 다음 작업으로 넘어갈 수 있어 결과 파일을 다시 확인하는 과정이 필요합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 패치 관리
 
@@ -101,13 +78,3 @@ hideDescription: true
 
 업데이트를 안 하는 것도 위험하고 바로 하는 것도 위험하다는 점이 사용자에게는 답답합니다. 결국 가장 현실적인 방법은 백업과 단계적 배포이며, 마이크로소프트가 빠르게 수정 패치를 내놓는지가 이번 문제의 마무리를 결정할 겁니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

@@ -15,7 +15,6 @@ image: "/assets/posts/news-images/xbox-free-play-days-september-2026-01.jpg"
 imageAlt: "엑스박스 이번 주말 무료 게임 6개, 게임패스 없이 되는 작품도 있다"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 draft: true
 ---
@@ -43,17 +42,6 @@ draft: true
 
 무료라는 표현만 보고 모든 게임을 바로 설치할 수 있다고 생각하기 쉬운데 작품마다 조건이 다릅니다. 스토어의 무료 체험 버튼과 구독 필요 표시를 확인하시는 것이 가장 정확합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 게임패스 이용자는 네 작품 추가
 
 게임패스 얼티밋과 프리미엄, 에센셜 대상 이용자는 보더랜드 4와 F1 25 2026 시즌 에디션, 서바이빙 마스 리론치드, 카엑스 드리프트 레이싱 온라인을 추가로 즐길 수 있습니다. 구독을 이미 유지 중이라면 별도 구매 없이 설치하시면 됩니다.
@@ -65,17 +53,6 @@ draft: true
 대부분 프리 플레이 데이즈 게임은 행사 기간이나 직후 할인도 함께 진행됩니다. 무료 기간에 세이브한 진행도와 업적을 구매 후 이어갈 수 있는 경우가 많아 사실상 긴 체험판 역할을 합니다.
 
 할인율이 높더라도 무료 기간에 재미를 못 느꼈다면 살 이유는 없습니다. 이번 행사의 장점은 리뷰보다 직접 플레이로 판단할 수 있다는 데 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 주말이 짧아서 설치 순서가 중요
 
@@ -90,17 +67,6 @@ draft: true
 총기 파밍을 좋아하시면 보더랜드 4, 자동차 조작을 보고 싶으시면 F1과 카엑스, 장기 운영을 좋아하시면 서바이빙 마스부터 시작하시면 됩니다. 스포츠 게임은 매든 NFL 27, 짧은 스토리 체험은 더스트본으로 성격이 확실히 갈립니다.
 
 무료 행사에서 가장 아까운 것은 다운로드만 잔뜩 하고 실제로 아무것도 못 해보는 경우입니다. 한두 작품만 정해서 두세 시간씩 충분히 해본 뒤 구매 여부를 결정하는 편이 여섯 개를 모두 20분씩 만지는 것보다 훨씬 실용적입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 무료 게임은 계정에 남는 것이 아니다
 

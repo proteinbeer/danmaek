@@ -37,17 +37,6 @@ hideDescription: true
 
 트릭샷 계열은 따로 연습하면 훨씬 빠릅니다. 작은 어종을 넓은 공간에서 띄운 뒤 안전하게 시도하시면 되며 고가 보스나 희귀 드립으로 연습할 필요는 없습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 빈은 한 시간 클리어 도전이다
 
 빈은 게임을 한 시간 안에 끝내는 속도 도전 계열 업적입니다. 처음부터 노리면 섬 진행과 퀘스트 위치를 몰라 시간을 많이 쓰게 되므로 첫 회차용 목표로는 추천하기 어렵죠.
@@ -62,17 +51,6 @@ hideDescription: true
 
 보스 체력을 총기와 다른 장비로 충분히 줄인 뒤 마지막 구간에서 무기를 내려놓고 맨손으로 끝내는 방식이 훨씬 현실적입니다. 첫 엔딩과 분리하는 편이 좋으며 엔딩 이후에는 무기와 이동 장비가 준비돼 있어 보스 체력 관리가 훨씬 쉽습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 수집은 모든 섬을 연 뒤 한다
 
 피시피디아와 드립 관련 업적은 메인 진행 중 완성하려 하지 마시고 화산섬까지 연 뒤 정리하시는 편이 좋습니다. 상위 엔진과 레이더가 있으면 왕복 시간이 크게 줄어듭니다.
@@ -84,17 +62,6 @@ hideDescription: true
 1점0점4 패치에서 최종 보스를 맨손으로 처치하는 도전 과제가 세션 참가자에게 제대로 적용되지 않던 문제가 수정됐습니다. 최종 보스 꼬리에 떨어진 폭발물이 피해를 주지 않던 문제도 1점0점12에서 수정됐죠.
 
 예전 공략에서 업적이 안 뜬다는 이야기를 봤다면 현재 버전에서는 상황이 다를 수 있으니 도전 전 스팀을 재시작하고 최신 패치를 받으시는 편이 좋습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 100퍼센트는 스토리와 정리로 나눈다
 
@@ -108,13 +75,3 @@ hideDescription: true
 
 특히 퀘스트 전리품과 희귀 드립은 일반 판매 물고기와 분리해 두는 습관이 좋죠. 패치가 빠른 게임이라는 점도 기억하셔야 합니다. 이상한 상황이 나오면 내 실수라고 단정하기 전에 스팀 공지의 최신 버전과 현재 설정을 먼저 확인하시는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

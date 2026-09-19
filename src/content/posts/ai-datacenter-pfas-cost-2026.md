@@ -15,7 +15,6 @@ image: "/assets/posts/news-images/ai-datacenter-pfas-cost-2026-01.jpg"
 imageAlt: "AI가 늘수록 영원한 화학물질도 늘어난다, 데이터센터의 숨은 비용"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 draft: true
 ---
@@ -47,17 +46,6 @@ PFAS는 열과 화학물질에 강해 반도체 제조와 산업용 장비에서
 
 하지만 대체가 어렵다는 말이 영원히 사용할 수 있다는 뜻은 아닙니다. 규제가 강해질수록 반도체 회사는 공정 변경과 대체 소재 연구에 더 많은 비용을 투자해야 합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 규제와 확장
 
 유럽과 미국에서는 PFAS 사용 제한을 강화하려는 움직임이 이어지고 있습니다. 동시에 주요 생산업체는 AI 수요를 이유로 생산 확대를 준비하고 있습니다.
@@ -73,17 +61,6 @@ AI 서비스 한 번의 질문은 화면에서는 가볍게 보입니다. 하지
 PFAS를 완전히 없애려면 같은 내열성과 화학 안정성을 제공하는 대체 물질이 필요합니다. 일부 업체는 대체 소재 개발을 추진하고 있지만 반도체 공정은 작은 변화도 수율에 영향을 줘 전환 속도가 느릴 수 있습니다.
 
 규제만 빠르게 적용하면 생산비가 오르거나 공급망이 흔들릴 가능성도 있습니다. 환경 부담을 줄이면서 첨단 칩 생산을 유지하려면 소재 연구에 대한 투자도 AI 인프라 투자만큼 중요해집니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 이용자의 거리
 
@@ -103,13 +80,3 @@ AI 서비스가 편리해질수록 보이지 않는 공급망을 더 많이 사�
 
 환경 비용을 숫자로 공개하는 기업이 늘어날수록 서비스 비교 기준도 달라질 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

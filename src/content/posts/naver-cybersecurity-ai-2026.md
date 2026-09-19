@@ -17,7 +17,6 @@ image: "/assets/posts/news-images/naver-cybersecurity-ai-01.jpg"
 imageAlt: "사이버보안 운영 화면"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -44,17 +43,6 @@ hideDescription: true
 
 여기에 금융보안원과 한국과학기술정보연구원(KISTI), 대학과 연구기관이 연구를 담당하고, KAI와 한국수력원자력, 한전KDN 같은 실제 기간시설 운영 기관이 수요기관으로 참여합니다. 이론 연구와 실제 적용 현장을 한 번에 갖춘 구성이라 할 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. GPU 대여 기간 10개월, 중간 평가도 진행
 
 네이버클라우드 컨소시엄은 사업 수행 기간 동안 엔비디아 B200 GPU 256장을 32개 노드로 묶어 제공받습니다. 임대 기간은 10개월로, 지난해 진행된 기존 사업보다 늘어났습니다.
@@ -66,17 +54,6 @@ hideDescription: true
 최종 평가까지 경쟁한 상대는 SK텔레콤 주도 컨소시엄이었습니다. 네이버와 SK텔레콤은 각자 인공지능 인프라와 보안 역량을 내세워 사업권을 두고 다퉜습니다. 이번 사업은 국내 클라우드 시장 양대 축이 보안 AI에서 정면으로 겨룬 사례라는 점에서 업계의 관심을 모았습니다.
 
 결국 네이버 측이 보안 전문 기업과 기간시설 수요 기관을 두루 끌어모은 조합을 앞세워 사업권을 따냈습니다. 다만 두 컨소시엄 모두 국내에 부족한 보안 AI 생태계를 끌어올리는 데 의미가 있다는 평가입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 앞으로의 과제
 

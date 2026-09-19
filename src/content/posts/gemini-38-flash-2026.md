@@ -17,7 +17,6 @@ image: "/assets/posts/news-images/gemini-3-8-flash-01.jpg"
 imageAlt: "데이터센터 서버실 장면"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -46,17 +45,6 @@ hideDescription: true
 
 다만 약점도 뚜렷합니다. 가장 어려운 최신 코딩 벤치마크인 터미널-벤치 4.0에서는 19.1%에 그쳐, 클로드 오퍼스 5의 51.8%에 크게 뒤졌죠. 쉽고 익숙한 코딩은 잘하지만 가장 어려운 자율 코딩에서는 아직 갭이 남아 있다는 뜻입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 가격, 절반 수준으로 잘린 뒤 절반으로
 
 제미나이 3.8 플래시의 프로모션 가격은 입력 토큰 100만 개당 0.75달러, 출력 100만 개당 3.75달러입니다. 3.7 플래시와 같은 가격대이면서 GPT-5.6 솔(입력 4달러, 출력 20달러)이나 클로드 오퍼스 5(입력 5달러, 출력 25달러)보다 훨씬 쌉니다.
@@ -73,17 +61,6 @@ hideDescription: true
 
 가장 주목할 만한 결과는 구글 클라우드 취약점 연구팀이죠. 이 팀은 플래시 사이버로 보통 몇 달이 걸리는 핵심 기반 취약점을 2시간도 안 되어 찾아냈다고 했습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 페어윈드, 강한 능력을 믿을 기관에만
 
 이렇게 강한 모델을 그냥 풀면 공격자가 오용할 수 있습니다. 취약점을 찾는 능력은 공격 코드를 만드는 능력과 같은 뿌리이기 때문입니다. 그래서 구글은 플래시 사이버를 페어윈드라는 제한 프로그램에만 공개했습니다.
@@ -98,13 +75,3 @@ hideDescription: true
 
 동시에 이번 출시는 AI 사이버보안의 방향도 보여줍니다. 강한 보안 모델을 열어주되, 기관의 책임과 감사를 기준으로 접근을 통제하는 방식이죠. 구글의 빠른 플래시 출시가 실력 회복이고, 페어윈드가 업계의 통제 모델이 될지는 앞으로 지켜볼 일입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/dave-the-diver-10m-2026-01.jpg"
 imageAlt: "데이브 더 다이버 1000만 장 돌파, 민트로켓의 작은 게임이 오래 팔린 이유"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -63,17 +62,6 @@ hideDescription: true
 
 아직 콘텐츠가 많아도 기본 루프가 단순해 복잡하게 느껴지지 않는 점이 강점이죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 협업하기 좋은 게임
 
 고질라와 다른 게임 IP 등 여러 협업 콘텐츠가 자연스럽게 추가돼 왔습니다.
@@ -101,17 +89,6 @@ hideDescription: true
 현재는 데이브 더 다이버는 다른 시장과 장르에서도 세계적인 성과를 만들 수 있음을 증명했습니다.
 
 이 성공이 후속 프로젝트의 자율성과 규모에 어떤 영향을 줄지도 지켜볼 만합니다라는 점은 함께 보셔야 합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 다음 계획이 더 중요
 
@@ -141,13 +118,3 @@ hideDescription: true
 
 결국 지금 단계에서는 화제성보다 실제 제품과 서비스가 어떻게 달라지는지 확인하는 것이 가장 현실적인 접근입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

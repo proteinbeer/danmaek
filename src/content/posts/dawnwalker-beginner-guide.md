@@ -42,17 +42,6 @@ hideDescription: true
 
 시간대가 바뀌면 같은 퀘스트의 진행 방식도 달라집니다. 대화로 풀어가는 낮 버전과 잠입으로 넘어가는 밤 버전이 나뉘며, 둘 중 저렴한 쪽을 골라 쓰면 예산이 넉넉해지죠. 밤에 폐탑에 쉐도우스텝으로 들어갔다가 해가 뜨면 나올 수 없는 상황이 생길 수 있으니, 이동 전에 시간을 확인하는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 프롤로그의 전제와 시작 순서
 
 프롤로그는 시간 비용이 낮은 구간부터 처리하는 것이 안정적입니다. 핵심은 '위더링 어웨이'에서 어머니 에스메의 약을 맞게 지어주는 일과, 저녁 미사 전까지 마을의 핵심 퀘스트를 마치는 것이죠. 약을 잘못 만들면 미사에서 에스메가 사망하며, 이후 엔딩과 가족 상태가 영구적으로 어긋납니다. 에스메가 살아있는 상태로 프롤로그를 마치는 것은 어떤 결말을 노리든 공통 전제입니다.
@@ -69,17 +58,6 @@ hideDescription: true
 
 퀘스트는 기점 네 개부터 잡는 것이 정석입니다. 라슬레아 글렌 북쪽 폐가의 '더 파이어브랜드'는 머트 밀을 거쳐 마뉴밋 접촉으로 이어지는 대형 라인의 시작이고, '베어 트러블'은 이후 '필그리미지 포 파워' 라인과 주술 교본 레이버너스 플록으로 이어집니다. 동쪽 십자로 인의 '에코즈 오브 실런드 벨'은 안카의 이야기와 여러 후속 퀘스트로 갈라지며, 스바트라우 대성당 북쪽 골목의 '에이 프렌드 라이크 디스'는 라크라와 밤 테마의 열쇠이자 최종전 동료 확보의 출발점입니다. 마라기르 습지와 성 티나의 수풀, 스바트라우는 서로 인접해 있어 밤 한 번에 전망대와 퀘스트를 함께 밟을 수 있죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 궁정 활동 우선순위와 악명 관리
 
 퀘스트 라인보다 더 중요하게 관리할 것은 악명입니다. 악명은 궁정 활동으로 상승하며, 최대치에 닿는 순간 최종전 회담이 열립니다. 활동을 골고루 하면 세 보스의 게이지만 반쯤 채우고 끝나는 불상사가 생기므로, 한 보스를 정해 게이지를 끝까지 채우는 것이 원칙이죠.
@@ -93,17 +71,6 @@ hideDescription: true
 몇몇 퀘스트는 그 자체로 예산 사건입니다. 대표적으로 어느 버전이든 20시간 단위를 쓰는 '터 묻힌 과거'와 10단위를 쓰는 '늑대와 인간'이 있으며, '수도사와 성인', '쓰디쓴 건배', '발라우르의 야수' 같은 퀘스트들도 각각 9단위로, 여섯 개를 합치면 전체 진행의 15퍼센트가량을 차지하죠. 이런 퀘스트는 예산에 여유가 있을 때 수락 여부를 결정하고, 사실을 확인한 뒤 시점에 맞춰 다시 판단합니다. 무엇을 하지 않을지 정하는 것도 일정의 일부입니다.
 
 반대로 시간이 전혀 들지 않는 무료 활동이 138개 중 66개나 됩니다. 순수 이득이라 발견하는 즉시 챙기는 편이 좋으며, 유일한 비용은 이동이죠. 그래서 따로 다녀오기보다 이미 퀘스트로 가는 지역에 묶어서 처리하는 것이 핵심입니다. 전투는 시간을 쓰지 않으므로 야생의 늑대, 멧돼지, 곰 보스를 지나가는 길에 처리하면 손실 없이 경험치가 쌓이고, 밤에 각 지역의 탑을 오르면 관심 지점이 물음표로 한 번에 펼쳐집니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 흔한 초보 실수와 세이브 습관
 

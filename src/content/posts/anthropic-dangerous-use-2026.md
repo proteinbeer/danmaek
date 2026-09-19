@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/anthropic-dangerous-use-2026-01.jpg"
 imageAlt: "클로드로 생물무기와 미사일을 연구하려 했다, 앤트로픽이 공개한 악용 사례"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -63,17 +62,6 @@ AI가 복잡한 공학 자료를 빠르게 요약하고 계산 과정을 도울 
 
 실제 성공 수준은 각 사례마다 크게 달랐다고 봐야 합니다라는 점은 함께 보셔야 합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 감시와 사이버 작전
 
 보고서에는 특정 집단과 정치 인물을 추적하는 감시 자료 작성과 시스템 취약점 분석 사례도 포함됐죠.
@@ -102,17 +90,6 @@ AI가 복잡한 공학 자료를 빠르게 요약하고 계산 과정을 도울 
 
 다만 업계 전체가 위험 신호와 사고 정보를 공유할 필요성이 커지고 있죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. AI 안전의 현실적인 문제
 
 위험한 AI라는 표현은 자율적으로 공격하는 기계를 떠올리게 하지만 현실의 많은 사례는 사람이 AI를 도구로 쓰는 형태입니다.
@@ -136,17 +113,6 @@ AI가 복잡한 공학 자료를 빠르게 요약하고 계산 과정을 도울 
 처음 공개된 숫자와 설명은 방향을 보여주지만 실제 이용 환경에서는 예상하지 못한 문제가 나올 수 있습니다.
 
 후속 발표와 이용자 반응을 함께 보시면 처음 기사만 읽었을 때보다 변화의 크기를 더 정확하게 판단할 수 있죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 실제 적용에서 볼 부분
 

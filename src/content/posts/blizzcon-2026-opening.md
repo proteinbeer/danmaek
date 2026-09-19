@@ -15,7 +15,6 @@ image: "/assets/posts/news-images/blizzcon-2026-opening-01.jpg"
 imageAlt: "블리즈컨 2026 오늘 개막, 월드 오브 워크래프트와 디아블로 발표가 시작된다"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 draft: true
 ---
@@ -63,17 +62,6 @@ draft: true
 
 다만 세부 콘텐츠는 공식 발표 전까지 예상과 확정을 구분해야 합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 디아블로 개발자 업데이트
 
 디아블로 세션도 첫날 메인 일정에 포함돼 있습니다.
@@ -101,17 +89,6 @@ draft: true
 반면 지금은 이번 행사는 그런 방향이 앞으로도 유지되는지 확인하는 자리입니다.
 
 아직 발표 직후 실제 적용 시점은 별도로 확인해야 합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 블리자드 전체 분위기를 보는 행사
 

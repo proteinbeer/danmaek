@@ -57,17 +57,6 @@ hideDescription: true
 
 대형 드라이버 변경이나 시스템 설정 수정 전에 날짜를 알기 쉬운 이름으로 만들어두면 나중에 찾기도 편합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 직접 복원 지점 만들기
 
 같은 시스템 보호 화면에서 만들기를 선택하면 현재 상태를 기준으로 복원 지점을 저장할 수 있습니다.
@@ -95,17 +84,6 @@ hideDescription: true
 윈도우에 정상적으로 들어가기 어려운 상황에서도 복구 환경에서 시스템 복원을 시도할 수 있습니다.
 
 다만 복원 지점 자체가 만들어져 있지 않았다면 이 방법을 사용할 수 없다는 점이 가장 큰 함정입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 개인 파일 백업과는 다른 기능
 
@@ -135,13 +113,3 @@ hideDescription: true
 
 새 버전이 있는지 확인하고 필요한 경우에만 하나씩 적용해야 같은 문제를 반복하지 않게 되죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

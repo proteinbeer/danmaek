@@ -44,17 +44,6 @@ hideDescription: true
 
 빨간 방해 노드는 매트릭스 안의 해킹 경로를 길게 만들고 실수를 유도하므로 무리해서 직선으로 밀기보다 안전한 우회 경로를 찾는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 오버드라이브는 위기 탈출용으로
 
 오버드라이브는 다이애나의 해킹을 한 단계 위로 끌어올리는 강력한 수단입니다. 일반 적 하나를 잡는 데 습관처럼 쓰기보다 복잡한 해킹과 강한 적이 겹치는 순간에 사용해야 체감 가치가 큽니다.
@@ -69,17 +58,6 @@ hideDescription: true
 
 그래서 일반 적은 주무기 중심으로 처리하고, 강한 적이나 보스에게 보조 유닛을 쓰는 습관이 좋습니다. 초반부터 모든 장비를 난사하면 정작 위험한 구간에서 선택지가 줄어듭니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 쉴터와 탈출 해치를 활용한다
 
 쉴터는 단순한 로비가 아니라 성장의 중심입니다. 펌웨어 업데이터, 유닛 프린터, 트램 터미널을 통해 능력치와 장비를 정리하고 다음 구역을 준비할 수 있습니다. 새 무기나 청사진을 얻었다면 바로 다음 전투로 달리지 말고 쉴터에서 영구 장비로 등록할 수 있는지 확인하시는 편이 좋죠.
@@ -91,17 +69,6 @@ hideDescription: true
 쉴터의 펌웨어 업데이터에서는 휴의 슈트, 주무기, 다이애나 해킹 성능을 강화할 수 있습니다. 무엇이 최고인지보다 지금 왜 죽는지를 기준으로 투자하시는 편이 좋죠.
 
 해킹이 느려서 맞는다면 다이애나를 먼저 올리고, 오픈 후 화력이 부족하면 주무기를 올립니다. 패턴은 아는데 자꾸 죽는다면 체력과 방어를 챙기는 식이 가장 효율적입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 실전에서 한 번 더 체크할 것
 

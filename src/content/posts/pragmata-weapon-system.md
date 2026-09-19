@@ -42,17 +42,6 @@ hideDescription: true
 
 제한된 사용 횟수와 소모를 의식해 중요한 구간에 집중하는 편이 좋습니다. 근거리, 원거리, 다수전처럼 역할이 뚜렷해서 자신의 플레이에서 부족한 한두 가지를 먼저 강화하는 것이 효율적입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 전술 유닛
 
 스테이시스 넷, 라이엇 블라스터, 스티키 밤, 코드 제너레이터 같은 전술 유닛은 적을 멈추거나 해킹 부담을 줄이는 역할을 합니다. 직접 피해량보다 해킹 성공률과 안전성을 높이는 장비라고 보시면 됩니다.
@@ -69,17 +58,6 @@ hideDescription: true
 
 방어 유닛은 맞은 뒤 복구용보다 해킹을 시작하기 직전에 쓰는 것이 좋습니다. 프라그마타에서 방어와 공격은 따로 노는 개념이 아니죠. 살아남고 해킹을 끝내야 오픈 시간이 생기고, 그 시간에 공격 유닛을 제대로 넣을 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 소모 장비는 아껴 쓴다
 
 주무기를 제외한 여러 유닛은 사용 횟수와 내구를 신경 써야 합니다. 일반 적에게 강한 보조 무기를 계속 쓰면 다음 보스 전에 자원 압박을 받을 수 있죠.
@@ -95,17 +73,6 @@ hideDescription: true
 로드아웃을 바꿀 때는 한 번에 세 슬롯을 전부 교체하지 않는 편이 좋습니다. 어떤 장비가 실제로 도움이 됐는지 알기 어려워지므로 공격 유닛이나 전술 유닛 하나만 바꾸고 같은 구간을 다시 플레이해 보시면 차이가 명확하게 보입니다.
 
 장비를 프린트한 뒤에는 이름만 보고 평가하지 마시고 일반 적과 보스에 각각 한 번씩 써보시는 편이 좋습니다. 같은 무기도 넓은 구역과 좁은 복도, 빠른 보스와 느린 보스에서 체감이 크게 달라집니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 첫 회차 추천 조합
 

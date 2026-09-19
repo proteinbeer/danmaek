@@ -38,17 +38,6 @@ hideDescription: true
 
 보스 전리품을 판매하거나 놓고 이동하는 실수가 가장 아깝습니다. 처음 보는 고유 아이템은 퀘스트가 끝날 때까지 보관하시는 편이 안전하죠. 보트를 얻기 전까지 돈을 너무 많이 쓰지 마시고 첫 보스 준비에 집중하시면 초반이 짧아집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 숲섬은 거대 피라냐가 관문이다
 
 숲섬에서는 일반 어종뿐 아니라 거대 피라냐 진행이 핵심이죠. 변형 거머리 미끼를 사용해 소환하는 흐름이며 미끼가 준비되지 않았다면 일반 낚시를 반복해도 원하는 보스가 나오지 않습니다.
@@ -60,17 +49,6 @@ hideDescription: true
 사막섬에서는 표준 미끼 단계로 일반 어종을 늘려가면서 복어 보스 퀘스트를 처리하게 됩니다. 복어는 일반 어종처럼 아무 미끼로나 반복해서 잡는 대상이 아닙니다. 퀘스트에서 요구하는 당근 계열 소환 조건을 맞춘 뒤 전투로 이어지는 흐름을 확인하셔야 합니다.
 
 사막섬 보스전에서는 한 자리에 서서 화력을 몰아넣기보다 이동 공간을 확보해 두는 편이 안전합니다. 예전 버전보다 복어가 조정된 상태라 오래된 공략에서 말하는 난도와 다를 수 있죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 바위섬은 참치와 알바트로스가 이어진다
 
@@ -84,17 +62,6 @@ hideDescription: true
 
 1점0점12에서는 최종 보스 꼬리 쪽에 폭발물이 닿았을 때 피해가 들어가지 않던 문제도 수정됐죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 7. 퀘스트 막힘은 대부분 전리품에서 찾는다
 
 다음 섬이 안 열리면 돈, 레벨, 낚시 횟수를 먼저 보지 마시고 현재 퀘스트 보스와 전리품 반납 여부를 확인하시면 됩니다. 퀘스트 아이템을 손에 들고 대화해야 하는 상황도 있을 수 있죠.
@@ -107,13 +74,3 @@ hideDescription: true
 
 특히 퀘스트 전리품과 희귀 드립은 일반 판매 물고기와 분리해 두는 습관이 좋죠. 패치가 빠른 게임이라는 점도 기억하셔야 합니다. 이상한 상황이 나오면 내 실수라고 단정하기 전에 스팀 공지의 최신 버전과 현재 설정을 먼저 확인하시는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

@@ -53,17 +53,6 @@ USB 3.0 장치나 케이블에서 생기는 전자파 잡음이 수신기와 가
 
 핵심은 포트의 속도보다 수신기 주변 환경을 바꿔보는 것입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. USB 2.0 포트가 오히려 유리할 수 있다
 
 무선 마우스 수신기는 대용량 데이터를 전송하지 않기 때문에 USB 3.0 속도가 필요하지 않습니다.
@@ -92,17 +81,6 @@ USB 3.0 장치나 케이블에서 생기는 전자파 잡음이 수신기와 가
 
 장소가 바뀌자마자 증상이 사라지면 마우스보다 기존 PC 주변 환경을 먼저 봐야 합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 공유기와 다른 무선 장치도 확인
 
 2.4GHz 와이파이 공유기, 무선 헤드셋, 게임패드, 키보드가 책상 주변에 몰려 있으면 무선 환경이 복잡해집니다.
@@ -122,17 +100,6 @@ PC 인터넷이 5GHz나 6GHz 와이파이를 지원한다면 그 대역을 사�
 제가 무선 마우스 끊김을 볼 때 가장 먼저 하는 것도 수신기 위치 변경입니다.
 
 수십만원짜리 마우스도 동글이 본체 뒤 구석에서 간섭을 받고 있다면 좋은 센서와 낮은 지연이 아무 의미가 없어지기 때문입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 증상을 기록하면 원인이 빨리 보인다
 

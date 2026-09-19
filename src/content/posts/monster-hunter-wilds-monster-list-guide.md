@@ -39,17 +39,6 @@ hideDescription: true
 
 긴 몸을 가진 진 다하드는 로우랭크 최후반에 만나는 강적으로, 이후 이어지는 스토리 보스 조 시아는 기존 몬스터를 압도하는 화력을 보여줍니다. 로우랭크 소재는 이 단계에서 방어구와 무기 업그레이드에 핵심이 되므로, 필요한 소재가 떨어지면 반복 사냥으로 모으십시오.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 가디언 몬스터와 하이랭크의 강적들
 
 와일즈에는 인공적으로 만들어진 가디언 계열 몬스터가 존재합니다. 도슈구마와 라탈로스, 풀그르 아쟈나트, 이보니 오도가론의 가디언 버전이 등장하며, 모체와 공격 패턴이 일부 달라 별도의 소재를 제공합니다. 가디언 소재는 하이랭크 초반의 강력한 방어구 제작에 쓰이고, 대표인 가디언 아크벨트는 상처를 더 쉽게 열어주는 플레이어 스킬과 상처 파괴로 체력을 회복하는 세트 보너스를 제공합니다. 일반 아크벨트는 하이랭크에서 별도로 등장하며 이야기의 핵심 몬스터로 취급됩니다.
@@ -62,17 +51,6 @@ hideDescription: true
 
 템퍼드 몬스터는 강화된 개체로, 보랏빛 스카우트플라이가 주위를 맴도는 것으로 식별합니다. 일반 몬스터보다 체력과 공격력이 높고 부위에 푸른 빛의 템퍼드 상처가 생기며, 이 상처를 파괴하면 무거운 투사체를 떨어뜨려 즉시 사용할 수 있습니다. 템퍼드로 등장하는 몬스터는 조 시아, 가디언 아크벨트, 고그마지오스를 제외한 대부분의 대형 몬스터이죠. 하이랭크 진입 이후에는 템퍼드 조사 퀘스트 중심으로 소재를 모으는 것이 정석입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 포획의 기본과 시점 판정
 
 포획은 몬스터의 체력을 낮추고 함정과 수면탄을 사용해 살아있는 채로 잡아 퀘스트를 끝내는 방법입니다. 일반적으로 사냥보다 시간이 짧고, 갈무리로 얻지 못하는 포획 보상을 추가로 주며, 처치보다 약간 더 많은 HRP를 얻을 수 있습니다. 몬스터가 약해진 상태에서 잡기 때문에 치명적인 마지막 한 방을 맞을 위험도 줄어들죠. 하이랭크 얀 쿠쿠 포획 퀘스트처럼 포획을 요구하는 퀘스트도 많고, 조사 퀘스트에서도 포획 조건이 붙을 때가 있는데, 조건을 만족하면 더 넓은 보상 풀에서 소재가 나오는 경우가 많으므로 기본기로 익혀 두면 유용합니다.
@@ -84,17 +62,6 @@ hideDescription: true
 포획에 쓰는 함정은 신속함정과 댓가함정 두 종류입니다. 신속함정은 전기를 흘려 몬스터를 붙잡고, 댓가함정은 지면에 구덩이를 파서 빠뜨립니다. 신속함정은 함정 도구와 번개벌레 축전기, 댓가함정은 함정 도구와 그물로 조합하며, 그물은 담쟁이와 거미줄로 만들고 함정 도구는 잡화상의 준비품 스톡파일에서 구매할 수 있습니다. 둘 다 작동하는 몬스터라면 아무 함정이나 큰 문제가 없지만, 떠 있는 몬스터에게는 신속함정이 더 선호됩니다.
 
 포획의 마무리는 수면탄입니다. 스컬 아이콘을 확인한 뒤 몬스터가 움직이지 않는 순간에 함정을 설치하고, 걸리면 즉시 수면탄을 두 발 연속으로 던집니다. 수면탄은 수면초와 파라버섯을 조합해 만들고, 함정이 풀리기 전에 들어가야 하므로 함정 위에서 바로 던지는 것이 안전합니다. 후반 몬스터는 함정 지속 시간이 짧아 더 빠른 판단이 필요합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 포획 무기와 불가 몬스터의 로드아웃
 

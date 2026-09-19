@@ -15,7 +15,6 @@ image: "/assets/posts/news-images/neogeo-aes-reissue-delay-2026-01.jpg"
 imageAlt: "네오지오 AES 재출시 거의 1년 연기, 이유는 또 부품 부족"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 draft: true
 ---
@@ -43,17 +42,6 @@ SNK와 플레이온이 준비 중인 네오지오 AES 플러스가 부품 공급
 
 이 때문에 내부 설계도 생각보다 복잡할 수 있습니다. 오래된 전기적 규격을 유지하면서 현대 TV에 맞는 저지연 HDMI 출력과 1080p 화면을 동시에 제공해야 합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 가격은 유지
 
 기본판과 기념판은 각각 정해진 가격을 유지하며 이미 예약한 이용자의 우선순위도 보장됩니다. 제조사는 첫 생산분에 별도 보너스도 넣겠다고 했습니다.
@@ -66,17 +54,6 @@ SNK와 플레이온이 준비 중인 네오지오 AES 플러스가 부품 공급
 
 최근 AI와 데이터센터 수요가 부품 시장까지 흔드는 상황을 생각하면 레트로 기기도 공급망과 완전히 분리될 수 없습니다. 옛날 게임을 즐기기 위한 새 기계도 결국 최신 산업 위에서 만들어집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 기다림의 가치
 
 거의 1년 연기는 작지 않습니다. 다만 원본 카트리지 호환과 낮은 지연, 현대 TV 연결을 제대로 구현한다면 단순 수집품 이상의 가치가 생길 수 있습니다.
@@ -88,17 +65,6 @@ SNK와 플레이온이 준비 중인 네오지오 AES 플러스가 부품 공급
 요즘 레트로 콘솔은 작은 에뮬레이션 기기로 재출시되는 경우가 많습니다. 네오지오 AES 플러스는 원본 카트리지를 그대로 사용하는 방향이라 수집가에게는 훨씬 강한 매력이 있습니다.
 
 대신 오래된 카트리지 가격이 이미 높은 데다 새 기기와 게임까지 구매하면 비용도 커집니다. 단순히 옛날 게임 몇 개를 해보고 싶은 이용자보다 실제 카트리지를 모으는 팬을 명확하게 겨냥한 제품입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 연기의 의미
 
@@ -116,13 +82,3 @@ SNK와 플레이온이 준비 중인 네오지오 AES 플러스가 부품 공급
 
 기다린 만큼 첫 생산분의 품질 검수가 더 중요해졌고, 실제 출시에서는 지연 이유를 납득할 만한 완성도를 보여줘야 합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

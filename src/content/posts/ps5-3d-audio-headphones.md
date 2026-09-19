@@ -16,7 +16,6 @@ image: "/assets/posts/guide-images/playstation-ps.jpg"
 imageAlt: "PS5 게임과 시스템 설정 화면"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -38,17 +37,6 @@ PS5의 3D 오디오는 별도 고가 장비가 없어도 지원되는 헤드폰�
 
 몇 가지 위치를 바꿔가며 가장 자연스럽게 앞에 들리는 지점을 찾는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 스테레오가 더 좋은 게임도 있음
 
 경쟁 슈팅이라고 무조건 3D 오디오가 유리한 것은 아닙니다. 익숙한 스테레오 믹싱에서 방향 구분이 더 잘되는 게임도 있으므로 같은 장면을 두 설정으로 비교해보는 편이 정확합니다.
@@ -61,17 +49,6 @@ PS5의 3D 오디오는 별도 고가 장비가 없어도 지원되는 헤드폰�
 
 가능하면 헤드셋은 기본 스테레오 상태로 두고 PS5 쪽 공간 오디오만 비교해보는 것이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 음량보다 위치를 기준으로
 
 설정할 때 더 웅장하게 들리는 쪽만 고르면 실제 게임에서 대사와 효과음 분리가 흐려질 수 있습니다. 소리가 큰지보다 앞뒤와 좌우 위치가 자연스럽게 구분되는지를 기준으로 판단합니다.
@@ -83,17 +60,6 @@ PS5의 3D 오디오는 별도 고가 장비가 없어도 지원되는 헤드폰�
 3D 오디오는 필수 기능이 아닙니다. 장시간 플레이할 때 귀가 피곤하거나 특정 헤드셋과 조합이 어색하다면 끄고 기본 스테레오로 사용하는 것이 더 낫습니다.
 
 최신 기능을 켜는 것보다 내 귀에 편한 설정이 실제 플레이에서는 더 중요합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 설정 변경 뒤 확인할 부분
 
@@ -109,13 +75,3 @@ PS5 문제 해결은 무작정 초기화하는 것보다 재현 조건을 찾는
 
 PS5는 같은 증상이라도 계정, 게임 버전, 연결 장비에 따라 원인이 달라질 수 있습니다. 그래서 가장 최근에 바꾼 설정과 문제가 시작된 시점을 기준으로 하나씩 되돌려 확인하시면 불필요한 재설치와 초기화를 줄일 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

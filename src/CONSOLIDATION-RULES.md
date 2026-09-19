@@ -14,26 +14,11 @@
 - 이미지 1장당 300KB 이하, JPEG 품질 82, 최대 가로 1280px
 
 ## 쿠팡 배너 배치
-- **소제목 2, 4, 6, ... 짝수 섹션 본문 아래**에 쿠팡 배너 삽입
-- 배치 순서: 짝수 소제목 → 본문 → 배너 → 다음 소제목
-- 배너 HTML:
-```html
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-```
-- **짝수 소제목(## 2, ## 4, ## 6, ...) 뒤마다 배너 배치.** 마지막 소제목이 짝수여도 마지막 섹션 뒤에 배너를 둔다. (글 하단 가로 쿠팡 배너는 레이아웃 `PostLayout.astro`에서 별도 자동 출력)
+- **쿠팡 배너·고지는 2026-09 전면 제거됨 (애드센스 승인 대응). 새 글에 쿠팡 배너/고지를 삽입하지 않음**
 
 ## 제휴 공시
-- 쿠팡 고지 문구는 `PostLayout.astro`에서 모든 글에 자동 출력되므로 **본문에 인라인으로 넣지 않음**
-- 본문 배너/링크는 `ads-partners.coupang.com` 스크립트(레이아웃·본문 모두 JS 동적)만 사용
+- 쿠팡 고지·배너는 전면 제거됨. 본문에 쿠팡 관련 광고/고지를 넣지 않음
+- 애드센스 등 배너가 추후 도입되면 CC-BY 문서 규칙과 별도로 사용자 지침을 따름
 
 ## frontmatter 형식
 ```yaml
@@ -60,8 +45,7 @@ hideDescription: true
 1. 인트로 문단 (첫 문장에서 주제를 즉시 설명)
 2. 대표 이미지
 3. ## 1. ..., ## 2. ... (명사형 소제목, 4~8개)
-4. 짝수 소제목 아래 쿠팡 배너
-5. **마지막 소제목은 텍스트로 마무리. "출처", "참고자료", "단맥 포인트", "총정리" 같은 범용 결론 섹션 금지**
+4. **마지막 소제목은 텍스트로 마무리. "출처", "참고자료", "단맥 포인트", "총정리" 같은 범용 결론 섹션 금지**
 
 ## 통합 원칙
 - **단 포인트 요약 박스 넣지 않음** (가이드/쿠폰 글)

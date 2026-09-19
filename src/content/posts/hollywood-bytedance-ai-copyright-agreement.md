@@ -18,7 +18,6 @@ image: "https://img.danmaek.com/images/posts/hollywood-bytedance-ai-copyright-ag
 imageAlt: "싱가포르 바이트댄스 사무실 건물 로고"
 imageWidth: 1600
 imageHeight: 840
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -57,17 +56,6 @@ hideDescription: true
 
 앞으로 인공지능 서비스의 경쟁은 생성 품질뿐 아니라 이런 경계를 얼마나 일관되게 관리하는지에서도 갈릴 가능성이 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 할리우드가 인공지능을 필요로 할 수도
 
 영화사는 인공지능을 저작권 위협으로만 보는 것은 아닙니다. 제작비 절감, 사전 시각화, 배경 제작, 번역, 후반 작업 등 여러 과정에서 인공지능을 사용하게 되기 때문입니다.
@@ -87,17 +75,6 @@ hideDescription: true
 생성을 잘 막으면 이용자는 답답해하고 너무 느슨하면 저작권자가 반발합니다. 결국 어느 선에서 막는지가 제품 경쟁력과 법적 위험 사이의 균형 문제가 되겠죠.
 
 앞으로 같은 요청을 여러 인공지능 서비스에 넣었을 때 더 느슨한 쪽이 인기를 얻을 겁니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 다음 단계는 합의보다 표준화
 

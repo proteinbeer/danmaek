@@ -18,7 +18,6 @@ image: "https://img.danmaek.com/images/posts/ox-alpha-mystery-free-ai-model/01-m
 imageAlt: "정체불명 인공지능 모델을 상징하는 일러스트"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -57,17 +56,6 @@ hideDescription: true
 
 그런데 반대로 개발사 입장에서는 짧은 기간에 엄청난 실제 작업을 경험하게 만들 수 있다는 점에서 무료 공개가 강력한 테스트 방식이 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 긴 문맥이 코딩에서 중요한 이유
 
 옥스 알파는 약 105만 토큰의 긴 문맥을 지원합니다. 큰 코드 저장소, 여러 문서, 긴 작업 기록을 한 번에 넣어야 하는 개발자에게는 매력적인 숫자입니다.
@@ -89,17 +77,6 @@ hideDescription: true
 제공업체가 누구인지 공개되지 않은 상태라면 중요한 코드, 고객 정보, 비공개 문서를 넣을 때는 더 신중할 필요가 있겠죠. 무료 사용료와 데이터 신뢰성 사이에서 직접 판단해야 하는 겁니다.
 
 특히 회사 업무에서는 성능보다 계약 조건과 데이터 보관 정책이 더 중요하죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 인공지능 브랜드가 약해지는 미래
 

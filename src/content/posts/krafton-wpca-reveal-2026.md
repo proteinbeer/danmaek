@@ -18,7 +18,6 @@ image: "/assets/posts/news-images/krafton-wpca-01.jpg"
 imageAlt: "세계허구관리연맹 WPCA 공개 예고"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -49,17 +48,6 @@ hideDescription: true
 
 이용자는 서울 전역에 나타나는 '허구'를 추적해 격리하며, 그 과정에서 도시의 랜드마크가 전투의 무대가 되는 경험을 하게 되죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 허구를 격리하는 구조
 
 플레이의 기본 구조는 명확합니다. 이상현상을 찾아내 쓰러뜨리고 격리하는 것입니다. 각각의 허구는 서로 다른 특징과 전투 방식을 지녔습니다.
@@ -75,17 +63,6 @@ hideDescription: true
 싱글 플레이도 가능하지만, 3인이 모였을 때 강력한 허구를 상대하는 긴장감과, 사냥 후 재료를 나눠 갖는 성장 사이클은 협동 플레이에 최적화된 설계로 보입니다.
 
 파티 플레이가 정착되면 몬스터 헌터처럼 각 플레이어가 맡은 역할과 빌드의 조합이 중요해질 전망이죠. 여기에 획득한 재료로 무기를 만들어 빌드를 꾸리는 구조까지 더해지면, 반복 플레이의 동기가 분명해집니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 템빨 용사 키우기에서 신작으로
 
@@ -103,13 +80,3 @@ hideDescription: true
 
 서울이 게임의 무대로 충분히 매력적으로 그려지는지, 그리고 3인 협동 사냥이 헌팅 장르의 팬들을 사로잡을 수준인지가 WPCA의 향방을 결정할 것입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

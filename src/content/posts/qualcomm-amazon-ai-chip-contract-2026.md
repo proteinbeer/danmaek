@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/qualcomm-amazon-ai-chip-contract-2026-01.jpg"
 imageAlt: "퀄컴 아마존 AI칩 계약 최대 600억달러, 스마트폰 회사가 데이터센터로 간다"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -63,17 +62,6 @@ AI 인프라 계약이 칩 판매와 금융 관계까지 얽히는 구조입니�
 
 실제 시장에서는 그 좁은 장점이 충분히 큰 비용 절감으로 이어지는지가 중요합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 학습보다 추론 시장을 노린다
 
 양사는 학습된 모델을 실제 서비스에서 실행하는 추론용 칩을 중심으로 협력하죠.
@@ -105,17 +93,6 @@ AI 서버에서는 여러 칩 사이 데이터를 얼마나 빠르게 보내는�
 사용자에게는 최고 사양보다 필요한 작업에 맞는 효율이 더 중요할 때가 많습니다.
 
 서버와 휴대 기기 모두 전력 대비 성능이 제품의 실제 비용을 결정하는 기준이 되고 있죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 애플 모뎀 이후를 준비하는 퀄컴
 

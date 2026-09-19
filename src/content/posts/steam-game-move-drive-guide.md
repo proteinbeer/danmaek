@@ -16,7 +16,6 @@ image: "/assets/posts/guide-images/steam-home.jpg"
 imageAlt: "스팀 라이브러리와 게임 목록 화면"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -46,17 +45,6 @@ hideDescription: true
 
 다른 PC에서 복사해온 `SteamLibrary` 폴더가 있다면, 그 폴더를 직접 선택하면 기존 게임이 자동으로 목록에 나타나기도 합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 게임 이동하기
 
 라이브러리 폴더가 준비됐다면 이제 게임을 옮길 차례입니다. 스팀이 파일을 복사하고 검증까지 완료해줍니다.
@@ -72,17 +60,6 @@ hideDescription: true
 이동 시간은 게임 용량과 하드디스크 속도에 따라 다릅니다. 기계식 하드디스크(HDD)끼리 이동은 상대적으로 오래 걸리고, SSD 간 이동은 훨씬 빠릅니다.
 
 게임을 SSD로 옮기면 체감 변화가 큽니다. 오픈월드 게임의 맵 로딩, 레벨 진입 속도가 확연히 빨라지는 경우가 많죠. 반대로 자주 하지 않는 게임을 HDD로 보내면 SSD 용량을 관리할 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 새 PC로 게임 폴더 복사하기
 

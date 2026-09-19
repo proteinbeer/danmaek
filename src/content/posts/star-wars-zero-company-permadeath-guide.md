@@ -17,7 +17,6 @@ image: "/assets/posts/guide-images/star-wars-zero-company-2026-01.jpg"
 imageAlt: "스타워즈 제로 컴퍼니(STAR WARS: Zero Company) 전술 게임 대표 이미지"
 imageWidth: 616
 imageHeight: 353
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -39,17 +38,6 @@ hideDescription: true
 
 특히 처음 몇 시간은 실수 원인을 모른 채 캐릭터를 잃기 쉽습니다. 이 단계에서는 재미보다 스트레스가 앞설 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 첫 회차는 꺼도 괜찮다
 
 영구 사망을 끈다고 해서 게임을 제대로 안 하는 것은 아닙니다. 오히려 시스템을 익히고, 분대 운영 감각을 잡으며, 전술 선택지 의미를 이해하는 데 더 도움이 될 수 있습니다.
@@ -62,17 +50,6 @@ hideDescription: true
 
 이 설정을 켠 채 공격형 조합만 밀어붙이면 생각보다 위험합니다. 회복과 보험 장치를 꼭 챙기시는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 플레이 성향에 따라 다르다
 
 몰입감과 긴장감을 좋아하고, 전투 하나하나를 천천히 계산하는 분이라면 영구 사망이 잘 맞습니다. 반대로 다양한 특화와 조합을 먼저 실험해 보고 싶은 분이라면 초반엔 끄는 편이 편합니다.
@@ -84,17 +61,6 @@ hideDescription: true
 공식 설명처럼 이 설정은 경험을 맞추기 위한 옵션에 가깝습니다. 처음엔 끄고 시작해도 되고, 시스템이 손에 익은 뒤 다시 켜고 새 회차를 시작해도 됩니다.
 
 처음부터 스스로를 몰아붙일 필요는 없습니다. 제로 컴퍼니는 전투 이해만 생겨도 충분히 어려운 판단이 많이 나오는 게임입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 추천은 첫 회차 학습, 두 번째 회차 몰입
 

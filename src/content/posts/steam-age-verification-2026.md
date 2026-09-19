@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/steam-age-verification-2026-01.jpg"
 imageAlt: "스팀 성인 등급 게임 연령 확인 절차를 설명하는 대표 이미지"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -49,17 +48,6 @@ hideDescription: true
 
 이런 애매함이 오히려 불만을 키웁니다. 게임을 살 수 있는 나이는 됐는데 어떤 카드를 쓰느냐 때문에 스토어 페이지조차 못 보는 경험은 이용자 입장에서 꽤 낯설죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 보호 장치가 구매 장벽으로 변하는 순간
 
 연령 확인은 미성년자 보호라는 목적이 분명합니다. 문제는 인증 방식이 너무 좁아지면 보호보다 배제에 가까운 결과가 생길 수 있다는 점입니다.
@@ -76,17 +64,6 @@ hideDescription: true
 
 결국 완벽한 방식은 아직 없습니다. 플랫폼 입장에서는 법을 지켜야 하고, 이용자 입장에서는 최소한의 개인정보만 내고 싶으니 서로 원하는 조건이 충돌하는 셈이죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 스팀이 보여준 새로운 플랫폼 문제
 
 예전 스팀 논쟁은 수수료, 할인, 환불 정책 같은 게임 유통 문제에 집중됐죠. 이제는 플랫폼이 이용자의 나이와 신원까지 어디까지 확인해야 하는지가 새로운 문제가 되고 있습니다.
@@ -101,13 +78,3 @@ hideDescription: true
 
 스팀은 PC 게임 유통에서 가장 익숙한 플랫폼 중 하나라 작은 마찰도 크게 느껴집니다. 앞으로 밸브가 카드 외 다른 방법을 추가할지, 아니면 개인정보 최소화라는 이유로 현재 방식을 유지할지가 더 중요한 후속 포인트입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

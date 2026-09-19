@@ -17,7 +17,6 @@ image: "/assets/posts/news-images/wifi8-router-2026-01.jpg"
 imageAlt: "와이파이 8 공유기 제품 이미지"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -44,17 +43,6 @@ TP링크 같은 업체들이 벌써 와이파이 8 공유기를 공개하기 시
 
 그런 맥락에서 보면 와이파이 8은 속도를 보여주기 위한 숫자보다, 복잡한 현실 환경을 정리하려는 기술에 가깝습니다. 화려하지는 않지만 실제 사용자는 오히려 이런 변화에서 더 큰 차이를 느낄 가능성이 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 지금 교체할 이유는 없다
 
 여기서 재미있는 부분이 나옵니다. 차세대 기술이라고 해서 무조건 먼저 사는 것이 이기는 게임은 아닙니다.
@@ -66,17 +54,6 @@ TP링크 같은 업체들이 벌써 와이파이 8 공유기를 공개하기 시
 이번 뉴스는 신형 공유기 소개가 아니라, 와이파이 기술이 속도 경쟁에서 사용 환경 경쟁으로 넘어가고 있다는 이야기로 이해하는 것이 좋습니다. 숫자는 커졌는데 정작 바꾸려는 문제는 속도가 아니라 안정성이라는 점이 흥미롭습니다.
 
 예전에는 빠르면 끝이었습니다. 이제는 안 끊기고, 여러 기기가 붙어도 덜 흔들리고, 복잡한 공간에서도 일정하게 유지되는 것이 더 비싼 기술이 되고 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 최신보다 안정적인 선택
 

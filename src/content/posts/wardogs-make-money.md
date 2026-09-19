@@ -16,7 +16,6 @@ image: "/assets/posts/guide-images/wardogs-2026-01.jpg"
 imageAlt: "워독스(WARDOGS) 100인 3팀 전쟁 게임 대표 이미지"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -36,17 +35,6 @@ hideDescription: true
 
 거점 근처에서 부활을 반복하면 숫자 싸움에 직접 도움이 됩니다. 총격이 약한 플레이어에게도 좋은 수입원이 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 수송 보상
 
 팀원을 차량에 태워 컨트롤 존까지 옮기는 행동도 현금을 벌 수 있습니다.
@@ -58,17 +46,6 @@ hideDescription: true
 핫존은 두 배 현금을 노릴 수 있는 선택지입니다. 보상이 큰 만큼 다른 플레이어도 몰릴 가능성이 높아 위험이 함께 커집니다.
 
 돈이 부족하다고 무조건 달려가기보다 현재 장비 비용과 생존 가능성을 계산합니다. 비싼 장비를 잃으면 두 배 보상도 실제 이익이 아닐 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 순이익 계산
 
@@ -82,13 +59,3 @@ hideDescription: true
 
 저라면 초반에는 킬 수보다 경기 전후 현금 변화를 보겠습니다. 어떤 행동에서 자산이 늘어나는지 알면 자신에게 맞는 역할도 찾기 쉽습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

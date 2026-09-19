@@ -17,7 +17,6 @@ image: "/assets/posts/news-images/smilegate-eclipse-launch-2026-01.jpg"
 imageAlt: "이클립스: 더 어웨이크닝 대표 일러스트"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -44,17 +43,6 @@ MMOLite는 이클립스가 처음으로 내건 장르 표방입니다. 이름에
 
 캐릭터 사전 생성이 마감되면서 일부 서버는 신규 인원을 받지 못하는 상황이 벌어졌습니다. 신작 MMORPG의 사전 반응치고는 드문 성과라, 정식 출시 후에도 서버 운영과 혼잡 관리가 관건이 될 전망입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 9월 5일, 론칭 라이브 방송 예고
 
 정식 출시에 앞서 지난 9월 5일 오후 8시, 유튜브를 통해 론칭 기념 라이브가 진행됐습니다. 진행을 맡은 것은 박가영 아나운서였고, 개발을 총괄하는 이상문 PD가 함께했습니다.
@@ -67,13 +55,3 @@ MMOLite는 이클립스가 처음으로 내건 장르 표방입니다. 이름에
 
 또 모바일과 PC 플랫폼 간 경험이 얼마나 자연스럽게 이어지는지도 중요합니다. 크로스플랫폼은 홍보 요소이자 실제 운영 난이도를 높이는 요소이기 때문입니다. 이용자 이탈 없이 콘텐츠 업데이트가 이어지는지가 이클립스의 지속 성장을 가른다고 볼 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

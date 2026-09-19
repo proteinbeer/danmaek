@@ -17,7 +17,6 @@ image: "/assets/posts/news-images/dlss5-release-2026-01.jpg"
 imageAlt: "DLSS 5 적용 전 게임 화면"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -44,17 +43,6 @@ DLSS 5는 AI가 장면을 재해석하는 '뉴럴 렌더링' 기술입니다. �
 
 반응은 갈렸습니다. 사이버펑크 2077에서는 조명과 디테일이 개선됐다는 평가가 나온 반면, 파이널 판타지 VII 리버스에서는 티파와 에어리스, 클라우드의 인상이 원작과 크게 달라 보인다며 지적이 이어졌습니다. 성능 우려도 있었습니다. RTX 5070 Ti에서 4K를 구동한 테스트는 프레임이 절반 수준으로 떨어진 사례로 전해졌습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 유출판이 숨긴 맥락
 
 정작 유출판은 DLSS 5가 의도한 용도가 아니었습니다. 엔비디아 응용 딥러닝 연구 부문 이사 에드워드 리우는 "DLSS 5는 실사풍 상황과 캐릭터를 위해 설계됐다"고 밝혔습니다. 비실사풍 아트가 중심인 파이널 판타지나 킹덤 하츠는 애초에 적용 범위 밖이라는 설명입니다.
@@ -67,13 +55,3 @@ DLSS 5는 AI가 장면을 재해석하는 '뉴럴 렌더링' 기술입니다. �
 
 유출본이 정식판과 다를 수 있다는 점도 고려해야 합니다. 모더들은 호환되지 않는 CUDA 코드를 수정해 RTX 4080에서도 구동하는 데 성공했지만, 엔비디아가 RTX 40 시리즈를 공식 지원할지는 발표되지 않았습니다. 정식 버전의 성능 수치에 대한 독립 검증도 아직 이뤄지지 않았습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

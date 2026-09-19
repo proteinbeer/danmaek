@@ -45,17 +45,6 @@ hideDescription: true
 
 이후 대부분의 게임과 스팀에서 바로 인식됩니다. 유선 연결은 페어링 설정 없이 꽂기만 하면 되므로, 블루투스가 없는 구형 컨트롤러일 때도 유용하죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 블루투스로 연결하기
 
 무선으로 쓰고 싶다면 컨트롤러를 페어링 모드로 전환한 뒤 PC에서 연결하면 됩니다.
@@ -77,17 +66,6 @@ hideDescription: true
 
 무선 어댑터는 1개만 구매해도 엑스박스 컨트롤러 최대 8개를 연결할 수 있습니다. 헤드셋을 컨트롤러에 꽂아 쓰는 분이라면 무선 연결 중에도 오디오가 되는 점이 장점이죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 게임에서 인식 안 될 때
 
 연결은 됐는데 게임에서 컨트롤러가 반응하지 않는 경우가 있습니다. 대부분 설정 문제라 쉽게 해결되죠.
@@ -105,13 +83,3 @@ hideDescription: true
 
 시리즈 X|S 컨트롤러는 USB-C 포트를 사용하고, 엑스박스 원 컨트롤러는 마이크로 USB 포트를 사용합니다. 연장 케이블을 쓰면 거리가 먼 환경에서도 유선 연결이 편해져요. 배터리 수명이 급격히 줄었다면 배터리 교체 시점을 확인해보시기 바랍니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

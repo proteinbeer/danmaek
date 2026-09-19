@@ -17,7 +17,6 @@ image: "/assets/posts/news-images/latham-nvidia-ai-2026-01.jpg"
 imageAlt: "대형 로펌이 구축한 자체 AI 서버 인프라를 설명하는 대표 이미지"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -48,17 +47,6 @@ hideDescription: true
 
 레이섬 앤 왓킨스는 공개 가중치 AI 모델을 직접 조정하면서 필요에 따라 상용 모델도 선택할 수 있는 구조를 만드는 것으로 알려졌습니다. 하나의 AI 회사에 모든 업무를 맡기기보다 업무에 따라 도구를 바꾸는 방식이죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 엔비디아 GPU를 산 것보다 중요한 투자
 
 자체 AI 시스템은 GPU 몇 장을 사서 책상 밑에 두는 수준이 아닙니다. 안정적인 데이터센터, 보안, 네트워크, 모델 관리, 개발 인력이 계속 필요합니다.
@@ -74,17 +62,6 @@ AI 사용량이 작을 때는 외부 서비스를 쓰는 편이 대체로 간단
 자체 서버 역시 싸지 않습니다. 다만 이용량이 매우 큰 조직은 장기적으로 어떤 구조가 더 예측 가능한 비용을 만드는지 계산할 이유가 생기죠.
 
 레이섬 앤 왓킨스의 선택은 모든 기업이 서버를 사야 한다는 뜻이 아니죠. 규모가 충분히 커지면 AI도 전기나 서버처럼 직접 인프라를 갖출지 계산하는 단계로 넘어간다는 사례에 가깝습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. AI 서비스 다음 경쟁은 누가 통제하느냐
 
@@ -102,13 +79,3 @@ AI 사용량이 작을 때는 외부 서비스를 쓰는 편이 대체로 간단
 
 AI가 법률 업무를 자동화한다는 이야기보다 이 변화가 더 현실적이죠. 변호사가 사라지기 전에 로펌의 조직 구조가 먼저 바뀌고, 기술 인력과 서버 비용이 핵심 경쟁력으로 들어오는 모습이 이미 시작되고 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

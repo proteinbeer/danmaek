@@ -37,17 +37,6 @@ hideDescription: true
 
 스위치와 스위치 2는 이름과 메뉴가 비슷해도 저장 장치, 주변기기, 다운로드 게임 관리 방식에서 차이가 있죠. 예전 스위치에서 익숙했던 방법을 그대로 적용하기 전에 스위치 2 기준인지 먼저 확인하는 습관이 필요하죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 교체나 초기화는 마지막
 
 다음으로 표시되는 수신 기한과 연결된 닌텐도 어카운트를 기록해 둡니다. 이어서 스위치 2를 구한 뒤 초기 설정 중 통째로 전송을 선택하고 같은 닌텐도 어카운트로 데이터를 받습니다. 순서를 지키면 어느 단계에서 문제가 생기는지 확인하기 쉬워집니다.
@@ -60,17 +49,6 @@ hideDescription: true
 
 중고 판매를 먼저 해야 하는 상황에서는 이 기능이 꽤 유용합니다. 다만 편리한 백업처럼 눌렀다가 기존 기기가 초기화되는 기능이므로 가장 먼저 조건을 읽어야 하는 기능이기도 합니다
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 안 될 때 추가로 볼 부분
 
 여기까지 해도 같은 증상이 계속된다면 한 번에 여러 설정을 바꾸지 않는 것이 좋습니다. 일부 게임의 저장 데이터는 별도 절차가 필요할 수 있으므로 주요 게임은 사전에 확인해야 하죠. 다른 게임이나 다른 네트워크, 다른 케이블처럼 비교할 수 있는 조건이 있다면 하나씩 바꿔보는 편이 원인을 찾기 쉽습니다.
@@ -82,17 +60,6 @@ hideDescription: true
 게임 데이터, 세이브 데이터, 계정 이용 권한은 스위치에서 서로 다른 항목으로 관리되는 경우가 많죠. 화면에 게임 아이콘이 보인다고 세이브와 이용 권한까지 모두 같은 위치에 있다는 뜻은 아닙니다.
 
 중요한 게임을 오래 플레이하셨다면 문제를 해결하기 전에 세이브가 어디에 있는지 먼저 확인하시는 편이 안전합니다. 특히 사용자 삭제와 본체 초기화는 일반적인 게임 데이터 삭제보다 영향 범위가 훨씬 크죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 가장 먼저 확인할 항목
 

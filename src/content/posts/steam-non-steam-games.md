@@ -49,17 +49,6 @@ hideDescription: true
 
 단순히 실행 경로를 라이브러리에 추가한 것이므로 구매 증명이나 스팀 환불 근거로 사용할 수 없습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 오버레이와 컨트롤러 활용
 
 비스팀 게임도 스팀을 통해 실행하면 오버레이와 스팀 입력을 활용할 수 있는 경우가 있습니다.
@@ -80,17 +69,6 @@ hideDescription: true
 
 거실 PC에서 특정 게임 몇 개만 패드로 실행하고 싶다면 개별 등록이 편하고 라이브러리가 많다면 런처 자체를 등록하는 편이 단순하죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 삭제해도 원본 게임은 지워지지 않는다
 
 비스팀 게임을 스팀 라이브러리에서 제거하는 것은 바로가기를 없애는 작업입니다.
@@ -110,17 +88,6 @@ hideDescription: true
 저는 이 기능을 다른 스토어 게임을 스팀으로 가져오는 방법이라고 부르기보다 스팀을 게임 실행 허브로 쓰는 방법이라고 보는 편이 정확하다고 생각합니다.
 
 무엇이 추가되고 무엇이 추가되지 않는지만 알고 쓰면 생각보다 유용한 기능이죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 이미지와 이름을 정리하면 진짜 라이브러리처럼
 

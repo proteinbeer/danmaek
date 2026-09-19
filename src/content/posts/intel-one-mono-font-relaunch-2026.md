@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/intel-one-mono-font-relaunch-2026-01.jpg"
 imageAlt: "인텔 원 모노 폰트 다시 살아났다, 개발자 눈 피로를 줄이려 만든 글꼴"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -43,17 +42,6 @@ hideDescription: true
 
 소문자와 대문자의 높이 차이를 키우고 위아래로 뻗는 획을 길게 만드는 것도 같은 이유입니다. 작은 글자 크기에서도 문자 블록이 뭉쳐 보이지 않도록 한 것이죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 200개가 넘는 라틴 문자 언어 지원
 
 원 모노는 라틴 문자를 사용하는 200개 이상의 언어를 지원합니다. 라이트와 레귤러, 미디엄, 볼드 굵기와 각각의 이탤릭까지 제공돼 단일 코딩 폰트로 다양한 화면을 구성할 수 있죠.
@@ -65,17 +53,6 @@ hideDescription: true
 인텔은 최근 활동이 줄었거나 담당자가 떠난 여러 오픈소스 프로젝트를 정리하고 있습니다. 원 모노 역시 2024년 이후 큰 업데이트가 거의 없어 저장소가 보관 상태로 전환됐죠.
 
 하지만 프로젝트 종료 소식이 알려진 뒤 다시 저장소가 살아났습니다. 회사 비용 절감 과정에서도 접근성과 관련된 프로젝트는 단순 활동량만으로 정리하기 어렵다는 점을 보여줍니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 폰트 하나도 개발 도구다
 
@@ -90,17 +67,6 @@ hideDescription: true
 원 모노는 라틴 문자 중심이라 한국어 문장까지 같은 모양으로 보여주는 폰트는 아니죠. 한국어 주석을 자주 쓰시면 에디터에서 영문 코드에는 원 모노를 쓰고 한글은 시스템의 한국어 고정폭 대체 글꼴로 표시되는 형태가 될 수 있습니다.
 
 그래도 코드 대부분을 차지하는 영문 변수와 숫자, 괄호와 기호의 가독성이 좋아지면 체감은 큽니다. 폰트는 성능을 올리는 도구는 아니지만 장시간 화면을 보는 작업에서는 눈의 피로와 작은 오독을 줄이는 것도 생산성의 한 부분입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 무료라서 한 번 써보기 쉽다
 

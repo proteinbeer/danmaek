@@ -16,7 +16,6 @@ image: "/assets/posts/guide-images/playstation-ps.jpg"
 imageAlt: "플레이스테이션 콘솔 이미지"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -35,17 +34,6 @@ hideDescription: true
 무선 연결이 자꾸 끊긴다면 **페어링을 다시** 해야 합니다. 컨트롤러의 **PS 버튼과 공유(Create) 버튼을 동시에 몇 초간** 누르면 페어링 모드가 켜집니다. 이때 라이트바가 빠르게 깜빡이며 검색 상태가 됩니다.
 콘솔의 설정 → 액세서리 → 블루투스에서 다시 등록하면 됩니다. 다른 기기와 이미 페어링되어 충돌하는 경우엔, 기존 기기의 연결을 해제한 뒤 다시 시도하는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. PC에 컨트롤러 연결하기
 
 듀얼센스·듀얼쇼크는 PC에서도 쓸 수 있습니다. 가장 확실한 방법은 **USB 케이블**로 연결하는 것이며, 꽂으면 대부분 자동으로 인식됩니다. 무선으로 쓰려면 PC의 블루투스에서 컨트롤러를 검색해 페어링하면 됩니다.
@@ -57,17 +45,6 @@ hideDescription: true
 충전이 안 되거나 배터리가 빨리 닳는 문제도 자주 겪습니다. 먼저 **데이터 전송이 가능한 정품 케이블**인지 확인해야 합니다. 충전 전용 케이블은 페어링드, PC 인식이 안 될 수 있습니다.
 
 배터리 수명이 크게 줄었다면 교체를 고려해 보기 바랍니다. 컨트롤러 사용 시간이 눈에 띄게 짧아졌다면 배터리 노후화일 가능성이 큽니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 어떤 케이블·액세서리가 좋을까
 

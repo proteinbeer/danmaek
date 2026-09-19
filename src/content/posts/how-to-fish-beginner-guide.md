@@ -38,17 +38,6 @@ hideDescription: true
 
 낚싯대만 먼저 최고로 올리기보다 현재 섬에서 필요한 만큼 맞추고 남는 돈을 무기와 이동 장비에 나누는 편이 진행이 안정적입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 섬과 미끼 단계가 연결된다
 
 진행 섬마다 일반적으로 사용하는 미끼 단계가 달라집니다. 등대섬을 지나 숲섬에서는 초급 미끼, 사막섬에서는 표준 미끼, 바위섬에서는 전문 미끼, 화산섬에서는 과학 미끼를 중심으로 보게 됩니다.
@@ -61,17 +50,6 @@ hideDescription: true
 
 초반에 살 수 있는 레이더는 비싼 무기보다 진행 체감을 크게 바꿀 수 있습니다. 물고기와 이동 목표를 찾는 시간을 줄여 주기 때문에 낚시와 섬 탐색이 덜 무작위처럼 느껴지죠. 첫 엔진 업그레이드부터 이동 속도 체감이 크고 후반 수집까지 생각하면 엔진은 단순 편의 기능이 아니라 실제 플레이 시간을 줄여 주는 장비입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 낚고 나면 전투가 이어진다
 
 낚시 방법은 낚시만 오래 하면 끝나는 게임이 아닙니다. 물고기를 끌어올린 뒤에는 전투가 이어지고 맨손, 근접 무기, 총기류를 이용해 잡은 생물을 처치하는 것이 기본 반복 구조입니다.
@@ -83,17 +61,6 @@ hideDescription: true
 초반 현금이 생기면 이것저것 사고 싶지만 먼저 퀘스트에 필요한 미끼와 이동에 필요한 기능을 챙기는 편이 좋습니다. 화려한 총이나 장난감성 아이템은 진행이 안정된 뒤 사셔도 늦지 않습니다.
 
 초반에는 돈 한 번 잘못 쓰면 다시 물고기를 잡아 자금을 모아야 해서 진행 속도가 크게 떨어집니다. 초반은 미끼와 기본 무기, 레이더가 중요하고 후반은 엔진과 수집 효율이 중요해지므로 한 가지 구매 순서를 끝까지 고집하지 않는 편이 좋죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 실전에서는 목적을 하나만 잡는다
 

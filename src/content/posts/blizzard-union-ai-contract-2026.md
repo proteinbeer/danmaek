@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/blizzard-union-ai-contract-2026-01.jpg"
 imageAlt: "블리자드 직원 노조 계약과 AI 조항을 설명하는 대표 이미지"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -49,17 +48,6 @@ AI 관련 논쟁은 흔히 둘 중 하나로 흘러갑니다. 전부 쓰거나 �
 
 특히 QA와 아트, 글쓰기, 현지화처럼 이미 외주와 자동화 압력을 받아온 직군에서는 더 민감할 수밖에 없습니다. AI가 편한 도구가 되느냐 인원 감축의 근거가 되느냐는 회사 정책에 따라 완전히 달라지기 때문입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 해고 뒤 14개월 재고용 권리도 눈에 띈다
 
 계약에는 해고된 직원이 블리자드 노조 조직 내 공개 포지션에 다시 지원할 수 있도록 14개월 동안 우선적인 재고용 권리를 주는 내용도 포함됐습니다. 근속 기간과 관계없이 추가 퇴직 보상도 함께 확보됐습니다.
@@ -76,17 +64,6 @@ AI 조항만큼이나 중요한 게 이런 안전망입니다. 기술 변화에 
 
 물론 노조 계약이 해고를 완전히 없애거나 AI 변화를 멈추지는 못하죠. 다만 변화가 생겼을 때 직원이 아무 말도 못 한 채 결과만 받아들이는 구조와는 차이가 큽니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 게임 개발자의 다음 싸움은 도구가 아니라 권한
 
 앞으로 AI 성능은 계속 올라갈 겁니다. 어느 회사든 도입을 검토할 가능성이 높고, 개발자 역시 유용한 부분에서는 AI를 사용할 겁니다.
@@ -101,13 +78,3 @@ AI 도입 논쟁은 개발자나 아티스트만의 이야기가 아닙니다. �
 
 특히 품질 업무는 결과가 틀렸을 때 누가 책임지는지가 중요합니다. AI가 초안을 만들고 사람이 마지막에 이름만 올리는 구조가 늘어난다면, 효율보다 책임 범위를 먼저 정해야 할 필요가 커질 겁니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

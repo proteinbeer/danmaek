@@ -42,17 +42,6 @@ C드라이브 여유 공간이 갑자기 줄었다면 큰 파일부터 무작정
 
 주의할 점은 **다운로드 폴더**와 **휴지통**처럼 사용자가 직접 저장한 파일이 섞일 수 있는 항목이죠. 이 항목은 내용을 확인한 뒤에만 삭제해야 합니다. 윈도우 업데이트 정리 파일처럼 시스템이 필요한 파일이 아닌 것은 큰 용량을 차지하는 경우가 많아 정리 효과가 큽니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 큰 앱과 게임 확인
 
 설치한 게임이나 편집 프로그램이 수십 기가바이트를 차지하는 경우가 많죠. 사용하지 않는 프로그램은 설정의 설치된 앱에서 용량순으로 정렬해서 확인하시면 되죠.
@@ -70,17 +59,6 @@ C드라이브 여유 공간이 갑자기 줄었다면 큰 파일부터 무작정
 한 번 정리했는데도 며칠 뒤 다시 꽉 찬다면 무언가가 반복해서 용량을 차지하고 있다는 뜻이죠. 대표적인 원인은 클라우드 동기화(드롭박스, 구글 드라이브, 원드라이브가 로컬에 파일을 계속 저장하는 경우), 게임의 자동 업데이트, 윈도우 업데이트 캐시 등입니다.
 
 클라우드 동기화 프로그램을 사용한다면 저장 공간을 점유하지 않도록 파일을 온라인 전용으로 설정하거나, 큰 폴더의 동기화를 중지할 수 있는지 확인하시면 됩니다. 게임이나 윈도우 업데이트가 반복해서 설치되는 구조인지도 확인해보시는 것이 좋습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 더 적극적인 정리
 

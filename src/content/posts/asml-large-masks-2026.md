@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/asml-large-masks-2026-01.jpg"
 imageAlt: "AI칩이 너무 커졌다, ASML이 마스크 크기까지 바꾸는 이유"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -55,17 +54,6 @@ ASML이 차세대 하이NA EUV 장비에 더 큰 12인치 마스크를 쓰는 �
 
 작게 만드는 기술과 크게 찍는 기술이 동시에 필요해지는 역설입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 하이NA의 약점
 
 하이NA EUV는 더 높은 해상도로 미세 패턴을 만들 수 있다는 장점이 있죠.
@@ -86,17 +74,6 @@ ASML은 생산성이 약 40% 개선될 가능성을 기대하고 있죠.
 
 지금 결정하는 장비 방향이 2030년대 AI칩 생산 방식에 영향을 줄 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 인텔은 먼저 쓰고 있다
 
 인텔은 이미 하이NA EUV 장비를 차세대 공정에 도입하고 있지만 TSMC와 삼성은 논리칩 대량생산에서 서두르지 않는 모습이죠.
@@ -116,17 +93,6 @@ AI 붐은 GPU 판매량만 늘리는 것이 아니죠.
 저는 이 뉴스가 AI 산업 규모를 잘 보여준다고 봅니다.
 
 소프트웨어에서 시작한 경쟁이 결국 빛으로 실리콘을 찍는 공장 장비의 물리적 크기까지 바꾸고 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 장비 한 대가 생태계를 움직인다
 
@@ -154,13 +120,3 @@ AI칩처럼 수요가 빠르게 늘어나는 제품에서는 이런 차이가 �
 
 장비 규격 하나가 바뀌어도 전체 공급망이 움직여야 한다는 점이 반도체 산업의 복잡성을 잘 보여줍니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/physint-xbox-publish-2026-01.jpg"
 imageAlt: "코지마 피진트가 플레이스테이션을 떠나 엑스박스로 간 과정"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -55,17 +54,6 @@ hideDescription: true
 
 확정된 부분은 소니가 협업을 중단했고 코지마 프로덕션은 게임 자체를 포기하지 않았다는 점입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 세 달의 새 파트너 찾기
 
 코지마 프로덕션은 프로젝트를 계속하기 위해 약 세 달 동안 새로운 파트너를 찾았습니다.
@@ -85,17 +73,6 @@ hideDescription: true
 엑스박스는 피진트까지 맡으면서 코지마 프로덕션과의 관계를 게임 한 작품 이상으로 넓혔습니다.
 
 공식 발표에서는 영화와 TV를 포함한 다른 영역에서도 협력할 계획이라고 밝혔습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 프로젝트의 생존
 

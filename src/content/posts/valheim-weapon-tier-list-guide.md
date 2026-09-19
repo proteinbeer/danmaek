@@ -49,17 +49,6 @@ hideDescription: true
 
 미스트워커는 미스트랜즈에서 75 베기와 40 냉기를 갖춘 한손검으로, 베는 위치 주변의 안개를 걷어내는 효과가 있어 시야가 최우선인 지역 특성상 성능표 이상으로 가치가 높습니다. 크롬은 양손검으로 단일 공격 150 베기를 내는 최상위 한방을 보여주며, 긴 도달 거리의 찌르기 보조 공격도 쓸 수 있죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 상위 무기 티어 정리
 
 무기 카테고리 전체에서 자주 언급되는 서열을 정리하면 아래와 같습니다. 2025년 말 패치에서 추가된 트링킷과 애드레날린 시스템이 반영된 최신 기준입니다.
@@ -73,17 +62,6 @@ A급은 해당 티어까지 확실하게 굴리는 무기입니다. 프로스트
 발하임 방어구는 크게 경갑과 중갑으로 나뉩니다. 경갑은 부위당 무게가 가볍고 이동속도 페널티가 거의 없으며, 각 세트 고유의 특수 보너스가 붙는 대신 방어도가 낮은 편입니다. 중갑은 청동 계열부터 철, 늑대, 패딩으로 이어지며 높은 방어도 대신 부위별로 이동속도를 5%씩 깎죠.
 
 중갑 세트를 풀로 입으면 부위마다 이동속도 페널티가 합쳐져 전투 중 거리 조절이 어려워집니다. 반면 경갑 중에서도 트롤 세트와 펜리스 세트는 추가 효과로 이동속도를 유지하거나 상승시키므로, 도망과 추격을 반복하는 근접전 플레이에 유리합니다. 방어구를 고를 때는 단순한 방어도 수치보다 전투 스타일에 맞는 이동속도와 특수 능력을 함께 봐야 합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 바이옴별 방어구 세트와 최대 방어도
 
@@ -119,17 +97,6 @@ A급은 해당 티어까지 확실하게 굴리는 무기입니다. 프로스트
 1.0 업데이트로 추가된 노드 무기는 도끼와 검, 대검, 단검, 아트게이르, 활, 석궁, 메이스, 창, 너클 체인의 열 개 클래스가 전부 준비되며, 제작에는 윈딩 터널에서 얻는 몰드와 딥노스의 신금속 블러드골드가 들어갑니다. 기존 무기군을 대체하는 개념이 아니라 상위 티어로 이어붙는 형태라, 딥노스 첫 진입 단계에서는 미스트랜즈와 애쉬랜즈 무기를 쓰다가 재료를 모은 뒤 교체하는 흐름입니다. 노드 무기의 특징은 무기마다 보석을 두 개 박는 업그레이드 구조로, 보석 조합에 따라 서리불꽃 프로스트파이어와 천둥피 선더블러드 두 갈래 변형으로 나뉩니다.
 
 별도 이름을 가진 특수 장비로는 냉기 투사체를 쏘는 에코 스파이크, 지정 지점에 낙뢰를 떨어뜨리는 라이트닝 스트라이크, 방어막이 피해를 되돌려주는 노던 벤전스, 유령 늑대·곰·무스를 소환하는 스피릿 콜러가 있습니다. 원거리는 화염과 냉기가 함께 붙는 프로스트파이어 석궁이 새 티어 자리를 차지하죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 빌드·플레이 스타일별 장비 조합
 

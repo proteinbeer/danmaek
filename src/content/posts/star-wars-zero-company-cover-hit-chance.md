@@ -17,7 +17,6 @@ image: "/assets/posts/guide-images/star-wars-zero-company-2026-01.jpg"
 imageAlt: "스타워즈 제로 컴퍼니(STAR WARS: Zero Company) 전술 게임 대표 이미지"
 imageWidth: 616
 imageHeight: 353
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -39,17 +38,6 @@ hideDescription: true
 
 게다가 스포티드 상태나 측면 각도처럼 팀이 함께 만드는 조건도 명중률에 영향을 줍니다. 그래서 잘 맞히는 분대는 사수 하나가 좋은 것이 아니라, 분대 전체가 그 사수를 위해 자리를 깔아 준 경우가 많습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 측면과 고지대의 가치
 
 공식 전술 팁에서도 위치 선정, 측면 압박, 높은 지대 활용을 강조합니다. 이유는 단순합니다. 좋은 위치는 내 공격 기대값을 올리고, 적 엄폐 가치를 떨어뜨리기 때문입니다.
@@ -62,17 +50,6 @@ hideDescription: true
 
 적이 오버워치 구역을 의식하게 만들면 내 명중률 숫자보다 더 큰 압박이 생깁니다. 적이 좋은 자리를 포기하거나, 이상한 경로로 움직이며, 결과적으로 전투가 쉬워지기 때문입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 100퍼센트도 전부는 아니다
 
 최근 1점1 패치에서는 명중률 100퍼센트인데도 빗나가던 문제까지 수정됐습니다. 그만큼 이 게임에서 명중 관련 체감은 예민한 요소였다고 볼 수 있습니다.
@@ -84,17 +61,6 @@ hideDescription: true
 턴을 시작하면 누구를 쏠지보다 누구에게 맞을지를 먼저 보시는 습관이 좋습니다. 그 다음에 이동으로 각도를 만들고, 마지막으로 명중률을 보시면 판단이 한결 안정됩니다.
 
 반대로 숫자부터 보면 시야가 좁아집니다. 높은 수치가 보이는 적에게 바로 눌렀다가 내 위치가 훨씬 나빠지는 경우가 많죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 좋은 사격은 살아남는 사격이다
 

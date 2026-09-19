@@ -16,7 +16,6 @@ image: "/assets/posts/guide-images/playstation-ps.jpg"
 imageAlt: "PS5 게임과 시스템 설정 화면"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -38,17 +37,6 @@ PS5 파티에 들어갔는데 친구 목소리만 안 들리거나 내 목소리
 
 말할 때 입력 막대가 움직이는지 보면 하드웨어 문제와 설정 문제를 빠르게 구분할 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 출력 장치와 헤드폰 범위
 
 친구 목소리가 TV로 나오거나 헤드셋에서 게임 소리만 들린다면 출력 장치 설정을 확인합니다. 헤드폰으로 어떤 소리를 보낼지 설정이 달라져 있으면 채팅과 게임 소리가 분리될 수 있습니다.
@@ -61,17 +49,6 @@ PS5는 파티 안에서 특정 사용자 음량을 따로 조절할 수 있습�
 
 실수로 음소거했거나 상대가 나를 음소거한 경우도 있으므로 양쪽 설정을 함께 보는 편이 빠릅니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. NAT와 네트워크 문제
 
 파티 연결이 자주 끊기거나 특정 친구와만 음성 연결이 실패한다면 NAT 환경이 영향을 줄 수 있습니다. 두 사람 모두 엄격한 네트워크 환경이면 음성 세션이 안정적으로 잡히지 않을 수 있습니다.
@@ -83,17 +60,6 @@ PSN 상태와 인터넷 연결 테스트를 함께 확인합니다.
 다른 게임에서도 마이크 입력이 전혀 잡히지 않을 때만 케이블이나 헤드셋 자체 고장을 의심하는 편이 좋습니다. 파티에서만 문제라면 대부분 소프트웨어 설정이나 네트워크 쪽 가능성이 더 큽니다.
 
 장비를 새로 사기 전에 입력, 출력, 채팅 전환, 개별 음량 순서로 확인하시면 됩니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 설정 변경 뒤 확인할 부분
 
@@ -109,13 +75,3 @@ PS5 문제 해결은 무작정 초기화하는 것보다 재현 조건을 찾는
 
 PS5는 같은 증상이라도 계정, 게임 버전, 연결 장비에 따라 원인이 달라질 수 있습니다. 그래서 가장 최근에 바꾼 설정과 문제가 시작된 시점을 기준으로 하나씩 되돌려 확인하시면 불필요한 재설치와 초기화를 줄일 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

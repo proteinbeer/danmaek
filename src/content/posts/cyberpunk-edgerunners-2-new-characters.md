@@ -18,7 +18,6 @@ image: "https://img.danmaek.com/images/posts/cyberpunk-edgerunners-2-new-charact
 imageAlt: "사이버펑크 엣지러너 2 티저 이미지"
 imageWidth: 1200
 imageHeight: 628
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -57,17 +56,6 @@ hideDescription: true
 
 이 방식은 사실 한 캐릭터의 인기에 의존하는 시리즈보다 장기 확장에 유리합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 첫 애니가 게임을 다시 살린
 
 첫 엣지러너는 애니메이션으로 끝나지 않았습니다. CD 프로젝트가 2022년 엣지러너 공개와 사이버펑크 2077 업데이트가 게임 판매에 큰 영향을 줬다고 공식적으로 밝혔기 때문입니다.
@@ -87,17 +75,6 @@ hideDescription: true
 반대로 성공하면 사이버펑크 세계관에 또 하나의 인기 캐릭터 집단이 생기겠죠. 그래서 브랜드 입장에서는 위험을 분산하면서 자산을 늘리는 선택으로도 보입니다.
 
 특히 게임 세계관은 한 명의 영웅보다 수많은 의뢰와 인물이 공존하는 구조라 이런 선집형 이야기와 궁합이 좋습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 후속편보다 선집
 

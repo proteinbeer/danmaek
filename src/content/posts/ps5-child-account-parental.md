@@ -16,7 +16,6 @@ image: "/assets/posts/guide-images/playstation-ps.jpg"
 imageAlt: "PS5 게임과 시스템 설정 화면"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -38,17 +37,6 @@ hideDescription: true
 
 게임 등급과 온라인 사용자 생성 콘텐츠는 별도로 볼 필요가 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 플레이 시간 관리
 
 하루에 플레이할 수 있는 시간과 이용 가능한 시간대를 설정하면 매번 부모가 직접 종료 시간을 말하지 않아도 됩니다. 평일과 주말 규칙을 다르게 운영할 수 있는 방식이 편합니다.
@@ -61,17 +49,6 @@ hideDescription: true
 
 무료 게임 안의 아이템 구매도 실제 돈이 나갈 수 있으므로 게임 가격만 볼 문제가 아닙니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 커뮤니케이션 설정
 
 온라인 게임의 음성 채팅, 메시지, 사용자 생성 콘텐츠 접근도 가족 관리에서 제한할 수 있습니다. 자녀가 어떤 친구와 플레이하는지에 따라 너무 강한 제한보다 필요한 범위만 조절하는 편이 현실적입니다.
@@ -83,17 +60,6 @@ hideDescription: true
 자녀 보호 기능은 부모가 모든 상황을 자동으로 통제해주는 장치가 아닙니다. 게임마다 채팅 방식이 다르고 새로운 기능도 계속 생기므로 정기적으로 계정 설정을 함께 확인하는 것이 좋습니다.
 
 기술 설정은 가족 규칙을 돕는 도구로 쓰는 것이 가장 효과적입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 설정 변경 뒤 확인할 부분
 
@@ -109,13 +75,3 @@ PS5 문제 해결은 무작정 초기화하는 것보다 재현 조건을 찾는
 
 PS5는 같은 증상이라도 계정, 게임 버전, 연결 장비에 따라 원인이 달라질 수 있습니다. 그래서 가장 최근에 바꾼 설정과 문제가 시작된 시점을 기준으로 하나씩 되돌려 확인하시면 불필요한 재설치와 초기화를 줄일 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

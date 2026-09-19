@@ -57,17 +57,6 @@ DPI 하나만 보고 내 감도를 설명하기 어려운 이유가 여기에 �
 
 그래서 바탕화면에서는 달라졌는데 게임 안에서는 차이가 거의 없는 상황도 생길 수 있죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 게임 감도는 따로 계산
 
 같은 800DPI라도 게임 감도가 1인 경우와 4인 경우는 완전히 다릅니다.
@@ -95,17 +84,6 @@ DPI 하나만 보고 내 감도를 설명하기 어려운 이유가 여기에 �
 중요한 것은 유행하는 숫자가 아니라 내 손과 화면 크기, 마우스 패드 공간에 맞는 값입니다.
 
 최대 DPI를 쓰지 않는다고 마우스 성능을 버리는 것도 아닙니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. DPI 버튼이 자꾸 눌릴 때
 
@@ -139,13 +117,3 @@ DPI 하나만 보고 내 감도를 설명하기 어려운 이유가 여기에 �
 
 설정을 복사하기보다 새 화면 크기와 작업 공간에서 다시 미세 조정하시는 편이 자연스럽습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

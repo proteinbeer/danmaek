@@ -42,17 +42,6 @@ hideDescription: true
 
 한 번의 공격 기회가 중요한 보스에서는 차지 피어서 같은 단일 대상 고화력 장비가 좋습니다. 오버드라이브는 초반 패턴이 단순할 때 쓰기보다 체력이 줄고 공격이 거칠어지는 후반에 사용해 확실한 오픈 기회를 만드는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 가든 키퍼, 빠른 움직임을 통제한다
 
 가든 키퍼는 크고 느린 보스보다 빠른 반응과 거리 유지가 중요한 상대입니다. 충분한 공간을 확보하고 공격 방향을 확인한 뒤 해킹을 시작해야 하고, 보스가 가까워지면 퍼즐을 욕심내지 말고 먼저 회피하십시오.
@@ -68,17 +57,6 @@ hideDescription: true
 루나디거는 공격 가능한 순간을 놓치기 쉬우므로 보스가 제대로 노출됐을 때 해킹과 공격을 집중하고, 숨어 있거나 이동 중일 때는 자원을 아끼는 편이 좋습니다. 차지 피어서처럼 거리 영향을 덜 받는 원거리 공격 유닛이 잘 맞습니다.
 
 후반 보스는 해킹 매트릭스 부담이 커질 수 있어 스티키 밤이나 코드 제너레이터 같은 해킹 보조 장비의 가치가 올라갑니다. 몇 번 실패하더라도 장비를 전부 바꾸기 전에 회피 거리와 착지 위치부터 점검하시면 됩니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 최종 보스, 엔딩 전에 총정리한다
 
@@ -99,17 +77,6 @@ hideDescription: true
 보스를 잡은 뒤에도 어떤 장비가 잘 먹혔는지 기억해 두시면 다음 보스 준비가 빨라집니다. 근거리 압박에 약했는지, 해킹 매트릭스가 문제였는지, 원거리 공격 기회가 부족했는지 구분하면 비슷한 패턴의 적을 다시 만났을 때 바로 대응할 수 있습니다.
 
 한 번 클리어했다고 같은 장비만 고집하지 마시고 엔드게임 강화 보스에서는 다시 조정하십시오. 프라그마타는 보스 재전에서 압박이 커지기 때문에 첫 회차의 안전한 조합이 후반에는 다른 의미로 바뀔 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 첫 보스 이후의 빌드 전환
 

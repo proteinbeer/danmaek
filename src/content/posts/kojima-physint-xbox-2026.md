@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/kojima-physint-xbox-2026-01.jpg"
 imageAlt: "소니가 취소한 코지마 피진트, 이번엔 엑스박스가 살렸다"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -47,17 +46,6 @@ hideDescription: true
 
 엑스박스 입장에서는 단순 독점작 하나보다 창작자와 장기 관계를 확보하는 효과가 큽니다. 최근 퍼스트파티 전략이 흔들린다는 평가 속에서 유명 개발자의 새 IP를 가져온 것은 이미지 측면에서도 의미가 있죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 첩보 액션의 귀환
 
 피진트는 영화와 게임의 경계를 넘는 차세대 첩보 액션을 목표로 합니다. 코지마는 자신에게 익숙한 장르이지만 익숙함에 기대지 않고 새로운 장치를 넣겠다고 여러 차례 말해왔습니다.
@@ -74,17 +62,6 @@ hideDescription: true
 
 최근 라이브 서비스 실패와 제작비 증가를 겪은 뒤 소니가 개발 단계별 기준을 더 엄격하게 적용한다는 보도도 나왔습니다. 피진트는 이런 보수적인 투자 전략의 상징적인 희생작이 됐죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 엑스박스의 카드
 
 마이크로소프트는 반대로 위험을 감수하고 코지마와 관계를 넓히는 쪽을 택했습니다. 이미 OD를 함께 만들고 있어 개발 방식과 계약 구조를 서로 알고 있다는 점도 새 계약을 빠르게 만드는 데 도움이 됐을 가능성이 있습니다.
@@ -99,13 +76,3 @@ hideDescription: true
 
 몇 년 뒤 결과가 나왔을 때 이번 퍼블리셔 이동은 업계에서 자주 인용될 사례가 될 수 있죠. 대형 플랫폼이 포기한 프로젝트를 경쟁 플랫폼이 이어받아 성공시키는 그림이 나온다면 창작자와 플랫폼의 협상 관계도 달라질 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

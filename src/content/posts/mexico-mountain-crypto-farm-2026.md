@@ -15,7 +15,6 @@ image: "/assets/posts/news-images/mexico-mountain-crypto-farm-2026-01.jpg"
 imageAlt: "멕시코 산속 암호화폐 채굴장 적발, GPU 300장과 수력발전까지 노린 이유"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 draft: true
 ---
@@ -43,17 +42,6 @@ draft: true
 
 GPU를 많이 보유하는 것보다 수백 장을 24시간 돌릴 냉각과 전원 설비를 확보하는 일이 더 어렵습니다. 조직범죄가 개입했다는 의심이 커지는 이유입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 이 지역에서 네 번째 적발
 
 보도에 따르면 이 지역에서는 2025년 초 이후 비슷한 암호화폐 채굴장이 네 차례 적발됐습니다. 한 번의 우연한 시설보다 반복되는 운영 방식으로 봐야 할 정황이 쌓이고 있습니다.
@@ -65,17 +53,6 @@ GPU를 많이 보유하는 것보다 수백 장을 24시간 돌릴 냉각과 전
 암호화폐는 국경을 넘어 빠르게 이동할 수 있고 복잡한 지갑 거래를 거치면 자금 흐름을 추적하기 어려워질 수 있습니다. 조직범죄는 불법 수익을 다른 형태의 디지털 자산으로 바꾸는 방법에 관심을 가질 수밖에 없습니다.
 
 다만 모든 암호화폐 채굴이나 거래가 범죄라는 뜻은 아닙니다. 이번 사건의 핵심은 불법 전력 사용과 조직범죄 자금이 결합한 것으로 의심되는 특정 시설입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. GPU 채굴은 끝나지 않았다
 
@@ -90,17 +67,6 @@ GPU를 많이 보유하는 것보다 수백 장을 24시간 돌릴 냉각과 전
 암호화폐 지갑은 익명처럼 보일 수 있지만 대규모 채굴장은 엄청난 전기와 열, 네트워크를 필요로 합니다. 전력 사용량이 갑자기 늘거나 변압기와 냉각 설비가 설치되면 온라인 활동과 별개로 현실 세계에서 추적 가능한 흔적이 생깁니다.
 
 당국이 금융 흐름만 보는 것이 아니라 전력회사와 통신사업자, 장비 유통 기록까지 함께 보는 이유입니다. 범죄 조직이 기술적으로 정교해질수록 수사도 블록체인 분석과 전통적인 현장 수사를 같이 사용하는 방향으로 바뀌고 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 중고 GPU 시장까지 연결될 수 있다
 

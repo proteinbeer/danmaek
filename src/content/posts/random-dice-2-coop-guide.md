@@ -37,17 +37,6 @@ hideDescription: true
 
 서포터의 가장 중요한 판단은 과하게 적을 묶지 않는 것이죠. 제어를 너무 강하게 걸면 몬스터가 서폿 라인에 남아 처치가 지연되고, 오히려 딜러에게 부담이 됩니다. 서포터는 화력을 내는 쪽이 아니므로, 성장 재화를 서폿 핵심 주사위에 배분하는 방향이 효율적입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 랜덤 매칭 대응법
 
 랜덤 매칭에서는 완벽한 분업이 어렵죠. 파트너가 딜러형이면 감속·버프·성장 보조를 섞고, 파트너가 보조형이면 범위 처리 수단을 더 갖추는 식으로 유연하게 대응합니다. 최소한 내 덱 안에 광역 처리 수단 하나는 넣어두는 것이 안정적입니다.
@@ -59,17 +48,6 @@ hideDescription: true
 협동전에서 높은 웨이브에 도달하려면 딜러와 서포터의 성장 수준이 함께 맞아야 합니다. 딜러 쪽은 포식의 카오스 계열 강화에 자원을 몰아주고, 서포터 쪽은 공명과 봉인 해금을 먼저 진행하는 최단 루트가 일반적입니다.
 
 고웨이브에서는 제어 주사위의 급이 성패를 가릅니다. 다만 서포터 제어가 과하면 한 판이 지나치게 길어지는 문제가 생기므로, 제어 강도와 딜러 화력의 균형을 맞추는 것이 중요하죠. 보통 기록을 갱신할 때 이 균형을 조절하며 덱을 가다듬습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 성장 재화 투자 방향
 
@@ -83,13 +61,3 @@ hideDescription: true
 
 궁극적으로 협동전은 딜러와 서포터가 서로의 성장 곡선을 이해해야 깊어지는 콘텐츠이죠. 처음에는 운영이 쉬운 덱으로 역할 감각을 익히고, 고정 파티가 생기면 딜러·서포터 모두를 경험해보면서 어떤 역할이 편한지 찾는 것이 좋습니다. 그러면 어떤 파트너와 만나도 흐름이 흔들리지 않습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

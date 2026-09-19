@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/nvidia-huggingface-12-9b-acquisition-2026-01.j
 imageAlt: "엔비디아 허깅페이스 129억달러 인수, GPU 회사가 플랫폼까지 산 이유"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -43,17 +42,6 @@ AI 시장은 칩만 잘 만드는 것으로 끝나지 않습니다. 개발자가
 
 기술 변화는 제품 하나에서 끝나지 않고 기업 전략과 규제, 이용 습관까지 이어집니다. 왜 지금 이런 결정이 나왔는지 보면 단순한 기능 추가보다 더 큰 흐름이 보이죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. GPU 밖으로 넓어지는 AI 생태계
 
 이용자 입장에서는 엔비디아 최적화 도구와 허깅페이스 모델의 연결이 더 쉬워질 수 있습니다. 반대로 특정 하드웨어 회사가 중립적으로 쓰이던 플랫폼을 소유하면 경쟁사 모델과 장비가 같은 수준으로 노출될지 우려도 생길 수 있습니다.
@@ -69,17 +57,6 @@ AI 시장은 칩만 잘 만드는 것으로 끝나지 않습니다. 개발자가
 허깅페이스의 가치는 파일 저장소가 아니라 다양한 연구자와 기업이 같은 공간을 쓰는 중립적인 생태계에 있습니다. 엔비디아가 소유권을 가져간 뒤에도 그 중립성을 유지할 수 있느냐가 거래 금액보다 더 오래 남는 문제일 수 있죠.
 
 개인적으로는 이 지점이 가장 중요해 보이죠. 기술은 빠르게 바뀌지만 사람과 제도가 적응하는 속도는 느리기 때문에 작은 설계 차이가 시간이 지나면 큰 신뢰 차이로 이어질 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 독립 운영과 경쟁 GPU 지원이 관건
 

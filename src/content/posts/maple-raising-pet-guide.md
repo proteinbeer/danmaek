@@ -16,7 +16,6 @@ image: "/assets/posts/coupon-images/maple-raising-coupon.jpg"
 imageAlt: "메이플 키우기 방치형 RPG 게임 이미지"
 imageWidth: 454
 imageHeight: 224
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -38,17 +37,6 @@ hideDescription: true
 
 슬롯 확장은 초반보다는 '사냥 시간이 길어지는 시점'부터 효율적입니다. 하루 방치 시간이 짧다면 슬롯 확장보다 펫 하나를 업그레이드하는 것이 재화 효율이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 펫 뽑기의 정확한 목적
 
 펫 뽑기를 무조건 많이 돌리는 것은 효율적이지 않습니다. 펫 자체보다 첫 펫을 확보해 경험치 버프를 여는 것이 가장 큰 목적이기 때문입니다.
@@ -60,17 +48,6 @@ hideDescription: true
 무과금도 초반 무료 펫이나 이벤트 보상으로 펫 한 마리는 확보할 수 있습니다. 이후에는 이벤트 보상으로 슬롯이나 강화 재료를 받는 경우가 늘어납니다.
 
 펫을 여럿 갖고 있다면 주로 쓰는 펫에 강화 재료를 집중하는 것이 좋습니다. 넓게 나눠서 키우기보다 한 펫을 높이 키우는 것이 경험치 버프 효율이 좋습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 펫과 코스튬의 우선순위 비교
 
@@ -84,13 +61,3 @@ hideDescription: true
 
 매주 펫 강화 재료가 쌓이는 곳을 확인해 두고, 사용하지 않는 펫은 분해해 재료로 쓰는 것도 방법입니다. 펫을 펫으로만 보지 말고 성장 보조 장치로 접근하면 선택이 빨라집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

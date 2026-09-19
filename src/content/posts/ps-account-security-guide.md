@@ -16,7 +16,6 @@ image: "/assets/posts/guide-images/playstation-ps.jpg"
 imageAlt: "플레이스테이션 콘솔 이미지"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -35,17 +34,6 @@ hideDescription: true
 2SV를 설정하려면 **계정 관리 → 보안 → 2단계 인증 상태**로 이동하면 됩니다. 인증 방법으로 **인증 앱**이나 **문자 메시지(SMS)** 중 하나를 고르면 되는됩니다.
 인증 앱을 고르면 QR 코드를 스캔하고, 문자를 고르면 휴대폰 번호를 입력합니다. 둘 다 초기 코드를 받아 입력하면 활성화됩니다. 설정이 끝나면 **백업 코드**가 나오는데, 이건 반드시 따로 적어 두기 바랍니다. 휴대폰을 잃어버렸을 때 계정을 복구하는 열쇠가 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 패스키(Passkey)로 더 간편하게
 
 비밀번호 입력이 번거롭다면 **패스키(Passkey)**를 활용해도 좋습니다. 패스키는 비밀번호 없이 생체 인식이나 기기 인증으로 로그인하는 방식이라, 더 안전하면서도 편리합니다.
@@ -57,17 +45,6 @@ hideDescription: true
 계정에 연결된 **이메일 주소(로그인 ID)**도 관리가 중요합니다. 이메일이 유출되거나 더 이상 접속할 수 없게 되면 계정 복구가 어려워질 수 있습니다.
 
 보안 → 로그인 ID(이메일 주소)에서 새 이메일로 바꿀 수 있습니다. 변경하면 모든 기기에서 로그아웃되니, 새 이메일로 확인 절차를 마친 뒤 다시 로그인하면 됩니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 해킹이 의심될 때 대처법
 

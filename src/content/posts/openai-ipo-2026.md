@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/openai-ipo-2026-01.jpg"
 imageAlt: "오픈AI 2026년 IPO 안 한다, 샘 올트먼이 안전을 먼저 말한 배경"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -43,17 +42,6 @@ IPO를 하면 대규모 자금을 조달할 수 있지만 분기 실적과 주�
 
 기술 변화는 제품 하나에서 끝나지 않고 기업 전략과 규제, 이용 습관까지 이어집니다. 왜 지금 이런 결정이 나왔는지 보면 단순한 기능 추가보다 더 큰 흐름이 보입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 상장을 미뤄도 자금 조달은 가능
 
 상장이 미뤄졌다고 자금 문제가 곧바로 생기는 것은 아니죠. 오픈AI는 사모 투자와 파트너십을 통해 막대한 자금을 조달해 왔기 때문에 중요한 변화는 돈의 유무보다 지배구조와 책임 방식에 있습니다.
@@ -69,17 +57,6 @@ IPO를 하면 대규모 자금을 조달할 수 있지만 분기 실적과 주�
 상장을 미루는 이유를 안전 문제와 연결했다는 점은 흥미롭지만 기업의 장기 전략에는 자금 조달과 지배구조도 함께 작용합니다. 앞으로의 투자 라운드와 조직 개편이 실제로 어떤 방향인지 같이 봐야 판단이 가능하죠.
 
 개인적으로는 이 지점이 가장 중요해 보입니다. 기술은 빠르게 바뀌지만 사람과 제도가 적응하는 속도는 느리기 때문에 작은 설계 차이가 시간이 지나면 큰 신뢰 차이로 이어질 수 있죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 2027년 이후 계획과 모델 출시 속도
 

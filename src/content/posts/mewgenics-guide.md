@@ -42,17 +42,6 @@ hideDescription: true
 
 A급에는 강령술사와 수도승이 자주 이름을 올립니다. 강령술사는 시체로 언데드 부대를 소환하고 피를 빨아 회복해서 턴 이득을 보는 반면, 수도승은 원거리·근접 스탠스를 바꾸며 한 턴에 두 번 공격하는 만능형입니다. B급으로는 대장장이, 도적, 탱커가 꼽히고, 마법사와 드루이드, 심령사, 개척자 같은 C급 클래스는 조합과 아이템에 따라 성능이 크게 갈립니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 초중반 추천 파티 조합
 
 파티는 탱커, 근접 딜러, 원거리, 힐러의 균형이 중요합니다. 초반에 목걸이가 적을 때는 탱커-전사-사냥꾼-성직자 조합이 가장 안정적이죠. 탱커가 어그로를 끌고 전사가 옆에서 백스탭 보너스를 노리며, 사냥꾼은 맨 뒤에서 원거리 화력을, 성직자는 후방에서 회복을 담당하는 구조입니다.
@@ -68,17 +57,6 @@ A급에는 강령술사와 수도승이 자주 이름을 올립니다. 강령술
 속도는 민첩 기반 클래스뿐 아니라 장비와 변이 묶음으로도 확보할 수 있습니다. 다리 계열 변이는 속도에 강한 경우가 많고, 전투 속도 설정은 별개 항목이라 정작 중요한 수치는 개체 속도이죠.
 
 한 가지 주의할 점은 속도가 너무 높아 다른 원거리 개체보다 먼저 앞으로 나가면 적의 공격 범위에 먼저 걸린다는 점입니다. 전위와 후위의 속도를 나눠 설계하고, 순서가 꼬이지 않도록 팀 단위로 맞추는 편이 좋습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 백스탭과 측면 공격 보너스
 
@@ -96,17 +74,6 @@ A급에는 강령술사와 수도승이 자주 이름을 올립니다. 강령술
 
 어그로 설계에서 놓치기 쉬운 것이 힐러의 위치입니다. 힐러가 회복 범위에 딜러를 넣기 위해 앞으로 나가면 역으로 적에게 노출되므로, 힐링 범위를 보고 후위를 유지하는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 7. 전술 시점과 전투 속도 활용
 
 쿼터뷰 시점에서는 장애물이 뒤를 가려 함정이 잘 보이지 않을 수 있습니다. 이때 컨트롤 키(패드 기준 Y키)를 눌러 전술 시점 모드로 전환하면 장애물이 투명해지고 캐릭터가 단순해지므로, 칸 단위로 위치를 확인하고 이동 경로를 설계하기 좋죠. 이 모드의 키는 조작 설정에서 원하는 대로 바꿀 수 있습니다.
@@ -123,13 +90,3 @@ A급에는 강령술사와 수도승이 자주 이름을 올립니다. 강령술
 
 각 클래스의 고유 능력은 보너스 위치와 어그로 관리에 강한 것이 많습니다. 클래스별 목걸이 고유 능력의 효과 범위를 미리 파악해 두면, 턴 하나 하나에서 선택 폭이 훨씬 넓어지죠. 백스탭 보너스를 적극 활용하고 전술 시점으로 함정과 뒤에 숨은 적을 먼저 확인하는 습관이 실전에서 승률을 끌어올립니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

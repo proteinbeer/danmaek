@@ -42,17 +42,6 @@ hideDescription: true
 
 약점은 사전 퀘스트로 만들어집니다. 마라기르에서 '더 길디드 건틀릿' 라인을 따르면 '더 비터스윗 토스트'에서 결투 전에 그가 마시는 잔에 독을 주입할 수 있고, 이러면 지속 체력 소모 상태로 시작해 회피 위주의 지구전이 유리해집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 바키르: 축제의 아레나와 기절 난무
 
 바키르는 달의 장원에서 벌어지는 '더 루나 게임'이라는 결투로 코엔을 초대합니다. 이 대회는 낮은 등급의 장비로 시작해 바키르의 의심을 사지 않는 조건이 걸려 있어, 흡혈 능력 사용이 제한되는 특수 환경이죠. 능력을 쓸 수 없다면 완벽 방어와 검술만으로 버텨야 합니다.
@@ -68,17 +57,6 @@ hideDescription: true
 주요 위협은 네 가지입니다. 윅드 텐드릴은 방향이 바뀌는 채찍 공격이라 방패를 연타로 누르지 말고 방향 프롬프트에 맞춰 개별로 막으면 연속 처리가 모여 1회 그녀를 휘청이게 하죠. 보일링 블러드는 바닥에 폭발 글리프를 까는 기술, 라이프 리치는 우리 체력을 깎아 회복하는 흡수기로 반드시 끊어주어야 합니다. 라이프 오브(치유 구체)는 체력 단계를 넘을 때마다 생성되어, 있는 동안 그녀의 회복을 막기 위해 우선 파괴합니다.
 
 마지막 체력 구간에 들어서면 그녀가 순간이동 후 가까이에서 폭발 글리프를 쓰는 블러드 러시에 몰아칩니다. 이때는 거리를 벌려 글리프 밖에서 대기하다가 텐드릴 후의 텀이 돌아올 때 반격하는 편이 안정적이죠. 한편 그녀는 그레이프버그 성의 대성당에서도 조기 등장하는데, 데스 프롬 어보브 같은 강습으로 초반 데미지를 몰아주면 다음 단계가 편해집니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 브렌시스: 최종전과 기형 승천자
 
@@ -96,13 +74,3 @@ hideDescription: true
 
 전투의 결말은 게임의 결말이죠. 어떤 준비를 했든 최후의 싸움은 코엔이 직접 땀 흘린 대가에 달려 있습니다. 겨울의 법정을 차례대로 넘긴 플레이어라면 그 기량은 반드시 최종전에서 빛납니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

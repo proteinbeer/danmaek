@@ -37,17 +37,6 @@ hideDescription: true
 
 처음에는 맨손이나 저렴한 근접 무기로 작은 생물을 처리해도 충분합니다. 모든 물고기에 총알과 비싼 장비를 쓰면 초반 자금이 금방 빠지죠. 일반 개체는 저비용으로 정리하고 보스나 큰 어종에 좋은 무기를 쓰는 식으로 나누시면 효율이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 총기는 트릭샷과 궁합이 좋다
 
 원거리 무기는 단순히 안전해서 좋은 것이 아닙니다. 공중 처치, 헤드샷, 노스코프 같은 트릭샷을 만들기 쉬워 킬 점수와 판매 수익까지 끌어올릴 수 있죠.
@@ -59,17 +48,6 @@ hideDescription: true
 거미게를 처치했다고 바로 다음 단계가 끝나는 것은 아닙니다. 퀘스트에 필요한 거미게 전리품을 챙겨 등대 쪽 진행 인물에게 가져가야 보트와 다음 지역으로 이어집니다.
 
 보스 전리품을 판매하거나 놓고 이동하는 실수가 가장 아깝습니다. 처음 보는 고유 아이템은 퀘스트가 끝날 때까지 보관하시는 편이 안전하죠. 소환 미끼, 전투 준비, 전리품 반납 세 가지만 기억하시면 거미게에서 오래 막힐 이유는 거의 없습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 부착물은 실수 구매를 줄인다
 
@@ -83,17 +61,6 @@ hideDescription: true
 
 여기까지 왔다면 낚싯대보다 보트 이동과 전투 장비 회복 준비가 더 중요해집니다. 협동에서는 역할을 나누어 한 명이 보스 움직임을 유도하고 나머지가 안전거리에서 공격하는 방식이 편하죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 7. 맨손 마무리는 별도 도전 과제다
 
 최종 보스를 맨손으로 마무리하는 핸디맨 도전 과제가 있죠. 처음 클리어에서는 굳이 이 조건까지 노리지 않고 안전하게 엔딩을 본 뒤 별도 도전으로 분리하시는 편이 좋습니다.
@@ -106,13 +73,3 @@ hideDescription: true
 
 특히 퀘스트 전리품과 희귀 드립은 일반 판매 물고기와 분리해 두는 습관이 좋죠. 패치가 빠른 게임이라는 점도 기억하셔야 합니다. 이상한 상황이 나오면 내 실수라고 단정하기 전에 스팀 공지의 최신 버전과 현재 설정을 먼저 확인하시는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

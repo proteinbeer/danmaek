@@ -15,7 +15,6 @@ image: "/assets/posts/news-images/iphone-duo-display-250-usd-2026-01.jpg"
 imageAlt: "아이폰 듀오 화면 한 장에 250달러설, 폴더블이 비싼 이유 보인다"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 draft: true
 ---
@@ -43,17 +42,6 @@ draft: true
 
 기술 변화는 제품 하나에서 끝나지 않고 기업 전략과 규제, 이용 습관까지 이어집니다. 왜 지금 이런 결정이 나왔는지 보면 단순한 기능 추가보다 더 큰 흐름이 보입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 폴더블 패널이 비쌀 수밖에 없는 이유
 
 부품 가격이 높으면 수리비에도 영향을 줄 가능성이 있습니다. 다만 소비자 수리 비용은 부품 단가만으로 결정되지 않고 공임, 재고, 보증 정책이 함께 들어가기 때문에 250달러설만으로 실제 화면 교체비를 계산할 수는 없습니다.
@@ -69,17 +57,6 @@ draft: true
 원가 추정은 흥미롭지만 완제품 가격에서 한 부품만 떼어 설명하면 오해가 생기기 쉽습니다. 연구개발과 물류, 마케팅, 수리 지원까지 포함된 전체 비용 구조를 알 수 없기 때문에 이번 수치는 폴더블 패널의 비싼 특성을 보여주는 참고 자료로 보는 편이 좋습니다.
 
 개인적으로는 이 지점이 가장 중요해 보입니다. 기술은 빠르게 바뀌지만 사람과 제도가 적응하는 속도는 느리기 때문에 작은 설계 차이가 시간이 지나면 큰 신뢰 차이로 이어질 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 공급망 보도로 다시 확인할 필요
 

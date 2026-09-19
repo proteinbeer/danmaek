@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/dmatrix-nvlink-2026-01.jpg"
 imageAlt: "엔비디아 경쟁 AI칩도 엔비디아 서버에 들어간다, 이상한 동맹"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -55,17 +54,6 @@ PC에서 운영체제와 플랫폼을 잡은 회사가 여러 하드웨어를 �
 
 경쟁 칩이 팔려도 엔비디아 생태계가 커질 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 경쟁자를 안으로 넣는 이유
 
 엔비디아가 모든 특수 AI칩을 직접 막으려 하면 고객은 다른 데이터센터 구조를 만들 이유가 생깁니다.
@@ -86,17 +74,6 @@ PC에서 운영체제와 플랫폼을 잡은 회사가 여러 하드웨어를 �
 
 경쟁사 기술을 쓰면서도 경쟁사의 생태계를 빌리는 이유입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 2027년이 실제 시험대
 
 디매트릭스 랩터 칩 설계는 2026년 말 완료를 목표로 하고 통합 시스템은 2027년부터 나올 예정입니다.
@@ -116,17 +93,6 @@ CUDA와 네트워크, 서버 설계, 소프트웨어 도구가 묶여 있어 다
 경쟁칩까지 NVLink 안으로 들어오면 이 해자는 더 넓어집니다.
 
 엔비디아가 모든 경주에서 직접 1등하지 않아도 경기장 자체를 소유하는 쪽으로 가는 모습이 보입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. AI칩 경쟁의 새로운 형태
 
@@ -152,13 +118,3 @@ AI 데이터센터는 CPU와 GPU, 추론 가속기, 네트워크 칩이 한 시�
 
 AI칩 경쟁에서 벤치마크 숫자와 개발자 편의성이 함께 중요한 이유입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

@@ -43,17 +43,6 @@ hideDescription: true
 
 명중 보장은 단순히 한 번의 공격을 맞히는 것을 넘어, 백스탭 같은 위치 보너스를 안정적으로 챙기는 기반이 됩니다. 전투 전술에서 다루는 백스탭 25% 추가 데미지를 항상 노릴 수 있는 환경을 만드는 장비가 가치가 높은 편이죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 세트 보너스와 시너지 설계
 
 같은 시리즈의 장비를 여러 부위에 맞추면 세트 보너스가 발동하는 경우가 있습니다. 세트 보너스는 능력치 상승이나 추가 효과 형태로 제공되며, 부위 수에 따라 효율이 달라지므로 몇 부위를 맞출지 선택이 중요합니다.
@@ -74,17 +63,6 @@ hideDescription: true
 
 이 조합은 가이드일 뿐, 실제로는 얻은 아이템의 수치를 비교해 우선순위를 바꾸는 편이 좋죠. 특히 후반 지역에서는 클래스 티어보다 장비 세트가 전투 결과를 더 크게 좌우할 때도 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 아이템 파밍과 관리 요령
 
 장비는 모험에서 바로 주어지기 때문에, 원하는 수치가 안 나올 때마다 같은 지역을 반복하는 파밍이 필요합니다. 목걸이 해금을 위해 지나온 이전 지역의 보상이 후반 빌드의 재료가 되는 경우도 많으니, 지역 클리어 후 남는 라운드를 정비 용도로 돌리는 것이 효율적이죠.
@@ -101,13 +79,3 @@ hideDescription: true
 
 결론적으로 장비는 아이템 자체 수치만큼 시점이 중요하죠. 방금 뽑은 우수 개체에 명중 보장 아이템과 맞는 세트를 얹어주면 전투 효율이 급격히 올라가며, 이 흐름이 전체 파티의 클리어 속도를 결정합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

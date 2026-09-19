@@ -15,7 +15,6 @@ image: "/assets/posts/news-images/wow-12-2-eclipse-2026-01.jpg"
 imageAlt: "와우 12.2 이클립스 공개, 잘아타스가 세계혼에 가까워진다"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 draft: true
 ---
@@ -43,17 +42,6 @@ draft: true
 
 새 결정은 이전 콘텐츠의 반응과 시장 변화가 쌓인 결과인 경우가 많습니다. 과거 방식에서 무엇이 부족했는지 보면 이번 선택이 해결하려는 문제가 더 선명하게 보입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 월드소울 사가 중반의 분기점
 
 장기 서사는 다음 확장팩 예고가 너무 빨리 나오면 현재 이야기가 중간 과정처럼 느껴질 수 있습니다. 그래서 이클립스가 자체적으로 만족스러운 지역과 보스, 결말을 제공하는지가 중요합니다.
@@ -69,17 +57,6 @@ draft: true
 장기 서사의 장점은 다음 이야기를 미리 준비할 수 있다는 점이지만 현재 확장팩의 결말이 약해질 위험도 있습니다. 이클립스가 다음 작품을 위한 다리이면서 동시에 자체적인 절정을 만들어야 하는 이유입니다.
 
 개인적으로는 이 부분이 가장 흥미롭습니다. 작은 방향 변화가 다른 작품과 서비스에도 반복될 때 일회성 실험이 아니라 회사 전체 전략으로 굳어지는 경우가 많기 때문입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 신규 레이드와 지역 공개를 기다릴 차례
 

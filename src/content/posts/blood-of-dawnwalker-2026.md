@@ -17,7 +17,6 @@ image: "/assets/posts/news-images/blood-of-dawnwalker-2026-01.jpg"
 imageAlt: "더 블러드 오브 던워커 대표 이미지"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -46,17 +45,6 @@ hideDescription: true
 
 코엔이 피를 마시면 화면 하단의 '오염 레벨'이 올라갑니다. 오염 레벨이 높을수록 뱀파이어 특전을 더 많이 구입할 수 있는 구조입니다. 낮과 밤의 전환, 흡혈과 인간성 사이의 균형이 게임의 핵심이죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 선택이 만드는 이야기와 후속작
 
 레벨 울브스는 이용자의 선택이 서사와 플레이 전반에 직접적인 영향을 주도록 설계했다고 밝혔습니다. 같은 사건이라도 누구를 돕고 어디로 향하느냐에 따라 이야기의 결이 달라지는 구조입니다. 서사 중심 RPG를 표방하는 만큼, 대화와 결정의 비중이 큽니다.
@@ -69,13 +57,3 @@ hideDescription: true
 
 패키지 버전 초회 동봉 특전과 다운로드 예약 특전인 '산고라 나그네의 갑옷 세트'는 선행 개방 콘텐츠로, 지금 받지 않아도 게임을 진행하며 획득할 수 있습니다. '위쳐3에서 검술과 탐험, 선택의 재미를 좋아했던' 이용자에게 특히 추천할 만한 신작입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

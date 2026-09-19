@@ -16,7 +16,6 @@ image: "/assets/posts/guide-images/playstation-ps.jpg"
 imageAlt: "PS5 게임과 시스템 설정 화면"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -38,17 +37,6 @@ PS5의 사용자 및 계정에서 프로필 관련 메뉴로 들어가 온라인
 
 원하는 이름이 이미 사용 중이면 다른 조합을 선택해야 합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 변경 비용 확인
 
 첫 변경과 이후 변경의 비용 정책이 다를 수 있으므로 최종 확인 화면에서 현재 계정에 적용되는 금액을 확인합니다. PS Plus 가입 여부에 따라 조건이 달라질 수 있는 시기도 있습니다.
@@ -61,17 +49,6 @@ PS5의 사용자 및 계정에서 프로필 관련 메뉴로 들어가 온라인
 
 오래된 PS4 게임을 자주 하신다면 해당 타이틀 호환 정보를 먼저 확인합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 이전 ID 표시 활용
 
 친구가 새 이름을 알아보지 못할까 걱정된다면 일정 기간 이전 온라인 ID를 프로필에 함께 표시하는 옵션을 활용할 수 있습니다. 갑자기 이름이 바뀌어 친구가 누구인지 모르는 상황을 줄여줍니다.
@@ -83,17 +60,6 @@ PS5의 사용자 및 계정에서 프로필 관련 메뉴로 들어가 온라인
 이름이 마음에 들지 않는다고 새 PSN 계정을 만들면 구매 게임, 트로피, 친구 관계가 분리됩니다. 단순 이름 문제라면 온라인 ID 변경이 훨씬 자연스러운 해결책입니다.
 
 다만 변경 전 오래된 게임 호환성과 새 이름을 충분히 확인하는 편이 안전합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 설정 변경 뒤 확인할 부분
 
@@ -109,13 +75,3 @@ PS5 문제 해결은 무작정 초기화하는 것보다 재현 조건을 찾는
 
 PS5는 같은 증상이라도 계정, 게임 버전, 연결 장비에 따라 원인이 달라질 수 있습니다. 그래서 가장 최근에 바꾼 설정과 문제가 시작된 시점을 기준으로 하나씩 되돌려 확인하시면 불필요한 재설치와 초기화를 줄일 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

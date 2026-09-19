@@ -38,17 +38,6 @@ hideDescription: true
 
 한 번에 오래 앉아 있는 것보다 조금씩 진행하는 분이라면 휴대 모드 만족도가 높을 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. PC는 그래픽 설정 자유도
 
 PC판은 해상도와 세부 그래픽, 레이 트레이싱 같은 옵션을 직접 조절할 수 있죠. 충분한 그래픽카드를 갖췄다면 60FPS 이상 안정성을 노리기 쉽고, 마우스와 패드 환경도 취향대로 바꿀 수 있습니다.
@@ -61,17 +50,6 @@ PC판은 해상도와 세부 그래픽, 레이 트레이싱 같은 옵션을 직
 
 프라그마타는 싱글플레이 중심이라 친구 플랫폼과 맞출 필요가 없다는 점도 선택을 편하게 합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 도전 과제와 트로피 차이
 
 스팀과 엑스박스에는 35개의 도전 과제가 있고 플레이스테이션은 플래티넘을 포함한 트로피 구성이 별도로 있습니다. 완전 완료를 즐기는 분이라면 평소 쓰는 플랫폼의 업적 생태계도 선택 기준이 될 수 있죠.
@@ -83,17 +61,6 @@ PC판은 해상도와 세부 그래픽, 레이 트레이싱 같은 옵션을 직
 PC는 스팀 클라우드와 로컬 백업을 함께 활용할 수 있어 저장 관리가 편합니다. 스위치2는 기기 자체의 휴대성이 강해 같은 장소가 아니어도 이어서 플레이하기 쉽죠.
 
 여러 기기를 오가며 같은 저장을 공유하는 크로스 세이브를 당연하게 기대하지 마시고 각 플랫폼의 저장 체계를 기준으로 생각하시는 편이 좋습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 추천은 사용 환경에 따라 다르다
 

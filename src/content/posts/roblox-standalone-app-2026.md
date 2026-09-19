@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/roblox-standalone-app-2026-01.jpg"
 imageAlt: "로블록스 게임이 밖으로 나온다, 독립 앱 허용이 큰 변화인 이유"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -63,17 +62,6 @@ hideDescription: true
 
 아직 모든 게임이 바로 독립 앱으로 전환되는 것은 아니며 지원 범위가 단계적으로 넓어질 가능성이 크죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. PC와 콘솔 시장까지 연결
 
 독립 앱은 로블록스 이용자가 아닌 사람에게 게임을 보여줄 수 있다는 의미가 있습니다.
@@ -101,17 +89,6 @@ hideDescription: true
 현재는 밖으로 나갈 수 있게 해주는 쪽이 생태계 전체의 매력을 높일 수도 있죠.
 
 독립 배포 이후에도 로블록스와 어떤 방식으로 연결을 유지할지는 중요한 관전 지점입니다라는 점은 함께 보셔야 합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 게임 플랫폼의 경계가 흐려진다
 
@@ -141,13 +118,3 @@ hideDescription: true
 
 결국 지금 단계에서는 화제성보다 실제 제품과 서비스가 어떻게 달라지는지 확인하는 것이 가장 현실적인 접근입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

@@ -37,17 +37,6 @@ hideDescription: true
 
 이 문제는 설정 하나만 바꿔서 끝나는 경우도 있지만, 원인부터 구분하지 않으면 같은 작업을 반복하게 됩니다. 먼저 증상이 언제부터 시작됐는지, 다른 게임이나 다른 주변기기에서도 같은지 확인하시면 범위를 빠르게 줄일 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 증상부터 정확히 나누기
 
 다음으로 현재 2.4GHz 와이파이라면 5GHz 네트워크에 다시 연결합니다. 이어서 이어폰 등록을 해제했다가 다시 페어링하고 펌웨어와 배터리 상태도 확인하죠. 순서를 지키면 어느 단계에서 문제가 생기는지 확인하기 쉬워집니다.
@@ -60,17 +49,6 @@ hideDescription: true
 
 오디오 문제인데 인터넷 설정을 보라는 말이 이상하게 들릴 수 있습니다. 하지만 무선 기기는 서로 같은 공간을 나눠 쓰기 때문에 스위치 2에서는 소리 문제와 와이파이 문제가 실제로 연결돼 있습니다
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 데이터와 계정은 따로 확인
 
 여기까지 해도 같은 증상이 계속된다면 한 번에 여러 설정을 바꾸지 않는 것이 좋습니다. 다른 스마트폰이나 PC가 이어폰을 먼저 잡고 있으면 스위치 2 연결이 실패할 수 있죠. 다른 게임이나 다른 네트워크, 다른 케이블처럼 비교할 수 있는 조건이 있다면 하나씩 바꿔보는 편이 원인을 찾기 쉽습니다.
@@ -82,17 +60,6 @@ hideDescription: true
 게임 데이터, 세이브 데이터, 계정 이용 권한은 스위치에서 서로 다른 항목으로 관리되는 경우가 많죠. 화면에 게임 아이콘이 보인다고 세이브와 이용 권한까지 모두 같은 위치에 있다는 뜻은 아닙니다.
 
 중요한 게임을 오래 플레이하셨다면 문제를 해결하기 전에 세이브가 어디에 있는지 먼저 확인하시는 편이 안전합니다. 특히 사용자 삭제와 본체 초기화는 일반적인 게임 데이터 삭제보다 영향 범위가 훨씬 크죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 가장 먼저 확인할 항목
 

@@ -42,17 +42,6 @@ hideDescription: true
 
 스팀 친구가 아니어도 서버 브라우저를 이용해 방을 찾을 수 있습니다. 공개 방에 들어갈 때는 지역과 연결 상태를 보고, 음성 소통이 가능한지도 시작 전에 확인하시는 편이 좋죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 매치메이킹이 추가됐다
 
 1점0점2 패치에서는 혼자 플레이를 시작하려는 사람을 위해 매치메이킹이 추가됐습니다. 세 명 필수라는 구조 때문에 가장 필요했던 기능 중 하나가 출시 일주일 만에 들어온 셈입니다.
@@ -69,17 +58,6 @@ hideDescription: true
 
 처음 만난 세 명은 누가 장님, 벙어리, 귀머거리를 맡을지 먼저 정해야 합니다. 역할을 정하지 않고 시작하면 퍼즐이 나오기 전부터 서로 같은 정보를 기다리는 상황이 생길 수 있죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 기본 신호를 먼저 맞춘다
 
 낯선 사람끼리는 자체 암호를 쓸 수 없으므로 예, 아니오, 멈춰, 다시 정도만 먼저 통일하시면 됩니다. 너무 많은 규칙을 설명하다 보면 시작 전부터 피곤해집니다.
@@ -95,17 +73,6 @@ hideDescription: true
 소리가 안 들리거나 말이 전달되지 않으면 퍼즐 실력과 상관없이 진행이 막힐 수 있습니다.
 
 게임 시작 전에 세 명의 음성이 모두 정상적으로 들리는지 확인하셔야 하죠. 한 사람의 마이크가 작거나 끊기면 역할 제한과 겹쳐 실제 오류인지 게임 규칙인지 구분하기 어려워집니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 혼자 사도 되지만 재미는 팀에 달렸다
 

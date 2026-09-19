@@ -16,7 +16,6 @@ image: "/assets/posts/guide-images/wardogs-2026-01.jpg"
 imageAlt: "워독스(WARDOGS) 100인 3팀 전쟁 게임 대표 이미지"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -36,17 +35,6 @@ hideDescription: true
 
 매일 재부팅해야만 정상이라면 장비 과열이나 펌웨어 문제도 볼 수 있습니다. 반복되는 패턴이 있는지 기록하시면 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 업로드 포화
 
 클라우드 백업과 영상 업로드가 회선 업로드를 가득 채우면 게임 패킷이 지연되거나 버려질 수 있습니다.
@@ -58,17 +46,6 @@ hideDescription: true
 랜선 접촉 불량이나 손상된 공유기 포트에서도 오류가 생길 수 있습니다. 다른 케이블과 다른 LAN 포트로 바꿔보는 테스트가 유용합니다.
 
 기가인터넷인데 링크 속도가 자꾸 100Mbps로 내려간다면 케이블 상태를 더 의심할 만합니다. 게임 문제처럼 보여도 물리 연결이 원인일 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 시간대 비교
 
@@ -82,13 +59,3 @@ hideDescription: true
 
 워독스에서는 큰 파일을 빨리 받는 능력보다 작은 데이터를 꾸준히 주고받는 능력이 중요합니다. 순간이동이 반복되면 FPS 설정보다 네트워크 손실부터 확인하겠습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

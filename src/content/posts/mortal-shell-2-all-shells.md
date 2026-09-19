@@ -38,17 +38,6 @@ hideDescription: true
 
 처치 후 전투가 끝난 위치의 몸을 조사해야 셸 목록에 추가되므로 보스 보상과 셸 획득을 별개로 기억하셔야 합니다. 냉기 저항 능력을 올릴 수 있어 드뢰그전에서 상성이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 스메르트의 피의 공물과 그라구의 퀘스트
 
 스메르트는 아웃스커츠 오브 녹테 남서쪽의 돌 원에서 적을 석진 위에 쓰러뜨려 세 번의 피의 공물을 완성한 뒤 동상 근처 몸을 조사하면 얻습니다. 단순히 시체를 찾는 방식이 아니라 주변 전투와 상호작용을 이해해야 하죠.
@@ -61,17 +50,6 @@ hideDescription: true
 
 핵심은 충실한 분신으로 적의 시선을 분산하고 공격까지 맡기는 운영입니다. 리졸브를 짧게 접근해 회복하고 거리를 벌린 뒤 분신을 투입하는 흐름을 반복하며, 서 아이작 2페이즈와 말본 오프스프링처럼 빠른 다단 공격 보스에서 특히 유용합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 라즐로와 사리엘, 후반 보스 셸
 
 라즐로는 하이 로드 코트야드 서쪽 큰 계단을 따라 지하로 내려가 벨렌을 쓰러뜨린 뒤 뒤쪽 방의 몸을 조사하면 얻습니다. 사리엘은 더 사일런트 스텝 남동쪽에서 처음 쓰러뜨리면 체임버 오브 비커밍으로 이어지며, 두 번째 전투에서 부활용 무덤 네 개를 파괴해야 최종 해금됩니다. 둘 다 초반부터 노리기보다 후반 탐험 목표로 두는 편이 자연스럽죠.
@@ -80,13 +58,3 @@ hideDescription: true
 
 새 셸을 얻었다고 곧바로 모든 자원을 투자할 필요는 없습니다. 기본 능력만 확인한 뒤 손에 맞는 셸과 무기 하나를 정해 키우는 편이 성장 재료를 아끼는 길입니다. 특정 보스에서 막히면 저항, 회피, 분신처럼 보스 패턴과 직접 맞물리는 능력을 가진 셸로 바꾸는 것이 정석적인 대응이 되며, 최종 보스 뒤 자유 탐험이나 새 게임 플러스 진입 전에 놓친 셸을 한꺼번에 회수하시면 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

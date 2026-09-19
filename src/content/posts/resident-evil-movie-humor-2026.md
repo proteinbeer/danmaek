@@ -15,7 +15,6 @@ image: "/assets/posts/news-images/resident-evil-movie-humor-2026-01.jpg"
 imageAlt: "새 바이오하자드 영화가 너무 웃겼다, 테스트 상영 뒤 유머를 줄인 이유"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 draft: true
 ---
@@ -63,17 +62,6 @@ draft: true
 
 감독이 유머를 줄였다는 것은 장르의 중심을 다시 공포에 맞춘 선택으로 보입니다라는 점은 함께 보셔야 합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 원작 팬이 원하는 바이오하자드
 
 바이오하자드 팬은 작품마다 서로 다른 분위기를 경험해 왔습니다.
@@ -102,17 +90,6 @@ draft: true
 
 다만 이번 수정이 균형 조정인지 대폭 변화인지는 최종판을 봐야 합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 게임 원작 영화의 어려움
 
 게임은 이용자가 직접 움직이고 실패하며 공포를 체험하지만 영화는 정해진 흐름을 따라갑니다.
@@ -137,17 +114,6 @@ draft: true
 
 후속 발표와 이용자 반응을 함께 보시면 처음 기사만 읽었을 때보다 변화의 크기를 더 정확하게 판단할 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 7. 실제 적용에서 볼 부분
 
 특히 관련 회사가 어떤 부분을 계속 유지하고 어떤 부분을 수정하는지가 중요합니다.
@@ -170,7 +136,6 @@ image: "/assets/posts/news-images/resident-evil-movie-humor-2026-01.jpg"
 imageAlt: "새 바이오하자드 영화가 너무 웃겼다, 테스트 상영 뒤 유머를 줄인 이유"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 draft: true
 ---

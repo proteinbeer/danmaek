@@ -53,17 +53,6 @@ USB C는 단자 모양이고 실제 데이터 속도는 연결 규격에 따라 
 
 그래서 저장장치 고장 판단 전에 케이블 비교가 꼭 필요합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 허브와 도킹 장치 제거
 
 외장 SSD를 USB 허브나 노트북 도킹 장치에 연결하면 다른 장치와 대역폭을 공유할 수 있습니다.
@@ -84,17 +73,6 @@ USB C는 단자 모양이고 실제 데이터 속도는 연결 규격에 따라 
 
 큰 영상 파일 하나와 작은 파일 묶음을 각각 복사해 차이를 비교하시는 편이 좋죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 캐시가 끝나면 속도가 떨어질 수 있다
 
 일부 SSD는 빠른 캐시 영역을 이용해 초반 쓰기 속도를 높입니다.
@@ -114,17 +92,6 @@ USB C는 단자 모양이고 실제 데이터 속도는 연결 규격에 따라 
 책상 위에서 통풍이 되는 상태로 테스트하고, 두꺼운 천이나 다른 장비 아래에 깔아두지 않는 편이 좋습니다.
 
 외장 케이스를 직접 구성했다면 방열판과 써멀패드가 제대로 닿는지도 확인할 만합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 속도는 SSD 하나가 결정하지 않는다
 
@@ -154,13 +121,3 @@ SSD가 거의 가득 찬 상태에서는 내부 정리 작업에 쓸 공간이 �
 
 속도 측정 직전에 드라이브를 가득 채워놓고 새 제품의 광고 수치와 비교하면 조건 자체가 다를 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

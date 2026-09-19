@@ -17,7 +17,6 @@ image: "/assets/posts/news-images/gta6-dualsense-2026-01.jpg"
 imageAlt: "GTA 6 한정판 듀얼센스 무선 컨트롤러 검정·흰색 모델"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -48,17 +47,6 @@ GTA 6를 기다리고 있다면 11월 19일에 게임만 나오는 게 아닙니
 
 검정 모델은 플레이스테이션 다이렉트 중심으로 더 제한적으로 풀립니다. 일부 지역에서는 선택된 판매점에서도 판매되지만, 소니가 두 디자인의 희소성을 똑같이 잡지는 않은 셈이죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 9월 10일이 먼저 중요한 이유
 
 게임 출시는 11월이지만 패드를 원한다면 먼저 볼 날짜는 9월 10일입니다. 독일, 프랑스, 오스트리아, 스페인, 이탈리아를 포함한 지원 지역에서 현지 시간 오전 10시부터 예약이 시작됩니다.
@@ -74,17 +62,6 @@ GTA 한정판이라는 이름만으로 수요가 몰릴 가능성이 있기 때�
 아직 어떤 차량, 총기, 환경에서 저항감과 진동이 달라지는지 세부 목록까지 공개되지는 않았습니다. 따라서 한정판 패드가 일반 듀얼센스보다 추가 기능을 제공한다고 이해하면 안 되죠.
 
 하드웨어 기능은 같은 계열이고 차별점은 디자인입니다. 결국 이번 제품은 성능 업그레이드보다 GTA 6 출시일 자체를 하나의 기념일처럼 만드는 상품에 가깝습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. GTA 6가 게임 밖까지 확장되는 방식
 

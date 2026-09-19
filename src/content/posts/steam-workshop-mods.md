@@ -49,17 +49,6 @@ hideDescription: true
 
 모든 게임에 공통으로 통하는 완벽한 순서는 없으므로 다른 게임의 모드 정렬법을 그대로 적용하시면 안 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 업데이트 뒤 갑자기 안 되는 이유
 
 게임 본편이 업데이트되면 예전 모드가 새 버전의 파일 구조와 맞지 않을 수 있습니다.
@@ -80,17 +69,6 @@ hideDescription: true
 
 무작정 폴더를 지우기 전에 세이브가 모드에 의존하는지도 먼저 확인하셔야 합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 세이브 파일과 모드의 관계
 
 건물, 아이템, 직업, 맵을 추가하는 모드는 세이브 안에 해당 정보를 기록하는 경우가 많습니다.
@@ -110,17 +88,6 @@ hideDescription: true
 저는 모드 관리에서 가장 중요한 건 많이 설치하는 능력이 아니라 어떤 변경을 넣었는지 기억할 수 있는 수준으로 유지하는 것이라고 봅니다.
 
 구독 목록을 정리하고 큰 업데이트 전에는 세이브를 백업하는 습관만 있어도 대부분의 모드 문제를 훨씬 편하게 다룰 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 모드 목록 자체를 기록해두기
 

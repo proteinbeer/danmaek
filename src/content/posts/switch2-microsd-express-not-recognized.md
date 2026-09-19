@@ -37,17 +37,6 @@ hideDescription: true
 
 설정을 바꾸기 전에는 현재 상태를 기억해 두는 편이 좋습니다. 여러 항목을 한꺼번에 바꾸면 무엇이 실제 원인이었는지 알기 어려워지고, 나중에 원래 상태로 되돌릴 때도 시간이 더 걸리게 되죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 교체나 초기화는 마지막
 
 다음으로 마이크로SD 익스프레스 카드를 다시 똑바로 넣고 본체를 재기동하죠. 이어서 처음 사용하는 카드라면 본체 안내에 따라 업데이트와 초기 설정을 마칩니다. 순서를 지키면 어느 단계에서 문제가 생기는지 확인하기 쉬워집니다.
@@ -60,17 +49,6 @@ hideDescription: true
 
 스위치 2에서 저장 장치 문제가 생겼을 때 가장 흔한 착각은 용량이 크면 다 된다고 생각하는 것입니다. 이번 세대는 용량보다 규격이 먼저입니다
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 설정과 해결 순서
 
 여기까지 해도 같은 증상이 계속된다면 한 번에 여러 설정을 바꾸지 않는 것이 좋습니다. 카드를 컴퓨터에서 임의로 포맷하면 다시 본체에서 초기화가 필요할 수 있습니다. 다른 게임이나 다른 네트워크, 다른 케이블처럼 비교할 수 있는 조건이 있다면 하나씩 바꿔보는 편이 원인을 찾기 쉽습니다.
@@ -82,17 +60,6 @@ hideDescription: true
 게임 데이터, 세이브 데이터, 계정 이용 권한은 스위치에서 서로 다른 항목으로 관리되는 경우가 많습니다. 화면에 게임 아이콘이 보인다고 세이브와 이용 권한까지 모두 같은 위치에 있다는 뜻은 아닙니다.
 
 중요한 게임을 오래 플레이하셨다면 문제를 해결하기 전에 세이브가 어디에 있는지 먼저 확인하시는 편이 안전합니다. 특히 사용자 삭제와 본체 초기화는 일반적인 게임 데이터 삭제보다 영향 범위가 훨씬 크죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 여기서 자주 생기는 착각
 

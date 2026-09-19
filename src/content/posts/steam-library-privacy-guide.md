@@ -45,17 +45,6 @@ hideDescription: true
 
 주의할 점은 게임을 하는 순간 친구에게 '게임 중(게임명)'으로 보일 수 있다는 것입니다. 게임 자체의 플레이 기록을 완전히 숨기려면 아래의 프로필 설정을 함께 켜두시면 되죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 프로필과 게임 기록 비공개로 바꾸기
 
 플레이 기록을 다른 사람이 보지 못하게 하려면 프로필 개인 정보 설정을 변경합니다.
@@ -75,17 +64,6 @@ hideDescription: true
 - 좋아요 상태나 획득 도전 과제를 숨기고 싶다면 **도전 과제** 항목도 비공개로 둡니다.
 
 이 설정은 저장 직후 바로 적용됩니다. 친구 목록에서 보는 나의 프로필 화면이 실제 다른 사람에게 보이는 화면과 같은지 한 번 비교해보시면 확실합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 게임 플레이 시간을 숨기는 법
 
@@ -107,13 +85,3 @@ hideDescription: true
 
 개인 정보 설정을 바꾼 뒤에는 링크를 공유했던 지인에게 프로필이 어떻게 보이는지 확인해보시기 바랍니다. 원하는 수준이 되도록 항목을 조합하면 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

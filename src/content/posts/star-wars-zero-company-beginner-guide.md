@@ -38,17 +38,6 @@ hideDescription: true
 
 반대로 스카운드럴이나 스카우트는 재미는 높지만 타이밍을 읽어야 하는 순간이 많습니다. 처음에는 강한 조합보다 실수했을 때 복구하기 쉬운 조합을 고르시는 편이 좋죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 무기는 한 번 쏘고 끝이 아니다
 
 제로 컴퍼니의 무기는 단순히 공격력 숫자만 보시면 안 됩니다. 어떤 무기는 행동 포인트를 적게 써서 이동이나 스킬을 남길 수 있고, 어떤 무기는 강하지만 한 번 쏘면 턴이 거의 끝납니다.
@@ -61,17 +50,6 @@ hideDescription: true
 
 헤비나 솔저 한 명, 장거리나 기동 딜러 한 명, 보조 역할 한 명 정도로 균형을 잡아 보시면 초반 전투 체감이 확실히 달라집니다. 분대가 편해지면 인텔과 자원 운용도 더 여유가 생깁니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 지도 화면도 전투만큼 중요하다
 
 이 게임은 미션만 보고 달리면 손해를 보기 쉽죠. 작전과 전술 미션은 사이클 단위로 굴러가고, 인텔도 한정되어 있어 모든 선택에 기회비용이 붙습니다.
@@ -83,17 +61,6 @@ hideDescription: true
 영구 사망은 기본으로 켜져 있지만 반드시 그대로 할 필요는 없습니다. 초반 시스템을 익히는 단계라면 끄고 배우는 것도 충분히 괜찮습니다.
 
 이 게임의 재미는 처절함에도 있지만, 그 전에 시스템을 이해하는 데 있죠. 아직 명중률, 엄폐, 오버워치, 어드밴티지 사용 감각이 안 잡혔다면 먼저 끄고 익히신 뒤 나중에 켜도 늦지 않습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 초보가 제일 많이 하는 실수
 

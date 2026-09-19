@@ -49,17 +49,6 @@ USB로 연결했을 때는 되는데 블루투스에서만 안 된다면 스팀�
 
 반대로 여기서부터 입력이 이상하다면 게임을 바꿔가며 테스트하기보다 연결과 장치 상태를 먼저 해결해야 합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 스팀 입력을 켜야 좋은 게임과 꺼야 좋은 게임
 
 오래된 게임이나 특정 패드를 직접 지원하지 않는 게임에서는 스팀 입력이 큰 도움이 됩니다.
@@ -80,17 +69,6 @@ USB로 연결했을 때는 되는데 블루투스에서만 안 된다면 스팀�
 
 입력 도구를 여러 개 겹쳐 쓰는 것보다 하나의 경로로 단순하게 만드는 것이 안정적입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 게임별 레이아웃 활용
 
 스팀 입력의 장점은 게임마다 다른 버튼 구성을 저장할 수 있다는 점이죠.
@@ -110,17 +88,6 @@ USB로 연결했을 때는 되는데 블루투스에서만 안 된다면 스팀�
 저는 윈도우 인식, 스팀 버튼 테스트, 게임별 스팀 입력 순서로 확인하는 방식을 추천합니다.
 
 이 순서를 지키면 패드 자체 문제인지 설정 충돌인지 빠르게 나눌 수 있고 불필요한 드라이버 재설치도 줄어듭니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 무선과 유선을 번갈아 테스트
 

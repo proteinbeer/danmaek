@@ -15,7 +15,6 @@ image: "/assets/posts/news-images/project-dream-leak-2026-01.jpg"
 imageAlt: "반조 카주이의 시작 프로젝트 드림이 유출됐다, 30년 묵은 롬이 나온 이유"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 draft: true
 ---
@@ -63,17 +62,6 @@ draft: true
 
 아직 유출본의 모든 요소가 최종 반조 카주이에 직접 이어졌다고 단정할 수는 없습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 게임 보존의 가치
 
 미출시 게임은 회사 내부 서버와 오래된 저장 장치에만 남아 있다가 영원히 사라질 수 있습니다.
@@ -101,17 +89,6 @@ draft: true
 현재는 회사 입장에서는 공개 계획이 없던 소스와 내부 자료가 외부로 나간 사건입니다.
 
 어떤 범위까지 공개됐는지에 따라 위험과 의미도 달라집니다라는 점은 함께 보셔야 합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 레어의 개발 방식이 보인다
 
@@ -141,13 +118,3 @@ draft: true
 
 결국 지금 단계에서는 화제성보다 실제 제품과 서비스가 어떻게 달라지는지 확인하는 것이 가장 현실적인 접근입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

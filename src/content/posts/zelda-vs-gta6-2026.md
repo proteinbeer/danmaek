@@ -17,7 +17,6 @@ image: "/assets/posts/news-images/zelda-gta6-2026-01.jpg"
 imageAlt: "젤다의 전설 시간의 오카리나 리메이크 출시 트레일러 장면"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -44,17 +43,6 @@ GTA 6는 그 자체로 하나의 시즌입니다. 비슷한 시기에 게임을 
 
 닌텐도가 이 날짜를 택한 것은 GTA 6와 정면 승부라기보다, 우리는 우리 팬층만으로 충분하다는 자신감의 표현처럼 보입니다. 무서워서 비키지 않는다는 것만으로도 브랜드 체급을 보여줍니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 한국에서 읽히는 관전 포인트
 
 국내에서는 젤다와 GTA 6 모두 이름값이 큰 게임입니다. 그래서 누가 더 센가보다, 왜 다른 회사는 도망가는데 닌텐도는 안 도망가느냐가 훨씬 궁금증을 만듭니다.
@@ -66,17 +54,6 @@ GTA 6는 그 자체로 하나의 시즌입니다. 비슷한 시기에 게임을 
 살아남는 것은 장르가 다른 게임이 아니라 대체가 안 되는 게임이라는 지적이 설득력을 얻습니다. 겹쳐도 자기 팬들이 따라오는 브랜드와, 겹치면 손해 보는 게임은 전혀 다른 레벨입니다.
 
 시간의 오카리나 리메이크는 어떤 의미에서 그 레벨을 확인하는 시험대입니다. GTA 6라는 거대한 소비가 시작되는 2주 전에 자기 이름만으로 판매 창을 여는 것이 가능한지, 닌텐도는 스스로 증명하려는 것처럼 보입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 시장이 피할 때 움직이는 브랜드
 

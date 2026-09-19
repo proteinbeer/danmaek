@@ -38,17 +38,6 @@ hideDescription: true
 
 마이클 입장에서는 전화기와 주민이 몰린 지역을 그냥 지나치기 어렵습니다. 한 명을 오래 추격하는 동안 다른 쪽에서 신고가 계속 진행되면 후반에 경찰과 지원 인원이 늘어나기 때문이죠. 특수 목표, 전화기, 주민이 모이는 지역을 우선적으로 살피고 민간인이 마을을 조직하는 속도를 늦추는 것이 마이클의 핵심 과제입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 체포 시스템 이해
 
 마이클은 일반적인 방식으로 완전히 죽일 수 없는 존재로 설정되어 있습니다. 그렇다고 민간인이 끝까지 도망만 다녀야 하는 것은 아니며, 주민과 경찰의 저항을 충분히 키우면 마이클을 제압해 스미스 그로브 정신병원으로 돌려보내는 체포 흐름을 만들 수 있습니다.
@@ -58,17 +47,6 @@ hideDescription: true
 ## 4. 체포가 유리한 판
 
 탈출 아이템이 잘 나오지 않았거나 마이클이 주요 탈출 지점을 계속 지키는 판이라면 체포가 새로운 승리 수단이 될 수 있습니다. 주민이 많이 살아 있고 경찰 신고도 충분히 쌓였다면 후반의 숫자 우위를 활용할 여지가 크죠. 반대로 탈출 준비가 거의 끝났고 동료들의 상태가 좋지 않다면 체포 욕심을 낼 이유가 없습니다. 마이클을 막는 목적은 멋진 전투 장면을 만드는 것이 아니라 가능한 많은 주민과 민간인을 살리는 데 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 사망 이후 지원 구조
 
@@ -84,13 +62,3 @@ hideDescription: true
 
 주민 NPC는 장식이 아니라 할로윈 더 게임의 핵심 시스템입니다. 민간인은 주민을 사람 수와 정보로 바꾸고, 마이클은 그 연결이 만들어지기 전에 끊는다는 관점으로 보시면 멀티플레이의 목적이 훨씬 선명해집니다. 초반에 조용히 해둔 일이 후반 체포와 탈출의 차이를 만드는 구조라고 생각하시면 이해하기 쉽습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

@@ -36,17 +36,6 @@ hideDescription: true
 
 상대를 발견한 뒤 정면에서 켜려 하지 말고 건물 모서리, 어두운 방, 시야가 끊기는 뒷길을 이동 거점으로 만드는 습관이 중요합니다. 셰이프 점프는 빠른 이동기가 아니라 마이클의 존재 자체를 예측하기 어렵게 만드는 시스템입니다. 걷는 속도가 느리다는 약점을 억지로 보완하기보다 보이지 않는 동안 위치를 바꾸는 캐릭터라고 생각하시면 운용이 훨씬 쉬워집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 블랙아웃과 전등 조작
 
 전등과 전력은 단순한 분위기 장치가 아닙니다. 마이클이 셰이프 점프를 활용할 공간을 만들고 민간인의 시야를 제한하기 위해 조명을 끄고, 전력을 차단하고, 블랙아웃을 활용할 수 있죠. 블랙아웃은 공격 기술이라기보다 마이클이 이동할 수 있는 공간을 늘리는 기술로 보는 편이 좋습니다.
@@ -58,17 +47,6 @@ hideDescription: true
 출시 패치에서는 디텍션 펄스가 은신처에 숨은 주민을 찾는 능력이 강화됐습니다. 민간인과 주민이 집 안이나 은신 지점을 반복해서 이용하는 판이라면 탐색 시간을 줄이는 데 도움이 되죠. 마이클이 가장 손해를 보는 순간 중 하나가 이미 가까이 있는 목표를 찾지 못해 같은 건물을 계속 도는 상황입니다.
 
 리얼리티 티어는 마이클의 추가 능력 풀에 포함된 선택지 중 하나입니다. 능력 하나만 떼어 가장 좋다고 정하기보다 셰이프 점프와 다른 추적 도구를 어떻게 연결할지 보시는 편이 안전하죠. 게임은 출시 직후에도 밸런스와 버그 수정이 이어지고 있기 때문에 세부 수치만 보고 고정 조합을 정하는 것은 빠르게 낡을 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 특수 목표와 우선순위
 
@@ -84,13 +62,3 @@ hideDescription: true
 
 능력은 처치를 만드는 버튼이라기보다 상대의 계획을 끊는 도구라고 생각하시면 좋습니다. 블랙아웃으로 이동 공간을 만들고, 디텍션 펄스로 숨은 목표를 찾고, 셰이프 점프로 위치를 바꾸는 식으로 역할을 구분하면 운영이 훨씬 명확해집니다. 경찰이 늘어나기 전에 특수 목표와 고립된 주민을 처리하고, 전화기와 탈출 준비 지역에 압박을 걸어 저항 세력이 커지는 속도를 늦추는 것이 마이클의 핵심 시간 관리입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

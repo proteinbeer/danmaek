@@ -17,7 +17,6 @@ image: "/assets/posts/news-images/ai-portal-qa-2026-01.jpg"
 imageAlt: "AI 에이전트가 게임을 플레이하는 모습을 나타낸 이미지"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -44,17 +43,6 @@ AI가 글을 쓰고 코드를 짜는 이야기는 이제 놀랍지도 않습니�
 
 그럼에도 불구하고 초반 점검, 특정 구간 반복, 단순 회귀 테스트 같은 업무는 서서히 자동화 비중이 커질 가능성이 있습니다. 사람은 이상한 버그를 해석하고 우선순위를 정하는 쪽으로, AI는 반복과 기록 쪽으로 갈리는 그림이 보이기 시작합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 개발사가 먼저 반응하는 이유
 
 일반 이용자는 AI가 게임을 잘하네 정도로 웃고 넘길 수 있습니다. 하지만 개발사 입장에서는 이야기가 달라집니다.
@@ -66,17 +54,6 @@ AI가 글을 쓰고 코드를 짜는 이야기는 이제 놀랍지도 않습니�
 이 소재는 AI가 포털을 깼다는 제목으로 모을 수는 있어도, 본문은 게임 QA가 어떻게 바뀔까로 가야 힘이 생깁니다. 결국 사람들은 AI가 게임을 잘한다는 사실보다, 그래서 어떤 일이 달라질지를 더 오래 궁금해합니다.
 
 게임 업계의 자동화는 화려한 개발보다 의외로 테스트 현장에서 먼저 체감될 가능성이 높습니다. 사람이 하기 지겨워하는 구간일수록 자동화가 먼저 들어오는 것은 다른 산업과 똑같습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 가장 반복적인 일부터 들어오는 자동화
 

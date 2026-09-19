@@ -45,17 +45,6 @@ hideDescription: true
 
 저장 위치를 바꾸면 나중에 파일을 찾는 게 훨씬 편해집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 마이크와 게임 소리 함께 녹음하기
 
 화면만 남기는 게 아니라 목소리도 함께 녹화하고 싶다면 캡처 위젯에서 오디오를 설정하죠.
@@ -75,17 +64,6 @@ hideDescription: true
 - **Windows + Alt + Print Screen**: 현재 화면 캡처
 
 게임 중 갑자기 멋진 순간이 나왔을 때, 녹화를 켜두지 않아도 **Windows + Alt + G**로 마지막 순간을 잡을 수 있습니다. 배경 녹화는 설정에서 켤 수 있지만 배터리와 성능을 조금 사용하므로 노트북이라면 신경 써야 하죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 녹화 파일 찾기와 활용
 
@@ -107,13 +85,3 @@ hideDescription: true
 
 OBS는 장면(씬) 전환, 마이크와 데스크톱 오디오 분리 녹음, 해상도 설정이 자유로워, 게임 바로 부족한 부분을 모두 채워줍니다. 다만 설정 항목이 많아 처음엔 조금 어렵게 느껴지죠. 기본값으로 시작해 차근차근 익히시면 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

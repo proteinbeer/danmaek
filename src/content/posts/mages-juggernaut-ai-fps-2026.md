@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/mages-juggernaut-ai-fps-2026-01.jpg"
 imageAlt: "메이지스가 개발 중인 AI 게임 저거너트를 설명하는 대표 이미지"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -51,17 +50,6 @@ hideDescription: true
 
 저는 이 방식을 슈타인즈 게이트가 보여줬던 이야기 중심 개발의 연장선으로 봅니다. 플레이어를 두 번째 사람으로 만드는 흐름이 이번에는 AI까지 확장된 셈이죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. AI가 잘려나가지 않는 형태가 핵심
 
 AI 게임이 나올 때 자주 나오는 걱정은 AI가 그냥 말만 흉내 내고 행동은 스크립트대로 움직인다는 것입니다. 저거너트는 여기서 얼마나 벗어나 있느냐가 관건입니다.
@@ -77,17 +65,6 @@ AI 게임이 나올 때 자주 나오는 걱정은 AI가 그냥 말만 흉내 �
 메이지스가 목표로 하다 보면 플레이어가 없어도 계속 돌아가는 세계가 됩니다. 다른 캐릭터들이 서로 대화하고, 관계가 나쁜 캐릭터끼리 갈등하고, 플레이어가 없는 사이에 무언가가 일어나는 것이죠.
 
 이건 게임이라기보다 관찰 시스템에 가깝게 느낄 수도 있죠. 재미를 어떻게 기준으로 잡을지, 바로 반응하는 손맛을 좋아하는 사람에게 얼마나 설득력이 있을지가 앞으로 관건입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 확장성과 비용이라는 현실
 
@@ -105,13 +82,3 @@ AI 게임의 가장 큰 장점은 확장입니다. 프로그램이 규칙을 지
 
 슈타인즈 게이트 팀의 이름값과 AI라는 화제성 덕분에 출시 전 관심은 이미 컸습니다. 이제 남은 건 그 관심이 실제 대화의 재미로 이어질지입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

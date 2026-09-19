@@ -16,7 +16,6 @@ image: "/assets/posts/guide-images/hero-bloom.jpg"
 imageAlt: "윈도우 11 정품 인증 화면"
 imageWidth: 1920
 imageHeight: 1080
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -36,17 +35,6 @@ hideDescription: true
 
 정품 인증 화면에는 **문제 해결** 버튼이 있는데, 이를 눌러 마이크로소프트 계정과 연결된 라이선스를 다시 확인하면 오류가 자동으로 해결되는 경우가 많습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 문제 해결 도구 활용
 
 **설정 → 시스템 → 정품 인증 → 문제 해결**을 실행하면 마이크로소프트 계정과 기기의 라이선스 연결 문제를 자동으로 점검해 줍니다. 하드웨어를 바꿔 인증이 풀린 경우, 이 도구가 현재 기기에 라이선스를 다시 연결해 줄 수 있죠.
@@ -58,17 +46,6 @@ hideDescription: true
 윈도우 11에 정품 키를 이미 입력했는데 오류가 난다면, 키를 다시 입력해 볼 수 있습니다. **설정 → 시스템 → 정품 인증 → 키 변경**에서 보유한 정품 키를 다시 넣으면 인증이 정상으로 돌아옵니다.
 
 키를 입력할 때는 대문자와 하이픈 위치를 정확히 따라야 합니다. 오프라인으로 인증하는 경우도 있어, 오류가 반복되면 마이크로소프트 자동 전화 인증 서비스를 이용하는 방법도 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 오류 코드별 대응과 고객 지원
 

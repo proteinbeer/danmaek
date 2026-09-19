@@ -57,17 +57,6 @@ HDR 전체가 잘못된 게 아니라 SDR 콘텐츠 표시 균형이 맞지 않�
 
 한 화면만 보고 맞추면 다른 콘텐츠에서 균형이 깨질 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 모니터 HDR 성능도 중요
 
 HDR 지원이라고 적혀 있다고 모든 모니터가 같은 HDR 품질을 내는 것은 아닙니다.
@@ -96,17 +85,6 @@ HDR 신호가 들어오면 모니터가 자동으로 HDR 화면 모드로 전환
 
 HDR 문제처럼 보이지만 실제로는 여러 화면 보정이 겹친 경우죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. HDR 보정 도구 활용
 
 윈도우 11에서는 지원 환경에서 HDR 보정 도구를 이용해 검은색과 최대 밝기, 색 강도를 조정할 수 있죠.
@@ -126,17 +104,6 @@ HDR 문제처럼 보이지만 실제로는 여러 화면 보정이 겹친 경우
 제가 HDR 모니터를 설정한다면 먼저 실제 HDR 영상에서 장점을 확인하고, 그다음 SDR 콘텐츠 밝기를 맞추겠습니다.
 
 HDR이라는 이름 때문에 항상 켜두는 것보다 내가 보는 콘텐츠에서 더 자연스러운 쪽을 선택하는 것이 결국 더 좋은 화면입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 게임 안의 HDR 설정도 따로 확인
 

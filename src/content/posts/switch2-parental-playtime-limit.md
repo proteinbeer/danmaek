@@ -37,17 +37,6 @@ hideDescription: true
 
 문제가 해결됐다고 바로 끝내기보다 같은 조건에서 한 번 더 재현해 보는 것이 좋습니다. 게임을 다시 실행하고, 슬립 모드에서 복귀하고, 본체를 재기동한 뒤에도 정상이라면 일시적인 오류인지 실제 해결인지 구분하기 쉽죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 증상부터 정확히 나누기
 
 다음으로 평일과 주말을 다르게 운영한다면 요일별 시간을 따로 조정합니다. 이어서 연령 제한 게임과 게임챗 같은 기능 제한도 필요한 경우 함께 설정합니다. 순서를 지키면 어느 단계에서 문제가 생기는지 확인하기 쉬워집니다.
@@ -60,17 +49,6 @@ hideDescription: true
 
 시간 제한은 강하게 막을수록 좋은 기능은 아니죠. 가족마다 규칙이 다르기 때문에 알림 중심으로 쓸지 실제 제한까지 걸지 먼저 정해두면 기능을 훨씬 덜 답답하게 사용할 수 있습니다
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 여기서 자주 생기는 착각
 
 여기까지 해도 같은 증상이 계속된다면 한 번에 여러 설정을 바꾸지 않는 것이 좋습니다. PIN을 자녀가 알게 되면 제한을 우회할 수 있으므로 보호자가 따로 관리해야 합니다. 다른 게임이나 다른 네트워크, 다른 케이블처럼 비교할 수 있는 조건이 있다면 하나씩 바꿔보는 편이 원인을 찾기 쉽습니다.
@@ -82,17 +60,6 @@ hideDescription: true
 게임 데이터, 세이브 데이터, 계정 이용 권한은 스위치에서 서로 다른 항목으로 관리되는 경우가 많습니다. 화면에 게임 아이콘이 보인다고 세이브와 이용 권한까지 모두 같은 위치에 있다는 뜻은 아닙니다.
 
 중요한 게임을 오래 플레이하셨다면 문제를 해결하기 전에 세이브가 어디에 있는지 먼저 확인하시는 편이 안전합니다. 특히 사용자 삭제와 본체 초기화는 일반적인 게임 데이터 삭제보다 영향 범위가 훨씬 크죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 데이터와 계정은 따로 확인
 

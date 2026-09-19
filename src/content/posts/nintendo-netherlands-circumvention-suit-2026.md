@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/nintendo-netherlands-circumvention-suit-2026-0
 imageAlt: "닌텐도 네덜란드 소송 승리, 스위치 우회 장치 판매가 불법이 된 이유"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -59,17 +58,6 @@ hideDescription: true
 
 결국 금지보다 합법적인 대안까지 함께 만드는지가 장기적인 해법에 가깝습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 스위치 2 시대에도 이어질 보안 싸움
 
 닌텐도는 기존 스위치에서도 개조 칩과 불법 롬 유통에 강하게 대응했습니다.
@@ -99,17 +87,6 @@ hideDescription: true
 그래서 제조사들은 개인 이용자보다 생산자와 판매망을 먼저 겨냥하는 경우가 많죠.
 
 같은 비용으로 훨씬 많은 유통을 막을 수 있기 때문입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 게임 보존 논쟁은 별도로 남는다
 

@@ -17,7 +17,6 @@ image: "/assets/posts/guide-images/star-wars-zero-company-2026-01.jpg"
 imageAlt: "스타워즈 제로 컴퍼니(STAR WARS: Zero Company) 전술 게임 대표 이미지"
 imageWidth: 616
 imageHeight: 353
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -39,17 +38,6 @@ hideDescription: true
 
 반대로 롱암 블라스터처럼 강한 대신 부담이 큰 무기는 자리를 잘못 잡으면 그대로 턴이 굳어버립니다. 장거리 화력이 매력적이어도 위치 선정이 안 되면 오히려 손해가 되죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 어드밴티지는 팀 공용 자원
 
 어드밴티지는 특정 캐릭터 전용이 아니라 분대가 함께 쓰는 자원입니다. 그래서 강한 기술을 쓸 수 있다고 바로 눌러버리기보다, 누가 지금 쓰는 것이 가장 전투 효율이 큰지 보셔야 합니다.
@@ -62,17 +50,6 @@ hideDescription: true
 
 강한 적을 한 턴 안에 정리할 때, 보스전 패턴을 끊을 때, 다운 직전의 흐름을 되살릴 때 써야 가치가 큽니다. 그냥 남는 자원처럼 쓰면 늘 아쉽고, 너무 아끼면 끝까지 손에만 쥐고 끝날 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 스카우트와 스카운드럴이 왜 재밌나
 
 스카우트는 전장 탐지와 어드밴티지 수급을 통해 팀 템포를 밀어올리는 역할을 합니다. 스카운드럴은 아군 공격을 도와 주거나 취약 상태를 만들어 한 번의 공격 가치를 키우는 식으로 흐름을 바꿉니다.
@@ -84,17 +61,6 @@ hideDescription: true
 모든 포인트를 항상 다 써야 잘한 턴이라고 생각하시면 오히려 실수가 늘어납니다. 때로는 엄폐 뒤에 남고, 오버워치를 세우며, 다음 턴을 준비하는 것이 가장 강한 선택입니다.
 
 특히 영구 사망을 켜고 하신다면 남는 포인트보다 살아남는 포인트가 훨씬 중요합니다. 제로 컴퍼니는 화려한 턴보다 무너지지 않는 턴을 더 크게 보상합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 자원 감각이 생기면 난도가 내려간다
 

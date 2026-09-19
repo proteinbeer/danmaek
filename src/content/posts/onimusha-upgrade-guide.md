@@ -44,17 +44,6 @@ hideDescription: true
 
 전투 계열은 잇센·리플렉스 콤보 강화와 디플렉션 파워로 이어집니다. 첫 오니 포탈 이후 잇센 파워 1이 열리고, 두 번째 포탈 이후 체인 잇센 길이, 세 번째 포탈 이후 데들리 디플렉션과 브레이크 잇센의 붉은 소울 수확량이 등장하죠. 보스전과 파밍을 함께 여는 효율 순서로 투자하는 것이 정석입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 오니 스톤 스페셜 스킬과 오니 비전 투자
 
 스페셜 스킬은 오니 스톤을 주재료로 씁니다. 수급량이 정해져 있어 가장 가치 높은 곳부터 써야 하며, 최우선은 오니 비전 계열입니다. 파괴물 지각부터 시작해 트레져스, 트레져스 2, 서치 레인지 순으로 열면 수집품과 공물 재료를 벽 너머까지 감지하죠.
@@ -71,17 +60,6 @@ hideDescription: true
 
 장비는 완전히 독립된 재료를 씁니다. 의복은 대마와 면, 가죽을 거쳐 고급 단계에서 파인 실크가 필요하고, 검은 숫돌과 철, 고탄소강을 지나 다마하기네가 요구되며, 건틀릿은 말리사이트, 비쿠 탈리스만, 도하츠텐의 뿔을 씁니다. 고급 재료는 엔딩 후 교토에 나타나는 두 리프트에서 안정적으로 파밍되고, 요리마사의 비석 상점도 붉은 소울로 강화 재료를 팔기 시작하므로 스토리를 끝낼 때마다 신규 재고를 확인하는 습관이 지름길이죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 소울 파밍 루프와 페이버 공물
 
 파밍 효율을 올리는 가장 강력한 장비는 리퍼 찬트입니다. 모든 적의 붉은 소울 드랍량을 15% 올려 주며, 해금 즉시 장착하고 단계적으로 강화하면 모든 파밍 세션이 함께 강해집니다. 처형 방식도 드랍량을 좌우하죠. 트루 잇센 카운터가 평타보다 소울을 많이 주고, 체인 잇센은 연쇄로 이어지는 적마다 수확량을 곱해 올립니다.
@@ -97,17 +75,6 @@ hideDescription: true
 15종은 획득처에 따라 갈립니다. 스토리·신비 계열에는 힐러, 정화, 내면의 힘, 펜서 스트렝스, 블레이징, 오니 스트렝스, 프로텍션 부적이 있고, 챈스 인카운터 계열에는 열의, 새디스트 스트렝스, 리퍼 찬트, 스태미나, 덱스테리티, 유혹, 어웨이크닝, 오니 파워 부적이 있죠.
 
 상황별 조합도 정해져 있습니다. 일반 진행은 어웨이크닝과 펜서 스트렝스, 카니지 생존은 힐러와 프로텍션, 파밍은 리퍼 찬트와 유혹을 두 칸에 넣습니다. 강화는 공물 바치기에서 이뤄지며 레벨 2에 붉은 소울 3,000과 페이버 3,500, 레벨 3에 각각 6,000과 6,500이 듭니다. 15종 전부 만렙까지 올리는 총량은 붉은 소울 135,000과 페이버 150,000이죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 뉴게임 플러스 이월과 재화 정리
 

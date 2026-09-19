@@ -16,7 +16,6 @@ image: "/assets/posts/coupon-images/maple-raising-coupon.jpg"
 imageAlt: "메이플 키우기 방치형 RPG 게임 이미지"
 imageWidth: 454
 imageHeight: 224
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -38,17 +37,6 @@ hideDescription: true
 
 1차는 몬스터 사냥 등 가벼운 조건으로 완료되는 경우가 많아 빠르게 넘어갑니다. 한 번 진행하면 다시 복구가 어렵지 않으니, 도달했으면 바로 전직하는 것이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 2차 전직 퀘스트
 
 2차 전직부터는 아이템 수집 같은 퀘스트 조건이 붙습니다. 특정 재료를 일정 개수 모아야 하기 때문에, 미리 대상 몬스터를 파악해 두면 소요 시간이 줄어듭니다.
@@ -60,17 +48,6 @@ hideDescription: true
 3차부터는 전투 조건이 붙어 난이도가 올라갑니다. 자신의 분신이나 전직 교관과 겨루는 형식이라, 권장 전투력에 미치지 못하면 클리어가 늦어질 수 있습니다.
 
 이때는 전직 퀘스트가 막혔다고 성장을 멈추지 말고, 동료·유물·스타포스 같은 다른 성장 수단으로 전투력을 먼저 올린 뒤 다시 도전하는 것이 좋습니다. 전직은 모든 성장이 끝난 뒤의 과제라기보다 전체 성장과 병행하는 목표입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 전직 시점의 스킬 세팅
 
@@ -84,13 +61,3 @@ hideDescription: true
 
 전직 후에는 새 스킬을 프리셋에 반영하는 것을 잊지 않는 것이 좋습니다. 전직 자체보다 전직 뒤의 스킬 세팅이 방치 효율에 더 큰 영향을 줍니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

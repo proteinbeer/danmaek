@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/warcraft-3-reforged-campaign-2026-01.jpg"
 imageAlt: "워크래프트 3 리포지드 23년 만의 신규 캠페인, 지금 다시 만든 이유"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -43,17 +42,6 @@ hideDescription: true
 
 새 결정은 이전 콘텐츠의 반응과 시장 변화가 쌓인 결과인 경우가 많죠. 과거 방식에서 무엇이 부족했는지 보면 이번 선택이 해결하려는 문제가 더 선명하게 보입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 그래픽과 월드 에디터까지 손본 3.0
 
 신규 캠페인이 충분한 분량과 연출을 갖췄다면 기존 이용자에게 다시 설치할 이유가 생깁니다. 월드 에디터 개선까지 이어지면 사용자 제작 지도와 커뮤니티 콘텐츠가 다시 활발해질 가능성도 있습니다.
@@ -69,17 +57,6 @@ hideDescription: true
 오래된 게임을 되살릴 때 가장 좋은 방법은 그래픽만 깨끗하게 만드는 것이 아니라 다시 이야기할 이유를 주는 것이죠. 신규 캠페인은 과거 팬을 불러오면서도 세계관을 처음 접하는 사람에게 새로운 입구를 만들 수 있습니다.
 
 개인적으로는 이 부분이 가장 흥미롭습니다. 작은 방향 변화가 다른 작품과 서비스에도 반복될 때 일회성 실험이 아니라 회사 전체 전략으로 굳어지는 경우가 많기 때문이죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 후속 캠페인이 이어질지가 관건
 

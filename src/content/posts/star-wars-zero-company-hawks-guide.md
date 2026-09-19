@@ -17,7 +17,6 @@ image: "/assets/posts/guide-images/star-wars-zero-company-2026-01.jpg"
 imageAlt: "스타워즈 제로 컴퍼니(STAR WARS: Zero Company) 전술 게임 대표 이미지"
 imageWidth: 616
 imageHeight: 353
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -39,17 +38,6 @@ hideDescription: true
 
 너무 복잡한 운영형 특화로 시작하면 분대 전체를 한꺼번에 익혀야 해서 피로도가 올라갑니다. 첫 회차의 목적은 빌드 실험보다 시스템 이해에 두는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 무기는 라이플 계열이 편하다
 
 호크스는 전투에 자주 나가므로 너무 특수한 무기보다 범용성이 좋은 무기가 체감이 좋습니다. 블라스터 라이플은 이동과 공격 밸런스가 좋아 거의 어떤 상황에서도 무난합니다.
@@ -62,17 +50,6 @@ hideDescription: true
 
 주인공이라고 제일 앞에 나가야 하는 것은 아닙니다. 오히려 한 발 뒤에서 흐름을 정리하는 호크스가 전투를 더 잘 굴리는 경우가 많습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 유대와 조합 시너지도 같이 보자
 
 제로 컴퍼니는 유대 시스템이 강해서 누구와 자주 묶어 쓰는지가 중요합니다. 호크스를 자주 함께 나가는 핵심 두세 명과 묶어 두시면 전투 체감이 더 좋아집니다.
@@ -84,17 +61,6 @@ hideDescription: true
 외형 커스터마이즈는 자유도가 높은 편이라 취향대로 꾸미는 재미가 큽니다. 다만 전투 역할은 멋보다 실전 기준으로 보시는 편이 좋습니다.
 
 가장 좋아 보이는 무기와 복장이 있다고 해도, 내 분대에 이미 같은 역할이 많다면 운영이 꼬일 수 있습니다. 보이는 재미와 실제 역할을 분리해 생각하시면 선택이 쉬워집니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 호크스는 과한 욕심만 빼면 실패하기 어렵다
 

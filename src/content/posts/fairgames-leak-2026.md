@@ -15,7 +15,6 @@ image: "/assets/posts/news-images/fairgames-leak-2026-01.jpg"
 imageAlt: "페어게임즈 플레이 영상이 유출됐다, 프로젝트 에스프레소 정체는 무엇일까?"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 draft: true
 ---
@@ -63,17 +62,6 @@ draft: true
 
 아직 그래도 계정 조건만으로 작품명을 확정하는 것은 이릅니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 오랜 침묵 뒤 첫 실마리
 
 페어게임즈는 2023년 발표 이후 실제 게임 장면이 거의 공개되지 않았습니다.
@@ -101,17 +89,6 @@ draft: true
 현재는 새 설명은 그 콘셉트를 보다 시스템 중심으로 구체화한 모습입니다.
 
 장르 경쟁이 치열한 만큼 차별화된 진행 구조가 있는지가 중요합니다라는 점은 함께 보셔야 합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 유출보다 중요한 공식 재등장
 
@@ -141,13 +118,3 @@ draft: true
 
 결국 지금 단계에서는 화제성보다 실제 제품과 서비스가 어떻게 달라지는지 확인하는 것이 가장 현실적인 접근입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

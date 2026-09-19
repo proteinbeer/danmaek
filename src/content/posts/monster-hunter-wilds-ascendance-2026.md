@@ -17,7 +17,6 @@ image: "/assets/posts/news-images/monster-hunter-wilds-ascendance-2026-01.jpg"
 imageAlt: "몬스터 헌터 와일즈 어센던스 공중 지역 아트"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -48,17 +47,6 @@ hideDescription: true
 
 게임 속 시간이 흘렀다는 설정은 캐릭터의 대사에도 영향을 줄 수 있습니다. 과거 사건을 막 끝낸 사람과 몇 년 동안 그 결과를 견딘 사람은 같은 문제를 다르게 바라볼 수 있기 때문입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 어린 나타가 헌터가 된 뒤
 
 본편에서 어린 인물이었던 나타도 성장합니다. 어센던스에서는 수습 단계를 지나 조사대의 정식 구성원으로 활동하며 우드우드 동료 방가드와 함께 전투에 나섭니다.
@@ -74,17 +62,6 @@ hideDescription: true
 본편의 금지된 땅이 기후 변화와 생태계 움직임을 강조했다면 확장팩은 수직적인 공간까지 넓히는 방향입니다. 단순히 더 먼 곳이 아니라 이전에는 안개 때문에 보이지 않았던 장소가 열린다는 설정이죠.
 
 새 고룡 건도라자도 이 지역에서 중요한 존재로 등장합니다. 과거 몬스터와 완전히 새로운 몬스터를 한 확장팩에 함께 넣으면서 추억과 신선함을 동시에 노립니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 확장팩인데 사실상 후속 이야기
 

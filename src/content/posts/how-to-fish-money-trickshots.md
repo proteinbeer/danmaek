@@ -37,17 +37,6 @@ hideDescription: true
 
 익숙해지면 헤드샷, 노스코프, 360도 회전 같은 조건을 한 번에 묶을 수 있습니다. 여러 스타일 조건이 겹치면 킬 점수 배수가 크게 올라가 같은 물고기도 훨씬 높은 가치로 팔 수 있죠. 다만 무리하게 여러 조건을 노리다가 처치 시간이 길어지면 수익 효율이 떨어집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 물고기는 돈만 되는 것이 아니다
 
 잡은 생물은 판매할 수도 있지만 일부는 먹거나 굽는 방식으로 활용할 수 있습니다. 전투 중 체력 회복이 필요할 때는 판매 가격만 보고 모든 물고기를 넘기는 것보다 생존용으로 남기는 편이 좋을 수 있죠.
@@ -59,17 +48,6 @@ hideDescription: true
 드립은 새로운 별도 어종이라기보다 일반 생물에서 나타나는 희귀 시각 변종에 가깝습니다. 문제는 처음 잡았을 때 그냥 비싼 물고기라고 생각하고 팔아버리기 쉽다는 점이죠.
 
 드립 변종은 릴 오브 포춘 기계에 넣어 무기, 낚싯대, 일부 장비용 무작위 외형을 얻는 데 사용할 수 있습니다. 일반 개체로 자금을 만들고 드립은 별도로 관리하시면 후반 수집이 편해집니다. 도감용 드립과 소비용을 구분하시는 편이 안전하죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 피시피디아는 후반에 완성한다
 
@@ -83,17 +61,6 @@ hideDescription: true
 
 도감 완성 전에 돈이 남는다면 수집용 이동 장비를 먼저 맞추시는 편이 전체 시간을 아껴 줍니다. 한 섬씩 닫고 넘어가는 방식이 가장 깔끔하며 빠진 이름을 따로 메모해 두면 끝에 한두 마리 때문에 전 지역을 뒤지는 일을 줄일 수 있죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 7. 가장 좋은 돈벌이는 짧은 반복이다
 
 결국 효율적인 돈벌이는 현재 장비로 안정적으로 잡을 수 있는 대상을 빠르게 낚고, 짧은 트릭샷으로 점수를 올리고, 바로 판매하는 반복입니다. 고난도 한 번보다 실패 없는 반복이 더 빠를 때가 많죠.
@@ -106,13 +73,3 @@ hideDescription: true
 
 특히 퀘스트 전리품과 희귀 드립은 일반 판매 물고기와 분리해 두는 습관이 좋죠. 패치가 빠른 게임이라는 점도 기억하셔야 합니다. 이상한 상황이 나오면 내 실수라고 단정하기 전에 스팀 공지의 최신 버전과 현재 설정을 먼저 확인하시는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

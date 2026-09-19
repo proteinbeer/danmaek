@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/revolut-data-breach-2026-01.jpg"
 imageAlt: "레볼루트 고객정보 유출, 가짜 정부 요청이 진짜 도메인에서 온 이유"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -61,17 +60,6 @@ hideDescription: true
 
 합법적으로 보이는 요청을 어떻게 재확인할지 절차 자체를 훈련해야 비슷한 사고를 줄일 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 정부 요청 절차가 공격 대상
 
 금융사는 법집행기관의 적법한 요청에 정보를 제공해야 하는 상황이 있습니다.
@@ -99,17 +87,6 @@ hideDescription: true
 사건 번호와 담당 기관을 별도 채널로 다시 확인하고 일정 수준 이상의 요청에는 두 명 이상이 승인하는 구조가 효과적입니다.
 
 속도는 조금 느려지지만 민감한 데이터에서는 빠른 처리보다 잘못된 한 번의 공개를 막는 비용이 훨씬 작죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 보안은 사람과 절차까지 포함
 

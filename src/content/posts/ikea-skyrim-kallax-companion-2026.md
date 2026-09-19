@@ -17,7 +17,6 @@ image: "/assets/posts/news-images/ikea-skyrim-kallax-2026-01.jpg"
 imageAlt: "스카이림에 등장한 이케아 칼락스 책장 동료를 설명하는 대표 이미지"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -48,17 +47,6 @@ hideDescription: true
 
 그런 공간에 이케아 책장 동료가 들어오니 광고보다 스카이림 모드 문화의 또 다른 농담처럼 받아들여집니다. 브랜드가 게임을 고른 게 아니라 게임의 성격을 이해하고 들어온 셈입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 이름부터 스카이림식 농담
 
 칼락스 스토리지본이라는 이름도 재미있습니다. 스카이림의 주인공을 가리키는 드래곤본을 수납이라는 단어와 섞은 이름이죠.
@@ -70,17 +58,6 @@ hideDescription: true
 과거 게임 광고는 배너나 제품 배치에 가까웠습니다. 최근에는 광고 자체를 작은 콘텐츠로 만들어 이용자가 자발적으로 설치하고 공유하게 만드는 방향이 늘고 있죠.
 
 이케아 입장에서는 스카이림 이용자에게 가구를 바로 팔지 않아도 됩니다. 칼락스라는 이름을 기억하게 만들고, 인터넷에서 사람들이 책장 동료 이야기를 퍼뜨리는 것만으로도 전통적인 광고와 다른 효과를 얻을 수 있죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 이상할수록 기억에 남는 협업
 
@@ -98,13 +75,3 @@ hideDescription: true
 
 브랜드 입장에서는 최신 게임의 짧은 광고 자리보다 이런 오래된 커뮤니티가 더 매력적일 수도 있습니다. 칼락스 책장이 갑자기 판타지 동료가 된 이번 사례는 게임의 수명이 판매량이 아니라 문화로 결정될 수도 있다는 걸 보여줍니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

@@ -17,7 +17,6 @@ image: "/assets/posts/news-images/intel-cpu-price-2026-01.jpg"
 imageAlt: "인텔 CPU 가격 인상 관련 일러스트"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -44,17 +43,6 @@ PC를 맞추는 사람들은 보통 한 부품씩 예산을 조절합니다. 그
 
 결국 게임용 PC를 사는 가격표 뒤에도 데이터센터와 AI 투자가 그림자처럼 붙어 있습니다. 멀어 보이던 산업 뉴스가 내 견적서로 내려오는 순간이죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 체감 가격에서 오는 타격
 
 10%라는 숫자만 보면 작아 보일 수도 있습니다. 하지만 CPU 하나 가격만 끝이 아니라, 그에 맞춘 메인보드, 메모리, 쿨링 선택까지 연쇄적으로 예산이 흔들리기 시작하면 체감 부담은 더 커집니다.
@@ -66,17 +54,6 @@ PC를 맞추는 사람들은 보통 한 부품씩 예산을 조절합니다. 그
 이 소식은 인텔 가격 인상 자체보다, 이제 조립 PC는 그래픽카드만 비싼 게 아니라는 쪽으로 봐야 읽을 맛이 있습니다. 소비자는 게임용 PC를 사는데, 가격을 움직이는 바깥 요인은 점점 게임 바깥에 있게 됐습니다.
 
 그래서 가격표를 읽는 방식도 바뀌어야 합니다. 특정 회사의 정책이라기보다 반도체 전체의 자금 흐름과 생산 판단이 얼마나 소비자 가격으로 내려오는지 보는 것이 더 현실적인 기준이 됩니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 그래픽카드 다음으로 무서워진 CPU
 

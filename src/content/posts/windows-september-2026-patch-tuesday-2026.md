@@ -15,7 +15,6 @@ image: "/assets/posts/news-images/windows-september-2026-patch-tuesday-2026-01.j
 imageAlt: "윈도우 9월 보안 업데이트 966개 취약점 수정, 이번엔 미루기 어려운 이유"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 draft: true
 ---
@@ -43,17 +42,6 @@ draft: true
 
 마이크로소프트는 구체적인 공격 방식은 공개하지 않았습니다. 이미 악용된 사실이 확인됐다는 것만으로도 일반적인 미공개 취약점보다 업데이트 우선순위가 높습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 원격 코드 실행 취약점도 258개
 
 분류별로 보면 원격 코드 실행 문제가 258개, 권한 상승 문제가 438개, 정보 노출이 173개였습니다. 이 가운데 치명적 등급 105개 중 81개가 원격 코드 실행과 관련됩니다.
@@ -65,17 +53,6 @@ draft: true
 마이크로소프트는 AI 기반 시스템을 이용해 소프트웨어 취약점을 더 많이 찾아내고 있다고 밝혀왔습니다. 패치 숫자가 급증한 것이 제품이 갑자기 10배 위험해졌다는 뜻이라기보다 과거에 놓치던 문제를 더 빠르게 발견하는 면도 있습니다.
 
 보안 업데이트 개수가 많다는 사실 자체를 나쁘게 볼 필요는 없습니다. 발견한 문제를 고치지 않고 숨기는 것보다 많은 취약점을 확인하고 공개적으로 수정하는 편이 낫습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 업데이트 전 서버는 별도 검증 필요
 
@@ -90,17 +67,6 @@ draft: true
 윈도우 보안 패치는 파일만 내려받았다고 적용이 끝나는 것이 아닙니다. 커널과 시스템 구성요소를 바꾸는 수정은 재부팅이 필요한 경우가 많아 업데이트를 받아놓고 몇 주 동안 재시작하지 않으면 실제 보호가 늦어질 수 있습니다.
 
 회사 PC라면 업무 시간에 갑자기 재부팅하는 것보다 정해진 유지보수 시간에 패치를 적용하고 정상 부팅과 업무 프로그램을 확인하는 방식이 좋습니다. 이번처럼 수정 범위가 큰 달에는 백업과 복구 계획까지 함께 확인해두시면 문제 발생 때 대응하기 쉽습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 숫자가 많아도 일반 사용자가 할 일은 단순하다
 

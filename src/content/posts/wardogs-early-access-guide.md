@@ -16,7 +16,6 @@ image: "/assets/posts/guide-images/wardogs-2026-01.jpg"
 imageAlt: "워독스(WARDOGS) 100인 3팀 전쟁 게임 대표 이미지"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -36,17 +35,6 @@ hideDescription: true
 
 어떤 게임인지조차 알 수 없는 초기 프로토타입 수준은 아닙니다. 다만 핵심이 있다는 것과 완성도가 높다는 것은 다른 이야기입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 향후 확장
 
 정식 버전으로 가는 동안 맵, 무기, 차량, 게임플레이 종류를 늘릴 계획입니다. 전투기와 더 깊은 진행 시스템, 시즌 메타게임도 계획에 포함돼 있습니다.
@@ -58,17 +46,6 @@ hideDescription: true
 개발사는 얼리 액세스 가격을 정식 버전보다 낮게 운영하고 콘텐츠와 완성도가 올라가면 가격을 높일 계획이라고 밝혔습니다.
 
 일찍 사면 가격은 유리할 수 있지만 현재 버그와 부족한 콘텐츠를 함께 감수해야 합니다. 할인보다 지금 플레이할 이유가 있는지 보는 편이 중요합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 한국어 지원
 
@@ -82,13 +59,3 @@ hideDescription: true
 
 반대로 안정적인 서버와 충분한 콘텐츠, 완성된 밸런스를 원하시면 몇 차례 큰 업데이트를 지켜보는 편이 맞습니다. 저는 거친 개발 과정 자체를 즐길 수 있는지가 가장 큰 기준이라고 봅니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

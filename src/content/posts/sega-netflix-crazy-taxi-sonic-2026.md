@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/sonic-racing-crossworlds-year-one-2026-01.jpg"
 imageAlt: "세가가 크레이지 택시까지 영화로 만든다, 소닉 성공 뒤 달라진 전략"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -60,17 +59,6 @@ hideDescription: true
 
 오래된 게임 캐릭터는 기존 팬의 추억만으로는 계속 성장하기 어렵고 어린 이용자가 새로 들어와야 브랜드가 길게 이어집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 출시 전 게임도 영화로
 
 더 흥미로운 작품은 스트레인저 댄 헤븐입니다.
@@ -98,17 +86,6 @@ hideDescription: true
 게임을 새로 만드는 데는 몇 년과 큰 개발비가 필요합니다.
 
 반면 영상이 먼저 관심을 끌면 오래 쉬었던 게임 이름도 다시 대중에게 알려질 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 모든 게임이 영화가 될 필요는 없다
 
@@ -138,13 +115,3 @@ hideDescription: true
 
 게임과 영화가 같은 시기에 브랜드를 다시 움직인다는 점에서 이번 협업의 진짜 가치는 단순 영화 한 편보다 오래된 세가 게임을 다시 현역으로 만드는 데 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

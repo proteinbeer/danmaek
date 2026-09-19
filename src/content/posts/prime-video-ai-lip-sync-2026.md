@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/prime-video-ai-lip-sync-2026-01.jpg"
 imageAlt: "프라임 비디오 AI가 배우 입모양까지 바꾼다, 더빙의 어색함이 사라질까"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -47,17 +46,6 @@ hideDescription: true
 
 오히려 입모양 제약이 줄어들면 번역가가 의미를 더 자연스럽게 옮길 여지가 커질 수 있죠. 기존 더빙은 입이 닫히는 타이밍 때문에 표현을 억지로 줄이는 경우도 있기 때문입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 배우의 얼굴
 
 문제는 배우의 실제 연기를 AI가 수정한다는 점입니다. 작은 입 움직임이라도 표정의 일부이기 때문에 어디까지 후처리할 수 있는지 계약과 동의 문제가 따라올 수 있죠.
@@ -73,17 +61,6 @@ hideDescription: true
 영상 현지화는 자막과 더빙을 넘어 화면 자체를 번역 언어에 맞추는 단계로 이동하고 있습니다. 간판과 글자뿐 아니라 배우의 입까지 바뀌면 한 작품이 언어별로 조금씩 다른 영상이 되는 셈입니다.
 
 이 과정이 자연스러워질수록 시청자는 번역 기술을 의식하지 않게 되죠. 반대로 원본 보존을 중요하게 보는 사람에게는 어디까지 수정됐는지 표시할 필요성이 더 커집니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 한국 더빙
 
@@ -103,13 +80,3 @@ AI 립싱크가 널리 쓰이기 시작하면 시청자에게 화면이 수정�
 
 AI 립싱크는 번역 품질을 높일 가능성이 크지만 원본 영상 보존이라는 새 문제를 만듭니다. 가장 좋은 방향은 기술을 숨기기보다 적용 여부를 표시하고 시청자가 원본과 수정 버전 중 선택할 수 있게 하는 것이라고 봅니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

@@ -49,17 +49,6 @@ hideDescription: true
 
 전체 기능을 계속 켰다 껐다 하기보다 문제가 있는 게임의 속성만 확인해야 다른 게임의 초대나 스크린샷 기능에 영향을 주지 않습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 관리자 권한이 다르면 충돌할 수 있다
 
 게임은 관리자 권한으로 실행되고 스팀은 일반 권한으로 실행되는 식으로 권한 수준이 다르면 오버레이가 붙지 않는 경우가 있습니다.
@@ -80,17 +69,6 @@ hideDescription: true
 
 하나씩 잠시 끈 뒤 스팀 오버레이가 살아나는지 확인하면 어떤 프로그램이 충돌하는지 훨씬 빠르게 찾을 수 있죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 스크린샷과 초대가 같이 안 될 때
 
 스팀 기본 스크린샷 기능은 오버레이와 연결되어 있습니다.
@@ -110,17 +88,6 @@ F12 스크린샷과 친구 초대가 동시에 작동하지 않는다면 두 문
 저는 오버레이 문제에서 스팀 전체 재설치부터 하는 것은 순서가 너무 큽니다.
 
 전체 설정, 게임별 설정, 권한, 다른 오버레이 프로그램 순서로 좁혀가면 원인을 더 빨리 찾을 수 있죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 오버레이를 끄기 전에 실제 이득 확인
 

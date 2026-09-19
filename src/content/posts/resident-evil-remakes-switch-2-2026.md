@@ -15,7 +15,6 @@ image: "/assets/posts/news-images/resident-evil-remakes-switch-2-2026-01.jpg"
 imageAlt: "스위치 2용 바이오하자드 2 디럭스 에디션 대표 이미지"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 draft: true
 ---
@@ -47,17 +46,6 @@ draft: true
 
 저는 이런 이식작이 스위치 2 성능을 체감하기에는 오히려 좋은 비교 대상이라고 봅니다. 완전히 새로운 게임은 비교 기준이 없지만, 이미 여러 기기에서 본 작품은 화질, 프레임, 로딩 차이를 바로 느낄 수 있기 때문입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 세 작품을 같은 날 내는 것도 계산이 보인다
 
 바이오하자드 2, 3, 4를 10월 16일 한 번에 내면 이용자는 시리즈를 연속으로 즐길 수 있습니다. 이미 다른 기기에서 샀던 사람보다 스위치 2로 처음 들어오는 이용자에게 더 매력적인 묶음이죠.
@@ -72,17 +60,6 @@ draft: true
 성능이 가장 높은 콘솔이 될 필요는 없습니다. 중요한 건 이용자가 다른 기기를 켜지 않아도 충분히 많은 대형 게임을 즐길 수 있느냐입니다.
 
 이 조건이 충족되면 스위치 2는 세컨드 콘솔이 아니라 메인 콘솔 후보가 될 수 있습니다. 닌텐도 독점작은 원래 강했으니 부족했던 서드파티 쪽만 채워지면 되는 구조죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 클라우드판이 남긴 숙제를 하드웨어가 해결했다
 
@@ -102,13 +79,3 @@ draft: true
 
 저는 스위치 2의 성공을 독점작 숫자만으로 보기 어렵다고 생각합니다. 닌텐도 게임이 강한 건 이미 알고 있으니, 앞으로는 이런 익숙한 타사 게임이 얼마나 당연하게 같이 출시되느냐가 오히려 플랫폼의 성숙도를 보여줄 겁니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

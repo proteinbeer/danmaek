@@ -49,17 +49,6 @@ hideDescription: true
 
 무선 헤드셋의 편리함은 유지하면서 마이크 품질도 별도 장치로 끌어올릴 수 있죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 윈도우 11의 블루투스 LE 오디오
 
 블루투스 LE 오디오는 기존 클래식 블루투스와 다른 최신 오디오 방식입니다.
@@ -84,17 +73,6 @@ LE 오디오 기능은 블루투스 칩과 오디오 드라이버 지원에 영�
 
 특히 새 기능이 추가된 뒤에는 범용 드라이버보다 제조사 드라이버가 먼저 필요한 경우가 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 게임용 무선 헤드셋이 전용 동글을 쓰는 이유
 
 게임용 무선 헤드셋 상당수는 블루투스 대신 2.4GHz 전용 수신기를 제공하죠.
@@ -114,17 +92,6 @@ LE 오디오 기능은 블루투스 칩과 오디오 드라이버 지원에 영�
 마이크를 사용하지 않는 게임에서도 음성채팅 기능이 백그라운드에서 헤드셋 마이크를 열면 소리가 바뀔 수 있습니다.
 
 입력 장치를 다른 마이크로 지정하거나 음성채팅을 끄고 차이가 나는지 비교해보시면 좋죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 고장이 아니라 연결 방식의 한계일 수 있다
 

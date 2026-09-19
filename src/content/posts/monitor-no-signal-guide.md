@@ -40,17 +40,6 @@ HDMI와 디스플레이포트가 여러 개 있는 모니터라면 현재 케이
 
 기존 케이블로 안 된다면 **다른 케이블이나 다른 단자로** 교체해서 비교하시면 됩니다. 케이블 자체가 내부적으로 단선되어 있으면 신호 없음이 계속 나올 수 있죠. HDMI 케이블이 하나뿐이라면 모니터의 다른 단자(예: HDMI-1 ↔ HDMI-2)로 옮겨 테스트해보는 것도 방법입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 그래픽카드 단자 확인
 
 별도의 그래픽카드를 사용하는 컴퓨터라면 모니터 케이블이 메인보드가 아니라 그래픽카드 쪽에 연결돼 있는지 확인하셔야 합니다.
@@ -66,17 +55,6 @@ HDMI와 디스플레이포트가 여러 개 있는 모니터라면 현재 케이
 컴퓨터를 텔레비전이나 다른 모니터에 연결해서 화면이 정상적으로 나온다면, 문제는 컴퓨터가 아니라 기존 모니터나 해당 케이블에 있을 가능성이 높죠. 반대로 다른 화면에서도 신호 없음이 나온다면 컴퓨터 쪽(그래픽카드, 케이블, 드라이버) 문제일 가능성이 커집니다.
 
 노트북을 사용하신다면 노트북 내장 화면은 나오는데 외부 모니터만 신호 없음이 표시되는 경우가 있습니다. 이때는 외장 모니터를 인식하도록 디스플레이 전환 단축키(보통 Fn키 조합)를 누르거나 **윈도우키 + P**를 눌러 "확장" 또는 "복제" 모드를 선택하시면 됩니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 컴퓨터 상태 확인
 

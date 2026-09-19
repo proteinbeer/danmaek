@@ -37,17 +37,6 @@ hideDescription: true
 
 패시브 도전 과제는 킬러와 민간인 역할에 따라 여러 범주로 나뉘며 플레이하는 동안 자동으로 추적됩니다. 평소 매치를 진행하면서 자연스럽게 달성할 수 있는 항목이 많으므로 초반에는 억지로 파밍하기보다 게임을 익히면서 함께 올리는 편이 좋습니다. 진행형 도전 과제는 특정 민간인, 마이클 스킨, 무기 종류와 연결되어 순서대로 목표를 해결하는 방식으로 여러 과제를 동시에 조금씩 건드리기보다 한 캐릭터와 한 무기 목표를 정해 묶어서 처리하는 편이 효율적입니다. 싱글플레이 챌린지는 마이클 시점의 여섯 챕터에 포함된 선택 목표로 대체 의상과 고유 꾸미기 아이템을 얻을 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 출시 초기 추적 오류
 
 얼리 액세스와 출시 직후 일부 도전 과제와 업적이 제대로 추적되지 않는 문제가 있었습니다. 개발사는 핫픽스와 1.0.1 패치에서 추적 오류를 여러 차례 수정했고 앞으로도 예외 사례를 계속 확인한다고 밝혔습니다. 조건을 분명히 달성했는데 진행 수치가 오르지 않는다면 같은 행동을 계속 반복하기보다 현재 패치와 알려진 문제를 확인하시는 것이 좋습니다.
@@ -57,17 +46,6 @@ hideDescription: true
 네 가지 진행 레벨을 올리면 추가 민간인 캐릭터, 새로운 마이클 능력, 민간인의 시작 아이템, 외형 보상, 새로운 도전 과제 단계, 처형 등 다양한 요소가 열립니다. 각 진행 영역이 최대 레벨에 도달하면 프레스티지를 통해 추가 보상과 장기 목표를 노릴 수 있죠.
 
 프레스티지를 서두르기보다 자주 쓰는 캐릭터와 무기를 먼저 안정적으로 키우는 것이 좋습니다. 특히 민간인은 캐릭터별 진행이 분리되어 있어 한 명을 끝까지 밀지 여러 명을 나눠 키울지에 따라 체감 속도가 크게 달라집니다. 출시 초반에는 세부 보상이나 필요한 경험치가 패치에 따라 달라질 수 있으므로 화면에 표시되는 현재 조건을 기준으로 확인하는 편이 안전합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 특전 포인트와 카드 뽑기
 
@@ -80,17 +58,6 @@ hideDescription: true
 보유한 카드는 특전 덱으로 묶어 민간인 장비 설정에 적용할 수 있습니다. 단순히 가장 희귀한 카드를 넣는 것보다 이동, 주민 설득, 수리, 전투 같은 자신의 역할을 기준으로 조합하는 것이 좋죠. 출시 패치에서는 같은 특전을 한 덱에 최대 두 장까지만 넣을 수 있도록 제한되어 같은 효과만 반복해서 쌓기보다 캐릭터의 기본 능력치와 역할에 맞춰 여러 기능을 섞는 방향이 더 중요해졌습니다.
 
 특전 포인트는 새 카드를 뽑는 데만 쓰이지 않습니다. 이미 가진 카드를 일정 매치 동안 더 높은 수준으로 일시 강화하는 데도 사용할 수 있죠. 장기적으로 항상 유지되는 강화가 아니라 정해진 횟수 동안 쓰는 방식이므로 모든 카드에 계속 포인트를 넣는 것은 효율이 떨어질 수 있습니다. 자주 쓰는 덱과 중요한 플레이 세션에 맞춰 선택적으로 강화하는 편이 좋습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 역할 중심 성장 전략
 

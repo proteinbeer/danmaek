@@ -38,17 +38,6 @@ hideDescription: true
 
 데디케이티드 서버를 돌릴 컴퓨터의 최소 사양은 4코어 CPU와 2GB 이상의 RAM입니다. 세계가 커지고 플레이어가 많아질수록 메모리 사용량이 커지므로, 6코어 이상 CPU와 4GB 이상의 RAM을 권장합니다. 서버 파일은 별도의 폴더에 설치하고 방화벽 규칙과 포트포워딩을 미리 설정해 두어야 외부 접속이 가능하죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 서버 실행 명령과 포트포워딩
 
 데디케이티드 서버는 SteamCMD나 Steam 라이브러리에서 발하임 데디케이티드 서버를 설치한 뒤 실행 파일에 설정을 넣어 시작합니다. 기본 포트는 2456이며 UDP로 목록 질의에는 2457을 사용합니다. 공유기에서 해당 포트를 전달하고, 서버 컴퓨터의 방화벽에 UDP 2456-2457 규칙을 추가하면 인터넷을 통한 접속이 열립니다.
@@ -60,17 +49,6 @@ hideDescription: true
 발하임은 크로스플레이를 지원해 Steam과 Xbox, Microsoft Store 버전의 플레이어가 한 서버에서 만날 수 있습니다. 데디케이티드 서버에서 크로스플레이를 켜면 Azure 릴레이를 통해 서로 다른 플랫폼의 유저가 연결되죠. 서버 시작 시 크로스플레이 옵션을 추가해 활성화합니다.
 
 크로스플레이를 켜면 포트포워딩 없이 릴레이를 경유해 접속할 수 있어 설정이 간단해지는 장점이 있습니다. 다만 중계 서버를 경유하는 만큼 지연 시간이 늘어날 수 있죠. 사내 LAN이나 같은 네트워크에서만 즐긴다면 크로스플레이 없이 직접 연결 방식이 더 빠릅니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 관리자 권한과 밴·화이트리스트
 
@@ -84,13 +62,3 @@ hideDescription: true
 
 게임 업데이트가 나오면 데디케이티드 서버도 같은 버전으로 업데이트해야 접속이 유지됩니다. Steam 라이브러리의 데디케이티드 서버 도구를 최신 버전으로 갱신하는 것만으로 충분하며, 업데이트 후에는 서버를 재시작해 새 버전을 적용하죠. 정기적인 백업과 업데이트 습관만 유지하면 친구들과 오랜 시간 안전하게 월드를 공략할 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

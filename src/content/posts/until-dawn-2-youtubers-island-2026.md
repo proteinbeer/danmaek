@@ -17,7 +17,6 @@ image: "/assets/posts/news-images/until-dawn-2-2026-01.jpg"
 imageAlt: "언틸 던 2 아키시마 섬 키아트"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -48,17 +47,6 @@ hideDescription: true
 
 문제는 이들이 실제 위험과 연출된 공포의 경계를 제대로 구분하지 못하기 시작한다는 점입니다. 방송을 위해 한 선택이 생존을 망가뜨리는 구조가 만들어집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 산장에서 남태평양 섬으로
 
 이야기는 호주 시드니의 공포 행사에서 새로운 생존자를 만나며 방향이 바뀝니다. 이후 팀은 1970년대 고급 리조트가 갑자기 폐쇄된 남태평양의 외딴 섬으로 향합니다.
@@ -74,17 +62,6 @@ hideDescription: true
 공개된 예시 중에는 방송사가 의식을 위해 희생을 요구하는 장면도 있습니다. 닭을 희생할지 풀어주고 대신 자신의 피를 사용할지를 선택하게 되죠.
 
 작아 보이는 선택이 이후 다른 단서와 죽음으로 이어질 수 있습니다. 단순히 마지막 장면에서 생존자를 고르는 게임이 아니라 행동 하나가 멀리 있는 사건까지 밀어내는 구조를 다시 강조하죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 디스패치 제작진이 붙은 이유
 

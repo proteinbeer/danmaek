@@ -45,17 +45,6 @@ hideDescription: true
 
 이 과정은 PC를 **다시 시작**할 뿐 데이터가 지워지지 않습니다. 작업 중인 파일은 미리 저장해두시기 바랍니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 옵션 선택 화면에서 안전 모드 진입
 
 고급 시작 옵션 화면에서 몇 단계를 거쳐 안전 모드를 선택합니다.
@@ -75,17 +64,6 @@ hideDescription: true
 - 재부팅 후 동일한 **문제 해결 → 고급 옵션 → 시작 설정** 경로로 안전 모드를 선택합니다.
 
 Shift+다시 시작은 로그인 화면뿐 아니라 **계정에 진입한 상태에서도** 동작하죠. 파란색 옵션 화면이 나오면 3번의 방법과 동일하게 진행하시면 됩니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 부팅이 아예 안 될 때
 
@@ -107,13 +85,3 @@ Shift+다시 시작은 로그인 화면뿐 아니라 **계정에 진입한 상�
 
 안전 모드에서 드라이버나 프로그램을 제거해 문제가 사라졌다면 정상 부팅이 이어질 것입니다. 그래도 안 되면 원인이 다른 부분에 있으므로 복구 목록을 하나씩 점검해보시기 바랍니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

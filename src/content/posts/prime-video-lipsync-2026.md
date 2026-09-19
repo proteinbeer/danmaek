@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/prime-video-lipsync-2026-01.jpg"
 imageAlt: "더빙하면 배우 입모양도 바뀐다, 프라임 비디오가 AI를 쓴 이유"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -55,17 +54,6 @@ hideDescription: true
 
 현재 단계에서는 인간 더빙 위에 영상 보정을 더하는 방식으로 보는 편이 정확하죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 영상 원본을 바꾸는 시대
 
 자막은 원본 영상에 글자를 얹고 더빙은 소리만 바꿉니다.
@@ -86,17 +74,6 @@ hideDescription: true
 
 기술이 좋은 번역을 대신하는 게 아니라 좋은 더빙을 더 자연스럽게 보여주는 보조 수단이 되는 편이 이상적입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 배우의 연기까지 건드리는 문제
 
 입은 얼굴 연기의 중요한 일부입니다.
@@ -116,17 +93,6 @@ AI가 발음에 맞춰 입을 수정하다 표정의 미세한 느낌까지 바�
 저는 이 기술의 가장 큰 의미가 AI 자체보다 현지화가 영상 제작의 마지막 단계가 아니라 처음부터 고려해야 할 영역이 된 점이라고 봅니다.
 
 한국어 더빙에서 입모양까지 자연스러워지는 날도 생각보다 멀지 않을 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 더빙 시장도 바뀔 수 있다
 
@@ -156,13 +122,3 @@ AI가 현지화 인력을 줄이는 방향으로만 갈 것이라고 보기 어�
 
 더빙 현지화의 기준 자체가 바뀌는 장면입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

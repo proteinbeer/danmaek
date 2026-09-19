@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/tesla-cybercab-joystick-2026-01.jpg"
 imageAlt: "핸들 없는 사이버캡, 화면 속 조이스틱이 발견된 이유"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -55,17 +54,6 @@ hideDescription: true
 
 현재로서는 제한된 이동이나 서비스 목적의 내부 도구일 가능성도 열어둬야 합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 완전 자율도 예외가 있다
 
 로봇 시스템은 정상 상황보다 예외 상황이 어렵습니다.
@@ -86,17 +74,6 @@ hideDescription: true
 
 반대로 정비용 저속 이동 기능이라면 전혀 다른 기준으로 볼 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 터치로 차를 운전해도 되나
 
 게임에서는 가상 조이스틱이 익숙하지만 실제 차량은 촉각 피드백과 즉각적인 조작이 중요합니다.
@@ -116,17 +93,6 @@ hideDescription: true
 사이버캡의 조이스틱이 실제로 어떤 용도로 남을지는 아직 모릅니다.
 
 다만 자율주행 기술의 완성도는 평소에 사람이 필요 없는가보다 사람이 필요할 때 얼마나 안전하게 개입할 수 있는가에서도 평가될 것 같습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 원격 조작과도 연결된다
 
@@ -152,13 +118,3 @@ hideDescription: true
 
 물리 조작계를 없애는 만큼 소프트웨어와 화면의 신뢰성이 자동차 핵심 부품 수준으로 올라가는 셈입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

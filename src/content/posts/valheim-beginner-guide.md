@@ -38,17 +38,6 @@ hideDescription: true
 
 작업대는 나무 10으로 만들지만, 바로 사용할 수는 없고 지붕이 필요하다는 안내가 뜹니다. 벽을 한쪽 세우고 위에 지붕 조각을 얹어 안쪽이 햇빛이나 비에 노출되지 않게만 하면 정상 작동하죠. 사방을 다 막을 필요는 없으니 넓은 공간에는 기둥과 지붕만 얹은 간이 구조로 세워도 됩니다. 작업대 반경 약 20미터 안에서만 제작과 수리가 되고, 작업대 주변에 몬스터 재생도 억제됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 사냥과 초반 식량
 
 발하임에서 가장 중요한 초반 재료는 멧돼지 가죽 조각이죠. 멧돼지가 가죽 조각을 드랍하는데, 활과 여러 장비에 들어가므로 목초지에서 만나는 즉시 잡아 두는 것이 좋습니다. 재료가 잘 안 나와 초반 노가다가 가장 길어지는 항목이라, 기지 주변을 돌며 멧돼지부터 확보하는 것이 첫 시간의 핵심입니다. 사슴은 사슴 가죽과 고기, 모뿔을 남기고, 해안가의 넥을 잡으면 넥테일이라는 고기가 나옵니다.
@@ -60,17 +49,6 @@ hideDescription: true
 목초지에서 해야 할 가장 큰 준비는 활이죠. 조잡한 활은 가죽 조각 8개로 만들 수 있는데, 멧돼지를 미리 잡아 모아 두지 않으면 이 8개를 모으는 데 시간이 오래 걸립니다. 활을 만든 뒤에는 부싯돌을 주워 부싯돌 화살을 만들어 두면, 사슴과 멧돼지 사냥이 거리 유지로 바뀌어 첫 안전망이 생깁니다.
 
 장비는 가죽 조각으로 만드는 누더기 튜닉과 바지부터 시작해, 사슴 가죽으로 만드는 가죽 갑옷과 사슴 가죽 망토로 업그레이드합니다. 작업대 강화를 위해 절단대를 옆에 설치하면 작업대가 2레벨로 올라가고, 사슴 가죽과 멧돼지 가죽 조각으로 무두질 받침대를 더하면 3레벨이 됩니다. 이후 도구와 무기, 장비의 강화가 가능해져 목초지 단계에서 풀업 장비를 만들기 시작할 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 룬석 활용과 첫 보스 에이크쉬르
 
@@ -84,13 +62,3 @@ hideDescription: true
 
 검은숲 진입 후에는 에이크쉬르에서 얻은 뿔 곡괭이로 해안가에서 주석과 구리를 캡니다. 그 사이 건물 내부에서 수르트링 코어를 모아 용광로와 숯 가마를 세우면 청동 시대가 시작되고, 석조 벽과 협곡 사이에 있는 붉은 표시를 따라가면 두 번째 보스 엘더와 마주하게 되죠. 1.0 기준으로는 전체 세이브를 새로 시작하는 것이 최신 콘텐츠를 온전히 보는 방법이라는 점도 기억해 두면, 입문 단계부터 월드를 아껴 다듬는 부담을 줄일 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

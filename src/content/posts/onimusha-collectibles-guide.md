@@ -43,17 +43,6 @@ hideDescription: true
 
 오니 비전 트레져스 계열은 챈스 인카운터 마커를 미리 발견하는 데도 쓰입니다. 발을 빼서 놓치는 일이 줄어들고 탐색 루트가 자연스럽게 사이드 콘텐츠로 이어지므로, 탐색 순서를 스캔 기준으로 짜면 정리 시간이 크게 줄어듭니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 교토의 신비 8종 해금과 부적 보상
 
 교토의 신비는 기이한 사건 메뉴의 관찰 항목으로 정리되는 사이드 퀘스트입니다. 그림자 속에 도사린 것 퀘스트를 마치면 해금되며 지도에 나비 마커로 시작 지점이 표시됩니다. 전부 해결하면 디미스터파이드 트로피가 열리고, 해결마다 수호 부적을 주는 경우가 많습니다.
@@ -70,17 +59,6 @@ hideDescription: true
 
 4번은 시조 거리에서 가마 신발을 파는 남성에게 받아 고조 거리 동쪽 미러에서 성벽을 건너 대형 계단으로 이어지고, 5번은 북쪽의 여성에게 받아 야사카 파고다 옥상 남쪽에서 오니 비전을 쓰는 순서이죠. 마지막 한 장은 골격 호즈키 컬렉션의 마지막 한 개를 포함해 빠뜨리면 채울 수 없는 항목입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 챈스 인카운터 18종과 시민 구출
 
 챈스 인카운터는 교토 곳곳에서 일어나는 시민 구출류 사이드 이벤트입니다. 다음 시민을 겐마에게서 구출하면 완료 처리가 되는데, 이때 반드시 구출 후 그 시민과 대화까지 해야 보상이 확정됩니다. 말을 걸지 않고 지나가면 클리어로 인정되지 않으니 주의가 필요하죠.
@@ -94,17 +72,6 @@ hideDescription: true
 라이온독은 교토에 흩어진 개모양 수호신 조상으로 총 36곳입니다. 니조 성에 여러 마리가 몰려 있어 해당 지역의 스피릿 미러를 미리 열어 두면 재방문 시간을 아낄 수 있고, 이 분류는 뉴게임 플러스로 전승됩니다.
 
 겐마 노트는 세계관 문서로 총 23개이죠. 스토리 초반부터 루트상 자연스럽게 수집되며 누락 사례가 적고 전승 대상이라 후회 없이 진행할 수 있습니다. 장비 재료는 파인 실크 25개와 다마하기네 25개가 의복과 검을 담당하며, 건틀릿용 재료는 엔딩 후 두 리프트에서 말리사이트·비쿠 탈리스만·도하츠텐의 뿔을 파밍하는 방식으로 해결됩니다. 요리마사의 비석 상점도 강화 재료를 붉은 소울로 판매하므로 스토리를 진행할 때마다 확인하는 것이 좋습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 스피릿 미러 배치와 뉴게임 플러스 이월
 

@@ -17,7 +17,6 @@ image: "https://img.danmaek.com/images/posts/steam-reviews-long-playtime-negativ
 imageAlt: "게이밍 PC 세팅 모습"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -56,17 +55,6 @@ hideDescription: true
 
 그래서 베테랑의 악평은 게임을 전혀 재미없게 했다는 평가보다 장기 유저의 불만에 가까울 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 매몰비용만으로 설명하기 어려운 이유
 
 긴 시간 플레이한 악평을 보면 매몰비용 때문에 못 그만둔 것 아니냐고 말합니다. 그리고 이미 투자한 시간이 아까워 계속 플레이했을 가능성은 분명 있습니다.
@@ -86,17 +74,6 @@ hideDescription: true
 연구에서 장시간 플레이 유저의 부정적 리뷰가 흥미로운 이유도 여기에 있습니다. 게임을 가장 많이 아는 사람들이 가장 강한 비판자가 될 수 있다는 점이죠.
 
  개발사 입장에서는 이런 리뷰를 단순한 악성 평가로 버리기보다 어떤 변화가 장기 이용자를 떠나게 만드는지 보여주는 자료로 볼 필요가 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 200시간
 

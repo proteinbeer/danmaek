@@ -57,17 +57,6 @@ USB 마이크에서 지지직거리거나 낮은 웅웅 소리가 들리면 바�
 
 전기 설비 문제가 의심된다면 케이블 교체보다 전문가 점검이 우선이죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 게인을 너무 높이지 않았는지 확인
 
 마이크 게인을 크게 올리면 목소리뿐 아니라 회로의 자체 잡음과 방 안 소리도 함께 커집니다.
@@ -96,17 +85,6 @@ USB C 변환 어댑터나 도킹 장치를 여러 단계 거치는 구성도 줄
 
 민감한 오디오 장비는 배선 위치 차이만으로 잡음이 변하기도 합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 소프트웨어 노이즈 제거는 마지막
 
 하드웨어와 전원 상태가 정상인데도 키보드 소리나 일정한 방 소음이 남는다면 그때 노이즈 억제 기능을 쓰시면 되죠.
@@ -126,17 +104,6 @@ USB C 변환 어댑터나 도킹 장치를 여러 단계 거치는 구성도 줄
 제가 잡음 문제를 볼 때는 필터를 켜기 전에 무조건 원음을 먼저 녹음하죠.
 
 문제가 어디서 들어오는지 모른 채 소프트웨어로 덮으면 장비 상태가 더 나빠져도 알아차리기 어려워지기 때문입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 잡음 종류를 나눠서 들을 것
 

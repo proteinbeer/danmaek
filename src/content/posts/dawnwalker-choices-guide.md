@@ -42,17 +42,6 @@ hideDescription: true
 
 밤의 흡혈 상태도 일종의 선택입니다. 피가 한 칸 미만으로 낮아진 밤에 인간과 대화하면 억제를 잃고 상대를 죽이게 되며, 이름있는 NPC는 각본 보호를 받지 않습니다. 밤 대화 전에는 반드시 체력을 채워 둡니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. NPC 생존과 대표 선택 결과
 
 적대하지 않는 NPC의 죽음은 퀘스트 라인을 닫습니다. 전투 중 휘말리거나 밤의 굶주림으로 의도하지 않게 죽였다면, 저장을 되돌리는 것을 우선 고려하죠. 잔테는 동맹 제안 이후 살려두는 선택과 처단하는 선택이 갈리는데, 살아 있으면 최종전의 초자연 적대 세력 일부를 없애고 마무리 싸움에서 바로 옆에서 도와줍니다. 어느 쪽이 좋은지는 본인의 결말 계획에 달렸습니다.
@@ -75,17 +64,6 @@ hideDescription: true
 
 일반 엔딩 네 개만 듀얼리스트 난이도 클리어로 인정되며, 초반 탈출과 타임아웃은 인정되지 않습니다. 라슬레아 사람들을 구하는 조건이 들어가기 때문이죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 겨울의 법정과 연맹 엔딩 경로
 
 네 개의 일반 엔딩의 첫 관문은 브렌시스의 휘하 보스 세 명을 처리하는 일입니다. 암브루스를 시작으로 바키르, 잔테 순으로 잡아나가며, 궁정 활동으로 해당 보스의 악명 게이지를 끝까지 채워 대면을 여는 것이 효율적이죠. 세 보스 처치 후 악명이 최대가 되면 하루를 넘기는 시점에 악명 칙령 컷신이 뜨고, 최종 퀘스트 '악마와의 거래'가 일지에 추가됩니다. 이 시점이 모든 일반 엔딩의 분기점이며, 세 보스를 시한 안에 처리하지 않으면 타임아웃 분기로 빠집니다. 프롤로그에서 에스메를 올바른 약으로 살려두는 것도 끝까지 유지되는 전제이죠.
@@ -97,17 +75,6 @@ hideDescription: true
 턴코트는 아군을 내주고 가족을 얻는 거래 결말입니다. 최종 대화에서 '가족만 다시 찾고 싶어' 뒤 '하겠어'를 고르면 되며, 무기 계열 선택지를 누르면 즉시 브렌시스를 공격해 다른 경로로 넘어가죠. 거래가 성립하면 마뉴밋 은신처 위치를 표시해야 하는데, 은신처는 '파이어브랜드', '섀도우스 인 더 우즈', '웨어 로열티 라이즈' 퀘스트를 거쳐야 알 수 있습니다.
 
 초반 탈출 엔딩 중 '그들이 바란 영웅'은 브라이어 슬러스 서쪽, 카우드스 패스 성소 서쪽의 무너진 다리에서 시작합니다. 밤에만 플래니시프트와 쉐도우스텝으로 협곡 벽을 타고 통로에 닿을 수 있으며, '골짜기를 영원히 떠난다'를 선택하면 에필로그 없이 결말이 납니다. '투게더 포에버'는 잔테의 활동 '홈 스윗 홈'에서 발생하죠. 실츠 타워 꼭대기 문을 열면 루프 꿈에 들어가는데, 우물로 탈출하는 대신 방을 네 번 반복해 보스까지 모두 처치하면 다섯 번째 루프에서 가족과 함께 갇힙니다. 탈출하려면 네 번째 보스 직전의 자동 세이브로 되돌아가 우물을 조사하면 됩니다. 타임아웃 엔딩은 트로피가 없지만 유일하게 엔딩 이후에도 자유 이동이 가능해, 가족이 죽고 목표가 복수로 바뀐 뒤 브렌시스 처치를 이어갈 수 있는 형태입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 로맨스 조건과 연애 결과
 

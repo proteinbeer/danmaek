@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/tomb-raider-esp32-1watt-chip-2026-01.jpg"
 imageAlt: "툼레이더가 1와트 칩에서 돌아간다, 25달러 보드가 보여준 최적화"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -63,17 +62,6 @@ hideDescription: true
 
 실제 시장에서는 그 좁은 장점이 충분히 큰 비용 절감으로 이어지는지가 중요합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 1024 곱하기 600 해상도
 
 작은 보드에서도 1024 곱하기 600 해상도를 구현했습니다.
@@ -105,17 +93,6 @@ AI 모델과 데이터가 커질수록 한 칩 안에서 끝낼 수 없고 여�
 사용자에게는 최고 사양보다 필요한 작업에 맞는 효율이 더 중요할 때가 많습니다.
 
 서버와 휴대 기기 모두 전력 대비 성능이 제품의 실제 비용을 결정하는 기준이 되고 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 게임 보존의 또 다른 방식
 

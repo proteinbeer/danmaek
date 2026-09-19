@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/melee-decompilation-2026-01.jpg"
 imageAlt: "대난투 스매시브라더스 밀리 대표 이미지"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -47,17 +46,6 @@ hideDescription: true
 
 이 구분은 게임 보존 프로젝트에서 매우 중요합니다. 기술적으로 복원하는 일과 저작권이 사라지는 일은 전혀 다른 문제입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 왜 멀쩡한 옛날 게임을 굳이 코드로 다시 만들까
 
 게임큐브 실물 기기와 디스크는 시간이 갈수록 줄어듭니다. 에뮬레이터가 있어도 미래의 운영체제와 하드웨어에서 영원히 같은 방식으로 돌아간다는 보장은 없습니다.
@@ -72,17 +60,6 @@ hideDescription: true
 이 부분도 흥미롭습니다. AI가 게임을 새로 만드는 이야기만 많은데, 반대로 오래된 게임을 이해하고 보존하는 데도 사용할 수 있다는 사례이기 때문입니다.
 
 다만 100% 완성이라는 결과를 AI가 혼자 만들었다고 보는 건 틀립니다. 핵심은 수년 동안 쌓인 사람들의 분석과 검증이고, AI는 마지막 구간에서 속도를 올린 도구에 가깝습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 리마스터를 기다리지 않는 보존 방식
 
@@ -104,13 +81,3 @@ hideDescription: true
 
 무엇보다 이런 기록은 다음 세대 개발자에게도 자료가 됩니다. 오래된 게임의 손맛이 어떤 코드와 수치에서 나왔는지 직접 살펴볼 수 있기 때문입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

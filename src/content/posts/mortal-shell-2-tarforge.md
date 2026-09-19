@@ -42,17 +42,6 @@ hideDescription: true
 
 무라디안 액추에이터는 디사이플스 패스 초입의 상자에 있으며 근접 무기 강화를 엽니다. 베타 저장으로 프롤로그를 건너뛴 경우에는 인벤토리에 이미 들어와 있을 수 있습니다. 옵시디언 레이스는 마터스 툼 던전 뒤쪽 방 상자에서 얻으며 보조 무기 강화를 엽니다. 보조 무기를 실전 주력으로 쓰기 시작했다면 이 기능을 일찍 확보하는 편이 좋죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 타르스톤 강화와 재료 회수
 
 에칭 니들은 선큰 빌리지 이후 글러티드 마이어에서 얻으며 타르스톤을 두 단계 강화할 수 있게 만듭니다. 빌드 효과를 더 밀어붙이고 싶을 때 필요한 기능이라 중반부터 가치가 커지죠. 파운드리 스톤은 아웃스커츠 오브 마몬 남쪽 성벽 부근에 있으며 글룸을 지불하면 무기와 보조 무기 강화를 제거하고 사용한 재료를 돌려받습니다. 빌드를 바꾸고 싶을 때 필수이므로 얻기 전까지는 재료 분산을 피하셔야 합니다. 엔들리스 코어는 언파운드 패스 히든 네이브의 안개 구간을 지나 획득하며 강화 한도를 17 이상으로 올립니다.
@@ -60,17 +49,6 @@ hideDescription: true
 ## 4. 회복 강화 23개와 우선 순위
 
 회복 강화는 존경받는 샘과 시냅틱 베슬 두 종류로 나뉩니다. 존경받는 샘은 회복 아이템의 사용 수를 늘리고 시냅틱 베슬은 회복량을 높이죠. 공격력만 올리면 실수했을 때 그대로 끝나지만 회복 여유가 있으면 같은 보스에서 패턴을 더 오래 관찰할 수 있어 초보자에게 특히 가치가 큽니다. 마로우 킵의 상인 메릭에게 코인을 지불하면 존경받는 샘 하나를 구매할 수 있고, 게임 안에서 획득 여부 추적이 어려운 편이라 후반에는 위치 목록을 따로 정리하면 편합니다. 업적을 위해 전부 모아야 하는 항목은 아닙니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 타르스톤 75개와 강화 사용 순서
 

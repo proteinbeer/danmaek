@@ -37,17 +37,6 @@ hideDescription: true
 
 템퍼드 몬스터는 푸른색을 띠는 템퍼드 상처로 등장합니다. 템퍼드 상처는 파괴해도 흉터로 남지 않고, 대신 무거운 투사체를 떨어뜨려 바로 사용할 수 있게 해 줍니다. 또 몬스터가 마지막 발악 상태에 들어가면 기존 흉터가 모두 다시 열려, 후반부에 상처 파괴 딜링을 한 번 더 노릴 수 있죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 포커스 스트라이크와 상처 파괴
 
 포커스 스트라이크는 포커스 모드에서만 쓸 수 있는 무기 특수 공격입니다. 열린 상처에 맞히면 상처가 한 번에 파괴되며 아주 큰 피해를 주고, 몬스터가 균형을 크게 잃어버려 파티 전체가 딜링을 넣을 여유가 생깁니다. 상처가 열리지 않은 상태에서 사용하면 약점 공격으로 취급됩니다.
@@ -59,17 +48,6 @@ hideDescription: true
 상처는 같은 부위를 연속으로 공격할수록 빨리 열립니다. 여러 부위를 골고루 치는 것보다 머리나 꼬리 등 부위를 하나 정해 집중 공격하는 것이 효율적이죠. 머리 상처는 둔기류와 함께 기절을 유도하기 좋고, 꼬리 상처는 파괴 시 꼬리 절단과 갈무리를 노릴 수 있죠.
 
 마운트(등 올라타기)는 상처를 한 번에 2～3개 만들 수 있는 확실한 수단입니다. 세이크레트 탑승 상태에서 점프 마운트를 성공하면 몬스터 등을 타고 여러 상처를 열 수 있으므로, 전투 중간중간 마운트 기회를 적극 노리면 좋습니다. 파티에서는 1～2개 부위에 집중 공격해 상처를 빠르게 열고, 다운을 이어가는 운영이 정석입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 무기별 포커스 스트라이크 차이
 
@@ -83,13 +61,3 @@ hideDescription: true
 
 멀티에서는 상처 대상 부위를 파티가 함께 정하는 것이 승부처이죠. 네 명이 서로 다른 부위를 공격하면 상처가 늦게 열리지만, 집중 공격하면 상처 대기열이 빠르게 만들어져 다운이 연속으로 이어집니다. 다운 중에는 포커스 스트라이크가 아닌 평상 딜링으로 체력을 깎고, 다음 상처 파괴로 다시 이어가는 운영이 가장 효율적입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

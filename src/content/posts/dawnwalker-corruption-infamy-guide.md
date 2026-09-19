@@ -42,17 +42,6 @@ hideDescription: true
 
 타락 레벨은 밤 전투의 강함을 좌우하므로, 인상적인 뱀파이어 전투를 원하면 흡혈을 습관화하는 것이 첫 단계이죠. 목표는 최소 에필로그 전까지 코럽션 15로 흡혈 궁극을 확보하는 것입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 타락이 결말에 미치는 영향
 
 타락은 게임 클리어 시 코엔의 인간성이 나뉘는 요소이기도 합니다. 흡혈이 적어 타락이 낮으면 코엔은 인간에 가까운 모습으로 남고, 높아지면 뱀파이어로서의 본성이 앞섭니다. 에필로그의 표현이 달라지는 정도이며 특정 엔딩을 막지는 않지만, 다회차의 분위기를 크게 바꾸는 결정 요인입니다.
@@ -68,17 +57,6 @@ hideDescription: true
 악명 레벨 1의 의미는 작지만, 레벨 4(노토리어스)부터 핵심이죠. 이 레벨은 마뉴밋 리더 크레이크가 코엔을 신뢰하는 문턱이라, 크레이크 라인과 퀘스트 몇 개가 이 조건으로 열립니다. 따라서 크레이크를 원하면 의도적으로 악명을 끌어올리는 활동부터 배치해야 합니다.
 
 최대치에 닿으면 최종장이 열립니다. 세 보스 대면 후 악명 최대 상태에서 하루를 넘기면 악명 칙령이 읽히는 컷신이 나오고, 브렌시스가 회담을 제안해 일지에 '악마와의 거래'가 추가됩니다. 이 시점부터 최종전 선택지가 활성화되죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 악명을 빠르게 올리는 활동
 
@@ -96,13 +74,3 @@ hideDescription: true
 
 마지막으로 두 게이지 다 만렙의 역할을 기억합니다. 타락 15는 흡혈 궁극, 악명 최대는 최종 회담이죠. 둘 다 재화처럼 모으는 것이 아니라, 종료 시점을 정해두고 그 시점에 맞는 목표로 찔러가는 것이 30일 예산을 깨지 않는 요령입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

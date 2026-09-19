@@ -40,17 +40,6 @@ hideDescription: true
 
 근접 무기도 모두 8개이며 첫 무기 아이코노클라스트 이후에는 탐험으로 나머지를 찾게 됩니다. 초반에는 여러 무기를 조금씩 강화하기보다 손에 맞는 한 무기를 정해 타르포지 강화를 몰아주는 것이 효율적이죠. 후반에는 강화 재료를 되돌리는 수단도 생겨 빌드 부담이 줄어듭니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 비컨을 먼저 정리하는 탐험
 
 비컨은 빠른 이동의 기준점이자 정화 과정에서 오바를 주는 탐험의 중심축입니다. 전체 위치는 49곳이며 그 가운데 정화 대상으로 집계되는 것은 46곳입니다. 마로우 킵, 위도스 오버룩, 아웃스커츠 오브 마몬 세 곳은 처음부터 정화된 상태라 숫자가 다르게 보이죠.
@@ -63,17 +52,6 @@ hideDescription: true
 
 무기를 먼저 바꾸고 싶다면 무기 보상 던전부터 노리면 체감이 큽니다. 후반에는 체임버 오브 비커밍에서 사리엘 셸과 시계태엽 낫, 보조 무기를 한 흐름으로 정리할 수 있습니다. 던전 완료 상태는 지도에서 수동으로 표시할 수 있어 후반 수집 정리에 유용합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 진행 순서와 다섯 보스 조건
 
 진행 순서는 오픈월드 구조라 완전히 고정되지 않습니다. 초반에는 글러티드 마이어의 막달레나, 생귀인 캐번의 로스트 차일드, 프리즈너스 도메인의 네임리스 캡티브가 자주 거론되고, 마몬 쪽에서는 드뢰그·헥사포드·서 아이작이 주요 벽이 되죠. 상성이 좋지 않다면 다른 지역에서 강화 재료를 모은 뒤 돌아와도 진행이 막히지 않습니다.
@@ -85,17 +63,6 @@ hideDescription: true
 한 보스에서 계속 막히면 실력 문제로만 생각할 필요가 없습니다. 주변 던전에서 무기나 보조 무기, 타르스톤, 회복 강화를 얻으면 같은 보스의 체감 난도가 크게 달라지기 때문이죠. 보스 성격에 따라 티엘의 회피·그림자 분신, 제네사의 충실한 분신, 에레드림의 냉기 저항처럼 특정 셸이 유리한 경우도 많습니다.
 
 정면 근접이 위험한 보스에는 강화한 트라이악 리피터 같은 원거리 보조 무기가 편합니다. 9월 5일 패치로 추가된 적응형 난이도는 플레이 성과에 따라 적의 공격력과 체력, 자세 저항을 조정하며 기본은 꺼져 있으므로 취향에 따라 선택하면 됩니다. 위험한 지역에 들어가기 전에 글룸 소비를 끝내 두면 심리적 부담도 줄어듭니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 첫 보스 타르 골렘은 연습장
 

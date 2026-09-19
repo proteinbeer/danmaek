@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/ai-datacenter-dotcom-2026-01.jpg"
 imageAlt: "코인 채굴장이 AI 데이터센터가 됐다, 2000년과 닮은 장면"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -55,17 +54,6 @@ AI 수요가 폭발하자 이 인프라를 데이터센터로 돌리는 것은 �
 
 AI 붐 초기에 부족한 공급을 메운 틈새가 거대한 시장으로 커졌습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 닷컴 시대 광대역과 닮았다
 
 1990년대 말에도 인터넷 트래픽이 폭발할 것이라는 전망으로 통신망 투자가 크게 늘었습니다.
@@ -88,17 +76,6 @@ AI 붐 초기에 부족한 공급을 메운 틈새가 거대한 시장으로 커
 
 오늘 부족한 GPU가 몇 년 뒤에도 같은 가격으로 부족할 것이라고 단정하기 어렵습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 고객 집중이 위험하다
 
 일부 네오클라우드는 몇몇 대형 AI 회사 매출 비중이 매우 높죠.
@@ -120,17 +97,6 @@ AI 데이터센터 투자가 과열됐다고 해서 AI 자체가 사라진다는
 기술의 미래를 믿는 것과 현재 가격으로 모든 관련 회사에 투자하는 건 다른 판단이죠.
 
 AI 붐이 진짜여도 승자는 생각보다 적을 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 전력과 GPU가 담보가 된다
 
@@ -156,13 +122,3 @@ AI 데이터센터도 전력 가격과 GPU 조달 능력, 고객 집중도를 �
 
 결국 데이터센터 사업도 기술 이야기처럼 보이지만 본질은 비싼 장비를 얼마나 쉬지 않고 돈 벌게 하느냐에 가깝습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

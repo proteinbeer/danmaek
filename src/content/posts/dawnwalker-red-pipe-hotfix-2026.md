@@ -17,7 +17,6 @@ image: "/assets/posts/news-images/dawnwalker-red-pipe-2026-01.jpg"
 imageAlt: "던워커 출시 버전에 남은 개발용 빨간 파이프 자산을 설명하는 대표 이미지"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -48,17 +47,6 @@ hideDescription: true
 
 빨간 파이프가 흥미로운 이유도 완벽하지 않아서입니다. 수백 명이 만든 거대한 게임도 결국 사람이 체크리스트를 보고 하나씩 지우며 완성한다는 사실이 한 물체에 그대로 드러났습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 죽은 NPC가 말하는 버그도 함께 수정
 
 이번 핫픽스에는 빨간 파이프보다 실제 플레이에 중요한 수정이 많죠. 안정성 개선, 진행을 막는 문제, 컨트롤러 사용 시 프레임 저하 같은 부분이 포함됐습니다.
@@ -72,17 +60,6 @@ hideDescription: true
 게임이 복잡해질수록 모든 상황을 출시 전에 확인하기 어려워집니다. 오픈월드나 자유도가 높은 역할수행게임은 플레이 순서, 장비, 퀘스트 상태, NPC 위치가 서로 얽히면서 경우의 수가 급격히 늘어납니다.
 
 그래서 작은 자산 하나가 잘못 들어간 실수와 시스템 전체를 흔드는 버그를 같은 무게로 볼 필요는 없습니다. 다만 이런 실수가 반복되면 이용자는 전체 마감 품질을 의심하게 되기 때문에 개발사도 빨리 고칠 수밖에 없죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 빨간 파이프가 더 오래 기억될 가능성
 
@@ -100,13 +77,3 @@ hideDescription: true
 
 물론 치명적인 버그까지 웃음으로 넘길 수는 없습니다. 다만 영향이 작은 실수라면 숨기기보다 투명하게 말하는 편이 브랜드에 더 도움이 될 때도 있죠. 빨간 파이프는 게임에서 사라졌지만, 이야기로는 오히려 더 오래 남게 됐습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

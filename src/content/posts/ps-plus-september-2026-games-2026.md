@@ -15,7 +15,6 @@ image: "/assets/posts/news-images/ps-plus-september-2026-games-2026-01.jpg"
 imageAlt: "PS 플러스 9월 게임 10개 공개, 이번 달은 무엇부터 할까"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 draft: true
 ---
@@ -43,17 +42,6 @@ WWE 2K26도 같은 날 전 세계에 추가됩니다. 스포츠 게임을 좋아
 
 슬리터헤드는 호러와 액션을 섞은 독특한 작품이라 호불호가 강할 수 있습니다. 구독 서비스의 장점은 이런 게임을 정가 구매 부담 없이 직접 확인할 수 있다는 데 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 프리미엄 두 작품
 
 프리미엄에는 메가맨 엑스 커맨드 미션과 메트로 리덕스가 추가됩니다. 최신 신작보다 과거 작품을 다시 즐기는 성격이 강한 구성입니다.
@@ -66,17 +54,6 @@ WWE 2K26도 같은 날 전 세계에 추가됩니다. 스포츠 게임을 좋아
 
 구독 게임은 발표 목록만 보고 당일 설치하려다 안 보이면 당황하기 쉽습니다. 계정 지역에 따라 공개 날짜가 다를 수 있다는 점을 먼저 확인하시는 것이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 먼저 할 세 게임
 
 제 기준으로는 드래곤와일즈를 장기용으로 잡고 볼 엑스 핏을 짧은 세션용으로, 닌자 가이덴 레이지바운드를 액션용으로 먼저 설치하겠습니다. 세 게임이 서로 장르가 달라 구독 가치를 체감하기도 좋습니다.
@@ -88,17 +65,6 @@ WWE 2K26도 같은 날 전 세계에 추가됩니다. 스포츠 게임을 좋아
 게임 구독은 선택지가 많아질수록 오히려 아무것도 끝내지 못하는 문제가 생깁니다. 이번 달처럼 10개가 한꺼번에 들어오면 설치만 해두고 몇 분씩 맛본 뒤 다음 게임으로 넘어가기 쉽습니다.
 
 그래서 저는 구독 목록을 정가 게임처럼 다루는 편이 낫다고 봅니다. 이번 달에 반드시 끝낼 한 작품, 짧게 시험할 두 작품 정도만 정하고 나머지는 라이브러리에 남겨두는 방식이 훨씬 만족도가 높습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 9월의 승자
 
@@ -116,13 +82,3 @@ WWE 2K26도 같은 날 전 세계에 추가됩니다. 스포츠 게임을 좋아
 
 제 기준에서는 이번 달 구독 가치는 드래곤와일즈 하나만으로도 꽤 높습니다. 여기에 짧은 액션 게임을 몇 개 섞을 수 있어 장르가 한쪽으로 몰리지 않았고, 정가 구매 전에 취향을 확인하기 좋은 구성입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

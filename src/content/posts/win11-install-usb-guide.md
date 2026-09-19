@@ -47,17 +47,6 @@ hideDescription: true
 
 주의할 점은 대상 USB의 데이터가 전부 지워진다는 것입니다. 도구 실행 전에 꼭 백업을 하시기 바랍니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. Rufus로 설치 USB 만들기
 
 ISO 파일을 보관해두고 필요할 때마다 부팅 USB를 만들고 싶은 분은 Rufus를 사용합니다. 무료 프로그램이므로 공식 사이트에서 내려받아 쓰시면 되죠.
@@ -79,17 +68,6 @@ Rufus는 ISO를 사용해도 되고, 이미 만들어둔 설치 디스크 이미
 
 USB가 인식되지 않는다면 **USB 3.0 포트 대신 USB 2.0 포트**에 연결하거나, 보안 부팅(Secure Boot) 설정을 확인해보시기 바랍니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 클린 설치 진행
 
 설치 화면까지 진입했다면 이후 과정은 간단합니다.
@@ -108,13 +86,3 @@ USB가 인식되지 않는다면 **USB 3.0 포트 대신 USB 2.0 포트**에 연
 
 초기 설정 단계에서 지침이 저절로 따라지면서 일부 데이터(바탕화면, 문서)가 윈도우 복원 기능을 통해 다시 돌아오기도 하죠. 그동안 쓰던 프로그램은 남아 있지 않으므로 필요한 프로그램을 다시 설치하시면 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

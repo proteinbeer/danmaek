@@ -17,7 +17,6 @@ image: "/assets/posts/news-images/overwatch-daimon-01.jpg"
 imageAlt: "오버워치 신규 한국 영웅 디몬 공개 예고"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -46,17 +45,6 @@ hideDescription: true
 
 9월 12일에는 넥슨과 함께하는 오버워치 한국 퍼블리싱이 시작됩니다. 새 시즌도 같은 날 시작하죠. 여기에 9월 22일과 23일에는 부산 벡스코에서 '오버워치 데이'가 열려 디몬 업데이트를 국내 팬들에게 직접 선보일 예정입니다. 신규 영웅 공개를 한국 공개 일정과 맞물려 배치한 것을 보면, 이번엔 한국이 최우선 타깃 시장이라는 뜻으로 읽힙니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. PC방 지표로 보는 반등
 
 흥미로운 건 PC방 데이터이죠. 지난 3일 오버워치는 PC방 점유율 8위였는데, 디몬 티저가 나온 5일에는 6위까지 올라갔습니다. 하루 만에 두 계단 상승한 셈이죠.
@@ -72,17 +60,6 @@ hideDescription: true
 다만 티저 속 실루엣과 기본 골격은 분명해 보이죠. 디바가 방어막과 기동성에 힘을 줬다면 디몬은 접근해서 직접 때려부수는 역할로 설계됐을 가능성이 큽니다. 원거리 화력이 강한 디바와 역할이 겹치지 않도록 서로 다른 개성으로 분리했을 것이란 분석이 나옵니다.
 
 오버워치가 최근 시즌마다 새 영웅을 꾸준히 추가해 왔다는 점을 감안하면, 디몬은 단순히 인원수 채우기가 아니라 한국 시장과 연결되는 상징적 영웅으로 자리 잡을 가능성이 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 오버워치에 다시 쏠리는 눈길
 

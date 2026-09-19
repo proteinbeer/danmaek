@@ -40,17 +40,6 @@ hideDescription: true
 
 기어덱은 기어·적응·제물·얼음·스위치로 구성됩니다. 기어가 서로 연결될수록 효율이 오르는 구조라, 연결을 유지하면서 필요 없는 주사위만 합성하는 감각을 익히기 좋습니다. 강풍덱은 강풍·감염·얼음·제물·적응으로 짜며, 강풍의 광역 공격과 감염의 지속 피해로 몰려드는 적을 한 번에 처리합니다. 두 덱 모두 얼음으로 적을 늦추고 제물로 SP를 확보하는 뼈대는 같아서, 하나를 완성하면 다른 하나로 넘어가기도 쉽죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 합성 원칙과 필드 점유
 
 전투에서 가장 흔한 실수는 같은 눈금이 보이자마자 무조건 합성하는 것입니다. 특히 보드에 딜러가 적을 때 딜러끼리 합치면 순간 화력이 떨어져 라인이 밀립니다. 초반에는 낮은 눈금 주사위 여러 개를 유지하는 편이 오히려 총 화력이 높은 경우가 많죠. 15칸 보드라면 7～9칸 정도를 먼저 확보하고, 메인 딜러가 최소 3개 이상 보일 때부터 눈금 관리를 시작하는 기준이 무난합니다.
@@ -63,17 +52,6 @@ hideDescription: true
 
 전기처럼 주변 적에게 번지는 공격은 몬스터가 오래 지나가는 구간에 몰아두면 체류 중인 적을 계속 맞출 수 있습니다. 배치용 스위치 주사위가 있다면 좋은 눈금의 딜러를 흐름이 좋은 자리로 옮기고, 보조 주사위는 합성 재료로 쓰기 쉬운 가장자리에 두는 식으로 정리합니다. 가로·세로로 나열해야 효과가 발동하는 주사위는 면적 확보가 우선이므로, 필드 전체를 배치 조건이 까다로운 주사위로 채우기보다 정리할 수 있는 보조를 섞는 편이 안정적입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 강화 우선순위와 SP 운용
 
 SP는 소환과 주사위 레벨 업에 동시에 쓰입니다. 초반부터 소환에만 쏟으면 레벨 업이 늦고, 반대로 레벨만 올리면 보드가 비어 라인이 밀립니다. 판의 흐름을 보면서 적절히 나누는 것이 핵심이죠.
@@ -85,17 +63,6 @@ SP는 소환과 주사위 레벨 업에 동시에 쓰입니다. 초반부터 소
 초반 패배의 대부분은 딜이 완전히 부족해서라기보다 보드가 어그러지는 데서 옵니다. 보조 주사위가 필드의 절반을 차지해 딜러 눈금이 높아도 소용이 없어지거나, 발동 조건을 맞춰야 하는 주사위를 아무 곳에나 놓는 경우가 대표적이죠. 딜러 하나 뒤에 보조 하나를 붙이는 식으로 역할이 겹치지 않게 맞추는 것이 승률에 직접 영향을 줍니다.
 
 내 덱이 이상하게 안 풀린다면 역할 배분부터 점검해야 합니다. 5칸에 딜러·성장·보조·제어가 어떻게 분포했는지, 겹치는 역할이 없는지 확인하는 방식이죠. 좋은 덱을 복사했는데 약하게 느껴진다면 업그레이드 타이밍과 합치기 순서 문제인지, 딜러가 부족한지, 보조가 많은지를 차례로 진단합니다. 방해형 덱을 쓰더라도 메인 딜러 하나는 반드시 확실하게 두는 원칙을 지켜야 하죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 성장 로드맵과 운영 요령
 

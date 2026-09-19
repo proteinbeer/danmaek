@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/ai-debt-boom-2026-01.webp"
 imageAlt: "AI 데이터센터 짓느라 2200억달러 빌렸다, 빅테크 부채도 커진다"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -55,17 +54,6 @@ AI 경쟁은 GPU와 모델 성능만의 싸움이 아닙니다.
 
 AI 투자 열기가 서버실을 넘어 금융시장 가격 구조까지 건드리는 모습입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 데이터센터는 한 번 사고 끝이 아니다
 
 GPU는 몇 년 지나면 새 세대로 교체되고 전력 계약과 냉각, 네트워크도 계속 비용이 들어갑니다.
@@ -86,17 +74,6 @@ AI 모델이 커질수록 다음 세대 인프라를 또 요구할 가능성이 
 
 이 간격이 길어질수록 부채를 많이 낸 회사는 금리와 경기 변화에 더 민감해질 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 빅테크라서 괜찮다는 착각
 
 신용도가 높은 회사는 일반 기업보다 낮은 비용으로 돈을 빌릴 수 있죠.
@@ -116,17 +93,6 @@ AI 역시 장기적으로 중요한 기술이더라도 특정 시점에는 필�
 2200억달러라는 채권 발행 규모는 AI가 단순 소프트웨어 유행을 넘어 산업 인프라를 다시 짓는 프로젝트가 됐다는 뜻입니다.
 
 그 돈이 몇 년 뒤 어떤 현금흐름으로 돌아오는지가 다음 AI 경쟁의 진짜 성적표가 될 수 있죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 금리가 바뀌면 계산도 바뀐다
 
@@ -152,13 +118,3 @@ AI가 공짜처럼 느껴지는 현재 경험 뒤에는 거대한 서버와 부�
 
 이 비용을 누가 장기적으로 부담할지 결정되는 순간이 AI 서비스 사업모델의 진짜 시험대가 될 겁니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

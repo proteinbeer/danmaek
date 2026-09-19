@@ -15,7 +15,6 @@ image: "/assets/posts/news-images/windows-server-september-update-rdp-2026-01.jp
 imageAlt: "윈도우 서버 9월 업데이트 원격 데스크톱 먹통, 보안 패치가 만든 딜레마"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 draft: true
 ---
@@ -43,17 +42,6 @@ draft: true
 
 일부 환경에서는 일반 재시작만으로 해결되지 않고 강제 재부팅이 필요했다는 보고도 있습니다. 업무용 터미널 서버라면 이용자 전체가 동시에 영향을 받을 수 있어 피해가 큽니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 데드락 가능성이 제기됐다
 
 한 관리자는 디버깅 과정에서 원격 데스크톱과 로컬 세션 관리자 사이에 데드락으로 보이는 상태를 확인했다고 주장했습니다. 서비스가 종료 과정을 끝내지 못해 다음 연결까지 막는 형태입니다.
@@ -65,17 +53,6 @@ draft: true
 문제를 겪은 일부 관리자는 9월 업데이트를 롤백하면 원격 데스크톱이 다시 정상화된다고 보고했습니다. 하지만 같은 업데이트에 966개 취약점 수정과 실제 악용 중인 제로데이 패치가 포함돼 있습니다.
 
 원격 접속을 살리기 위해 보안을 통째로 되돌리는 것은 장기 해결책이 될 수 없습니다. 외부 노출 서버라면 특히 위험합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 업무 서버는 테스트 배포가 필요한 이유
 
@@ -90,17 +67,6 @@ draft: true
 현재 마이크로소프트가 보고를 조사 중인 만큼 문제가 넓게 재현되면 별도의 긴급 업데이트나 알려진 문제 롤백이 제공될 가능성이 있습니다. 서버 관리자는 커뮤니티의 임시 방법만 따라가기보다 공식 상태 페이지와 업데이트 기록을 계속 확인하는 편이 좋습니다.
 
 특히 인터넷에 직접 노출된 원격 데스크톱 서버라면 9월 보안 패치를 제거한 상태로 오래 두는 것은 위험합니다. 임시 접근 경로를 바꾸거나 VPN과 다른 관리 방법을 사용하면서 공식 수정이 나올 때까지 보안 수준을 유지하는 방식이 필요합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 원격 데스크톱 서버는 외부 노출부터 점검
 

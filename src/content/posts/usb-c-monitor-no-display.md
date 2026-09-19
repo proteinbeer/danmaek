@@ -57,17 +57,6 @@ USB C 케이블이라고 모두 같은 기능을 지원하지 않습니다.
 
 단순히 최대 충전 전력만 보고 고르면 화면 연결에는 적합하지 않을 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 모니터 입력 선택 확인
 
 HDMI와 디스플레이포트, USB C 입력을 모두 가진 모니터는 현재 입력 소스를 직접 선택해야 하는 경우가 있습니다.
@@ -92,17 +81,6 @@ HDMI와 디스플레이포트, USB C 입력을 모두 가진 모니터는 현재
 
 USB C 하나로 모든 기능을 합칠수록 각 기능의 지원 범위를 더 꼼꼼히 봐야 하죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 도킹 장치와 변환기 제거
 
 USB C 허브나 도킹 장치를 거쳐 모니터를 연결했다면 문제 확인 단계에서는 노트북과 모니터를 직접 연결해보시는 편이 좋습니다.
@@ -122,17 +100,6 @@ USB C 허브나 도킹 장치를 거쳐 모니터를 연결했다면 문제 확�
 USB C는 케이블 하나로 책상을 깔끔하게 만들 수 있는 좋은 규격입니다.
 
 다만 단자 모양이 같다고 기능까지 같다고 생각하는 순간 가장 헷갈리는 주변기기 규격이 되기도 하죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 노트북을 바꾸면 같은 모니터도 달라진다
 

@@ -40,17 +40,6 @@ USB가 연결되었는데 파일 탐색기에만 보이지 않는다면 윈도�
 
 디스크 관리에서 드라이브를 마우스 오른쪽 버튼으로 클릭한 뒤 **"드라이브 문자 및 경로 변경"** → **"추가"** 를 선택해 문자를 할당해보시면 됩니다. 드라이브 문자를 부여하면 파일 탐색기에 다시 나타납니다. 이 과정은 데이터를 지우지 않으므로 안전합니다. 드라이브가 "RAW"나 "온라인(오류)" 같은 상태로 표시된다면 다른 문제일 수 있죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 장치 관리자 확인
 
 장치 관리자에서 오류 표시가 있는 유에스비 장치가 있는지 확인하고 장치를 다시 검색해보시면 됩니다.
@@ -66,17 +55,6 @@ USB가 연결되었는데 파일 탐색기에만 보이지 않는다면 윈도�
 디스크 관리에서 USB가 인식되는데 파일 탐색기에는 안 보이고, 드라이브 문자가 "RAW"로 표시된다면 파일 시스템이 손상되었을 가능성이 있습니다. 이 상태에서 바로 포맷하면 데이터가 사라질 수 있습니다. 중요한 파일이 있다면 먼저 데이터 복구 도구나 전문 업체를 통해 복구 가능성을 확인하시면 되죠.
 
 파일이 없거나 백업되어 있다면 디스크 관리에서 드라이브를 **포맷**해 파일 시스템을 다시 구성할 수 있습니다. 포맷은 드라이브를 정상 사용할 수 있게 하는 마지막 수단으로, 반드시 필요한 경우에만 진행하시면 됩니다. 포맷 후에도 인식되지 않는다면 USB 고장이거나 저장장치 수명이 다했을 수 있죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 정리
 

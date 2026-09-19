@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/gamestop-reopening-2026-01.jpg"
 imageAlt: "게임스톱이 닫았던 매장을 다시 연다, 디지털 시대에 역행하는 선택일까?"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -63,17 +62,6 @@ hideDescription: true
 
 오프라인 매장은 방문해야 할 다른 이유를 만들어야 살아남을 수 있습니다라는 점은 함께 보셔야 하죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 중고와 수집 시장
 
 게임스톱이 가진 가장 큰 차별점 중 하나는 중고 게임과 하드웨어를 직접 사고파는 구조입니다.
@@ -102,17 +90,6 @@ hideDescription: true
 
 다만 재개장 매장이 실제로 수익을 내는지는 시간이 지나야 알 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 실물 게임의 마지막 거점
 
 소니를 포함한 플랫폼 사업자들이 디지털 비중을 높일수록 전문 게임 매장의 존재는 더 희귀해집니다.
@@ -136,17 +113,6 @@ hideDescription: true
 처음 공개된 숫자와 설명은 방향을 보여주지만 실제 이용 환경에서는 예상하지 못한 문제가 나올 수 있습니다.
 
 후속 발표와 이용자 반응을 함께 보시면 처음 기사만 읽었을 때보다 변화의 크기를 더 정확하게 판단할 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 실제 적용에서 볼 부분
 

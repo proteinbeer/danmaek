@@ -38,17 +38,6 @@ hideDescription: true
 
 캐시를 버는 방법도 특이합니다. 적을 잡는 것보다 아군을 부활시키고, 아군을 거점까지 수송하며, 거점을 지키는 팀플레이 행동이 더 확실한 수입을 만듭니다. 즉 아군을 돕는 모든 행동이 이익으로 연결되는 구조입니다. 반대로 크게 지고 자주 죽으면 잔고가 빠르게 줄어들기 때문에, 게임 내내 손익 계산이 필요합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 핫존은 아군의 존재를 두 배로 만들어 준다
 
 거점 안에서의 존재감을 두 배로 높이는 곳이 핫존(Hot Zone)입니다. 평범한 거점 지역은 아군 1명이 곧 점수 1이지만, 핫존에서는 아군 1명이 2명으로 계산되죠. 그만큼 점수를 빠르게 올리는 동시에 캐시 보상도 두 배가 됩니다.
@@ -60,17 +49,6 @@ hideDescription: true
 매 목숨마다 캐시로 로드아웃을 구성하죠. 기본 소총에서 시작해 마음만 먹으면 길리슈트를 입고 원거리에서 저격하는 전술, 탄약과 의료품을 거점까지 운반하는 지원병 역할까지 자유롭게 정할 수 있습니다. 정해진 규칙은 없고 전장 상황에 맞춰 고르는 것이 전부입니다.
 
 로드아웃을 고를 때는 거점까지 이동할 수단까지 고려해야 합니다. 자금이 넉넉하다면 헬기로 아군을 거점에 한 번에 실어 나르는 방식이 점수 확보에 유리하죠. 반대로 자금이 부족한 상황에서는 값싼 소총으로 몸을 사리며 아군 부활에 집중하는 것이 현명합니다. 사망하면 장비를 다시 사야 하므로, 이득을 은행에 넣을 타이밍을 항상 생각해야 하죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 차량과 건설이 만드는 파괴적인 전장
 
@@ -84,13 +62,3 @@ hideDescription: true
 
 커뮤니티 피드백도 활발합니다. 오픈 베타 이후에는 '감자' 그래픽 설정을 경쟁에 악용하는 문제가 지적됐고, BULKHEAD가 이를 개선하는 방향으로 응답했죠. 그동안 100만 개 이상의 위시리스트와 수십만 명의 베타 플레이어가 게임을 뒷받침했습니다. 시작할 때는 우선 아군 부활과 거점 유지 같은 기본 팀플레이부터 채우는 것이 좋습니다. 캐시가 쌓이면 그때부터 차량과 핫존 운영을 연습해도 늦지 않죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

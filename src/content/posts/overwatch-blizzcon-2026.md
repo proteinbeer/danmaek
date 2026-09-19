@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/overwatch-doktrin-2026-01.jpg"
 imageAlt: "블리즈컨 오버워치 발표 총정리, 독트린과 영웅 개편이 중심"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -53,17 +52,6 @@ hideDescription: true
 
 새 영웅과 새 맵을 같은 서사에 묶으면 게임 플레이와 세계관 업데이트가 따로 노는 느낌을 줄일 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 솜브라와 로드호그 개편
 
 솜브라와 로드호그는 다시 큰 변경을 받습니다.
@@ -85,17 +73,6 @@ hideDescription: true
 스킨 협업은 밸런스를 바꾸지는 않지만 라이브 서비스에서는 매출과 복귀율에 직접적인 역할을 합니다.
 
 다만 협업이 너무 잦아지면 본편 세계관보다 외부 이벤트가 더 눈에 띌 수 있어 비율 조절이 중요합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 시즌 5의 진짜 변화
 

@@ -46,17 +46,6 @@ hideDescription: true
 
 리플렉스 닷지는 B 버튼으로 적의 공격을 피하는 기술입니다. 칼로 막을 수 없는 그랩이나 발차기에 쓰며 완벽한 타이밍에 성공하면 리플렉스 게이지가 차오릅니다. 공격 텀이 파란빛을 띠면 닷지로 피하고, 분홍빛 공격은 일반 닷지로 못 피하므로 패리나 디플렉트로 받아야 합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 잇센의 세 가지 형태와 판정 타이밍
 
 잇센은 시리즈의 상징인 반격기입니다. 적의 공격이 닿기 직전에 공격 버튼을 눌러 공격을 흘리며 카운터를 꽂는 기술이죠. 일반 적은 한 방에 처리되는 때가 많고, 타이밍이 빡빡해서 잘못 누르면 그대로 피격당하므로 처음 보는 적에게 무리하게 시도하지 않는 것이 좋습니다.
@@ -73,17 +62,6 @@ hideDescription: true
 
 전투 장소의 환경 오브젝트도 실력의 일부입니다. 나무 판자, 수레, 술통 등을 적에게 던져 경직을 주거나, 벽 근처에서 패리하면 적을 벽에 처박아 스태미나를 크게 깎을 수 있죠. 도깨비의 비전은 진입 전 주변 탐색에 유용합니다. 새로운 방에 들어갈 때마다 한 번 쓰면 적 위치, 함정, 숨겨진 아이템을 미리 파악할 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 게이지 운영과 오니 아머먼트 전환
 
 화면의 게이지 두 개를 이해하면 난전이 정돈됩니다. 블레이즈 게이지는 성공적인 패리로 차오르며, 가득 차면 공격력이 강화되고 소울이 더 많이 흐릅니다. 리플렉스 게이지는 완벽한 닷지로 차오르며, 가득 찬 상태에서 또 완벽 닷지에 성공하면 시간이 느려지면서 강력한 반격 창이 열립니다.
@@ -95,17 +73,6 @@ hideDescription: true
 스토리·액션·카나지 세 모드는 이름만 다르고 실제로는 적의 공격력과 패턴, 프롬프트 유무까지 달라지는 별개의 게임입니다. 스토리 모드는 프롬프트가 표시되고 적 공격력이 낮아 전투 메커니즘을 익히기에 적합합니다. 액션 모드는 프롬프트가 사라지고 정상 밸런스가 적용되는 기본 난이도이며, 카나지 모드는 뉴게임 플러스에서 해금되는 최고 난이도이죠.
 
 난이도가 올라갈수록 적의 체력과 공격력만이 아니라 공격 패턴 자체가 변합니다. 복수 적이 동시에 공격하는 빈도가 늘고 보스의 패턴 전환 속도도 빨라지죠. 첫 플레이어에게 추천하는 순서는 스토리 → 액션 → 카나지입니다. 스토리로 전투의 기본을 익히고, 액션에서 프롬프트 없이도 대응할 감각을 키운 뒤 카나지에 도전하는 것이 가장 안정적입니다. 엔딩 후에는 스피릿 미러에서 스토리와 액션을 자유롭게 오갈 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 카나지 준비와 초반 강화 순서
 

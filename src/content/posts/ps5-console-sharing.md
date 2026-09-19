@@ -16,7 +16,6 @@ image: "/assets/posts/guide-images/playstation-ps.jpg"
 imageAlt: "PS5 게임과 시스템 설정 화면"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -38,17 +37,6 @@ PS5 한 대를 가족이 여러 계정으로 쓰면 게임을 누구 계정으�
 
 본인 혼자 쓰는 기기와 가족이 함께 쓰는 기기의 목적이 다르면 설정 기준도 달라집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 오프라인에서도 중요한 이유
 
 이 기능은 이름처럼 인터넷이 끊겼을 때도 해당 PS5에서 구매 콘텐츠를 확인할 수 있게 해주는 역할이 있습니다. 항상 온라인 인증에 기대지 않아도 되므로 네트워크가 불안정한 환경에서도 유리합니다.
@@ -61,17 +49,6 @@ PS5 한 대를 가족이 여러 계정으로 쓰면 게임을 누구 계정으�
 
 게임 공유와 구독 계정 공유를 같은 개념으로 보지 않는 것이 중요합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 두 대의 PS5를 쓸 때
 
 집에 PS5가 두 대라면 누가 어느 기기에서 주로 플레이하는지 먼저 정해야 합니다. 구매 계정이 항상 로그인하는 본체와 가족이 사용하는 본체를 나눠 설정하면 혼란을 줄일 수 있습니다.
@@ -83,17 +60,6 @@ PS5 한 대를 가족이 여러 계정으로 쓰면 게임을 누구 계정으�
 게임을 나누기 위해 가족이 아닌 사람에게 계정 비밀번호를 알려주는 방식은 추천하기 어렵습니다. 결제 정보와 계정 복구 권한까지 노출될 수 있기 때문입니다.
 
 콘솔 공유는 믿을 수 있는 같은 가정의 기기 중심으로 사용하는 편이 안전합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 설정 변경 뒤 확인할 부분
 
@@ -109,13 +75,3 @@ PS5 문제 해결은 무작정 초기화하는 것보다 재현 조건을 찾는
 
 PS5는 같은 증상이라도 계정, 게임 버전, 연결 장비에 따라 원인이 달라질 수 있습니다. 그래서 가장 최근에 바꾼 설정과 문제가 시작된 시점을 기준으로 하나씩 되돌려 확인하시면 불필요한 재설치와 초기화를 줄일 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

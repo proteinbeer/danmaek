@@ -50,17 +50,6 @@ hideDescription: true
 
 네이티브 4K 최대 옵션은 RTX 4090·5080·5090이 60프레임 이상이고 RX 9070 XT·7900 XTX는 FreeSync 환경에서 안정적입니다. 전반적으로 스터터링이 거의 없는 편으로 평가되며, 결국 프레임을 살리는 핵심은 업스케일링과 RT·볼류메트릭 옵션을 어떻게 고르느냐로 좁혀집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 업스케일링 선택이 절반
 
 게임은 DLSS 4.5(슈퍼 레졸루션), FSR 3.1, 그리고 캡콤 자체 TAAU를 지원하죠. 엔비디아 카드는 DLSS, AMD와 기타 카드는 FSR을 쓰되 RDNA3·RDNA4에서는 FSR 4.1(ML) 업스케일이 자동 적용됩니다.
@@ -76,17 +65,6 @@ FSR은 미세 지형과 식물에서 섬머가 나기 쉬워 퀄리티 모드를
 볼류메트릭 안개는 전투 프레임에 가장 큰 영향을 주는 옵션입니다. 하이에서 미디엄으로 내리는 것만으로 최대 20%가량의 프레임을 확보했다는 측정이 있고, 60프레임이 간당간당한 PC는 로우까지 내려도 시각 피해가 작은 편입니다.
 
 섀도우는 미디엄～하이 선에서 멈추고, 스크린 스페이스 반사는 RT를 끈 뒤에도 젖은 바닥 표현을 살리므로 켜둘 것을 권장하되 저사양이면 꺼도 되죠. 모션 블러와 심도 표현은 꺼두면 칼싸움 가시성이 좋아집니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 하드웨어 구간별 추천 설정표
 
@@ -104,13 +82,3 @@ FSR은 미세 지형과 식물에서 섬머가 나기 쉬워 퀄리티 모드를
 
 세 번째는 프레임 제한입니다. 게임 내장 프레임 캡보다 드라이버 레벨 캡이 프레임 타임을 안정적으로 유지하죠. RTX는 NVIDIA 컨트롤 패널의 최대 프레임 속도, AMD는 Radeon Chill로 60프레임을 고정합니다. 추가로 셰이더 프리컴파일 항목(PreCompileShaders=1)을 config.ini에 반영하면 첫 로딩이 길어지는 대신 전투 스터터링이 줄어듭니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

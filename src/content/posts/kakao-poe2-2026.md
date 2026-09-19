@@ -17,7 +17,6 @@ image: "/assets/posts/news-images/kakao-poe2-2026-01.jpg"
 imageAlt: "패스 오브 엑자일2 금단의 의식 아트워크"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -44,17 +43,6 @@ POE2가 국내에 서비스를 시작한 지 얼마 지나지 않은 시점에 �
 
 모은 공물은 다양한 보상과 교환할 수 있습니다. 장비 제작에 쓰는 화폐부터 성장에 필요한 장비까지, 공물의 활용 폭이 넓다는 점이 이번 리그의 큰 매력입니다. 지도를 돌며 공물을 모으는 과정 자체가 하나의 목표가 되는 구조이죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 새 엔드게임 지역, 야생림과 심연 협곡
 
 이번 리그에는 새로운 엔드게임 지역도 추가됩니다. '야생림'은 신성한 꽃을 이용해 입장하는 지역으로, 도깨비불 수집이 핵심 콘텐츠입니다. 탐험과 수집이 결합된 새로운 플레이 경험이 특징입니다.
@@ -66,17 +54,6 @@ POE2가 국내에 서비스를 시작한 지 얼마 지나지 않은 시점에 �
 엔드게임 전반의 개편도 이뤄집니다. 특히 '혼돈의 시련'은 진행 중 중단하더라도 다음에 이어서 진행할 수 있도록 개편됐습니다. 기존에는 한 번 나가면 다시 처음부터 해야 하는 불편함이 있었습니다.
 
 동시에 시련 관련 보상도 확대됩니다. 상위 단계까지 도달한 이용자에게 더 나은 보상이 지급되도록 설계된 것입니다. 진입 장벽은 낮추고, 보상은 올리는 방향으로 이번 리그 체감이 좋아지느냐가 관건이죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 카카오게임즈 재도약의 신호탄
 

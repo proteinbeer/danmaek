@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/starfield-developer-scope-admission-2026-01.jp
 imageAlt: "스타필드 개발자가 인정한 한계, 500명으로도 사람이 부족했던 이유"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -43,17 +42,6 @@ hideDescription: true
 
 오픈월드는 지도만 크게 만든다고 완성되지 않습니다. 이용자가 방문할 이유와 사건, 인물, 보상까지 계속 채워야 공간이 살아 있는 세계처럼 느껴집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 새 시스템이 완성될 때까지 기다려야 했던 개발자들
 
 스타필드는 기존 베데스다 게임에 없던 우주선과 행성, 새로운 탐험 규칙을 만들어야 했죠. 핵심 시스템이 늦게 완성되면 그 위에서 퀘스트를 만드는 디자이너도 기다릴 수밖에 없고 실제 콘텐츠 제작 기간은 더 짧아집니다.
@@ -65,17 +53,6 @@ hideDescription: true
 쿨만은 거대한 우주 오픈월드가 당시 팀의 강점에 정확히 맞는 프로젝트는 아니었다고 돌아봤습니다. 베데스다는 걸어서 발견하는 밀도 높은 세계에 강했지만 스타필드는 행성 사이 이동과 우주선 전투까지 직접 해결해야 했죠.
 
 이 차이는 실제 플레이에서도 드러났습니다. 도시와 던전은 익숙한 베데스다 느낌이 강했지만 행성 사이를 메뉴와 로딩으로 잇는 구조는 한 세계를 걸어다니던 경험과 달랐죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 큰 게임은 사람 수보다 구조가 중요하다
 
@@ -90,17 +67,6 @@ hideDescription: true
 스타필드 이후 베데스다가 같은 규모의 세계를 다시 만든다면 행성 수를 늘리는 것보다 각 장소의 밀도를 먼저 결정할 가능성이 크죠. 이용자가 기억하는 것은 방문 가능한 숫자보다 그곳에서 실제로 만난 사람과 사건이기 때문입니다.
 
 저는 스타필드가 보여준 가장 큰 교훈도 여기에 있다고 봅니다. 대형 게임의 야심은 기능 목록으로 증명되는 것이 아니라 서로 다른 시스템이 하나의 플레이 흐름으로 얼마나 자연스럽게 이어지느냐에서 증명됩니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 스타필드 2가 나온다면 더 적게 만들어도 된다
 

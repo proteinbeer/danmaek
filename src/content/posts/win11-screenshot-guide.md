@@ -45,17 +45,6 @@ hideDescription: true
 
 저장 위치를 자주 쓰는 곳이 있다면 탐색기에서 스크린샷 폴더를 즐겨찾기에 추가해 두면 편리합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 캡처 도구 앱 활용하기
 
 캡처 후 편집과 공유까지 한 번에 처리하려면 **캡처 도구(Snipping Tool)** 앱을 엽니다.
@@ -75,17 +64,6 @@ PrintScreen 키의 기본 동작(클립보드 복사)을 캡처 도구가 열리
 - 이후 **Print Screen** 키를 누르면 캡처 도구가 바로 열립니다.
 
 이 설정을 켜두면 특정 영역 캡처를 자주 하는 분에게 훨씬 편리합니다. Win+Shift+S와 동일한 동작을 PrintScreen 하나로 처리할 수 있죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 캡처 파일 찾기와 관리
 
@@ -107,13 +85,3 @@ PrintScreen 키의 기본 동작(클립보드 복사)을 캡처 도구가 열리
 
 게임 바 캡처 화질은 **설정 → 게임 → 캡처**에서 조절할 수 있습니다. 스크린샷을 자주 찍는 게임이라면 저장 형식과 화질을 미리 정해두면 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

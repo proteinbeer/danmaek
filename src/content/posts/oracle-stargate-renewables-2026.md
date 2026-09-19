@@ -15,7 +15,6 @@ image: "/assets/posts/news-images/oracle-stargate-renewables-2026-01.jpg"
 imageAlt: "오라클 스타게이트 데이터센터에 2GW 재생에너지, 주민 반발을 잠재울 수 있을까"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 draft: true
 ---
@@ -47,17 +46,6 @@ AI 데이터센터는 전력 사용량이 워낙 커서 재생에너지를 같�
 
 재생에너지 투자가 늘어도 기존 가스 설비가 그대로라면 배출원 자체가 사라지는 것은 아닙니다. 그래서 반대 측은 상쇄보다 직접적인 전력원 변경을 요구합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. AI와 지역사회
 
 데이터센터는 일자리와 세수도 만들지만 전력과 물, 토지 사용을 크게 늘립니다. 국가 단위에서는 AI 경쟁력으로 보이지만 지역 주민에게는 바로 옆 인프라 문제입니다.
@@ -73,17 +61,6 @@ AI 데이터센터는 전력 사용량이 워낙 커서 재생에너지를 같�
 대형 데이터센터는 몇 년 안에 지역 발전량의 상당 부분을 사용하기도 합니다. 재생에너지 프로젝트를 새로 추가해도 송전망이 부족하면 필요한 곳으로 전력을 보내지 못해 별도 인프라 투자가 필요합니다.
 
 그래서 데이터센터 전력 문제는 발전소 숫자만의 문제가 아닙니다. 변전소와 송전선, 지역 전기요금까지 함께 바뀔 수 있어 주민 반발이 쉽게 사라지지 않습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 빚과 속도
 
@@ -101,13 +78,3 @@ AI 인프라 경쟁은 기술 기업이 빨리 건설하도록 압박하지만 �
 
 AI 데이터센터는 앞으로 기술 회사 혼자 결정할 수 있는 시설이 아니라 발전 사업자와 지방정부, 주민이 함께 결정하는 인프라가 될 가능성이 큽니다. 전력 사용량이 도시 규모에 가까워지면 사회적 합의가 개발 속도만큼 중요해집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

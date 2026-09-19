@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/finalmouse-latency-2026-01.jpg"
 imageAlt: "파이널마우스 클릭 2밀리초 주장, 이제 사람이 느낄 차이인가"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -55,17 +54,6 @@ hideDescription: true
 
 같은 전자 지연이라도 버튼 구조가 무겁고 길면 실제 클릭 체감은 다를 수 있죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 2밀리초를 사람이 느끼나
 
 일반적인 사용에서 2밀리초와 5밀리초 차이를 명확히 구분하는 사람은 많지 않을 수 있습니다.
@@ -86,17 +74,6 @@ hideDescription: true
 
 가장 빠른 숫자를 샀다고 게임 실력이 자동으로 올라가는 게 아니라 전체 환경 안에서 의미가 생깁니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 손에 맞는 마우스가 먼저
 
 마우스는 하루 종일 손으로 잡는 장치라 무게와 모양, 버튼 위치가 성능만큼 중요합니다.
@@ -116,17 +93,6 @@ hideDescription: true
 결국 소비자에게 중요한 건 세계에서 가장 빠르다는 문구보다 내 게임 환경에서 차이가 있는가이죠.
 
 2밀리초는 기술적으로 대단한 숫자지만 모두에게 필요한 숫자는 아닐 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 측정 방식이 더 중요해진다
 
@@ -152,13 +118,3 @@ hideDescription: true
 
 소비자는 최고 기록보다 그 기술이 어느 가격대까지 내려오는지를 보는 편이 더 실용적입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

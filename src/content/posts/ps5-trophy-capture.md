@@ -16,7 +16,6 @@ image: "/assets/posts/guide-images/playstation-ps.jpg"
 imageAlt: "PS5 게임과 시스템 설정 화면"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -38,17 +37,6 @@ PS5 저장 공간을 확인하다 보면 직접 찍은 적 없는 스크린샷�
 
 용량을 줄이고 싶다면 영상 자동 저장부터 조정하는 편이 효과적입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 플래티넘만 남기는 방식
 
 모든 브론즈 트로피를 기록할 필요가 없다면 높은 등급이나 플래티넘 순간만 자동 저장하도록 설정할 수 있습니다. 중요한 순간은 남기면서 불필요한 파일 수를 줄이는 절충안입니다.
@@ -61,17 +49,6 @@ PS5 저장 공간을 확인하다 보면 직접 찍은 적 없는 스크린샷�
 
 삭제 전 필요한 캡처는 USB나 휴대폰으로 옮겨두는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 자동 업로드와 별개
 
 플레이스테이션 앱 자동 업로드와 트로피 자동 캡처는 서로 다른 설정입니다. 휴대폰에 사진이 올라오는 기능을 끈다고 PS5 내부 캡처 생성이 멈추는 것은 아닙니다.
@@ -83,17 +60,6 @@ PS5 저장 공간을 확인하다 보면 직접 찍은 적 없는 스크린샷�
 트로피 순간 영상은 나중에 보면 꽤 재미있는 기록이지만 모든 게임에서 필요하지는 않습니다. 본인이 플래티넘을 자주 노리는지, 캡처를 실제로 다시 보는지 기준으로 설정을 정하면 됩니다.
 
 자동 기능은 편하지만 사용 목적이 없으면 저장 공간만 조용히 차지하게 됩니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 설정 변경 뒤 확인할 부분
 
@@ -109,13 +75,3 @@ PS5 문제 해결은 무작정 초기화하는 것보다 재현 조건을 찾는
 
 PS5는 같은 증상이라도 계정, 게임 버전, 연결 장비에 따라 원인이 달라질 수 있습니다. 그래서 가장 최근에 바꾼 설정과 문제가 시작된 시점을 기준으로 하나씩 되돌려 확인하시면 불필요한 재설치와 초기화를 줄일 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

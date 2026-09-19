@@ -17,7 +17,6 @@ image: "/assets/posts/news-images/gta6-netflix-leak-2026-01.jpg"
 imageAlt: "GTA 6 넷플릭스 독점 공개 장면"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -46,17 +45,6 @@ hideDescription: true
 
 락스타게임즈는 해당 유출에 대해 "심장이 찢어진다(heartbreaking)"는 공식 입장을 냈고, 테이크투 인터랙티브는 법적 대응 예고까지 나왔습니다. 공식 데모 공개는 이 유출의 충격을 뚫고 커뮤니티 다시 팬들의 기대감을 끌어올린 전환점이 됐습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. '디스크 없는' 첫 대작?
 
 이번 공개에서 화제가 된 또 하나의 포인트는 물리매체(디스크) 없이 유통되는 대형 게임 시대가 열렸다는 점입니다. GTA 6는 일부 지역에서 디지털 전용으로 판매되며, 락스타가 넷플릭스와 손잡은 것 자체가 '게임 콘텐츠의 스트리밍화' 흐름을 상징하는 사례로 읽힙니다.
@@ -69,13 +57,3 @@ GTA 6는 오는 11월 19일 PS5와 Xbox Series X|S로 출시됩니다. 예약 �
 
 올해 연말 시장에서 가장 큰 화두가 될 이 게임이, 유출과 논란 속에서도 출시까지 정상 궤도를 지키고 있는지가 게임 업계 전체의 관심사입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

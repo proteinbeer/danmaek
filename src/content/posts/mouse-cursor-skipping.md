@@ -53,17 +53,6 @@ hideDescription: true
 
 센서와 표면 사이 거리가 순간적으로 달라지면 움직임이 끊기는 것처럼 느껴질 수 있죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 센서 렌즈는 마른 도구로 청소
 
 마우스를 뒤집어 센서 창을 보면 아주 작은 먼지나 머리카락이 붙어 있는 경우가 있습니다.
@@ -92,17 +81,6 @@ DPI가 지나치게 높으면 작은 손 떨림과 표면 변화가 크게 느�
 
 잘못된 표면 보정이 특정 패드에서 오히려 불안정하게 작동하는 경우가 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 무선 연결 문제와 구분
 
 센서 문제처럼 보여도 실제로는 무선 신호가 순간적으로 끊기는 경우가 있습니다.
@@ -122,17 +100,6 @@ DPI가 지나치게 높으면 작은 손 떨림과 표면 변화가 크게 느�
 제가 권하는 순서는 마우스패드 교체, 센서 청소, DPI 초기화, 유선 비교, 다른 PC 테스트입니다.
 
 이 순서대로 가면 분해나 교체에 들어가기 전에 대부분의 외부 원인을 먼저 지울 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 새 마우스를 사기 전 체크할 기준
 

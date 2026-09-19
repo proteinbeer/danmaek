@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/robot-protest-poland-2026-01.jpg"
 imageAlt: "로봇이 인간 일자리를 지켜달라 시위했다, 폴란드에서 벌어진 장면"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -55,17 +54,6 @@ AI 일자리 논쟁은 이미 수없이 반복됐습니다.
 
 저는 이 행사가 내용보다 연출에서 성공한 사례라고 봅니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 자동화 공포는 새롭지 않다
 
 기계가 사람 일자리를 없앤다는 걱정은 산업혁명 때부터 반복됐습니다.
@@ -86,17 +74,6 @@ AI가 다른 점은 육체노동뿐 아니라 글쓰기와 디자인, 코딩 같
 
 생산성 이익을 노동자와 사회가 어떻게 나눌 것인지가 더 어려운 질문입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 기업은 이미 계산을 시작했다
 
 AI 도구 도입을 발표하는 회사들은 비용 절감과 생산성 향상을 강조하죠.
@@ -116,17 +93,6 @@ AI 도구 도입을 발표하는 회사들은 비용 절감과 생산성 향상�
 저는 미래에 로봇이 인간 일자리를 지켜주는 일보다 인간이 기술 발전의 이익을 어떻게 나눌지 합의하는 일이 더 중요하다고 봅니다.
 
 이번 시위는 그 복잡한 질문을 가장 이상한 방식으로 잘 보여줬습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 정책은 기술보다 느리다
 
@@ -154,13 +120,3 @@ AI가 직업을 바꾸면 가장 먼저 필요한 건 새로운 기술을 배우
 
 기술보다 제도가 늦는 문제는 앞으로 여러 나라가 반복해서 마주칠 가능성이 큽니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

@@ -49,17 +49,6 @@ hideDescription: true
 
 로컬 환경에서 잘 되는지 확인한 뒤 외부 연결로 넓혀야 인터넷 회선 문제와 기기 설정 문제를 구분할 수 있죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 가장 중요한 건 호스트의 유선 연결
 
 리모트 플레이가 끊긴다고 클라이언트 화질만 낮추는 경우가 많습니다.
@@ -80,17 +69,6 @@ hideDescription: true
 
 무조건 최고 화질보다 게임 장르에 맞는 균형을 찾는 것이 중요합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 패드가 안 잡힐 때
 
 클라이언트 기기에 연결한 패드는 입력 정보가 네트워크를 거쳐 호스트 PC의 게임으로 전달됩니다.
@@ -110,17 +88,6 @@ hideDescription: true
 저는 리모트 플레이를 저사양 PC를 고사양 PC로 바꾸는 기술보다 고사양 PC의 화면과 입력을 다른 장소로 빌려주는 기능으로 보는 편이 정확하다고 생각하죠.
 
 이 원리를 이해하면 사양보다 네트워크부터 손봐야 하는 이유도 자연스럽게 보입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 문제를 네트워크와 영상으로 나누기
 

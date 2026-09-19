@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/control-resonant-requirements-2026-01.jpg"
 imageAlt: "컨트롤 레저넌트 사양 공개, RTX 5080도 업스케일링이 기본"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -55,17 +54,6 @@ SSD를 거의 가득 채운 상태에서는 패치 공간까지 부족할 수 �
 
 사양표 숫자만 보고 GTX 1070으로 네이티브 1080p 30FPS를 보장한다고 이해하면 차이가 생길 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. RTX 5080의 역할
 
 4K 패스 트레이싱 최고 설정에서는 RTX 5080급이 필요하죠.
@@ -86,17 +74,6 @@ SSD를 거의 가득 채운 상태에서는 패치 공간까지 부족할 수 �
 
 업스케일링 사용을 숨기지 않고 기준을 적는 것이 앞으로 더 일반적인 표기 방식이 되는 편이 낫습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 네이티브 해상도의 의미가 바뀐다
 
 DLSS와 FSR 품질이 좋아지면서 네이티브 렌더링만이 정답이라는 인식도 약해졌습니다.
@@ -116,17 +93,6 @@ DLSS와 FSR 품질이 좋아지면서 네이티브 렌더링만이 정답이라�
 저는 출시 뒤 벤치마크에서 최고 FPS보다 업스케일링 단계별 화질 차이를 먼저 보고 싶습니다.
 
 RTX 5080까지 기본적으로 업스케일링을 쓰는 시대라면 사양표를 읽는 방법도 예전과 달라져야 하죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 출시 뒤 봐야 할 벤치마크
 
@@ -152,13 +118,3 @@ RTX 5080까지 기본적으로 업스케일링을 쓰는 시대라면 사양표�
 
 출시 뒤에는 최고 사양 데모보다 중급 그래픽카드에서 얼마나 안정적으로 돌아가는지가 더 넓은 이용자 평가를 결정할 가능성이 큽니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

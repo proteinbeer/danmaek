@@ -42,17 +42,6 @@ hideDescription: true
 
 레이 트레이싱을 사용하려면 라데온 RX 6700 XT 12GB 또는 지포스 RTX 3060 12GB 수준이 필요합니다. 권장 사양 그래픽카드라고 해서 모든 레이 트레이싱 옵션을 편하게 쓸 수 있다는 의미는 아니며, 프레임이 중요하면 먼저 끄고 기본 성능을 확인하시는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 프리셋과 레이 트레이싱부터 조정
 
 게임이 버벅일 때 세부 옵션을 전부 건드리기 전에 현재 프리셋을 한 단계 낮춰 차이를 확인하십시오. 최소 사양 근처라면 성능 우선, 권장 사양 근처라면 균형 프리셋부터 시작하기 좋습니다.
@@ -67,17 +56,6 @@ hideDescription: true
 
 16GB 메모리가 공식 기본이라 브라우저 탭과 영상 프로그램, 녹화 프로그램을 많이 켜두면 여유가 줄어들 수 있습니다. 프레임이 불안하면 게임 외 프로그램을 줄여 비교해 보십시오. 오버레이와 실시간 녹화 기능도 일시적으로 꺼보고 차이를 확인하면 원인을 좁히기 쉽습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 평균보다 최저 프레임을 본다
 
 프라그마타는 사격과 해킹을 동시에 처리하는 액션 게임이라 안정적인 프레임이 조작감에 영향을 줍니다. 최소 사양 가까운 환경에서는 그래픽 옵션을 높이기보다 45FPS에서 60FPS 사이를 안정적으로 유지하는 편이 더 좋습니다.
@@ -89,17 +67,6 @@ hideDescription: true
 공식 사양에서도 SSD를 권장합니다. 평균 FPS가 직접 크게 오르지 않더라도 구역 이동과 데이터 로딩 중 순간 끊김을 줄이는 데 도움이 될 수 있습니다. HDD에 설치되어 있고 이동 중 스터터가 반복된다면 그래픽 옵션보다 SSD 이동을 먼저 고려하시는 편이 좋습니다.
 
 출시 이후 성능 패치와 그래픽 드라이버가 계속 바뀔 수 있습니다. 갑자기 프레임이 떨어졌다면 최신 게임 버전과 GPU 드라이버 상태를 먼저 확인하십시오. 업데이트 직후 문제가 시작됐다면 무조건 내 설정 탓이라고 단정하지 말고 같은 증상이 있는지도 확인하는 편이 좋습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 플랫폼과 백업 정리
 

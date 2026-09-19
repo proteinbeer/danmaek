@@ -50,17 +50,6 @@ hideDescription: true
 
 막달레나는 글러티드 마이어 끝에서 가시 롤러가 달린 의자를 타고 싸우는 보스입니다. 의자 뒤쪽을 반복해서 때리면 일반 경직과 별개로 보스를 흔들 수 있어 정면 롤러를 상대하지 않고 옆을 통과해 뒤를 잡는 것이 핵심이죠. 바닥 화염은 공격 기회가 보여도 먼저 안전한 곳으로 이동하고, 절반 체력에서 나오는 소환은 보스 대신 정리한 뒤 다시 붙으며 말벌 구름과 팔 대포의 추적 탄환은 범위를 벗어나 회피하면 됩니다. 라즐로를 쓴다면 셸 스킬의 화염 저항도 도움이 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 로스트 차일드와 네임리스 캡티브
 
 로스트 차일드는 생귀인 캐번 끝의 거대 괴물입니다. 붉은 표시가 나는 물기는 방어하려고 버티지 말고 바로 거리를 벌리고, 일반 물기는 세 번까지 이어질 수 있어 첫 공격만 피했다고 곧바로 반격하지 말고 콤보가 끝났는지 확인해야 합니다. 긴 팔 휘두르기는 전조가 길어 회피나 경화로 받아내기 좋고, 점프 내려찍기는 몸집 때문에 범위를 넓게 잡아 한 번 더 거리를 확보하죠. 뒤로 점프해 오물을 뿜는 패턴은 한 방향으로 계속 이동하며 옆으로 빠지면 되며, 절반 이후에는 팔 공격이 빨라지므로 반격 횟수를 줄이고 같은 패턴을 보는 편이 안전합니다.
@@ -72,17 +61,6 @@ hideDescription: true
 드뢰그는 컨커드 템플 끝의 냉기 중심 보스입니다. 마터스 애시 패시브나 에레드림의 냉기 저항을 챙기면 피해 부담이 줄고, 공격이 크고 느린 대신 방향 전환이 둔해 첫 공격을 넘긴 뒤 등 뒤에서 남은 콤보 동안 때릴 수 있죠. 세 번 연속 내려찍기 패턴은 뒤를 잡기 좋고, 절반 체력부터 나오는 추적탄은 아레나 왼쪽 돌판이나 오른쪽 나무 뒤를 이용하며 보스가 엄폐물에 가까우면 폭발 범위에 주의해야 합니다. 큰 모션 덕분에 패링 타이밍 연습 대상으로도 좋습니다.
 
 헥사포드는 위더드 숄스 끝에서 얼굴 앞 촉수로 정면 공격을 반복합니다. 전조가 짧게 느껴질 수 있어 경화가 패링보다 안전한 보험이 되고, 강화한 트라이악 리피터로 촉수가 열렸을 때 얼굴을 겨누면 근접 패턴 전부를 받을 필요가 없죠. 2페이즈의 추적탄은 드뢰그와 비슷하지만 수가 적어 주변 큰 뼈 구조물 뒤를 이용하거나 옆으로 이동하며 피할 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 서 아이작
 
@@ -97,17 +75,6 @@ hideDescription: true
 모놀리스는 두 덩어리 사이 중앙에 매달린 부분이 약점입니다. 1페이즈 공을 한두 번 내려찍는 공격은 두 번의 공 공격을 패링 기회로 쓸 수 있고, 몸 전체를 평평하게 내려찍는 공격은 뒤로 회피해 거리를 확보하세요. 2페이즈의 단일 추적 레이저는 옆으로, 부채꼴 레이저는 빔을 통과해 피할 수 있으며 3페이즈의 회전과 점프 착지 이후에는 아레나 전체를 가르는 네 줄 레이저가 회전하며 쏘아져 회전 방향과 같은 쪽으로 움직여 피하는 편이 좋습니다. 티엘의 그림자 회피와 분신이 내려찍기 시선 분산에 유용합니다.
 
 오렘은 세 번째 보스로 1페이즈가 타르 골렘의 복습처럼 느껴질 만큼 비슷하며 피해는 화염이 아닌 혈저주 성격이라 블러드시드를 장착하면 부담이 줄어듭니다. 2페이즈에 네발로 변한 뒤에는 플레이어 쪽 팔 내려찍기 아래를 통과해 다리를 짧게 치는 흐름이 반복되고, 멀리 떨어지면 짧은 전조의 돌진이 나오니 너무 도망가기보다 옆구리 근처에서 회피를 반복하는 편이 안전하죠. 등 지네 머리에서 나오는 투사체는 한 방향으로 이동하며 옆으로 피하면 대응하기 쉽습니다. 1페이즈에서 회복을 아껴 변형 이후에 여유를 남기세요.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 최종 보스 즈메이
 

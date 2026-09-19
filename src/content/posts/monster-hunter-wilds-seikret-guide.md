@@ -37,17 +37,6 @@ hideDescription: true
 
 자동 이동 중에는 다른 조작도 가능합니다. 인벤토리를 정리하거나, 칼을 갈고, 다음 행동을 계획하는 등 멀티태스킹을 하면 필드 이동 시간이 사냥 준비 시간으로 바뀝니다. 수집형 플레이를 한다면 자원 아이콘마다 웨이포인트를 잡아 순회하는 것이 가장 편한 채집 루트가 되죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 두 번째 무기 보관과 전투 중 무기 교체
 
 세이크레트는 하나의 보관 공간을 갖고 있어 두 번째 무기를 넣어 둘 수 있습니다. 무기 교체용 장비는 베이스 캠프나 포프업 텐트에서 사전에 설정하며, 전투 중 세이크레트를 호출해 보관함 접근 조작을 하면 바로 무기를 교체할 수 있습니다. 속성을 갈아끼워야 하는 몬스터 상대에서 빛을 발합니다.
@@ -59,17 +48,6 @@ hideDescription: true
 세이크레트는 전투에서도 활용됩니다. 탑승 상태에서 무기를 꺼내 공격하면 관통형 이동 공격을 하며, 슬링거나 원거리 무기는 탑승한 채로 발사할 수 있죠. 하차 공격은 점프와 동시에 사용하면 상대에게 큰 경직을 주는 진입기로 쓸 수 있어, 전투 개시를 빠르게 잡는 데 유용합니다.
 
 점프를 활용하면 마운트(등 올라타기)도 노릴 수 있습니다. 마운트에 성공하면 몬스터의 등에서 상처를 한 번에 여러 개 열 수 있으므로, 팔로우 중인 몬스터에게 세이크레트로 추월하다 하차하지 말고 점프 공격으로 마운트를 시도해 보세요. 마운트는 상처 시스템과 맞물려 사냥 속도를 크게 높이는 요소이죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 커스텀 해금 조건과 변경 항목
 
@@ -83,13 +61,3 @@ hideDescription: true
 
 이외에 사이드 퀘스트(하이랭크 구나파의 하이퀄리티 머티리얼, A Leviathan's Temper 등)를 완료하면 추가 장식이 열리고, 베타 테스트 보상이나 트위치 드롭을 통해서도 팬던트를 얻을 수 있습니다. 커스텀을 먼저 해금해 두면 퀘스트 보상으로 받은 장식을 바로 적용할 수 있으니, 1성 임무 클리어 후 노나를 꼭 찾아가십시오.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

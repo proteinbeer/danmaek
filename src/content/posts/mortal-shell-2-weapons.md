@@ -45,17 +45,6 @@ hideDescription: true
 
 아이코노클라스트는 다른 무기를 얻기 전까지 패링·경화·강공격 타이밍을 익히는 기준이 됩니다. 베테랑의 전투 도끼는 킹스 크립트의 몸에서 찾으며, 달리기 뒤 강공격이 두 번 회전해 보스전 리졸브 회복에 유용하죠. 도끼와 단검은 머시룸 빌리지에서 예배당 열쇠를 얻어 슈라인 오브 트라이얼을 끝까지 밀어야 합니다. 벽과 바닥 장치가 있어 전투만 하는 던전이 아니라 탐색도 필요합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 중반과 후반 주무기
 
 대순교자의 검은 마터스 프리즌에서 특정 방의 적을 모두 처리해야 무기 방이 열립니다. 흑요석 망치는 옵시디아나이트 마인의 예언자 미니보스를 잡으면 자동으로 획득하며, 피해량이 높은 만큼 공격 뒤 후딜을 먼저 확인하시는 편이 좋죠. 검은 바늘은 세스터스 게이트의 쌍둥이 세스터 전투 보상이고 액사타나는 더 사일런트 스텝 북동쪽 탑의 문을 연 뒤 안쪽에서 얻습니다. 시계태엽 낫은 사리엘 셸과 같은 흐름에서 부활용 무덤 네 개를 파괴하면 자동으로 들어오므로 셸과 무기, 보조 무기를 한 번에 정리하기 좋습니다.
@@ -74,17 +63,6 @@ hideDescription: true
 | 우리에 갇힌 하이스트릭스 | 체임버 오브 비커밍 출구 근처 |
 
 보조 무기의 획득 조건은 열쇠, 미니보스, 기믹 등이 서로 달라 목록을 놓고 확인하기 쉽습니다. 나일샷은 프롤로그에서 기본으로 받아 초반에 안전한 거리에서 적을 정리하는 습관을 들이는 데 그대로 쓰면 되죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 보조 무기 선택과 강화 순서
 

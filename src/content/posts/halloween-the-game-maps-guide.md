@@ -46,17 +46,6 @@ hideDescription: true
 
 민간인은 주민을 발견하면 가까운 전화기와 탈출 후보, 팀원의 위치를 함께 확인해 다음 행동을 바로 정하시는 것이 좋습니다. 루팅, 주민, 신고를 따로 처리하지 않고 한 동선에 묶으면 타운 센터의 복잡한 구조가 오히려 장점이 됩니다. 마이클은 코너와 골목을 이용해 출구를 예상하고, 놓쳤다면 빠르게 다른 주민이나 특수 목표로 전환하는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 오렌지 그로브 에스테이츠
 
 오렌지 그로브 에스테이츠는 여러 층의 큰 주택과 분리된 차고, 발코니, 놀이터가 있는 고급 주거 지역입니다. 원작의 도일 하우스와 월리스 하우스도 이 지역에 포함되어 있죠.
@@ -76,17 +65,6 @@ hideDescription: true
 넓은 들판과 도로는 마이클이 멀리서 스토킹하기 좋은 공간이기도 합니다. 시야가 넓다고 무조건 안전한 것은 아니며 한곳에서 오래 작업하면 멀리서 관찰당할 수 있습니다. 대신 여러 민간인이 서로 다른 방향을 확인하며 이동하면 셰이프 점프의 진입과 이탈 조건을 제한할 수 있죠. 마이클은 넓은 들판에서 운동 능력이 높은 민간인을 계속 걸어서 쫓는 것보다 상대가 향하는 시설과 도로를 보고 시야가 끊긴 뒤 셰이프 점프로 앞쪽 길목을 선점하는 편이 좋습니다.
 
 이스트 하돈필드는 넓어서 자유로워 보이지만 고립의 위험도 큰 맵입니다. 탈출을 작동하기 전에 동료가 같은 지역에 있는지, 주민을 데려올 준비가 됐는지, 마이클을 잠시 막을 수단이 있는지 확인하시는 것이 좋습니다. 넓은 공간에서 각자 떨어져 있으면 구조에 시간이 오래 걸리며, 큰 시설을 기준점으로 삼고 합류 지점을 정하는 것만으로도 민간인 운영이 안정됩니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 맵 공통 기억 법칙
 

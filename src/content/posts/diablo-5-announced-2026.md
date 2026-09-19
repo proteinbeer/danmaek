@@ -15,7 +15,6 @@ image: "/assets/posts/news-images/diablo-5-announced-2026-01.jpg"
 imageAlt: "디아블로 5 공식 발표, 디아블로가 이미 승리한 세계가 더 무서운 이유"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 draft: true
 ---
@@ -43,17 +42,6 @@ draft: true
 
 새로운 결정은 갑자기 나온 것처럼 보여도 이전 작품의 반응과 시장 변화가 쌓인 결과인 경우가 많습니다. 과거 방식을 그대로 반복하기 어려워진 지점에서 어떤 문제를 해결하려는지 보면 선택의 이유가 더 선명해집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 패배 이후에서 시작하는 이야기
 
 이 설정은 게임 플레이에도 영향을 줄 여지가 있습니다. 안전지대가 줄어들거나 악마가 지배하는 지역을 되찾는 구조, 생존 요소가 강해진 탐험, 세력 회복 같은 시스템이 들어간다면 디아블로 4의 단순 연장선과는 다른 느낌이 될 수 있습니다.
@@ -69,17 +57,6 @@ draft: true
 디아블로 5는 전작보다 더 어두운 이야기를 약속하는 것처럼 보이지만 중요한 것은 설정의 강도가 아니라 플레이와 연결되는 방식입니다. 실패한 세계라는 배경이 던전 구조와 성장, 지역 변화에까지 반영돼야 차기작만의 이유가 생깁니다.
 
 개인적으로는 이 지점이 가장 흥미롭습니다. 눈에 띄는 발표 하나보다 이런 방향 변화가 다른 작품과 서비스에도 반복될 때 회사 전체의 전략으로 굳어지는 경우가 많기 때문이죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 직업과 온라인 구조는 아직 미공개
 

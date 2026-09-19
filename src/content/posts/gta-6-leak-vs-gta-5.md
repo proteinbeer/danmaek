@@ -19,7 +19,6 @@ image: "https://img.danmaek.com/images/posts/gta-6-leak-vs-gta-5/04-gta6-car-tra
 imageAlt: "GTA 6 공식 트레일러 아트워크"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -56,17 +55,6 @@ GTA 6에서 실제로 얼굴과 옷과 차량이 따로 추적된다면 도주 �
 
 다만 화면에 표시된 그림의 정확한 의미는 아직 공식 설명이 따로 없습니다. 현재로서는 유출 영상을 바탕으로 한 해석이라고 보시면 되죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 연료와 엔진 상태
 
 GTA 5에서 자동차는 크게 파손되거나 불이 붙기 전까지 연료를 신경 쓰실 필요가 없었습니다. 주유소가 맵에 존재하지만 실제로 기름을 넣으며 차량을 관리하는 시스템은 없었죠.
@@ -90,17 +78,6 @@ GTA 5에서는 무기 선택 화면을 열면 캐릭터가 상당히 많은 총�
 GTA 6가 비슷한 방향으로 간다면 GTA 5처럼 무기를 사실상 무제한으로 들고 다니는 방식에서 벗어나 필요한 총기와 장비를 미리 준비하시는 과정이 중요해질 수 있습니다.
 
 아직 휴대 가능한 무기의 정확한 개수는 공식적으로 확인되지 않았기 때문에 제한형 무기 시스템이 확정됐다고 보기는 어렵죠. 다만 차량 보관함이 실제 화면에 나타난 만큼 장비 관리가 GTA 5보다 중요해질 가능성은 충분해 보입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 농구와 집중력 성장 시스템
 
@@ -128,13 +105,3 @@ GTA 5에서는 자동차를 훔치고 무기를 꺼내 범죄를 저지른 뒤 �
 
 다만 현재 유출본은 개발 중인 자료로 어떤 방향으로 개발되고 있는지 살펴보는 정도로 보시는 것이 좋겠죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

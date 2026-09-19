@@ -17,7 +17,6 @@ image: "/assets/posts/news-images/iphone-duo-2026-01.jpg"
 imageAlt: "색상별로 나열된 아이폰 듀오 이미지"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -48,17 +47,6 @@ hideDescription: true
 
 제가 보기에는 아이폰 듀오의 진짜 경쟁 상대가 갤럭시 폴드 한 모델만은 아닙니다. 큰 화면을 원하는 아이폰 사용자에게 아이패드 미니를 들고 다니지 않아도 되는 선택지를 제시한다는 점에서, 자기 제품군 안에서도 자리를 새로 만들어야 합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 1999달러는 부담스럽지만 계산된 가격일 수 있다
 
 가격만 놓고 보면 상당히 비쌉니다. 기본 아이폰을 사려던 사람이 조금 더 보태서 선택할 수준이 아니고, 처음부터 프리미엄 기기를 원하는 사람을 겨냥한 가격이죠.
@@ -73,17 +61,6 @@ hideDescription: true
 그래서 아이폰 듀오를 볼 때 접힌다는 사실은 사실상 출발점에 불과합니다. 화면 주름, 힌지, 두께, 앱 전환, 배터리, 카메라처럼 매일 쓰면서 느끼는 부분이 1999달러를 납득시키느냐가 더 중요하죠.
 
 애플 팬이라는 이유만으로 넘어가기에는 가격대가 높죠. 반대로 완성도가 충분하다면 늦게 들어온 게 오히려 문제를 피하고 들어온 시간으로 평가될 수도 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 첫 폴더블 아이폰의 진짜 시험
 
@@ -102,13 +79,3 @@ hideDescription: true
 
 결국 1999달러는 하드웨어 가격이면서 새로운 사용 습관에 매기는 가격입니다. 접는 기능보다 펼쳤을 때 무엇을 하게 만드느냐가 아이폰 듀오의 운명을 정할 가능성이 큽니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

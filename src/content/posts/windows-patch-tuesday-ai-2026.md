@@ -17,7 +17,6 @@ image: "/assets/posts/news-images/windows-patch-tuesday-2026-01.jpg"
 imageAlt: "보안 취약점 구조를 나타내는 일러스트"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -44,17 +43,6 @@ hideDescription: true
 
 즉 972개라는 숫자는 윈도우가 갑자기 엉망이 됐다는 뜻만은 아닙니다. 오히려 숨어 있던 문제를 드러내는 속도가 빨라졌고, 그 결과 패치해야 할 목록이 눈에 보일 만큼 커졌다는 해석이 더 정확합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 숫자보다 중요한 업데이트 습관
 
 보안 뉴스를 보다 보면 숫자 경쟁처럼 느껴질 때가 있습니다. 하지만 일반 사용자 기준으로 진짜 중요한 것은 이번 달 취약점이 972개였느냐가 아니라, 실제 악용 중인 문제를 패치했느냐입니다.
@@ -66,17 +54,6 @@ hideDescription: true
 이번 소식을 단순 패치 뉴스로 쓰면 딱딱해지기 쉽습니다. 오히려 AI가 세상을 편하게만 바꾸는 것이 아니라, 소프트웨어의 약점까지 더 빨리 찾는 시대를 열었다는 쪽이 더 흥미롭습니다.
 
 아이러니하지만, 안전해지려면 먼저 더 많은 위험이 보이기 시작해야 하는 시대가 된 셈입니다. 발견이 빨라지는 것 자체는 공격자에게도, 방어자에게도 같은 조건으로 다가옵니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 패치 뉴스가 커지는 시대
 

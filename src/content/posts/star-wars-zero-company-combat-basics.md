@@ -17,7 +17,6 @@ image: "/assets/posts/guide-images/star-wars-zero-company-2026-01.jpg"
 imageAlt: "스타워즈 제로 컴퍼니(STAR WARS: Zero Company) 전술 게임 대표 이미지"
 imageWidth: 616
 imageHeight: 353
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -39,17 +38,6 @@ hideDescription: true
 
 가능하면 위협이 큰 적부터 집중해 확실히 지우는 쪽이 유리합니다. 전술 게임은 체력 합이 아니라 살아 있는 적 숫자가 압박을 만듭니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 엄폐는 필수 자원이다
 
 엄폐는 방어 옵션이 아니라 생존 자원입니다. 적을 더 잘 보기 위해 열린 자리에 서는 것보다, 반격을 덜 받는 자리에 서는 편이 장기적으로 훨씬 강합니다.
@@ -62,17 +50,6 @@ hideDescription: true
 
 좁은 통로, 증원 위치, 목표 지점 앞에 오버워치를 깔아두시면 적이 움직이기 훨씬 까다로워집니다. 공격 욕심이 날수록 오히려 마지막 행동을 오버워치로 남기는 판단이 강합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 어드밴티지는 흐름을 뒤집는 자원
 
 공식 도움말에서도 어드밴티지는 전투가 진행되며 쌓이는 공유 자원으로 설명됩니다. 강한 능력을 쓰는 데 드는 만큼, 누구에게 언제 쓸지 팀 전체 기준으로 보셔야 합니다.
@@ -84,17 +61,6 @@ hideDescription: true
 아군이 다운되면 한 명이 빠지는 것이 아니라 전술 선택지 하나가 통째로 사라집니다. 장비, 기술, 지원 능력이 함께 비어버리기 때문에 전투 난도가 급격히 올라갑니다.
 
 랠리는 단순 구조 행동이 아니라 전투 복구 수단입니다. 안전이 보장된다면 빨리 복구하시는 편이 좋고, 메딕이 있다면 이 과정 자체가 훨씬 쉬워집니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 좋은 전투는 예측 가능한 전투
 

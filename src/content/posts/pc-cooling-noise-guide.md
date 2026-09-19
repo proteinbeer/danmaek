@@ -44,17 +44,6 @@ hideDescription: true
 - 케이블을 정리해 팬 회전을 방해하지 않게 합니다.
 - 먼지 필터가 막히면 공기 흐름이 확 줄어들므로 주기적으로 청소가 필요하죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 먼지 청소
 
 발열과 소음의 가장 흔한 원인은 내부에 쌓인 먼지입니다. 전원을 완전히 끄고 케이스를 열어 진행하시면 됩니다.
@@ -75,17 +64,6 @@ hideDescription: true
 
 쿨러를 분리할 때는 힘을 세게 주지 말고 **살짝 비틀어** 들어올려야 CPU가 함께 뽑히는 것을 막을 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 팬 속도와 성능 옵션 조정
 
 온도는 괜찮은데 소음만 문제라면 팬이 항상 최대 속도로 도는 게 원인입니다. 팬 커브를 조정하면 온도와 소음의 균형을 맞출 수 있죠.
@@ -104,13 +82,3 @@ hideDescription: true
 
 부품 교체는 파워 서플라이 용량과 케이스 내부 공간을 확인한 뒤 진행하시기 바랍니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

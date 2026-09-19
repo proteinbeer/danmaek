@@ -15,7 +15,6 @@ image: "/assets/posts/news-images/blizzard-2029-2030-games-2026-01.jpg"
 imageAlt: "블리자드는 왜 2029년과 2030년 게임을 벌써 공개했을까"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 draft: true
 ---
@@ -43,17 +42,6 @@ draft: true
 
 새 결정은 이전 콘텐츠의 반응과 시장 변화가 쌓인 결과인 경우가 많습니다. 과거 방식에서 무엇이 부족했는지 보면 이번 선택이 해결하려는 문제가 더 선명하게 보입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 팬과 개발자에게 보내는 장기 신호
 
 이런 발표는 채용에도 영향을 줍니다. 어떤 프로젝트가 진행 중인지 공개되면 해당 장르와 프랜차이즈에 관심 있는 개발자를 끌어들이기 쉬워지고 내부적으로도 프로젝트의 존재를 숨기기 위한 부담이 줄어듭니다.
@@ -69,17 +57,6 @@ draft: true
 대형 프로젝트를 일찍 공개하면 개발팀도 팬의 시선을 오래 받아야 하죠. 자신감을 보여주는 효과가 있는 만큼 일정이 바뀌거나 방향이 수정될 때 설명 책임도 커지기 때문에 앞으로의 소통 방식이 중요합니다.
 
 개인적으로는 이 부분이 가장 흥미롭습니다. 작은 방향 변화가 다른 작품과 서비스에도 반복될 때 일회성 실험이 아니라 회사 전체 전략으로 굳어지는 경우가 많기 때문이죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 이제 필요한 것은 꾸준한 개발 공개
 

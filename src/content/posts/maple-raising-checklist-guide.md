@@ -16,7 +16,6 @@ image: "/assets/posts/coupon-images/maple-raising-coupon.jpg"
 imageAlt: "메이플 키우기 방치형 RPG 게임 이미지"
 imageWidth: 454
 imageHeight: 224
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -38,17 +37,6 @@ hideDescription: true
 
 하루 2번 정도 접속해 보상을 비워주는 것이 기본입니다. 아침·저녁으로 나누면 상한을 넘기지 않으면서 보상을 안정적으로 챙길 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 성장 던전 입장권 소진
 
 성장 던전은 입장 횟수 제한이 있습니다. 보상이 크고, 놓치면 매일 쌓이는 것이 아니라 한 번 날린 것이 곧 손해로 돌아옵니다.
@@ -60,17 +48,6 @@ hideDescription: true
 방치형 게임의 광고 보상은 무료 수급처 중 큰 비중을 차지합니다. 하루 제한이 있지만 그 제한 안에서 쓰는 만큼 재화를 확보할 수 있어 놓치면 손해입니다.
 
 모든 광고를 다 보는 것이 부담될 수 있지만, 보상 배율이 높은 광고(경험치·골드 부스트 등)는 최대한 소진하는 편이 좋습니다. 5～10분이면 충분히 마무리됩니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 주간 초기화 항목
 
@@ -84,13 +61,3 @@ hideDescription: true
 
 이 세 가지만 해도 그날의 핵심 재화가 확보되고, 주간 초기화 항목은 다음 여유 있는 날에 소화하면 됩니다. 모든 것을 완벽히 하려다 놓치는 것보다, 최소한이라도 빠뜨리지 않는 것이 방치형에서 가장 중요합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

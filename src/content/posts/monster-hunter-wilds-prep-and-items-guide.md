@@ -38,17 +38,6 @@ hideDescription: true
 
 장기 버프 아이템은 데몬드러그(공격력 상승)와 아머스킨(방어력 상승)이 대표적입니다. 둘 다 30분 동안 지속되어 헌트당 한 번씩만 복용하면 충분하므로 출격 직전에 먹는 것이 정석입니다. 후반에는 노리싱 엑스트랙트로 더 강한 메가 버전을 만들 수 있고, 이 재료는 5번째 지역부터 가디언 세이크레트, 가디언 도슈구마, 가디언 이보니 오도가론에게서 얻을 수 있습니다. 데몬드러그·아머스킨·이뮤니저에 노리싱 엑스트랙트를 조합하면 전투 지속 능력이 크게 늘어납니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 함정과 보조 아이템의 준비
 
 함정은 포획 상황을 대비한 아이템입니다. 신속함정(함정 도구+번개벌레 축전기)과 댓가함정(함정 도구+그물)을 미리 조합해 파우치에 넣어 두고, 수면탄(수면초+파라버섯)을 함께 준비하면 포획 조건 퀘스트를 안전하게 처리할 수 있습니다. 함정 도구는 잡화상의 준비품 스톡파일에서 구매할 수 있습니다.
@@ -61,17 +50,6 @@ hideDescription: true
 
 레이더 메뉴는 조합 단축키 역할도 합니다. 아이템이 소진됐을 때 재료만 있다면 레이더 메뉴에서 해당 아이템을 선택하는 것만으로 즉시 조합이 진행되므로, 포션이 떨어진 순간에도 허브와 꿀이 있다면 계속 이어서 싸울 수 있습니다. 자주 쓰는 조합은 메뉴에 미리 설정해 두십시오.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 식사의 기본 효과와 지속 시간
 
 식사는 최대 체력 50과 최대 스테미너 150을 상승시켜 줍니다. 이 수치는 사냥 전 육포를 따로 소비할 필요 없이 한 끼로 확보하는 주요 버프이며, 몬스터 공격을 버티는 기준이 됩니다. 식사 효과가 유지되는 동안 체력 게이지 상한이 늘어나 피격 여유가 커집니다.
@@ -83,17 +61,6 @@ hideDescription: true
 식사 한 끼에는 랜덤으로 결정되는 식사 스킬이 최대 2개까지 붙습니다. 이 스킬은 장비의 보디빌딩 스킬과 별개로, 몬스터 포획 확률 상승, 갈무리 소재 증가, 회피에 유리한 헌팅 스킬 등이 발동 조건에 따라 적용됩니다. 식사 스킬의 종류는 식재료의 속성에 따라 달라져, 몬스터 고기 중심은 공격 관련, 채소나 허브 중심은 방어 관련 스킬이 붙는 경향이 있습니다. 발동 조건을 확인하지 않으면 낭비되므로 퀘스트 내용을 보고 식단을 고르는 습관이 좋습니다.
 
 식재료는 필드의 수집 포인트나 몬스터 소재로 모으는데, 고기류는 몬스터나 소형 생물에서, 채소·과일류는 식물 수집 포인트에서 주로 얻습니다. 각 식재료가 붙여 주는 식사 스킬이 정해져 있으므로 자주 쓰는 스킬의 재료는 상점이나 수집으로 비축해 두십시오. 캠프에서는 자주 쓰는 식단을 미리 등록해 두면 소재만으로 한 번에 조리할 수 있습니다. 식권은 식사를 한 끼 강화하는 아이템으로, 사용하면 항상 식사 스킬이 최상의 발동 결과로 적용되어 랜덤 요소를 제거합니다. 소모성 아이템이므로 하이랭크 후반의 어려운 조사 퀘스트나 템퍼드·우두머리급 전투에 아껴 쓰는 편이 효율적입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 필드 식사와 몬스터별 맞춤 로드아웃
 

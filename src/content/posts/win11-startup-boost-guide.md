@@ -16,7 +16,6 @@ image: "/assets/posts/guide-images/hero-bloom.jpg"
 imageAlt: "윈도우 11 시작 프로그램을 정리할 PC"
 imageWidth: 1920
 imageHeight: 1080
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -36,17 +35,6 @@ hideDescription: true
 
 이 화면은 현재 부팅에 미치는 영향 정도를 함께 보여주어, 영향이 큰 앱부터 정리하기 좋습니다. 설정에서는 앱을 켜고 끄는 것에 그치지만, 실행 성능에 미치는 영향은 확인할 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 작업 관리자에서 끄기
 
 더 자세한 정보가 필요하면 작업 관리자를 사용하면 됩니다. **시작 버튼을 마우스 오른쪽 버튼으로 클릭 → 작업 관리자**를 열고, **시작 앱** 탭으로 이동하면 됩니다. 각 앱의 상태와 부팅 영향(없음/낮음/높음)이 표시됩니다.
@@ -58,17 +46,6 @@ hideDescription: true
 설정과 작업 관리자에 나타나지 않는 앱은 시작 폴더에서 직접 관리할 수 있습니다. **윈도우 키 + R**을 눌러 실행 창을 열고 `shell:startup`을 입력하면 현재 사용자의 시작 폴더가 열립니다. 여기 있는 바로가기를 삭제하거나 옮기면 시작 프로그램에서 빠집니다.
 
 모든 사용자에게 적용하려면 `shell:common startup`을 사용하면 됩니다. 시작 폴더는 파일 탐색기처럼 보이므로, 잘못 지우지 않도록 조심해서 정리하면 됩니다. 의심되는 바로가기만 삭제하고 나머지는 그대로 두는 것이 좋습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 정리 후 주의할 점
 

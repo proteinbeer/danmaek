@@ -37,17 +37,6 @@ hideDescription: true
 
 한 명이 상자를 여는 동안 다른 팀원이 주변을 살피면 훨씬 안전합니다. 네 명이 같은 방에서 동시에 수색하기보다 역할을 나눠 시야를 유지하는 편이 마이클의 기습을 줄일 수 있죠. 출시 패치에서는 각 매치에 등장하는 수리 키트의 수가 늘어나 신규 이용자가 탈출 준비를 진행하다 필요한 물건을 찾지 못해 멈추는 상황을 줄였습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 무기와 방해 도구 활용
 
 민간인은 근접 무기와 투척 가능한 생활용품, 상황에 따라 총기를 활용할 수 있습니다. 무기가 나왔다고 마이클을 찾아다니기보다 동료 구출이나 탈출 작업 보호에 쓰는 편이 가치가 큽니다. 마이클은 완전히 죽일 수 없는 존재이고 반복적인 방해 효과에도 감소 효과가 적용되므로 전투 아이템은 처치보다 위험한 순간을 한 번 넘기는 자원이라고 생각하시면 낭비가 줄어듭니다.
@@ -59,17 +48,6 @@ hideDescription: true
 탈출에 필요한 주요 물건을 찾았다면 혼자 들고 맵 반대편으로 이동하기보다 팀이 알고 있는 탈출 후보와 연결해야 합니다. 다른 플레이어가 이미 필요한 작업을 진행하고 있을 수도 있고, 더 안전한 탈출 루트가 발견됐을 수도 있습니다. 아이템 위치가 고정되지 않는 게임에서는 정보 공유 자체가 공략이며 무엇을 찾았는지와 어디로 가져갈지 정한 뒤 움직이면 같은 지역을 여러 번 왕복하는 일을 줄일 수 있습니다.
 
 가방 공간이 제한된 상황에서는 현재 목표와 관계없는 물건을 끝까지 들고 다니는 것도 손해가 될 수 있습니다. 팀원이 더 잘 활용할 수 있는 전투 도구나 수리 관련 물건이라면 합류 지점에서 넘겨 주고 자신은 다음 탐색을 맡는 식으로 자원을 돌리는 편이 좋습니다. 루팅의 기준은 희귀해 보이는 물건이 아니라 지금 판을 앞으로 움직이는 물건입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 소음 관리와 탈출 타이밍
 
@@ -85,13 +63,3 @@ hideDescription: true
 
 탈출은 하나의 고정 공략보다 상황 판단 게임에 가깝습니다. 출구, 아이템, 주민, 경찰, 마이클의 위치를 따로 보지 말고 하나의 준비 단계로 묶어서 생각하시면 매 판 바뀌는 구조에도 훨씬 쉽게 적응할 수 있습니다. 탈출 지점을 찾은 사람은 위치만 알리지 말고 필요한 준비가 무엇인지까지 함께 공유하시면 좋으며, 루팅은 목표가 없는 수색은 시간을 많이 먹으므로 상자 하나를 열 때마다 지금 필요한 것이 전투인지 탈출인지 주민 구조인지 판단하면 아이템 운용이 훨씬 명확해집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

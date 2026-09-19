@@ -49,17 +49,6 @@ USB 허브는 포트 하나를 여러 개로 늘려주기 때문에 주변기기
 
 전력 문제와 대역폭 문제는 서로 다른 제한이기 때문에 두 가지를 따로 확인해야 하죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 모든 포트가 같은 대역폭을 나눠 쓴다
 
 허브의 여러 포트는 결국 PC와 연결된 하나의 상위 USB 연결을 공유합니다.
@@ -84,17 +73,6 @@ USB C 허브는 노트북 충전 전원을 통과시키는 전원 공급 입력�
 
 이 포트에 외장 SSD를 꽂아도 데이터가 연결되지 않는 경우가 있으니 모양만 보고 사용하시면 안 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 케이블이 병목일 수도 있다
 
 허브와 PC를 연결하는 케이블이 분리형이라면 케이블 규격도 전체 성능에 영향을 줍니다.
@@ -114,17 +92,6 @@ USB C 허브는 노트북 충전 전원을 통과시키는 전원 공급 입력�
 그다음 허브에 장치를 하나씩 다시 추가하면 어느 시점부터 문제가 생기는지 확인할 수 있죠.
 
 한 번에 모두 연결한 상태에서 원인을 찾는 것보다 훨씬 빠른 방법입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 포트 수보다 구성
 
@@ -154,13 +121,3 @@ USB 허브를 고를 때 포트 개수가 많으면 좋아 보이지만 실제�
 
 손을 대기 어려울 정도로 과열된다면 연결 장치 수를 줄이고 제품 상태를 확인하셔야 합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

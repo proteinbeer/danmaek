@@ -40,17 +40,6 @@ hideDescription: true
 
 세상에는 총 111개의 성소가 빠른 이동 거점으로 배치되어 있고, 일부는 파손 상태로 시작해 수리를 요구합니다. 성소는 이동뿐 아니라 스킬 해금과 교본 사용의 장소이기도 하므로, 새 지역에 들어가면 성소부터 만지는 것이 기본 흐름이죠. 많은 성소는 전망대가 밝혀준 뒤 물음표로 표시되므로, 물음표를 뜯어보면서 성소와 상인, 활동 거점을 함께 정리하면 지도 여행이 한 번에 끝납니다. 스바트라우는 넓고 경비대가 돌아다니므로 도시 앞 관문 성소를 미리 열어두면 시간이 절약되고, 상층부는 쉐도우스텝으로 옥상에 오른 뒤 잠입 탐색하면 경비와의 충돌을 피할 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 트로피 47의 전체 구성
 
 트로피는 플레이스테이션 기준 47개로, 플래티넘 1, 골드 3, 실버 5, 브론즈 38로 구성되며 스팀과 엑스박스는 플래티넘 없는 46개입니다. 플래티넘 '에브리 라스트 드롭'은 전 트로피 획득이 조건이라 나머지 전부를 모은 뜻에서 저절로 열리죠.
@@ -60,17 +49,6 @@ hideDescription: true
 ## 4. 수집형 트로피: 깃발·수송대·마을
 
 탐색 과정에서 자연히 채워지는 수집형 트로피를 정리합니다. '버즈 아이 뷰'는 전망대 11개를 모두 활성화하는 것이고, '캡처 더 플래그'는 브렌시스의 깃발 5개를 모두 찢어내는 조건이죠. '딜리버리 딜레이'는 브라키르 수송대 10곳 중 8곳을 파괴하면 열리며, 수송대 파괴는 궁정 활동의 일부라 악명 상승과 겹칩니다. '투어 가이드 트레이닝'은 발레 상고라의 마을 8곳을 방문하는 것으로, 방문 도중 상인과 활동이 함께 정리됩니다. 도시 스바트라우를 포함한 방문은 어떤 경로로도 필연적으로 달성되므로, 지도를 완전히 밝힌 시점에 대부분이 이미 완료돼 있습니다. 남은 깃발만 지도 확인 후 하나씩 보러 가면 되죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 성자의 검 재건조와 전설 장비 트로피
 
@@ -85,17 +63,6 @@ hideDescription: true
 엔딩 트로피 넷은 한 저장에서 순서대로 볼 수 있습니다. 핵심은 세 보스 대면 후 하루를 넘겨 최종 퀘스트가 뜬 시점에 저장 C를 남기는 것이죠. 저장 C에서 포크 히어로(홀로 싸우기)와 턴코트(거래 선택)를 확인하고, 라크라와 크레이크의 체인을 종결 직전까지 끝낸 저장 D에서 패트리사이드와 크냐즈메이커를 각각 엽니다. 에필로그가 끝나면 타이틀로 돌아가므로, 저장 D는 절대 덮어쓰지 않는 것이 원칙입니다.
 
 골드의 핵심 난관은 듀얼리스트 난이도 완주인 '업 힐 배틀'입니다. 시작 난이도를 낮게 설정했다가 중간에 올리면 인정되지 않으므로, 완벽 방어와 체력 관리에 익숙해진 뒤 도전하는 것이 안전합니다. '인 더 닉 오브 타임'은 궁정 활동만 추려도 대면이 10일 안에 끝나므로 초반부터 스토리를 밀면 자연히 따라오며, 레벨 50의 실버 '글라스 실링'은 무료 야수 사냥과 관심 지점 탐색을 습관화하면 도달하죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 경제·스킬·브론즈 트로피 팁
 

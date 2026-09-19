@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/gemini-windows-app-2026-01.jpg"
 imageAlt: "제미나이 윈도우 앱 출시, 알트 스페이스 한 번으로 코파일럿과 붙는다"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -43,17 +42,6 @@ AI 챗봇 경쟁은 웹사이트 성능만으로 끝나지 않고 운영체제�
 
 기술 변화는 제품 하나에서 끝나지 않고 기업 전략과 규제, 이용 습관까지 이어집니다. 왜 지금 이런 결정이 나왔는지 보면 단순한 기능 추가보다 더 큰 흐름이 보입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. Gmail과 구글 드라이브 연결
 
 문서나 메일을 자주 다루시면 단축키 호출의 차이가 생각보다 크죠. 작업 화면을 떠나지 않고 초안을 고치거나 요약을 요청할 수 있어 짧은 요청일수록 데스크톱 앱의 장점이 커집니다.
@@ -69,17 +57,6 @@ AI 챗봇 경쟁은 웹사이트 성능만으로 끝나지 않고 운영체제�
 데스크톱 AI의 경쟁력은 답변 품질만으로 결정되지 않습니다. 부르는 데 걸리는 시간과 다른 앱의 정보를 얼마나 자연스럽게 가져오는지가 중요해지면서 단축키 하나와 권한 설계가 서비스 선택에 큰 영향을 줄 수 있죠.
 
 개인적으로는 이 지점이 가장 중요해 보입니다. 기술은 빠르게 바뀌지만 사람과 제도가 적응하는 속도는 느리기 때문에 작은 설계 차이가 시간이 지나면 큰 신뢰 차이로 이어질 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 네이티브 기능이 얼마나 늘어날까
 

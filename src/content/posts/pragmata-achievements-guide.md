@@ -42,17 +42,6 @@ hideDescription: true
 
 미니 캐빈은 다섯 메인 구역에 세 개씩 배치된 독특한 수집 요소로 소리를 듣고 찾아 사격해야 합니다. 탈출 해치도 구역 진행률과 별도 취급되는 경우가 많아 업적까지 노리신다면 트램 터미널에서 빠진 곳을 체크하시는 편이 좋죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 한 번 놓치기 쉬운 업적
 
 일부 공략에서는 스위퍼 봇 관련 도전 과제를 놓치기 쉬운 항목으로 지적합니다. 등장 기회가 제한적이고 무작위성이 있어 보이면 가능한 한 처리해 두는 편이 안전합니다.
@@ -69,17 +58,6 @@ hideDescription: true
 
 새 보드가 열렸다면 필요한 장비와 보상을 확인하고 코인을 적극적으로 사용하시는 편이 좋습니다. 모든 보드를 끝낸 뒤에는 남는 코인을 다른 자원으로 바꿀 수 있는 흐름도 있어 과하게 아낄 필요는 없습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 오브젝트 스캔을 활용한다
 
 100퍼센트 정리에서 가장 귀찮은 것은 마지막 한두 개 수집품입니다. 오브젝트 스캔 관련 기능을 활용하면 놓친 상자와 업그레이드 자원을 찾는 시간을 크게 줄일 수 있습니다.
@@ -95,17 +73,6 @@ hideDescription: true
 첫 엔딩을 봤다고 바로 새 게임으로 넘어가지 마시고 현재 저장에서 언노운 시그널을 먼저 확인하시는 편이 좋습니다. 수집과 업적은 구역을 다시 돌아다니는 김에 별도 도전 요소까지 체크하는 식으로 함께 처리하면 효율적입니다.
 
 루나틱은 최고 난도로 새 게임에서 시작해야 하므로 뉴 게임 플러스와 목적이 다릅니다. 업적 100퍼센트가 목표라면 현재 저장 언노운 시그널, 별도 루나틱 새 게임 순서가 더 중요하죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 두 회차 계획이 가장 깔끔하다
 

@@ -40,17 +40,6 @@ hideDescription: true
 
 각 장비 역할이 뚜렷해서 처음 시스템을 배우기에 좋고 특별히 한 부분이 약하지 않아 어느 구역에서도 무난합니다. 초반에는 범용 장비 몇 개만 잘 키워도 충분합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 보스용 원거리 조합
 
 보스가 가까이 붙기 어렵거나 약점 노출 시간이 짧다면 차지 피어서 가치가 올라갑니다. 스테이시스 넷으로 움직임을 줄이고 차지 공격을 준비하면 안정적인 폭딜을 넣기 좋습니다.
@@ -62,17 +51,6 @@ hideDescription: true
 여러 적이 동시에 압박하는 구역에서는 단일 대상 공격만으로는 정신이 없습니다. 라이엇 블라스터나 범위형 공격 유닛을 섞어 적을 밀어내고 공간을 확보하시면 됩니다.
 
 방어 슬롯은 디코이를 유지해 적 시선을 나눠주는 편이 좋죠. 다수전은 화력보다 내가 숨 돌릴 수 있는 공간을 만드는 것이 먼저입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 후반은 슬롯 교체 폭이 넓어진다
 
@@ -87,17 +65,6 @@ hideDescription: true
 새 장비를 발견했다면 쉴터 복귀 후 프린터부터 확인하시면 됩니다. 희귀 장비 중에는 루나필라멘트 외에 순수 루넘 같은 자원을 요구하는 경우가 있으므로 한정 자원은 내가 실제로 쓰는 빌드에 맞춰 투자하시는 편이 좋습니다.
 
 강화 결과는 메뉴 숫자보다 실제 전투에서 판단하시면 됩니다. 같은 적을 상대로 해킹 시간과 오픈 후 처치 속도, 피격 여유가 얼마나 달라졌는지 보면 다음 투자 방향도 자연스럽게 잡힙니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 추천 로드아웃은 시작점
 

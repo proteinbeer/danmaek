@@ -37,17 +37,6 @@ hideDescription: true
 
 큰 로비는 보스전이 쉬워집니다. 인원이 늘어나면 보스에 넣을 수 있는 화력과 부활 여유가 늘어나며 거미게부터 후반 북극고래까지 역할을 나누면 혼자 할 때보다 실수 복구가 쉬워집니다. 다만 사람이 많을수록 물리 충돌과 장난도 늘어나므로 퀘스트 전리품을 잃지 않도록 한 명이 관리하는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 친화적 사격과 폭발물
 
 협동 중 서로 때리는 재미가 있는 게임이지만 진지하게 진행할 때는 아군 피해 설정을 확인하시는 편이 좋죠. 특히 폭발물은 아군 피해를 꺼도 자기 자신은 피해를 받을 수 있도록 변경되어 있습니다.
@@ -59,17 +48,6 @@ hideDescription: true
 낚시 방법은 협동이 재미있는 게임이지만 혼자서도 메인 루트를 진행할 수 있습니다. 오히려 첫 회차에서는 퀘스트 아이템을 잃지 않고 진행 순서를 익히기 쉬워 1인 플레이가 더 편한 구간도 있습니다.
 
 돈과 장비를 혼자 관리하기 쉽고 현재 자금과 다음 업그레이드 계획을 정확히 잡을 수 있죠. 초반 레이더, 미끼, 무기 순서를 정리하며 게임 구조를 배우기에 특히 좋습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 1인 플레이의 장점
 
@@ -83,17 +61,6 @@ hideDescription: true
 
 첫 진행은 적은 인원으로 배우고 보스 재도전이나 장난 위주의 세션에서 큰 로비를 활용하시면 두 방식의 장점을 모두 즐길 수 있죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 7. 협동과 싱글을 나눠 즐긴다
 
 진지하게 진행하는 세션과 장난 위주의 세션을 나누는 것도 좋은 방법입니다. 메인 퀘스트를 밀 때는 비공개 로비와 역할 분담을 쓰고 엔딩 이후에는 큰 로비로 보스 재도전과 트릭샷을 즐기면 멀티의 장점을 더 잘 살릴 수 있죠.
@@ -106,13 +73,3 @@ hideDescription: true
 
 특히 퀘스트 전리품과 희귀 드립은 일반 판매 물고기와 분리해 두는 습관이 좋죠. 패치가 빠른 게임이라는 점도 기억하셔야 합니다. 이상한 상황이 나오면 내 실수라고 단정하기 전에 스팀 공지의 최신 버전과 현재 설정을 먼저 확인하시는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

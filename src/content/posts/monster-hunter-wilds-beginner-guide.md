@@ -42,17 +42,6 @@ hideDescription: true
 
 무기는 한 번 정하면 못 바꾸는 것이 아닙니다. 세이크레트에 두 번째 무기를 보관해 두면 사냥 중에도 갈아끼울 수 있고, 언제든 다른 카테고리로 넘어갈 수 있습니다. 재료가 넉넉하지 않은 초반에는 하나에 집중하는 편이 좋지만, 취향이 안 맞는 무기를 억지로 쓰며 진행할 이유는 없습니다. 실제 결정은 베이스캠프의 트레이닝장에서 사용해 본 뒤 내리는 것이 정석입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 상처와 포커스 모드의 이해
 
 와일즈 전투의 중심에는 상처 시스템이 있습니다. 같은 부위를 계속 공격하면 상처 흔적이 생기고, 더 공격하면 열린 상처로 발전하며, 파괴하지 않고 가만히 두면 흉터로 남습니다. 열린 상처는 모든 공격에 추가 대미지를 받고, 포커스 모드(L2/LT 홀드)를 켜면 몬스터의 약점과 상처가 붉게 빛나 어디를 노려야 할지 바로 보입니다.
@@ -64,17 +53,6 @@ hideDescription: true
 베이스캠프에서 트레이닝장을 열 수 있습니다. 자신의 무기 콤보와 포커스 스트라이크 입력을 익히고, 회피 무적 시간의 감각을 잡는 공간으로 활용합니다. 다른 무기를 시험해 보거나 새로 배우는 조작을 확인하는 용도로도 좋죠.
 
 실제 실력은 몬스터를 반복해서 잡을 때 늘어납니다. 같은 몬스터를 몇 번 잡으면 패턴이 자연스럽게 머리에 남고, 소재도 쌓여 방어구와 무기 업그레이드가 빨라집니다. 한 번 잡고 넘어가지 말고, 재료가 필요한 만큼 반복하는 것이 로우랭크 구간의 정공법입니다. 퀘스트 하나를 끝낼 때마다 트레이닝장에서 콤보를 한 번씩 복습하는 습관을 들이면 실력 성장 속도를 체감할 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 로우랭크에서 하이랭크로 넘어가는 순서
 
@@ -99,17 +77,6 @@ HR 41 이후에는 고어 마가라·아크벨트의 템퍼드 우두머리급�
 
 HR 50부터는 아크템퍼드 몬스터가 등장합니다. 일반 템퍼드보다 체력과 공격력이 높고 공격 패턴까지 달라져, 장비가 제대로 갖춰지기 전에는 도전 난이도가 높죠. 랭크 100만 바라보고 달리기 전에 라기아크루스·세레기오스 등 특수 퀘스트를 먼저 열어 두는 것이 좋습니다. 이 몬스터들이 이후 파밍의 선택지를 크게 넓혀 줍니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 7. 초보가 흔히 겪는 실수와 해결법
 
 가장 흔한 실수는 회복 아이템을 아끼는 것입니다. 포션과 메가 포션은 10개씩, 최대 포션은 2개까지 들고 갈 수 있고, 꿀과 허브를 함께 넣으면 필드에서 조합으로 보충할 수 있으니 인벤토리가 비면 바로 채워 넣는 습관이 좋습니다. 방어구를 최신으로 유지하고 몬스터에 맞는 속성 내성 장비를 챙기며, 사냥 전 먹는 식사로 최대 체력 보너스를 받는 것도 자주 빠지는 부분입니다. 많은 초보가 맞으면 갑자기 눕는 이유가 방어력과 내성이 준비되지 않은 상태에서 싸우기 때문입니다.
@@ -124,13 +91,3 @@ HR 50부터는 아크템퍼드 몬스터가 등장합니다. 일반 템퍼드보
 
 출시 이후에는 타이틀 업데이트로 몬스터와 이벤트가 계속 추가되고 있으며, 예정된 확장팩은 2027년 '아센던스'입니다. 확장팩 발매 전까지 메인 무기 강화와 장식주 파밍을 마쳐 두면 다시 준비할 부담이 없으므로, 하이랭크 진입 이후에는 이 목표를 중심으로 파밍을 이어가는 것이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

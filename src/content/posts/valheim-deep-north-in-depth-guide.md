@@ -40,17 +40,6 @@ hideDescription: true
 
 냉기 디버프 대비도 미리 해두어야 합니다. 딥노스 지역 전반에 서릿발 같은 추위 디버프가 걸리므로, 울프 케이프나 록스 케이프 같은 한기 저항 장비를 입고 들어가는 것을 기본으로 하죠. 표면이 얼어붙은 해역은 항해하다 보면 얼음 판 사이의 물길을 따라 이동하게 되고, 육지에 닿은 뒤에는 삽으로 눈을 치우며 경로를 내야 합니다. 상륙 지점에 거점을 먼저 세우기보다는, 눈더미를 치운 평탄한 자리를 찾아 작업대를 만들고 활동 반경을 넓혀 가는 방식이 안전합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 갬멜트롤 사냥과 블러드골드 수급
 
 딥노스의 가장 큰 이동식 자원원은 갬멜트롤입니다. 지역에 사는 고대 트롤으로, 온몸이 나무처럼 뒤엉켜 있어 마을의 절반을 부수는 규모로 나무 통짜를 던지는 공격을 하죠. 보스가 아닌 야생 몬스터지만 체력과 공격 범위가 한 단계 위라, 사냥 시에는 주변 지형을 활용해 공격 사거리를 벗어나는 방식이 안전합니다. 쓰러지면 몸이 통째로 돌처럼 굳는 특징이 있는데, 이 석화된 몸은 일반 공격으로는 채집할 수 없고 폭발형 아이템인 엠버 차지를 던져 부숴야 합니다.
@@ -63,17 +52,6 @@ hideDescription: true
 
 터널 내부에서 챙겨야 할 핵심은 세 가지입니다. 첫째는 노드 무기 제작에 쓰이는 몰드, 둘째는 두 번째 던전의 문을 여는 인트리케이트 키 제작 재료, 셋째는 제련 터전에 필요한 프로스트코어이죠. 몰드와 키 재료는 터널 안 배치된 상자와 시체에서 나오며, 개수의 여유가 붙을 때까지 같은 터널을 반복해도 됩니다. 통로 곳곳에 지도 마커를 찍어 가며 진입한 쪽과 진행 방향을 기록하면 회수 경로를 헷갈리지 않습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 게이츠 오브 묘크할라와 최종 보스 대비
 
 터널에서 모은 재료로 인트리케이트 키를 만들면, 지표면의 큰 요새 건물 안쪽에 자리한 게이츠 오브 묘크할라 던전을 열 수 있습니다. 윈딩 터널이 좁은 복도의 미로라면, 묘크할라는 요새 구조를 가진 단계식 던전으로 내부 방마다 적이 배치되어 있죠. 여기서 확보하는 루팅과 전용 몬스터가 최종 보스 대비의 실질적인 던전 전투를 구성합니다.
@@ -85,17 +63,6 @@ hideDescription: true
 딥노스의 무기 체계는 노드 무기로 단일화되어 있습니다. 도끼와 검, 대검, 단검, 아트게이르, 활, 석궁, 메이스, 창, 너클 체인의 열 가지 무기 클래스가 전부 준비되며, 제작에는 블러드골드와 윈딩 터널에서 얻은 몰드가 필요하죠. 노드 무기의 특징은 무기마다 보석을 두 개 박아 업그레이드하는 구조로, 보석 조합에 따라 서리불꽃 프로스트파이어와 천둥피 선더블러드 두 갈래로 나뉩니다. 같은 무기라도 보석을 바꾸면 속성이 달라지므로, 딥노스의 몬스터 약점에 맞춰 보석을 갈아 끼우는 것이 센 빌드의 핵심입니다.
 
 별도 이름을 가진 장비도 확보 가치가 높습니다. 냉기 충격파를 쏘는 에코 스파이크, 지정 지점에 낙뢰를 떨어뜨리는 라이트닝 스트라이크, 방어막이 받은 공격을 되돌려 주는 노던 벤전스, 유령 늑대와 곰, 무스를 소환하는 스피릿 콜러가 대표적이죠. 특히 노던 벤전스는 마법 빌드의 방어를 공격으로 바꾸는 방식이라, 최종 보스전처럼 위협이 큰 전투에서 스태미나 걱정을 덜어 줍니다. 방어구는 경갑과 중갑, 마법 갑옷 세 가지 티어로 나뉘며, 북부 스타일의 원형 방패와 대형 방패도 함께 추가됐습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 세이브 이어가기와 크로스플레이, 신규 재료
 

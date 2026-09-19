@@ -44,17 +44,6 @@ hideDescription: true
 
 **스팀 설정 → 다운로드**에서 다운로드 속도 제한이 켜져 있다면 **제한 없음**으로 변경하시면 되죠. 만약 기본값이 제한으로 되어 있는 환경이라면 이 항목을 반드시 확인해야 합니다. 대부분의 경우 이 설정만 바꿔도 속도가 크게 개선됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 다운로드 캐시 삭제
 
 다운로드가 멈추거나 속도가 비정상적으로 떨어지는 문제가 반복되면 캐시 삭제를 시도해보시면 됩니다. 설치된 게임은 지워지지 않지만, 캐시를 지운 뒤에는 스팀에 다시 로그인해야 하죠.
@@ -72,17 +61,6 @@ hideDescription: true
 스팀은 데이터를 내려받는 동시에 **압축을 풀고 저장장치에 기록**하죠. 따라서 네트워크가 빨라도 디스크 쓰기 속도가 느리면 전체 다운로드가 느리게 진행됩니다. 특히 대용량 게임 업데이트에서는 저장장치(특히 하드디스크)가 병목이 되는 순간이 생깁니다.
 
 다운로드 그래프는 높게 나오는데 실제 진행이 멈칫멈칫한다면, **작업 관리자에서 디스크 사용량**이 100%에 가까운지 확인해보시면 됩니다. 하드디스크(HDD)를 사용한다면 SSD로 게임을 설치하면 다운로드와 설치 속도가 크게 개선될 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 게임 실행 중 다운로드
 

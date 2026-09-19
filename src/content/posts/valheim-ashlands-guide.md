@@ -38,17 +38,6 @@ hideDescription: true
 
 쉴드 제너레이터는 연료가 필요하고 피해를 받으면 소모되죠. 기지 주변에 자원 생산시설을 배치해 꾸준히 연료를 공급하고, 쉴드 반경 안에서 목재와 석조 건물을 조합해 전초 기지를 완성하는 것이 정석입니다. 잿비가 내리는 외부에서는 잠깐의 체류라도 내구도 손실을 감수해야 하므로 탐사 경로는 가급적 쉴드 반경 안쪽으로 잡습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 애쉬랜즈 몬스터 공략
 
 애쉬랜즈에는 불과 용암에 강한 몬스터가 설계되어 있어 저항 구성이 달라집니다. 차르드 병사는 방패를 든 근접형, 차르드 마크스맨은 원거리 화살형, 차르드 워록은 마법 공격형으로 세 종류가 기지를 습격합니다. 근접 캐릭터는 차르드 병사와의 일대일을 자제하고, 활과 크로스보우로 거리를 유지하는 편이 안전하죠.
@@ -60,17 +49,6 @@ hideDescription: true
 애쉬랜즈의 주력 금속은 플라메탈입니다. 화산 유적의 광맥에서 채집하며, 기존 대장간이 아닌 제련소 역할의 화이트 포지에서 가공합니다. 플라메탈은 캐러페이스보다 높은 방어도의 갑옷과 강력한 검, 도끼 무기, 그리고 화염 마법 스태프의 핵심 재료이죠.
 
 유황과 그라우스턴도 애쉬랜즈에서만 얻는 자원입니다. 유황은 약제와 폭발물, 그라우스턴은 기지 건축 재료로 사용합니다. 화산 폭발 지역에는 마그마 피시와 용암 덩어리가 흩어져 있고, 애쉬랜즈 고유 식물인 스모크 퍼프와 바인베리는 음식과 연금 재료가 되죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 중립 세력과 건축 전략
 
@@ -84,13 +62,3 @@ hideDescription: true
 
 페이더를 처치하면 세계의 문장이 갱신되고 후속 소환 재료를 얻을 수 있습니다. 미니 보스로는 로드 레토가 있는데, 방어구와 무기를 확보한 상태에서 참전해야 하죠. 페이더 사냥 팀에서는 근접 탱커와 원거리 딜러, 힐러 역할을 나누고, 중간 페이즈의 용암 폭발 타이밍에 맞춰 전원이 후퇴하는 동선을 미리 정해 두면 안전하게 클리어할 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

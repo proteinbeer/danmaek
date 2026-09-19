@@ -17,7 +17,6 @@ image: "/assets/posts/guide-images/star-wars-zero-company-2026-01.jpg"
 imageAlt: "스타워즈 제로 컴퍼니(STAR WARS: Zero Company) 전술 게임 대표 이미지"
 imageWidth: 616
 imageHeight: 353
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -39,17 +38,6 @@ hideDescription: true
 
 또한 실제 전술 미션이 벌어지는 고유 행성도 열두 곳이 넘는다고 하니, 장소 변화 체감도 꽤 있는 편입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 미션 종류도 다양하다
 
 단순 섬멸전만 반복되는 구조가 아니라 사보타주, 전투, 구조, 회수, 특정 영웅 중심 내러티브 미션까지 여러 유형이 준비되어 있습니다. 그래서 같은 전투 시스템 안에서도 목표가 달라져 손맛이 달라집니다.
@@ -62,17 +50,6 @@ hideDescription: true
 
 즉 전투 버튼만 누르는 게임은 아닙니다. 작은 탐색과 분위기 연출이 섞이며 영화적인 감각을 보강합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 재플레이 가치도 꽤 있다
 
 공식 소개에서는 선택 결과에 따라 플레이 감각이 달라지고, 분대 구성과 빌드 방향도 여러 갈래로 나뉜다고 설명합니다. 유대와 추가 특화 조합까지 생각하면 한 번으로 다 보기 어려운 면이 있습니다.
@@ -84,17 +61,6 @@ hideDescription: true
 전술 미션만 보고 접근하면 지도 운영과 유대 시스템에서 예상보다 시간을 쓰게 됩니다. 반대로 이 부분을 좋아하시는 분에게는 꽤 만족스러운 구조일 수 있습니다.
 
 스타워즈 세계관에 전술 장르가 붙은 소규모 실험작이 아니라, 생각보다 본격적인 캠페인형 게임으로 보는 편이 맞습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 느긋하게 해야 더 재미있다
 

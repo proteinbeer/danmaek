@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/wow-last-titan-2026-01.jpg"
 imageAlt: "블리즈컨 와우 발표 총정리, 포에버와 라스트 타이탄이 동시에 나온 이유"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -55,17 +54,6 @@ hideDescription: true
 
 현대 와우처럼 목적지를 빠르게 소비하는 구조가 되면 포에버를 따로 만든 의미가 줄어듭니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 이클립스는 미드나이트 다음 단계
 
 현대 와우에서는 미드나이트의 다음 대형 업데이트 12.2 이클립스가 공개됐습니다.
@@ -87,17 +75,6 @@ hideDescription: true
 장기 MMO에서 결말은 게임 종료를 뜻하지 않습니다.
 
 한 시대를 닫으면서 다음 시대에 무엇을 남길지 정하는 작업에 가깝습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 과거와 미래를 동시에 잡는다
 

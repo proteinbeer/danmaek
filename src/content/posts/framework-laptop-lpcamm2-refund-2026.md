@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/framework-laptop-lpcamm2-refund-2026-01.jpg"
 imageAlt: "프레임워크 노트북 LPCAMM2 메모리 가격 인하와 환불을 설명하는 대표 이미지"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -49,17 +48,6 @@ LPCAMM2 모듈은 지난 8월 출시 직후 정가 1만 달러가 넘었습니�
 
 저는 이 부분이 이번 사건의 핵심이라고 생각합니다. 값이 내려간 원인을 고객이 맞을 일이 아니라고 판단한 순간, 회사가 고객과의 관계를 어떤 기준으로 보는지 드러나기 때문입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 하드웨어에서 환불이 어려운 구조
 
 게임처럼 디지털 상품은 결제 후 며칠 안에 가격이 내려가면 문의가 오기도 합니다. 하드웨어는 다릅니다. 부품을 받고 조립하는 시점이 제각각이라 시점을 기준으로 차액을 반환하는 기준 자체가 애매하죠.
@@ -75,17 +63,6 @@ LPCAMM2 모듈은 지난 8월 출시 직후 정가 1만 달러가 넘었습니�
 환불 자체가 회사의 색을 드러냈다고 볼 수 있습니다. 단기적인 판매 이익보다 직접 거래하는 제품 정책을 고객이 얼마나 신뢰하는가가 더 큰 자산이라고 여기고 있습니다.
 
 이런 행동은 특히 프레임워크처럼 교체 가능한 부품 구성과 업그레이드를 강점으로 내세우는 회사에 잘 맞습니다. 모듈을 사고 바꾸는 고객이 오래 머무를수록 회사 이익도 커지는 구조이기 때문입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 기술 선택이 이어진 결과, LPCAMM2란 무엇인가
 
@@ -105,13 +82,3 @@ LPCAMM2는 노트북용 메모리 규격 중 하나로, 기존 SODIMM보다 더 
 
 이런 움직임이 반복되면 고객이 생각하게 되는 건 단순합니다. 이 회사는 값이 내리면 나도 돌려받는다는 거죠. 그런 생각이 쌓이는 게 하드웨어 업계에서 경쟁력으로 이어지는 방향이라고 볼 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

@@ -77,7 +77,7 @@ const breadcrumbLd = {
           </figure>
         )}
         <div class="prose">
-          {data.affiliate !== 'false' && <p class="affiliate-disclosure">이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</p>}
+
           <Content />
         </div>
         <ShareButtons title={data.title} />
@@ -95,16 +95,7 @@ const breadcrumbLd = {
             </a>
           )}
         </nav>
-        <div class="coupang-banner">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script is:inline src="https://ads-partners.coupang.com/g.js"></script>
-<script is:inline>
-	// @ts-ignore - PartnersCoupang is defined by external Coupang script
-	new PartnersCoupang.G({"id":1021235,"trackingCode":"AF7638395","subId":null,"template":"carousel","width":"662","height":"140"});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-        </div>
-      </article>
+        </article>
       <div style="text-align:center; padding-top:22px;">
         <a class="button-link" href="#top" style="display:inline-flex;">맨 위로 ↑</a>
       </div>

@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/adapthealth-41m-breach-2026-01.jpg"
 imageAlt: "의료업체 어댑트헬스 해킹, 410만 명 개인정보가 노출됐다"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -43,17 +42,6 @@ hideDescription: true
 
 기업이 클라우드를 사용한다고 자동으로 안전해지는 것은 아닙니다. 계정 권한과 인증이 뚫리면 오히려 여러 서비스가 한꺼번에 연결될 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 샤이니헌터스 연관
 
 이번 공격은 샤이니헌터스로 알려진 위협 그룹과 연관된 것으로 전해졌습니다. 최근 이 그룹은 기업의 클라우드 계정과 데이터 저장소를 노리는 공격으로 여러 차례 이름이 등장했죠.
@@ -66,17 +54,6 @@ hideDescription: true
 
 제가 보기에는 피해자 입장에서 가장 조심해야 할 시점이 사고 직후만은 아닙니다. 몇 달 뒤에도 실제 의료 정보를 이용한 정교한 연락이 올 수 있기 때문이죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 바꿀 수 없는 정보
 
 비밀번호 유출은 새 비밀번호를 만들면 피해를 줄일 수 있습니다. 하지만 과거 병력과 치료 기록은 삭제하거나 변경할 수 없습니다.
@@ -88,17 +65,6 @@ hideDescription: true
 영향을 받았다는 통보를 받은 이용자는 회사가 제공하는 신원 보호 서비스와 안내를 확인하는 것이 좋죠. 같은 비밀번호를 다른 서비스에서 사용했다면 계정 정보가 직접 유출되지 않았더라도 변경해두는 편이 안전합니다.
 
 의료기관을 사칭한 전화와 이메일도 주의해야 합니다. 실제 이름과 장비 정보를 알고 접근할 수 있어 일반 스팸보다 훨씬 그럴듯하게 보일 수 있죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 의료 보안
 
@@ -116,13 +82,3 @@ hideDescription: true
 
 의료 데이터는 공격자에게 오래 쓸 수 있는 정보라 사고가 끝난 뒤에도 위험이 남습니다. 기업은 사고 통지 한 번으로 책임을 끝내기보다 장기 모니터링과 피해자 지원을 제공해야 하고, 이용자도 몇 달간 관련 피싱을 경계할 필요가 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

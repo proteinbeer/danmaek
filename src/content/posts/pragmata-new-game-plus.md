@@ -44,17 +44,6 @@ hideDescription: true
 
 스테이시스 넷과 디코이 제너레이터 같은 장비는 일반 난도보다 훨씬 가치가 큽니다. 공격 유닛만 챙기는 빌드는 실수 한 번에 무너지기 쉽고, 안전성을 확보한 뒤 화력을 올리는 순서가 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 언노운 시그널이 진엔딩의 핵심이다
 
 언노운 시그널은 첫 엔딩 이후 현재 저장에서 접근하는 후속 콘텐츠입니다. 처음부터 새 게임을 시작하는 것이 아니라 클리어 데이터를 바탕으로 남은 구역을 다시 돌아보게 되죠. 그래서 엔딩을 본 뒤 바로 뉴 게임 플러스로 넘어가지 말고 현재 저장을 먼저 확인하시는 편이 좋습니다.
@@ -68,17 +57,6 @@ hideDescription: true
 엔드게임에서는 히든 챔버에서 시뮬레이션 포드를 이용해 여러 추가 도전에 들어갑니다. 모든 포드가 처음부터 열리는 것은 아니고 구역 완료와 보스 진행에 맞춰 접근 범위가 넓어집니다. 단순 수집 정리만 하는 모드가 아니라 전투 도전도 꽤 비중이 큽니다.
 
 수집과 업적은 함께 처리하는 편이 효율적입니다. 다만 미니 캐빈과 탈출 해치는 구역 100퍼센트 수치와 별도일 수 있으니 체크리스트를 분리하는 편이 좋죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 레드 존과 순수 루넘 준비
 
@@ -97,17 +75,6 @@ hideDescription: true
 첫 방문에서 못 먹은 아이템이 있다고 해서 오래 헤매지 마시고 스토리 능력 해금 여부부터 확인하십시오. 프라그마타는 진행 뒤 다시 와야 열리는 길이 있어 표시만 기억해 두고 다음 구역으로 가는 편이 효율적입니다.
 
 정리 플레이를 시작하기 전에는 현재 구역 진행률과 남은 업적을 간단히 적어두는 것도 좋습니다. 수집품 숫자가 많아지면 같은 구역을 반복해서 도는 일이 생기는데 체크리스트 하나만 있어도 불필요한 백트래킹을 크게 줄일 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 엔드게임 장비는 다음 회차에도 이어진다
 

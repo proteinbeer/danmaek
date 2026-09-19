@@ -43,17 +43,6 @@ hideDescription: true
 
 완벽 방어 이후에는 반격이 보장됩니다. 특히 완벽 반격을 해금하면 다음 공격에 치명타가 보장되므로, 보스전에서 완벽 방어를 몇 번 성공시키면 전투의 향방이 바뀝니다. 공격이 들어오는 방향이 표시된 뒤 실패 없이 막아낼 수 있는 시간이 있으니, 화면의 방향 표시를 끝까지 보는 습관이 중요합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 자세 붕괴와 데미지 설계
 
 표면 데미지를 높이기보다 적의 자세를 먼저 붕괴시키는 플레이가 실전에서 효율적입니다. 자세가 무너진 적은 행동이 멈추고 추가 피해를 받기 쉬운 상태가 되므로, 단순 연타보다 공격 우선순위를 둘 가치가 있죠.
@@ -68,17 +57,6 @@ hideDescription: true
 
 다만 시간대 전환에 주의가 필요합니다. 밤에 쉐도우스텝으로 폐탑에 들어가 그 사이 해가 뜨면, 뱀파이어 능력을 쓸 수 없어 나가지 못하는 상황이 생기죠. 이동과 공략을 시작하기 전에 현재 시간과 예상 경과를 확인하는 습관이 필요합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 흡혈 회복과 피 관리
 
 흡혈귀의 고민은 회복입니다. 물약만으로는 버티기 어려우므로, 인간과 동물의 시체를 약탈해 피 소모품을 얻거나 전투 중 흡혈 스킬로 회복하는 방법을 동시에 준비하는 편이 좋죠. 전투 중에는 활성화 충전이 있으면 흡혈 스킬을 아무 때나 쓸 수 있고, 체력이 위험해지면 저항하기보다 흡혈로 바로 회복하는 것이 효율적입니다.
@@ -92,17 +70,6 @@ hideDescription: true
 무거운 무기를 들수록 공격의 스태미나 소모와 움직임의 둔함이 커지고, 완벽 방어 윈도우도 체감상 얇아집니다. 초반에는 명중 보장과 반격 효율이 데미지 몇 차이보다 가치 있으므로, 손에 맞는 무게의 무기를 골라 기본기를 익히는 것이 안정적이죠. 무기마다 기본 공격 외에 무기 아트가 하나씩 붙으며, 특히 클로 전용 무구는 야간의 클로 격투라는 별도의 전투 자산을 열어줍니다.
 
 프롤로그 직후 손에 넣기 좋은 무기는 셋입니다. 최고의 범용 선택인 듀란달은 어디서나 쓰이는 무기 아트를 제공하고, 긴 퀘스트가 붙어 있지 않아 접근성이 높죠. 방어형인 킹슬레이어는 완벽 방어 윈도우를 넓히고 방어 스태미나 소모를 줄여 초보자에게 유리하며, 검술 트리의 '워킹 포트리스' 같은 방어 보상을 쌓는 빌드와 궁합이 좋습니다. 성자의 검 스티히 미하이는 뱀파이어와 초자연 적을 상대로 큰 데미지를 내는 후반용 스펙으로, 완벽 방어 습관이 선행돼야 효율이 나옵니다. 이 셋 중 둘을 낮 무기와 밤 무기로 나눠 쓰는 것이 이상적입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 스킬 트리 해금 조건과 추천 빌드
 
@@ -120,13 +87,3 @@ hideDescription: true
 
 낮과 밤은 전투 자산이 완전히 달라지므로 장비 프리셋도 나눠 쓰는 것이 정석입니다. 낮 프리셋은 검술과 주술을 살리는 무게·스태미나 중심, 밤 프리셋은 클로와 흡혈을 살리는 이스브란드 계열과 쿨다운 감소가 우선이죠. 중갑은 방어가 높지만 움직임과 스태미나 패널티가 있어, 능력 사용이 많은 빌드에서는 경갑이 더 실질적인 생존력을 줍니다. 프리셋 전환은 UI로 즉시 되므로 해 질 무렵에 다음 밤용 세팅을 준비해두면 전투 직전에 바꾸는 번거로움이 사라지고, 상인이 스토리 날짜에 맞춰 재고를 갱신하는 점만 염두에 두면 초중반 전투가 확실히 편해집니다. 약탈과 쇼핑은 시간을 쓰지 않으니, 장비는 30일과 싸우는 게임에서 건드릴수록 이득인 영역이죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

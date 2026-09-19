@@ -49,17 +49,6 @@ hideDescription: true
 
 대용량 게임을 통째로 삭제하고 다시 설치하는 것보다 훨씬 빠르게 파일 문제를 확인할 수 있죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 윈도우와 그래픽 드라이버 확인
 
 새 게임은 최신 그래픽 드라이버나 윈도우 구성 요소를 요구하는 경우가 있습니다.
@@ -80,17 +69,6 @@ PC 성능이 충분해 보여도 지원하지 않는 오래된 윈도우 버전�
 
 인터넷에서 정체를 알 수 없는 DLL 파일 하나를 따로 받아 넣는 방식은 보안상 추천하기 어렵죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 오버레이와 백그라운드 프로그램
 
 프레임 표시, 오버클럭, 화면 캡처, 보안 프로그램이 특정 게임과 충돌하는 경우도 있습니다.
@@ -110,17 +88,6 @@ PC 성능이 충분해 보여도 지원하지 않는 오래된 윈도우 버전�
 저는 실행 오류에서 가장 중요한 질문이 언제부터 안 됐는가라고 봅니다.
 
 최근에 바꾼 것을 하나씩 되짚고 작은 조치부터 확인하면 재설치와 윈도우 초기화까지 가는 경우를 크게 줄일 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 오류 메시지는 그대로 기록
 

@@ -42,17 +42,6 @@ hideDescription: true
 
 칼이 부딪치는 순간에는 세로 밀어내기 공격으로 바꿔 블레이드 배리지를 이기는 것이 포인트입니다. 한손과 두손 스탠스를 바꿔 입력하면 연출성 카운터 씬으로 이어지며 큰 데미지를 넣을 수 있죠. 근접에서 흰빛 3연속 참이 날아올 때는 거리를 벌려 닷지하거나 가까이서 디플렉트로 받는 식으로 위치에 맞게 대응하십시오.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 초반 거인전 다이다라와 뱌쿠에
 
 오니 난민지에서 만나는 다이다라는 소울 흡수 경쟁을 강제하는 보스입니다. 바닥에 떨어진 소울을 오니 건틀렛으로 먼저 빨아들이지 않으면 보스가 전부 삼키고 배가 부풀면서 데미지와 방어가 함께 올라갑니다. 놓친 경우 부은 배를 집중 공격해 역류시키면 오히려 더 많은 소울을 회수할 수 있으니 당황할 일이 아닙니다.
@@ -70,17 +59,6 @@ hideDescription: true
 이후는 도끼와 바람 참이 중심인 보스입니다. 숨을 들이쉬며 주머니를 부풀리는 순간 오니 활로 쏘면 큰 스턴이 걸리고, 공중에 떠오르면 활로 격추할 수 있습니다. 입으로 뿜는 브레스는 디플렉트로 반사해 보스에게 돌려주는 것이 정석이죠.
 
 부라이는 번개 구 오브를 깔고 X자 패턴 낙뢰를 시전합니다. 낙뢰는 포커스 이베이드로 피해야 하며, 가장 위험한 순간은 텔레포트 처벌 자세입니다. 자세를 취하는 동안 공격을 누르면 그대로 낙인찍혀 죽기 때문에, 이 애니메이션에서는 완전히 멈추고 보라색 예고선을 벗어나는 것이 생존의 핵심입니다. 둘이 동시에 덤비는 전투에서는 런지 공격을 디플렉트해 서로 부딪히게 만들고, 이후가 하늘을 날며 주머니를 부풀리면 그때 즉시 화살로 끊어내십시오.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 강자 넷의 카운터 요령
 
@@ -102,13 +80,3 @@ hideDescription: true
 
 스토리 종료 후 종도정진지의 종을 울리면 연습장에서 모든 보스를 리매치할 수 있죠. 이 모드에는 강화형 뱌쿠에, 강화형 도하츠텐, 얼터드 간류, 풀리 아메드 벤케이 같은 한정 강화형이 추가되며, 죽어도 자원을 잃지 않으므로 높은 난이도를 도전하는 파밍 창구로도 활용됩니다. 카니지 난이도를 클리어하면 전용 무기가 해금되어 플래티넘 트로피 '글루톤 포 퍼니시먼트'를 위한 리매치 과정이 훨씬 수월해집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

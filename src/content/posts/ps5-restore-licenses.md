@@ -16,7 +16,6 @@ image: "/assets/posts/guide-images/playstation-ps.jpg"
 imageAlt: "PS5 게임과 시스템 설정 화면"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -38,17 +37,6 @@ PS5 설정에 있는 라이선스 복원은 이름만 보면 위험한 초기화
 
 다만 다른 계정이 산 게임이라면 콘솔 공유 설정이 먼저 필요할 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. DLC가 사라졌을 때
 
 본편은 실행되는데 추가 콘텐츠가 인식되지 않는 경우에도 라이선스 복원을 시도할 수 있습니다. DLC를 구매한 계정이 맞는지, 본편과 DLC 지역이 같은지도 함께 확인해야 합니다.
@@ -61,17 +49,6 @@ PS5 설정에 있는 라이선스 복원은 이름만 보면 위험한 초기화
 
 서비스 장애가 있다면 복원을 반복하기보다 서비스가 정상화된 뒤 한 번만 다시 실행하는 편이 낫습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 게임 삭제는 필요 없음
 
 라이선스 복원을 위해 게임을 지울 필요는 없습니다. 용량이 큰 게임을 먼저 삭제하면 문제의 원인이 권한이었을 때 시간만 더 쓰게 됩니다.
@@ -83,17 +60,6 @@ PS5 설정에 있는 라이선스 복원은 이름만 보면 위험한 초기화
 라이선스 복원은 계정과 콘텐츠 권한을 다시 확인하는 기능이고 공장 초기화와는 전혀 다릅니다. 세이브, 스크린샷, 설치 게임을 없애는 작업이 아니므로 비교적 부담 없이 사용할 수 있습니다.
 
 PS5에서 디지털 게임 문제가 생겼다면 기억해둘 만한 기본 복구 도구입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 설정 변경 뒤 확인할 부분
 
@@ -109,13 +75,3 @@ PS5 문제 해결은 무작정 초기화하는 것보다 재현 조건을 찾는
 
 PS5는 같은 증상이라도 계정, 게임 버전, 연결 장비에 따라 원인이 달라질 수 있습니다. 그래서 가장 최근에 바꾼 설정과 문제가 시작된 시점을 기준으로 하나씩 되돌려 확인하시면 불필요한 재설치와 초기화를 줄일 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

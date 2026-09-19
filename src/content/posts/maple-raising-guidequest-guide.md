@@ -16,7 +16,6 @@ image: "/assets/posts/coupon-images/maple-raising-coupon.jpg"
 imageAlt: "메이플 키우기 방치형 RPG 게임 이미지"
 imageWidth: 454
 imageHeight: 224
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -38,17 +37,6 @@ hideDescription: true
 
 처음에는 자동 전투로 스테이지를 밀고, 막히는 지점이 오면 그때 전투력 문제인지 세팅 문제인지 나누어 점검합니다. 맵이 막힌다면 대부분 장비나 동료 강화가 따라가지 못한 경우입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 소환 퀘스트와 인벤토리
 
 가이드 퀘스트에 무기·동료 소환이 포함되어 있습니다. 소환을 진행하면 캐릭터 성장에 쓰는 아이템이 쌓이면서 퀘스트가 동시에 해결됩니다.
@@ -60,17 +48,6 @@ hideDescription: true
 가이드 퀘스트를 따라가면 성장 던전과 시설 강화가 해금됩니다. 무기·강화·경험치 던전까지 열리면 하루 재료 수급 경로가 정리됩니다.
 
 시설 해금 순서가 꼬이지 않도록, 새로 열린 콘텐츠는 바로 한 번씩 진입해 조건을 확인해두는 습관이 좋습니다. 해금된 콘텐츠를 두면 가이드 퀘스트 진행도 전체의 준비가 길어집니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 가이드 퀘스트 보상 활용
 
@@ -84,13 +61,3 @@ hideDescription: true
 
 그리고 가이드 퀘스트는 주간 초기화가 아니라 누적 진행형입니다. 늦게 하더라도 따라가기만 하면 되지만, 열리는 콘텐츠가 성장 보상과 이어지므로 초반에 비우는 편이 가장 효율적입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

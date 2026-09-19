@@ -17,7 +17,6 @@ image: "/assets/posts/news-images/onimusha-way-of-the-sword-2026-01.jpg"
 imageAlt: "귀무자: 검의 길 대표 일러스트"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -46,17 +45,6 @@ hideDescription: true
 
 리뷰어들은 공통적으로 전투 시스템의 완성도를 높이 샀습니다. 다양한 귀신의 무기 활용, 강력한 보스전의 연출과 난이도 설계, RE 엔진으로 구현한 으스스한 교토의 분위기, 미야모토 무사시와 조연 캐릭터들의 매력이 호평 포인트로 꼽혔습니다. PS5, PC, 스위치 2에서 전반적으로 최적화 문제가 보고되지 않았다는 점도 함께 언급됐습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 스팀 반응, '매우 긍정적' 86%
 
 단점 지적도 있었습니다. 약 20시간 분량의 메인 스토리를 끝내면 할 콘텐츠가 적어 다회차 플레이 유인이 약하다는 평이 나왔고, 왔던 길을 되돌아가는 구간과 재탕하는 적들로 플레이 타임을 늘렸다는 지적도 있었습니다. 시야를 가리는 등 카메라 시점이 불편하다는 의견도 일부 있었습니다.
@@ -69,13 +57,3 @@ hideDescription: true
 
 PS5, Xbox 시리즈 X|S, PC, 닌텐도 스위치 2로 발매됐고 한국어를 지원합니다. '어렵지만 성취감 있는 검술 액션'을 선호한다면 이번 가을 눈여겨볼 타이틀입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

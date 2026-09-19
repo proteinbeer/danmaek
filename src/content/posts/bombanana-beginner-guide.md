@@ -47,17 +47,6 @@ hideDescription: true
 
 손에 느껴지는 위치나 장치 상태를 짧게 계속 보고하면 다른 두 사람이 상황을 따라가기 쉽습니다. 위치 표현은 왼쪽 위, 오른쪽 아래처럼 항상 같은 기준으로 통일하고, 타이머가 줄어들어도 손 속도를 갑자기 올리지 않는 편이 좋습니다. 카오스 모듈처럼 정보가 복잡한 상황에서는 팀에서 한 사람만 최종 명령을 내리고 그 목소리만 따라가는 것이 안전하죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 벙어리 원숭이는 설명서 담당
 
 벙어리 원숭이는 폭탄 해체 설명서를 읽을 수 있는 역할입니다. 정답에 가장 가까운 정보를 가지고 있지만 말을 할 수 없어 몸짓과 이모트로 전달해야 하죠. 처음에는 설명서를 빨리 읽는 것이 중요해 보이지만 실제로는 읽은 답을 단순한 신호로 바꾸는 일이 더 어렵습니다.
@@ -73,17 +62,6 @@ hideDescription: true
 화면과 손짓을 짧게 번갈아 보는 습관이 필요합니다. 한쪽만 오래 보고 있으면 다른 쪽 정보가 끊기죠. 지시는 왼쪽 둘째 눌러, 멈춰, 다음 모듈처럼 핵심 단어만 남겨 전달하고, 벙어리의 신호가 애매하면 추측하지 말고 다시 요청하시는 편이 좋습니다.
 
 소리를 들을 수 없으므로 장님이 실제로 행동했는지 눈으로 확인한 뒤 다음 지시를 보내셔야 합니다. 정보가 많다고 모두 말할 필요는 없고 지금 푸는 모듈에 필요한 것만 고르면 됩니다. 서로 다른 말이 동시에 나올 땐 정지 신호를 내리고 한쪽부터 다시 받는 편이 훨씬 안전하죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 팀에 맞는 역할 배치
 
@@ -101,17 +79,6 @@ hideDescription: true
 
 장님 원숭이에게는 여러 목소리가 동시에 들어가면 사고가 납니다. 최종 행동 지시는 한 명만 내리고 다른 사람은 그 사람에게 정보를 전달하는 구조로 잡으시는 편이 좋습니다. 숫자와 색도 하나 둘 셋, 빨강 파랑처럼 짧고 고정된 표현을 쓰고, 한두 판 해보고 자주 꼬인 신호만 고치시면 되죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 7. 첫판 운영법
 
 처음부터 매판 랜덤 역할을 돌리기보다 서너 판 정도는 같은 역할을 유지하시는 편이 좋습니다. 그래야 내가 어떤 정보를 먼저 말해야 하는지 몸에 익죠. 역할을 계속 바꾸면 퍼즐 규칙과 역할 제한을 동시에 새로 배워야 해서 적응 시간이 길어집니다.
@@ -126,13 +93,3 @@ hideDescription: true
 
 캠페인은 역할과 퍼즐을 익히기에 가장 좋습니다. 커스텀과 엔들리스는 기본 신호가 몸에 익은 뒤 들어가야 재미도 살고 불필요한 실패도 줄어듭니다. 처음 하루의 목표는 많이 깨는 것이 아니라 세 사람이 같은 표현을 쓰게 만드는 일이고, 이 단계만 넘기면 이후 스테이지는 퍼즐 자체에 집중하기 훨씬 쉬워집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

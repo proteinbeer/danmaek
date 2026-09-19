@@ -57,17 +57,6 @@ PIN을 여러 번 바꿨다고 해서 복구 키도 같이 바뀌는 것은 아�
 
 이 경우에는 임의로 초기화하지 말고 관리 담당자에게 먼저 확인하는 편이 맞습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 계정에 없을 때 찾아볼 곳
 
 비트로커를 설정할 때 복구 키를 USB나 파일로 저장했거나 종이로 출력했을 수 있죠.
@@ -95,17 +84,6 @@ PIN을 여러 번 바꿨다고 해서 복구 키도 같이 바뀌는 것은 아�
 포맷부터 하면 혹시 찾을 수 있었던 데이터까지 포기하게 됩니다.
 
 따라서 계정, 조직 계정, USB, 출력물, 설치를 도와준 사람 순서로 복구 키를 먼저 찾아보는 것이 우선입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 평소에 해둘 한 가지
 
@@ -135,13 +113,3 @@ PIN을 여러 번 바꿨다고 해서 복구 키도 같이 바뀌는 것은 아�
 
 관리되는 장치라면 개인 판단으로 설정을 바꾸기 전에 담당 부서에 확인하는 것이 먼저입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

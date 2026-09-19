@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/clickfix-attack-pc-mac-2026-01.jpg"
 imageAlt: "PC와 맥을 동시에 노리는 클릭픽스, 사용자가 직접 악성코드를 실행하게 만든다"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -43,17 +42,6 @@ hideDescription: true
 
 이 과정에서 이용자가 관리자 권한까지 승인하면 악성코드는 훨씬 넓은 권한을 얻을 수 있습니다. 보안 경고가 떠도 사용자가 스스로 허용하는 구조입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 맥도 안전하지 않다
 
 맥은 윈도우보다 악성코드가 적다는 인식이 있지만 클릭픽스는 운영체제 취약점보다 사람의 행동을 공격하죠. 터미널이 있는 한 비슷한 수법을 적용할 수 있습니다.
@@ -66,17 +54,6 @@ hideDescription: true
 
 제가 보기에는 클릭픽스가 성공하는 이유는 공격 기술이 뛰어나서보다 인터넷 사용 경험 자체가 너무 복잡해졌기 때문입니다. 정상 사이트가 이용자에게 이상한 행동을 요구할수록 공격자도 그 행동을 흉내 내기 쉬워집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 명령어는 멈춤
 
 웹페이지가 갑자기 터미널이나 실행 창을 열고 명령어를 붙여넣으라고 요구하면 중단하시는 것이 좋습니다. 정상적인 캡차는 운영체제 명령어를 직접 실행하라고 요구하지 않습니다.
@@ -88,17 +65,6 @@ hideDescription: true
 클릭픽스는 문제가 생겼다는 공포와 해결하고 싶다는 욕구를 동시에 이용합니다. 화면에 기술적인 명령어가 보이면 오히려 전문적인 해결 방법처럼 느껴져 그대로 따라 하기 쉽습니다.
 
 특히 복사 버튼까지 제공하면 사용자는 명령어 내용을 읽지 않습니다. 공격자는 복잡한 악성코드 설치 과정을 한 번의 붙여넣기로 줄여 사회공학 공격의 성공률을 높이죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 브라우저 습관
 
@@ -118,13 +84,3 @@ hideDescription: true
 
 조금이라도 이상하면 창을 닫고 공식 사이트에서 다시 시작하는 편이 훨씬 안전합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

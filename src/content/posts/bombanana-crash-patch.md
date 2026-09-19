@@ -40,17 +40,6 @@ hideDescription: true
 
 실행 직후 튕기거나 특정 구간에서 반복적으로 종료된다면 스팀 파일 무결성 검사를 먼저 해볼 만합니다. 손상되거나 빠진 파일이 있으면 자동으로 다시 받아주고, 재설치보다 빠르고 부담이 적어 가장 먼저 시도하기 좋습니다. 업데이트 후에도 음성 문제가 남아 있다면 파일 검사가 해답인 경우도 있죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 음성 입력 장치와 스팀 설정 확인
 
 목소리가 안 들리거나 안 나간다면 먼저 윈도우 소리 설정에서 기본 마이크가 실제 사용 중인 장치로 잡혀 있는지 확인하시면 됩니다. 웹캠 마이크나 모니터 장치가 기본으로 선택되어 있으면 게임에서 엉뚱한 입력을 받을 수 있죠. USB 헤드셋이나 블루투스 이어폰을 여러 개 연결했다면 게임이 다른 장치를 선택하는 경우도 있습니다.
@@ -62,17 +51,6 @@ hideDescription: true
 폭탄 해체가 시작된 뒤 마이크 문제를 발견하면 한 판을 그대로 버릴 수 있으므로 로비 단계에서 세 명이 서로 들리는지 먼저 확인하시는 편이 좋습니다. 역할 특성 때문에 게임 안에서는 일부 음성이 제한될 수 있는데, 특히 귀머거리 원숭이가 소리를 못 듣는 규칙과 실제 음성 채팅 오류를 혼동하지 않도록 주의해야 하죠.
 
 음성만 문제라면 입력 장치와 스팀 설정부터 보고, 프로그램 전체가 종료된다면 파일과 백그라운드 앱 쪽을 먼저 보는 것이 좋습니다. 마이크가 안 되는 문제와 게임 자체가 튕기는 문제는 원인이 다른 경우가 많죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 백그라운드 앱과 외부 음성 관리
 
@@ -86,13 +64,3 @@ hideDescription: true
 
 봄바나나는 출시 일주일 안에 두 번의 빠른 업데이트가 나왔고 개발진도 커뮤니티 피드백을 계속 추적한다고 밝혔습니다. 출시 초기 게임은 커뮤니티 해결법보다 공식 패치 흐름을 먼저 보는 것이 안전하죠. 큰 시스템 변경이나 보안 기능 해제처럼 위험한 방법을 따라 하기 전에 최신 수정 내역과 알려진 문제부터 확인하시기 바랍니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

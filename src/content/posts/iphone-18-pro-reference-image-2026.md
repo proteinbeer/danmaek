@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/iphone-18-pro-reference-image-2026-01.jpg"
 imageAlt: "아이폰 18 프로 사진이 AI가 아님을 증명한다, 레퍼런스 이미지의 방식"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -63,17 +62,6 @@ hideDescription: true
 
 특히 민감한 음성과 사진, 시스템 영역을 다루는 기능은 데이터가 어디까지 이동하는지를 확인하시는 편이 좋죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 가짜 탐지와 다른 방식
 
 AI 생성물을 분석해 가짜 확률을 추정하는 대신 실제 촬영 순간에 진짜라는 출발점을 인증합니다.
@@ -105,17 +93,6 @@ AI 생성물을 분석해 가짜 확률을 추정하는 대신 실제 촬영 순
 한 회사의 방식이 편리해도 폐쇄적인 구조라면 장기적으로 선택권을 줄일 수 있습니다.
 
 반대로 공개 API와 호환성을 넓히면 제품 하나의 기능이 생태계 전체의 기능으로 커질 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 유럽에서는 출시 시점 제한
 

@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/ff14-beastmaster-server-bug-2026-01.jpg"
 imageAlt: "파이널 판타지 14 비스트마스터, 펫 하나가 서버 전체를 죽일 뻔했다"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -47,17 +46,6 @@ hideDescription: true
 
 새로운 시스템을 추가할수록 테스트 경우의 수는 폭발적으로 늘어납니다. 정상적인 플레이만 확인해서는 접속 끊김과 기술 발동이 정확히 겹치는 상황까지 찾기 어렵습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 서버까지 번진 이유
 
 보통 게임 버그는 해당 이용자의 캐릭터나 클라이언트만 멈추는 편입니다. 이번 사례가 특이한 것은 펫과 주인의 상태를 서버가 처리하는 과정에서 예외가 전체 서버 프로세스까지 영향을 줬다는 점이죠.
@@ -74,17 +62,6 @@ MMORPG는 수천 명의 상태를 한 공간에서 이어 붙입니다. 그래�
 
 특히 펫과 소환수는 주인 캐릭터와 별도 객체로 움직이기 때문에 동기화가 더 복잡합니다. 주인은 사라졌는데 펫의 기술 처리가 남아 있는 순간처럼 경계 상태에서 문제가 생기기 쉽습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 재발 방지
 
 이번 수정 하나로 비슷한 문제가 완전히 사라진다고 보기는 어렵죠. 비스트마스터처럼 새로운 시스템을 가진 직업은 앞으로도 다른 콘텐츠와 만나면서 예상 밖의 상호작용을 만들 수 있습니다.
@@ -99,13 +76,3 @@ MMORPG는 수천 명의 상태를 한 공간에서 이어 붙입니다. 그래�
 
 이번 사건이 크게 번지지 않은 것은 수정 속도 덕분입니다. 반대로 같은 버그가 며칠만 더 살아 있었다면 일부 이용자가 의도적으로 서버를 내리는 장난으로 이어질 수 있었고, 그때는 단순 버그가 아니라 운영 사고로 기억됐을 겁니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

@@ -17,7 +17,6 @@ image: "/assets/posts/news-images/gamepass-discount-2026-01.jpg"
 imageAlt: "게임패스 얼티밋 맞춤형 재가입 할인 제안을 설명하는 대표 이미지"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -48,17 +47,6 @@ hideDescription: true
 
 그래서 할인만 노리고 지금 구독을 끊는 건 추천하기 어렵습니다. 저장된 혜택이나 이용 중인 게임 상황에 따라 손해가 더 커질 수도 있기 때문이죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 구독 서비스의 가격표가 사람마다 달라지는 시대
 
 예전에는 상품 가격이 하나였습니다. 매장에 붙은 가격표를 보면 누구든 같은 금액을 냈고, 할인 행사도 대부분 공개돼 있었죠.
@@ -75,17 +63,6 @@ hideDescription: true
 
 특히 게임패스는 최근 가격, 요금제, 클라우드 이용 조건까지 계속 변하고 있습니다. 이런 상황에서 맞춤 할인까지 커지면 이용자는 게임 목록보다 내 계정에 어떤 가격이 뜨는지를 먼저 확인하게 될 수도 있겠죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 게임패스 할인에서 더 중요한 변화
 
 이번 사례에서 흥미로운 건 30%라는 숫자 하나가 아니죠. 구독 시장에서 가격이 고정된 숫자가 아니라 이용자를 붙잡기 위한 도구로 바뀌고 있다는 점입니다.
@@ -100,13 +77,3 @@ hideDescription: true
 
 마이크로소프트가 앞으로 이런 제안을 얼마나 넓게 적용할지는 확인이 필요합니다. 다만 이번 사례만으로도 게임 구독이 단순 월정액에서 이용자별 가격 실험으로 넘어가고 있다는 신호는 충분히 읽을 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

@@ -46,17 +46,6 @@ hideDescription: true
 
 번식을 목적으로 하는 방이라면 스티뮬레이션과 콤포트를 함께 높이는 것이 답입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 베이스 스탯 상속의 원리
 
 새끼의 스탯은 부모의 출생 당시 베이스 스탯만 참조합니다. 장비, 목걸이 보정, 훈련으로 올린 수치는 절대 유전되지 않죠. 스탯이 좋은 부모를 만들었다면 그 이유가 베이스인지 보정인지 먼저 확인해야 합니다.
@@ -73,17 +62,6 @@ hideDescription: true
 
 팅크에게 새끼를 기부하면 유전 정보 화면이 열리며, 근친 여부와 상속 패턴, 보인자 상태까지 확인됩니다. 두 눈으로 보는 것보다 정보 화면을 켜두는 것이 훨씬 정확합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 돌연변이 등급과 판별 기준
 
 돌연변이는 고양이의 귀, 꼬리, 다리, 털 같은 신체 부위에 영구적으로 적용되는 변형입니다. 각 변이는 특정 능력치를 올리고 다른 능력치를 소폭 깎는 방식으로 구성되는 경우가 많으며, 한 개체가 여러 개의 변이를 동시에 가질 수 있죠.
@@ -99,17 +77,6 @@ hideDescription: true
 다리 계열은 속도와 기동성이 핵심이고, 귀 계열은 지능와 민첩에 강한 변이가 많아, 클래스의 니즈와 맞는 부위부터 채우는 것이 효율적입니다. 묶음을 설계할 때는 목걸이 해금 순서와도 연결되는데, 후반 지역을 노린다면 방어를 깎는 변이를 피하고, 초반 사냥 중심이라면 속도 관련 묶음부터 채우면 됩니다.
 
 변이는 번식 단계에서 새끼에게 유전될 확률이 있으며, 부모가 가진 변이가 많을수록 좋은 변이가 함께 이어질 가능성이 높아집니다. 여러 부위에 걸쳐 원하는 묶음을 모두 채우려면 두어 세대는 잡아야 하는데, 그 사이 근친 상태가 쌓일 수 있으니 길고양이를 번갈아 섞어 혈통 거리를 유지하는 것이 안정적이죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 머리형과 세대 파이프라인
 

@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/lg-smart-tv-privacy-2026-01.jpg"
 imageAlt: "LG 스마트TV 추적 논란, HDMI 화면까지 본다는 주장이 나왔다"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -55,17 +54,6 @@ LG는 스마트홈 기능을 위해 주변 기기를 찾는 과정은 일반적�
 
 문제는 기능에 필요한 탐색과 광고용 정보 수집의 경계를 이용자가 얼마나 명확히 알 수 있느냐입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 음성 녹음은 LG가 부인
 
 가장 자극적인 부분은 TV가 주변 대화를 녹음한다는 주장입니다.
@@ -86,17 +74,6 @@ LG는 음성 버튼을 누르거나 이용자가 핸즈프리 음성 기능을 �
 
 싼 하드웨어의 비용을 개인정보와 광고가 일부 대신하는 구조가 될 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 설정에서 끌 수 있는지 확인
 
 스마트TV를 처음 켜면 긴 약관과 여러 데이터 동의 화면이 빠르게 지나갑니다.
@@ -116,17 +93,6 @@ TV는 스마트폰보다 오래 쓰는 가전이고 거실에서 가족 전체�
 한 번 동의한 설정이 수년 동안 유지될 수 있다는 뜻입니다.
 
 이번 논란이 특정 회사 하나의 문제가 아니라 스마트TV 전체가 광고 플랫폼으로 변하는 과정에서 필요한 투명성 문제로 이어지는 이유입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 콘솔 이용자도 확인할 문제
 

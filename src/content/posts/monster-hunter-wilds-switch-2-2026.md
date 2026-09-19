@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/monster-hunter-wilds-switch-2-2026-01.jpg"
 imageAlt: "스위치 2용 몬스터헌터 와일즈 대표 이미지"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -45,17 +44,6 @@ hideDescription: true
 
 그래서 출시 전 체험판이 예고됐다는 것도 반갑습니다. 실제 기기에서 어느 정도인지 직접 확인하고 구매할 수 있는 기회가 생기기 때문입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 모든 업데이트를 넣고 시작한다는 장점
 
 스위치 2판은 늦게 나오는 대신 지금까지 다른 플랫폼에 배포된 업데이트 콘텐츠를 포함합니다. 타마미츠네, 라기아크루스 같은 추가 몬스터와 파이널판타지14 협업 콘텐츠도 들어가죠.
@@ -70,17 +58,6 @@ hideDescription: true
 스위치 2가 와일즈 같은 최신 대형 게임을 자연스럽게 받아내기 시작하면 이야기가 달라집니다. 닌텐도 게임을 하는 기기에 더해, 다른 콘솔에서 하던 게임을 들고 다니는 기기라는 두 번째 정체성이 강해질 수 있습니다.
 
 이 변화가 쌓이면 이용자가 콘솔을 고르는 방식도 조금 달라질 겁니다. 성능이 가장 높은 기기와, 충분한 성능에 휴대성을 더한 기기 사이에서 선택하게 되기 때문이죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 12월 4일보다 체험판을 먼저 봐야 한다
 
@@ -100,13 +77,3 @@ hideDescription: true
 
 스위치 2가 대형 멀티플랫폼 게임의 진짜 구성원으로 인정받는 순간은 출시 로고가 붙을 때가 아니라, 같은 서버 안에서 기기 차이를 잊고 놀 수 있을 때일 겁니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

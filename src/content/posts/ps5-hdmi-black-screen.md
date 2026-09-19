@@ -16,7 +16,6 @@ image: "/assets/posts/guide-images/playstation-ps.jpg"
 imageAlt: "PS5 게임과 시스템 설정 화면"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -38,17 +37,6 @@ PS5와 TV를 모두 완전히 끄고 전원과 HDMI를 다시 연결합니다. �
 
 케이블 양쪽을 끝까지 꽂고 포트에 먼지나 느슨함이 없는지도 확인합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 안전 모드에서 해상도 낮추기
 
 고해상도나 높은 주사율 설정 때문에 화면이 안 나오면 안전 모드에서 영상 출력 변경을 사용할 수 있습니다. 낮은 해상도로 부팅한 뒤 정상 화면이 나오면 자동 해상도와 주사율 설정을 다시 맞춥니다.
@@ -61,17 +49,6 @@ TV가 특정 HDMI 포트에서만 120Hz나 VRR을 지원하는 경우가 있습�
 
 화면이 나온 뒤 120Hz, VRR, HDR을 하나씩 켜면서 어느 기능에서 문제가 생기는지 확인합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. HDMI 케이블 규격 확인
 
 4K 120Hz를 쓰려면 충분한 대역폭을 지원하는 HDMI 케이블이 필요합니다. PS5 기본 케이블이나 인증된 울트라 하이 스피드 케이블을 기준으로 테스트하는 편이 좋습니다.
@@ -83,17 +60,6 @@ TV가 특정 HDMI 포트에서만 120Hz나 VRR을 지원하는 경우가 있습�
 가능하다면 다른 TV나 모니터에 PS5를 연결해 콘솔 영상 출력이 정상인지 확인합니다. 다른 화면에서도 아무 신호가 없으면 콘솔 HDMI 포트나 하드웨어 문제 가능성이 커집니다.
 
 한 화면에서만 문제라면 TV 포트 설정과 호환성을 중심으로 보는 것이 맞습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 설정 변경 뒤 확인할 부분
 
@@ -109,13 +75,3 @@ PS5 문제 해결은 무작정 초기화하는 것보다 재현 조건을 찾는
 
 PS5는 같은 증상이라도 계정, 게임 버전, 연결 장비에 따라 원인이 달라질 수 있습니다. 그래서 가장 최근에 바꾼 설정과 문제가 시작된 시점을 기준으로 하나씩 되돌려 확인하시면 불필요한 재설치와 초기화를 줄일 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

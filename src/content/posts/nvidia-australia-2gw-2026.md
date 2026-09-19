@@ -17,7 +17,6 @@ image: "/assets/posts/news-images/nvidia-australia-2gw-2026-01.jpg"
 imageAlt: "엔비디아 호주 데이터센터 확장 소식을 다룬 대표 이미지"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -48,17 +47,6 @@ hideDescription: true
 
 호주에서도 데이터센터가 사용하는 전기와 물에 대한 우려가 커지고 있습니다. AI 투자가 많아지는 것이 무조건 좋은 뉴스만은 아닌 이유이죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 엔비디아의 진짜 경쟁력도 GPU 밖으로 넓어진다
 
 엔비디아는 이번 호주 확장에 자사 DSX 플랫폼을 활용한다고 설명했습니다. 이제 회사가 파는 것은 그래픽카드 한 장보다 AI 공장을 어떻게 구성할지에 가까워지고 있습니다.
@@ -74,17 +62,6 @@ AI 업계에서 재미있는 역설은 칩이 점점 빨라질수록 전력 문�
 결국 최신 GPU를 먼저 확보한 회사라도 전력 연결이 늦으면 장비를 켜지 못할 수 있습니다. 반대로 상대적으로 오래된 칩이라도 충분한 전기와 네트워크를 가진 곳이 실제 서비스에서는 더 많은 계산을 할 수 있죠.
 
 이 단계부터 AI 경쟁은 반도체 스펙표만으로 설명하기 어려워집니다. 데이터센터 부지와 전력 계약이 새로운 성능표가 되는 셈입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. AI 경쟁의 다음 병목은 지역사회까지 닿는다
 
@@ -104,13 +81,3 @@ AI 업계에서 재미있는 역설은 칩이 점점 빨라질수록 전력 문�
 
 저는 앞으로 국가 간 AI 경쟁을 반도체 공장 숫자만으로 보기는 어려울 것 같죠. 칩을 만들 수 있는 나라와 그 칩을 수십만 개 켜둘 수 있는 나라가 서로 다른 경쟁력을 갖게 되기 때문입니다. 호주의 2GW 계획은 그 변화가 숫자로 보이기 시작한 사례입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

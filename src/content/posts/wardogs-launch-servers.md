@@ -15,7 +15,6 @@ image: "/assets/posts/news-images/wardogs-launch-servers-01.jpg"
 imageAlt: "워독스 30만명 몰렸다, 베타 뒤에도 서버가 터진 이유"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 draft: true
 ---
@@ -57,17 +56,6 @@ draft: true
 
 테스트를 많이 했다는 사실이 출시 사고를 없애는 보험은 아니라는 뜻이기 때문입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 온라인 게임은 첫날이 가장 비싸다
 
 싱글 플레이 게임은 출시 첫날 이용자가 몰려도 다운로드 서버만 버티면 플레이 자체는 가능합니다.
@@ -92,17 +80,6 @@ draft: true
 
 개발사는 개발 중이라고 말하지만 이용자는 출시일을 이미 출시로 받아들이고 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 흥행은 분명 좋은 신호
 
 서버가 터졌다는 사실만 보면 실패처럼 보이지만 30만명 넘는 이용자가 첫날 몰렸다는 건 엄청난 관심의 증거입니다.
@@ -126,17 +103,6 @@ draft: true
 워독스가 진짜 성공작이 되려면 서버를 다시 여는 것보다 사람들이 몇 달 뒤에도 계속 돈을 벌고 차량을 사고 거점을 두고 싸우게 만들어야 합니다.
 
 저는 숫자보다 그 다음 그래프가 더 궁금합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 서버 복구 뒤가 더 중요하다
 

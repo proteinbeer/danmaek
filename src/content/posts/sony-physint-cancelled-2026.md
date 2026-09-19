@@ -15,7 +15,6 @@ image: "/assets/posts/news-images/sony-physint-cancelled-2026-01.jpg"
 imageAlt: "소니가 코지마 피진트를 포기했다, 일정 지연과 예산설이 함께 나온 배경"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 draft: true
 ---
@@ -63,17 +62,6 @@ draft: true
 
 다만 이 내용은 보도에 기반한 주장이라 공식 확인과 동일하게 취급하면 안 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 데스 스트랜딩 성과도 언급
 
 일부 보도에서는 데스 스트랜딩 시리즈의 성과가 기대에 못 미쳤다는 평가도 배경으로 거론됐습니다.
@@ -101,17 +89,6 @@ draft: true
 반면 지금은 프로젝트는 엑스박스와 함께 이어지는 방향으로 바뀌었습니다.
 
 아직 최종 출시 플랫폼과 독점 기간은 앞으로 공식 발표를 확인해야 합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 코지마 게임도 예외는 아니다
 

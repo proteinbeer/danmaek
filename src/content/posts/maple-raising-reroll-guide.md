@@ -16,7 +16,6 @@ image: "/assets/posts/coupon-images/maple-raising-coupon.jpg"
 imageAlt: "메이플 키우기 방치형 RPG 게임 이미지"
 imageWidth: 454
 imageHeight: 224
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -43,17 +42,6 @@ hideDescription: true
 
 무과금으로 효율적으로 시작하려면 SS～S 사이에서 결착을 지우는 편이 심리적으로 편합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 직업별 선택 포인트
 
 마법사 계열은 넓은 범위 스킬이 많아 사냥과 스테이지 밀기에서 좋은 평가를 받습니다. 궁수 계열은 원거리에서 안정적으로 몹을 정리해 초반 난이도가 낮습니다.
@@ -65,17 +53,6 @@ hideDescription: true
 리세를 반복하면 할수록 좋은 계정을 잡을 확률이 오르지만, 그만큼 본 게임을 시작하는 시간이 늦어집니다. 게임이 열리는 시기는 서버별로 다를 수 있으니 자신의 시작 시점을 고려해야 합니다.
 
 경험상 3회 정도에서 판단을 내리는 경우가 많습니다. 3회 안에 SS～S 직업이라면 바로 진행하고, 계속 기대에 못 미치면 두 번째 캐릭터 슬롯으로 넘어가는 것도 하나의 방법입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 리세 후 체크할 시스템
 
@@ -89,13 +66,3 @@ hideDescription: true
 
 처음부터 티어만 따라가다 지치는 유저도 많습니다. 게임을 오래 즐기려면 사냥 화면에서의 만족감이 무척 중요하므로, 등급표와 취향 사이에서 균형을 맞추는 것이 현명한 선택입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

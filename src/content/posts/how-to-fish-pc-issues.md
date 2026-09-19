@@ -37,17 +37,6 @@ hideDescription: true
 
 이전 문제를 계속 겪고 있다면 스팀을 완전히 재시작해 패치가 적용됐는지 먼저 보셔야 합니다. 게임 파일 검사와 표시 모드 변경을 먼저 시도하시는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 음성 채팅과 라디오 끊김
 
 최신 패치에서는 메타보이스가 새 버전으로 올라가 음성 채팅 버그 개선을 노렸습니다. 마이크가 끊기거나 특정 플레이어 소리가 안 들린다면 모든 참가자가 같은 최신 버전인지 확인하셔야 합니다.
@@ -59,17 +48,6 @@ hideDescription: true
 낚시 방법은 1점0점11 패치에서 스팀 덱 완전 검증 상태가 추가됐습니다. 휴대용으로 낚시와 짧은 보스전을 즐기고 싶었던 분이라면 이제 공식 검증 여부를 걱정할 필요가 줄었습니다.
 
 같은 패치에서 조준 토글, 달리기 토글, 공격 유지 방식, 이름표 표시 같은 조작 옵션도 추가됐으니 처음 실행하시면 기본 조작을 그대로 쓰기보다 옵션 메뉴에서 내 손에 맞게 바꿔보시는 편이 좋죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 스팀 클라우드는 1점0점12부터
 
@@ -83,17 +61,6 @@ hideDescription: true
 
 다만 네트워크 상태에 따라 입력 지연이 달라질 수 있으니 트릭샷 같은 정밀 타이밍은 직접 실행할 때와 감각이 다를 수 있습니다. 낚시 방법은 짧게 돈을 벌고 도감을 채우는 반복이 많아서 휴대용과 잘 맞는 게임이죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 7. 문제 해결은 재설치보다 순서가 중요하다
 
 실행 오류가 생기면 스팀 재시작, 업데이트 확인, 파일 무결성 검사, 그래픽 드라이버 확인, 창 모드 변경 순서로 가볍게 점검하시는 편이 좋습니다. 멀티 문제라면 호스트와 참가자 버전도 맞춰야 합니다.
@@ -106,13 +73,3 @@ hideDescription: true
 
 특히 퀘스트 전리품과 희귀 드립은 일반 판매 물고기와 분리해 두는 습관이 좋죠. 패치가 빠른 게임이라는 점도 기억하셔야 합니다. 이상한 상황이 나오면 내 실수라고 단정하기 전에 스팀 공지의 최신 버전과 현재 설정을 먼저 확인하시는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

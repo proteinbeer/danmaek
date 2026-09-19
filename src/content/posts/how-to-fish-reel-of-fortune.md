@@ -37,17 +37,6 @@ hideDescription: true
 
 보상을 얻은 뒤 해당 장비를 들고 외형 전환 조작을 사용해야 새 스킨이 보일 수 있습니다. 당첨됐는데 아무것도 안 생겼다고 생각하기 전에 보상 이름과 해당 장비를 확인하시면 되죠. 전투가 막힌 상황에서 릴을 돌리는 것보다 실제 무기와 미끼 업그레이드에 돈을 쓰는 편이 진행에는 도움이 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 도박은 실제 돈이 아니다
 
 낚시 방법에는 물고기와 게임 내 자산을 이용하는 도박 요소가 있지만 실제 현금을 거는 구조는 아닙니다. 스팀 상점도 물고기를 이용한 도박을 성인 콘텐츠 설명에 명시하고 있죠.
@@ -59,17 +48,6 @@ hideDescription: true
 룰렛은 물건의 가치를 걸고 결과에 따라 손익이 달라지는 도박이고 릴 오브 포춘은 희귀 드립 생물을 넣어 코스메틱 외형을 뽑는 시스템입니다. 이름과 분위기가 비슷해 처음에는 헷갈리기 쉽죠.
 
 돈벌이가 목적이라면 룰렛, 외형 수집이 목적이라면 릴 오브 포춘이라고 구분하시면 이해가 쉽습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 진행 자금은 따로 빼둔다
 
@@ -83,17 +61,6 @@ hideDescription: true
 
 한두 번 실패했다고 버그라고 보기보다 드립을 모아 장기적으로 도전하는 편이 맞죠. 도박 관련 업적이 여러 개 있어 100퍼센트 완성을 노린다면 룰렛을 피할 수만은 없지만 메인 스토리를 먼저 끝내고 자금 여유가 생긴 뒤 몰아서 하는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 7. 버그 수정과 잃어도 웃을 수 있을 만큼
 
 초기 버전에서는 룰렛 공이 휠을 뚫거나 큰 값에서 소리가 끝없이 나는 문제, 중간에 나갔을 때 다음 세션에 영향을 주는 문제가 있었습니다. 1점0점10에서 이런 부분이 수정됐죠.
@@ -106,13 +73,3 @@ hideDescription: true
 
 특히 퀘스트 전리품과 희귀 드립은 일반 판매 물고기와 분리해 두는 습관이 좋죠. 패치가 빠른 게임이라는 점도 기억하셔야 합니다. 이상한 상황이 나오면 내 실수라고 단정하기 전에 스팀 공지의 최신 버전과 현재 설정을 먼저 확인하시는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

@@ -41,17 +41,6 @@ hideDescription: true
 
 로우랭크 방어구는 소재가 넉넉한 몬스터 세트로 빠르게 완성하는 편이 좋습니다. 시작 세트인 호프는 신비 기원 3과 기절 내성 2로 초반 생존에 안정적이고, 샤타카브라 세트는 식사 스피드 3과 지속력 2, 도슈구마 세트는 공격 2와 체력, 발라하라 세트는 회피거리 확장과 빠른 납도를 제공합니다. 흔히 3발라하라 + 2알로이 조합으로 회피거리 확장과 퀵 시스(빠른 납도)를 함께 챙기는 구성이 초반 정석입니다. 로우랭크 후반에는 아자라칸 세트가 파트브레이커 3과 폭발병 2로 부위 파괴와 폭발 데미지에 특화되어 있고, 레이 도 세트는 잠복 파워 3과 내진 3으로 스태미너 관리와 회심에 강합니다. 가디언 아크벨트 세트는 로우랭크 최고 방어력에 플레이어 3과 상처 파괴 시 체력을 회복하는 디시메이터 보너스를 갖춰 하이랭크 전환까지 쓰기 좋죠. 로우랭크 장비는 한두 단계만 쓰고 넘어가므로 소재를 과투자하지 않는 것이 요령입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 무기 트리 읽는 법과 레시피 해금
 
 무기 트리의 각 분기는 특정 몬스터의 재료와 연결되어 있습니다. 새 몬스터를 처음 쓰러뜨리면 그 재료를 쓰는 무기 레시피가 자동으로 열리고, 아직 보지 못한 무기는 '????'로 표시됩니다. '????'는 핵심 재료를 하나라도 손에 넣는 순간 이름과 요구 재료가 드러나죠. 트리에서 무기를 고르면 화면 중앙에 요구 재료와 비용이 표시되고, 모자란 재료가 어떤 몬스터에서 나오는지는 필드 가이드(수렵 노트)나 재료 설명에서 바로 확인할 수 있습니다.
@@ -61,17 +50,6 @@ hideDescription: true
 ## 4. 하이랭크 진입과 알파·베타 선택
 
 하이랭크는 챕터 3 보스 조 시아를 물리친 뒤 시작되고, 이후 모든 세트가 알파와 베타 두 버전으로 갈립니다. 알파는 미리 붙어 있는 스킬이 많고 장식주 슬롯이 적으며, 베타는 기본 스킬을 일부 포기하는 대신 크고 많은 슬롯을 제공합니다. 장식주를 어느 정도 모은 뒤에는 베타가 유리하고, 관련 장식주가 전혀 없을 때만 알파를 고려하는 것이 좋습니다. 알파·베타의 방어력은 동일하므로 선택지는 순전히 스킬 대 슬롯이죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 하이랭크 추천 세트와 무기 분기
 
@@ -85,13 +63,3 @@ hideDescription: true
 
 무기는 하이랭크 퀘스트 'Wyvern Sparks and Rose Thorns'(가디언 풀그르 아냐나트와 템퍼드 라라 바리나 수렵)를 완료하면 손상된 무기 조각을 받고 아르티안 제작 메뉴가 열립니다. 아르티안 무기는 부위 파츠 3종을 조합하는 형식이고, 이후 0～5까지 강화하며 공격력·회심·예리도·원소 보너스가 붙죠. 강력하지만 재료가 하이랭크 후반 전용이므로, 표준 트리 무기가 아직 R7이 아니라면 표준 강화를 이어가는 것이 가성비가 좋습니다. 표준 무기가 R7에 도달했다면 메인 무기를 아르티안으로 전환하고, 원소 대응용으로 표준 트리를 나란히 유지하는 구성이 엔드게임의 정석입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

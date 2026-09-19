@@ -17,7 +17,6 @@ image: "/assets/posts/news-images/starcraft-arg-nexon-2026-01.jpg"
 imageAlt: "스타크래프트 ARG 관련 아트"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -44,17 +43,6 @@ hideDescription: true
 
 분위기는 기존의 대규모 RTS 신작보다 어두운 '호러'에 가까운 전개라는 점에서, 오래 전 한번 유출설이 돌았던 '스타크래프트: 고스트' 부활설이나 협동 슈터로 재탄생하는 시나리오로 자연히 연결되고 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 빌려온 재미 대신 직접 만드는 블리자드
 
 이번 웹사이트 ARG는 블리자드가 직접 코드 레벨에서 꾸민 것으로 보는 시선이 강합니다. 사이트가 글리치를 보이기 시작하면서 개발자 콘솔을 열면 특정 스크립트가 실행되는데, 일반적인 웹 하이재킹과는 정면으로 반대되는 구조입니다.
@@ -67,13 +55,3 @@ hideDescription: true
 
 여기에 블리즈컨 2026 메인 스테이지 일정 사이에 '60분 공백'이 확인된다는 사실이 겹치며, 이 시간에 스타크래프트 발표가 예정돼 있다는 설이 더 힘을 얻고 있습니다. 공식 발표 날(9월 12일)이 가까워질수록 이 ARG는 점점 더 큰 화제로 번질 전망입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

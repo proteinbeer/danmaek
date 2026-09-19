@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/ubisoft-launcher-simplify-2026-01.jpg"
 imageAlt: "유비소프트가 스팀 이중 런처를 줄인다, 유비소프트 커넥트가 달라지는 방식"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -63,17 +62,6 @@ PC 이용자가 오랫동안 불편하다고 말해온 이중 런처 문제를 �
 
 다만 개인정보와 계정 연동 조건은 게임마다 확인할 필요가 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 왜 이제 바꾸나
 
 PC 게임 시장에서 스팀은 사실상 가장 강한 유통 플랫폼 중 하나이죠.
@@ -101,17 +89,6 @@ PC 게임 시장에서 스팀은 사실상 가장 강한 유통 플랫폼 중 �
 반면 지금은 작은 범위의 테스트는 위험을 줄이면서 이용자 반응을 확인할 수 있습니다.
 
 아직 다른 유비소프트 게임에 언제 적용될지는 아직 구체적인 일정이 필요하죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. PC 게임의 좋은 방향
 

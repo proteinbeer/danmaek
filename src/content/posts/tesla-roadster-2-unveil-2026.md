@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/tesla-roadster-2-unveil-2026-01.jpg"
 imageAlt: "테슬라 2세대 로드스터 10월 1일 공개, 2017년 발표 뒤 9년을 기다렸다"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -61,17 +60,6 @@ hideDescription: true
 
 그래서 기업의 안정성은 대표가 누구인지보다 의사 결정 절차와 책임 범위가 얼마나 명확한지에서 드러납니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 예약 고객의 기다림
 
 큰 예약금을 오래 묶어둔 고객에게는 신차 발표보다 생산 시작이 더 중요합니다.
@@ -103,17 +91,6 @@ hideDescription: true
 기존 고객을 어떻게 대우하는지도 브랜드 신뢰에 영향을 줍니다.
 
 예약과 결제, 이전 구매자 혜택 같은 세부 정책이 명확해야 새 고객도 안심하고 들어올 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 이번에는 생산 일정이 핵심
 

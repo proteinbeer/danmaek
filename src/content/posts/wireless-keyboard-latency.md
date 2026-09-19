@@ -57,17 +57,6 @@ hideDescription: true
 
 간단하지만 무선 키보드 특성을 알고 쓰는 방법이죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 수신기 위치가 지연처럼 느껴질 수 있다
 
 2.4GHz 수신기를 본체 뒤쪽 깊은 곳에 꽂아두면 금속 케이스와 다른 USB 장치의 영향을 받을 수 있습니다.
@@ -96,17 +85,6 @@ PC에 입력을 자주 보고하는 것은 지연을 줄이는 한 요소지만 
 
 다만 너무 민감하게 두면 손을 살짝 얹는 것만으로 오입력이 늘 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 게임에서만 느리다면 입력 설정 확인
 
 게임 자체가 입력 버퍼나 프레임 제한 때문에 늦게 반응하는 것처럼 느껴질 수 있습니다.
@@ -126,17 +104,6 @@ PC에 입력을 자주 보고하는 것은 지연을 줄이는 한 요소지만 
 제가 무선 키보드에서 지연을 느낀다면 먼저 유선으로 연결해 기준을 만들고, 그다음 2.4GHz와 블루투스를 각각 비교하겠습니다.
 
 세 방식의 차이를 직접 확인하면 키보드를 바꿔야 하는지 연결 방식만 바꾸면 되는지 훨씬 쉽게 판단할 수 있죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 배터리 수명과 반응성은 같이 움직인다
 

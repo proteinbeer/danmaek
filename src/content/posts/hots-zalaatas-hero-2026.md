@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/hots-zalaatas-hero-2026-01.jpg"
 imageAlt: "히어로즈 오브 더 스톰 6년 만의 신규 영웅, 정말 부활 신호일까"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -43,17 +42,6 @@ hideDescription: true
 
 새로운 결정은 갑자기 나온 것처럼 보여도 이전 작품의 반응과 시장 변화가 쌓인 결과인 경우가 많죠. 과거 방식을 그대로 반복하기 어려워진 지점에서 어떤 문제를 해결하려는지 보면 선택의 이유가 더 선명해집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 유지보수 게임에서 나온 이례적 변화
 
 잘아타스의 반응이 좋으면 이용자 복귀와 매칭 인구 증가를 확인할 수 있습니다. 반대로 일시적인 기념 업데이트에 그친다면 장기적인 콘텐츠 재개를 기대하기는 어렵기 때문에 초반 동시 접속과 개발진 후속 발언이 중요합니다.
@@ -69,17 +57,6 @@ hideDescription: true
 신규 영웅 한 명만으로 서비스가 완전히 살아났다고 말하기는 어렵죠. 하지만 수년 동안 없던 콘텐츠 투자가 다시 시작됐다는 사실은 분명해서 팬들에게는 앞으로를 기대할 근거가 생겼습니다.
 
 개인적으로는 이 지점이 가장 흥미롭습니다. 눈에 띄는 발표 하나보다 이런 방향 변화가 다른 작품과 서비스에도 반복될 때 회사 전체의 전략으로 굳어지는 경우가 많기 때문입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 다음 영웅과 패치 주기가 진짜 기준
 

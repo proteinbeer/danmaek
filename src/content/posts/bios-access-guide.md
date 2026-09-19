@@ -16,7 +16,6 @@ image: "/assets/posts/guide-images/hero-bloom.jpg"
 imageAlt: "메인보드 펌웨어 설정 화면으로 진입하는 바이오스"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -46,17 +45,6 @@ hideDescription: true
 
 이 방법은 키보드가 없거나 단축키가 안 먹히는 기기에서도 동작하므로, 빠른 부팅이 켜진 최신 PC에서는 가장 확실한 방법입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 진입이 안 될 때 점검 사항
 
 단축키도 재시작 옵션도 안 된다면 아래 항목을 확인합니다.
@@ -77,13 +65,3 @@ hideDescription: true
 
 마우스가 되는 바이오스가 많지만, 방향키와 엔터, Esc로 모든 항목을 조작할 수 있으니 키보드만으로도 충분합니다. 실수로 설정을 바꿨다면 **Load Optimized Defaults(기본값 복원)**로 되돌리면 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

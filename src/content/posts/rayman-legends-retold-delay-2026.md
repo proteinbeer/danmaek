@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/ubisoft-launcher-simplify-2026-01.jpg"
 imageAlt: "레이맨 레전드 리톨드 출시 직전 연기, 이미 완성됐는데 두 달 늦춘 이유"
 imageWidth: 1920
 imageHeight: 1080
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -60,17 +59,6 @@ hideDescription: true
 
 유비소프트가 완성 직후 바로 내는 것보다 한 번 더 손보는 편을 택한 이유도 이해할 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 너무 붐비는 가을
 
 공식적인 연기 이유는 품질 개선입니다.
@@ -98,17 +86,6 @@ hideDescription: true
 리톨드는 3D 시각 효과와 새로운 콘텐츠를 추가하면서도 원작의 리듬을 유지해야 합니다.
 
 두 달의 추가 시간이 이런 미세한 부분에 쓰인다면 연기 자체가 나쁜 소식만은 아닙니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 12월에도 경쟁은 남는다
 

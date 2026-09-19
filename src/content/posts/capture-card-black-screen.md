@@ -49,17 +49,6 @@ HDCP는 HDMI를 통해 전달되는 디지털 콘텐츠를 보호하기 위한 �
 
 보호된 영상 콘텐츠가 검은 화면으로 나오는 것은 캡처보드 고장이 아니라 의도된 동작일 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 해상도와 주사율 맞추기
 
 캡처보드가 지원하는 최대 입력 해상도와 주사율을 넘는 신호를 보내도 검은 화면이 나올 수 있죠.
@@ -84,17 +73,6 @@ HDR도 변수입니다.
 
 이 세 숫자를 하나로 생각하면 지원되는 설정인데도 안 되는 것처럼 오해하기 쉽죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. USB 연결도 중요
 
 고해상도 캡처보드는 많은 데이터를 PC로 보내기 때문에 필요한 USB 속도가 정해져 있습니다.
@@ -114,17 +92,6 @@ OBS 같은 방송 프로그램에서는 비디오 캡처 장치를 새로 추가
 해상도와 프레임을 장치 기본값으로 두고 먼저 화면이 나오는지 확인한 뒤 원하는 값으로 조절하시면 됩니다.
 
 처음부터 수동으로 높은 값을 강제하면 지원하지 않는 조합 때문에 검은 화면이 생길 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 단순한 구성부터 다시 시작
 
@@ -146,13 +113,3 @@ OBS 같은 방송 프로그램에서는 비디오 캡처 장치를 새로 추가
 
 영상과 오디오를 따로 나눠 생각하면 캡처 문제를 훨씬 빠르게 좁힐 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

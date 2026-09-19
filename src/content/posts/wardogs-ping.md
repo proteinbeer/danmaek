@@ -16,7 +16,6 @@ image: "/assets/posts/guide-images/wardogs-2026-01.jpg"
 imageAlt: "워독스(WARDOGS) 100인 3팀 전쟁 게임 대표 이미지"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -36,17 +35,6 @@ hideDescription: true
 
 벽을 여러 개 통과하면 높은 주파수 대역이 약해질 수 있으니 거리와 신호 세기를 같이 봐야 합니다. 자동 채널이 항상 최선인 것도 아닙니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 백그라운드 트래픽
 
 스팀 업데이트, 클라우드 백업, 영상 업로드가 동시에 돌아가면 회선 큐가 차면서 핑이 크게 오를 수 있습니다.
@@ -58,17 +46,6 @@ hideDescription: true
 VPN은 가까운 지역을 선택해도 실제 서버 경로가 더 길어질 수 있습니다. 핑을 낮추려다 오히려 지연과 손실이 늘어나는 경우도 있습니다.
 
 기본 회선과 VPN 상태를 같은 시간대에 비교합니다. 특별한 이유가 없다면 온라인 FPS에서는 단순한 경로가 더 안정적인 경우가 많습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 버퍼블로트
 
@@ -82,13 +59,3 @@ QoS나 스마트 큐 기능이 있다면 업로드가 포화되지 않게 관리
 
 저라면 10밀리초를 줄이려고 복잡한 프로그램을 설치하기보다 안정적인 연결을 유지하겠습니다. 평균 핑보다 갑자기 튀지 않는 핑이 실제 조작감에 더 중요합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

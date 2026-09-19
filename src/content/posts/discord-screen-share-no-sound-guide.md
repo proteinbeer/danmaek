@@ -40,17 +40,6 @@ hideDescription: true
 
 공유 중에 소리가 안 들린다면 화면 공유를 한 번 종료하고, 공유할 프로그램 창을 다시 선택해서 새로 시작하시면 됩니다. 공유 대상이 바뀌면서 사운드 캡처가 다시 활성화될 수 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 디스코드 음성 설정 초기화
 
 사용자 설정의 음성 및 비디오에서 입력, 출력 장치가 실제 사용 중인 장치로 되어 있는지 확인해보시기 바랍니다. 문제가 계속된다면 음성 설정 초기화를 해 보시기 바랍니다.
@@ -66,17 +55,6 @@ hideDescription: true
 디스코드는 그래픽카드의 하드웨어 가속을 이용해 화면 캡처와 인코딩을 처리합니다. 그래픽 드라이버와의 호환성 문제로 화면 공유 영상이나 소리가 불안정할 때는 **사용자 설정 → 고급 → 하드웨어 가속**을 끈 뒤 디스코드를 재시작하시면 되죠.
 
 하드웨어 가속을 끄면 화면 공유 시 CPU가 처리 부담을 더 지기 때문에 성능이 다소 달라질 수 있지만, 안정성 문제를 해결하는 데 도움이 됩니다. 이 설정을 바꾼 뒤 화면 공유 소리가 정상적으로 전달되는지 확인하시면 됩니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 윈도우와 드라이버 확인
 

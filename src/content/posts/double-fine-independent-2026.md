@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/double-fine-independent-2026-01.jpg"
 imageAlt: "더블파인의 마이크로소프트 이탈과 독립을 설명하는 대표 이미지"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -49,17 +48,6 @@ hideDescription: true
 
 좋은 평가를 받는 것과 회사 안에서 생존하는 것은 다른 문제입니다. 작은 창작팀이 대기업 안에 들어간다고 해서 그 차이가 사라지는 건 아니죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 독립했다고 모든 문제가 해결된 것도 아니다
 
 더블파인은 독립 과정에서 자사 게임의 소유권도 다시 가져왔습니다. 앞으로 기존 게임을 판매해 생기는 수익도 스튜디오 생존에 직접 연결되는 구조가 됐죠.
@@ -75,17 +63,6 @@ hideDescription: true
 더블파인은 후자를 택했습니다. 실패하면 책임도 직접 져야 하지만, 어떤 게임을 만들지 결정하는 권한도 다시 자기 손에 들어옵니다.
 
 게임 개발에서는 이 권한이 생각보다 큽니다. 숫자로 설명하기 어려운 아이디어를 만드는 회사일수록 경영진이 바뀔 때마다 프로젝트의 가치를 다시 설득해야 하는 부담이 크기 때문입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 인수는 엔딩이 아니라 새로운 계약일 뿐
 
@@ -103,13 +80,3 @@ hideDescription: true
 
 그럼에도 더블파인 같은 회사는 작은 대신 자기 색이 분명한 게임을 만들 때 존재감이 컸습니다. 그래서 저는 독립 이후 첫 몇 작품이 회사의 자유보다 생존 모델이 실제로 작동하는지를 보여주는 더 중요한 시험이 될 거라고 봅니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

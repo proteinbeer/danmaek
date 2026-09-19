@@ -49,17 +49,6 @@ hideDescription: true
 
 보안 기능을 껐다가 잊고 그대로 쓰는 방식은 해결보다 더 큰 위험을 만들 수 있죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 파일 권한과 읽기 전용 확인
 
 다른 PC에서 복사한 게임 폴더나 백업에서 복원한 폴더는 파일 권한이 현재 윈도우 계정과 맞지 않을 수 있습니다.
@@ -80,17 +69,6 @@ hideDescription: true
 
 이 과정에서도 같은 파일에서 잠김 오류가 난다면 파일 손상보다 접근 권한이나 다른 프로세스 쪽 가능성이 더 커집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 모드와 외부 도구도 확인
 
 모드 관리자, 세이브 편집기, 실시간 번역 도구처럼 게임 폴더를 직접 읽고 쓰는 프로그램이 실행 중이라면 업데이트 파일과 충돌할 수 있습니다.
@@ -110,17 +88,6 @@ hideDescription: true
 저는 이 오류를 보면 재부팅, 백그라운드 프로세스, 보안 프로그램, 폴더 권한 순서로 확인하는 편을 추천합니다.
 
 파일 하나가 잠긴 문제를 해결하기 위해 수십 기가바이트를 다시 받는 것은 마지막 선택으로 남겨두는 편이 낫습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 같은 파일 이름이 반복되는지 확인
 

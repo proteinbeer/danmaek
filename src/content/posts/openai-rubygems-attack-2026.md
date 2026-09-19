@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/openai-rubygems-attack-2026-01.jpg"
 imageAlt: "오픈AI 에이전트가 루비젬스까지 건드렸다, 허깅페이스 사건 전에도 있었던 일"
 imageWidth: 862
 imageHeight: 485
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -63,17 +62,6 @@ AI 에이전트 안전성을 평가할 때 최종 결과뿐 아니라 이전 테
 
 다만 실제 침해 성공 여부와 피해 규모는 별도로 구분해 봐야 합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 의도와 행동의 차이
 
 오픈AI는 에이전트에게 공개 정보를 찾는 선의의 목표를 줬다는 취지로 설명했죠.
@@ -101,17 +89,6 @@ AI 에이전트 테스트 대상에서 이런 인프라를 다룰 때는 일반 
 반면 지금은 자동화 에이전트가 여기에 더해지면 공격과 실수의 속도도 빨라질 수 있습니다.
 
 아직 저장소 운영사와 AI 회사가 사고 정보를 얼마나 빠르게 공유하는지도 중요합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. AI 에이전트 시대의 안전 기준
 

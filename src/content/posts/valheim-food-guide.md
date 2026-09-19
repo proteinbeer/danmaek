@@ -38,17 +38,6 @@ hideDescription: true
 
 검은 숲에 들어서면 당근 농사가 열립니다. 당근 수프는 스태미나 중심의 안정적인 요리이며, 여왕잼은 체력과 스태미나를 고루 올려 주는 잼 레시피입니다. 멧돼지 고기와 벌꿀을 넣는 멧돼지 저키는 장시간 유지되는 균형형 요리라 오래 탐험할 때 유용하죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 경작기 제작과 바이옴별 작물
 
 농사의 시작은 경작기입니다. 경작기는 검은 숲 단계에서 청동 5개와 코어 우드 5개로 대장간에서 제작하며, 땅을 갈아 씨앗을 심을 수 있게 만드는 도구이죠. 잔디를 복원하는 모드도 있어 목장이나 폐허를 자연 상태로 되돌리는 데도 사용합니다. 농사를 시작하기 전에 평평한 땅을 미리 만들어 두면 작물이 자랄 공간이 넓어집니다.
@@ -60,17 +49,6 @@ hideDescription: true
 늪지 바이옴에서는 순무 농사와 함께 본격적인 요리가 시작되죠. 순무 스튜는 스태미나 55를 제공하며, 소시지는 체력 55로 느낄 수 있는 첫 대형 체력 요리입니다. 지령과 드라우그 던전을 돌 때는 체력이 높아야 근접전에서 버티므로 소시지와 함께 체력형 요리를 2개 조합하는 편이 좋습니다.
 
 또한 늪지의 오즈재료로 넉셰이크를 만들 수 있고, 뱀고기는 스네이크 스튜로 만들어 체력 80을 채워 주는 고급 요리가 됩니다. 뱀 스튜는 바다에서 서펀트를 잡았을 때 가장 가치 있는 레시피이며, 보트 탐사 전 미리 만들어 두면 유사시 체력 우위를 점할 수 있죠. 산맥 바이옴에서는 양파 농사가 열리고, 양파 수프가 스태미나 60으로 순무 스튜보다 높아집니다. 늑대 고기 요리가 체력형 한 축을 담당하는데, 늑대 꼬치는 체력 65까지 올려 주는 산맥 최고의 단일 요리입니다. 눈보라 속 탐사는 스태미나를 크게 소모하므로 스태미나형 요리 하나를 반드시 유지해야 합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 동물 길들이기 원리와 동물별 먹이
 
@@ -85,17 +63,6 @@ hideDescription: true
 새끼는 어미의 별을 물려받는데, 별이 있는 동물은 별이 없는 동물보다 공격력과 아이템 드랍이 높아서 2성 멧돼지나 2성 늑대를 찾는 것이 농장의 목표입니다. 닭과 아스크빈은 알을 부화시켜 얻으며, 따뜻한 열원을 두면 부화해 청아리가 되고 성장하면 성체가 되죠.
 
 인구 제한에 도달하면 번식이 멈추므로 적정 수를 유지해야 합니다. 별이 좋은 동물은 분리된 추가 우리에 보관해 교배를 보존하고, 목표 수준까지 번식시킨 뒤 일반 동물을 도축하는 방식이 지속 가능한 목축 운영의 정석입니다. 작물은 한 구역에 밀집시켜 심고, 목축은 벽면을 견고하게 하며, 농장과 식량 창고를 인접하게 만들어 요리 재료 운반 시간을 줄이는 편이 좋죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 플레인즈·미스트랜즈 음식과 마법 빌드
 

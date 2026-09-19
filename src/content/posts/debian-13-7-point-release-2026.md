@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/debian-13-7-point-release-2026-01.jpg"
 imageAlt: "데비안 13.7 출시, 새 기능보다 지금 설치할 사람이 중요한 버전"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -43,17 +42,6 @@ hideDescription: true
 
 서버에서 자주 쓰는 네트워크와 웹 관련 패키지도 포함돼 있어 새 설치라면 가능한 최신 이미지로 시작하는 편이 안전합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 시나몬과 검색 기능 버그도 수정
 
 보안 외에도 시나몬의 스파이스 다운로드와 업데이트 문제, 검색 구성요소 충돌 가능성 등 여러 일반 버그가 고쳐졌습니다. LLVM 도구 모음도 새로운 크로미움 빌드를 지원하도록 업데이트됐습니다.
@@ -65,17 +53,6 @@ hideDescription: true
 현재 데비안 13을 정상적으로 업데이트하고 계시면 13.7 ISO를 받아 다시 설치하실 이유가 없습니다. 포인트 릴리스 번호는 윈도우의 완전한 새 버전처럼 별도 업그레이드를 요구하지 않습니다.
 
 터미널에서 일반 업데이트를 수행하고 보안 저장소를 정상적으로 사용하고 있다면 필요한 패치를 이미 받게 됩니다. 설치 미디어가 새로워졌다고 이해하는 편이 가장 쉽죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 데비안 14는 2027년 하반기 예상
 
@@ -90,17 +67,6 @@ hideDescription: true
 지금 데비안 서버를 새로 구축하신다면 오래된 설치 이미지를 굳이 사용할 이유는 거의 없죠. 13.7 이미지를 쓰면 설치 과정에서 이미 수정된 패키지를 받기 때문에 설치 직후 수백 개 패키지를 다시 업데이트하는 시간을 줄일 수 있습니다.
 
 다만 기업 환경에서 자체 검증한 특정 이미지와 자동 설치 스크립트를 사용하고 있다면 무조건 최신 ISO로 바꾸는 것도 위험할 수 있습니다. 새 포인트 릴리스를 테스트 환경에 먼저 적용한 뒤 배포 이미지를 교체하는 방식이 안정적이죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 포인트 릴리스가 데비안다운 이유
 

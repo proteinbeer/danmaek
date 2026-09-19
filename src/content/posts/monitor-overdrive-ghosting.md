@@ -53,17 +53,6 @@ LCD 픽셀은 한 색에서 다른 색으로 바뀌는 데 시간이 필요하�
 
 그래서 숫자상 가장 빠른 응답속도보다 시각적으로 깨끗한 중간 단계가 더 좋은 선택이 되기도 하죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 주사율에 따라 최적값이 달라질 수 있다
 
 240Hz에서 좋은 오버드라이브 단계가 60Hz에서도 좋은 것은 아닙니다.
@@ -92,17 +81,6 @@ LCD 픽셀은 한 색에서 다른 색으로 바뀌는 데 시간이 필요하�
 
 처음부터 최대 단계로 올리기보다 기본값에서 문제가 있는지 먼저 보는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 게임과 문서에서 확인하는 방법
 
 빠른 FPS에서는 벽 모서리나 적 윤곽을 보면서 카메라를 좌우로 움직여보시면 됩니다.
@@ -122,17 +100,6 @@ LCD 픽셀은 한 색에서 다른 색으로 바뀌는 데 시간이 필요하�
 제가 모니터를 설정한다면 오버드라이브를 중간 단계에서 시작하고, 자주 하는 게임의 실제 프레임에서 한 단계씩 비교하겠습니다.
 
 눈에 보이는 잔상이 가장 적은 지점이 그 모니터와 내 환경의 진짜 최적값입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 응답속도 수치만으로 모니터를 고르지 말 것
 

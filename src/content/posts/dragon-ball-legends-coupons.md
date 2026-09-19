@@ -60,17 +60,6 @@ hideDescription: true
 
 게임 안에서 입력하는 방식이라면 공지, 이벤트, 고객센터, 계정, 설정 메뉴 쪽을 차례로 찾으면 됩니다. 쿠폰 메뉴 이름이 리딤코드, 교환코드, 선물코드, CD키처럼 다르게 번역되는 경우가 있으므로 비슷한 메뉴를 같이 확인하는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 쿠폰이 안 될 때 확인할 것
 
 쿠폰 입력이 실패했다면 먼저 이미 사용한 코드인지 확인해야 하죠. 대부분의 쿠폰은 계정당 1회만 등록되며, 같은 계정에서 다시 입력하면 실패 메시지가 나옵니다.
@@ -90,17 +79,6 @@ hideDescription: true
 방송 기념 쿠폰은 특히 만료가 빠른 편입니다. 업데이트 쇼케이스, 신규 캐릭터 발표, 대형 패치 예고 방송에서 공개된 코드는 당일이나 다음 날 끝나는 경우도 있죠. 반대로 상시 코드나 초보자 지원 코드는 오래 유지될 수 있으므로 성격을 나눠서 보는 것이 중요합니다.
 
 새 쿠폰이 나오면 기존 글의 표와 업데이트 기록만 고칩니다. 이렇게 하면 검색엔진과 사용자 모두 같은 URL에서 최신 정보를 확인할 수 있고, 매달 비슷한 글이 반복되는 문제도 줄일 수 있습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 업데이트 기록
 

@@ -57,17 +57,6 @@ hideDescription: true
 
 작업 중인 파일을 먼저 저장하고 노트북이라면 전원을 연결한 상태에서 진행하는 편이 안전합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 윈도우가 부팅되지 않을 때
 
 업데이트 후 부팅 자체가 막힌다면 설정 화면까지 들어갈 수 없죠.
@@ -95,17 +84,6 @@ hideDescription: true
 저는 업데이트를 삭제하는 기능을 치료라기보다 원인 확인 도구에 가깝게 봅니다.
 
 문제가 사라지는지 확인하고 다음 수정판을 기다리는 짧은 우회로라는 의미이죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 초기화보다 먼저 해볼 순서
 
@@ -135,13 +113,3 @@ hideDescription: true
 
 한 대에서만 발생한다면 드라이버와 설치 프로그램 같은 그 PC만의 차이도 함께 봐야 합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

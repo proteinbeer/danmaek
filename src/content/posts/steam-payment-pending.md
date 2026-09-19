@@ -49,17 +49,6 @@ hideDescription: true
 
 금액이 보인다는 이유만으로 스팀이 이미 돈을 최종 수령했다고 단정하시면 안 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 같은 결제를 연속으로 반복하지 않기
 
 구매가 안 됐다고 같은 버튼을 여러 번 누르면 승인 요청도 여러 번 생길 수 있습니다.
@@ -80,17 +69,6 @@ hideDescription: true
 
 결제 수단을 바꾸는 것도 같은 원칙이 적용됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 해외 체류와 통화 문제
 
 다른 국가에 체류 중이거나 결제 수단의 국가와 스팀 상점 국가가 맞지 않으면 결제가 실패할 수 있죠.
@@ -110,17 +88,6 @@ hideDescription: true
 저는 결제 오류에서 가장 피해야 할 행동이 안 됐으니 한 번 더를 반복하는 것이라고 봅니다.
 
 구매 내역과 카드 승인 상태를 먼저 나누어 확인하면 실제 이중 결제인지 단순 보류인지 훨씬 차분하게 판단할 수 있죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 구매 기록과 카드 기록을 함께 보관
 

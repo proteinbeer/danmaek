@@ -16,7 +16,6 @@ image: "/assets/posts/guide-images/wardogs-2026-01.jpg"
 imageAlt: "워독스(WARDOGS) 100인 3팀 전쟁 게임 대표 이미지"
 imageWidth: 1280
 imageHeight: 720
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -36,17 +35,6 @@ hideDescription: true
 
 어제 좋은 저격 자리가 오늘은 전투에서 멀어질 수 있습니다. 지도는 건물 위치보다 각 지역이 거점이 됐을 때 접근로를 익히는 방식으로 보는 편이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 수송의 가치
 
 맵이 크면 팀원이 걸어서 컨트롤 존까지 가는 시간이 길어집니다. 차량으로 아군을 빠르게 넣으면 점수 생산 속도가 올라갑니다.
@@ -58,17 +46,6 @@ hideDescription: true
 모든 팀원이 존 중앙에 뭉치면 포격과 차량 공격에 큰 피해를 볼 수 있습니다. 일부는 안에서 점수를 유지하고 일부는 접근로를 막는 편이 좋습니다.
 
 밖에서 싸우는 사람은 너무 멀리 나가지 않는 것이 중요합니다. 적을 쫓다가 거점 인원이 부족해지면 이긴 전투가 점수 손해로 바뀝니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 건설로 시간 확보
 
@@ -82,13 +59,3 @@ hideDescription: true
 
 저라면 길을 잃었을 때 무엇을 해야 할지 모르겠다면 컨트롤 존과 팀 인원 수부터 보겠습니다. 모든 시스템의 중심이 여기 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

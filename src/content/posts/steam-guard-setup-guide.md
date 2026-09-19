@@ -40,17 +40,6 @@ PC에서 스팀 클라이언트를 실행한 뒤 왼쪽 상단의 **상단 메�
 
 주의할 점은 이메일 계정 자체가 뚫리면 스팀 가드도 함께 뚫릴 수 있다는 것입니다. 이메일 비밀번호도 다른 곳에 쓰는 비밀번호와 다르게 만들고, 가능하면 이메일에도 2단계 인증을 걸어두는 것이 좋습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 모바일 인증기로 더 안전하게
 
 스팀 모바일 앱을 설치하면 핸드폰이 인증기로 변하죠. 코드가 30초마다 바뀌어 공격자가 예측할 수 없습니다.
@@ -66,17 +55,6 @@ PC에서 스팀 클라이언트를 실행한 뒤 왼쪽 상단의 **상단 메�
 새 PC에서 스팀에 로그인하면 스팀 가드 코드를 입력해야 합니다. 이때 모바일 인증기 코드를 쓰면 보안성이 높고, 거래 요청이 들어오면 앱에서 승인 또는 거절을 선택할 수 있습니다.
 
 아이템 거래를 자주 하거나 게임을 여러 기기에서 즐기는 사람이라면 이메일 협정 인증으로는 코드가 이메일로 오는 동안 기다려야 해서 불편할 수 있죠. 이런 경우 모바일 인증기가 훨씬 빠르고 안전합니다. 설령 이메일 계정이 유출되더라도 모바일 인증 코드는 핸드폰에만 존재하기 때문입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 설정 후 잊지 말아야 할 것
 

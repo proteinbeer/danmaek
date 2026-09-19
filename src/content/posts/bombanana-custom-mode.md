@@ -42,17 +42,6 @@ hideDescription: true
 
 누가 어느 역할에 잘 맞는지 애매할 때도 커스텀이 유용합니다. 같은 조건에서 역할만 바꿔보면 누가 중계가 빠른지, 누가 설명서를 빨리 읽는지, 누가 지시를 정확히 따르는지 비교하기 쉬워집니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 파티용 극단 설정
 
 기록이나 연습이 목적이 아니라 친구들과 웃는 것이 목적이라면 타이머를 극단적으로 줄이거나 방해 요소를 많이 넣는 설정도 재미가 있습니다. 봄바나나는 원래 혼란 자체가 재미인 게임이라 이런 설정과 잘 맞죠.
@@ -64,17 +53,6 @@ hideDescription: true
 엔들리스 초반 웨이브부터 최고 속도를 내려고 하면 작은 실수가 뒤쪽에서 크게 터집니다. 쉬운 웨이브는 기록을 벌기 위한 구간이면서 동시에 팀 리듬을 맞추는 구간이죠. 세 사람이 같은 속도로 움직이는 리듬부터 만드시는 편이 좋습니다.
 
 같은 세션이 길어지면 긴 설명이 피로로 돌아옵니다. 위치와 색, 숫자 표현을 최대한 짧게 줄이고 반복되는 모듈은 팀만 알아듣는 약어를 정해 두시면 시간이 갈수록 속도가 빨라지죠. 정전이나 소음 같은 환경 방해는 퍼즐보다 통신 복구가 먼저입니다. 통신이 깨진 상태에서 모듈을 억지로 진행하면 잘 알고 있는 퍼즐에서도 실수가 나오므로 방해 요소부터 정리하시는 편이 좋습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 엔들리스 기록 관리 요령
 

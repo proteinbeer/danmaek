@@ -16,7 +16,6 @@ image: "/assets/posts/news-images/warframe-iceblade-narin-2026-01.jpg"
 imageAlt: "워프레임 나린 9월 23일 출시, 13년 차 게임이 또 커지는 이유"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -43,17 +42,6 @@ hideDescription: true
 
 이 게임은 오래 운영되며 여러 섬처럼 흩어진 콘텐츠가 늘어났습니다. 새 허브가 단순한 대기 공간이 아니라 다음 이야기와 보상을 자연스럽게 묶어주는 장소인지가 중요합니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 밴시 대규모 개편과 무료 지급
 
 오래된 워프레임 밴시는 능력 개편을 받습니다. 9월 23일부터 10월 7일까지 접속하면 기본 밴시와 완성된 포르마 하나를 무료로 받을 수 있어 기존 이용자와 신규 이용자 모두 개편을 직접 시험할 수 있습니다.
@@ -65,17 +53,6 @@ hideDescription: true
 아이스블레이드 오브 나린에서는 리벤 재설정 때 특정 특성을 쿠바를 사용해 보존할 수 있게 됩니다. 두 리벤 특성을 조합하는 리벤 스플라이서도 추가돼 무기 세팅에서 운에만 의존하던 부분을 일부 줄이죠.
 
 이런 변화는 신규 지역보다 오래 플레이한 사람에게 더 크게 느껴질 수 있습니다. 반복 파밍 시간을 줄여주면 새 콘텐츠보다 체감 만족도가 더 높아지는 경우가 많습니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 갤럭시 스토어까지 확대
 
@@ -90,17 +67,6 @@ hideDescription: true
 워프레임은 오래된 게임이라 처음 시작하면 시스템이 너무 많다는 인상을 받기 쉽죠. 그래서 새 업데이트에서 무료 밴시와 새 허브, 모바일 유통 확대를 같이 묶는 것은 기존 이용자뿐 아니라 처음 들어오는 사람의 시작점을 만들어주는 의미도 있습니다.
 
 오래 서비스한 게임이 살아남으려면 고인물만 만족시키는 고난도 콘텐츠와 신규 이용자가 이해할 수 있는 입구를 동시에 관리해야 합니다. 아이스블레이드 오브 나린이 좋은 업데이트인지도 새 전투의 화려함보다 이 두 이용자층을 얼마나 함께 잡는지에서 판단할 수 있을 겁니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 한국에서 공개된 나린도 의미가 있다
 

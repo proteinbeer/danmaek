@@ -18,7 +18,6 @@ image: "https://img.danmaek.com/images/posts/gamescom-2026-korean-game-companies
 imageAlt: "게임스컴 2026 메인 비주얼"
 imageWidth: 1015
 imageHeight: 678
-hideHeroImage: true
 hideDescription: true
 ---
 
@@ -57,17 +56,6 @@ hideDescription: true
 
 한 작품의 판매량뿐 아니라 회사 자체가 글로벌 이용자에게 어떤 제작사로 기억되는지가 중요해진 거죠.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 시연이 있는 게임과 영상만 있는 게임
 
 게임쇼에서 가장 강한 홍보는 화려한 예고 영상보다 실제 플레이입니다. 영상은 편집할 수 있지만 현장 시연은 조작감, 화면 흐름, 완성도 같은 부분이 바로 드러납니다.
@@ -87,17 +75,6 @@ hideDescription: true
 현장 대기열, 시연 후기, 해외 방송 반응, 찜 목록 증가 같은 신호를 함께 보면 어느 시장에서 관심이 생기는지 비교할 수 있죠. 개발사 입장에서는 마케팅 전 실제 이용자의 행동 자료를 확인하는 겁니다.
 
 그래서 게임스컴 출품을 단순히 해외 홍보라고 보기보다 출시 전략을 검증하는 과정으로 보는 편이 더 정확합니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 이후가 더 중요
 

@@ -57,17 +57,6 @@ hideDescription: true
 
 저는 파일을 조금이라도 자주 내려받는 PC라면 계속 켜두는 쪽이 더 낫다고 봅니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 이름 바꿀 때 더 조심해야 한다
 
 확장자를 표시한 상태에서 파일 이름을 바꾸면 마지막 확장자까지 편집할 수 있습니다.
@@ -95,17 +84,6 @@ hideDescription: true
 확장자 표시가 보안 프로그램을 대신하는 것은 아닙니다.
 
 다만 사용자가 파일의 정체를 한번 더 확인할 수 있게 만들어 실수를 줄이는 아주 간단한 장치가 되죠.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 5. 같은 이름 파일을 찾을 때 더 편하다
 
@@ -135,13 +113,3 @@ hideDescription: true
 
 하지만 며칠만 사용하면 오히려 확장자가 없는 파일 목록이 답답하게 느껴질 만큼 실용적인 정보가 됩니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>

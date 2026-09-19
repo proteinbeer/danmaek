@@ -15,7 +15,6 @@ image: "/assets/posts/news-images/dune-awakening-single-player-2026-01.jpg"
 imageAlt: "듄 어웨이크닝 9월 22일 싱글플레이 추가, MMO가 혼자 하는 게임으로 바뀐다"
 imageWidth: 1200
 imageHeight: 675
-hideHeroImage: true
 hideDescription: true
 draft: true
 ---
@@ -43,17 +42,6 @@ draft: true
 
 후발 콘솔판의 장점은 콘텐츠가 이미 쌓였다는 것입니다. 반대로 PC 이용자가 오래 기다렸던 편의 기능이 콘솔 출시를 계기로 한꺼번에 들어오는 점은 약간 씁쓸하게 느껴질 수도 있습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 3. 스토리 결말
 
 같은 업데이트에서 북 원의 마지막 장도 추가됩니다. 싱글플레이를 처음부터 끝까지 제공하려면 이야기가 중간에서 끊기지 않아야 하기 때문에 시점이 잘 맞습니다.
@@ -66,17 +54,6 @@ draft: true
 
 온라인 생존 게임이 오래 운영될수록 하드코어 이용자와 느긋한 이용자를 같은 규칙에 묶기 어렵습니다. 듄 어웨이크닝은 결국 한 세계 안에서 여러 플레이 스타일을 나누는 쪽을 선택했습니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
-
 ## 5. 방향 전환
 
 저는 이번 변화가 실패를 인정한 것보다는 이용자층을 넓히는 현실적인 선택이라고 봅니다. 듄 세계관을 좋아하는 사람이 모두 MMO 경쟁을 좋아하는 것은 아닙니다.
@@ -88,17 +65,6 @@ draft: true
 듄 세계관은 정치와 생존, 거대한 사막 탐험 자체만으로 싱글플레이 소재가 충분합니다. 다른 이용자와 경쟁하지 않아도 모래벌레를 피하고 기지를 만들며 이야기를 따라가는 경험은 성립합니다.
 
 오히려 원작 세계관에 몰입하려는 이용자에게는 채팅과 다른 플레이어의 건축물이 방해가 될 수도 있습니다. 싱글플레이는 온라인 기능을 줄이는 것이 아니라 다른 방식의 몰입을 선택하게 하는 기능입니다.
-
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
 
 ## 7. 두 번째 기회
 
@@ -116,13 +82,3 @@ draft: true
 
 싱글플레이 추가는 듄 어웨이크닝의 정체성을 약하게 만드는 변화가 아니라 오히려 세계관을 더 많은 사람에게 열어주는 변화라고 봅니다. 사람과 싸우는 재미보다 아라키스를 탐험하고 싶은 이용자도 충분히 큰 시장이기 때문입니다.
 
-<div style="margin: 38px 0 30px; text-align: center;">
-  <div style="width: 250px; max-width: 100%; margin: 0 auto; overflow: hidden;">
-<!-- COUPANG PARTNERS DYNAMIC BANNER START -->
-<script src="https://ads-partners.coupang.com/g.js"></script>
-<script>
-	new PartnersCoupang.G({"id":1021110,"template":"carousel","trackingCode":"AF7638395","width":"250","height":"250","tsource":""});
-</script>
-<!-- COUPANG PARTNERS DYNAMIC BANNER END -->
-  </div>
-</div>
