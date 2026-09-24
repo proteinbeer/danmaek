@@ -5,7 +5,7 @@ description: "워독스는 근접 음성 채팅을 핵심 요소로 내세운 FP
 date: 2026-09-10
 updated: 2026-09-10
 category: "게임"
-subcategory: "워독스"
+subcategory: "가이드"
 tags:
   - "워독스"
   - "WARDOGS"

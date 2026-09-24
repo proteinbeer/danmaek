@@ -4,7 +4,7 @@ description: "프라그마타 100퍼센트 완료는 도전 과제와 수집품,
 date: 2026-08-31
 updated: 2026-09-16
 category: "게임"
-subcategory: "프라그마타"
+subcategory: "가이드"
 tags:
   - "프라그마타"
   - "PRAGMATA"

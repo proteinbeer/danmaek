@@ -4,7 +4,7 @@ description: "모탈 셸 2 스팀 기준 53개 업적과 수집품 154개의 완
 date: 2026-08-29
 updated: 2026-09-16
 category: "게임"
-subcategory: "모탈 셸 2"
+subcategory: "가이드"
 tags:
   - "모탈 셸 2"
   - "Mortal Shell 2"

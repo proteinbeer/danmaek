@@ -5,7 +5,7 @@ description: "워독스는 직접 방어 위치를 만들고 전진기지를 구
 date: 2026-09-10
 updated: 2026-09-10
 category: "게임"
-subcategory: "워독스"
+subcategory: "가이드"
 tags:
   - "워독스"
   - "WARDOGS"

@@ -5,7 +5,7 @@ description: "워독스를 처음 시작하면 1만 달러가 주어지고 이 �
 date: 2026-09-10
 updated: 2026-09-10
 category: "게임"
-subcategory: "워독스"
+subcategory: "가이드"
 tags:
   - "워독스"
   - "WARDOGS"

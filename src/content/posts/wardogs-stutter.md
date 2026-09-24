@@ -5,7 +5,7 @@ description: "워독스에서 FPS 숫자는 충분한데 화면이 순간적으�
 date: 2026-09-10
 updated: 2026-09-10
 category: "게임"
-subcategory: "워독스"
+subcategory: "가이드"
 tags:
   - "워독스"
   - "WARDOGS"

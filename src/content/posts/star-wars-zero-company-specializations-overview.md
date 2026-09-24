@@ -5,7 +5,7 @@ description: "스타워즈 제로 컴퍼니 특화는 단순히 직업 이름만
 date: 2026-09-11
 updated: 2026-09-11
 category: "게임"
-subcategory: "스타워즈 제로 컴퍼니"
+subcategory: "가이드"
 tags:
   - "스타워즈 제로 컴퍼니"
   - "Star Wars Zero Company"

@@ -5,7 +5,7 @@ description: "워독스는 온라인 PvP가 중심이라 서버에 들어가지 
 date: 2026-09-10
 updated: 2026-09-10
 category: "게임"
-subcategory: "워독스"
+subcategory: "가이드"
 tags:
   - "워독스"
   - "WARDOGS"

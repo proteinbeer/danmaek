@@ -4,7 +4,7 @@ description: "할로윈 더 게임은 PS5, Xbox 시리즈 X와 S, PC 스팀, 에
 date: 2026-09-16
 updated: 2026-09-12
 category: "게임"
-subcategory: "할로윈 더 게임"
+subcategory: "가이드"
 tags:
   - "할로윈 더 게임"
   - "HALLOWEEN: The Game"

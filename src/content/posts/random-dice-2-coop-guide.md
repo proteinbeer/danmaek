@@ -4,7 +4,7 @@ description: "랜덤 다이스 2 협동전에서 딜러와 서포터가 어떻�
 date: 2026-08-24
 updated: 2026-09-02
 category: "게임"
-subcategory: "랜덤 다이스 2"
+subcategory: "가이드"
 tags:
   - "랜덤 다이스 2"
   - "협동전"

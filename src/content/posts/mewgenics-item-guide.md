@@ -4,7 +4,7 @@ description: "뮤제닉스 아이템과 장비 활용법을 정리했다. 장비
 date: 2026-09-07
 updated: 2026-09-08
 category: "게임"
-subcategory: "뮤제닉스"
+subcategory: "가이드"
 tags:
   - "뮤제닉스"
   - "메우제닉스"

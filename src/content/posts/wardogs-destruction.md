@@ -5,7 +5,7 @@ description: "워독스는 로켓과 중장갑 차량으로 건물과 마을의 
 date: 2026-09-10
 updated: 2026-09-10
 category: "게임"
-subcategory: "워독스"
+subcategory: "가이드"
 tags:
   - "워독스"
   - "WARDOGS"

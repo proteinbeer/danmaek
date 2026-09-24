@@ -4,7 +4,7 @@ description: "할로윈 더 게임은 출시 기준으로 하돈필드 하이츠
 date: 2026-09-16
 updated: 2026-09-16
 category: "게임"
-subcategory: "할로윈 더 게임"
+subcategory: "가이드"
 tags:
   - "할로윈 더 게임"
   - "HALLOWEEN: The Game"

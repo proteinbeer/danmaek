@@ -4,7 +4,7 @@ description: "할로윈 더 게임은 마이클 마이어스 시점의 독립적
 date: 2026-09-17
 updated: 2026-09-16
 category: "게임"
-subcategory: "할로윈 더 게임"
+subcategory: "가이드"
 tags:
   - "할로윈 더 게임"
   - "HALLOWEEN: The Game"

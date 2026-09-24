@@ -4,7 +4,7 @@ description: "몬스터헌터 와일즈 스위치 2판의 출시 정보를 정�
 date: 2026-09-14
 updated: 2026-09-10
 category: "게임"
-subcategory: "몬스터헌터 와일즈"
+subcategory: "가이드"
 tags:
   - "몬스터헌터 와일즈"
   - "스위치 2"

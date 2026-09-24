@@ -5,7 +5,7 @@ description: "워독스는 2026년 9월 10일 스팀 얼리 액세스로 출시�
 date: 2026-09-10
 updated: 2026-09-10
 category: "게임"
-subcategory: "워독스"
+subcategory: "가이드"
 tags:
   - "워독스"
   - "WARDOGS"

@@ -5,7 +5,7 @@ description: "메이플 키우기 일일·주간 숙제 총정리입니다. 매�
 date: 2026-09-02
 updated: 2026-09-02
 category: "게임"
-subcategory: "메이플 키우기"
+subcategory: "가이드"
 tags:
   - "메이플 키우기"
   - "일일 숙제"

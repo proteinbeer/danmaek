@@ -4,7 +4,7 @@ description: "타르포지는 무기와 타르스톤 성장의 중심입니다. 
 date: 2026-08-30
 updated: 2026-09-16
 category: "게임"
-subcategory: "모탈 셸 2"
+subcategory: "가이드"
 tags:
   - "모탈 셸 2"
   - "Mortal Shell 2"

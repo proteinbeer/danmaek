@@ -4,7 +4,7 @@ description: "봄바나나는 출시 직후 커뮤니티 피드백을 반영한 
 date: 2026-09-09
 updated: 2026-09-16
 category: "게임"
-subcategory: "봄바나나"
+subcategory: "가이드"
 tags:
   - "봄바나나"
   - "BOMBANANA"

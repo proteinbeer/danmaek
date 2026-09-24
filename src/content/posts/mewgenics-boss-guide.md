@@ -4,7 +4,7 @@ description: "뮤제닉스의 보스전을 액트별로 정리했다. 액트 1�
 date: 2026-09-07
 updated: 2026-09-08
 category: "게임"
-subcategory: "뮤제닉스"
+subcategory: "가이드"
 tags:
   - "뮤제닉스"
   - "메우제닉스"

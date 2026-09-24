@@ -4,7 +4,7 @@ description: "낚시 방법 멀티플레이와 솔로에서는 최대 8명 협�
 date: 2026-08-12
 updated: 2026-09-16
 category: "게임"
-subcategory: "낚시 방법"
+subcategory: "가이드"
 tags:
   - "낚시 방법"
   - "HOW TO FISH"

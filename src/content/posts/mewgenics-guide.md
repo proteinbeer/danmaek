@@ -4,7 +4,7 @@ description: "뮤제닉스 초보자를 위해 클래스 선택, 파티 조합, 
 date: 2026-09-07
 updated: 2026-09-16
 category: "게임"
-subcategory: "뮤제닉스"
+subcategory: "가이드"
 tags:
   - "뮤제닉스"
   - "메우제닉스"

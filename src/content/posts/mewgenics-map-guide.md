@@ -4,7 +4,7 @@ description: "뮤제닉스 모험 지역의 진행 순서와 목걸이 해금 �
 date: 2026-09-07
 updated: 2026-09-08
 category: "게임"
-subcategory: "뮤제닉스"
+subcategory: "가이드"
 tags:
   - "뮤제닉스"
   - "메우제닉스"

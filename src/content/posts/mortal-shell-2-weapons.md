@@ -4,7 +4,7 @@ description: "모탈 셸 2에는 근접 주무기 8개와 보조 무기 8개로 
 date: 2026-08-30
 updated: 2026-09-16
 category: "게임"
-subcategory: "모탈 셸 2"
+subcategory: "가이드"
 tags:
   - "모탈 셸 2"
   - "Mortal Shell 2"

@@ -4,7 +4,7 @@ description: "봄바나나는 장님 원숭이, 벙어리 원숭이, 귀머거�
 date: 2026-09-09
 updated: 2026-09-16
 category: "게임"
-subcategory: "봄바나나"
+subcategory: "가이드"
 tags:
   - "봄바나나"
   - "BOMBANANA"

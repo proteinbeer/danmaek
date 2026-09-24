@@ -4,7 +4,7 @@ description: "프라그마타는 일반적인 레벨 경험치보다 탐색으�
 date: 2026-09-02
 updated: 2026-09-16
 category: "게임"
-subcategory: "프라그마타"
+subcategory: "가이드"
 tags:
   - "프라그마타"
   - "PRAGMATA"

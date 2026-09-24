@@ -4,7 +4,7 @@ description: "낚시 방법 릴 오브 포춘과 도박에서는 드립 외형 �
 date: 2026-08-12
 updated: 2026-09-16
 category: "게임"
-subcategory: "낚시 방법"
+subcategory: "가이드"
 tags:
   - "낚시 방법"
   - "HOW TO FISH"

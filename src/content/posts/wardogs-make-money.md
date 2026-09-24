@@ -5,7 +5,7 @@ description: "워독스 경제에서 가장 중요한 특징은 킬만이 돈을
 date: 2026-09-10
 updated: 2026-09-10
 category: "게임"
-subcategory: "워독스"
+subcategory: "가이드"
 tags:
   - "워독스"
   - "WARDOGS"

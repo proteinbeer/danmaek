@@ -4,7 +4,7 @@ description: "몬스터헌터 와일즈의 등장 몬스터를 로우랭크부�
 date: 2026-09-13
 updated: 2026-09-16
 category: "게임"
-subcategory: "몬스터헌터 와일즈"
+subcategory: "가이드"
 tags:
   - "몬스터헌터 와일즈"
   - "몬스터"

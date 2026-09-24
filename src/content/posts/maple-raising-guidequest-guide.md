@@ -5,7 +5,7 @@ description: "메이플 키우기 가이드 퀘스트를 빠르게 공략하는 
 date: 2026-09-02
 updated: 2026-09-02
 category: "게임"
-subcategory: "메이플 키우기"
+subcategory: "가이드"
 tags:
   - "메이플 키우기"
   - "가이드 퀘스트"

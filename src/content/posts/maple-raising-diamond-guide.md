@@ -5,7 +5,7 @@ description: "메이플 키우기 무과금 유저를 위한 다이아 수급처
 date: 2026-09-02
 updated: 2026-09-02
 category: "게임"
-subcategory: "메이플 키우기"
+subcategory: "가이드"
 tags:
   - "메이플 키우기"
   - "무과금"

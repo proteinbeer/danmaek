@@ -4,7 +4,7 @@ description: "발하임 항해를 처음 배우는 유저를 위해 배 시스�
 date: 2026-09-12
 updated: 2026-09-09
 category: "게임"
-subcategory: "발하임"
+subcategory: "가이드"
 tags:
   - "발하임"
   - "항해"

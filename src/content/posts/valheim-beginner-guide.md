@@ -4,7 +4,7 @@ description: "발하임을 처음 시작한 뉴비를 위한 입문 가이드입
 date: 2026-09-10
 updated: 2026-09-09
 category: "게임"
-subcategory: "발하임"
+subcategory: "가이드"
 tags:
   - "발하임"
   - "초보"

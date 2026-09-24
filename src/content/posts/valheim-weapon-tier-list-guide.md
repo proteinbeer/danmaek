@@ -4,7 +4,7 @@ description: "바이킹 생존 게임 발하임의 무기와 방어구를 바이
 date: 2026-09-12
 updated: 2026-09-16
 category: "게임"
-subcategory: "발하임"
+subcategory: "가이드"
 tags:
   - "발하임"
   - "무기"

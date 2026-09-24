@@ -5,7 +5,7 @@ description: "스타워즈 제로 컴퍼니 전투는 속도보다 순서가 중
 date: 2026-09-11
 updated: 2026-09-11
 category: "게임"
-subcategory: "스타워즈 제로 컴퍼니"
+subcategory: "가이드"
 tags:
   - "스타워즈 제로 컴퍼니"
   - "Star Wars Zero Company"

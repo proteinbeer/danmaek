@@ -4,7 +4,7 @@ description: "모탈 셸 2 보스 11종 공략을 지역 순서로 정리했습�
 date: 2026-08-30
 updated: 2026-09-16
 category: "게임"
-subcategory: "모탈 셸 2"
+subcategory: "가이드"
 tags:
   - "모탈 셸 2"
   - "Mortal Shell 2"

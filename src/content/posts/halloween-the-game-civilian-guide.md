@@ -4,7 +4,7 @@ description: "할로윈 더 게임에서 민간인은 단순히 마이클 마이
 date: 2026-09-15
 updated: 2026-09-16
 category: "게임"
-subcategory: "할로윈 더 게임"
+subcategory: "가이드"
 tags:
   - "할로윈 더 게임"
   - "HALLOWEEN: The Game"

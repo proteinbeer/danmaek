@@ -4,7 +4,7 @@ description: "프라그마타 PC 버전은 윈도우 11과 16GB 메모리를 요
 date: 2026-09-01
 updated: 2026-09-16
 category: "게임"
-subcategory: "프라그마타"
+subcategory: "가이드"
 tags:
   - "프라그마타"
   - "PRAGMATA"

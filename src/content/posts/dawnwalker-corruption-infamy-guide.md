@@ -4,7 +4,7 @@ description: "더 블러드 오브 던워커의 타락과 악명 시스템을 �
 date: 2026-09-06
 updated: 2026-09-08
 category: "게임"
-subcategory: "더 블러드 오브 던워커"
+subcategory: "가이드"
 tags:
   - "더 블러드 오브 던워커"
   - "던워커"

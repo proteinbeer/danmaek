@@ -4,7 +4,7 @@ description: "프라그마타 보스전은 해킹, 오픈, 집중 공격, 회피
 date: 2026-09-01
 updated: 2026-09-16
 category: "게임"
-subcategory: "프라그마타"
+subcategory: "가이드"
 tags:
   - "프라그마타"
   - "PRAGMATA"

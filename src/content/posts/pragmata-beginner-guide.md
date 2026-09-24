@@ -4,7 +4,7 @@ description: "프라그마타는 휴로 이동하고 사격하면서 동시에 �
 date: 2026-08-31
 updated: 2026-09-16
 category: "게임"
-subcategory: "프라그마타"
+subcategory: "가이드"
 tags:
   - "프라그마타"
   - "PRAGMATA"

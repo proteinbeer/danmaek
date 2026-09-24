@@ -4,7 +4,7 @@ description: "뮤제닉스의 번식 유전 상속 원리와 돌연변이 시스
 date: 2026-09-07
 updated: 2026-09-16
 category: "게임"
-subcategory: "뮤제닉스"
+subcategory: "가이드"
 tags:
   - "뮤제닉스"
   - "메우제닉스"

@@ -5,7 +5,7 @@ description: "워독스는 죽은 뒤 정해진 병과 장비로 자동 복귀�
 date: 2026-09-10
 updated: 2026-09-10
 category: "게임"
-subcategory: "워독스"
+subcategory: "가이드"
 tags:
   - "워독스"
   - "WARDOGS"

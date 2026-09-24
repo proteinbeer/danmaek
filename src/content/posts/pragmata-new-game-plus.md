@@ -4,7 +4,7 @@ description: "프라그마타 메인 스토리를 끝내면 뉴 게임 플러스
 date: 2026-08-31
 updated: 2026-09-16
 category: "게임"
-subcategory: "프라그마타"
+subcategory: "가이드"
 tags:
   - "프라그마타"
   - "PRAGMATA"

@@ -5,7 +5,7 @@ description: "메이플 키우기 유물 시스템 공략입니다. 유물 획�
 date: 2026-09-02
 updated: 2026-09-02
 category: "게임"
-subcategory: "메이플 키우기"
+subcategory: "가이드"
 tags:
   - "메이플 키우기"
   - "유물"

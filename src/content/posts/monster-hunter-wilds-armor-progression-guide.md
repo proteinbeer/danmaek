@@ -4,7 +4,7 @@ description: "몬스터헌터 와일즈의 무기 강화와 방어구 세팅을 
 date: 2026-09-12
 updated: 2026-09-16
 category: "게임"
-subcategory: "몬스터헌터 와일즈"
+subcategory: "가이드"
 tags:
   - "몬스터헌터 와일즈"
   - "무기 강화"

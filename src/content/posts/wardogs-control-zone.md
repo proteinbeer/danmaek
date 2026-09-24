@@ -5,7 +5,7 @@ description: "워독스의 기본 승리 조건은 세 팀이 컨트롤 존을 �
 date: 2026-09-10
 updated: 2026-09-10
 category: "게임"
-subcategory: "워독스"
+subcategory: "가이드"
 tags:
   - "워독스"
   - "WARDOGS"

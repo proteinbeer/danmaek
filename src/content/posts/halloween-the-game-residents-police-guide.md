@@ -4,7 +4,7 @@ description: "할로윈 더 게임의 멀티플레이는 플레이어 다섯 명
 date: 2026-09-17
 updated: 2026-09-16
 category: "게임"
-subcategory: "할로윈 더 게임"
+subcategory: "가이드"
 tags:
   - "할로윈 더 게임"
   - "HALLOWEEN: The Game"

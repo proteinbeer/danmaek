@@ -26,22 +26,25 @@ export const IT_SUBCATEGORIES: Subcategory[] = [
 export const GAME_SUBCATEGORIES: Subcategory[] = [
   { name: '스팀', slug: 'steam' },
   { name: '플스', slug: 'ps' },
-  { name: '스위치', slug: 'switch' },
-  { name: '메이플 키우기', slug: 'maple-raising' },
-  { name: '랜덤 다이스 2', slug: 'random-dice-2' },
-  { name: '뮤제닉스', slug: 'mewgenics' },
-  { name: '더 블러드 오브 던워커', slug: 'dawnwalker' },
-  { name: '귀무자', slug: 'onimusha' },
-  { name: '발하임', slug: 'valheim' },
-  { name: '스타워즈 제로 컴퍼니', slug: 'star-wars-zero-company' },
-  { name: '워독스', slug: 'wardogs' },
-  { name: '프라그마타', slug: 'pragmata' },
-  { name: '낚시 방법', slug: 'how-to-fish' },
-  { name: '봄바나나', slug: 'bombanana' },
-  { name: '모탈 셸 2', slug: 'mortal-shell-2' },
-  { name: '할로윈 더 게임', slug: 'halloween-the-game' },
-  { name: '몬스터헌터 와일즈', slug: 'monster-hunter-wilds' }
+  { name: '스위치', slug: 'switch' }
 ];
+
+export const GAME_NAME_TAGS = [
+  '메이플 키우기',
+  '랜덤 다이스 2',
+  '뮤제닉스',
+  '더 블러드 오브 던워커',
+  '귀무자',
+  '발하임',
+  '스타워즈 제로 컴퍼니',
+  '워독스',
+  '프라그마타',
+  '낚시 방법',
+  '봄바나나',
+  '모탈 셸 2',
+  '할로윈 더 게임',
+  '몬스터헌터 와일즈'
+] as const;
 
 export const COUPON_SUBCATEGORIES: Subcategory[] = [
   { name: '메이플 키우기', slug: 'maple-raising' },

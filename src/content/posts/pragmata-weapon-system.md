@@ -4,7 +4,7 @@ description: "프라그마타 무기는 주무기 유닛, 공격 유닛, 전술 
 date: 2026-09-02
 updated: 2026-09-16
 category: "게임"
-subcategory: "프라그마타"
+subcategory: "가이드"
 tags:
   - "프라그마타"
   - "PRAGMATA"

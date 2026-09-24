@@ -4,7 +4,7 @@ description: "발하임의 음식 조합과 농사, 동물 길들이기를 한 �
 date: 2026-09-12
 updated: 2026-09-16
 category: "게임"
-subcategory: "발하임"
+subcategory: "가이드"
 tags:
   - "발하임"
   - "음식"

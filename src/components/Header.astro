@@ -22,10 +22,10 @@ const path = Astro.url.pathname;
       <div class="nav-item">
         <a href="/games/" aria-current={path.startsWith('/games/') ? 'page' : undefined} class="nav-item__link">게임</a>
         <div class="nav-dropdown">
+          <a href="/games/" aria-current={path === '/games/' ? 'page' : undefined}>가이드</a>
           <a href="/games/steam/" aria-current={path.startsWith('/games/steam/') ? 'page' : undefined}>스팀</a>
           <a href="/games/ps/" aria-current={path.startsWith('/games/ps/') ? 'page' : undefined}>플레이스테이션</a>
           <a href="/games/switch/" aria-current={path.startsWith('/games/switch/') ? 'page' : undefined}>닌텐도 스위치</a>
-          <a href="/games/" aria-current={path === '/games/' ? 'page' : undefined}>전체 게임 목록</a>
         </div>
       </div>
       <div class="nav-item">

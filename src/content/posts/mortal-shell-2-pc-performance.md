@@ -4,7 +4,7 @@ description: "모탈 셸 2 PC판 최소 사양은 윈도우 10 또는 11, 인텔
 date: 2026-08-30
 updated: 2026-09-05
 category: "게임"
-subcategory: "모탈 셸 2"
+subcategory: "가이드"
 tags:
   - "모탈 셸 2"
   - "Mortal Shell 2"

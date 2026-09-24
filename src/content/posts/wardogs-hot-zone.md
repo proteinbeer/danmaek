@@ -5,7 +5,7 @@ description: "워독스에서는 핫존을 노리면 두 배 현금을 벌 수 �
 date: 2026-09-10
 updated: 2026-09-10
 category: "게임"
-subcategory: "워독스"
+subcategory: "가이드"
 tags:
   - "워독스"
   - "WARDOGS"

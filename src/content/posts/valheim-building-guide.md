@@ -4,7 +4,7 @@ description: "발하임 건축 시스템을 처음부터 깊이 있게 정리했
 date: 2026-09-11
 updated: 2026-09-09
 category: "게임"
-subcategory: "발하임"
+subcategory: "가이드"
 tags:
   - "발하임"
   - "건축"

@@ -5,7 +5,7 @@ description: "워독스는 두 진영이 맞붙는 일반적인 FPS와 달리 �
 date: 2026-09-10
 updated: 2026-09-10
 category: "게임"
-subcategory: "워독스"
+subcategory: "가이드"
 tags:
   - "워독스"
   - "WARDOGS"

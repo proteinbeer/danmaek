@@ -5,7 +5,7 @@ description: "스팀에서 워독스를 눌렀는데 게임 창이 뜨지 않거
 date: 2026-09-10
 updated: 2026-09-10
 category: "게임"
-subcategory: "워독스"
+subcategory: "가이드"
 tags:
   - "워독스"
   - "WARDOGS"

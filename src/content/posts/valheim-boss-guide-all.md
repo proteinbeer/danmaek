@@ -4,7 +4,7 @@ description: "발하임의 포세이큰 일곱 보스와 1.0 딥노스의 최종
 date: 2026-09-11
 updated: 2026-09-09
 category: "게임"
-subcategory: "발하임"
+subcategory: "가이드"
 tags:
   - "발하임"
   - "보스"

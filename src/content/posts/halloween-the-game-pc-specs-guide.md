@@ -4,7 +4,7 @@ description: "할로윈 더 게임은 언리얼 엔진 5로 제작된 최신 공
 date: 2026-09-17
 updated: 2026-09-12
 category: "게임"
-subcategory: "할로윈 더 게임"
+subcategory: "가이드"
 tags:
   - "할로윈 더 게임"
   - "HALLOWEEN: The Game"

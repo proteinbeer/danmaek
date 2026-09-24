@@ -4,7 +4,7 @@ description: "귀무자 웨이 오브 더 소드의 성장 시스템을 총정�
 date: 2026-09-14
 updated: 2026-09-16
 category: "게임"
-subcategory: "귀무자"
+subcategory: "가이드"
 tags:
   - "귀무자"
   - "웨이 오브 더 소드"

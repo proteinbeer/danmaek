@@ -5,7 +5,7 @@ description: "워독스 공식 소개에는 길리 슈트를 구매하고 먼 �
 date: 2026-09-10
 updated: 2026-09-10
 category: "게임"
-subcategory: "워독스"
+subcategory: "가이드"
 tags:
   - "워독스"
   - "WARDOGS"

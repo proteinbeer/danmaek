@@ -5,7 +5,7 @@ description: "메이플 키우기 전직(승급) 퀘스트 공략입니다. 1차
 date: 2026-09-02
 updated: 2026-09-02
 category: "게임"
-subcategory: "메이플 키우기"
+subcategory: "가이드"
 tags:
   - "메이플 키우기"
   - "전직"

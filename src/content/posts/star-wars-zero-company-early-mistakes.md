@@ -5,7 +5,7 @@ description: "스타워즈 제로 컴퍼니 초반이 유독 어렵게 느껴지
 date: 2026-09-11
 updated: 2026-09-11
 category: "게임"
-subcategory: "스타워즈 제로 컴퍼니"
+subcategory: "가이드"
 tags:
   - "스타워즈 제로 컴퍼니"
   - "Star Wars Zero Company"

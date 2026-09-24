@@ -4,7 +4,7 @@ description: "랜덤 다이스 2를 처음 시작할 때 알아야 할 덱 5칸�
 date: 2026-08-24
 updated: 2026-09-16
 category: "게임"
-subcategory: "랜덤 다이스 2"
+subcategory: "가이드"
 tags:
   - "랜덤 다이스 2"
   - "111%"

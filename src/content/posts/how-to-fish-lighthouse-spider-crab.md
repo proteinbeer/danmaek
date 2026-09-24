@@ -4,7 +4,7 @@ description: "낚시 방법 보스 공략에서 거미게, 최종 보스, 무기
 date: 2026-08-11
 updated: 2026-09-16
 category: "게임"
-subcategory: "낚시 방법"
+subcategory: "가이드"
 tags:
   - "낚시 방법"
   - "HOW TO FISH"

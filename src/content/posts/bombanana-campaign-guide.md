@@ -4,7 +4,7 @@ description: "봄바나나 캠페인은 30개의 수제 레벨로 구성되어 �
 date: 2026-09-09
 updated: 2026-09-16
 category: "게임"
-subcategory: "봄바나나"
+subcategory: "가이드"
 tags:
   - "봄바나나"
   - "BOMBANANA"

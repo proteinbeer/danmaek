@@ -4,7 +4,7 @@ description: "발하임 미스트랜즈를 깊이 있게 파는 가이드입니�
 date: 2026-09-12
 updated: 2026-09-09
 category: "게임"
-subcategory: "발하임"
+subcategory: "가이드"
 tags:
   - "발하임"
   - "미스트랜즈"

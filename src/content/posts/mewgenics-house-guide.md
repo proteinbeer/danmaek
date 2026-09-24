@@ -4,7 +4,7 @@ description: "뮤제닉스의 집 세팅과 NPC 기부 시스템을 하나로 �
 date: 2026-09-07
 updated: 2026-09-16
 category: "게임"
-subcategory: "뮤제닉스"
+subcategory: "가이드"
 tags:
   - "뮤제닉스"
   - "메우제닉스"

@@ -4,7 +4,7 @@ description: "발하임 1.0 최종 바이옴 딥노스를 진입 준비부터 �
 date: 2026-09-11
 updated: 2026-09-16
 category: "게임"
-subcategory: "발하임"
+subcategory: "가이드"
 tags:
   - "발하임"
   - "딥노스"

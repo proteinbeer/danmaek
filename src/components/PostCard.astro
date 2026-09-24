@@ -21,7 +21,7 @@ const dateLabel = data.date.toDateString();
 const badgeClass = dateLabel === todayLabel ? '' : ' new-badge--yesterday';
 const showBadge = dateLabel === todayLabel || dateLabel === yesterdayLabel;
 ---
-<article class="post-card" data-category={data.category} data-subcategory={data.subcategory}>
+<article class="post-card" data-category={data.category} data-subcategory={data.subcategory} data-tags={data.tags.join(',')}>
   <a class="post-card__image" href={`/posts/${post.id}/`} aria-label={data.title}>
     <img src={data.image} alt={data.imageAlt} width={data.imageWidth} height={data.imageHeight} loading="lazy" decoding="async" />
     {showBadge && <span class={`new-badge${badgeClass}`}><span class="new-badge__text">NEW</span></span>}

@@ -4,7 +4,7 @@ description: "몬스터헌터 와일즈의 탈것 세이크레트를 정리했�
 date: 2026-09-13
 updated: 2026-09-10
 category: "게임"
-subcategory: "몬스터헌터 와일즈"
+subcategory: "가이드"
 tags:
   - "몬스터헌터 와일즈"
   - "세이크레트"

@@ -4,7 +4,7 @@ description: "스타워즈 제로 컴퍼니는 엑스컴처럼 한 칸 한 칸 �
 date: 2026-09-15
 updated: 2026-09-11
 category: "게임"
-subcategory: "스타워즈 제로 컴퍼니"
+subcategory: "가이드"
 tags:
   - "스타워즈 제로 컴퍼니"
   - "Star Wars Zero Company"

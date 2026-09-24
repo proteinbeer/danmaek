@@ -4,7 +4,7 @@ description: "모탈 셸 2의 핵심은 셸입니다. 플레이 가능한 셸은
 date: 2026-08-29
 updated: 2026-09-16
 category: "게임"
-subcategory: "모탈 셸 2"
+subcategory: "가이드"
 tags:
   - "모탈 셸 2"
   - "Mortal Shell 2"

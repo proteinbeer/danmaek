@@ -4,7 +4,7 @@ description: "낚시 방법 돈 벌기와 물고기 활용에서는 트릭샷, �
 date: 2026-08-11
 updated: 2026-09-16
 category: "게임"
-subcategory: "낚시 방법"
+subcategory: "가이드"
 tags:
   - "낚시 방법"
   - "HOW TO FISH"

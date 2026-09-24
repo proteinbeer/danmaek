@@ -4,7 +4,7 @@ description: "낚시 방법 실행 오류와 스팀 덱에서는 PC 프레임 �
 date: 2026-08-12
 updated: 2026-09-16
 category: "게임"
-subcategory: "낚시 방법"
+subcategory: "가이드"
 tags:
   - "낚시 방법"
   - "HOW TO FISH"

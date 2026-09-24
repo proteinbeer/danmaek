@@ -5,7 +5,7 @@ description: "메이플 키우기 시작 전에 알아두면 좋은 리세마라
 date: 2026-09-02
 updated: 2026-09-02
 category: "게임"
-subcategory: "메이플 키우기"
+subcategory: "가이드"
 tags:
   - "메이플 키우기"
   - "리세마라"

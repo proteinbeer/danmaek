@@ -4,7 +4,7 @@ description: "봄바나나 커스텀 모드에서는 폭탄 난도, 타이머, �
 date: 2026-09-10
 updated: 2026-09-16
 category: "게임"
-subcategory: "봄바나나"
+subcategory: "가이드"
 tags:
   - "봄바나나"
   - "BOMBANANA"

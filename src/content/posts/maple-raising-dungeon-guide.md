@@ -5,7 +5,7 @@ description: "메이플 키우기 성장 던전의 종류와 보상을 정리한
 date: 2026-09-02
 updated: 2026-09-02
 category: "게임"
-subcategory: "메이플 키우기"
+subcategory: "가이드"
 tags:
   - "메이플 키우기"
   - "성장 던전"

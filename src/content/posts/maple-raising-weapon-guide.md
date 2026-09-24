@@ -5,7 +5,7 @@ description: "메이플 키우기 무기 소환과 합성 공략입니다. 소�
 date: 2026-09-02
 updated: 2026-09-02
 category: "게임"
-subcategory: "메이플 키우기"
+subcategory: "가이드"
 tags:
   - "메이플 키우기"
   - "무기 소환"

@@ -4,7 +4,7 @@ description: "몬스터헌터 와일즈에는 14종의 무기가 있습니다. �
 date: 2026-09-14
 updated: 2026-09-10
 category: "게임"
-subcategory: "몬스터헌터 와일즈"
+subcategory: "가이드"
 tags:
   - "몬스터헌터 와일즈"
   - "무기"

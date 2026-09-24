@@ -4,7 +4,7 @@ description: "발하임 최종 후반 바이옴 애쉬랜즈를 깊이 있게 �
 date: 2026-09-10
 updated: 2026-09-09
 category: "게임"
-subcategory: "발하임"
+subcategory: "가이드"
 tags:
   - "발하임"
   - "애쉬랜즈"

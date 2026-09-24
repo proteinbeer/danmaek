@@ -4,7 +4,7 @@ description: "발하임 멀티플레이의 시작부터 서버 운영까지 정�
 date: 2026-09-12
 updated: 2026-09-09
 category: "게임"
-subcategory: "발하임"
+subcategory: "가이드"
 tags:
   - "발하임"
   - "멀티플레이"

@@ -5,7 +5,7 @@ description: "워독스에서 차량은 단순히 킬을 많이 만드는 무기
 date: 2026-09-10
 updated: 2026-09-10
 category: "게임"
-subcategory: "워독스"
+subcategory: "가이드"
 tags:
   - "워독스"
   - "WARDOGS"

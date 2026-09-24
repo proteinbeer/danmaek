@@ -4,7 +4,7 @@ description: "봄바나나는 정확히 세 명이 필요한 협동 게임이라
 date: 2026-09-10
 updated: 2026-09-09
 category: "게임"
-subcategory: "봄바나나"
+subcategory: "가이드"
 tags:
   - "봄바나나"
   - "BOMBANANA"

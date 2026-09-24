@@ -5,6 +5,7 @@ import {
   CATEGORIES,
   SITE,
   GAME_SUBCATEGORIES,
+  GAME_NAME_TAGS,
   IT_SUBCATEGORIES,
   type Subcategory
 } from '../consts';
@@ -19,9 +20,13 @@ import {
 const { category, page } = Astro.props as { category: ListCategory; page: number };
 
 const categoryMeta = CATEGORIES.find((item) => item.name === category)!;
-const subcats: Subcategory[] = category === '게임' ? [...GAME_SUBCATEGORIES] : [...IT_SUBCATEGORIES];
+const isGames = category === '게임';
+const subcats: Subcategory[] = isGames ? [...GAME_SUBCATEGORIES] : [...IT_SUBCATEGORIES];
 const base = categorySlug[category];
 const list = getCategoryListPosts(category);
+const gameTagOptions = isGames
+  ? GAME_NAME_TAGS.filter((name) => list.some((post) => post.data.tags.includes(name)))
+  : [];
 const totalPages = Math.max(1, Math.ceil(list.length / LIST_PER_PAGE));
 const pagePosts = list.slice((page - 1) * LIST_PER_PAGE, page * LIST_PER_PAGE);
 const canonical = new URL(categoryListPageUrl(category, page), SITE.url).toString();
@@ -39,7 +44,10 @@ const pageNumbers = Array.from({ length: totalPages }, (_, i) => i + 1);
     </div>
     <section aria-label={`${category} 글 목록`}>
       <div class="section-head">
-        <div><h2>{category}</h2></div>
+        <div>
+          <h2>{category}</h2>
+          {isGames && <p>직접 플레이하면서 확인한 게임 공략, 설정 방법, 문제 해결 및 플레이 팁을 모았습니다.</p>}
+        </div>
         <div class="section-head__controls">
           <div class="sub-drop" id="guide-sub-drop">
             <button type="button" class="sub-filter" id="guide-sub-trigger" aria-haspopup="listbox" aria-expanded="false">전체</button>
@@ -48,6 +56,15 @@ const pageNumbers = Array.from({ length: totalPages }, (_, i) => i + 1);
               {subcats.map((sub) => <a class="sub-dropdown-item" href={`/${base}/${sub.slug}/`}>{sub.name}</a>)}
             </div>
           </div>
+          {isGames && (
+            <div class="sub-drop" id="guide-game-drop">
+              <button type="button" class="sub-filter" id="guide-game-trigger" aria-haspopup="listbox" aria-expanded="false">게임 선택</button>
+              <div class="sub-dropdown" role="listbox" id="guide-game-list">
+                <button type="button" class="sub-dropdown-item" data-game="">전체</button>
+                {gameTagOptions.map((name) => <button type="button" class="sub-dropdown-item" data-game={name}>{name}</button>)}
+              </div>
+            </div>
+          )}
           <input id="guide-search" class="home-search-input" type="search" placeholder="검색" aria-label={`${category} 검색`} autocomplete="off" />
         </div>
       </div>
@@ -93,10 +110,42 @@ const pageNumbers = Array.from({ length: totalPages }, (_, i) => i + 1);
     document.addEventListener('click', (e) => {
       if (!list?.contains(e.target as Node)) close();
     });
+
+    const gameTrigger = document.getElementById('guide-game-trigger') as HTMLButtonElement | null;
+    const gameList = document.getElementById('guide-game-list') as HTMLElement | null;
+    let activeGame = '';
+    const clampGameList = () => {
+      if (!gameList) return;
+      const r = gameList.getBoundingClientRect();
+      const vw = document.documentElement.clientWidth;
+      const dx = Math.max(8 - r.left, Math.min(0, vw - 8 - r.right));
+      if (dx === 0) { gameList.style.left = ''; return; }
+      gameList.style.left = `${dx}px`;
+    };
+    const openGame = () => { gameList?.classList.add('open'); gameTrigger?.setAttribute('aria-expanded', 'true'); clampGameList(); };
+    const closeGame = () => { gameList?.classList.remove('open'); gameTrigger?.setAttribute('aria-expanded', 'false'); if (gameList) gameList.style.left = ''; };
+    gameTrigger?.addEventListener('click', (e) => {
+      e.stopPropagation();
+      gameList?.classList.contains('open') ? closeGame() : openGame();
+    });
+    document.addEventListener('click', (e) => {
+      if (!gameList?.contains(e.target as Node)) closeGame();
+    });
+    gameList?.addEventListener('click', (e) => {
+      const btn = (e.target as HTMLElement).closest('button[data-game]') as HTMLButtonElement | null;
+      if (!btn) return;
+      activeGame = btn.dataset.game ?? '';
+      if (gameTrigger) gameTrigger.textContent = activeGame || '게임 선택';
+      closeGame();
+      filterGuides();
+    });
+
     function filterGuides() {
       const q = (search?.value || '').trim().toLowerCase();
       allCards.forEach((card) => {
-        card.style.display = !q || card.textContent?.toLowerCase().includes(q) ? '' : 'none';
+        const matchesQ = !q || card.textContent?.toLowerCase().includes(q);
+        const matchesGame = !activeGame || (card.dataset.tags || '').split(',').map((t) => t.trim()).includes(activeGame);
+        card.style.display = matchesQ && matchesGame ? '' : 'none';
       });
     }
     search?.addEventListener('input', filterGuides);

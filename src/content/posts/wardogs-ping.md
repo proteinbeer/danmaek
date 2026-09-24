@@ -5,7 +5,7 @@ description: "워독스는 100명이 세 팀으로 싸우는 FPS라 높은 핑�
 date: 2026-09-10
 updated: 2026-09-10
 category: "게임"
-subcategory: "워독스"
+subcategory: "가이드"
 tags:
   - "워독스"
   - "WARDOGS"

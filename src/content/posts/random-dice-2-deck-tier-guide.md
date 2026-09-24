@@ -4,7 +4,7 @@ description: "랜덤 다이스 2 덱 티어와 용도별 선택 기준, 협동 �
 date: 2026-08-24
 updated: 2026-09-16
 category: "게임"
-subcategory: "랜덤 다이스 2"
+subcategory: "가이드"
 tags:
   - "랜덤 다이스 2"
   - "덱 티어"

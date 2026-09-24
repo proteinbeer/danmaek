@@ -4,7 +4,7 @@ description: "프라그마타는 PC와 플레이스테이션5, 엑스박스 시�
 date: 2026-09-01
 updated: 2026-09-06
 category: "게임"
-subcategory: "프라그마타"
+subcategory: "가이드"
 tags:
   - "프라그마타"
   - "PRAGMATA"
