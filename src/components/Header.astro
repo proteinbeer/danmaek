@@ -1,6 +1,4 @@
 ---
-import { IT_SUBCATEGORIES } from '../consts';
-
 const path = Astro.url.pathname;
 ---
 <header class="site-header">
@@ -13,20 +11,6 @@ const path = Astro.url.pathname;
     <nav class="nav" aria-label="주요 메뉴">
       <div class="nav-item">
         <a href="/it/" aria-current={path.startsWith('/it/') ? 'page' : undefined} class="nav-item__link">IT</a>
-        <div class="nav-dropdown">
-          {IT_SUBCATEGORIES.map((sub) => (
-            <a href={`/it/${sub.slug}/`} aria-current={path.startsWith(`/it/${sub.slug}/`) ? 'page' : undefined}>{sub.name}</a>
-          ))}
-        </div>
-      </div>
-      <div class="nav-item">
-        <a href="/games/" aria-current={path.startsWith('/games/') ? 'page' : undefined} class="nav-item__link">게임</a>
-        <div class="nav-dropdown">
-          <a href="/games/" aria-current={path === '/games/' ? 'page' : undefined}>가이드</a>
-          <a href="/games/steam/" aria-current={path.startsWith('/games/steam/') ? 'page' : undefined}>스팀</a>
-          <a href="/games/ps/" aria-current={path.startsWith('/games/ps/') ? 'page' : undefined}>플레이스테이션</a>
-          <a href="/games/switch/" aria-current={path.startsWith('/games/switch/') ? 'page' : undefined}>닌텐도 스위치</a>
-        </div>
       </div>
       <div class="nav-item">
         <a href="/about/" aria-current={path.startsWith('/about/') ? 'page' : undefined} class="nav-item__link">소개</a>
@@ -34,30 +18,9 @@ const path = Astro.url.pathname;
       <div class="nav-item">
         <a href="/contact/" aria-current={path.startsWith('/contact/') ? 'page' : undefined} class="nav-item__link">문의</a>
       </div>
-      </nav>
+    </nav>
     <a class={`button-link header-search`} href="/search/" aria-label="검색" aria-current={path.startsWith('/search/') ? 'page' : undefined}>
       <img src="/assets/search.png" alt="" aria-hidden="true" width="26" height="26" />
     </a>
   </div>
 </header>
-<script>
-  const navItems = Array.from(document.querySelectorAll<HTMLElement>('.nav-item'));
-  for (const item of navItems) {
-    const drop = item.querySelector<HTMLElement>('.nav-dropdown');
-    if (!drop) continue;
-    const clamp = () => {
-      const rect = drop.getBoundingClientRect();
-      const vw = document.documentElement.clientWidth;
-      const minDx = 8 - rect.left;
-      const maxDx = vw - 8 - rect.right;
-      const dx = Math.max(minDx, Math.min(0, maxDx));
-      if (dx === 0) { drop.style.transform = ''; return; }
-      const sign = dx >= 0 ? '+' : '-';
-      drop.style.transform = `translateX(calc(-50% ${sign} ${Math.abs(dx)}px))`;
-    };
-    item.addEventListener('mouseenter', clamp);
-    item.addEventListener('focusin', clamp);
-    item.addEventListener('mouseleave', () => { drop.style.transform = ''; });
-    item.addEventListener('focusout', () => { drop.style.transform = ''; });
-  }
-</script>

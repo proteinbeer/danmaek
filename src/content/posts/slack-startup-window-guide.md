@@ -4,7 +4,6 @@ description: "PC를 켜면 Slack이 자동 실행되지만 창은 보이지 않�
 date: 2026-09-24
 updated: 2026-09-24
 category: "IT"
-subcategory: "윈도우 11"
 tags:
   - "Slack"
   - "윈도우"

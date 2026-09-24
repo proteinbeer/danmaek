@@ -10,7 +10,7 @@ export type Post = {
     description: string;
     date: Date;
     updated?: Date;
-    category: '뉴스' | 'IT' | '게임' | '쿠폰';
+    category: 'IT';
     subcategory: string;
     tags: string[];
     image: string;
@@ -47,7 +47,7 @@ const normalizePost = ([path, mod]: [string, PostModule]): Post => {
       description: String(frontmatter.description ?? ''),
       date: toDate(frontmatter.date),
       updated: frontmatter.updated ? toDate(frontmatter.updated) : undefined,
-      category: (String(frontmatter.category ?? '뉴스') as Post['data']['category']),
+      category: (String(frontmatter.category ?? 'IT') as Post['data']['category']),
       subcategory: String(frontmatter.subcategory ?? ''),
       tags: toStringArray(frontmatter.tags),
       image: String(frontmatter.image ?? 'https://img.danmaek.com/images/og-default.jpg'),

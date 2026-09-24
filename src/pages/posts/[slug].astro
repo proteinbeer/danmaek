@@ -21,4 +21,4 @@ export async function getStaticPaths() {
 }
 const { post, prev, next, related } = Astro.props;
 ---
-<PostLayout post={post} prev={prev} next={next} related={related} noindex={post?.data.category === '쿠폰'} />
+<PostLayout post={post} prev={prev} next={next} related={related} />

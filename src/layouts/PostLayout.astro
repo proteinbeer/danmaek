@@ -3,10 +3,9 @@ import BaseLayout from '../components/BaseLayout.astro';
 import ShareButtons from '../components/ShareButtons.astro';
 import PostCard from '../components/PostCard.astro';
 import LocalPostEditor from '../components/LocalPostEditor.astro';
-import { SITE, categoryToPath, IT_SUBCATEGORIES, GAME_SUBCATEGORIES, COUPON_SUBCATEGORIES } from '../consts';
+import { SITE, categoryToPath } from '../consts';
 
 const { post, prev, next, related } = Astro.props;
-const noindex = Astro.props.noindex === true;
 const Content = post.Content;
 const data = post.data;
 const isDev = import.meta.env.DEV;
@@ -14,8 +13,6 @@ const description = data.description.trim();
 const metaDescription = description || SITE.description;
 const canonical = new URL(`/posts/${post.id}/`, SITE.url).toString();
 const updated = data.updated ?? data.date;
-const subList = data.category === 'IT' ? IT_SUBCATEGORIES : data.category === '게임' ? GAME_SUBCATEGORIES : data.category === '쿠폰' ? COUPON_SUBCATEGORIES : [];
-const sub = data.subcategory ? subList.find((s) => s.name === data.subcategory) : null;
 const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'BlogPosting',
@@ -37,21 +34,19 @@ const breadcrumbLd = {
   itemListElement: [
     { '@type': 'ListItem', position: 1, name: '홈', item: SITE.url },
     { '@type': 'ListItem', position: 2, name: data.category, item: new URL(categoryToPath[data.category], SITE.url).toString() },
-    ...(sub ? [{ '@type': 'ListItem', position: 3, name: sub.name, item: new URL(`${categoryToPath[data.category]}${sub.slug}/`, SITE.url).toString() }] : []),
-    { '@type': 'ListItem', position: sub ? 4 : 3, name: data.title, item: canonical }
+    { '@type': 'ListItem', position: 3, name: data.title, item: canonical }
   ]
 };
 ---
 <BaseLayout title={`${data.title} | 단맥`} description={metaDescription} image={data.image} type="article" canonical={canonical}>
   <Fragment slot="head">
-    {noindex && <meta name="robots" content="noindex, follow" />}
     <script is:inline type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
     <script is:inline type="application/ld+json" set:html={JSON.stringify(breadcrumbLd)} />
   </Fragment>
-  <main class={`article-page${data.category === 'IT' || data.category === '게임' ? ' article-page--guide' : ''}`}>
+  <main class="article-page article-page--guide">
     <div class="article-wrap">
       <nav class="breadcrumb" aria-label="breadcrumb">
-        <a href="/">홈</a> <span aria-hidden="true">/</span> <a href={categoryToPath[data.category]}>{data.category}</a>{sub && <> <span aria-hidden="true">/</span> <a href={`${categoryToPath[data.category]}${sub.slug}/`}>{sub.name}</a></>}
+        <a href="/">홈</a> <span aria-hidden="true">/</span> <a href={categoryToPath[data.category]}>{data.category}</a>
       </nav>
       <article>
         <header class="article-header">
@@ -63,13 +58,6 @@ const breadcrumbLd = {
           <div class="tag-list">
             {data.tags.map((tag: string) => <span>#{tag}</span>)}
           </div>
-          <div class="adfit-banner adfit-banner--hero">
-            <ins class="kakao_ad_area" style="display:none;"
-              data-ad-unit="DAN-LoWQpAjT1C8qjOLo"
-              data-ad-width="728"
-              data-ad-height="90"></ins>
-            <script is:inline async type="text/javascript" charset="utf-8" src="https://t1.kakaocdn.net/kas/static/ba.min.js"></script>
-          </div>
         </header>
         {!data.hideHeroImage && (
           <figure class="hero-image">
@@ -77,7 +65,6 @@ const breadcrumbLd = {
           </figure>
         )}
         <div class="prose">
-
           <Content />
         </div>
         <ShareButtons title={data.title} />
@@ -95,7 +82,7 @@ const breadcrumbLd = {
             </a>
           )}
         </nav>
-        </article>
+      </article>
       <div style="text-align:center; padding-top:22px;">
         <a class="button-link" href="#top" style="display:inline-flex;">맨 위로 ↑</a>
       </div>
@@ -106,19 +93,12 @@ const breadcrumbLd = {
     <section class="container related-section">
       <div class="section-head">
         <div>
-          <h2>단 {data.category === 'IT' ? 'IT' : '게임'}</h2>
+          <h2>관련 IT 글</h2>
         </div>
       </div>
       <div class="grid">
         {related.map((item: any) => <PostCard post={item} />)}
       </div>
-      <div class="adfit-banner">
-        <ins class="kakao_ad_area" style="display:none;"
-          data-ad-unit="DAN-LoWQpAjT1C8qjOLo"
-          data-ad-width="728"
-          data-ad-height="90"></ins>
-      </div>
-      <script is:inline async type="text/javascript" charset="utf-8" src="https://t1.kakaocdn.net/kas/static/ba.min.js"></script>
     </section>
   )}
 </BaseLayout>

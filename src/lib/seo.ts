@@ -12,14 +12,12 @@ const stablePages = [
   '/privacy/'
 ] as const;
 
-const categoryPages = CATEGORIES
-  .filter((category) => category.slug !== 'tools' && category.slug !== 'coupons')
-  .map((category) => `/${category.slug}/`);
+const categoryPages = CATEGORIES.map((category) => `/${category.slug}/`);
 
 export const absoluteUrl = (pathname: string) => new URL(pathname, SITE.url).toString();
 
 export const getSitemapEntries = (): SitemapEntry[] => {
-  const posts = getPosts().filter((post) => post.data.category !== '쿠폰');
+  const posts = getPosts();
   const latestPostDate = posts[0]?.data.updated ?? posts[0]?.data.date;
   const entries = [
     { url: absoluteUrl('/'), lastmod: latestPostDate },

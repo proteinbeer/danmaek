@@ -22,18 +22,7 @@ const LEGACY_NETWORK_SUBHEADINGS = [
   '\n## 정리\n'
 ];
 
-const NETWORK_CHECK_SLUGS = [
-  'network-unidentified-network', 'network-default-gateway-error', 'network-discovery-pc-missing',
-  'network-ethernet-no-internet-wifi-ok', 'network-ip-address-conflict', 'network-6ghz-wifi-not-visible',
-  'network-wifi7-same-speed', 'network-ap-bridge-mode', 'network-dhcp-reservation', 'network-strict-nat-type',
-  'network-gbps-vs-megabytes', 'network-link-drops-100mbps', 'network-dns-change-slow', 'network-router-firmware-update',
-  'network-upnp-on-or-off', 'network-vpn-slow-internet', 'network-dns-cache-flush', 'network-double-nat', 'network-gigabit-stuck-100mbps',
-  'network-jitter-low-ping-stutter', 'network-port-forwarding-not-working', 'network-cgnat-port-forwarding',
-  'network-static-ip-breaks-internet', 'network-wpa2-wpa3', 'network-dns-over-https', 'mesh-wifi-guide',
-  'internet-keeps-disconnecting-guide', 'game-high-ping-guide', 'wifi-connected-no-internet-guide', 'wifi-speed-boost-guide',
-  'network-public-private-profile', 'wifi-password-change-guide', 'wifi-coverage-guide', 'network-cat5e-cat6-cat6a',
-  'network-wake-on-lan', 'network-guest-wifi-iot', 'network-packet-loss-game'
-];
+const NETWORK_CHECK_SLUGS = [];
 
 async function* walk(dir) {
   const entries = await fs.readdir(dir, { withFileTypes: true });
@@ -52,7 +41,6 @@ const getPostSlugs = async () => {
     const source = await read(path.join(postsDir, entry.name));
     const frontmatter = source.replace(/^\uFEFF/, '').match(/^---\r?\n([\s\S]*?)\r?\n---/)?.[1] ?? '';
     if (/^draft:\s*true\s*$/m.test(frontmatter)) continue;
-    if (/^category:\s*["']쿠폰["']\s*$/m.test(frontmatter)) continue;
     slugs.push(entry.name.replace(/\.mdx?$/, ''));
   }
   return slugs.sort();
@@ -239,12 +227,12 @@ for (const [slug, info] of postSources) {
   }
 }
 
-for (const file of ['components/Header.astro', 'components/Footer.astro', 'components/BaseLayout.astro']) {
+for (const file of ['components/Header.astro', 'components/Footer.astro', 'components/BaseLayout.astro', 'consts.ts']) {
   const full = path.join(srcDir, file);
   if (!(await exists(full))) continue;
   const content = await read(full);
-  if (/coupons\/|\/coupons|쿠폰/.test(content)) {
-    noindexErrors.push(`coupon link remnant in ${file}`);
+  if (/\/games\/|\/coupons\/|\/tools\/|게임|쿠폰/.test(content)) {
+    noindexErrors.push(`removed category remnant in ${file}`);
   }
 }
 
@@ -259,15 +247,12 @@ const affiliateBannerMissingErrors = [];
 for (const url of postUrls) {
   const html = htmlByUrl.get(url);
   if (!html) continue;
-  const slug = url.replace(`${site}/posts/`, '').replace(/\/?$/, '');
-  const info = postSources.get(slug);
   const hasDisclosure = html.includes('이 게시물은 쿠팡 파트너스 활동의 일환으로');
   const hasCoupangBanner = /ads-partners\.coupang\.com/g.test(html);
-  const affiliateFlag = info ? /^affiliate:\s*["']?false["']?\s*$/m.test(info.source) : false;
-  if (affiliateFlag ? hasDisclosure : !hasDisclosure) {
-    affiliateDisclosureErrors.push(`${url}: affiliate=${affiliateFlag} disclosure=${hasDisclosure}`);
+  if (hasDisclosure) {
+    affiliateDisclosureErrors.push(`${url}: disclosure=${hasDisclosure}`);
   }
-  if (!hasCoupangBanner) {
+  if (hasCoupangBanner) {
     affiliateBannerMissingErrors.push(url);
   }
 }

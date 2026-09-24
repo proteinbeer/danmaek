@@ -1,18 +1,9 @@
 ---
-import { categoryToPath, IT_SUBCATEGORIES, GAME_SUBCATEGORIES, COUPON_SUBCATEGORIES } from '../consts';
+import { categoryToPath } from '../consts';
+
 const { post } = Astro.props;
 const data = post.data;
-const label = data.subcategory || data.category;
-
-const SUB_SLUG_BY_CATEGORY: Record<string, Map<string, string>> = {
-  'IT': new Map(IT_SUBCATEGORIES.map((s) => [s.name, s.slug])),
-  '게임': new Map(GAME_SUBCATEGORIES.map((s) => [s.name, s.slug])),
-  '쿠폰': new Map(COUPON_SUBCATEGORIES.map((s) => [s.name, s.slug]))
-};
-const subSlug = data.subcategory ? (SUB_SLUG_BY_CATEGORY[data.category]?.get(data.subcategory) ?? '') : '';
-const link = subSlug
-  ? `${categoryToPath[data.category] ?? '/'}${subSlug}/`
-  : categoryToPath[data.category] ?? '/';
+const link = categoryToPath[data.category] ?? '/it/';
 const todayLabel = new Date().toDateString();
 const yesterday = new Date();
 yesterday.setDate(yesterday.getDate() - 1);
@@ -21,13 +12,13 @@ const dateLabel = data.date.toDateString();
 const badgeClass = dateLabel === todayLabel ? '' : ' new-badge--yesterday';
 const showBadge = dateLabel === todayLabel || dateLabel === yesterdayLabel;
 ---
-<article class="post-card" data-category={data.category} data-subcategory={data.subcategory} data-tags={data.tags.join(',')}>
+<article class="post-card" data-category={data.category} data-tags={data.tags.join(',')}>
   <a class="post-card__image" href={`/posts/${post.id}/`} aria-label={data.title}>
     <img src={data.image} alt={data.imageAlt} width={data.imageWidth} height={data.imageHeight} loading="lazy" decoding="async" />
     {showBadge && <span class={`new-badge${badgeClass}`}><span class="new-badge__text">NEW</span></span>}
   </a>
   <div class="post-card__meta">
-    <a href={link}>{label}</a>
+    <a href={link}>{data.category}</a>
     <span> · </span>
     <time datetime={data.date.toISOString()}>{data.date.toLocaleDateString('ko-KR')}</time>
   </div>

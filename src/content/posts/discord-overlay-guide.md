@@ -4,7 +4,6 @@ description: "오버워치를 하다가 의도치 않게 디스코드 오버레�
 date: 2026-09-24
 updated: 2026-09-24
 category: "IT"
-subcategory: "주변기기"
 tags:
   - "디스코드"
   - "게임 오버레이"
