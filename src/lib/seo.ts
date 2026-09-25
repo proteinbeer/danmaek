@@ -7,7 +7,6 @@ export type SitemapEntry = {
 };
 
 const stablePages = [
-  '/about/',
   '/contact/',
   '/privacy/'
 ] as const;

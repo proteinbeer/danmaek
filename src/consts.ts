@@ -11,7 +11,7 @@ export const CATEGORIES = [
   {
     name: 'IT',
     slug: 'it',
-    description: 'PC와 프로그램을 직접 사용하면서 겪은 문제, 시도한 방법, 해결 과정과 결과를 기록합니다.',
+    description: '',
     image: 'https://img.danmaek.com/images/og-default.jpg'
   }
 ] as const;
