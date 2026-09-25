@@ -10,10 +10,10 @@ tags:
   - "날짜"
   - "자동 채우기"
   - "셀 복사"
-image: "/assets/posts/guide-images/wordpress-guide.jpg"
+image: "/assets/posts/guide-images/excel-date-copy-400x242.jpg"
 imageAlt: "엑셀에서 같은 날짜를 반복해서 복사하는 화면"
-imageWidth: 1280
-imageHeight: 720
+imageWidth: 400
+imageHeight: 242
 hideHeroImage: true
 hideDescription: true
 ---
