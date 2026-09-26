@@ -10,10 +10,10 @@ tags:
   - "이미지 크기"
   - "해상도"
   - "이미지 저장"
-image: "/assets/posts/guide-images/hero-bloom.jpg"
+image: "/assets/posts/guide-images/instagram-image-678x452.jpg"
 imageAlt: "화면에 표시된 이미지와 실제 저장 파일 크기의 차이"
-imageWidth: 1280
-imageHeight: 720
+imageWidth: 678
+imageHeight: 452
 hideHeroImage: true
 hideDescription: true
 ---
