@@ -10,10 +10,10 @@ tags:
   - "자막"
   - "동영상 언어"
   - "스튜디오"
-image: "/assets/posts/guide-images/network-guide-common.jpg"
+image: "/assets/posts/guide-images/youtube-logo-1000x650.jpg"
 imageAlt: "유튜브 스튜디오에서 자막 언어를 추가하는 화면"
-imageWidth: 1280
-imageHeight: 720
+imageWidth: 1000
+imageHeight: 650
 hideHeroImage: true
 hideDescription: true
 ---
