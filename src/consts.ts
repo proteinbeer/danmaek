@@ -16,13 +16,14 @@ export const CATEGORIES = [
   }
 ] as const;
 
-export type Subcategory = { name: string; slug: string; description?: string };
+export type Subcategory = { name: string; slug: string; description?: string; metaDescription?: string };
 export type ToolSubcategory = { name: string; slug: string; categories: string[] };
 
 export const IT_SUBCATEGORIES: Subcategory[] = [
   {
     name: '디스코드',
-    slug: 'discord'
+    slug: 'discord',
+    metaDescription: '디스코드 설정 변경 방법을 직접 정리한 글 모음입니다. 화면 오버레이 끄기, 자동 실행 끄기, 서버 알림 음소거, 마이크 입력 감도 조절까지 실제로 손댄 항목을 담았습니다.'
   }
 ];
 export const GAME_SUBCATEGORIES: Subcategory[] = [];

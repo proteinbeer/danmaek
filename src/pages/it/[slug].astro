@@ -11,4 +11,4 @@ export function getStaticPaths() {
 
 const { sub } = Astro.props as { sub: Subcategory };
 ---
-<CategoryListPage category="IT" page={1} subcategory={sub.name} subcategorySlug={sub.slug} />
+<CategoryListPage category="IT" page={1} subcategory={sub.name} subcategorySlug={sub.slug} metaDescription={sub.metaDescription} />

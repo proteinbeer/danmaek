@@ -11,11 +11,12 @@ import {
 } from '../lib/categoryList';
 import { getPostsBySubcategory } from '../lib/posts';
 
-const { category, page, subcategory, subcategorySlug } = Astro.props as {
+const { category, page, subcategory, subcategorySlug, metaDescription } = Astro.props as {
   category: ListCategory;
   page: number;
   subcategory?: string;
   subcategorySlug?: string;
+  metaDescription?: string;
 };
 const categoryMeta = CATEGORIES.find((item) => item.name === category)!;
 const list = subcategory ? getPostsBySubcategory(category, subcategory) : getCategoryListPosts(category);
@@ -32,7 +33,7 @@ const canonical = new URL(
 const pageTitle = page === 1 ? `${heading} | ${SITE.name}` : `${heading} ${page}페이지 | ${SITE.name}`;
 const pageNumbers = Array.from({ length: totalPages }, (_, i) => i + 1);
 ---
-<BaseLayout title={pageTitle} description={pageDescription} canonical={canonical}>
+<BaseLayout title={pageTitle} description={metaDescription || pageDescription} canonical={canonical}>
   <main class="container">
     <section aria-label={`${heading} 글 목록`}>
       <div class="section-head">
