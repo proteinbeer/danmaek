@@ -1570,22 +1570,10 @@ color: #263347;
 .prose .post-landscape-image {
   display: block;
   width: 100%;
-  aspect-ratio: 16 / 9;
   height: auto;
   margin: 28px 0;
   border: 1px solid var(--line);
   border-radius: 10px;
-  object-fit: cover;
-  object-position: center;
-}
-.prose .post-landscape-image.post-landscape-image--top {
-  object-position: top;
-}
-.prose .post-landscape-image.post-landscape-image--high {
-  object-position: center 25%;
-}
-.prose .post-landscape-image.post-landscape-image--bottom {
-  object-position: center bottom;
 }
 .prose div[style*="width: 250px; max-width: 100%"] {
   min-height: 250px;
