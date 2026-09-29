@@ -1,4 +1,6 @@
 ---
+import { IT_SUBCATEGORIES } from '../consts';
+
 const path = Astro.url.pathname;
 ---
 <header class="site-header">
@@ -11,6 +13,12 @@ const path = Astro.url.pathname;
     <nav class="nav" aria-label="주요 메뉴">
       <div class="nav-item">
         <a href="/it/" aria-current={path.startsWith('/it/') ? 'page' : undefined} class="nav-item__link">IT</a>
+        <div class="nav-dropdown">
+          <a href="/it/" aria-current={path === '/it/' ? 'page' : undefined}>전체</a>
+          {IT_SUBCATEGORIES.map((sub) => (
+            <a href={`/it/${sub.slug}/`} aria-current={path.startsWith(`/it/${sub.slug}/`) ? 'page' : undefined}>{sub.name}</a>
+          ))}
+        </div>
       </div>
     </nav>
     <a class={`button-link header-search`} href="/search/" aria-label="검색" aria-current={path.startsWith('/search/') ? 'page' : undefined}>
@@ -18,3 +26,24 @@ const path = Astro.url.pathname;
     </a>
   </div>
 </header>
+<script>
+  const navItems = Array.from(document.querySelectorAll<HTMLElement>('.nav-item'));
+  for (const item of navItems) {
+    const drop = item.querySelector<HTMLElement>('.nav-dropdown');
+    if (!drop) continue;
+    const clamp = () => {
+      const rect = drop.getBoundingClientRect();
+      const vw = document.documentElement.clientWidth;
+      const minDx = 8 - rect.left;
+      const maxDx = vw - 8 - rect.right;
+      const dx = Math.max(minDx, Math.min(0, maxDx));
+      if (dx === 0) { drop.style.transform = ''; return; }
+      const sign = dx >= 0 ? '+' : '-';
+      drop.style.transform = `translateX(calc(-50% ${sign} ${Math.abs(dx)}px))`;
+    };
+    item.addEventListener('mouseenter', clamp);
+    item.addEventListener('focusin', clamp);
+    item.addEventListener('mouseleave', () => { drop.style.transform = ''; });
+    item.addEventListener('focusout', () => { drop.style.transform = ''; });
+  }
+</script>

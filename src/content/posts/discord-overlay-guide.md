@@ -4,6 +4,7 @@ description: "오버워치 중 디스코드 게임 오버레이가 갑자기 떠
 date: 2026-09-24
 updated: 2026-09-29
 category: "IT"
+subcategory: "디스코드"
 tags:
   - "디스코드"
   - "게임 오버레이"

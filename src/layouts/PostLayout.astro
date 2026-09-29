@@ -4,6 +4,7 @@ import ShareButtons from '../components/ShareButtons.astro';
 import PostCard from '../components/PostCard.astro';
 import LocalPostEditor from '../components/LocalPostEditor.astro';
 import { SITE, categoryToPath } from '../consts';
+import { getSubcategoryInfo } from '../lib/categoryList';
 
 const { post, prev, next, related } = Astro.props;
 const Content = post.Content;
@@ -13,6 +14,8 @@ const description = data.description.trim();
 const metaDescription = description || SITE.description;
 const canonical = new URL(`/posts/${post.id}/`, SITE.url).toString();
 const updated = data.updated ?? data.date;
+const subcategoryInfo = getSubcategoryInfo(data.category, data.subcategory);
+const categoryLabel = subcategoryInfo?.name ?? data.category;
 const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'BlogPosting',
@@ -28,14 +31,28 @@ const jsonLd = {
     '@id': canonical
   }
 };
+const breadcrumbItems = [
+  { '@type': 'ListItem', position: 1, name: '홈', item: SITE.url },
+  { '@type': 'ListItem', position: 2, name: data.category, item: new URL(categoryToPath[data.category], SITE.url).toString() }
+];
+if (subcategoryInfo) {
+  breadcrumbItems.push({
+    '@type': 'ListItem',
+    position: breadcrumbItems.length + 1,
+    name: subcategoryInfo.name,
+    item: new URL(subcategoryInfo.path, SITE.url).toString()
+  });
+}
+breadcrumbItems.push({
+  '@type': 'ListItem',
+  position: breadcrumbItems.length + 1,
+  name: data.title,
+  item: canonical
+});
 const breadcrumbLd = {
   '@context': 'https://schema.org',
   '@type': 'BreadcrumbList',
-  itemListElement: [
-    { '@type': 'ListItem', position: 1, name: '홈', item: SITE.url },
-    { '@type': 'ListItem', position: 2, name: data.category, item: new URL(categoryToPath[data.category], SITE.url).toString() },
-    { '@type': 'ListItem', position: 3, name: data.title, item: canonical }
-  ]
+  itemListElement: breadcrumbItems
 };
 ---
 <BaseLayout title={`${data.title} | 단맥`} description={metaDescription} image={data.image} type="article" canonical={canonical}>
@@ -47,6 +64,7 @@ const breadcrumbLd = {
     <div class="article-wrap">
       <nav class="breadcrumb" aria-label="breadcrumb">
         <a href="/">홈</a> <span aria-hidden="true">/</span> <a href={categoryToPath[data.category]}>{data.category}</a>
+        {subcategoryInfo && <Fragment> <span aria-hidden="true">/</span> <a href={subcategoryInfo.path}>{subcategoryInfo.name}</a></Fragment>}
       </nav>
       <article>
         <header class="article-header">
@@ -93,7 +111,7 @@ const breadcrumbLd = {
     <section class="container related-section">
       <div class="section-head">
         <div>
-          <h2>관련 IT 글</h2>
+          <h2>관련 {categoryLabel} 글</h2>
         </div>
       </div>
       <div class="grid">

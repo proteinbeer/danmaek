@@ -1,33 +1,47 @@
 ---
 import BaseLayout from './BaseLayout.astro';
 import PostCard from './PostCard.astro';
-import { CATEGORIES, SITE } from '../consts';
+import { CATEGORIES, IT_SUBCATEGORIES, SITE } from '../consts';
 import {
   categoryListPageUrl,
   getCategoryListPosts,
   LIST_PER_PAGE,
+  subcategoryPath,
   type ListCategory
 } from '../lib/categoryList';
+import { getPostsBySubcategory } from '../lib/posts';
 
-const { category, page } = Astro.props as { category: ListCategory; page: number };
+const { category, page, subcategory, subcategorySlug } = Astro.props as {
+  category: ListCategory;
+  page: number;
+  subcategory?: string;
+  subcategorySlug?: string;
+};
 const categoryMeta = CATEGORIES.find((item) => item.name === category)!;
-const list = getCategoryListPosts(category);
+const list = subcategory ? getPostsBySubcategory(category, subcategory) : getCategoryListPosts(category);
 const totalPages = Math.max(1, Math.ceil(list.length / LIST_PER_PAGE));
 const pagePosts = list.slice((page - 1) * LIST_PER_PAGE, page * LIST_PER_PAGE);
-const canonical = new URL(categoryListPageUrl(category, page), SITE.url).toString();
-const pageTitle = page === 1 ? `${category} | ${SITE.name}` : `${category} ${page}페이지 | ${SITE.name}`;
+const heading = subcategory ?? category;
+const pageDescription = subcategory
+  ? (IT_SUBCATEGORIES.find((item) => item.name === subcategory)?.description ?? '')
+  : categoryMeta.description;
+const canonical = new URL(
+  subcategory && subcategorySlug ? subcategoryPath(category, subcategorySlug) : categoryListPageUrl(category, page),
+  SITE.url
+).toString();
+const pageTitle = page === 1 ? `${heading} | ${SITE.name}` : `${heading} ${page}페이지 | ${SITE.name}`;
 const pageNumbers = Array.from({ length: totalPages }, (_, i) => i + 1);
 ---
-<BaseLayout title={pageTitle} description={categoryMeta.description} canonical={canonical}>
+<BaseLayout title={pageTitle} description={pageDescription} canonical={canonical}>
   <main class="container">
-    <section aria-label={`${category} 글 목록`}>
+    <section aria-label={`${heading} 글 목록`}>
       <div class="section-head">
         <div>
-          <h2>{category}</h2>
-          <p>{categoryMeta.description}</p>
+          <h2>{heading}</h2>
+          <p>{pageDescription}</p>
         </div>
         <div class="section-head__controls">
-          <input id="guide-search" class="home-search-input" type="search" placeholder="검색" aria-label={`${category} 검색`} autocomplete="off" />
+          <input id="guide-search" class="home-search-input" type="search" placeholder="검색" aria-label={`${heading} 검색`} autocomplete="off" />
         </div>
       </div>
       <div class="grid" id="post-grid">

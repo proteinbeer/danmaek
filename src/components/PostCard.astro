@@ -1,9 +1,12 @@
 ---
 import { categoryToPath } from '../consts';
+import { getSubcategoryInfo } from '../lib/categoryList';
 
 const { post } = Astro.props;
 const data = post.data;
-const link = categoryToPath[data.category] ?? '/it/';
+const subcategoryInfo = getSubcategoryInfo(data.category, data.subcategory);
+const link = subcategoryInfo?.path ?? categoryToPath[data.category] ?? '/it/';
+const categoryLabel = subcategoryInfo?.name ?? data.category;
 const todayLabel = new Date().toDateString();
 const yesterday = new Date();
 yesterday.setDate(yesterday.getDate() - 1);
@@ -18,7 +21,7 @@ const showBadge = dateLabel === todayLabel || dateLabel === yesterdayLabel;
     {showBadge && <span class={`new-badge${badgeClass}`}><span class="new-badge__text">NEW</span></span>}
   </a>
   <div class="post-card__meta">
-    <a href={link}>{data.category}</a>
+    <a href={link}>{categoryLabel}</a>
     <span> · </span>
     <time datetime={data.date.toISOString()}>{data.date.toLocaleDateString('ko-KR')}</time>
   </div>

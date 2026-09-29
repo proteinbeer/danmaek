@@ -16,10 +16,15 @@ export const CATEGORIES = [
   }
 ] as const;
 
-export type Subcategory = { name: string; slug: string };
+export type Subcategory = { name: string; slug: string; description?: string };
 export type ToolSubcategory = { name: string; slug: string; categories: string[] };
 
-export const IT_SUBCATEGORIES: Subcategory[] = [];
+export const IT_SUBCATEGORIES: Subcategory[] = [
+  {
+    name: '디스코드',
+    slug: 'discord'
+  }
+];
 export const GAME_SUBCATEGORIES: Subcategory[] = [];
 export const GAME_NAME_TAGS: string[] = [];
 export const COUPON_SUBCATEGORIES: Subcategory[] = [];
